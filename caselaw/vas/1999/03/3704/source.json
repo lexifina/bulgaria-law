@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5429,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1231",
+  "decision_date": "1999-03-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3704%26code%3Dvas%26guid%3D1573954",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3704&code=vas&guid=1573954",
+  "source_text_sha256": "71255aeb05eeed6f373b5afdef53e948cae2a64c818e51b2d0f2521744c8ad25",
+  "source_images": 0
+}
