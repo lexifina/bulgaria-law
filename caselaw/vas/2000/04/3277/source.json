@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5296,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1972",
+  "decision_date": "2000-04-03",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3277%26code%3Dvas%26guid%3D1570020",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3277&code=vas&guid=1570020",
+  "source_text_sha256": "566dbe07ac7ea8d880629ee652dd08ee0337319a783dd31380c60c20ab3d094a",
+  "source_images": 0
+}
