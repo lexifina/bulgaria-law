@@ -1,0 +1,23 @@
+{
+  "id": 100334,
+  "kind": "pravilnik",
+  "gazette": "9/2003",
+  "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса",
+  "reason": "unbalanced_quotes",
+  "detail": "unbalanced_quotes",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100334",
+  "path": "pravilnik/2003/dv009-100334",
+  "in_force": "2003-02-03",
+  "published": "2003-01-31",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-01-31; no own commencement clause in this source text.",
+  "source_sha256": "7ffffe79d9ca201b3c646f4f3d81ca3ccbd1128f9818ca2b17d6ba692c9e4905",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body"
+}
