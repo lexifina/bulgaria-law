@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5382,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "755",
+  "decision_date": "1999-02-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3541%26code%3Dvas%26guid%3D1572804",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3541&code=vas&guid=1572804",
+  "source_text_sha256": "c17929ad2387d621a7d2671a121ce70f7a331210e75a574ea7b4aef5bd6cb849",
+  "source_images": 0
+}
