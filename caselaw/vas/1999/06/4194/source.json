@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5606,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "2907",
+  "decision_date": "1999-06-03",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4194%26code%3Dvas%26guid%3D1598909",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4194&code=vas&guid=1598909",
+  "source_text_sha256": "92405756482d89566f9942582f0f3b17e23132dc76d5260942b5857973b3175f",
+  "source_images": 0
+}
