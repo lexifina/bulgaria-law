@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 1558,
+  "case_year": 2001,
+  "decision_type": "Решение",
+  "decision_number": "5955",
+  "decision_date": "2001-07-20",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D66624%26code%3Dvas%26guid%3D51532562",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=66624&code=vas&guid=51532562",
+  "source_text_sha256": "a18db8abb94385ea81f2a3562fd42b5ce4e51baac4b56d180aecae07ba4a0577",
+  "source_images": 0
+}
