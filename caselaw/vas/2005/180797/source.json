@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4208,
+  "case_year": 2004,
+  "decision_type": "Решение",
+  "decision_number": "199",
+  "decision_date": "2005-01-10",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D180797%26code%3Dvas%26guid%3D1456031089",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=180797&code=vas&guid=1456031089",
+  "source_text_sha256": "d60c69df4a044e529481c7d088364e2077af7b4ff57e46d17e16a16b1244a19d",
+  "source_images": 0
+}
