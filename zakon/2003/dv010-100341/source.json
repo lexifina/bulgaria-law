@@ -1,0 +1,24 @@
+{
+  "id": 100341,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Допълнителния протокол към Европейското споразумение за асоцииране между Европейските общности и техните страни членки, от една страна, и Република България, от друга страна, определящ търговските договорености за риба и рибни продукти",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100341",
+  "path": "zakon/2003/dv010-100341",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "e79ef610e90a03d522654a67eb5cd4e73888ef55f88fa7e4c01749a7461a3f70",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
