@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 10,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1886",
+  "decision_date": "1999-04-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4704%26code%3Dvas%26guid%3D1603745",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4704&code=vas&guid=1603745",
+  "source_text_sha256": "0980780223c7ce134854f0804ea57cddffcd1c5e13fdf815664d35b337629401",
+  "source_images": 0
+}
