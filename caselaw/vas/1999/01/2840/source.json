@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5143,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "177",
+  "decision_date": "1999-01-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2840%26code%3Dvas%26guid%3D1545895",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2840&code=vas&guid=1545895",
+  "source_text_sha256": "edff78ff99795a2e4065cd6dab548ae2a034539985003c944e628003140709db",
+  "source_images": 0
+}
