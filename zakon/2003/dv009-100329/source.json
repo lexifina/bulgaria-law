@@ -1,0 +1,24 @@
+{
+  "id": 100329,
+  "kind": "zakon",
+  "gazette": "9/2003",
+  "title": "Закон за изменение и допълнение на Закона за \"Държавен вестник\"",
+  "reason": "no_provisions",
+  "detail": "no_provisions",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100329",
+  "path": "zakon/2003/dv009-100329",
+  "in_force": "2003-02-03",
+  "published": "2003-01-31",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-01-31; no own commencement clause in this source text.",
+  "source_sha256": "b89f17780a40ea4df75a09f2035032db4802db4d8bdce5d4df27528d99b7e5c9",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
