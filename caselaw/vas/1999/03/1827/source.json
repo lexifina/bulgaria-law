@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4803,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1395",
+  "decision_date": "1999-03-24",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1827%26code%3Dvas%26guid%3D1515398",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1827&code=vas&guid=1515398",
+  "source_text_sha256": "fb9e1542f5e6c34beee4bdfa4f6830e5dd75883a3cfaac754771bcc8e45644a9",
+  "source_images": 0
+}
