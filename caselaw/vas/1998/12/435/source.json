@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4253,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6288",
+  "decision_date": "1998-12-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D435%26code%3Dvas%26guid%3D52475",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=435&code=vas&guid=52475",
+  "source_text_sha256": "96a52209e904854d5d2a8e069a16872a4e6f9ff8b39c71ca62f107d7145d821e",
+  "source_images": 0
+}
