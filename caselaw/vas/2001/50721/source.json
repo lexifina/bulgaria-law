@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6271,
+  "case_year": 2000,
+  "decision_type": "Решение",
+  "decision_number": "3802",
+  "decision_date": "2001-06-01",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D50721%26code%3Dvas%26guid%3D50431253",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=50721&code=vas&guid=50431253",
+  "source_text_sha256": "72ea57c9d805b23c7f75248a4823059a57ca13ca19223b66b2a800eacfe0a171",
+  "source_images": 0
+}
