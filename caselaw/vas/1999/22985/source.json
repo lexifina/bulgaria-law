@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5820,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "6882",
+  "decision_date": "1999-12-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D22985%26code%3Dvas%26guid%3D47743216",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=22985&code=vas&guid=47743216",
+  "source_text_sha256": "9a6464ff96d65f5df8af18382db3825cd7a050595348711c592bf8aa986e8059",
+  "source_images": 0
+}
