@@ -1,0 +1,24 @@
+{
+  "id": 101531,
+  "kind": "zakon",
+  "gazette": "13/2003",
+  "title": "Закон за ратифициране на Споразумение № 1 за изменение на финансовия договор между Република България, Европейската инвестиционна банка и \"Летище София\" - ЕАД, за финансиране на проекта за реконструкция и разширение на летище София",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101531",
+  "path": "zakon/2003/dv013-101531",
+  "in_force": "2003-02-14",
+  "published": "2003-02-11",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-11; no own commencement clause in this source text.",
+  "source_sha256": "aef9b6e932cdd85240eadf1c7e2ba598af7b085199b8e3fd5b625e7733dd9cd7",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
