@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5540,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "962",
+  "decision_date": "1999-03-04",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4009%26code%3Dvas%26guid%3D1597044",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4009&code=vas&guid=1597044",
+  "source_text_sha256": "261f47d7d74381548cbd58cce842b187d3788fefac0289d2ce8c6a27b72ad47a",
+  "source_images": 0
+}
