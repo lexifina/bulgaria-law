@@ -1,0 +1,24 @@
+{
+  "id": 100338,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Спогодбата между правителството на Република България и Международната организация на Франкофонията относно функционирането на Франкофонския институт по администрация и управление (фИАУ) в София и на Допълнителна договореност № 1 към спогодбата",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100338",
+  "path": "zakon/2003/dv010-100338",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "66fc6922309389b53ccde8935bd3d1f2cbeeaf9684008900e819c9be0f0a5033",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
