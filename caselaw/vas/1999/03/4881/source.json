@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 74,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1198",
+  "decision_date": "1999-03-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4881%26code%3Dvas%26guid%3D1605602",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4881&code=vas&guid=1605602",
+  "source_text_sha256": "27c9adaa11af919a5519378f553185614b301e2a32dd2edd4b624f0ec199da55",
+  "source_images": 0
+}
