@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 846,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "1742",
+  "decision_date": "1999-04-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D7278%26code%3Dvas%26guid%3D1689185",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=7278&code=vas&guid=1689185",
+  "source_text_sha256": "2485408f543276bc36c09dbe884d7bccf72dee104b49f1f942ce4087a3e55071",
+  "source_images": 0
+}
