@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4364,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "42",
+  "decision_date": "1999-01-20",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D710%26code%3Dvas%26guid%3D54640",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=710&code=vas&guid=54640",
+  "source_text_sha256": "0758e82fe326d3f17e396bfd7ace3c7053070469a06ae4b8ac943128c773a8ed",
+  "source_images": 0
+}
