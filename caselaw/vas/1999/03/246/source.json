@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4191,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1008",
+  "decision_date": "1999-03-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D246%26code%3Dvas%26guid%3D50585",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=246&code=vas&guid=50585",
+  "source_text_sha256": "c1b9d6283915b877e094d37ff0a89247b89e092d27757e76b7e2010cce6634f4",
+  "source_images": 0
+}
