@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 2846,
+  "case_year": 2002,
+  "decision_type": "Решение",
+  "decision_number": "8902",
+  "decision_date": "2002-10-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D105228%26code%3Dvas%26guid%3D1448786204",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=105228&code=vas&guid=1448786204",
+  "source_text_sha256": "dba6587a38ac7f1ccc87872a47aaef12f2d3bb8f1d21f21cea3cc5382e353905",
+  "source_images": 0
+}
