@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 188,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "555",
+  "decision_date": "1999-02-12",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5199%26code%3Dvas%26guid%3D1628726",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5199&code=vas&guid=1628726",
+  "source_text_sha256": "0b4c9de838689d0acb4e65cb3daa3c329cb9159e7cce8c595171a23d8c56a883",
+  "source_images": 0
+}
