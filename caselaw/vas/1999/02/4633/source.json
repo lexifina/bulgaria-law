@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5749,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "433",
+  "decision_date": "1999-02-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4633%26code%3Dvas%26guid%3D1603527",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4633&code=vas&guid=1603527",
+  "source_text_sha256": "0eee85cc449413192585372046ebd0b44b3960e4b009dd5c5926230db019c7ed",
+  "source_images": 0
+}
