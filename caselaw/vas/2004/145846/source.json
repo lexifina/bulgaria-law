@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4387,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "9759",
+  "decision_date": "2004-11-24",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D145846%26code%3Dvas%26guid%3D1452486765",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=145846&code=vas&guid=1452486765",
+  "source_text_sha256": "6b949f2448372cec3823ef7d9562de3cf4421477b7bb74e4734e5d2d07b57e3b",
+  "source_images": 0
+}
