@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5043,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "672",
+  "decision_date": "1999-02-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2537%26code%3Dvas%26guid%3D1542988",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2537&code=vas&guid=1542988",
+  "source_text_sha256": "6c19a306fe911a20956e2af77948652037915c516f0cfb36304863623dc72614",
+  "source_images": 0
+}
