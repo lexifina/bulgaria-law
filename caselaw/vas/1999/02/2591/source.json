@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5063,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "520",
+  "decision_date": "1999-02-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2591%26code%3Dvas%26guid%3D1543168",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2591&code=vas&guid=1543168",
+  "source_text_sha256": "5f34b6a339208d1ae1fb1ddc76fc1f7885355df5752ddc6c0621dfb333a02c86",
+  "source_images": 0
+}
