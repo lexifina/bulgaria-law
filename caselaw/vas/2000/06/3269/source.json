@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5293,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "3798",
+  "decision_date": "2000-06-13",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3269%26code%3Dvas%26guid%3D1570012",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3269&code=vas&guid=1570012",
+  "source_text_sha256": "02ff211d56ffa604102c320c37215673121027391641bf7219cdfa72a5909580",
+  "source_images": 0
+}
