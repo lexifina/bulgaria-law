@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5335,
+  "case_year": 2002,
+  "decision_type": "Решение",
+  "decision_number": "5378",
+  "decision_date": "2003-05-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D113043%26code%3Dvas%26guid%3D1449648929",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=113043&code=vas&guid=1449648929",
+  "source_text_sha256": "b3d2e0cc269fbbf7e9f5bc7a7aa3149566c27b5c6058ed92acc36ef91b830c67",
+  "source_images": 0
+}
