@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4926,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6278",
+  "decision_date": "1998-12-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2186%26code%3Dvas%26guid%3D1539298",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2186&code=vas&guid=1539298",
+  "source_text_sha256": "e1660cd89898139910dd965ca2b7f5019d27af6050e1bcbce739c55c69f9725d",
+  "source_images": 0
+}
