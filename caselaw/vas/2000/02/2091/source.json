@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4890,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "605",
+  "decision_date": "2000-02-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2091%26code%3Dvas%26guid%3D1538363",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2091&code=vas&guid=1538363",
+  "source_text_sha256": "027c4a876772355df867727afca47757bcbb608bb87b59d0fc5202055dd8bd96",
+  "source_images": 0
+}
