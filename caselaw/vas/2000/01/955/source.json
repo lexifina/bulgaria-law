@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4470,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "18",
+  "decision_date": "2000-01-10",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D955%26code%3Dvas%26guid%3D1507491",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=955&code=vas&guid=1507491",
+  "source_text_sha256": "c89e138ac6724482848eed2171882452ade9e9bb94d06becd0120f184276912a",
+  "source_images": 0
+}
