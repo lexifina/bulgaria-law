@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5716,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "417",
+  "decision_date": "1999-02-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4527%26code%3Dvas%26guid%3D1601888",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4527&code=vas&guid=1601888",
+  "source_text_sha256": "85ef2b25ac65497d5d406349a0d264158e588bd5498c2cbbbc2d1a079da66ef8",
+  "source_images": 0
+}
