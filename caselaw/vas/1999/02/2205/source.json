@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4934,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "775",
+  "decision_date": "1999-02-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2205%26code%3Dvas%26guid%3D1539359",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2205&code=vas&guid=1539359",
+  "source_text_sha256": "f2deab76761cba49067f50b2a790a39ea2465fae0acbe6af3869205c1a5d0984",
+  "source_images": 0
+}
