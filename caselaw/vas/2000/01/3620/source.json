@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5408,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "376",
+  "decision_date": "2000-01-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3620%26code%3Dvas%26guid%3D1573051",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3620&code=vas&guid=1573051",
+  "source_text_sha256": "8971a155e530a21093a8334b0f55bd3fd2a3d6ae48a45562b76e093777c289cb",
+  "source_images": 0
+}
