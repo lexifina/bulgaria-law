@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4159,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "5849",
+  "decision_date": "1998-12-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D160%26code%3Dvas%26guid%3D49680",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=160&code=vas&guid=49680",
+  "source_text_sha256": "e964249ce6103c7af5815013c63c447702c6b47f40770803d2e02cd38f287f65",
+  "source_images": 0
+}
