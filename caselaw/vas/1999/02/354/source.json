@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4226,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "781",
+  "decision_date": "1999-02-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D354%26code%3Dvas%26guid%3D51575",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=354&code=vas&guid=51575",
+  "source_text_sha256": "20b7fcc65a714097253ac9e1e6baec8405b9c8949a6eeed5d2423fc7f1e76720",
+  "source_images": 0
+}
