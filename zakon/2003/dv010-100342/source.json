@@ -1,0 +1,24 @@
+{
+  "id": 100342,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Меморандума за разбирателство между Европейската общност и Република България за участие на Република България в програмата на Общността \"Програма за действие на Европейската общност за борба с дискриминацията\"",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100342",
+  "path": "zakon/2003/dv010-100342",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "d71f795bf6e825ea73a5d5ba55b556a71e14cf61c8a10445d224a57b8f3c2cfe",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
