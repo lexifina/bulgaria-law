@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5751,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "906",
+  "decision_date": "1999-03-01",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4639%26code%3Dvas%26guid%3D1603554",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4639&code=vas&guid=1603554",
+  "source_text_sha256": "0fd826a0087f7452026a574b4753d14b900df53e09cb2ce2004a86bef43a9943",
+  "source_images": 0
+}
