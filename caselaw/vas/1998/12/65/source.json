@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4117,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6038",
+  "decision_date": "1998-12-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D65%26code%3Dvas%26guid%3D48724",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=65&code=vas&guid=48724",
+  "source_text_sha256": "84ef211b0ac861d46faedc7b70a807391a2ea8a9e8704ba2e145b4fb1433ef4e",
+  "source_images": 0
+}
