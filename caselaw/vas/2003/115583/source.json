@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6163,
+  "case_year": 2002,
+  "decision_type": "Решение",
+  "decision_number": "2069",
+  "decision_date": "2003-03-07",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D115583%26code%3Dvas%26guid%3D1449713440",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=115583&code=vas&guid=1449713440",
+  "source_text_sha256": "311cdbcbf4e2280712eebb86e41256c90cfa20fe8382c35bca893a982b64e26d",
+  "source_images": 0
+}
