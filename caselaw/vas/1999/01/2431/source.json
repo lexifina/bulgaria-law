@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5008,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "245",
+  "decision_date": "1999-01-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2431%26code%3Dvas%26guid%3D1542021",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2431&code=vas&guid=1542021",
+  "source_text_sha256": "1d526c4a0fa8f6af1ecbde54602702632c0888f9465f99c41354378d9f453b8b",
+  "source_images": 0
+}
