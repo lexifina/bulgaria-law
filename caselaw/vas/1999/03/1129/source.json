@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4541,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "895",
+  "decision_date": "1999-03-01",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1129%26code%3Dvas%26guid%3D1509345",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1129&code=vas&guid=1509345",
+  "source_text_sha256": "cba1b83828643efd39df818f7daeab7e00fac2512d56b2169305fda96598842b",
+  "source_images": 0
+}
