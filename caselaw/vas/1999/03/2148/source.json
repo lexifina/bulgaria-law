@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4916,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1443",
+  "decision_date": "1999-03-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2148%26code%3Dvas%26guid%3D1539176",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2148&code=vas&guid=1539176",
+  "source_text_sha256": "c2d71681030f8bd0b030d9ab36bf199f51c8eff8705aef6ed5d46e8c58137be3",
+  "source_images": 0
+}
