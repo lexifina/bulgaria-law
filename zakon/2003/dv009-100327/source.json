@@ -1,0 +1,24 @@
+{
+  "id": 100327,
+  "kind": "zakon",
+  "gazette": "9/2003",
+  "title": "Закон за държавните резерви и военновременните запаси",
+  "reason": "no_provisions",
+  "detail": "no_provisions",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100327",
+  "path": "zakon/2003/dv009-100327",
+  "in_force": "2003-02-03",
+  "published": "2003-01-31",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-01-31; no own commencement clause in this source text.",
+  "source_sha256": "5edbb52c6b7510ef9a1e891864400c9bf6fc8ba39f78785b6e9267da1bd0292b",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
