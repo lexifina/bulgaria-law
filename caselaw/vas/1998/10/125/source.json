@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4142,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "4706",
+  "decision_date": "1998-10-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D125%26code%3Dvas%26guid%3D48910",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=125&code=vas&guid=48910",
+  "source_text_sha256": "60c6fd8747a71b3f6a12a45cac9b24f1b88dcd6bee179f86a029fc3dcb79b481",
+  "source_images": 0
+}
