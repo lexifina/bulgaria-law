@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4256,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1774",
+  "decision_date": "1999-04-13",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D442%26code%3Dvas%26guid%3D52503",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=442&code=vas&guid=52503",
+  "source_text_sha256": "3583ada97f96922ad2d43fa0d6407a62458986d970f2891cd36796ffb2f54939",
+  "source_images": 0
+}
