@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4376,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "5802",
+  "decision_date": "1998-12-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D739%26code%3Dvas%26guid%3D55383",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=739&code=vas&guid=55383",
+  "source_text_sha256": "972f911555310b01210ed5b147248da3c91e6441d0fe3a79d37d910cdb5d57d0",
+  "source_images": 0
+}
