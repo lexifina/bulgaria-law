@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5422,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "172",
+  "decision_date": "1999-01-25",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3686%26code%3Dvas%26guid%3D1573894",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3686&code=vas&guid=1573894",
+  "source_text_sha256": "f7f840fac70fa72c413fcadfc90bb74dc5db48bfa96d3213993499c1852ba4fa",
+  "source_images": 0
+}
