@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7411,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "6347",
+  "decision_date": "2004-07-06",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D155363%26code%3Dvas%26guid%3D1453405540",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=155363&code=vas&guid=1453405540",
+  "source_text_sha256": "e057447d368c532fb34538d2495508edbe82d8e7630f6206b1c209a6203f4c12",
+  "source_images": 0
+}
