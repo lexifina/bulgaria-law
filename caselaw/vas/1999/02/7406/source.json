@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 888,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "821",
+  "decision_date": "1999-02-24",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D7406%26code%3Dvas%26guid%3D1690237",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=7406&code=vas&guid=1690237",
+  "source_text_sha256": "a4768fc715c5b99b145714277e913616a6cd18b1b277975db9f17f02e8be761e",
+  "source_images": 0
+}
