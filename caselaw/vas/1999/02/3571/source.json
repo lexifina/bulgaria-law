@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5392,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "738",
+  "decision_date": "1999-02-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3571%26code%3Dvas%26guid%3D1572897",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3571&code=vas&guid=1572897",
+  "source_text_sha256": "7317cbbbbbae6945e43835b0cb37dac7cf435e97d4cb47881d278f632dbb5cbf",
+  "source_images": 0
+}
