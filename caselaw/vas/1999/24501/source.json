@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6289,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "7102",
+  "decision_date": "1999-12-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D24501%26code%3Dvas%26guid%3D47777870",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=24501&code=vas&guid=47777870",
+  "source_text_sha256": "c2c43a42646c5a8dcfa10ba7a74186d202c173c4d1544834f232564387f5371e",
+  "source_images": 0
+}
