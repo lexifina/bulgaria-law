@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5216,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение по хода на делото",
+  "decision_number": "",
+  "decision_date": "1999-01-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3050%26code%3Dvas%26guid%3D1568029",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3050&code=vas&guid=1568029",
+  "source_text_sha256": "9503613e1e1cfc26d1b3d4b6134989270e9f62bf3d2179952767ef68720a8b8b",
+  "source_images": 0
+}
