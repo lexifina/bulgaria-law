@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4530,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "5358",
+  "decision_date": "1998-12-04",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1094%26code%3Dvas%26guid%3D1508575",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1094&code=vas&guid=1508575",
+  "source_text_sha256": "64a8a2689dac2863cd1ba77ec2404bf68156d1473d6cad29f5e37ae90658e105",
+  "source_images": 0
+}
