@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5437,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1801",
+  "decision_date": "1999-04-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3724%26code%3Dvas%26guid%3D1574016",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3724&code=vas&guid=1574016",
+  "source_text_sha256": "5c741f63e7a0e630c12e9e8f0b87db9c8684c0f09511c44116e65719e0932199",
+  "source_images": 0
+}
