@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5042,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "671",
+  "decision_date": "1999-02-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2534%26code%3Dvas%26guid%3D1542985",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2534&code=vas&guid=1542985",
+  "source_text_sha256": "cf12507d20a7eb2e9efdf847b1cd62f5338f64ff42656879db9bce2ba45c490e",
+  "source_images": 0
+}
