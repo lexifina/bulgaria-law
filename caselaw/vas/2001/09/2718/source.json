@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5107,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "6910",
+  "decision_date": "2001-09-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2718%26code%3Dvas%26guid%3D1544198",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2718&code=vas&guid=1544198",
+  "source_text_sha256": "e5baeff270161ebc73ecd128bb4c24827c8c4dc8807c16462572964592d8230e",
+  "source_images": 0
+}
