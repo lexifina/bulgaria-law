@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4602,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1681",
+  "decision_date": "1999-04-06",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1290%26code%3Dvas%26guid%3D1510493",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1290&code=vas&guid=1510493",
+  "source_text_sha256": "0adfb1b239829229323dadb981dbdc875b08ef44fbd731b999a99e24dfd8230e",
+  "source_images": 0
+}
