@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 298,
+  "case_year": 2004,
+  "decision_type": "Решение",
+  "decision_number": "6466",
+  "decision_date": "2004-07-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D168864%26code%3Dvas%26guid%3D1454423240",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=168864&code=vas&guid=1454423240",
+  "source_text_sha256": "141f437ea74939825d65fadbbbda24ef08ecac9b34e749a533e9513157fe4261",
+  "source_images": 0
+}
