@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5004,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6632",
+  "decision_date": "1998-12-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2423%26code%3Dvas%26guid%3D1541341",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2423&code=vas&guid=1541341",
+  "source_text_sha256": "207a4b2c8e9b1f664be440a29d42d4d64f9b48620669bfbf86436bcbec684819",
+  "source_images": 0
+}
