@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4396,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "6035",
+  "decision_date": "1998-12-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D796%26code%3Dvas%26guid%3D55545",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=796&code=vas&guid=55545",
+  "source_text_sha256": "caef8952b4079a2b7b216c0d74b08eb4526fb9f07eac95b4354296d45e27bc40",
+  "source_images": 0
+}
