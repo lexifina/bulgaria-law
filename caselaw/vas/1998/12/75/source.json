@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4122,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "5752",
+  "decision_date": "1998-12-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D75%26code%3Dvas%26guid%3D48755",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=75&code=vas&guid=48755",
+  "source_text_sha256": "650f6fff8b8a251f14f7c228071f25a91c1f0378dd104a7aa3087ec162ab23a7",
+  "source_images": 0
+}
