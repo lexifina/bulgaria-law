@@ -1,0 +1,24 @@
+{
+  "id": 100339,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Споразумението между Република България и Украйна относно условията и реда за транзитно преминаване през територията на Република България на въоръжени сили на Украйна, участващи в Многонационалните сили за поддържане на мира(КфОР)",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100339",
+  "path": "zakon/2003/dv010-100339",
+  "in_force": "2003-02-04",
+  "published": "2003-02-04",
+  "basis": "Параграф единствен. Законът влиза в сила от деня на обнародването му в \"Държавен вестник\".",
+  "source_sha256": "32466e20a12b2347a1c84a7a3b857473cfcf7769126002d4977c85737df809f3",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
