@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4390,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "2375",
+  "decision_date": "1999-05-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D777%26code%3Dvas%26guid%3D55484",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=777&code=vas&guid=55484",
+  "source_text_sha256": "d86ff7dbff3fd8e2772c8b62d167740f4d25a7c31f54a3ea2769bfb1245aa0d3",
+  "source_images": 0
+}
