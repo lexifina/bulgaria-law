@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4620,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "988",
+  "decision_date": "1999-03-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1339%26code%3Dvas%26guid%3D1511298",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1339&code=vas&guid=1511298",
+  "source_text_sha256": "07f6d293dae63b77f241cc8fd64104b2c7b7d401a60f386e6775eca1bc39749a",
+  "source_images": 0
+}
