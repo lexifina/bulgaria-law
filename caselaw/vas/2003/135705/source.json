@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 1048,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "6134",
+  "decision_date": "2003-06-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D135705%26code%3Dvas%26guid%3D1451561507",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=135705&code=vas&guid=1451561507",
+  "source_text_sha256": "c0bad5fa089dd1d150260c9f6f9062284c54d00dba3ffbdb9e2c374834b5827a",
+  "source_images": 0
+}
