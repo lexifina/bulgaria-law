@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4260,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "4863",
+  "decision_date": "1998-11-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D450%26code%3Dvas%26guid%3D52532",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=450&code=vas&guid=52532",
+  "source_text_sha256": "eee96cdccffc3b911ad12a6b49bdb0fb8d3911638f70571deaabc6c905b30be3",
+  "source_images": 0
+}
