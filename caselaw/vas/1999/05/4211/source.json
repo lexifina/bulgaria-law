@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5613,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "2629",
+  "decision_date": "1999-05-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4211%26code%3Dvas%26guid%3D1598968",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4211&code=vas&guid=1598968",
+  "source_text_sha256": "87d44decacaa28c916c787ab456f9f1798a5ee778ed152173c8fd4bff9ad7369",
+  "source_images": 0
+}
