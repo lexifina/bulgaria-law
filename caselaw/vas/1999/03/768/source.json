@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4387,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "918",
+  "decision_date": "1999-03-02",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D768%26code%3Dvas%26guid%3D55454",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=768&code=vas&guid=55454",
+  "source_text_sha256": "36d4087266a42ee8961585a8e2c18504092bb476e6209451e8975a4e23de4f21",
+  "source_images": 0
+}
