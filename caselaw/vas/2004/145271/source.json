@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4210,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "2633",
+  "decision_date": "2004-03-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D145271%26code%3Dvas%26guid%3D1452481087",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=145271&code=vas&guid=1452481087",
+  "source_text_sha256": "4de83a20e2e0f99473680fa8f59be5ac113dc75bece67dbb07c618e3611bdb43",
+  "source_images": 0
+}
