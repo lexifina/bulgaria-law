@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4484,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "4992",
+  "decision_date": "1999-10-01",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D981%26code%3Dvas%26guid%3D1507580",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=981&code=vas&guid=1507580",
+  "source_text_sha256": "52803892e73dabe8880b4469b1980e589953c8c8b9a0d96657fa1146a0e64446",
+  "source_images": 0
+}
