@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4445,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "611",
+  "decision_date": "1999-02-15",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D893%26code%3Dvas%26guid%3D56503",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=893&code=vas&guid=56503",
+  "source_text_sha256": "8e0445c38be0218839d70f58704f4e873bd7d7e7358ca13d7b13a695031c5ee2",
+  "source_images": 0
+}
