@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4123,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "6053",
+  "decision_date": "1998-12-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D78%26code%3Dvas%26guid%3D48758",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=78&code=vas&guid=48758",
+  "source_text_sha256": "6ffeee80e6c9054c03e33e82b85803c01d81b3b423b651119684a0717129896c",
+  "source_images": 0
+}
