@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4283,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1434",
+  "decision_date": "1999-03-25",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D509%26code%3Dvas%26guid%3D52717",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=509&code=vas&guid=52717",
+  "source_text_sha256": "12b6cf9810be25ef0644569c2489bc973e09761deb70976faeb461e0248ec912",
+  "source_images": 0
+}
