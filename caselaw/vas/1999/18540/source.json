@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4420,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "5607",
+  "decision_date": "1999-10-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D18540%26code%3Dvas%26guid%3D46974287",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=18540&code=vas&guid=46974287",
+  "source_text_sha256": "6868140604e8d8591edff8558a1cc58f8d7a5975a3ce61c0262fdc4390ec2239",
+  "source_images": 0
+}
