@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7401,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "1112",
+  "decision_date": "2004-02-10",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D155336%26code%3Dvas%26guid%3D1453405450",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=155336&code=vas&guid=1453405450",
+  "source_text_sha256": "7a1c086660a17ce2ca3b9aceff692ea7200301ee7b3342bba167f59279bbb7f6",
+  "source_images": 0
+}
