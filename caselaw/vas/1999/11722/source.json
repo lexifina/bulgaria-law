@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 2241,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "2940",
+  "decision_date": "1999-06-04",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D11722%26code%3Dvas%26guid%3D46766961",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=11722&code=vas&guid=46766961",
+  "source_text_sha256": "acd78eadf81141590f010650bdd7f89cdb1ec0734d5e5e9af61d341a5a63061d",
+  "source_images": 0
+}
