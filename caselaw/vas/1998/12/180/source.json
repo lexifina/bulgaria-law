@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4168,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "5792",
+  "decision_date": "1998-12-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D180%26code%3Dvas%26guid%3D49742",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=180&code=vas&guid=49742",
+  "source_text_sha256": "9fa3aadd0680c18456d8a3a9740a24214bddc63b57a7c5bd78983d1ee4c11ce5",
+  "source_images": 0
+}
