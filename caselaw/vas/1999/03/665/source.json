@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4346,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1520",
+  "decision_date": "1999-03-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D665%26code%3Dvas%26guid%3D54490",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=665&code=vas&guid=54490",
+  "source_text_sha256": "02a27698407edf3fe6888c7f27ae7b68db60a6f03d230062d6417ae3266315b4",
+  "source_images": 0
+}
