@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4975,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6540",
+  "decision_date": "1998-12-29",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2330%26code%3Dvas%26guid%3D1541059",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2330&code=vas&guid=1541059",
+  "source_text_sha256": "8eec788c37d0f0acb6d838cc50d0a9bc3c5c21621ad9139d45742a6d834712a3",
+  "source_images": 0
+}
