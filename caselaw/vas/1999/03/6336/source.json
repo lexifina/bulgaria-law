@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 567,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1080",
+  "decision_date": "1999-03-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D6336%26code%3Dvas%26guid%3D1660229",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=6336&code=vas&guid=1660229",
+  "source_text_sha256": "310b737ef6b68a61636dd52c77217813dd2368a0aae17eca5a1e52d3b8fc2981",
+  "source_images": 0
+}
