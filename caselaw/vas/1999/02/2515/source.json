@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5036,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "589",
+  "decision_date": "1999-02-15",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2515%26code%3Dvas%26guid%3D1542273",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2515&code=vas&guid=1542273",
+  "source_text_sha256": "1da0bbb5bdf4754742bbbe2bda59b3b1f8d7fcfe02f05addbc66708b195dae90",
+  "source_images": 0
+}
