@@ -1,0 +1,23 @@
+{
+  "id": 100335,
+  "kind": "pravilnik",
+  "gazette": "9/2003",
+  "title": "Правилник за дейността на Комисията за защита на личните данни и нейната администрация",
+  "reason": "unbalanced_quotes",
+  "detail": "unbalanced_quotes",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100335",
+  "path": "pravilnik/2003/dv009-100335",
+  "in_force": "2003-02-03",
+  "published": "2003-01-31",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-01-31; no own commencement clause in this source text.",
+  "source_sha256": "6a0a5c8c8f5428b9f1767660c0b24278bd4502864d387802fe3b571607b1121d",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body"
+}
