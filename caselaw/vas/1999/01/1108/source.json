@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4535,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "206",
+  "decision_date": "1999-01-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1108%26code%3Dvas%26guid%3D1508610",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1108&code=vas&guid=1508610",
+  "source_text_sha256": "70c95e50fb8e7bea136697af69249870cce288784cb2eb9344a966235b44b748",
+  "source_images": 0
+}
