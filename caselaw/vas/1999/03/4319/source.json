@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5651,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1344",
+  "decision_date": "1999-03-23",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4319%26code%3Dvas%26guid%3D1599958",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4319&code=vas&guid=1599958",
+  "source_text_sha256": "860c58f43b4bcce876577a2e7d4512bab54dbf581dc04077c849c13ee39e863d",
+  "source_images": 0
+}
