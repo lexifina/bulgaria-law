@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 2335,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "5745",
+  "decision_date": "1998-12-07",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D16%26code%3Dvas%26guid%3D1791",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=16&code=vas&guid=1791",
+  "source_text_sha256": "ca7b1ea2afa72a628517a1e6301e8132b7b13ea9edadff1deed5c3ff85a1d210",
+  "source_images": 0
+}
