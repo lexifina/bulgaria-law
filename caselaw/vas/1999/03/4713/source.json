@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение по хода на делото",
+  "decision_number": "",
+  "decision_date": "1999-03-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4713%26code%3Dvas%26guid%3D1603775",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4713&code=vas&guid=1603775",
+  "source_text_sha256": "1f21ff84adfce00656a6da8fb299d94d36188b393d196563ca8d9c5ad37a3b71",
+  "source_images": 0
+}
