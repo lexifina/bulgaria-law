@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4506,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6003",
+  "decision_date": "1999-11-15",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D18820%26code%3Dvas%26guid%3D46976457",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=18820&code=vas&guid=46976457",
+  "source_text_sha256": "dc314f1c40d6e34b9ef26e023bda224b6923af3b769c6b7c0604af6d0370f7d7",
+  "source_images": 0
+}
