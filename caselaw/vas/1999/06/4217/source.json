@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5616,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "2911",
+  "decision_date": "1999-06-03",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4217%26code%3Dvas%26guid%3D1598974",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4217&code=vas&guid=1598974",
+  "source_text_sha256": "6a26ce43544157fd00dbfd672d6088ed441105b6f5f55b55bc2f628e75794bf7",
+  "source_images": 0
+}
