@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4615,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "690",
+  "decision_date": "1999-02-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1326%26code%3Dvas%26guid%3D1510592",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1326&code=vas&guid=1510592",
+  "source_text_sha256": "ab24fe0a14a3f3b615724f1d14d36711756d02ae0805f74743b9856f79f2e95f",
+  "source_images": 0
+}
