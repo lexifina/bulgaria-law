@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4305,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6410",
+  "decision_date": "1998-12-21",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D562%26code%3Dvas%26guid%3D53526",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=562&code=vas&guid=53526",
+  "source_text_sha256": "03d87f39632f0c9a1f4c4ba520b38e870f398cd3b9bd9a3190e1857ea660c86a",
+  "source_images": 0
+}
