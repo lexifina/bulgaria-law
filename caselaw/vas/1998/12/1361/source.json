@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4629,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "6327",
+  "decision_date": "1998-12-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1361%26code%3Dvas%26guid%3D1511362",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1361&code=vas&guid=1511362",
+  "source_text_sha256": "918417b23af069fec41d0f4db699550226a29943b1acb685cb74210820898d5e",
+  "source_images": 0
+}
