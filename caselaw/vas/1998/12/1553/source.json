@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4696,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "5439",
+  "decision_date": "1998-12-07",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1553%26code%3Dvas%26guid%3D1513255",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1553&code=vas&guid=1513255",
+  "source_text_sha256": "363020a9b98826e6b9ca8a4483f4abb3a5420a6859bd59acb1574f223316998c",
+  "source_images": 0
+}
