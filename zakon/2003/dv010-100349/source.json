@@ -1,0 +1,24 @@
+{
+  "id": 100349,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Споразумението за свободна търговия между Република България и Република Латвия",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100349",
+  "path": "zakon/2003/dv010-100349",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "67988c21e5016d89cd2b383e53f841b2a7681eb03c142ad644ec05a027c7300a",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
