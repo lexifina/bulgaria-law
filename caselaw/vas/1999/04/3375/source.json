@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5328,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1621",
+  "decision_date": "1999-04-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3375%26code%3Dvas%26guid%3D1570979",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3375&code=vas&guid=1570979",
+  "source_text_sha256": "be766febc7dbc81073e9c4193ce315ea7a31606e2c0d5761132e9c5740f74a71",
+  "source_images": 0
+}
