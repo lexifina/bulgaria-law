@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 344,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "369",
+  "decision_date": "1999-02-04",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5662%26code%3Dvas%26guid%3D1633410",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5662&code=vas&guid=1633410",
+  "source_text_sha256": "96d5c171cffd6d0694e9dd8ac4d2a536e01a1a8ea83dcabcc80955cc08bd48ac",
+  "source_images": 0
+}
