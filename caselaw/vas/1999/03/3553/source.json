@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5386,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1258",
+  "decision_date": "1999-03-18",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3553%26code%3Dvas%26guid%3D1572837",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3553&code=vas&guid=1572837",
+  "source_text_sha256": "1066bf9166af7676f4a0681fd0eaf7feb8ea61697d6c84baead938cdcfc2c366",
+  "source_images": 0
+}
