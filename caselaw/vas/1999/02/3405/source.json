@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5338,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "443",
+  "decision_date": "1999-02-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3405%26code%3Dvas%26guid%3D1571072",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3405&code=vas&guid=1571072",
+  "source_text_sha256": "f12da84f8ecc52161ecc050ae05f7a21a8110cf55ca19eb3faef6a6b04f6bb0b",
+  "source_images": 0
+}
