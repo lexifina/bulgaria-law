@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 44,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "210",
+  "decision_date": "1999-01-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4791%26code%3Dvas%26guid%3D1604672",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4791&code=vas&guid=1604672",
+  "source_text_sha256": "28270bdef9a8672b801258e04a4ffbab5111efe460ab64a46f2351b722913747",
+  "source_images": 0
+}
