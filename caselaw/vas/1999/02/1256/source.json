@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4590,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "335",
+  "decision_date": "1999-02-02",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1256%26code%3Dvas%26guid%3D1510375",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1256&code=vas&guid=1510375",
+  "source_text_sha256": "56aa20a48058a56aa0cdc24feb391f77ca80892e63d78d2f0379725849cad3e2",
+  "source_images": 0
+}
