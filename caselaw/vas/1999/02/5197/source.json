@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 187,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "758",
+  "decision_date": "1999-02-22",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5197%26code%3Dvas%26guid%3D1628703",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5197&code=vas&guid=1628703",
+  "source_text_sha256": "e57c83f31db585a1acbd478a7d6b97e164c97ac3249026257ad281a7b25389ea",
+  "source_images": 0
+}
