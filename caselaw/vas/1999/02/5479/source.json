@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 276,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "337",
+  "decision_date": "1999-02-03",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5479%26code%3Dvas%26guid%3D1631547",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5479&code=vas&guid=1631547",
+  "source_text_sha256": "252588fd00de68313d76ad5179c81ced6390d29e0271e3a3ebfa18d7f72a11d6",
+  "source_images": 0
+}
