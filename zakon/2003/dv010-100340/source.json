@@ -1,0 +1,24 @@
+{
+  "id": 100340,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране измененията на чл. 1 от Конвенцията за забрани или ограничения върху използването на определени конвенционални оръжия, които може да се смятат за прекомерно нараняващи или за имащи неизбирателно действие",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100340",
+  "path": "zakon/2003/dv010-100340",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "e2b9b05839c115e2989d0d7da346ba5c632730bc72039097bc6c85848cf8c651",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
