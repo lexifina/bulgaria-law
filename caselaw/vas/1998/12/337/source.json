@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4224,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "6145",
+  "decision_date": "1998-12-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D337%26code%3Dvas%26guid%3D51516",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=337&code=vas&guid=51516",
+  "source_text_sha256": "d63d97cf62b2dd3478f3616358d50060f6a80f4a3ef1f3ee8fc0bc3c7ae40d6b",
+  "source_images": 0
+}
