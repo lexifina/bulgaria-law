@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5102,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "889",
+  "decision_date": "1999-02-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2700%26code%3Dvas%26guid%3D1544159",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2700&code=vas&guid=1544159",
+  "source_text_sha256": "b7bd6db55282e47b3442f38fb56e4ec72a0f2ec7c3e90af0472d5307ee6e670b",
+  "source_images": 0
+}
