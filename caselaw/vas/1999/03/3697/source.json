@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5426,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1242",
+  "decision_date": "1999-03-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3697%26code%3Dvas%26guid%3D1573926",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3697&code=vas&guid=1573926",
+  "source_text_sha256": "26bd8beeccaa387a0296a6f1b7a71f7a68ce971e52d45d636bbe0419f0d5faa3",
+  "source_images": 0
+}
