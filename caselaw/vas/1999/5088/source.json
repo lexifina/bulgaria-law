@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 147,
+  "case_year": 1999,
+  "decision_type": "Решение",
+  "decision_number": "553",
+  "decision_date": "1999-02-12",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5088%26code%3Dvas%26guid%3D1627712",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5088&code=vas&guid=1627712",
+  "source_text_sha256": "d1c0912c6ddd75a398cd81a4cbf8ebb6ddd02f5e801f0c3eac4a809e4ca3093c",
+  "source_images": 0
+}
