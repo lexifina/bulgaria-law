@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4787,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "6012",
+  "decision_date": "1998-12-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1785%26code%3Dvas%26guid%3D1515272",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1785&code=vas&guid=1515272",
+  "source_text_sha256": "7bb8005cd5d70966104fbe5e0023f5d6606758b053350c5a7683448ab94f07eb",
+  "source_images": 0
+}
