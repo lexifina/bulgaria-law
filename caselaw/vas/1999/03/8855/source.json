@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 1315,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "992",
+  "decision_date": "1999-03-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D8855%26code%3Dvas%26guid%3D1724677",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=8855&code=vas&guid=1724677",
+  "source_text_sha256": "f2ab00f0104a7d8a67edfbfc711bde1b44212fe8e020b2247896c41e7d1e1628",
+  "source_images": 0
+}
