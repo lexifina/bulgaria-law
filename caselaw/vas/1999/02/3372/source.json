@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5327,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "702",
+  "decision_date": "1999-02-18",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D3372%26code%3Dvas%26guid%3D1570976",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=3372&code=vas&guid=1570976",
+  "source_text_sha256": "5f8212855dd0c8e57b18bd7b5826048e80361670a2cb4b23b67fa1a16f7393b9",
+  "source_images": 0
+}
