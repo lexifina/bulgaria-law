@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1466",
+  "decision_date": "1999-03-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4714%26code%3Dvas%26guid%3D1603776",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4714&code=vas&guid=1603776",
+  "source_text_sha256": "6993b55cc2ec322dd58854b604f933594501c8835c71110095836f5c1cd988fd",
+  "source_images": 0
+}
