@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 3843,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "9522",
+  "decision_date": "2003-10-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D144148%26code%3Dvas%26guid%3D1452450249",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=144148&code=vas&guid=1452450249",
+  "source_text_sha256": "f92ca928bd28e989d5d82b1c4d77129962783c4b7244da37e63d3643b01d9eaf",
+  "source_images": 0
+}
