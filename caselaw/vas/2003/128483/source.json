@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 10244,
+  "case_year": 2002,
+  "decision_type": "Решение",
+  "decision_number": "5981",
+  "decision_date": "2003-06-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D128483%26code%3Dvas%26guid%3D1450725373",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=128483&code=vas&guid=1450725373",
+  "source_text_sha256": "a599b17374c2835cf58e42384312f1bb8e89c2a6e14c46a2b136431ae7abd564",
+  "source_images": 0
+}
