@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 15,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "4742",
+  "decision_date": "1999-09-15",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4720%26code%3Dvas%26guid%3D1603803",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4720&code=vas&guid=1603803",
+  "source_text_sha256": "a55021a1f866e5c9dafac3457c71908dae7d1c0433d4603affc04522a4f5098b",
+  "source_images": 0
+}
