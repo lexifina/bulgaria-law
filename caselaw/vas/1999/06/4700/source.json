@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 9,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "2868",
+  "decision_date": "1999-06-03",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4700%26code%3Dvas%26guid%3D1603741",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4700&code=vas&guid=1603741",
+  "source_text_sha256": "dda16c7f0a473b0203851c3ecb63e9b5e0dbdf2d764ec69292f838a5f582d11e",
+  "source_images": 0
+}
