@@ -1,0 +1,24 @@
+{
+  "id": 100347,
+  "kind": "zakon",
+  "gazette": "10/2003",
+  "title": "Закон за ратифициране на Конвенция № 179 на Международната организация на труда, отнасяща се за набирането и назначаването на моряци",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100347",
+  "path": "zakon/2003/dv010-100347",
+  "in_force": "2003-02-07",
+  "published": "2003-02-04",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-04; no own commencement clause in this source text.",
+  "source_sha256": "9398b6f62ccaaa1d8472861d63360d3e1557f05b7189e8446f47779e02c66557",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body",
+  "excluded_front_matter": "Separate presidential promulgation decree before the law title; source words of the law are unchanged."
+}
