@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4735,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1134",
+  "decision_date": "1999-03-12",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1651%26code%3Dvas%26guid%3D1514214",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1651&code=vas&guid=1514214",
+  "source_text_sha256": "a42c12bded428e486c7d691ade0c811c1bada22efece88b5b9a7a2f404562ec9",
+  "source_images": 0
+}
