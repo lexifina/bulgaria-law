@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5050,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "1107",
+  "decision_date": "1999-03-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2557%26code%3Dvas%26guid%3D1543050",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2557&code=vas&guid=1543050",
+  "source_text_sha256": "186c31d2dc403a9590c50c5e6e745617d887266edf4f79e1f7bba16fe48fa989",
+  "source_images": 0
+}
