@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 22,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "2307",
+  "decision_date": "1999-05-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4741%26code%3Dvas%26guid%3D1604517",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4741&code=vas&guid=1604517",
+  "source_text_sha256": "207f7b976aa94103c56a411b3cc8a08671bb7bef9c883ca6c47f76c71d4ca161",
+  "source_images": 0
+}
