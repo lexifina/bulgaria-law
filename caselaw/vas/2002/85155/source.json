@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7393,
+  "case_year": 2001,
+  "decision_type": "Решение",
+  "decision_number": "4684",
+  "decision_date": "2002-05-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D85155%26code%3Dvas%26guid%3D53345753",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=85155&code=vas&guid=53345753",
+  "source_text_sha256": "c34355c11ed71f8469e2d2c8c2da097b843b6b2865e9b4a3fa602b55813cc55f",
+  "source_images": 0
+}
