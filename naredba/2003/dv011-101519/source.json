@@ -1,0 +1,23 @@
+{
+  "id": 101519,
+  "kind": "naredba",
+  "gazette": "11/2003",
+  "title": "Наредба № 1 от 30 януари 2003 г. за структурата, организацията и дейността на охраната на органите на съдебната власт",
+  "reason": "no_material_number",
+  "detail": "no_material_number",
+  "official_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101519",
+  "path": "naredba/2003/dv011-101519",
+  "in_force": "2003-02-08",
+  "published": "2003-02-05",
+  "basis": "Constitution, чл. 5, ал. 5: three days after official Gazette publication 2003-02-05; no own commencement clause in this source text.",
+  "source_sha256": "2d639e6512426544aed5f25c0a9bebe1207062266d097919d714b4d52a389221",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "comparison": "independent HTMLParser vs BeautifulSoup; exact characters apart from whitespace and final editorial counter",
+  "status": "as-enacted",
+  "first_law": null,
+  "unit_format": "single-file complete official act body"
+}
