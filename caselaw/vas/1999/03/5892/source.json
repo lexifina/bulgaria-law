@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 423,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "1067",
+  "decision_date": "1999-03-10",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5892%26code%3Dvas%26guid%3D1635425",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5892&code=vas&guid=1635425",
+  "source_text_sha256": "c1d217179a522736039c1278e1972ace33afbb93cf12b0cd4f6f1aea501544de",
+  "source_images": 0
+}
