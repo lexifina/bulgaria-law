@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5643,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "3307",
+  "decision_date": "1999-06-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D4297%26code%3Dvas%26guid%3D1599873",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=4297&code=vas&guid=1599873",
+  "source_text_sha256": "83a27dae6f7594bbb303fc362e03ca158517e0c710de8b9f68fb05c0ee4d7391",
+  "source_images": 0
+}
