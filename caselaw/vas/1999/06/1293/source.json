@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4603,
+  "case_year": 1998,
+  "case_type": "administrative_vas",
+  "decision_type": "Решение",
+  "decision_number": "3230",
+  "decision_date": "1999-06-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1293%26code%3Dvas%26guid%3D1510496",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1293&code=vas&guid=1510496",
+  "source_text_sha256": "42c6dc4347db2df7312dcb9f4706621c6aba26f763fe880c835df99d40b63b1c",
+  "source_images": 0
+}
