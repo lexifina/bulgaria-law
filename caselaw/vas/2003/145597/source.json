@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4313,
+  "case_year": 2003,
+  "decision_type": "Решение",
+  "decision_number": "11000",
+  "decision_date": "2003-12-02",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D145597%26code%3Dvas%26guid%3D1452484038",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=145597&code=vas&guid=1452484038",
+  "source_text_sha256": "3f7d3471ba9c25323d8145e98114aadb50cdd6c52ae821655f3bad8da6cb7a0c",
+  "source_images": 0
+}
