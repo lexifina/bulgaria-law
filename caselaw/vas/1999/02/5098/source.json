@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 150,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "392",
+  "decision_date": "1999-02-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D5098%26code%3Dvas%26guid%3D1627743",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=5098&code=vas&guid=1627743",
+  "source_text_sha256": "8812e85460f68f92ca27e37d11b2cf23a31cb1856f612bc50a1babe63a381478",
+  "source_images": 0
+}
