@@ -1,0 +1,13 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 479,
+  "case_year": 1999,
+  "case_type": "administrative_vas",
+  "decision_type": "Определение",
+  "decision_number": "785",
+  "decision_date": "1999-02-23",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D6067%26code%3Dvas%26guid%3D1657440",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=6067&code=vas&guid=1657440",
+  "source_text_sha256": "a7a28207bc363bd0f869d3f872bc4bfe4a9005fc9f158daf05ba02c92d3ef03d",
+  "source_images": 0
+}
