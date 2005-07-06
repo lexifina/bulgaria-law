@@ -1,0 +1,21 @@
+{
+  "listing": "https://www.mlsp.government.bg/naredbi",
+  "label": "Наредба № 3 от 5.05.2005 г. за минималните изисквания при рискове от експозиция на вибрации (PDF)",
+  "url": "https://www.mlsp.government.bg/uploads/37/politiki/trud/zakonodatelstvo/n3vibracii.pdf",
+  "title": "НАРЕДБА № 3 от 5.05.2005 г. за минималните изисквания за осигуряване на здравето и безопасността на работещите при рискове, свързани с експозиция на вибрации",
+  "made": "2005-05-05",
+  "published": "2005-05-12",
+  "in_force": "2005-07-06",
+  "in_force_basis": "Official MLSP consolidation header: latest listed Gazette amendment ДВ, бр. 40 от 12.05.2005 г., in force from 6.07.2005.",
+  "latest_gazette_issue": "40",
+  "sha256": "1281e66c0ac65dfeb7acda20264b545fed85dc760ae69accc49e4de36d355b57",
+  "path": "naredba/mlsp/2005/naredba-3-ot-5-05-2005-g-za-minimalnite-iziskvaniya-za-osiguryavane-na-zdraveto--1281e66c",
+  "checks": {
+    "pages": 9,
+    "source_images": 5,
+    "native_chars": 19403
+  },
+  "checked_on": "2026-11-15",
+  "representation": "official-mlsp-current-consolidation",
+  "first_law": null
+}
