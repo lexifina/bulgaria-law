@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6360,
+  "case_year": 2005,
+  "decision_type": "Решение",
+  "decision_number": "4043",
+  "decision_date": "2006-04-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D221435%26code%3Dvas%26guid%3D1479145834",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=221435&code=vas&guid=1479145834",
+  "source_text_sha256": "667042e3f1b6d77cc6ae98f40e17339ee153bd84c8e89bfe21c7a855cb9bf683",
+  "source_images": 0
+}
