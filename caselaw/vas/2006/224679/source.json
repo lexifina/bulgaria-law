@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7410,
+  "case_year": 2005,
+  "decision_type": "Решение",
+  "decision_number": "4744",
+  "decision_date": "2006-05-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D224679%26code%3Dvas%26guid%3D1479237278",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=224679&code=vas&guid=1479237278",
+  "source_text_sha256": "5468aa7ac0299cfe8353856ccc64a7c22db3a479287c9ec2eda5cd7859db5062",
+  "source_images": 0
+}
