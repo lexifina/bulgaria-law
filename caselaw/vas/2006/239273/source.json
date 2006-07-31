@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 193,
+  "case_year": 2006,
+  "decision_type": "Решение",
+  "decision_number": "8443",
+  "decision_date": "2006-07-31",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D239273%26code%3Dvas%26guid%3D1480305883",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=239273&code=vas&guid=1480305883",
+  "source_text_sha256": "e06e4d8aa4be44c658326b7df35facd461304bae44663f20a8873b6f8e2d2c3b",
+  "source_images": 0
+}
