@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2007-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 5253,
+  "case_year": 1992,
+  "judge_rapporteur": "Илияна Стоилова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f84592c-e095-4832-888e-f77b8e3ec31d",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=01.02.2007&to=03.03.2007&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af173b3dd2d15a5b92daa23aaab593453557e14fa4f3d0623bffad078ab8763e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
