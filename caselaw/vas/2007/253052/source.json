@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4873,
+  "case_year": 2006,
+  "decision_type": "Решение",
+  "decision_number": "2071",
+  "decision_date": "2007-02-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D253052%26code%3Dvas%26guid%3D1481972194",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=253052&code=vas&guid=1481972194",
+  "source_text_sha256": "fa0463dbe7f6f9d1420cc0cdc202edfa4726e106671b1336bf870f9fde592615",
+  "source_images": 0
+}
