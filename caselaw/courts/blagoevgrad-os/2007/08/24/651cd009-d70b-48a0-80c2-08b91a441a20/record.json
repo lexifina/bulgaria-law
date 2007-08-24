@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2007-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 228,
+  "case_year": 2007,
+  "judge_rapporteur": "Румяна Бакалова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=651cd009-d70b-48a0-80c2-08b91a441a20",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=06.08.2007&to=06.10.2007&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd1f0a96e492771c0f963f88081156e4497d39b49f1367a64340e908521924a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
