@@ -1,0 +1,69 @@
+Приложение към чл. 4, т. 3
+Лекарствени продукти по международни непатентни наименования, изискващи отделно (самостоятелно) съхранение в шкаф със секретно заключване
+Acenocoumarol
+Acetyldigoxin
+Alcuronium
+Ambenonium
+Amsacrine
+Asparaginase
+Atracurium
+Atropine
+Azathioprine
+Methyldigoxin
+Biperiden
+Bleomycin
+Busulfan
+Butylscopolamine
+Carmustine
+Chlorambucil
+Ciclosporin
+Cisplatin
+Cyclophosphamide
+Cytarabine
+Dacarbazine
+Daunorubicin
+Digoxin
+Doxorubicin
+Epirubicin
+Ergotamine
+Estramustine
+Ethyl biscoumacetate
+Etoposide
+Fluorouracil
+Fotemustine
+Galantamine
+Hydroxycarbamide
+Idarubicin
+Ifosfamide
+Irinotecan
+Lanatoside C
+Lomustine
+Melphalan
+Mercaptopurine
+Metandienone
+Methotrexate
+Mitobronitol
+Mitomycin
+Mitoxantrone
+Nalorphine
+Naloxone
+Nandrolone
+Neostigmine
+Oxymetholone
+Paclitaxel
+Pancuronium
+Pilocarpine
+Pipecuronium bromide
+Procarbazine
+Pyridostigmine
+Rocuronium bromide
+Scopolamine
+Suxametonium
+Tegafur
+Teniposide
+Tetracaine
+Tioguanine
+Tubocurarine
+Vinblastine
+Vincristine
+Vinorelbine
