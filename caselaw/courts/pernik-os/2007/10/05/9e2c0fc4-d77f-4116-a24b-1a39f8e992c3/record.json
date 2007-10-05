@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2007-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 835,
+  "case_year": 2003,
+  "judge_rapporteur": "МЕТОДИ КРУМОВ ВЕЛИЧКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e2c0fc4-d77f-4116-a24b-1a39f8e992c3",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=05.10.2007&to=04.01.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06f11640dabe3f8785497a84099e2b72091ea394c8800314fa9b674b983c16ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
