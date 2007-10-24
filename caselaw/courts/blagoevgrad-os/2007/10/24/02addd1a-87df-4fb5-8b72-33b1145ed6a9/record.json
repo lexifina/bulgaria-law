@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2007-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1066,
+  "case_year": 2007,
+  "judge_rapporteur": "Надя Узунова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02addd1a-87df-4fb5-8b72-33b1145ed6a9",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=07.10.2007&to=07.12.2007&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1778be8ca6033cb48edc9ead1263dc6b71632910fee066b9579aded96d8b3ae5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
