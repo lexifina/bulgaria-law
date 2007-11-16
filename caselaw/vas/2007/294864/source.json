@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6456,
+  "case_year": 2007,
+  "decision_type": "Решение",
+  "decision_number": "11340",
+  "decision_date": "2007-11-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D294864%26code%3Dvas%26guid%3D1485703790",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=294864&code=vas&guid=1485703790",
+  "source_text_sha256": "95abc1fef1288c46e2867365c3c19990f9a856fcd1cd2b8256e423337e46a8b9",
+  "source_images": 0
+}
