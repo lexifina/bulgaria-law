@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2007-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 538,
+  "case_year": 2007,
+  "judge_rapporteur": "СТЕФКА ПЕТКОВА КЕМАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6447594f-ca72-4ca4-80e0-40fecd128b66",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=05.10.2007&to=04.01.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d51731cb9667ce6267da4cf372c2f4bd25b35cdc2d399313defec567c6bcaffc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
