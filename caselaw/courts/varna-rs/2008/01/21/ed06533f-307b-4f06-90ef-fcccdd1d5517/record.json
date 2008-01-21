@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6722,
+  "case_year": 2006,
+  "judge_rapporteur": "РУМЯНА ДИМОВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ed06533f-307b-4f06-90ef-fcccdd1d5517",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=05.01.2008&to=05.04.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4029dcefddbe19ce5fcdcdb359eb2f3128bbf41017f4ba7b60c175af7c9f820c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
