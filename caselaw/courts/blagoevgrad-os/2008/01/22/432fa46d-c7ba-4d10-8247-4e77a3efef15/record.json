@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2008-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 1,
+  "case_year": 2008,
+  "judge_rapporteur": "Татяна Андонова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=432fa46d-c7ba-4d10-8247-4e77a3efef15",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=08.12.2007&to=07.02.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "895263ec15b4ff52174018c3ab0cd7c944be4ce769b9d518151edda2f25f9093",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
