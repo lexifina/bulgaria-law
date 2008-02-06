@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2008-02-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1542,
+  "case_year": 2007,
+  "judge_rapporteur": "ЗДРАВКА ГЕОРГИЕВА ДИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18123aaf-1682-4ed7-b067-9667d9e3ce0a",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=05.01.2008&to=05.04.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45f2a3a96db7ad1a717a3c3bfdb30d7e651da03bbabb97a2c176adf348fb7141",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
