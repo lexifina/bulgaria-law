@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2008-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 785,
+  "case_year": 2007,
+  "judge_rapporteur": "ЯНИКА ТЕНЕВА БОЗАДЖИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03fe8b67-69e1-4d48-ae71-7e8b9bf4e725",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=05.01.2008&to=05.04.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0ab367f6503e56918afc6a93fa5974979d94f21304168424e76f43ba6e72bae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
