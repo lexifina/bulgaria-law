@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2008-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 502,
+  "case_year": 1997,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=898bfc2d-285f-4094-b3ba-cad27b032816",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d33eb756f664917abc47f5f859d93a99b267dd862cb06358c794feddafc5b2c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
