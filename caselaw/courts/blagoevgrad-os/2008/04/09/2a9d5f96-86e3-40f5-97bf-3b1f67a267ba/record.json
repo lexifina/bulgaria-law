@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2008-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 182,
+  "case_year": 2008,
+  "judge_rapporteur": "Валери Междуречки",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a9d5f96-86e3-40f5-97bf-3b1f67a267ba",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=08.02.2008&to=09.04.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8454732bf38abc516866406f76af4ae835c8c04b1cd928b2e7a73657c5a1bc5e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
