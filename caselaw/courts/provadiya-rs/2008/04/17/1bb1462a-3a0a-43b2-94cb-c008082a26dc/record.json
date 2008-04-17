@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2008-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 128,
+  "case_year": 2008,
+  "judge_rapporteur": "ПОЛИНА МАРИНОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1bb1462a-3a0a-43b2-94cb-c008082a26dc",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94dd644894c9c7877f602f4d761950aec2f5ead5007481b8ffa42cbceebee876",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
