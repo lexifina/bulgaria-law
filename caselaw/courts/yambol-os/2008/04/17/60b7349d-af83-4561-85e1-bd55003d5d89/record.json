@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2008-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 83,
+  "case_year": 2008,
+  "judge_rapporteur": "ДИАНА ДИМИТРОВА ФАРФАРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60b7349d-af83-4561-85e1-bd55003d5d89",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1fadfc712f6ac3e6047ffafcda37422cfb33696805e5e0addf94f00d0645ee00",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
