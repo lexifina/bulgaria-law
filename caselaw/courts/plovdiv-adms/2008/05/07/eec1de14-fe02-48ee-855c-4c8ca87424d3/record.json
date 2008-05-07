@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2008-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1097,
+  "case_year": 2007,
+  "judge_rapporteur": "ЛЮБОМИРА КИРИЛОВА НЕСТОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eec1de14-fe02-48ee-855c-4c8ca87424d3",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "465800c7cb6b11ad70229e3752be363f4b6cde5ab5d21660d3bdcb1dcae9e126",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
