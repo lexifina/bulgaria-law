@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2008-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 33,
+  "case_year": 2007,
+  "judge_rapporteur": "НИКОЛАЙ ИЛИЕВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=094a8221-52ae-4bd3-937e-d46428bd3688",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "238437581690c156017b6f75fbf0d9ab8723ae1d636e2979721be3c2093a1fbc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
