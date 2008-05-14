@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2008-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 72,
+  "case_year": 2008,
+  "judge_rapporteur": "ВЕЛИЧКА СЛАВЧЕВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=434d81cd-d430-44b6-b2db-5015356339b1",
+  "motives_file": null,
+  "source": "https://silistra-adms.justice.bg/bg/1485?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9095b458320cb6f85602fcc7fda617e8b3fa61e173d5bb47ace1d77f887635f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
