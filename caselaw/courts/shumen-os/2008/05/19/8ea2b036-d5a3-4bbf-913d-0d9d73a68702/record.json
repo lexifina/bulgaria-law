@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2008-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 147,
+  "case_year": 2008,
+  "judge_rapporteur": "СВИЛЕН СТАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ea2b036-d5a3-4bbf-913d-0d9d73a68702",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a492bd90f67f66321e2a935a21af8b2cd8588cecdf7d4d75c46fc65f573e200",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
