@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1746,
+  "case_year": 2007,
+  "judge_rapporteur": "РАЛИЦА ДОБРЕВА АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=234d73b4-39b6-4380-b93f-8f9c96195113",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab52ce9640de46f114aa342b5f96c5669adfb2ac9cc93b467a3167fae5b4f0ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
