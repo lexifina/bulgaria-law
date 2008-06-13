@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2008-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 284,
+  "case_year": 2008,
+  "judge_rapporteur": "БИСЕР ВЛАДИМИРОВ ЦВЕТКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c18002d-255d-4e6e-83da-3a2cf6630d3f",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5317790ac9e13f45dbb42a85acced7dd7f1d728a25a22f1b8390fbd173d2c067",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
