@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2008-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 31,
+  "case_year": 2008,
+  "judge_rapporteur": "КРАСИМИРА ВЕСЕЛИНОВА ТАГАРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63676812-20ea-4720-9356-e0a3392f8418",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1fadfc712f6ac3e6047ffafcda37422cfb33696805e5e0addf94f00d0645ee00",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
