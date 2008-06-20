@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2008-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 710,
+  "case_year": 2006,
+  "judge_rapporteur": "ЦВЕТОМИРА ГЕОРГИЕВА ВЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1ecc6bc-3d61-4ceb-9129-a6d4d9fd1629",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fab205a68168fba76116a4d81a55dbbf029bb7795722b31aa85b63946770e6aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
