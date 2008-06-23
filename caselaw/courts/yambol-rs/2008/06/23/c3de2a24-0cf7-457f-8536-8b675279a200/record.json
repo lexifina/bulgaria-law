@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2008-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 547,
+  "case_year": 2008,
+  "judge_rapporteur": "СВЕТЛАНА ДИМИТРОВА МИТРУШЕВА АТАНАСОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3de2a24-0cf7-457f-8536-8b675279a200",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8c9287c4ae374c5605beffa4593a30a545213f440105c1c182007f7c824afe3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
