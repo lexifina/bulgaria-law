@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2008-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1506,
+  "case_year": 2007,
+  "judge_rapporteur": "МАЯ АНДОНОВА МИЛЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=32d81236-91a5-4546-95ce-4afeca862014",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eb89b05aeb0dc663e7486d2aef3734ae015132bd4a351c8c821bff1beced5dd1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
