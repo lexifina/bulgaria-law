@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5788,
+  "case_year": 2007,
+  "judge_rapporteur": "ЛЮБОМИР СИМЕОНОВ НИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c35bb930-2621-42a1-b358-2f21dc35ce71",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6b735453f05c90dcf05decf635805a90b80dfd71eaf9b78dc667abfcba8e7f0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
