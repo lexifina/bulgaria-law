@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2008-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1187,
+  "case_year": 2007,
+  "judge_rapporteur": "НАДЯ СПАСОВА ГЕОРГИЕВА САВОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c6695cc-1d90-4701-86ed-cd4fe002716c",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36a0c2fbf89aabf195f4ab634545d36cea1f182f6c1cef51350cc53c8f47c9b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
