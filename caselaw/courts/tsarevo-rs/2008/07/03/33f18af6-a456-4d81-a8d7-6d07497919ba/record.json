@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2008-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 67,
+  "case_year": 2008,
+  "judge_rapporteur": "РУМЕН НИКОЛОВ ЙОСИФОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=33f18af6-a456-4d81-a8d7-6d07497919ba",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=06.04.2008&to=06.07.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4471a2a3c1007cd5d3813a30b63731d101042ac9cacca230b5a6ce44f54f585c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
