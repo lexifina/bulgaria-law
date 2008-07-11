@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2008-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 486,
+  "case_year": 2006,
+  "judge_rapporteur": "КРЕМЕНА ИВАНОВА КРАЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=727ef8a0-7f6e-4f47-96a2-dd25fd59e9df",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc491f8d3cceeb33e0d0be8b160e7162b142ed8c196a5cab7fe601dcf426175b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
