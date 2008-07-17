@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7197,
+  "case_year": 2007,
+  "judge_rapporteur": "ДИАНА КОЛЕВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46173ef9-e25e-4f97-b27d-15777bcb0ef6",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2fb5fc9c05c836c3f0fe7a3b813ecb5ddd63f361f64be54da41e5aa109539938",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
