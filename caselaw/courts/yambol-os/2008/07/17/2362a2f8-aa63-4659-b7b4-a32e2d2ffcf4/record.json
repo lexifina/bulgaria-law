@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2008-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 275,
+  "case_year": 2008,
+  "judge_rapporteur": "МАРГАРИТА КОСТАДИНОВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2362a2f8-aa63-4659-b7b4-a32e2d2ffcf4",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b70c79496bf057c781adae9a295c004ba942cae0e50a06fabf20ca5802fed2f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
