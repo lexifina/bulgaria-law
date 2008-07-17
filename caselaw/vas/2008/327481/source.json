@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4581,
+  "case_year": 2008,
+  "decision_type": "Решение",
+  "decision_number": "8832",
+  "decision_date": "2008-07-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D327481%26code%3Dvas%26guid%3D1507953882",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=327481&code=vas&guid=1507953882",
+  "source_text_sha256": "cede540071c4bf30f5e8ea867ca9477965bc7f3122b4e1c5d5d73804bee3fa74",
+  "source_images": 0
+}
