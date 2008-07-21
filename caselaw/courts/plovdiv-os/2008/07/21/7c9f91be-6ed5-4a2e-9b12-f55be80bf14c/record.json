@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2008-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1469,
+  "case_year": 2008,
+  "judge_rapporteur": "ВИОЛЕТА КОНСТАНТИНОВА ШИПОКЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c9f91be-6ed5-4a2e-9b12-f55be80bf14c",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96491875fc63574cbc040442fc7993c4fcd445fcf853864b23aaa1852edc5933",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
