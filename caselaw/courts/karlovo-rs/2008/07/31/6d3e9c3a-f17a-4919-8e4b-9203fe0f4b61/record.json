@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2008-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10074,
+  "case_year": 2008,
+  "judge_rapporteur": "РАЛИЦА КРУМОВА КОНОВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d3e9c3a-f17a-4919-8e4b-9203fe0f4b61",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41eeef1b3b39152ca60e6c0b1de932ec1aff34ab2b170be0138d2f3081a1c81e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
