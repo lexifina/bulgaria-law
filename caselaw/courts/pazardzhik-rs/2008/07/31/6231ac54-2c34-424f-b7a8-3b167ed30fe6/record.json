@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2008-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 316,
+  "case_year": 2008,
+  "judge_rapporteur": "ВЕСЕЛКА ВЕЛКОВА ЗЛАТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6231ac54-2c34-424f-b7a8-3b167ed30fe6",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "011fbe7e5e99c9cc064a5cafb4e089066566503b77037fbcbb2dca1683e63f1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
