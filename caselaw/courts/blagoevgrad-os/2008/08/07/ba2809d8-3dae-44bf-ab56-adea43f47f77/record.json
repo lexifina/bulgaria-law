@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2008-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 524,
+  "case_year": 2008,
+  "judge_rapporteur": "Миглена Йовкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba2809d8-3dae-44bf-ab56-adea43f47f77",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=11.06.2008&to=11.08.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "098da443c78a0cc85d10963c4197e3d4e16fa3df0aaf967b940452cf5b10fc84",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
