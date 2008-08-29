@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2008-08-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 218,
+  "case_year": 2008,
+  "judge_rapporteur": "СПАСИМИР СПАСОВ ЗДРАВЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c8f0a1f-b19d-4ea8-960f-afd1b34f59e1",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "733d26b3fadf3adaff395fc5b96bfc8c36928f80ac8e787850b1f633485dbee6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
