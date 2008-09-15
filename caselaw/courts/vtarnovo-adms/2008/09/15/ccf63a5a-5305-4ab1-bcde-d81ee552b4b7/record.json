@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2008-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 487,
+  "case_year": 2008,
+  "judge_rapporteur": "МАРИЯНА МИКОВА ЛАЗАРОВА КАБАКЧИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccf63a5a-5305-4ab1-bcde-d81ee552b4b7",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "910f28c9b791713583fd04ec79dcce076211d481124fdc52e28cfd059a448ef5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
