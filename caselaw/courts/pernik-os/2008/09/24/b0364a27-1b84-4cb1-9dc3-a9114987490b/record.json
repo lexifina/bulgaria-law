@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2008-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 232,
+  "case_year": 2008,
+  "judge_rapporteur": "ВИКТОР БОГДАНОВ ГЕОРГИЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0364a27-1b84-4cb1-9dc3-a9114987490b",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d84142e53fdd820cc0fe6db174ab8067dea7211f572b5bdd1f9d8453268cb2c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
