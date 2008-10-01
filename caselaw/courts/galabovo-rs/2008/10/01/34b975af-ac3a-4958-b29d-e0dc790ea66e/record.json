@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2008-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 762,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЕТКО ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=34b975af-ac3a-4958-b29d-e0dc790ea66e",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c90b97a77d55fadd26bcf5b82bc562acbb8b21574172740e7cdd48ecfa37e2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
