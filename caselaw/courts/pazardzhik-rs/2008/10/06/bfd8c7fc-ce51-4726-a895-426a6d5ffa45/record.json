@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2008-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1906,
+  "case_year": 2001,
+  "judge_rapporteur": "ИВАНКА ГЕОРГИЕВА ИЛИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bfd8c7fc-ce51-4726-a895-426a6d5ffa45",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.07.2008&to=06.10.2008&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "011fbe7e5e99c9cc064a5cafb4e089066566503b77037fbcbb2dca1683e63f1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
