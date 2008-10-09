@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2008-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 179,
+  "case_year": 2008,
+  "judge_rapporteur": "СТАНЧО РАДЕВ САВОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1713b657-1a00-45f0-bc39-8bd6fe9152a2",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "431d1a172fcdfaf6195e9442aad6324628ad338e686ca01144c3c8a6a5aeac9c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
