@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2008-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 185,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЛАМЕН АТАНАСОВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d29639a-6331-4a83-8f6b-1671e6171c3d",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36ea1ea01f45307d9297dd4c92acf5e7199e5a973366d17f2735e8209001205b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
