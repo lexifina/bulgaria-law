@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2008-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2285,
+  "case_year": 2007,
+  "judge_rapporteur": "СОНЯ ТОДОРОВА ДЖЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d32b10d-359b-4364-8d0f-aba88c60770f",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "154311089e9f955312adb40fcc2f6d76013a723e682e2e548f0b06a5ae6cd9c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
