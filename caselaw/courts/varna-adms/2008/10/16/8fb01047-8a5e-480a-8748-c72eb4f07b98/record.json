@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1928,
+  "case_year": 2007,
+  "judge_rapporteur": "ИВЕЛИНА КАРЧЕВА ЯНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8fb01047-8a5e-480a-8748-c72eb4f07b98",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ac8d33346632a7d25184a8eac38125f4eadaa9de6b0b17cab4068293bfd4db2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
