@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2008-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6408,
+  "case_year": 2006,
+  "judge_rapporteur": "ЦВЕТА ПАВЛОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f74ddb6-5076-44c4-89b2-39549c5b19e2",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6b7a94c56e05760ef8e90f4f1267f8da693e0c41a566c69fbab7a1c996bde5db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
