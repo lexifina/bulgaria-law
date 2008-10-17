@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2008-10-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 149,
+  "case_year": 2008,
+  "judge_rapporteur": "СПАС МАРИНОВ СТЕФАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=421ed9c9-14db-49a7-9017-2be82b11e369",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b0f0517f754a4c2fa0872896444a9406acff57bd299feb5d12c4e66c1501a74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
