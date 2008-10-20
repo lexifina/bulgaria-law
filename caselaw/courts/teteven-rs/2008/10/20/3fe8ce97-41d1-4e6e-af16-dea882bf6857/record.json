@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2008-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 295,
+  "case_year": 2008,
+  "judge_rapporteur": "ИСКРА ЦАКОВА МАКСИМОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3fe8ce97-41d1-4e6e-af16-dea882bf6857",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "385835acafbbfac810db2c6dcc637f473568d1a09d9708b5e7a7bfc57894d502",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
