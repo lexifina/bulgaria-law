@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2008-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1109,
+  "case_year": 2008,
+  "judge_rapporteur": "МИЛЕНА ПЕТКОВА ВЪЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d598bec-c055-430c-ae3d-2b58d5713541",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee1eee474207284c2b392f44faf7ce9315e1393db3624d6fcb233edcebadc517",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
