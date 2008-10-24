@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2008-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 28,
+  "case_year": 2008,
+  "judge_rapporteur": "ЖЕНИ АТАНАСОВА БОЗУКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=160b73a9-c525-4187-95f3-d55bb1230d82",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "48dee25564ac1fffbb8e1b061db29a98e5ea95bf2c7cf33d95bed438ee818b0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
