@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2008-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3064,
+  "case_year": 2008,
+  "judge_rapporteur": "СИМЕОН СИМЕОНОВ МИХОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c714398d-8cdc-418a-9b3d-a7efc905cb23",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c12581193bde37d143c1f5247f62a235c89e783f247058147208f79a68a8d04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
