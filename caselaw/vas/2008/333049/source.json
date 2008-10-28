@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6477,
+  "case_year": 2008,
+  "decision_type": "Решение",
+  "decision_number": "11283",
+  "decision_date": "2008-10-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D333049%26code%3Dvas%26guid%3D1508754300",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=333049&code=vas&guid=1508754300",
+  "source_text_sha256": "a8cdb110ec15eefdff57be095ed5d6d7cc3f4effff9ae1dacfdd517000244813",
+  "source_images": 0
+}
