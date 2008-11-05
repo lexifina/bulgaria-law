@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2008-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1642,
+  "case_year": 2008,
+  "judge_rapporteur": "ЕКАТЕРИНА ВЛАДИМИРОВА МАНДАЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=457bd1fd-346a-4478-aa3d-ba15f2070198",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3350943b972a6bac67b3adc442c0ff6ecfbe410e5b0bbe7515623c67e8b64f04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
