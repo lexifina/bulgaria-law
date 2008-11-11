@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2008-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 218,
+  "case_year": 2008,
+  "judge_rapporteur": "КОМАНДИРОВАН СЪДИЯ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f45185b-1c4b-4b59-bbb0-c78f25b86f4f",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56dff2ecdf9cb99a6426980a87afea9f767493a2d27d1b9005012180f3af9167",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
