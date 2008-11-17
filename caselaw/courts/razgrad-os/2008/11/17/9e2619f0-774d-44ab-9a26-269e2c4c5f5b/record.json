@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2008-11-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 90,
+  "case_year": 2005,
+  "judge_rapporteur": "АНЕЛИЯ МАРИНОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e2619f0-774d-44ab-9a26-269e2c4c5f5b",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6167aee1e0b9f632e0daad54abfc77312e9ec084ee0506350988ef089acece27",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
