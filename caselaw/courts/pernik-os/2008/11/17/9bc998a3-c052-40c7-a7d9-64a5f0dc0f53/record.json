@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2008-11-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 280,
+  "case_year": 2008,
+  "judge_rapporteur": "ИВАНКА СТОИМЕНОВА ШКОДРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9bc998a3-c052-40c7-a7d9-64a5f0dc0f53",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d5b86b1cb2aa53a20a16e18814f82605d1afea8545766a9ccfa79b722988ac8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
