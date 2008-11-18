@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2008-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2194,
+  "case_year": 2008,
+  "judge_rapporteur": "ЙОВКА ИВАНОВА КАЗАНДЖИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=83bd4447-e1a0-426a-b5c5-8190d02eb261",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee1eee474207284c2b392f44faf7ce9315e1393db3624d6fcb233edcebadc517",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
