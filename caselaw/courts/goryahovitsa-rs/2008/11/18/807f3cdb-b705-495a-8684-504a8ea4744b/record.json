@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2008-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1100,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЛАМЕН СТАНЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=807f3cdb-b705-495a-8684-504a8ea4744b",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b11f9c241d1091dd35defd87206a1a71cb9d66494691c885500980c1d4f36556",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
