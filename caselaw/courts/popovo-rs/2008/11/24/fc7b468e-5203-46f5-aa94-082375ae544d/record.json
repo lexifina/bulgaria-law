@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2008-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 387,
+  "case_year": 2008,
+  "judge_rapporteur": "ГАЛЕНА ПЕТКОВА ДЯКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc7b468e-5203-46f5-aa94-082375ae544d",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "956b036ae273d86eeac94120b09d70bb988ca0796545bbf9e72e31748639772a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
