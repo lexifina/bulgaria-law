@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2008-12-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 708,
+  "case_year": 2007,
+  "judge_rapporteur": "НИКОЛАЙ ИЛИЕВ УРУКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bfb880a-0a99-4532-952b-9779445b72e2",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "31dde36069acc448d3666aa0caa70bd06ece278eb5a2d177156049976eb37c86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
