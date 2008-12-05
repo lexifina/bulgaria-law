@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2008-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 51615,
+  "case_year": 2002,
+  "judge_rapporteur": "АЛЕКСАНДЪР ДРАГОМИРОВ ЦОНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a84df884-ad28-4e00-8e0b-4d9ddaad78f9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1ebbf96a0a129673e92e72dd068f222f80b30ae455fb1ed46516baa90a27a508",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
