@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2008-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1988,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЕТЯ КРЪСТЕВА ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2ebfbfc6-66b9-43cd-8a69-36fd6186459d",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9d5e0d2da7371c95f690980fb08161f072c247ca7bd3da7fe0a1a3e547e0fc63",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
