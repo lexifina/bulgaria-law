@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2008-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 454,
+  "case_year": 2008,
+  "judge_rapporteur": "ВИОЛЕТА ГАНЧЕВА ФИДЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7aeb8b9-05c9-457f-a2d0-11d023e3af91",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa52b319ba051e73413949a63aa02c2ee591761ef62cea5d773c2e3be4b0a51d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
