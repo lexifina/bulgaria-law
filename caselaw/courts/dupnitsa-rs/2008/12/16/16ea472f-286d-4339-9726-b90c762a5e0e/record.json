@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2008-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1652,
+  "case_year": 2008,
+  "judge_rapporteur": "ИЛИАНА ВЕСКОВА ДИМОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16ea472f-286d-4339-9726-b90c762a5e0e",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e28e881e3f8b654b31e77679f24de9c21abbca91f00ac77a702dbb7cde50855a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
