@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2008-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 51,
+  "case_year": 2008,
+  "judge_rapporteur": "ИРИНА МИТКОВА ГАНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6501226-f578-4041-81ac-d167ffda4b14",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0939792c1307d6bf6a3adfd4338bf827e7104489cf57728041b4bc9eb99a1d57",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
