@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2009-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 240,
+  "case_year": 2008,
+  "judge_rapporteur": "СИЛВИЯ АНДРЕЕВА ЖИТАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0b084aa-5bb5-44e2-b564-8cea130c3399",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=07.10.2008&to=06.01.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "09febd9ca9f48b4356de95202e60c02755bf6ca4104193203425e68945f13b34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
