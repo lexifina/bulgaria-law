@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2009-01-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 116,
+  "case_year": 2007,
+  "judge_rapporteur": "ГАНЧО МАНЕВ ДРАГАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ff3d3387-b36c-40e1-834f-608324e9994d",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d7a37c8577b1cfe4b2257440ffa3199f0baf4819a21b9a7be5bb91fac23fc2a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
