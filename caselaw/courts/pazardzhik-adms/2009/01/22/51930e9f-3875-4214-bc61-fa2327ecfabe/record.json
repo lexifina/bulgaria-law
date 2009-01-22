@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2009-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 467,
+  "case_year": 2008,
+  "judge_rapporteur": "ДОБРОСЛАВ ВЪЛКОВ РУКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51930e9f-3875-4214-bc61-fa2327ecfabe",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "397c35f4ebce3c18d2a5fd2b62bb48e83560edcd15ed6a0721def5d15bf7eb93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
