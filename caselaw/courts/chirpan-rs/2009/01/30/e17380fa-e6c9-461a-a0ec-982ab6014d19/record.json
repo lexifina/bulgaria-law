@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2009-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 33,
+  "case_year": 2009,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e17380fa-e6c9-461a-a0ec-982ab6014d19",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c0c2763336435f8ab6e6cf4aff695f7e2fc3150fff859b029d643b4bc5b8319f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
