@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2009-02-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 178,
+  "case_year": 2008,
+  "judge_rapporteur": "ГАБРИЕЛА ГЕОРГИЕВА ХРИСТОВА ДЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26f9faf0-ebd2-458b-ba0f-2b78f3e70b45",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d415c004fd199aba69fea0e843ed6b7321be1367f83d3dee0d5ab73afb27cbb3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
