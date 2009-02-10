@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2009-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 227,
+  "case_year": 2008,
+  "judge_rapporteur": "ДОРОТЕЯ ПЕТКОВА ЯНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07b59f85-642f-46b9-872e-27ab1a105ac4",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9049dfa7abe53b0a46606e3a313f523a706658ca33327b493e72fd7abd3da711",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
