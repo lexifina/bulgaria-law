@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2009-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 2,
+  "case_year": 2008,
+  "judge_rapporteur": "МАРИЕТА СПАСОВА СПАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8881cf99-aa37-4fd7-90f1-3d170e9f0525",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c14f5afa241c08150be51335e5ed4ece5949b39ba2178492c3576fe48973027",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
