@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2009-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2689,
+  "case_year": 2008,
+  "judge_rapporteur": "ЕЛИСАВЕТА ЙОРДАНОВА РАДИНА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=229286ea-1985-4013-98e2-a514b7fbe2aa",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d6eadb5b3a238a70308229ea91b7ae67c64e61fa583472b155cb3e6c69482b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
