@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2009-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 20,
+  "case_year": 2009,
+  "judge_rapporteur": "РОСЕН ОБРЕТИНОВ СТАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6c63199-fd19-40e1-8357-9a1ca6b09f5e",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6983120b598fb97e315e733ba522beb25faf505e144f94e5c74e65c9d8e99b4b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
