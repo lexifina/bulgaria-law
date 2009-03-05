@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2009-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1284,
+  "case_year": 2008,
+  "judge_rapporteur": "ТОДОР ГЕОРГИЕВ ПОПИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=da0bac83-fa64-4c31-908d-8216028e09f7",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ec3fceca8e26a01772a8d3b7c0873d2e87ef08649b6cfd05b535a6267fc3b8b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
