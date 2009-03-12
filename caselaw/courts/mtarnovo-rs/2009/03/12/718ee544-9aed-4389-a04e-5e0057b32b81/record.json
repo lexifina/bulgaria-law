@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2009-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 18,
+  "case_year": 2009,
+  "judge_rapporteur": "ПЛАМЕН СТОЯНОВ НАЙДЕНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=718ee544-9aed-4389-a04e-5e0057b32b81",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18da07bdd49cd4fe2abf7b91f6a4421c5042c125b7a3c130a5949601bad24863",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
