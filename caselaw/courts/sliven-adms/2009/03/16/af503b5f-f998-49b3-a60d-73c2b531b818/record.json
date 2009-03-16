@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2009-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 277,
+  "case_year": 2008,
+  "judge_rapporteur": "ИГЛИКА ВАСИЛЕВА ЖЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af503b5f-f998-49b3-a60d-73c2b531b818",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e91b90db2ceb7a2533318d1c155d6943869d3e07d5308f0aced3ad6092d12772",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
