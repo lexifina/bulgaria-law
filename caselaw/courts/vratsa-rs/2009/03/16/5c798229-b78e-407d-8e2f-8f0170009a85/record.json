@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2009-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 399,
+  "case_year": 2007,
+  "judge_rapporteur": "ПЕТЯ ПЕТРОВА ВЪЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c798229-b78e-407d-8e2f-8f0170009a85",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a67a720913c68094910d7c9161286d500e78d781c6fbfd8a2277319fff15443",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
