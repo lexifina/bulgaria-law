@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2009-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 236,
+  "case_year": 2009,
+  "judge_rapporteur": "ЖАНЕТ МАРЧЕВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=edff18d3-90ad-43de-922a-285a607145a9",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c5dd7acceb6bb67853ab728bb87c92c6bfcac5a9a742c53404a56b52695e363",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
