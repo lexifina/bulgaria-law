@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2009-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1720,
+  "case_year": 2008,
+  "judge_rapporteur": "ЛИЛИЯ ЖЕКОВА ИЛИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cafc11a6-87dc-4d79-95e1-dbe45aaee0d0",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "179786711561851dd9dd5fea1c9ee3dce43cdc7ae00ad6a450edfacd3af8f231",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
