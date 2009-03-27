@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 73,
+  "case_year": 2009,
+  "judge_rapporteur": "Катя Бельова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee576d82-d018-45f8-8fe6-5a39745e2d9d",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=14.02.2009&to=16.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da1d5f01d90c7be50e7b98221db5901952027ce1fe3252240fc548889b90e11f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
