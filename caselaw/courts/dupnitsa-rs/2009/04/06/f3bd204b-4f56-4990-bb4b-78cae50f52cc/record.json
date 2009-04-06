@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2009-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1448,
+  "case_year": 2008,
+  "judge_rapporteur": "СНЕЖАНКА ВАСИЛЕВА КЬОСЕВА МИТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3bd204b-4f56-4990-bb4b-78cae50f52cc",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d080bbb9e7fe1da723557b926df67daa10a38e77f0f5fa1f7ff856141c370496",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
