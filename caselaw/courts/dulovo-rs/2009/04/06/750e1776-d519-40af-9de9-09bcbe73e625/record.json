@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2009-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 474,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЛАМЕН НЕДЕЛЧЕВ НЕДЕЛЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=750e1776-d519-40af-9de9-09bcbe73e625",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=07.01.2009&to=08.04.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ddd983b25e7930d35bb71656e5c3ad241e6d79d3625e877fbb264a472b7e74a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
