@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2009-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 13,
+  "case_year": 2009,
+  "judge_rapporteur": "КОНСТАНТИН ГЕОРГИЕВ МОЛЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d73f953-0426-41f1-90b5-778c0a6c79a8",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f841764e49d97a10f68838347e489887649f8a9ad0d4c6c4b03f7e7be4f105f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
