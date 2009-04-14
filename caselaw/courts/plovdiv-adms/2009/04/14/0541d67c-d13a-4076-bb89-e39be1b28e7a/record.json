@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2009-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1165,
+  "case_year": 2008,
+  "judge_rapporteur": "КАЛИН РАДКОВ КУМАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0541d67c-d13a-4076-bb89-e39be1b28e7a",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "118493923b1fbffe76ea7967e158b4228501d6687a04df23ba743016ec1946a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
