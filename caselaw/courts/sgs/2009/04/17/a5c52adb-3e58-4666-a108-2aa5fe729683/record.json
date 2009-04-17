@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2009-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1224,
+  "case_year": 2006,
+  "judge_rapporteur": "ЛЮБКА СПАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5c52adb-3e58-4666-a108-2aa5fe729683",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0fd6a666980cfddf626101690f975c8274083517817a25f49ae63e3e1cd35190",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
