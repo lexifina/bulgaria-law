@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2009-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 50176,
+  "case_year": 2008,
+  "judge_rapporteur": "СИЛВИЯ ЦВЕТКОВА КРЪСТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2e08bc5-6ac0-4e69-8b8d-041ab9b5348f",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ee7cf3a22fd9fa86d45e28eece48dc1ba51d9094c5f1e11957ac771ba398b5a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
