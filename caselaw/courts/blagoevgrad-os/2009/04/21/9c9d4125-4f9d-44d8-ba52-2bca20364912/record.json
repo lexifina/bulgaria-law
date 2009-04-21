@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 406,
+  "case_year": 2008,
+  "judge_rapporteur": "Маргарита Коцева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9c9d4125-4f9d-44d8-ba52-2bca20364912",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=17.04.2009&to=17.06.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19c193eceec277a313fd6e6c852bf4361d566e44d30c850f5ae7aaa365d52fc6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
