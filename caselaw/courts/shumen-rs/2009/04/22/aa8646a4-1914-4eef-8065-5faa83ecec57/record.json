@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2009-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 514,
+  "case_year": 2009,
+  "judge_rapporteur": "НАДЕЖДА ДИМИТРОВА КИРИЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa8646a4-1914-4eef-8065-5faa83ecec57",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1de7d6e2913fde5e058f14b8784b80de3c61c88294fa36cdb3de9f982b1f94ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
