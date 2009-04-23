@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2009-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12,
+  "case_year": 2009,
+  "judge_rapporteur": "ПОЛИНА МАРИНОВА МАРИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a0a094d-895d-4cb0-9675-7f967fac2c14",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3b4fe1734fe5469315bebfd3fa4eb43498b64dd1442e4a73c1af12e5f7f4540",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
