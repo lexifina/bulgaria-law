@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2009-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1093,
+  "case_year": 2009,
+  "judge_rapporteur": "ЮЛИЯ РУСЕВА БАЖЛЕКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98c775b2-3997-4a8e-87fa-e8064bf16adf",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "637b0109cec2070be26b213a4f2a3de1c747d706341069394aa0dca887dcc570",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
