@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2009-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 38,
+  "case_year": 2009,
+  "judge_rapporteur": "ЕВТИМ СТАНЧЕВ БАНЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17889719-dccd-49a5-a58d-f9baf78d5fed",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9342339863b52ea82064759316cc5721bc1f53af2bd9ca26009559bfa4a1df2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
