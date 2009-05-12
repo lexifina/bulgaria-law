@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2009-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 197,
+  "case_year": 2009,
+  "judge_rapporteur": "БОЯН СПАСОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a785df0-e118-49d0-8f5c-272e101a187d",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85f65a6ba0b3c9a1ca523a358ba283f8e4ce5992a4c61e2e1f1efba9a1186952",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
