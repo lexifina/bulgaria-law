@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2009-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 115,
+  "case_year": 2009,
+  "judge_rapporteur": "АНЕЛИЯ АНГЕЛОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab405a81-cb27-45ba-90ef-86b90bc7a174",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c7a97684a7626be4a02a20f4f771b495199af42a81a37f4b1c40405b2eaf41d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
