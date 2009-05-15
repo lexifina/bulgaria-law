@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2009-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 220,
+  "case_year": 2008,
+  "judge_rapporteur": "ВЛАДИМИР ИВАНОВ ПЪРВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7735b2f0-438c-4157-9058-0cd8a2339c4d",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a799549e18668930099ef0e335812a185b9552a3388b2ca9382ceb7d493ea35e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
