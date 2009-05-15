@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2009-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 299,
+  "case_year": 2008,
+  "judge_rapporteur": "ХРИСТО ИВАНОВ КОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f85a43a-1f5a-434f-a438-3dbf5f311f6b",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "140e22b34903d0b8712fec2b78c7eb20673dc819b7fb738546eab2e95874628f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
