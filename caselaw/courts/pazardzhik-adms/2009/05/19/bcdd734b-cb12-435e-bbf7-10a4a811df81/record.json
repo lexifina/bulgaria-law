@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2009-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 536,
+  "case_year": 2007,
+  "judge_rapporteur": "АЛЕКСАНДЪР АНТОНОВ МИТРЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bcdd734b-cb12-435e-bbf7-10a4a811df81",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fedcfb5cbddd8d282d191ee44b7804de16405e316686d164554b4b47f07b97d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
