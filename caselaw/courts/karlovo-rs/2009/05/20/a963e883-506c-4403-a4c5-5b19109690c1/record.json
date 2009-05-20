@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2009-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 96,
+  "case_year": 2009,
+  "judge_rapporteur": "АННА ПЕТКОВА ДОНКОВА КУТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a963e883-506c-4403-a4c5-5b19109690c1",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b778337ebded7e0a91567d0804c36ea2c0934d60a53b801373585a90cbe52fe9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
