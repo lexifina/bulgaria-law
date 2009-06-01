@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2009-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 676,
+  "case_year": 2009,
+  "judge_rapporteur": "ЦВЕТАЛИНА МИХОВА ДОЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6e39450a-070e-48ad-82d8-dc7ceffba392",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "060adcfe5f3764170b7ca1d09e8a5a4f5169f158bc587802e21277587ffe7c01",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
