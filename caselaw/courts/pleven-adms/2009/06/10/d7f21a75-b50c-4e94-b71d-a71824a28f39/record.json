@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2009-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1129,
+  "case_year": 2008,
+  "judge_rapporteur": "СНЕЖИНА МОЙНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7f21a75-b50c-4e94-b71d-a71824a28f39",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a3cbb2e3425fdee5db9681bab7b88a22d4b3c1f3f7b75b93d1fbf8611364663",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
