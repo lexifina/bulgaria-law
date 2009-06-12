@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2009-06-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1317,
+  "case_year": 2009,
+  "judge_rapporteur": "НИКОЛАЙ ЕНЧЕВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c6985aa-c2e5-4141-8e5e-f78a4559dc3d",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "315f343b12b6c98d8592847095a28391a13d897d82804e2865a90cb99e69a300",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
