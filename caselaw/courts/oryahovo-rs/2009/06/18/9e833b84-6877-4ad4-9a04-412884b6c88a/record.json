@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2009-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 144,
+  "case_year": 2009,
+  "judge_rapporteur": "АЛБЕНА ГЕОРГИЕВА МИРОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e833b84-6877-4ad4-9a04-412884b6c88a",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ffba6fb30234af1b90cb7c0cbb8219db92c62ed6e7c948a9081bea2c1e16d2a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
