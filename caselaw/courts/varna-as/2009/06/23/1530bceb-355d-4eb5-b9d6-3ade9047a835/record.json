@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2009-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 230,
+  "case_year": 2009,
+  "judge_rapporteur": "РАДОСЛАВ КРЪСТЕВ СЛАВОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1530bceb-355d-4eb5-b9d6-3ade9047a835",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af2ed24b512a364a37df74494b4a6d580095533f208f1d43979dbc6ba54ecad9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
