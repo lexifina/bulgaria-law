@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2009-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3017,
+  "case_year": 2007,
+  "judge_rapporteur": "АЛЕКСАНДРА ДРАГОМИРОВА ЙОРДАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6704ff9-fa6a-4e1b-80d8-18f068ba14d9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0fd6a666980cfddf626101690f975c8274083517817a25f49ae63e3e1cd35190",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
