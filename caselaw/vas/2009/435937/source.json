@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 3519,
+  "case_year": 2009,
+  "decision_type": "Решение",
+  "decision_number": "8555",
+  "decision_date": "2009-06-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D435937%26code%3Dvas%26guid%3D1537471809",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=435937&code=vas&guid=1537471809",
+  "source_text_sha256": "d62ea99688e243658d8b0a72dae2748d8363a0f19dacbc63dd303fea8493275e",
+  "source_images": 0
+}
