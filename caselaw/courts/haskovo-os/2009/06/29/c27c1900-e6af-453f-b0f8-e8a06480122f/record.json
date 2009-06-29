@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2009-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10187,
+  "case_year": 2009,
+  "judge_rapporteur": "АННА ПЕТКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c27c1900-e6af-453f-b0f8-e8a06480122f",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a252824339126d95312c5fd120d1e8d38b976281d5b223f2f93da526ab15573f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
