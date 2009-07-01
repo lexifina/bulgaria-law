@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2009-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 86,
+  "case_year": 2007,
+  "judge_rapporteur": "КАРОЛИНА НЕДЕЛЧЕВА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee0afe66-c7d6-4f2b-aa27-7f12ff7168c4",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dc4b209fb58b28709b653cd26cf84b30ec732cd7e6f524f11708ce48e1d3bc7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
