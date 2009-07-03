@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2009-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 439,
+  "case_year": 2009,
+  "judge_rapporteur": "ГЕОРГИ КОНСТАНТИНОВ ГРЪНЧАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c1d6fcf-f4bc-4d34-b6fe-b61ec73878ea",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ee7cf3a22fd9fa86d45e28eece48dc1ba51d9094c5f1e11957ac771ba398b5a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
