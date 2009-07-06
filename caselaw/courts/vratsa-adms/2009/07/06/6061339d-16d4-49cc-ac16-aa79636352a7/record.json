@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2009-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 104,
+  "case_year": 2009,
+  "judge_rapporteur": "СИЛВИЯ ПЕТРОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6061339d-16d4-49cc-ac16-aa79636352a7",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=09.04.2009&to=09.07.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "93e7c12bd64a8f4c511064428d406ec6e3015bf00fa299d7761380f28266d532",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
