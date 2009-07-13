@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 463,
+  "case_year": 2004,
+  "judge_rapporteur": "Атанаска Китипова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dfe5bc53-8eaa-4964-8bd7-ffe5096248af",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=18.06.2009&to=18.08.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a448b4b56b153910848713ba4335f02c32cf30d0e9ff6f7868274c3bcec2c5a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
