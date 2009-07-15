@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2009-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 739,
+  "case_year": 2009,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c90cc42-425e-464a-a8ee-515e82a10d52",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01a66ae1b0f8d434b5e90ef98234d60528ea18b534175be12adcef580680ed3d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
