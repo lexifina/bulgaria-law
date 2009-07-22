@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2009-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 534,
+  "case_year": 2009,
+  "judge_rapporteur": "ЙОРДАНКА ХРИСТОВА МАТЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5059d58c-6ecf-48fe-9f75-ed05ae967c2d",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2cac72ade8e47d0a2c909b521d69c6750ac7816d1bec85ebe66d945f8abb553b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
