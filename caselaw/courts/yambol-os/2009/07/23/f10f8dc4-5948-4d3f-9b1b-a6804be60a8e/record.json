@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2009-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 525,
+  "case_year": 2006,
+  "judge_rapporteur": "ДОБРИН ПЕЕВ КЮЧУКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f10f8dc4-5948-4d3f-9b1b-a6804be60a8e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59696fa733046876c5c56bf6acacfc990aaea1f44741b64b02607475aad1e74b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
