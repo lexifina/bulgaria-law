@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2009-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 463,
+  "case_year": 2009,
+  "judge_rapporteur": "ЮРИЙ ХРИСТОВ МАРИНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93b5f665-6cd6-4065-8798-fda38d2e29fc",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49057243aca0c1daa95f4ca2a59547bfb5feb88dff0bf20177fcf3084d378a74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
