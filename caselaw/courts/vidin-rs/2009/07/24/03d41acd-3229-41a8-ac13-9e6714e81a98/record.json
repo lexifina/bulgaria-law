@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2009-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70587,
+  "case_year": 2003,
+  "judge_rapporteur": "МИЛЕНА СТОЯНОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03d41acd-3229-41a8-ac13-9e6714e81a98",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a24f9bf04410091f77ca4c63503e3d38039e9d14c53094c9e707748a4d63a9ca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
