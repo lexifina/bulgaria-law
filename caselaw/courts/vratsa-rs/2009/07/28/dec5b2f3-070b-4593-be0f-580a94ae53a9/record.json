@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2009-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 1804,
+  "case_year": 2009,
+  "judge_rapporteur": "ЕМИЛ КРЪСТЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dec5b2f3-070b-4593-be0f-580a94ae53a9",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5aa406d30f45378fdfe6ee61e8084c230aa76242417bf60a8e06abdd852cf1b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
