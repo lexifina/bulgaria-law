@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2009-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 389,
+  "case_year": 2009,
+  "judge_rapporteur": "МАРИЕЛА АНАСТАСОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c517b7e-0631-42cf-bef3-79097cde1bd3",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "09d365313025cc64fd1d4d81b74a5afb4e8208720221f69ff577ea99468f84c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
