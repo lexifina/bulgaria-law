@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1428,
+  "case_year": 2009,
+  "judge_rapporteur": "ГЕНЧО КОЛЕВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=77cd35e9-0bae-416d-8fa0-ea68152c91a5",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18c30f002e2ea10be840428bbefad7992b18536851b203768c70fe946ea53bca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
