@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 768,
+  "case_year": 2009,
+  "judge_rapporteur": "Емилия Топалова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93bf7926-fcbb-4fa7-8ef0-a5541e083c42",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=18.06.2009&to=18.08.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a448b4b56b153910848713ba4335f02c32cf30d0e9ff6f7868274c3bcec2c5a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
