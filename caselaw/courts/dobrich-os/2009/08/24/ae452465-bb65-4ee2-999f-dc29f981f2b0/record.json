@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2009-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 534,
+  "case_year": 2008,
+  "judge_rapporteur": "ТАНЯ ГЕОРГИЕВА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ae452465-bb65-4ee2-999f-dc29f981f2b0",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "095d42ab214c21c9dedb9150e996d1b0f4b583789dfd6ddc833d255d2e783d7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
