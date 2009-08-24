@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 398,
+  "case_year": 2008,
+  "judge_rapporteur": "Надя Узунова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73c0f76c-7ddd-4234-a2ca-f1576763044c",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=19.08.2009&to=19.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a5ca6e43ddb12488ce206e8236ba9850eca5c3630387d8a83f058beb25863a05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
