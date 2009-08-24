@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2009-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 933,
+  "case_year": 2009,
+  "judge_rapporteur": "ИВЕЛИНА ПЕТРОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce006d87-57a7-4c7f-bf55-f0d4baaee30c",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "760c16960712655be89b2ebabc4503f9c8d6e08ee6c30fc428d8d8f071a48727",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
