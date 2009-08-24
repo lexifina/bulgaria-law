@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 170,
+  "case_year": 2009,
+  "judge_rapporteur": "РУМЯНА АТАНАСОВА ТАНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb4a3ccc-1878-46b7-9d32-9877ec02b38b",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "932f1c6abc8f6326b277086c22521f9710fecb1aab362f59a9e13433d7ea31b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
