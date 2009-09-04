@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-09-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 751,
+  "case_year": 2009,
+  "judge_rapporteur": "СОНЯ ХРИСТОВА КАМЕНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=236c3924-e05d-4ddb-8bb8-0128db8f671c",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "932f1c6abc8f6326b277086c22521f9710fecb1aab362f59a9e13433d7ea31b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
