@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2009-09-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 151,
+  "case_year": 2009,
+  "judge_rapporteur": "ВЕСЕЛА ЖИВКОВА ОФИЦЕРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c0083218-8d27-44ee-aefd-24ce45b9624f",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f7af06197b25479fec50203a2fa240a9fd61b24d0de4f1bcb38e7fa6a46b9e91",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
