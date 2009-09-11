@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2009-09-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8105,
+  "case_year": 2009,
+  "judge_rapporteur": "КРИСТИНА РАЙКОВА ФИЛИПОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27bb5ea0-19f2-4165-a33c-93209baeeece",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eacd653efe6020c1f2474734db1b48929e3915237d9aad02101e35e1d4a7f3c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
