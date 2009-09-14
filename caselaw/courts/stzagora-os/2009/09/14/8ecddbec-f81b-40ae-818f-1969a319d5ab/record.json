@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 639,
+  "case_year": 2009,
+  "judge_rapporteur": "СПАСЕНА ВЕНЕЛИНОВА ДРАГОТИНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ecddbec-f81b-40ae-818f-1969a319d5ab",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "932f1c6abc8f6326b277086c22521f9710fecb1aab362f59a9e13433d7ea31b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
