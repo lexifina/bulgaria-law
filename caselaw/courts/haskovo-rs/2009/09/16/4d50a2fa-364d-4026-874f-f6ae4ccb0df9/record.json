@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2009-09-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2690,
+  "case_year": 2008,
+  "judge_rapporteur": "ПАВЛИНА ХРИСТОВА ГОСПОДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d50a2fa-364d-4026-874f-f6ae4ccb0df9",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "211c738ae689a1130cb1de6af87c95f300b9e3fd776a7e38778b0b9d0700a24b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
