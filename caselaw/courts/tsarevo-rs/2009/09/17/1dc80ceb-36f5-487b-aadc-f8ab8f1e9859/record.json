@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2009-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 40,
+  "case_year": 2009,
+  "judge_rapporteur": "РУМЕН НИКОЛОВ ЙОСИФОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1dc80ceb-36f5-487b-aadc-f8ab8f1e9859",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ea8a8cc6fcd4f6b89ee2617ddf469be8fbaf28b8eda9c62f3c7b1215697deec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
