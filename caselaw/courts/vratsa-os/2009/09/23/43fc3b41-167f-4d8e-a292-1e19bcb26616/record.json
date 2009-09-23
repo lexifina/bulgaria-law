@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2009-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 403,
+  "case_year": 2009,
+  "judge_rapporteur": "БЛАГОВЕСТ ДИМИТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43fc3b41-167f-4d8e-a292-1e19bcb26616",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ebca0351a36327e28e26491d28327be4c6a6b606762de517c1515696fb0eb212",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
