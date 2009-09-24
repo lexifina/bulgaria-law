@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2009-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 259,
+  "case_year": 2009,
+  "judge_rapporteur": "ГЕОРГИ ЛЮБЕНОВ ЙОРДАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f298c82f-37bc-4b29-8b29-e1cab23b2fa1",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cfac38d531e8994511b01e13918e8c1780c686f6e4e7a4b0ecc70252dd0583f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
