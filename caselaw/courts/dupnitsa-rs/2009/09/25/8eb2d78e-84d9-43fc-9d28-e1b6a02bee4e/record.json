@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2009-09-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 508,
+  "case_year": 2009,
+  "judge_rapporteur": "СВЕТЛА ВАСИЛЕВА ПЕЙЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8eb2d78e-84d9-43fc-9d28-e1b6a02bee4e",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2358e26ca846a2829834a67b69c822db307267af57a28a6f096d92df763fe2d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
