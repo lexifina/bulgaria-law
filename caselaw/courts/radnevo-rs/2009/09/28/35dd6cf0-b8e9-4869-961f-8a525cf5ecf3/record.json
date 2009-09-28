@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2009-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 329,
+  "case_year": 2009,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35dd6cf0-b8e9-4869-961f-8a525cf5ecf3",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "66de01234b7d47b7fe78642aeb649eb78bc2a66b2929c772fbc28fcd3b571d52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
