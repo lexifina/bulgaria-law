@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2009-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 576,
+  "case_year": 2007,
+  "judge_rapporteur": "ДЕНИЦА ВЕНЦИСЛАВОВА КОЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c9537c1-0f9f-4a34-94f3-09b86b900fd7",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2af6c5f6b28db474fc53dfec0238c4043455b9ccdfb1add3560a1b815279b3e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
