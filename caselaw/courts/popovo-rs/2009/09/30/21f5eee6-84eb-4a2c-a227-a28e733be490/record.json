@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2009-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 86,
+  "case_year": 2007,
+  "judge_rapporteur": "ПОЛЯ ПАВЛИНОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=21f5eee6-84eb-4a2c-a227-a28e733be490",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ece5cbad30042d201a51b8eb1323d90bfb8aeb2c5e6dbaf03198d41c910ed48e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
