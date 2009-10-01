@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2009-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 516,
+  "case_year": 2009,
+  "judge_rapporteur": "ВИЛИЯН ГЕОРГИЕВ ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e3c7f0eb-dd36-440f-8974-4f5d41b2dc0e",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7574abf67afad34da2cd1352423ab37afec1fae0a93b11fc775a3d1302640259",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
