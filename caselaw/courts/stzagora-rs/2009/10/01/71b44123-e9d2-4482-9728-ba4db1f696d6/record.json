@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1387,
+  "case_year": 2009,
+  "judge_rapporteur": "ЗЛАТКО ДИМИТРОВ МАЗНИКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71b44123-e9d2-4482-9728-ba4db1f696d6",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18c30f002e2ea10be840428bbefad7992b18536851b203768c70fe946ea53bca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
