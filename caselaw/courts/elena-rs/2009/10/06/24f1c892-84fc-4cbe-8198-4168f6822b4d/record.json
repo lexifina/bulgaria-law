@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2009-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 126,
+  "case_year": 2008,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=24f1c892-84fc-4cbe-8198-4168f6822b4d",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50559c885138efd4035440127ee967f3bb524f7b357f8a4b11f68b47534d1abd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
