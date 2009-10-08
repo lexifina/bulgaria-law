@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1638,
+  "case_year": 2009,
+  "judge_rapporteur": "ВЕСЕЛИНА ПЕТКОВА ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5937216-b006-4678-a69b-4ef9d0c1f943",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18c30f002e2ea10be840428bbefad7992b18536851b203768c70fe946ea53bca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
