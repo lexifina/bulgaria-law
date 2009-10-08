@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2009-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2132,
+  "case_year": 2009,
+  "judge_rapporteur": "АЛЕКСАНДЪР СИМЕОНОВ СТАНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d82d203d-9d09-4f9d-b6d1-76aab0d79710",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4277a590bfd2c4bb97046cf0ccd11713b4ab68450594ab30540ebf06b2fb084",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
