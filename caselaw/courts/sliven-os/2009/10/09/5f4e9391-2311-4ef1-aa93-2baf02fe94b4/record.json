@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2009-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 437,
+  "case_year": 2007,
+  "judge_rapporteur": "КЪНЮ ТОДОРОВ ЖЕКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f4e9391-2311-4ef1-aa93-2baf02fe94b4",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25b635cc2c839fb73854e1b0f96f1868d45314756114d63c8c0ac3089f46ae86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
