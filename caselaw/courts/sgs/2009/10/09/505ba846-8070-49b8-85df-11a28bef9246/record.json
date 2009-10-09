@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2009-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2142,
+  "case_year": 2007,
+  "judge_rapporteur": "МИНА ГЕОРГИЕВА МУМДЖИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=505ba846-8070-49b8-85df-11a28bef9246",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.07.2009&to=09.10.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eacd653efe6020c1f2474734db1b48929e3915237d9aad02101e35e1d4a7f3c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
