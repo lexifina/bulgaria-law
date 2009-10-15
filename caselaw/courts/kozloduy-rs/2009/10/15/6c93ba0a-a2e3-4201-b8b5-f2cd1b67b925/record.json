@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2009-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 340,
+  "case_year": 2009,
+  "judge_rapporteur": "ЛЮБА РУМЯНОВА ЛАЗАРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c93ba0a-a2e3-4201-b8b5-f2cd1b67b925",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30bede8da22cb5c03680dcf8806b55c7e1456a49e35c92064d7e736cecdb9299",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
