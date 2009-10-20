@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2009-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 612,
+  "case_year": 2009,
+  "judge_rapporteur": "ПЕТЪР ВЛАДИМИРОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a5bf8f4-a130-4a46-968a-9591a9e2a55b",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d113ec8f9cf506d2fff44f155c13bbf6a399291096275903c14432afb497f3f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
