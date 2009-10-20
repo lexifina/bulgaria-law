@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2009-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 90,
+  "case_year": 2009,
+  "judge_rapporteur": "ГЕОРГИ ВИДЕВ ВИДЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92ab7288-fd40-4c09-9fe3-56465c71723b",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3ad45a9c8dd7c7dbd1e132ad7afc0731ff25709a6618b6502e61c088db721f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
