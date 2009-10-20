@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2009-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 47,
+  "case_year": 2009,
+  "judge_rapporteur": "СВИЛЕН ПЕТРОВ СИРМАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=78f15a29-7819-4c1e-a3a1-0c9f12eddfb0",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3d8f7d34750400cde1a889affce39aee40f1dc21d4a335e63ce8a70d5252290",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
