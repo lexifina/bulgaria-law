@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2009-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6969,
+  "case_year": 2008,
+  "judge_rapporteur": "НЕВИН РЕДЖЕБОВА ШАКИРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=56745898-c234-4793-8056-35431b22d649",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b68a566b8324f1f544541460fe24094bdf677147bab183729d6834f5a010f316",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
