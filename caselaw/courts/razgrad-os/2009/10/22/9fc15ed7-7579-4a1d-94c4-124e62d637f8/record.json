@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2009-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 225,
+  "case_year": 2009,
+  "judge_rapporteur": "РАЯ ПЕТКОВА ЙОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9fc15ed7-7579-4a1d-94c4-124e62d637f8",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f8604610681349d122e5345cc8326110f82ad660bf010e40d9accb94b322e24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
