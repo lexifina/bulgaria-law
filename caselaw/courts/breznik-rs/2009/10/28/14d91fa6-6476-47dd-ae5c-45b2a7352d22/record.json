@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2009-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 103,
+  "case_year": 2009,
+  "judge_rapporteur": "ПЕТЪР ВЕСЕЛИНОВ БОСНЕШКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=14d91fa6-6476-47dd-ae5c-45b2a7352d22",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a6bd95bf6173fdf3a3be0c9e05738be410c99864a2cf881b67c085fa3c1a5b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
