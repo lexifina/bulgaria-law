@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-11-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 287,
+  "case_year": 2009,
+  "judge_rapporteur": "РАЙНА ДИМОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=be83e095-8d13-45c5-a5cb-d0db930e6a2a",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a86032ada8cab1ddfdb77b95254c04bc4dcaf26f2dd3533479f5f0c48ff58d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
