@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2009-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 616,
+  "case_year": 2009,
+  "judge_rapporteur": "ЕВГЕНИЯ ГЕОРГИЕВА РАЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e0e0fd6-fc4c-4e32-acc4-ccf38068a589",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3737be5d7e413fe3da0fbb8aefc8562f0e7f399eb6312b8e49f887d59c95fec6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
