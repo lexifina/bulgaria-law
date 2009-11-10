@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6254,
+  "case_year": 2009,
+  "decision_type": "Решение",
+  "decision_number": "13407",
+  "decision_date": "2009-11-10",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D443927%26code%3Dvas%26guid%3D1538314885",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=443927&code=vas&guid=1538314885",
+  "source_text_sha256": "2a74eb96475da0d3dff0202a6260e36d82eae39b66a9522c4412a07eeeb518c7",
+  "source_images": 0
+}
