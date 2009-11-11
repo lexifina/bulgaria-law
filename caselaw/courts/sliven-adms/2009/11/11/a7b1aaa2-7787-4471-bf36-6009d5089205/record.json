@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2009-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1,
+  "case_year": 2009,
+  "judge_rapporteur": "СВЕТЛАНА КОСТАДИНОВА ДРАГОМАНСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7b1aaa2-7787-4471-bf36-6009d5089205",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f87fe35370e038784645ee6bfdb6e68abf6f034ff53a1518c7d376d18341cd4e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
