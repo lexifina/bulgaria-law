@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2009-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 453,
+  "case_year": 2009,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=231dc95f-85f9-4651-a711-df2484453a1e",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2f3fa3c62e5ed7726d161b69e30ddbc9ad48ebba2cbb5c062d9f381e882d285",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
