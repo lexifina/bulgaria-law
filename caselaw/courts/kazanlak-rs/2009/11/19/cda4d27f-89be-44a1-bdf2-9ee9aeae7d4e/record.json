@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2009-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 819,
+  "case_year": 2009,
+  "judge_rapporteur": "ДОРИАНА МИНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cda4d27f-89be-44a1-bdf2-9ee9aeae7d4e",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e94ff6796651745cddbd09df27bc21bed0cd9ddd019f502770d75887e625d02d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
