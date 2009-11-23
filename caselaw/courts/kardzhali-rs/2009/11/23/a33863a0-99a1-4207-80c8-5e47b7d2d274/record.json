@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2009-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 625,
+  "case_year": 2009,
+  "judge_rapporteur": "СУНАЙ ЮСЕИН ОСМАН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a33863a0-99a1-4207-80c8-5e47b7d2d274",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ed960148ee421761693493aa895281e14e9d408e75a1a2cb3c05e102122e1d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
