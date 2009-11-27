@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2009-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4112,
+  "case_year": 2009,
+  "judge_rapporteur": "ИВО ВАСИЛЕВ ДОБРЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ac53564-1658-470d-a2b9-f552e380e8fe",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b375e02135bb3945037d39232649b5aea41ab247cdbd3afd58c64ad3db6471e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
