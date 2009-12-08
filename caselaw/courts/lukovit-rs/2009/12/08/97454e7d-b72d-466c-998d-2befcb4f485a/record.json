@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2009-12-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 446,
+  "case_year": 2009,
+  "judge_rapporteur": "ВИОЛЕТА ГАНЧЕВА ФИДЕНКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=97454e7d-b72d-466c-998d-2befcb4f485a",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e81a2f212e0e071342d470947fc22d03facabc70cbd0a5f63c0bcc94e9e531d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
