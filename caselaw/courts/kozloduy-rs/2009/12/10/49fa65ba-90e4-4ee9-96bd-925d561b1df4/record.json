@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2009-12-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 546,
+  "case_year": 2009,
+  "judge_rapporteur": "АДРИАНА ГЕОРГИЕВА ДОБРЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49fa65ba-90e4-4ee9-96bd-925d561b1df4",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30bede8da22cb5c03680dcf8806b55c7e1456a49e35c92064d7e736cecdb9299",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
