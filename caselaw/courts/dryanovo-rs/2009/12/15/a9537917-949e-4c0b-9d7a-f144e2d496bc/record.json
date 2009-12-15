@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2009-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 81,
+  "case_year": 2009,
+  "judge_rapporteur": "РОСЕН ОБРЕТИНОВ СТАНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a9537917-949e-4c0b-9d7a-f144e2d496bc",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f9fcdbc453170ebe06e93862bad126f36717e9c7028ad73be7d76e52a93658c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
