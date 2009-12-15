@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2009-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 542,
+  "case_year": 2009,
+  "judge_rapporteur": "Надя Узунова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=567afead-524f-4be6-98b0-7c33e4a49026",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=20.10.2009&to=20.12.2009&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1570aabd841459b85a52ad9ae17647eadd2a0b2279c5482e5235dcb8111e90c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
