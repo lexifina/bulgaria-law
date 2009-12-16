@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2009-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 892,
+  "case_year": 2004,
+  "judge_rapporteur": "РОЗАЛИНА ГЕОРГИЕВА БОТЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ebb7050a-448a-49ab-8321-7f86319e5494",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7ca67915ac92d1f2f026d8082e93d4c59ed7ea5bb1419807f776973ca4399ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
