@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2009-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 999,
+  "case_year": 2009,
+  "judge_rapporteur": "ЦЕЗАРИНА ХРИСТОВА ЙОСИФОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82c3502f-633d-41e1-8414-8c57070a4b6b",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4798dd055b33839fa61efe328d9eb60f37c8888da533cbf930ff856fac5056d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
