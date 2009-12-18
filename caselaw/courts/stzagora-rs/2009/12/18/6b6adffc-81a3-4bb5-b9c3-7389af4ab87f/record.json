@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2009-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2043,
+  "case_year": 2009,
+  "judge_rapporteur": "ЗЛАТКО ДИМИТРОВ МАЗНИКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b6adffc-81a3-4bb5-b9c3-7389af4ab87f",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "31eed23a1ca66e1c35ba957e6b4fcdcd6942c53535af27ab03f30f3d8680c6b4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
