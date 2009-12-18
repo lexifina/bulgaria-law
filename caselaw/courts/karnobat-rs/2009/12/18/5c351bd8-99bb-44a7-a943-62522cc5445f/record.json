@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2009-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 476,
+  "case_year": 2009,
+  "judge_rapporteur": "ЗЛАТКО КОЛЕВ КОСТАДИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c351bd8-99bb-44a7-a943-62522cc5445f",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "80374f03a87b488a5e1ab58738eed6df0a77e4cd86e65637d8f4b828f07901b3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
