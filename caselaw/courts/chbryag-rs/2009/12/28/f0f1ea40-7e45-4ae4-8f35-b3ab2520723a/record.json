@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2009-12-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 374,
+  "case_year": 2009,
+  "judge_rapporteur": "ЦАНКО БОРИСОВ ЗОРНИШКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0f1ea40-7e45-4ae4-8f35-b3ab2520723a",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "20bb14862b6eb85f1823791c64fe73bf64477900b7f077568ea18ce95b2206b4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
