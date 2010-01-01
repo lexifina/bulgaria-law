@@ -1,0 +1,21 @@
+{
+  "listing": "https://www.mlsp.government.bg/naredbi",
+  "label": "Наредба № 3 от 27.07.1998 г. за функциите и задачите на длъжностните лица за защита от професионалните рискове (PDF)",
+  "url": "https://www.mlsp.government.bg/uploads/37/politiki/trud/zakonodatelstvo/n3ozbut.pdf",
+  "title": "НАРЕДБА № 3 от 27.07.1998 г. за функциите и задачите на длъжностните лица и на специализираните служби в предприятията за организиране изпълнението на дейностите, свързани със защитата от професионалните рискове и превенция на тези рискове (Загл. изм. - ДВ, бр. 102 от 2009 г., в сила от 1.01.2010 г.)",
+  "made": "1998-07-27",
+  "published": "2009-12-22",
+  "in_force": "2010-01-01",
+  "in_force_basis": "Official MLSP consolidation header: latest listed Gazette amendment ДВ, бр. 102 от 22.12.2009 г., in force from 1.01.2010.",
+  "latest_gazette_issue": "102",
+  "sha256": "5cd6149e1b7944ffb8de8e8e00264bf26527b348e5ff45d1d8d2f344e4b75bc1",
+  "path": "naredba/mlsp/1998/naredba-3-ot-27-07-1998-g-za-funktsiite-i-zadachite-na-dlazhnostnite-litsa-i-na--5cd6149e",
+  "checks": {
+    "pages": 4,
+    "source_images": 0,
+    "native_chars": 9403
+  },
+  "checked_on": "2026-11-15",
+  "representation": "official-mlsp-current-consolidation",
+  "first_law": null
+}
