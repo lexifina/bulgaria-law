@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2010-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 247,
+  "case_year": 2009,
+  "judge_rapporteur": "ПЕНКА БОРИСОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=707ddecd-4100-426a-a19f-ab069642c67a",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "be3b960675a1567c62373731d8a68bef80633cf4d27c402a1bf5a78b0f009d1d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
