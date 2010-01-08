@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2010-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10209,
+  "case_year": 2009,
+  "judge_rapporteur": "ВЕСЕЛИНА ЦОНЕВА ТОПАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=15a83a46-48a0-427c-a387-ebe05a1bb754",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=10.10.2009&to=09.01.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a33e907b1004aee4e211b0704fb46c75855a0ef5ccebf65bcf1f4042efceaac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
