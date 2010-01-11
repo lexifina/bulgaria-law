@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2010-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 12,
+  "case_year": 2010,
+  "judge_rapporteur": "АНЕТА НИКОЛОВА БРАТАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b59cdf9-2137-476a-8b63-cfa6aa7e851e",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "80f85d4364423a20fef852476187fb6bc990623ca69bd949fb405f3074d39520",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
