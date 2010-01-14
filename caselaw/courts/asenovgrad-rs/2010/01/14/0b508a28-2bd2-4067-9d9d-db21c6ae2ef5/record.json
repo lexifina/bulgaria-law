@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2010-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 564,
+  "case_year": 2009,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА ПЕЙЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b508a28-2bd2-4067-9d9d-db21c6ae2ef5",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b4d2b0529d1f58fe6a7123169852cbafc231dd8d12c1bdfc3b0f57137c509a3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
