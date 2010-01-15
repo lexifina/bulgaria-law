@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2010-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 391,
+  "case_year": 2008,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c2a943a8-236f-4aa3-8c17-a409a25cec19",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef6610c2bcf5cfad929a9f754c3f9078efd2e5e8c97f7759feb519d7e9aa5151",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
