@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2010-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 495,
+  "case_year": 2009,
+  "judge_rapporteur": "ЮЛИЯНА ВАСИЛЕВА ЦОНЕВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68de3db4-ae48-4576-8b19-51a6a319d85b",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a95d47b86a5a7c686ac25bf81f3d35274759fad22a6f425314bd1bc5330bb3e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
