@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2010-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2695,
+  "case_year": 2009,
+  "judge_rapporteur": "МАЙА ИВАНОВА ПОПОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f3f8dca-51e3-49af-bb2f-96116dfcf6fa",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18ac4aeb6674ab81573691eac66358ef4233eb7e8b75200c2ae5f2e6170a291f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
