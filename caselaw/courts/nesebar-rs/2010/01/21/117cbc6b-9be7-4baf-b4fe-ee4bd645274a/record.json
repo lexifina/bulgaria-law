@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2010-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 698,
+  "case_year": 2009,
+  "judge_rapporteur": "МАРИЕЛА АНАСТАСОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=117cbc6b-9be7-4baf-b4fe-ee4bd645274a",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a3b1d630d3fce7dd3665c6c011efb341dfd08302c6c45a2843489eef9a28b8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
