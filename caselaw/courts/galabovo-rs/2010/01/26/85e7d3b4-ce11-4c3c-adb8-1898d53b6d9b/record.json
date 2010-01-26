@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2010-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 257,
+  "case_year": 2009,
+  "judge_rapporteur": "ХРИСТО АЛЕКСЕЕВ АНГЕЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=85e7d3b4-ce11-4c3c-adb8-1898d53b6d9b",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12e0885629915b38a357310e827a1e323c44fbf6e5383b4df1e481e82501e3e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
