@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2010-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1121,
+  "case_year": 2009,
+  "judge_rapporteur": "ЕВДОКИЯ АТАНАСОВА НАЙДЕНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b318e45-4feb-4655-81a2-efb6ac44480b",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1c4dc857fd6929efdc72db691c5ffcd4730709f955a86667ae1674959b7e608",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
