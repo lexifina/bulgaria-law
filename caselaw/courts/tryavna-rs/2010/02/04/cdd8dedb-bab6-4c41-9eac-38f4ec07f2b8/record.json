@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2010-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 13,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЯРА АНГЕЛОВА ПЕТРАКИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdd8dedb-bab6-4c41-9eac-38f4ec07f2b8",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0e8c0f8a81bfff6546e7b9abcb4ef81dabd4e0402c898a993428499a50c9f0b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
