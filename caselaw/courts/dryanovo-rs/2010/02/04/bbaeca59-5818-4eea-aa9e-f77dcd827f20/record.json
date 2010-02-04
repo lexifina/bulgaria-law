@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2010-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 204,
+  "case_year": 2008,
+  "judge_rapporteur": "РОСЕН ОБРЕТИНОВ СТАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bbaeca59-5818-4eea-aa9e-f77dcd827f20",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c33c871fb74086d09302cc52777f3ee666d8dd009f7570f9897db3899bfc5e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
