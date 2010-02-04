@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2010-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 253,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЕНЦИСЛАВ ДИМИТРОВ ВАСИЛЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4aadadfe-b286-4654-af08-c644e60e0363",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79316952721f253ae3312b42c3d224b8f88652f57e12408b1479e4d976b16749",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
