@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2010-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 35,
+  "case_year": 2010,
+  "judge_rapporteur": "ТОДОР СТОЙКОВ ТОДОРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2228209-0121-44f6-a4a9-7acdd63bb0f9",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81df44d900425e256eb22bc10aade48f7f26cfa55589c82c77d3cfb756d1c177",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
