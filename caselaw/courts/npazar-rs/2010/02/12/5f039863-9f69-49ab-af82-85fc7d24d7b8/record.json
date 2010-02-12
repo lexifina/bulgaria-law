@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2010-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 96,
+  "case_year": 2010,
+  "judge_rapporteur": "ГАЛИНА НИКОЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f039863-9f69-49ab-af82-85fc7d24d7b8",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d76db253e34e56d1ce31e2e307f42f746567478d6628cc6e6fdd463222435db6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
