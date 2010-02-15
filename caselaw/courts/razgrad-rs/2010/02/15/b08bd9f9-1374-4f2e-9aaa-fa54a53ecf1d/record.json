@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2010-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 121,
+  "case_year": 2009,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b08bd9f9-1374-4f2e-9aaa-fa54a53ecf1d",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "51b48dcda45cd7d1798fdfb4d59cb3376117276e6e8e9c6e472f5e1f3eeb45aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
