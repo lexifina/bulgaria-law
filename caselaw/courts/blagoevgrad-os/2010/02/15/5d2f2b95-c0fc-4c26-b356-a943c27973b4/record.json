@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 213,
+  "case_year": 2006,
+  "judge_rapporteur": "Иванка Бикова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d2f2b95-c0fc-4c26-b356-a943c27973b4",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=21.12.2009&to=20.02.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1f56594a22f6f3c939edad6ccb69a414671fe5534eb0b2ba99114ba031cb6c99",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
