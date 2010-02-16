@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 21,
+  "case_year": 2010,
+  "judge_rapporteur": "Татяна Андонова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e20bdb6-5085-4617-a47a-8c68da5b15a0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=21.12.2009&to=20.02.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1f56594a22f6f3c939edad6ccb69a414671fe5534eb0b2ba99114ba031cb6c99",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
