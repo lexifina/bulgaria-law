@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2010-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 72,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЕСЕЛИН АНГЕЛОВ ПЕТРИЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f142d9d-40f9-4e80-8b2f-e96fad47c0a6",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32dd7a6e43e95a47a81b5f3313915a35111fa92c719b940163e34135fb286de1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
