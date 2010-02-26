@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2010-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1584,
+  "case_year": 2009,
+  "judge_rapporteur": "ВАЛЕРИЯ ИВАНОВА АВРАМОВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=641bdeb8-7799-4369-934c-4b05e5f2794b",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6a2073e6e0cfff5c5dc301d1b1e3daaefb8af31c423dc7948f8396162c74f57",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
