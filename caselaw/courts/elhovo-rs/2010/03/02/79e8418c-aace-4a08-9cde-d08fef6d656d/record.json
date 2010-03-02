@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2010-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 155,
+  "case_year": 2009,
+  "judge_rapporteur": "ВИОЛЕТА КОСТАДИНОВА АПОСТОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=79e8418c-aace-4a08-9cde-d08fef6d656d",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33dea4d7ff468aa03e4d94d26729e9c572a6446e6b2466688be9637d4e813477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
