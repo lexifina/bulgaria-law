@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2010-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1777,
+  "case_year": 2009,
+  "judge_rapporteur": "ВЕЛЕМИРА ДЕНЧЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02286a21-a97b-4e04-98dd-a0189fd1fa73",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7fe5365aac7e77dfbdd736b8d9b8ca500d7d7b4610f5ede323f5fd37fbe62c8c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
