@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2010-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 34,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ed5d5dc9-c40a-4ea5-9755-d42488010cdb",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b8b380b4fa17982703c514282606db8c013c812259b226a5697c96724a70a673",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
