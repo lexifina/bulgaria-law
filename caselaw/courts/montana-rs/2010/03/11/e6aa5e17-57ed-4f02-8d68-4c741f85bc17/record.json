@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2010-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 70272,
+  "case_year": 2009,
+  "judge_rapporteur": "РУМЕН ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6aa5e17-57ed-4f02-8d68-4c741f85bc17",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f8c6389e44eb9f541980539c2cd0d1018f8a531872e2fa03a57df6db088144a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
