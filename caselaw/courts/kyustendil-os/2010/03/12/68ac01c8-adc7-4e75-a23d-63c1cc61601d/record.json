@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2010-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 578,
+  "case_year": 2006,
+  "judge_rapporteur": "ДИАНА ЗДРАВКОВА ДАНАИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68ac01c8-adc7-4e75-a23d-63c1cc61601d",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6019a3e586f3f305ef075b5597d2907b7b5a4939788c921a69d103b8a81bc630",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
