@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2010-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно частно административно дело",
+  "case_number": 576,
+  "case_year": 2009,
+  "judge_rapporteur": "ДАНИЕЛА ЛЮБОМИРОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b4afdac9-c148-44ce-aa0a-b3efba13df7b",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "698fd5b4abd045a33f4881c027927864bb2a7ae58656ebc27eab952e20221c67",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
