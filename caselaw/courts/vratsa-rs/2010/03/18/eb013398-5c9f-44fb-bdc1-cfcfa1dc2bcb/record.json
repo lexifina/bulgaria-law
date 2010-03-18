@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2010-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 599,
+  "case_year": 2002,
+  "judge_rapporteur": "ЕМИЛ КРЪСТЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb013398-5c9f-44fb-bdc1-cfcfa1dc2bcb",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "187fa9bb646e4a853d2cd2e39a8375b45596361ef68c0e5cf726a13db5c90a7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
