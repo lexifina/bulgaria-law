@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2010-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 84,
+  "case_year": 2006,
+  "judge_rapporteur": "ГАЛИНА ПЕТКОВА МАГАРДИЧИЯН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=05ef18f4-4b83-47f5-8e0e-49e738d3c71b",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a7ad9fe4fbc2077fc80366242df7e381f5a36188b7f1f79b368556009b243c3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
