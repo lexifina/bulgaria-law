@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 936,
+  "case_year": 2009,
+  "judge_rapporteur": "Иванка Бикова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a88fc19a-4256-4335-9da1-cfc46dd0e1c7",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=21.02.2010&to=23.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d515f97e0ada49efa2af48c785cfe2c102e3a1546638bf667d788932150a7a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
