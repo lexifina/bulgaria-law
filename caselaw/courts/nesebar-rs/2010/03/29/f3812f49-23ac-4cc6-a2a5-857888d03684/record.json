@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2010-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 117,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИЯ МАРКОВА БЕРБЕРОВА-ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3812f49-23ac-4cc6-a2a5-857888d03684",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a3b1d630d3fce7dd3665c6c011efb341dfd08302c6c45a2843489eef9a28b8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
