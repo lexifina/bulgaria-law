@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2010-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 175,
+  "case_year": 2010,
+  "judge_rapporteur": "ПАВЛЕТА ВАСИЛЕВА ДОБРЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49118ea6-a0d2-4d23-a314-90e96d623f23",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "51b48dcda45cd7d1798fdfb4d59cb3376117276e6e8e9c6e472f5e1f3eeb45aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
