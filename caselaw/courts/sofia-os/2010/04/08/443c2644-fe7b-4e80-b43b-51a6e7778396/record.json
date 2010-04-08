@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2010-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 5,
+  "case_year": 2004,
+  "judge_rapporteur": "РАДИ ИВАНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=443c2644-fe7b-4e80-b43b-51a6e7778396",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a6a277901007a0cb75d462db98d6801d406019d7d831a02d15073b9ac85a5df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
