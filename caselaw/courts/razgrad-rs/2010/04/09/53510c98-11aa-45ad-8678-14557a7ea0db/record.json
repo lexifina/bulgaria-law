@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2010-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1562,
+  "case_year": 2009,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53510c98-11aa-45ad-8678-14557a7ea0db",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "51b48dcda45cd7d1798fdfb4d59cb3376117276e6e8e9c6e472f5e1f3eeb45aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
