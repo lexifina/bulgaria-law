@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2010-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 649,
+  "case_year": 1997,
+  "judge_rapporteur": "МАРИЯ ВЕЛИКОВА ОРЛОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0d27b33-9f76-439d-9f06-6a27d473cfe9",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=10.01.2010&to=11.04.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a01096010e70175d1bf9d5ecb7e6f98c1697e7f1814a59447e15c51ec1808684",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
