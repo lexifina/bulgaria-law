@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ардино",
+  "jurisdiction": "BG",
+  "date": "2010-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 23,
+  "case_year": 2010,
+  "judge_rapporteur": "СУНАЙ ЮСЕИН ОСМАН",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b3ee9c9-4ebc-43f6-aa50-6de7d83c2d4e",
+  "motives_file": null,
+  "source": "https://ardino-rs.justice.bg/bg/4775?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf8c7bae25fe9bbcdf008d273a3f47e1aad99b560c8b3fb0a46a04ac83476f97",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
