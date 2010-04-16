@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2010-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 157,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАН ДИМИТРОВ ИВАНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb28d150-91ae-4f7b-a829-ff3816497f02",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71853ba256c27cd0cd82db2eef1ce63e36d381efed0aa9797762e0548030ec1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
