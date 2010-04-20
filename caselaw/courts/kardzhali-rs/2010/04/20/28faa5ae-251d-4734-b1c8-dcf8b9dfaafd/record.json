@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2010-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 989,
+  "case_year": 2009,
+  "judge_rapporteur": "АНГЕЛ МАВРЕВ МОМЧИЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28faa5ae-251d-4734-b1c8-dcf8b9dfaafd",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3d3859bec71833fbc1b6157979eaa158e199228e75025d34bba94a2c419661c5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
