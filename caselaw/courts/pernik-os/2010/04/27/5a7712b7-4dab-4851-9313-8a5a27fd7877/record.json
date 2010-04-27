@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2010-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 79,
+  "case_year": 2010,
+  "judge_rapporteur": "ВИКТОР БОГДАНОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a7712b7-4dab-4851-9313-8a5a27fd7877",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "26e74d9ac6dd06f6ff5ab889b72788d6634be67d84a04bbe1639c302ac73961e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
