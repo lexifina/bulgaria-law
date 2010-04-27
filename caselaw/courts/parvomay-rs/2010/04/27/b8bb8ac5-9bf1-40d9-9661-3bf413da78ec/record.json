@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2010-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 40,
+  "case_year": 2010,
+  "judge_rapporteur": "МАТЕЙ ИВАНОВ ЗЛАТАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8bb8ac5-9bf1-40d9-9661-3bf413da78ec",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "080d39915f9922a39a59c25016cfa402f59a2ab9125ffaa35b369f580c7ca2ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
