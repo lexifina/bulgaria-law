@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2010-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 132,
+  "case_year": 2010,
+  "judge_rapporteur": "КРАСИМИР МАРИНОВ КРЪСТЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab4723ca-77d5-4e84-9351-d80a8dc5c27e",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2e2e6b65a6e78e0dd1262465c0588d19b1da216929f5c94d230b268194333c7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
