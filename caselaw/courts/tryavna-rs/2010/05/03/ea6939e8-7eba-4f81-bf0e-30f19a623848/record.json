@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2010-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 26,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИЯ СТОЯНОВА ДИНЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ea6939e8-7eba-4f81-bf0e-30f19a623848",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96b5bdcfe0af2afc76ce3599bd30d59754398cbb6672f89e4b78d6aa0bab5973",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
