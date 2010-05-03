@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2010-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 326,
+  "case_year": 2009,
+  "judge_rapporteur": "РОСИЦА МАРЧЕВА ЧОКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b80f62e-658a-43eb-ad65-eddb981abd6b",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71853ba256c27cd0cd82db2eef1ce63e36d381efed0aa9797762e0548030ec1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
