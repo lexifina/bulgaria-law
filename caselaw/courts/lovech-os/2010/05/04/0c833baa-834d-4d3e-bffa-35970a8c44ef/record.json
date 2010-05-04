@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2010-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 102,
+  "case_year": 2010,
+  "judge_rapporteur": "СЕВДА ХРИСТОВА ДОЙНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c833baa-834d-4d3e-bffa-35970a8c44ef",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2adfcc95c9b974374615c67104b7600787e3bac9cc462ea2b1987f65df9cfc85",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
