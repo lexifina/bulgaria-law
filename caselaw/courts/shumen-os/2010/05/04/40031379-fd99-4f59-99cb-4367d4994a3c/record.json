@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2010-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5,
+  "case_year": 2010,
+  "judge_rapporteur": "НЕЛИ ГЕОРГИЕВА БАТАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40031379-fd99-4f59-99cb-4367d4994a3c",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd7fd43327dc40ceba8090bbe1033ecbe40da2bba0d42cad50593db9a672916c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
