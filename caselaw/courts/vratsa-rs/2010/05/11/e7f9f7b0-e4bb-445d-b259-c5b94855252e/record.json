@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2010-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 152,
+  "case_year": 2008,
+  "judge_rapporteur": "ВАСИЛ ПЕТРОВ ГАНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e7f9f7b0-e4bb-445d-b259-c5b94855252e",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d1ae305d6aa7d347eddbee6a263fbf1d7046f6be29a92548dca48dcd3c56ad80",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
