@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2010-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 102,
+  "case_year": 2010,
+  "judge_rapporteur": "ЪШЪЛ ЛЮТФИ ИРИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e07f3056-eaa8-4381-86a9-ef716c8a076c",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8792c12a674ff0b6cb301f71569e31524afe57b5f5cce767d65c48c5a7edadac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
