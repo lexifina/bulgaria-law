@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2010-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 483,
+  "case_year": 2010,
+  "judge_rapporteur": "НИКОЛАЙ ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=76b93319-4d78-489f-982b-a7a987e341d0",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7cd33155856c36483bde9d4da3d7199e70acc327dc654992cb5f56703be9c82c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
