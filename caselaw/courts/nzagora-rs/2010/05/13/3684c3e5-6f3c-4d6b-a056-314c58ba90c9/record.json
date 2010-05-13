@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2010-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 296,
+  "case_year": 2010,
+  "judge_rapporteur": "АТАНАС ВАСИЛЕВ СЛАВОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3684c3e5-6f3c-4d6b-a056-314c58ba90c9",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0622cc5210b0622d8f28e54fbcde3a71d9ea0eb94ffd3742445c9416749142e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
