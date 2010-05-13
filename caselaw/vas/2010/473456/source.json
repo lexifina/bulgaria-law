@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 16177,
+  "case_year": 2009,
+  "decision_type": "Решение",
+  "decision_number": "6249",
+  "decision_date": "2010-05-13",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D473456%26code%3Dvas%26guid%3D1541081386",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=473456&code=vas&guid=1541081386",
+  "source_text_sha256": "e81f81c0601ef70ff7952b7b9007ccf082baf513766b15746800886fa0b46b22",
+  "source_images": 0
+}
