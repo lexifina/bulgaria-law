@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2010-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 2411,
+  "case_year": 2009,
+  "judge_rapporteur": "ЖАНЕТ ИВАНОВА БОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36d2e9ba-e570-49f7-ad4d-8d29c39aba4a",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5d21dcf44b20b4b591056ff2230507f1a3b594e63c6750ecab746f2e8b0283e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
