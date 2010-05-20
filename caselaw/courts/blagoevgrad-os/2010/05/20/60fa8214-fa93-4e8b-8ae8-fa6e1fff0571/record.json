@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 252,
+  "case_year": 2010,
+  "judge_rapporteur": "Петър Пандев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60fa8214-fa93-4e8b-8ae8-fa6e1fff0571",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=24.04.2010&to=24.06.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a9f89b3378bd6b78b41635fd0b78b6503ae31212f4964614655f0e1ea5a6cbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
