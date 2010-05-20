@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2010-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 717,
+  "case_year": 2003,
+  "judge_rapporteur": "СВИЛЕН СТАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c1d658e3-67bc-42e8-b8a0-19269f48a2d8",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd7fd43327dc40ceba8090bbe1033ecbe40da2bba0d42cad50593db9a672916c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
