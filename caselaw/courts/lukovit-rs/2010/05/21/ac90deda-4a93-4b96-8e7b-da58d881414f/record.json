@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2010-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 119,
+  "case_year": 2010,
+  "judge_rapporteur": "ПЛАМЕН ИВАНОВ ПЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac90deda-4a93-4b96-8e7b-da58d881414f",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0d3fa4b65972a26e7e0e91456f4c737777eeae4406f39ebedec7cd1196810e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
