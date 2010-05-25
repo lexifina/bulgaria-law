@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2010-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6,
+  "case_year": 2010,
+  "judge_rapporteur": "ФЕНЯ ВЛАДИМИРОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca55d555-91ea-4a53-92d3-4dfe97032680",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "644991f3ff6b9bcf5f25b0194c11b9718cca323ba8894481889e7bdb8f5fdb96",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
