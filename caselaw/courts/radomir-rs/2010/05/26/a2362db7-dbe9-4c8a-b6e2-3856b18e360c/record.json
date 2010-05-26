@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2010-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 305,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВЕТА ПАВЛОВА ТАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2362db7-dbe9-4c8a-b6e2-3856b18e360c",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aacafaa592d897464f37fb461a66bbeb25edf6313356cf7aee3becaaf78b9b86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
