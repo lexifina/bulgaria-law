@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2010-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 42,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИМИТЪР ИЛИЕВ ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6bfb2916-0a45-4570-ad4d-7e276a08cc6e",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b42ac604b819440a4a94c9cffad4d316264adecf59457a52c8cfcc777c89eda",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
