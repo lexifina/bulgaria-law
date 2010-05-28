@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2010-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 142,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЛАДИМИР НИКОЛАЕВ ЛЕГАРСКИ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0ede679-5a48-4de5-9790-c14730a84a6e",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "967ae0b7daca9134fe1f5b7f5342fd6967f3d12331b85f29edca9cabfb4ce0b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
