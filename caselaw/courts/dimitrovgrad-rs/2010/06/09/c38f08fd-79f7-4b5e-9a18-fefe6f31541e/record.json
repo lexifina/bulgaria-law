@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2010-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 721,
+  "case_year": 2010,
+  "judge_rapporteur": "АНТОАНЕТА ВЪЛЧЕВА МИТРУШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c38f08fd-79f7-4b5e-9a18-fefe6f31541e",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b3442b5648921266cb4dd2fba2aaefdbd2aefc56aca695741843abe375c2abd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
