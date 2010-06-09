@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2010-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 409,
+  "case_year": 2010,
+  "judge_rapporteur": "ДАНИЕЛ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d3e7c7d0-80d4-431a-b787-881b5ac879b4",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e6002ea7b2dbc8f5c62dc413fe0ae2c6b857c6447f7715a33fb6417e73592ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
