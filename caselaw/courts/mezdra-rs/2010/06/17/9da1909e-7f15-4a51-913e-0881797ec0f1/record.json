@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2010-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 166,
+  "case_year": 2010,
+  "judge_rapporteur": "ЕВГЕНИ АНГЕЛОВ БОЖИДАРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9da1909e-7f15-4a51-913e-0881797ec0f1",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "180eb19cd6ef18bc061c53d0b3b31100ee6a765cea6f42a257fb34ae04dd88a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
