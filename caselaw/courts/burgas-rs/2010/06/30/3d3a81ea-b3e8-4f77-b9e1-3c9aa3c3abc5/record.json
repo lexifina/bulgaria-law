@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2010-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 340,
+  "case_year": 2010,
+  "judge_rapporteur": "СИЛВИЯ ВЛАДИМИРОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d3a81ea-b3e8-4f77-b9e1-3c9aa3c3abc5",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "abfeeddbf8e724af8017be9aed6e605aa770535c2968155b16ac2de9647c5f11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
