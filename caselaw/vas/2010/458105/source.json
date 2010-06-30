@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 10933,
+  "case_year": 2009,
+  "decision_type": "Решение",
+  "decision_number": "9112",
+  "decision_date": "2010-06-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D458105%26code%3Dvas%26guid%3D1539379609",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=458105&code=vas&guid=1539379609",
+  "source_text_sha256": "0e5c259ed146a56569d10f76cee2c0a78e3d8db852329b4e397765b6001c3a58",
+  "source_images": 0
+}
