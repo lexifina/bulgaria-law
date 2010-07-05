@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2010-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1540,
+  "case_year": 2008,
+  "judge_rapporteur": "ГЕОРГИ БОЙЧЕВ ХРИСТОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f10dd34d-0397-4b9c-8709-b11b4f15a263",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a60570bfc4e848eda927ee259cfd902179cefea0a01c8989305a6302976447f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
