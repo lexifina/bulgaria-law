@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2010-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 24,
+  "case_year": 2010,
+  "judge_rapporteur": "СВЕТОСЛАВА ЙОРДАНОВА ГЕШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f32c81ee-28ee-4325-a336-97b70d26a608",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6b64d15ae7dc1876f2d58e5d58c884a062c614370329b5c09144fd9de910afff",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
