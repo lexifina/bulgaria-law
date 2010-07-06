@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2010-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 315,
+  "case_year": 2009,
+  "judge_rapporteur": "ЦВЕТАН КРЪСТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=74025d26-ae2e-41a0-8803-810f5f62c079",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0d3fa4b65972a26e7e0e91456f4c737777eeae4406f39ebedec7cd1196810e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
