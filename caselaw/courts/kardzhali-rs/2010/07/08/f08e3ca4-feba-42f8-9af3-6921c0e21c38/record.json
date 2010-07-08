@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2010-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 631,
+  "case_year": 2010,
+  "judge_rapporteur": "ВАЛЕНТИН КОСТАДИНОВ СПАСОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f08e3ca4-feba-42f8-9af3-6921c0e21c38",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=12.04.2010&to=12.07.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3d3859bec71833fbc1b6157979eaa158e199228e75025d34bba94a2c419661c5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
