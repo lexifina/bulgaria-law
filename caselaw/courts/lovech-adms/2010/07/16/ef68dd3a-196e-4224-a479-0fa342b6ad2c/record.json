@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2010-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 84,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИМИТРИНА ВАСИЛЕВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef68dd3a-196e-4224-a479-0fa342b6ad2c",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c635d0e92a817cbadc2937cb3aee449275b318a8a943fdacdcc4dd9b53cc04b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
