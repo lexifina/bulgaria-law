@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2010-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 31,
+  "case_year": 2010,
+  "judge_rapporteur": "ЛИДИЯ БОЖИДАРОВА ТОМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc30bebd-65c3-4423-99c7-c938509c7f72",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b124d5cfd858029381a04dcd3248af855097d223c14850c5178d39c6714f7ceb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
