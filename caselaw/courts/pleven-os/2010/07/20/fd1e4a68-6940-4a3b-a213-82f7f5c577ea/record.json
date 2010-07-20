@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2010-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 50,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЕСЕЛА ЛЮБОМИРОВА САХАТЧИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fd1e4a68-6940-4a3b-a213-82f7f5c577ea",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ee09a2c85d25540588f53e190f540f65b49ca4d9712fad844660548a8858504",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
