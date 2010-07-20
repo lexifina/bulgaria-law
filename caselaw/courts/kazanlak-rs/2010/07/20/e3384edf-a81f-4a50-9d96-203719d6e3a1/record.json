@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2010-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 436,
+  "case_year": 2010,
+  "judge_rapporteur": "ДЕЯН ГОСПОДИНОВ ИЛИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e3384edf-a81f-4a50-9d96-203719d6e3a1",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dce9df4de12a05d45ce72d01e465b616801756cd47468fca969aeddd1ecf15dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
