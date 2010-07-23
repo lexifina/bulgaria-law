@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2010-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 306,
+  "case_year": 2010,
+  "judge_rapporteur": "КОРНЕЛИЯ СЪБЕВА ДОБРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04a3e6d3-a162-46ab-90a1-821e93871afd",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6450bf4675343a49c3499d5853a1e55c35065a10f8176c3477dcde4a8db2929",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
