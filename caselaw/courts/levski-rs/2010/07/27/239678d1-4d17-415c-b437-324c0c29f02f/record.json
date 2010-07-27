@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2010-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 388,
+  "case_year": 2010,
+  "judge_rapporteur": "СТОЙКА ГЕОРГИЕВА МАНОЛОВА СТОЙКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=239678d1-4d17-415c-b437-324c0c29f02f",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cca8706b67549f6c23dabc90b7de36f44dd37957544a389f70500034b3e0090f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
