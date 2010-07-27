@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2010-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 187,
+  "case_year": 2002,
+  "judge_rapporteur": "НАСЯ ИВАНОВА ЯПАДЖИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=257213a2-6348-4df0-81db-e0b4b625d8c2",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71c87b356a39025e37f61c1ce6530f9f40aa424689bd1b7be1f7b7f92760fefe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
