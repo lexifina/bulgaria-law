@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2010-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1130,
+  "case_year": 2010,
+  "judge_rapporteur": "ИРИНА СТЕФАНОВА СУРЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0d86450-7d54-4f24-8ef3-77e0e2906197",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c4ea38e8dabb9ea43a9b7856d12ad2f182793d2bd5d1a042000f372ff1d789af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
