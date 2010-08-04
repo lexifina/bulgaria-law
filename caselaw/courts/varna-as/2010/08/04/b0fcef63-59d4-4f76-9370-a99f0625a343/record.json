@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2010-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 412,
+  "case_year": 2010,
+  "judge_rapporteur": "ПЕТЯ ИВАНОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0fcef63-59d4-4f76-9370-a99f0625a343",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "999634f405ef776bed5a24f2723f108a5731ea1d977fae0f98c8b43d17c77a63",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
