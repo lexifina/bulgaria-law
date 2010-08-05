@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2010-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2735,
+  "case_year": 2000,
+  "judge_rapporteur": "АНЖЕЛИНА ДАНЧОВА ХРИСТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2f73c65-5b0b-48c8-86cd-8f9b93e21a4d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a5c4af42c5be109f1e0aab0246d7e80f20ef8fde004c4099a309a7714293b7e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
