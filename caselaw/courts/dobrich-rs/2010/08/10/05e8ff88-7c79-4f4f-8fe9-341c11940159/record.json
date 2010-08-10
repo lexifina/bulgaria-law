@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2010-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3611,
+  "case_year": 2010,
+  "judge_rapporteur": "ЛЮБОМИР ИВАНОВ ГЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=05e8ff88-7c79-4f4f-8fe9-341c11940159",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5230d5f70d0e54e6f9990a073a98a05a6a91ecae6d39a716fc341e6880640c19",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
