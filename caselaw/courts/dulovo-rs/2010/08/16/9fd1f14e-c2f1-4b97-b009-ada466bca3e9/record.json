@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2010-08-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 149,
+  "case_year": 2010,
+  "judge_rapporteur": "СИЛВИЯ ДИМИТРОВА ХРИСТОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9fd1f14e-c2f1-4b97-b009-ada466bca3e9",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "961ba35d5f1caeb1cb46b1cbd0f0dd249b6fa051cd6e4327fdc44623a129200f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
