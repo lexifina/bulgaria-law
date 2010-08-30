@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2010-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 394,
+  "case_year": 2007,
+  "judge_rapporteur": "АНГЕЛИНКА НИКОЛОВА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ffc79ec-71f6-4a9a-baa5-48b219e6a188",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd7d0e3b0d6eac3dfbc27e25f5f6ba7e49cf77171cd7fa9a3ad8df0bd56afedd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
