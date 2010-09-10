@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2010-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 585,
+  "case_year": 2009,
+  "judge_rapporteur": "ТЕОДОРИНА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89372d1e-1d98-4d93-aad5-d28c0b428e53",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4428a7e9d4499880946548b7a862da31ebc39134b4ca9e043ceee2a27eb24758",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
