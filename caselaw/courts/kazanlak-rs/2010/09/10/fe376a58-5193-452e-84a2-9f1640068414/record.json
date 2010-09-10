@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2010-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 963,
+  "case_year": 2010,
+  "judge_rapporteur": "ДЕЯН ГОСПОДИНОВ ИЛИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe376a58-5193-452e-84a2-9f1640068414",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dce9df4de12a05d45ce72d01e465b616801756cd47468fca969aeddd1ecf15dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
