@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2010-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4690,
+  "case_year": 2010,
+  "judge_rapporteur": "ПАНАЙОТ СТОЯНОВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a2f28b1-a552-4ce3-87da-4724132abc6e",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24d925ec1f6511dac514a4be2f031bc79f85c3053dd6cb81401e05d0e04e4efb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
