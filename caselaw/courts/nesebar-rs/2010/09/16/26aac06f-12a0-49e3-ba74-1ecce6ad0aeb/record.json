@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2010-09-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 705,
+  "case_year": 2010,
+  "judge_rapporteur": "ТАНЯ ГЕНЧЕВА СПАСОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26aac06f-12a0-49e3-ba74-1ecce6ad0aeb",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d49daafcc585bf766c9acdc8c6a40b5327f6f4d5782bb734f9846e7267784cf5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
