@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2010-09-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 185,
+  "case_year": 2009,
+  "judge_rapporteur": "БОЖИДАРКА ДАНЧОВА ЙОСИФОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6e625b1d-1530-46cf-a8d0-b698c2da230c",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c2d1c967523482e126034f1c8a53d8994a93c4b1984fd45b1594e9826424dfb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
