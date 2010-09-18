@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2010-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 255,
+  "case_year": 2010,
+  "judge_rapporteur": "ЦВЯТКО НИКОЛОВ МАНГОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=898bcdb3-df9e-494c-ab9a-7d51189d0c30",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "814ec8561ff021f76f1ef1295b19432a2333c7dee187608418038f216dab8b8f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
