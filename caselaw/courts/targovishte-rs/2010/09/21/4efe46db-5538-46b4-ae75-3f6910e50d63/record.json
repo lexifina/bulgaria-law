@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2010-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 524,
+  "case_year": 2010,
+  "judge_rapporteur": "ТОДОР ИВАНОВ ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4efe46db-5538-46b4-ae75-3f6910e50d63",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2dd46e39d03077cb0415aecb302978fac2140c0417c4140a55cf3e6a221cb3db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
