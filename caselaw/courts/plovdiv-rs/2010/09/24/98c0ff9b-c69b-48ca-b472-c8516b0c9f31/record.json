@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2010-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4067,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИМИТЪР ВАСИЛЕВ КАЦАРЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98c0ff9b-c69b-48ca-b472-c8516b0c9f31",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05487a7241e60a75bb3d7dd639905977ee0d5c15c691dcac470fbb859b114f6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
