@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2010-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 754,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАНЕТА ЙОРДАНОВА МИТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7a585c0-a0dc-41ab-b619-1718df74177f",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "010507627a8ee10ebd03aa33888073e932b52e8096ea1a5e95c3af098d0891de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
