@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2010-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 678,
+  "case_year": 2010,
+  "judge_rapporteur": "НЕЛИ ИВАНОВА КАМЕНСКА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d89d5208-1561-4267-a19c-97c460f5315f",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d982be1ff8b1422c4fb90e97b6c4d2acccc4ffb2af438108a95fdc7239be3d3b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
