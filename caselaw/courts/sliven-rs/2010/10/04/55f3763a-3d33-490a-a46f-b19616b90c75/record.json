@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2010-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2655,
+  "case_year": 2010,
+  "judge_rapporteur": "СВЕТОЗАР ДИМОВ СВЕТИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55f3763a-3d33-490a-a46f-b19616b90c75",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e9a23d73b4e0c163c1ba414993efe1573409647cc782d68801924cbab33a1a5e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
