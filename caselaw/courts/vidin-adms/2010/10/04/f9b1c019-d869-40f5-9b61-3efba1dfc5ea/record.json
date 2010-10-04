@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2010-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 97,
+  "case_year": 2010,
+  "judge_rapporteur": "РОСИЦА ХРИСТОВА СЛАВЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f9b1c019-d869-40f5-9b61-3efba1dfc5ea",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5bbe4cd15b4a3d76801c19e61f390689b80acc47f250738b5b7b0f84a40f19e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
