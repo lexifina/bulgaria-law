@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2010-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 620,
+  "case_year": 2010,
+  "judge_rapporteur": "ЕМАНОЕЛ ВАРДАРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2952cc1f-1f83-4cb5-addd-d5f9c656dfe4",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4428a7e9d4499880946548b7a862da31ebc39134b4ca9e043ceee2a27eb24758",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
