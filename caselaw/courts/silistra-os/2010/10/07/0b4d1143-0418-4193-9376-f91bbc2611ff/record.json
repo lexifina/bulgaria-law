@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2010-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 224,
+  "case_year": 2010,
+  "judge_rapporteur": "АНЕЛИЯ ДИМИТРОВА ВЕЛИКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b4d1143-0418-4193-9376-f91bbc2611ff",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "864e3bde263848c8a5425be4dbd2b2594321528d8c348cd1483ec441bbc5a332",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
