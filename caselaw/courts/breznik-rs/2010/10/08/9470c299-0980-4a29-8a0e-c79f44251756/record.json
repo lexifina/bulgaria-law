@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2010-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 57,
+  "case_year": 2010,
+  "judge_rapporteur": "КРИСТИАН БОЖИДАРОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9470c299-0980-4a29-8a0e-c79f44251756",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "78092f0580008332d05758f56c109defbb8507290589e57b8f6523658f0175a7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
