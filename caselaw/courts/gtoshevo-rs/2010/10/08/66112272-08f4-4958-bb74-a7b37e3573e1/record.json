@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2010-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 228,
+  "case_year": 2010,
+  "judge_rapporteur": "РОСЕН МИНКОВ СТОЯНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66112272-08f4-4958-bb74-a7b37e3573e1",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=13.07.2010&to=12.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33427a59b5a206abbcecbaaa2a0fdee5f972c3dec5967fee0cf469640b27db69",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
