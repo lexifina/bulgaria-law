@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 697,
+  "case_year": 2010,
+  "judge_rapporteur": "Петър Узунов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0cd6d387-1851-44b1-8200-002b0a311cc0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=26.08.2010&to=26.10.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3de2c11452831dd8a882d9ede67717d6196e1d14c3423fd433dc20f58eff8d8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
