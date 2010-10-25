@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2010-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 453,
+  "case_year": 2007,
+  "judge_rapporteur": "ЮЛИЯ СТАНКОВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d141891e-dbe2-462b-bdc6-3f494bec3a1b",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9e31444d39e729a614f8f28f6bb5e477e819c2655d0082e86d055ca86087009",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
