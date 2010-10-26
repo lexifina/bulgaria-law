@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2010-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 227,
+  "case_year": 2010,
+  "judge_rapporteur": "ЛЮБОМИРА ЛЮБЕНОВА КРЪСТЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30928f56-2682-433d-b9b5-19b192a90240",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1201a3306d37e43b9024b54e372d1a6b13d1c6bc8a3dfd86352b3cc030232ff0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
