@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2010-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 27,
+  "case_year": 2010,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07719ea3-2d3a-4737-b686-08652f4357ee",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d7c4e266cad0af0ce8475f01add01e6878d991ff782df7ed93d62be8dce56931",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
