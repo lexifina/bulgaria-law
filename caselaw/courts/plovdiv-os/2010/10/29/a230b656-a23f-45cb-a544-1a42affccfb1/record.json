@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2010-10-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2557,
+  "case_year": 2008,
+  "judge_rapporteur": "МАРИЕТА БЛАГОЕВА БЕДРОСЯН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a230b656-a23f-45cb-a544-1a42affccfb1",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24cafbf085e6a4e6966f9383977866439cd0fd759cc5cff2ef19e1deedaf1e5e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
