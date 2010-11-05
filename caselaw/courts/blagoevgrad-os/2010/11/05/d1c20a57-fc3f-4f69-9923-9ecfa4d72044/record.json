@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2010-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 648,
+  "case_year": 2010,
+  "judge_rapporteur": "Надя Узунова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1c20a57-fc3f-4f69-9923-9ecfa4d72044",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=27.10.2010&to=27.12.2010&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cfcc8acd8a7b8415f3fbe77df2bbcbaf9d14fb41055d533b4fb9a576d1a4d4e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
