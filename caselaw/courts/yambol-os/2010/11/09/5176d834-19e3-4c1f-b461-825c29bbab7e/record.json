@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2010-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 512,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАН ДИМИТРОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5176d834-19e3-4c1f-b461-825c29bbab7e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c31e7e28ec2d1f62e59d8fe38a48d3f4cfcb8a5dac7a2495501fdb2bb14b7060",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
