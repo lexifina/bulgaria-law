@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2010-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 90,
+  "case_year": 2010,
+  "judge_rapporteur": "ПЛАМЕН НИКОЛАЕВ ПОПОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=00ff09d2-cfcb-45d3-a9eb-eaf2cecacaf1",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0be6b23371c7527250e3d7463751fd6bedca6982f07d7ded2ea709ab2bbc845c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
