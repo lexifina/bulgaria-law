@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2010-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 347,
+  "case_year": 2010,
+  "judge_rapporteur": "НАНКО СЪБОВ МАРИНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b2ce2b8-cbfe-4029-8383-f54a6ca66ffa",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "328fd4b17a12dbb4c1c0d2b363f816d10c88d154f7f8455db36e834061a020ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
