@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2010-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2829,
+  "case_year": 2008,
+  "judge_rapporteur": "НИКОЛИНКА НИКОЛОВА ПОПОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bf55f4a3-7a78-4d10-83d9-310ca230e25a",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9521e623d6f7ffbc87397d22be4f129e08d2cee1320bcab17d55c9c8fb39271",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
