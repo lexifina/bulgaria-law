@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2010-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3138,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРГАРИТА ПЛАМЕНОВА АЛЕКСИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7f89e061-fecf-4b62-bcbb-b91aa646cfe5",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b681522c0739bacfd1d1c1a2d7d8b4c52aba3103f2d0127ff0425cd050af2c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
