@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2010-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 154,
+  "case_year": 2008,
+  "judge_rapporteur": "НИКОЛАЙ МИНЧЕВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aeb7d87b-83eb-44d9-bcc1-26036aad72fc",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f651695e443f31d0bbc5ed0879a62798cf4ff0c2f320fe065f83c645ddac4c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
