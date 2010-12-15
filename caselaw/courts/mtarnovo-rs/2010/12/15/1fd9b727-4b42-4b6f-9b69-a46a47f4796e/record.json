@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2010-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 41,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА МОСКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1fd9b727-4b42-4b6f-9b69-a46a47f4796e",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3babaa79f219f968e69bc6ef76da7b9d21af86c86d18537155761a79a14e9a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
