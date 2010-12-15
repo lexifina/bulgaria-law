@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2010-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 645,
+  "case_year": 2010,
+  "judge_rapporteur": "АСЕН НАЙДЕНОВ ШОПОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f43f6cfd-ec4e-4bfb-bad3-81d560f9fe92",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "739f8a8bdb30c39cb5d3058f66599d871cde894026274f0cf6e574bb54c86e50",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
