@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2010-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 512,
+  "case_year": 2010,
+  "judge_rapporteur": "ОГНЯН ХРИСТОВ ГЪЛЪБОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38fa294a-5e88-4745-b442-27a91f22fad7",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c99e57d08b58d15cf22ce7349d42a88d3aecc2355604d4416c930adc6765d9d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
