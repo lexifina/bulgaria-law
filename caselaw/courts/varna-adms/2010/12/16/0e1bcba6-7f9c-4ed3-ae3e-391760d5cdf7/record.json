@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2010-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 3595,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИАНА ВЕСЕЛИНОВА СТАМБОЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e1bcba6-7f9c-4ed3-ae3e-391760d5cdf7",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bceb68a9701717a310091b1728fe44578cad0ed56a3a9ddd6e56042fb455e54c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
