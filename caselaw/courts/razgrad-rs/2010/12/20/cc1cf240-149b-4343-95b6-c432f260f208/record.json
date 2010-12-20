@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2010-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 675,
+  "case_year": 2010,
+  "judge_rapporteur": "ДОРОТЕЯ ЕНЧЕВА ИВАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc1cf240-149b-4343-95b6-c432f260f208",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f18eb0fb6ffa35b2cb30de4a32424ea84d940f7c21aa69257d4e72bec2c3e38",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
