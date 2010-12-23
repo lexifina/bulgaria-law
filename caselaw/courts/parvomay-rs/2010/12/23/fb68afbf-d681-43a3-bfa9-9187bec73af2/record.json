@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2010-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 64,
+  "case_year": 2010,
+  "judge_rapporteur": "МАТЕЙ ИВАНОВ ЗЛАТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb68afbf-d681-43a3-bfa9-9187bec73af2",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03e76f4301fb09c9d2f7b8e86670386e8cc6ba00e91caf303f07926a7954af50",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
