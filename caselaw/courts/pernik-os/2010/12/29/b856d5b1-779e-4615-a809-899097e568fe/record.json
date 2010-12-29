@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2010-12-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 47,
+  "case_year": 2010,
+  "judge_rapporteur": "БОРИСЛАВА АЛЕКСАНДРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b856d5b1-779e-4615-a809-899097e568fe",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cccf5a03b4d1976ed7670fa2973e23c0c1100bd6f8cb930a8377d1ce02b9ff0f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
