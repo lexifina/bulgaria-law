@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2011-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 228,
+  "case_year": 2007,
+  "judge_rapporteur": "ДОНКА НИКОЛАЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a74d625c-3f97-4d83-9169-1cfb358e5ec4",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d7c4e266cad0af0ce8475f01add01e6878d991ff782df7ed93d62be8dce56931",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
