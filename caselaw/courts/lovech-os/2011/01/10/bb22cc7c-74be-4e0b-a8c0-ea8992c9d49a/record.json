@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2011-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 626,
+  "case_year": 2010,
+  "judge_rapporteur": "МАГДАЛЕНА ДОЧЕВА СТАНЧЕВСКА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb22cc7c-74be-4e0b-a8c0-ea8992c9d49a",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "54db31ce6ce8220697b034355bcd0b84862733687827c238198756e77e6cb605",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
