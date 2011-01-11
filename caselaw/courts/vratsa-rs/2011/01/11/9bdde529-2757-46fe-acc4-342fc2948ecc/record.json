@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2011-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 635,
+  "case_year": 2010,
+  "judge_rapporteur": "СТЕЛА ПЕТРОВА КОЛЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9bdde529-2757-46fe-acc4-342fc2948ecc",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=13.10.2010&to=12.01.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7bed77f7635d80915c93cda459fef0dc3cf078388581e603a30dd1fcfb39bcd5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
