@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2011-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 754,
+  "case_year": 2010,
+  "judge_rapporteur": "ПАЛМИРА ДИМИТРОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af4ed66e-7288-4b8c-9ead-ba616068c32b",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5dc41719e4864c4faabe931d5456c490230b5f41fe4016bc47d9fc3dad48c3c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
