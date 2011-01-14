@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2011-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 365,
+  "case_year": 2010,
+  "judge_rapporteur": "ИСКРА СТОЯНОВА ВАРАДЖАКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=abee39dd-7c2e-4353-af81-d4595eaae34d",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "097115aa9ae6ba2d81a4a9c044e83de3c7351fb33b2214632f1bf2f75e50b851",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
