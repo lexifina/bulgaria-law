@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 8118,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАН МИНЧЕВ МИНЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9892760a-53fc-4d2a-b939-dc87e0f34c9c",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e0fc81ac37924c7ce0d83c13e3c4df2dfa3b9828fc62c4d6fa3b32816c77750",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
