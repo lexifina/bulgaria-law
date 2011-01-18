@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2011-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 430,
+  "case_year": 2009,
+  "judge_rapporteur": "СТОЙКА ГЕОРГИЕВА МАНОЛОВА СТОЙКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46c0e696-c93d-495b-8bf9-18c5752bbc6b",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5dc41719e4864c4faabe931d5456c490230b5f41fe4016bc47d9fc3dad48c3c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
