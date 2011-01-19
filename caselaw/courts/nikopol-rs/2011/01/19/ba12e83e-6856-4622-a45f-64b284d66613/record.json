@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2011-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1330,
+  "case_year": 2010,
+  "judge_rapporteur": "ТОДОР ИЛИЕВ ТИХОЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba12e83e-6856-4622-a45f-64b284d66613",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2c31918a6ad362b88fb9ae4d15be39cbce3e5c07caac780b4f43bbfda4f99072",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
