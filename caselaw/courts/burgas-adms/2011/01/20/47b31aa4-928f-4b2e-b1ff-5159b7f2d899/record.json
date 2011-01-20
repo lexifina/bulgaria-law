@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2011-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 1649,
+  "case_year": 2010,
+  "judge_rapporteur": "АТАНАС ГАНЧЕВ ВЪЛКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=47b31aa4-928f-4b2e-b1ff-5159b7f2d899",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ebc02002323df810f82e85a0f3a4c41bb421d05816d9c68b3b1e95932ea5d2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
