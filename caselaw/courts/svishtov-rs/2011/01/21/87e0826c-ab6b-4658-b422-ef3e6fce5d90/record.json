@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2011-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1012,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87e0826c-ab6b-4658-b422-ef3e6fce5d90",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "163b916611c57c5bb27f67e445dde7f7405d31248c72bd871a416eb2ada4e08e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
