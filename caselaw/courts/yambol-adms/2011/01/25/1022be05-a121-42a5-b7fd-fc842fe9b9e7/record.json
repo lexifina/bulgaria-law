@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2011-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно административно дело",
+  "case_number": 5,
+  "case_year": 2011,
+  "judge_rapporteur": "ХРИСТО ЙОРДАНОВ ХРИСТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1022be05-a121-42a5-b7fd-fc842fe9b9e7",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cad0cbe253fce4a91dd55ecf7d7ffcedb114bd35ff0f031e278cad9fd69dc8f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
