@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2011-01-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1955,
+  "case_year": 2010,
+  "judge_rapporteur": "АНТОН РАНГЕЛОВ ИГНАТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9adc1a9c-c2ab-4308-af1b-96ba82f16af1",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96222ae4763d2e6201517b233ec89153023b374e26a0472c54b84030a4157927",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
