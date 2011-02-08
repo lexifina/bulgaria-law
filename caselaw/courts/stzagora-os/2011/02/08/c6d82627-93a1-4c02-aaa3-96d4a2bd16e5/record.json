@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 153,
+  "case_year": 2010,
+  "judge_rapporteur": "ТАТЯНА ГЬОНЕВА КОЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6d82627-93a1-4c02-aaa3-96d4a2bd16e5",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9278bede97fb6b9f0ab72aff89fe02c93695755b531f8ec0b5626f322de5087c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
