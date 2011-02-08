@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2011-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10764,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАЙЛО ЙОСИФОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c9116525-597a-4e1a-95cb-ff1291010132",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57459edd017f3536b9f3965518300fc4bc40d9a3c49c0f3bac101613c2d8d1ab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
