@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1631,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРТИН ДИМИТРОВ КЮЧУКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e33bd4b2-7a31-4434-9919-ba689b9bc800",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ea2ad5aa18d0403c983e1e18d458ec7f6f55e5a19fa8562878374dd4b52aac18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
