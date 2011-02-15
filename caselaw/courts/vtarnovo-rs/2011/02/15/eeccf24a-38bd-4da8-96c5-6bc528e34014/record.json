@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2011-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1099,
+  "case_year": 2010,
+  "judge_rapporteur": "ДЕСИСЛАВА ЧАЛЪКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eeccf24a-38bd-4da8-96c5-6bc528e34014",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "92ac04de2f9ca069c69c1ab8781a25065938de43e1ce8f6d42755b4d93c9e415",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
