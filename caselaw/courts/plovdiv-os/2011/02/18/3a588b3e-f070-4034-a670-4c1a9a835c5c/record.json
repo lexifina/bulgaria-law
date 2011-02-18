@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 795,
+  "case_year": 2008,
+  "judge_rapporteur": "РУМЯНА ИВАНОВА ПАНАЙОТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a588b3e-f070-4034-a670-4c1a9a835c5c",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba2c6ca8d4992911db50d98b6751e8e57c3a137a021bad353c1e9dc412783a5c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
