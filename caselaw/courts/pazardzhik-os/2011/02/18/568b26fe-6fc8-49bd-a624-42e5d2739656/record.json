@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2011-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 659,
+  "case_year": 2009,
+  "judge_rapporteur": "ИЛИАНА ГЕОРГИЕВА ДИМИТРОВА ВАСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=568b26fe-6fc8-49bd-a624-42e5d2739656",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18eaf1b7fb55a1e0b0bad13fbe5e68f04770f39c35509003338c3da60dd1840a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
