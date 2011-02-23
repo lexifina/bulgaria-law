@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2011-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 39,
+  "case_year": 2011,
+  "judge_rapporteur": "АДРИАНА ПАНАЙОТОВА ПАНАЙОТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f7a32c64-8607-4902-b166-a348601b763d",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2d3b93c992e426c62adbb1a423b66bac53e449f229163fa77aa8eb17e29bfec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
