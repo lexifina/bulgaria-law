@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2011-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 402,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИЯ МАКСИМОВА КАРАДЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d97e534-7812-4114-9eae-0b64fca73043",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68dc2bda1959702dbdb01c3864ccbe0043acd247e2c1c3696b9421888a9f5343",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
