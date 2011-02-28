@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2011-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1514,
+  "case_year": 2010,
+  "judge_rapporteur": "ДЕСИСЛАВА ГЕОРГИЕВА ЮТЕРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb6af271-2111-4484-92d5-ffcb71fb82ed",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88b1751b910c4254f0b51112e9da057ade141a4ce704c5c982c6b7b81ca60b59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
