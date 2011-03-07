@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2011-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 300,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИАНА БОРИСОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6eb413f1-bf7e-4514-b8d8-08e9d3afca64",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b1dac7de9169d03d3127a1fb36ed9e4baf1ad7eff52ed87340314567c895c8c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
