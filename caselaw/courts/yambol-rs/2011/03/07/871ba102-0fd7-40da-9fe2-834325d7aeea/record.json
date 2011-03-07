@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2011-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 665,
+  "case_year": 2009,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА НЕСТОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=871ba102-0fd7-40da-9fe2-834325d7aeea",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "98afe086aaa115c9df9d2761e62ee544451e4ad2ee9a31cb573090a8f2d84d86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
