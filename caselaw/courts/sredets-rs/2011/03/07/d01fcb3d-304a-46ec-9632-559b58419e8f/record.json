@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2011-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 639,
+  "case_year": 2010,
+  "judge_rapporteur": "СТОЯН ПЕТРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d01fcb3d-304a-46ec-9632-559b58419e8f",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d276daf3191521d936b8a64e21419a50dbe19b678f488487906a9610c1ff8b15",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
