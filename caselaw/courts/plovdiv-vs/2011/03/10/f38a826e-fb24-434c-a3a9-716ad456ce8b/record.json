@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 73,
+  "case_year": 2011,
+  "judge_rapporteur": "СТОЙКО ДРАГАНОВ СПАСОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f38a826e-fb24-434c-a3a9-716ad456ce8b",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1237bd28cdadc7d57bb14233d437bbf0399aa89e4701d4a7e07f4ea3513e1fa6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
