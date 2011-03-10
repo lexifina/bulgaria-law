@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 713,
+  "case_year": 2011,
+  "judge_rapporteur": "АЛЕКСАНДЪР ДИМОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3790f8e4-c882-4e0c-b54f-f4ef0d5a85ea",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a7d8002f7aed514ae82eba280e9910d4a96a1d3ba9e07d4ff820f3fd09b92e2c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
