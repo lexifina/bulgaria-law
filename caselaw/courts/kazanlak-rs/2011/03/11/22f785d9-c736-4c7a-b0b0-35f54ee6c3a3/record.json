@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2011-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1312,
+  "case_year": 2010,
+  "judge_rapporteur": "РАДОСЛАВА МАЖДРАКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22f785d9-c736-4c7a-b0b0-35f54ee6c3a3",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae2524d45beb8c7163006d681b8f6d467cfa801101b9d26b11be43d2d66bd54d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
