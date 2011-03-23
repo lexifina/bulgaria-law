@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2011-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 78,
+  "case_year": 2011,
+  "judge_rapporteur": "НАТАША ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=240fa6b5-90f1-4afe-9eff-cb3d416d1d6b",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a925d63eb524913705d04029da181411ac866f578e05fa4ae6a4579ef1e4c9e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
