@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2011-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 18,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕМИЛИЯ КИРИЛОВА КИРОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c9dfc4c-e635-4664-8ba2-7d9b2e1d911d",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43c331ad34cf12ec9fe44fbaaf17b4c7b283375c5942dde7b0bca80eac18ab2a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
