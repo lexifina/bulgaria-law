@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1326,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕКАТЕРИНА СТЕФАНОВА РОГЛЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5717edd1-256e-4785-9997-d75f82b142cb",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e0fc81ac37924c7ce0d83c13e3c4df2dfa3b9828fc62c4d6fa3b32816c77750",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
