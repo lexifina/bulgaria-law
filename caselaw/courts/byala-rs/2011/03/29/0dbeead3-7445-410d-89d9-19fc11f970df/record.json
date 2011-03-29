@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2011-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 336,
+  "case_year": 1999,
+  "judge_rapporteur": "ПЛАМЕН ТОДОРОВ ДОЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dbeead3-7445-410d-89d9-19fc11f970df",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0b762c662b977c73c93e1bfc8de5102fa20aa2c7f8bde267a79fe5749055340",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
