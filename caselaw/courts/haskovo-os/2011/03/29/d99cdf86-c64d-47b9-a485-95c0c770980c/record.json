@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 132,
+  "case_year": 2011,
+  "judge_rapporteur": "МИЛЕНА ПЕТЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d99cdf86-c64d-47b9-a485-95c0c770980c",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dff69ce95d5156db1ba419b5efbd03a279dd40678145e4b2a46785139d0bd0b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
