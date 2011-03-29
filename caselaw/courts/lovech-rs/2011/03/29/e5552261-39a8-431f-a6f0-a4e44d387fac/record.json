@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2011-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2441,
+  "case_year": 2010,
+  "judge_rapporteur": "НАТАЛИЯ СЕМОВА РАЙКОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5552261-39a8-431f-a6f0-a4e44d387fac",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56e301702ba0f914be69e25d1758011e3ff5a7471a82488ee7fce69249c026cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
