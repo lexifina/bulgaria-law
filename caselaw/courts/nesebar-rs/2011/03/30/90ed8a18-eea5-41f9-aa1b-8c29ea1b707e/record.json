@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2011-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 920,
+  "case_year": 2010,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=90ed8a18-eea5-41f9-aa1b-8c29ea1b707e",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5ab788fd33fa388f8d85f18a66bd24bc6f715c83b524c00554b17ca93281e61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
