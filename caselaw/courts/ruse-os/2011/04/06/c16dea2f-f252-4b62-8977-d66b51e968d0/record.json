@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2011-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 563,
+  "case_year": 2010,
+  "judge_rapporteur": "МИЛЕНА БОРИСОВА БУХЧЕВА-ПЕЙЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c16dea2f-f252-4b62-8977-d66b51e968d0",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe56ffaa6d4ceb75bc823fdb78d6a7331f5faceee7a3bcfb65fb36f2a441a50c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
