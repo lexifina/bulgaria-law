@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2011-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1960,
+  "case_year": 2010,
+  "judge_rapporteur": "ЙОРДАНКА ХРИСТОВА ВУТОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d16307c5-2ad4-4db2-86a9-c0b1c1908a31",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56e301702ba0f914be69e25d1758011e3ff5a7471a82488ee7fce69249c026cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
