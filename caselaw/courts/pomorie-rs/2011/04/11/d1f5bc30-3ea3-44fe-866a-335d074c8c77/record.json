@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2011-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 116,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1f5bc30-3ea3-44fe-866a-335d074c8c77",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "059df0875b48fc6a2ecd0f862afc9029f2f8b0f888befd84fa5cb6585ea7dbf9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
