@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2011-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 344,
+  "case_year": 2009,
+  "judge_rapporteur": "Надя Узунова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b98339f-934a-4817-beb9-e19a7c1879c0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=28.02.2011&to=30.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a0cc634cb4c9861752bcc453a2561dd94fb824049493c8969f982b98dc13339",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
