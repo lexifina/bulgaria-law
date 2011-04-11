@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2011-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1938,
+  "case_year": 2011,
+  "judge_rapporteur": "РАДОСТИНА СТАМАТОВА МЕТОДИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39152d9a-820e-4f2a-a8c5-30671f3ee4dc",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5c5aeaca45d6e730c1a7e4134fdca76793150f0fc5ee2f7914c70edbc6ed9a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
