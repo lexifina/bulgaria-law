@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2011-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 3,
+  "case_year": 2011,
+  "judge_rapporteur": "АНЕТА ИВАНОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1ed8a17c-f73b-4849-818a-d854de989102",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3d070c2b6d518aee5d8281e90b4d298b98c171fec0b9bcf85d65921b20d07c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
