@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2011-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70538,
+  "case_year": 2010,
+  "judge_rapporteur": "ЕВГЕНИЯ ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3908e858-41ff-496e-8a58-8336cf1f5181",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=13.01.2011&to=14.04.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "977a3843c53255fbbbf3804436186413bea61e4b7acc0c4c045edf5b68a5ebf3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
