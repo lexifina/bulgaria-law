@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2011-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 323,
+  "case_year": 2011,
+  "judge_rapporteur": "НАДЕЖДА ГЕОРГИЕВА СЛАВЧЕВА АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=54ad2c64-82da-4660-a304-4e10df8ae856",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d8618f941f85bad23566fc7c284a6b213007ee3143f607ceb2620e5c0ef02c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
