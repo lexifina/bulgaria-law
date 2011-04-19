@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 12152,
+  "case_year": 2010,
+  "decision_type": "Решение",
+  "decision_number": "5501",
+  "decision_date": "2011-04-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D510512%26code%3Dvas%26guid%3D1564080220",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=510512&code=vas&guid=1564080220",
+  "source_text_sha256": "6ddaa978853ab0a1a919c25d7e9a23542e3bdd97d12a9aab8f16838fee8f7e3b",
+  "source_images": 0
+}
