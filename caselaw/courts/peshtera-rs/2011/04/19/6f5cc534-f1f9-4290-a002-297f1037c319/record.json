@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2011-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1174,
+  "case_year": 2010,
+  "judge_rapporteur": "АНИ ХАРИЗАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f5cc534-f1f9-4290-a002-297f1037c319",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb45afe0ebf0f8e61bfb8c3ae7274493fd34d74f8b1aea1bfd9940f17decd272",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
