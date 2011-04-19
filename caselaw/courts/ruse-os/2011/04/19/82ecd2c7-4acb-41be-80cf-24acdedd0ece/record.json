@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2011-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 398,
+  "case_year": 2011,
+  "judge_rapporteur": "НАТАЛИЯ ДЕНЕВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82ecd2c7-4acb-41be-80cf-24acdedd0ece",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e829000f15a3141452066f8edc1162c9b515b27327aa748fe2da9b043533f8b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
