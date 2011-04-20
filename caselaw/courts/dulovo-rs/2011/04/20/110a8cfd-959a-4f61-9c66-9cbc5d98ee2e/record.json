@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2011-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 146,
+  "case_year": 2010,
+  "judge_rapporteur": "НИКОЛАЙ КОСТАДИНОВ КЪНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=110a8cfd-959a-4f61-9c66-9cbc5d98ee2e",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1265c9d9ac06902ae0dc2c2afeb7aeb43e7d9c9a4cfa6eca6be5990cc76245ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
