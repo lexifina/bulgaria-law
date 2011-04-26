@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 102,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЕТЯ ЖЕЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=502d05e9-bcab-4ff2-b1b3-14fd426b8245",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "16376c018b2cf99b634129a55b8f383ea1306fcaa2f1dc3035a17b77a9f9842b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
