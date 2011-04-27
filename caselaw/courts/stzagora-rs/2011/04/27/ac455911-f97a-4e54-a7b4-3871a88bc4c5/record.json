@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 660,
+  "case_year": 2010,
+  "judge_rapporteur": "ЗЛАТКА ТАШЕВА ИЛИЕВА ПЕТКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac455911-f97a-4e54-a7b4-3871a88bc4c5",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2d53f1bf64303c2074652d4264389643b4ef17e44d681ccf8f416f7baaca0929",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
