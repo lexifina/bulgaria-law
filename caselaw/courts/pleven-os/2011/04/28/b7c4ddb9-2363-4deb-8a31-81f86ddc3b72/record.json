@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10270,
+  "case_year": 2008,
+  "judge_rapporteur": "КРИСТИНА АНТОНОВА ЛАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7c4ddb9-2363-4deb-8a31-81f86ddc3b72",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5947a29fd354a496e3fd3b683c38570b4207de5594d752c629c1bb054867c0f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
