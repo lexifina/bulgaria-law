@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2011-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 223,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛ НАНЕВ МАРКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=611e6821-efb7-4174-91e9-8e71d2642474",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3604d17416ff9216ed3a913abcf3abc0b3ac6412a6887d14b04cbd50c3a74adc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
