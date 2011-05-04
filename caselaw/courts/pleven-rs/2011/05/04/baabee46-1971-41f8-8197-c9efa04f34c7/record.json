@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 369,
+  "case_year": 2011,
+  "judge_rapporteur": "БОРИСЛАВА ИЛИЕВА ЯКИМОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=baabee46-1971-41f8-8197-c9efa04f34c7",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "441e7199563dc7e6c988ac73cb0ede3a602d51ec6e67c69598758cb99e995d0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
