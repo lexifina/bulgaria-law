@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10578,
+  "case_year": 2010,
+  "judge_rapporteur": "БОРЯНА БОНЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa4d163f-031f-4ea3-bcae-fbb6a14f68d7",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d514475965c6371ad2a893dc85c529b3e5c140a8e454fd1a0f086d8cc160f0c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
