@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2011-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1148,
+  "case_year": 2010,
+  "judge_rapporteur": "АТАНАСКА АНГЕЛОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f5e1913c-8ac0-4f0c-8770-6bead0175dee",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "819b6605e89e871bf7877d43f5256298e68ec7c6e3a2702fdffa7cca7922d6dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
