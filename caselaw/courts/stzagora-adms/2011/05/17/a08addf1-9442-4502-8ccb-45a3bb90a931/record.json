@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 518,
+  "case_year": 2010,
+  "judge_rapporteur": "ПЛАМЕН КИРИЛОВ ПЕТРУНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a08addf1-9442-4502-8ccb-45a3bb90a931",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43debe8591022bb012da2393c2984c5a8d2e6a1625a5d78f07392a192d28387e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
