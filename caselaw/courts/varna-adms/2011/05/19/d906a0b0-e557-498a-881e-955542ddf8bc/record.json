@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2011-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1464,
+  "case_year": 2010,
+  "judge_rapporteur": "ЕЛЕНА АТАНАСОВА ЯНАКИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d906a0b0-e557-498a-881e-955542ddf8bc",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5238a74f4bfb56e0374004409f9c73b79c63cb50bff135a1d5d3367c0647f10c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
