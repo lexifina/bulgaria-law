@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2011-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 201,
+  "case_year": 2011,
+  "judge_rapporteur": "ВИОЛЕТА ГАНЧЕВА ФИДЕНКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a92714dd-684c-41c3-abcb-3d9fb485caea",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c403799a241a99c4b082ab71ffa9a4a808ee41cae07225f1b77998c0b7c28d64",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
