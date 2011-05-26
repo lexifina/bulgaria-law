@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2011-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1833,
+  "case_year": 2009,
+  "judge_rapporteur": "ВАНЯ АНГЕЛОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=62a579c7-99be-444d-a8a3-abed5d754f5f",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb209e3de52f0f3f8bc90c8b86a18ce2b310750b63eb525547c8262d9a90ccc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
