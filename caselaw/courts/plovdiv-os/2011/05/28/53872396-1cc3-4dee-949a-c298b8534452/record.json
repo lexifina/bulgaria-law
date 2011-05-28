@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 741,
+  "case_year": 2011,
+  "judge_rapporteur": "ВИОЛЕТА ИВАНОВА ГЪДЕВА ДИМОВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53872396-1cc3-4dee-949a-c298b8534452",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d6d0ae3a8184e16838a49fe72fdc083239ab00932e4f56a94dec757c1d07fb5c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
