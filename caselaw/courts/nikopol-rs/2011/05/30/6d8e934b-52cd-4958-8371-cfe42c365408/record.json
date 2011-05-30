@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2011-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 40,
+  "case_year": 2011,
+  "judge_rapporteur": "БИЛЯНА СИЛВИОНОВА КИСЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d8e934b-52cd-4958-8371-cfe42c365408",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b9429e647473d1fbe26d15391ad97fb430cda40dac8602e94c126c7d371d914",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
