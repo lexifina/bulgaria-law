@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2011-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 744,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЛАМЕНА КОЛЕВА НЕДЯЛКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba5fdc13-24e5-4cd6-8fd2-0d1b1b2ff79f",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11d4264b921405e8eaf095ba7c8974ddf1bf0d6cd57255b5360512d45f046ab0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
