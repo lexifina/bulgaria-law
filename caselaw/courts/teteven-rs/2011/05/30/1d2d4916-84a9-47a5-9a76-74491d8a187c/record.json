@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2011-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 113,
+  "case_year": 2011,
+  "judge_rapporteur": "КРАСИМИР БОРИСОВ ЦАЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d2d4916-84a9-47a5-9a76-74491d8a187c",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56c81a9f316deea93a8322d8037e1aee6311874350572568170a5b39cbc7b10a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
