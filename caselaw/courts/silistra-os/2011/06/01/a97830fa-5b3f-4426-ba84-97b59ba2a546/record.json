@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2011-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 126,
+  "case_year": 2011,
+  "judge_rapporteur": "ДЕЯН ИВАНОВ ДЕНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a97830fa-5b3f-4426-ba84-97b59ba2a546",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "14084aa215f7e086f35c101ce94d00c6d931ebdec0b758f34a4e30a5c20bd299",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
