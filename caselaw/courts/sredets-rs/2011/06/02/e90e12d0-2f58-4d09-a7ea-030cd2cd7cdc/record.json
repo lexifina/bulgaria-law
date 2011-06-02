@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2011-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 85,
+  "case_year": 2011,
+  "judge_rapporteur": "КРАСИМИРА ТОНЧЕВА ДОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e90e12d0-2f58-4d09-a7ea-030cd2cd7cdc",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6639d5acb9a9152979f35c981731392603ae8129092194f5d8d38eb40a52db9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
