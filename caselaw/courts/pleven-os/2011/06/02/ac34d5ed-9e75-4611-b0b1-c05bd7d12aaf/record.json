@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 379,
+  "case_year": 2011,
+  "judge_rapporteur": "ТАТЯНА ГЕОРГИЕВА БЕТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac34d5ed-9e75-4611-b0b1-c05bd7d12aaf",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5947a29fd354a496e3fd3b683c38570b4207de5594d752c629c1bb054867c0f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
