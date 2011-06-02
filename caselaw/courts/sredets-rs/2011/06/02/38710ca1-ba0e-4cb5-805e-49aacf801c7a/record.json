@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2011-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 116,
+  "case_year": 2011,
+  "judge_rapporteur": "КРАСИМИРА ТОНЧЕВА ДОНЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38710ca1-ba0e-4cb5-805e-49aacf801c7a",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6639d5acb9a9152979f35c981731392603ae8129092194f5d8d38eb40a52db9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
