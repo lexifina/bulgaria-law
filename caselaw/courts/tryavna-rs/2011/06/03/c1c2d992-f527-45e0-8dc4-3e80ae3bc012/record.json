@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2011-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 160,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЯРА АНГЕЛОВА ПЕТРАКИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c1c2d992-f527-45e0-8dc4-3e80ae3bc012",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0f76918d30902cf99930f80da5c11c3a7da61c456ec8b6698c210b5cd1a6d24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
