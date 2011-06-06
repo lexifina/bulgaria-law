@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2011-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 84,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=75b8aa40-a938-49eb-b5e9-1f37a6b237aa",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8130c211e817d2d4546462717f6698020a593955c24553227b7e538271fd94f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
