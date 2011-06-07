@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2526,
+  "case_year": 2011,
+  "judge_rapporteur": "ХРИСТО СТЕФАНОВ ТОМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f5e5fcef-3a73-4cbd-ba07-ea2a3ed7e3b2",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "441e7199563dc7e6c988ac73cb0ede3a602d51ec6e67c69598758cb99e995d0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
