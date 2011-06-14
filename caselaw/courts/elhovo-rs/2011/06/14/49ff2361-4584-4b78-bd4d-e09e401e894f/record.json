@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2011-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 686,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРТИНА ИВАНОВА КИРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49ff2361-4584-4b78-bd4d-e09e401e894f",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b87ff0872b70543b2f7b24ccca2a5b93926c12cce76ae90c6e3c32709a6a7104",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
