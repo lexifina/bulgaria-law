@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2011-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 355,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛА НЕДКОВА РАДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4374cff9-bf73-4982-9143-2fc7e28cf000",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b4d60544d133f9ab434618d906f1487f1df760b3df0f87cd72028dae95c9e5f6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
