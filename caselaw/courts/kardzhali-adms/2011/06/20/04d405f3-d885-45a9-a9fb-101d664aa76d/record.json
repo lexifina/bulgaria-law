@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2011-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 106,
+  "case_year": 2011,
+  "judge_rapporteur": "АЙГЮЛ АПТУЛА ШЕФКИ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04d405f3-d885-45a9-a9fb-101d664aa76d",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0530f168cae1e7442dc3289717b019787806c9a031b9a2434f7fdaac4ca37fbe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
