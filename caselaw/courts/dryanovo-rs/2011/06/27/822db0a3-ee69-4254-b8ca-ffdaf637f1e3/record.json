@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2011-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 94,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЛАМЕН НИКОЛАЕВ ПОПОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=822db0a3-ee69-4254-b8ca-ffdaf637f1e3",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7aae206e2521f516ca33646ee32e92a63a81180fb8f1782e6c4d725d65c344f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
