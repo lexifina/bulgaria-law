@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2011-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 127,
+  "case_year": 2010,
+  "judge_rapporteur": "ИСКРА СТОЯНОВА ВАРАДЖАКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d15226a5-c36f-47c5-9dcf-4de062ef1dbb",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8130c211e817d2d4546462717f6698020a593955c24553227b7e538271fd94f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
