@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2011-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 17,
+  "case_year": 2011,
+  "judge_rapporteur": "РАЯ ПЕТКОВА ЙОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66160cf9-b2f8-4188-9213-d420efca3f45",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b7e45393840fff5ee6cd4553a51927feb297705e4f4c3dc469f1792bba0f022",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
