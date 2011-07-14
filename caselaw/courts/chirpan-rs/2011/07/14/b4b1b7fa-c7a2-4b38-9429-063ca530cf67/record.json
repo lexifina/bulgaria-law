@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2011-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 228,
+  "case_year": 2011,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ДИНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b4b1b7fa-c7a2-4b38-9429-063ca530cf67",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=15.04.2011&to=15.07.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e548f1ef7bae935e5fc7c763744907dc99731ed79f3c152f51e7e3d671fa814b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
