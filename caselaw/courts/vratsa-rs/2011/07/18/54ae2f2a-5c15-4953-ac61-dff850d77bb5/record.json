@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2011-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1074,
+  "case_year": 2011,
+  "judge_rapporteur": "АДЕЛИНА ИВАНОВА КАМЕНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=54ae2f2a-5c15-4953-ac61-dff850d77bb5",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b9dab3889178c7550fd91ba51befb35835d945ba1fc54cc4d7218f8f3d65110",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
