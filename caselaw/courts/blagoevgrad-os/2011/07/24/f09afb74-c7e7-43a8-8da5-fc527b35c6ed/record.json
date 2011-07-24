@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2011-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 399,
+  "case_year": 2011,
+  "judge_rapporteur": "Петър Узунов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f09afb74-c7e7-43a8-8da5-fc527b35c6ed",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=02.07.2011&to=01.09.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57d1838d5687f45d9666dd385601b819c2099450d77e9486eb3da4c7df35d6e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
