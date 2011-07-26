@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2011-07-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 56,
+  "case_year": 2009,
+  "judge_rapporteur": "ИВАН СТОЯНОВ ЧЕНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45c95fe9-561c-4422-8405-65952128f797",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c43a0a4d46f01315c396310a69a571ea87e92b861bb8b6458bec245f5efcb98a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
