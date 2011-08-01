@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2011-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2121,
+  "case_year": 2011,
+  "judge_rapporteur": "ГАЛИНА ЧАВДАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31a82767-2cbf-4959-815a-ea096cde6494",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6535da2ddeb9f7ad05e17e602a36478045b96670b0f098765513f5f02718a4de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
