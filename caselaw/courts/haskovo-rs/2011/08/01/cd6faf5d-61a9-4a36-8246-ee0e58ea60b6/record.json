@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2007,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛА КОЛЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd6faf5d-61a9-4a36-8246-ee0e58ea60b6",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d15982b9e9f54bee8ef41e76a580a6eb565c55c9240c9a22b46c2b6f4edcb60f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
