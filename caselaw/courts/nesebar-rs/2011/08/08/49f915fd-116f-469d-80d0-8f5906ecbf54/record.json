@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2011-08-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 366,
+  "case_year": 2011,
+  "judge_rapporteur": "ЙОРДАНКА ГЕОРГИЕВА МАЙСКА-ИВАНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49f915fd-116f-469d-80d0-8f5906ecbf54",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "14f2e7ba55562dc485d24a79c8a44ef87ea372ef979a1f7ed9ae7c6f08a2564a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
