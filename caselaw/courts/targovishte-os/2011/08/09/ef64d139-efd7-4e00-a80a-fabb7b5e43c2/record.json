@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2011-08-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 14,
+  "case_year": 2011,
+  "judge_rapporteur": "АНГЕЛИНКА НИКОЛОВА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef64d139-efd7-4e00-a80a-fabb7b5e43c2",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b3977042f730d14096753867325a65995df52f8c0bdf4fb6066143521579ef2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
