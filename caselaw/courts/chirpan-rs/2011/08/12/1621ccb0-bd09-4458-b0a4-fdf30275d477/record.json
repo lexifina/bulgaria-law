@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2011-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 398,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЛАМЕН СТОИМЕНОВ АНДОНОВ",
+  "act_kind": "Заповед",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1621ccb0-bd09-4458-b0a4-fdf30275d477",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19b42a624b07d1e9ab8470342f88d59ffe36f736993911a8275bddb117196a80",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
