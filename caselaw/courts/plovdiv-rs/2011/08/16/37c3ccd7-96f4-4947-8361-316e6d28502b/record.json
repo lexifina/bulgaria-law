@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-08-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5520,
+  "case_year": 2011,
+  "judge_rapporteur": "ВАСИЛ АЛЕКСАНДРОВ ТАСЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37c3ccd7-96f4-4947-8361-316e6d28502b",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "375ee0290b8ddc8b1acff43c0a58ecabec8f08b38f8da1444434e08fac21f79e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
