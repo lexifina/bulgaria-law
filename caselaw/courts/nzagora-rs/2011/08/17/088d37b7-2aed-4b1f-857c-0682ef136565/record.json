@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2011-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 772,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЕТЪР КРУМОВ ЗЛАТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=088d37b7-2aed-4b1f-857c-0682ef136565",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8012f3a5b213084f946663b55c1a89f38e1a0ce67a6a9130dd99fd3d543d65b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
