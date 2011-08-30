@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2011-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 269,
+  "case_year": 2011,
+  "judge_rapporteur": "АННА ИВАНОВА КАЙТАЗКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4db0906e-56de-4cf0-8d69-5360c7f358cf",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f19a56b9339d2d977b99818c04a2e49c0968b78909def65a91958021698a8901",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
