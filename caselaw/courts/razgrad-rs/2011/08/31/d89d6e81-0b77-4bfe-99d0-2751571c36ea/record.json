@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2011-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 805,
+  "case_year": 2011,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d89d6e81-0b77-4bfe-99d0-2751571c36ea",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b322e5864d5948dc9e668a2a7f28e6f69e4cf26868614e628e549342199c7ba2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
