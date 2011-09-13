@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2011-09-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 316,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЛАМЕН ИВАНОВ ПЕНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44bfb32e-7fc2-4a10-afb6-1e9b570c11ce",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1ecc82db4afd10cb856a7669fcc6fc2bf16e760c84f36ebdd72f4e01a87d4ab6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
