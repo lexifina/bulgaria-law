@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2011-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1310,
+  "case_year": 2011,
+  "judge_rapporteur": "АТАНАС ДИМОВ АТАНАСОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3ddf1e19-d327-4908-b164-5b5e81bf64da",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "128844f399df442c13ab30156c86e4b5e99f0b41e69fc0423a5526405725ed7c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
