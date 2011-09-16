@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2011-09-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 315,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛА ЙОРДАНОВА ИГНАТОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e70770a5-8561-43a5-bc0f-103047f5c213",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce43cd2223c37d1d88161710a22f8659edc9e4932b248e90971721915797b8ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
