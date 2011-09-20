@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2011-09-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1293,
+  "case_year": 2011,
+  "judge_rapporteur": "ЧАВДАР АНДРЕЕВ ТОДОРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51d0fd44-e5c2-4156-8a40-cafa9d48b29b",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3f82b6c3b75ebff76717e6a69f732f8be434401a9feaccd4ee71b23d62af2b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
