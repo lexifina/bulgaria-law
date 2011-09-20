@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2011-09-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8467,
+  "case_year": 2010,
+  "judge_rapporteur": "НИНА СТОЙЧЕВА ЯНАКИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c0ba0ce-05b0-4e47-9dc9-be07949d3de5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ff777a393bb6b15dbeb34fed0134a2d41a72c81b7e343a91fc85f6b4b45eba61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
