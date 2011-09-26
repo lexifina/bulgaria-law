@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2011-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 650,
+  "case_year": 2011,
+  "judge_rapporteur": "НАТАЛИЯ ДЕНЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=777accbc-2008-4f53-afeb-7dd0653a1a42",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb785643a46b7c5a85de342fad38f3e4e0928e00bb0a1e7504b79808424de120",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
