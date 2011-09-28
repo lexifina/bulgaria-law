@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2011-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1005,
+  "case_year": 2011,
+  "judge_rapporteur": "ДЕНЧО ЗДРАВКОВ СТОЯНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c28d365e-ebd6-4443-8952-b4a814bd4340",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2f2da121d31a8675596805c6864f0139b315c2b8f63d5096cd90802a16cf10d0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
