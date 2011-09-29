@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2011-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 160,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЕНЕТА КРУМОВА ПИСАРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f319d76-0705-42d9-b2d7-ec817eb1a440",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "21f0172564f368dbacac8f1f507b99d7af25464ce393cd2e967177342714787c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
