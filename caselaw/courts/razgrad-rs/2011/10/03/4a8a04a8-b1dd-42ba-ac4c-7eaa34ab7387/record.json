@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2011-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 483,
+  "case_year": 2010,
+  "judge_rapporteur": "НЕЛИ ИВАНОВА ГЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a8a04a8-b1dd-42ba-ac4c-7eaa34ab7387",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b322e5864d5948dc9e668a2a7f28e6f69e4cf26868614e628e549342199c7ba2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
