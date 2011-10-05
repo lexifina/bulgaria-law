@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2011-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 424,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИЯ ДЖАНКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04a14162-d38f-4fee-9749-6b208106dbda",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bec6b011fa429bd22920befa2593371309765ba82def4fcd4e4dbc66918c7d83",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
