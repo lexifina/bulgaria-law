@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2011-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 3436,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕВЕЛИНА ИВАНОВА ПОПОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02c76003-f55b-4f78-a4c2-22edff272bc7",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "951cff73f5d15c08c447dbfcbb9e953012690d8d0de5f4b8e0e94afcf773c8b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
