@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2011-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 565,
+  "case_year": 2011,
+  "judge_rapporteur": "ЛЮДМИЛА ВЛАДИМИРОВА ПЕЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=948d503a-eb33-4cac-b60f-3a2dcd2f8a9f",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0dad3638faf4f5f8b160d24d41f8e4dc2c1c35209406c15add6d435b8b14c886",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
