@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2011-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1767,
+  "case_year": 2011,
+  "judge_rapporteur": "МИЛЕНА СТОЯНОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca791298-660c-4087-928b-711d73e261eb",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91148d68b0ae7f15f8ae55b166f2669ffe390e74e939f4b5eb1ec2797dc2e072",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
