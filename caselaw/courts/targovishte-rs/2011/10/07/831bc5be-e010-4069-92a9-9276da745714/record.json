@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2011-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1350,
+  "case_year": 2011,
+  "judge_rapporteur": "РОЗАЛИНА ГЕОРГИЕВА БОТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=831bc5be-e010-4069-92a9-9276da745714",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "20405b97409164bd2b2ce987e014b559ff1437e490c55115538047a2bed9d95f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
