@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2011-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 470,
+  "case_year": 2011,
+  "judge_rapporteur": "АННА ПЕТКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=78769e1e-1b3a-47e2-a2dd-d537058a30bf",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88304f5c5bb973ee0eab6d694ab7f1f36ac456991ada1f43d9a5a669b59d5db8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
