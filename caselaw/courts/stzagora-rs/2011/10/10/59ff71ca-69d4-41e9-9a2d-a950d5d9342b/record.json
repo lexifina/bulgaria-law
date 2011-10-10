@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 616,
+  "case_year": 2010,
+  "judge_rapporteur": "МИЛЕНА САВОВА РИБЧЕВА ДОЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59ff71ca-69d4-41e9-9a2d-a950d5d9342b",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8e8f2f27ba40cc719206489120ddc575a338928c9d831e2ecdb5cd89b2af4237",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
