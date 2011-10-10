@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2011-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 647,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВЕЛИНА ИЛИЕВА БОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce4173cd-01d4-4727-b08b-34a73c95e222",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a177f34692d6189c16dd71d91ef77a1a1b434c13e4214b955985390c2a41429",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
