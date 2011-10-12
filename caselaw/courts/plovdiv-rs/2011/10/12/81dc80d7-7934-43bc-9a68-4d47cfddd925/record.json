@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2011-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2417,
+  "case_year": 2010,
+  "judge_rapporteur": "НИКОЛАЙ ИЛИЕВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81dc80d7-7934-43bc-9a68-4d47cfddd925",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "375ee0290b8ddc8b1acff43c0a58ecabec8f08b38f8da1444434e08fac21f79e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
