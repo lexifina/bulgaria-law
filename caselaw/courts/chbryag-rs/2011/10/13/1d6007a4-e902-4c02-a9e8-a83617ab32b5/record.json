@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2011-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 250,
+  "case_year": 2008,
+  "judge_rapporteur": "ЙОХАН МИРОСЛАВОВ ДЖЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d6007a4-e902-4c02-a9e8-a83617ab32b5",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2a616f87c11695d353a5e25eb45c86e2c99bdc795e1e6b500d1c23e8f7762d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
