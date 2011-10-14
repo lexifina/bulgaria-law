@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2011-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70583,
+  "case_year": 2009,
+  "judge_rapporteur": "РУМЕН ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=96454ecf-9aaf-40b1-8574-f6a760dd43c3",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=16.07.2011&to=15.10.2011&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf9a9c280be0b8e1727b753c880c08eee33b8b2f084085849ed50791d55fc76b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
