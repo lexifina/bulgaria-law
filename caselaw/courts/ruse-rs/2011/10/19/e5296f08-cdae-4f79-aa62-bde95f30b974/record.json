@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2011-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4773,
+  "case_year": 2010,
+  "judge_rapporteur": "ИВАЙЛО ДИМИТРОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5296f08-cdae-4f79-aa62-bde95f30b974",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f9010ed82f5bd99e23595c54580e2ee64601140e0ef40395db38a7d7de0d97b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
