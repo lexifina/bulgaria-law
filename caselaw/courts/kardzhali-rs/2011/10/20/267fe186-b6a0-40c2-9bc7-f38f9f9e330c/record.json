@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2011-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 988,
+  "case_year": 2011,
+  "judge_rapporteur": "ЗДРАВКА ИВАНОВА ДЕЧЕВА-ЗАПРЯНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=267fe186-b6a0-40c2-9bc7-f38f9f9e330c",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b412c651c9a89daf0386966c57abad1e64bbf017fb4da3c309668d22f96718e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
