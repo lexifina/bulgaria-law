@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2011-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 624,
+  "case_year": 2010,
+  "judge_rapporteur": "НЕЛИ ЛЮБОМИРОВА ТОШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16e670c5-e181-4a1b-9dde-c2be96c449a1",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7e477b31e9400d94f215e54b6b24b383d1c802b8faf764981b1dac07eed856ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
