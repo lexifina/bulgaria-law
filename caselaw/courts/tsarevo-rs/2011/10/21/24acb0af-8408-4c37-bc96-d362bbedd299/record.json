@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2011-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5,
+  "case_year": 2010,
+  "judge_rapporteur": "МИНЧО ТАНЕВ ТАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=24acb0af-8408-4c37-bc96-d362bbedd299",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7b442ac6a6ee123d17cb1efaca44d84cad0dba5ff44bd7ef92cc163c087dacc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
