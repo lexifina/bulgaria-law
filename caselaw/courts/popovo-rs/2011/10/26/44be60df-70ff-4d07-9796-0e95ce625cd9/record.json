@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2011-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 406,
+  "case_year": 2011,
+  "judge_rapporteur": "ЯВОР ПЛАМЕНОВ ТОМОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44be60df-70ff-4d07-9796-0e95ce625cd9",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "37126e1e438c599023cbd0cc52ce5bd21eec40eb1aa2d8e27bd40fb692e99143",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
