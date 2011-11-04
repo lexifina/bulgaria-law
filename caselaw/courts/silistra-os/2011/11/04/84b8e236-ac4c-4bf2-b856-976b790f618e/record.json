@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2011-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 45,
+  "case_year": 2011,
+  "judge_rapporteur": "КРЕМЕНА ИВАНОВА КРАЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84b8e236-ac4c-4bf2-b856-976b790f618e",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f8fa7274ca7971a80f3fc7e92943173efc4396420ce5a0910895c0c3f1e44808",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
