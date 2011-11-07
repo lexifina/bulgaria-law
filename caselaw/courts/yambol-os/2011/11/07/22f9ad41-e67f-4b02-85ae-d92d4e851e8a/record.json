@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2011-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 489,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕРГАНА ЖЕЛЯЗКОВА КОНДОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22f9ad41-e67f-4b02-85ae-d92d4e851e8a",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b02ddc8415accaf3547da80295872c6163daf5beedac9815d2298ff01acd34b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
