@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2011-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 296,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЛАМЕН ДИМИТРОВ КАРАНИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5499da42-1c58-4c55-bbd9-181215187fe3",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f546eb25d643d7a53a88bf2c9dd0ddaa5a7293ac206b5035b4a83900f857123",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
