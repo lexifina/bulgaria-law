@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2011-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 67,
+  "case_year": 2011,
+  "judge_rapporteur": "ТЕОДОРА ЕНЧЕВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dcd5c264-0683-4493-998b-35fb2f0bef72",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24818e9da0f5990823055438dd3aea3d4a4077541c8866378b949d44ba332295",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
