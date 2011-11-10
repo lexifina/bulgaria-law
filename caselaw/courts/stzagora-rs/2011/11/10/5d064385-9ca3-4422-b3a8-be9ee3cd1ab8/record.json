@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6053,
+  "case_year": 2011,
+  "judge_rapporteur": "ЖЕНЯ ТОНЧЕВА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d064385-9ca3-4422-b3a8-be9ee3cd1ab8",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03ee63eb2712c5d2d582760582612adbb0426c4b34f568b33880c77d050899af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
