@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 951,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЪРБИНА ГАНЧЕВА МЪЛЧИНИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d457179-31ad-476f-9e80-e8ea4e653ac4",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b94b8db13fa01033db2edb564b718de5ec9e55476ea04949bc4a6adf863c2ff5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
