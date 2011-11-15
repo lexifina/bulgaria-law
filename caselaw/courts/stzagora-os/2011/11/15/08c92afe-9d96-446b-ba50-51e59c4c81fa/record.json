@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2011-11-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 712,
+  "case_year": 2011,
+  "judge_rapporteur": "ИВА НИКОЛАЕВА СТЕФАНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=08c92afe-9d96-446b-ba50-51e59c4c81fa",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a5bd06c64da8c92586f14a0a1053c7f81133ed606045034f03052d1185f9475",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
