@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2011-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 139,
+  "case_year": 2011,
+  "judge_rapporteur": "ДИМИТЪР МАРИНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d6b0277-d7e2-4ecf-b787-05d3d02ec61c",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2726ad8c88238b74829ab507f26a5205e4de69d875b69d0a0efc79fcc0d6ace",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
