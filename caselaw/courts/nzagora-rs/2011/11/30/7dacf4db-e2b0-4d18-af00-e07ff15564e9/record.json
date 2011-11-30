@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2011-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 577,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕОРГИ ЛЮБЕНОВ ЙОРДАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7dacf4db-e2b0-4d18-af00-e07ff15564e9",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d072162e3664bb4af58b822935d91bcfe4c44833402a2018ac484e72d426c8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
