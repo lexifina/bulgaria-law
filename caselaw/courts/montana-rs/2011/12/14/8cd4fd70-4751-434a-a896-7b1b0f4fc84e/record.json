@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2011-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70590,
+  "case_year": 2011,
+  "judge_rapporteur": "ЦВЕТАН КОЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8cd4fd70-4751-434a-a896-7b1b0f4fc84e",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9334cb708380c9f917233ab7604997af75fcb8671ca8a4fed4f46f7d56c7474",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
