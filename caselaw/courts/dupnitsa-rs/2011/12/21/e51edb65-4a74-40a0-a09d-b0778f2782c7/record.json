@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2011-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4008,
+  "case_year": 2011,
+  "judge_rapporteur": "МИЛЕНА БОГДАНОВА МИХАИЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e51edb65-4a74-40a0-a09d-b0778f2782c7",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d98dd6d6f041df3a4517e59911df6a5406cf665c59fbb24168f6a74157b82d98",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
