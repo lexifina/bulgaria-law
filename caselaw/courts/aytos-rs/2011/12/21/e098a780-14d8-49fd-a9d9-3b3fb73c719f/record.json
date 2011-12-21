@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2011-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 800,
+  "case_year": 2011,
+  "judge_rapporteur": "НИКОЛАЙ ГЕМЕДЖИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e098a780-14d8-49fd-a9d9-3b3fb73c719f",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "74a88275e021789698984dc03adc5e2935ad472adc5d4c5fd603b622c70915e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
