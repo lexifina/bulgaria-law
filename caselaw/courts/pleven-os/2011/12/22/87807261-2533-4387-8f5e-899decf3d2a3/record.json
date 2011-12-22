@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2011-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1207,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕОРГИ КОНСТАНТИНОВ ГРЪНЧАРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87807261-2533-4387-8f5e-899decf3d2a3",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b94b8db13fa01033db2edb564b718de5ec9e55476ea04949bc4a6adf863c2ff5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
