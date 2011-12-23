@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2011-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1377,
+  "case_year": 2011,
+  "judge_rapporteur": "АНГЕЛ МАВРЕВ МОМЧИЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b201e6f-d9e1-4874-a547-b148691a8260",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b412c651c9a89daf0386966c57abad1e64bbf017fb4da3c309668d22f96718e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
