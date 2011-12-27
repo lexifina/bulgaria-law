@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2011-12-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 419,
+  "case_year": 2011,
+  "judge_rapporteur": "ЯНА ВЪЛКОВА АНГЕЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0efb6a2-818c-4305-8d31-ec36e33787af",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "693c65f7c30c8b776ca1db2aa29e406fa1bb12337d3a9a4e305c534c17a01f88",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
