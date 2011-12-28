@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2011-12-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 560,
+  "case_year": 2011,
+  "judge_rapporteur": "ЦВЕТАН КРЪСТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aebe5a04-d2da-4bf3-a730-399bc9bba965",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad58d433c9f5389fc18a14338adda417677b90be70a1f96a8585d918cfc55f76",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
