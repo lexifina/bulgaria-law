@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2012-01-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 328,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕМИЛИЯ ХРИСТОВА ДИШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0eed47e4-8709-4fa7-ac65-9c21fa6fdd85",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e24e9c19f029e2d46ac4c77edccc4e54ae6e8c390c0449a2e89577a831c71a0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
