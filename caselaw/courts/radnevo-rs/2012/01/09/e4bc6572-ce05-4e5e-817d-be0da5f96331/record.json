@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2012-01-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 313,
+  "case_year": 2011,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4bc6572-ce05-4e5e-817d-be0da5f96331",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e74b1d9c1dc2a2c295a9ca5b3238b6eb3709ebd8d6df2ab5ad76da5f2a0b607a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
