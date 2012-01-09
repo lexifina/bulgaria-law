@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2012-01-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 578,
+  "case_year": 2011,
+  "judge_rapporteur": "ЛИДИЯ БОЖИДАРОВА ТОМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aba7e45b-a61e-45ce-b4d8-f9ee37806c8e",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24818e9da0f5990823055438dd3aea3d4a4077541c8866378b949d44ba332295",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
