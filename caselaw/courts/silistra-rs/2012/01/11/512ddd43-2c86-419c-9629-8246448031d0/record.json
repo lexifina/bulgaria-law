@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2012-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1129,
+  "case_year": 2011,
+  "judge_rapporteur": "СТОЯН ИВАНОВ СТОЯНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=512ddd43-2c86-419c-9629-8246448031d0",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e843839ae987462ab59fb4dea8c8b4c6491e1c85bbb800a39d3c887fed681389",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
