@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2012-01-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1374,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕРГАНА ЛЮБЧЕВА АНТОНОВА ПОПОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a8816ee-8da1-4627-b6a3-3b97ae1e7912",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=16.10.2011&to=15.01.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5fe97f0428786bfb86764ab589d7057fe3eb56580324339cff036e5cdaab9f1c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
