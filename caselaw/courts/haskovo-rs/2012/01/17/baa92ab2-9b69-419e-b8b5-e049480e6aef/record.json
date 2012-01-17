@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2012-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2447,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИЯ АНГЕЛОВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=baa92ab2-9b69-419e-b8b5-e049480e6aef",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0d18a4a34521883fe742b59db2f258db38b090a07f940ec14c06a16020c41818",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
