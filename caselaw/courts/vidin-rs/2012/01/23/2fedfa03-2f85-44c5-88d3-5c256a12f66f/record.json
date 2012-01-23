@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2012-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1274,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИЕЛА ВИКТОРОВА ЙОСИФОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2fedfa03-2f85-44c5-88d3-5c256a12f66f",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6181dd740194f351250c53e41c49483f2ea93e3f51cbe4891e636743ab4b924a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
