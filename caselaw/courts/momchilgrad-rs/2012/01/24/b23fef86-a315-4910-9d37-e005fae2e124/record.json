@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2012-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1,
+  "case_year": 2012,
+  "judge_rapporteur": "ЙОРДАН ИВАНОВ ГЕРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b23fef86-a315-4910-9d37-e005fae2e124",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81df264d03ffc3d73e395d77c501b24ba431cc548c34a7104f06e04c9f27222c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
