@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2012-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1,
+  "case_year": 2012,
+  "judge_rapporteur": "МАТЕЙ ИВАНОВ ЗЛАТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f62a065-95f9-4f6d-abba-554c0594cfc7",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a9105701212bd3006135023b8077a5e58100b3d6e0523a8a0ed07eb3cdf4b8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
