@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2012-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕРГАНА НИКОЛАЕВА БОЖИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6f612c0-0dc0-4d4f-992c-dd5eb1ae7ef8",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba2d3c198fdd65706b3bd22b0accd4221584a0969b3886ae5e985a7f576f6601",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
