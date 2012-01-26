@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2012-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 341,
+  "case_year": 2011,
+  "judge_rapporteur": "Татяна Андонова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d817d0c-0333-4e41-b56d-c6d87fe8a2b4",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=04.01.2012&to=05.03.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "888839dbc98ffbbb0f82c92112770d5f58b2d776f4dc734120c8ff4d33df6d7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
