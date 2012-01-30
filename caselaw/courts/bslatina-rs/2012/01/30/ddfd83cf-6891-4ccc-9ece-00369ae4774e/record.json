@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2012-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1155,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛА ЦЕНОВА ГРАМОВСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ddfd83cf-6891-4ccc-9ece-00369ae4774e",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3ef20166a451341ff295ca88c7fbbf6d517a8a7473fa951c7264efdae0b48bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
