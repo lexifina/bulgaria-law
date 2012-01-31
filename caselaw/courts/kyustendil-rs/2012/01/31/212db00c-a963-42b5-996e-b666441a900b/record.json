@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2012-01-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 895,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЕСЕЛИНА ДИМИТРОВА ДЖОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=212db00c-a963-42b5-996e-b666441a900b",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "98d45dfda395ef7ddc18b7ce3990de91800c6cc2e0348da1ad0ca6331c587882",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
