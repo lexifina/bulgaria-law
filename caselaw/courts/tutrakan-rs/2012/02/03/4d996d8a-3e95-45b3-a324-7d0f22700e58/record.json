@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2012-02-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 39,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕРГАНА ВЕЛИКОВА НЕДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d996d8a-3e95-45b3-a324-7d0f22700e58",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c040e6bd198a5964dd517b1a573460e9617a4b330f57c39677b565da6bf9bb7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
