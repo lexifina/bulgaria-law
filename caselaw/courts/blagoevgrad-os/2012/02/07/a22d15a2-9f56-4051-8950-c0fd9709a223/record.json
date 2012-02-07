@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2012-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 47,
+  "case_year": 2012,
+  "judge_rapporteur": "Величка Пандева",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a22d15a2-9f56-4051-8950-c0fd9709a223",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=04.01.2012&to=05.03.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "888839dbc98ffbbb0f82c92112770d5f58b2d776f4dc734120c8ff4d33df6d7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
