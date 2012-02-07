@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2012-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 298,
+  "case_year": 2012,
+  "judge_rapporteur": "БОРИСЛАВА ИЛИЕВА ЯКИМОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2998e148-aa00-4bdf-b637-a6856d53de7c",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a8c13dcb8158cda577d2f7f6f7c9fc9d9db8cf72151da8cc52b5eb484da6940",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
