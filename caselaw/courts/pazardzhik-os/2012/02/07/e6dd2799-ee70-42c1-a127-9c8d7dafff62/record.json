@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2012-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 129,
+  "case_year": 2011,
+  "judge_rapporteur": "СЛАВЕЙКА АТАНАСОВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6dd2799-ee70-42c1-a127-9c8d7dafff62",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2f656e6c01fd87e4302878db6aaf1f24918ce25a576cf64d2da9178cfbb841e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
