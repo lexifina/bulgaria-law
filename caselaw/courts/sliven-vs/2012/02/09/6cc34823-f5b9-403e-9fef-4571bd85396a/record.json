@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 6,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ ПАНЕВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6cc34823-f5b9-403e-9fef-4571bd85396a",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a58a970edb4b81c4cd14d53f2fa92075c8e853d13f7c56e95e57c56750152bd5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
