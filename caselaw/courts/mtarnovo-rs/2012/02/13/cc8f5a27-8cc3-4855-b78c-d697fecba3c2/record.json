@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2012-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 32,
+  "case_year": 2012,
+  "judge_rapporteur": "����� ��������� �������",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc8f5a27-8cc3-4855-b78c-d697fecba3c2",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ada3a22dd803ec3b0f8ce67f3a2682ea02f9876b5234df638e2cb5c10b12212a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
