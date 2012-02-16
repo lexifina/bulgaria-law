@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2012-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 527,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕМИЛ ДАВИДОВ МАРИНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c409c232-901c-4b6a-a931-7e17ad1439c2",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a6c296ed073d9034bd08d5716bc20c6be53041839d4d18b5e81f0d6009c0739",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
