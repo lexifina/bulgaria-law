@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2012-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 31,
+  "case_year": 2012,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ДИНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aeb11efc-838e-4b61-8b80-703f1da62eb5",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c66915088afd056d945b0fc06a69d93b54b39a35d54b7bdcfa8d117d51c92616",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
