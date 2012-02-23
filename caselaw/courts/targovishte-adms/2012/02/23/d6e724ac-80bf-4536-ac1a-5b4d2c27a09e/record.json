@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2012-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 11,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАНКА ПЕНЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6e724ac-80bf-4536-ac1a-5b4d2c27a09e",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6603577715d03f05dd1ceb9bb3f480b2db8ce4714b835f488292071cbdeac4b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
