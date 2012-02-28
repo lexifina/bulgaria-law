@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2012-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 64,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИМИТЪР СТЕФАНОВ МИХАЙЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b04ab7f-2086-4c15-982c-d04fe4b5a16e",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b99e5e1c9fed1a1258546f815d68cb8c8835b122e0c3da2296cb6e77d3d1c91b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
