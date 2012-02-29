@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2012-02-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2348,
+  "case_year": 2011,
+  "judge_rapporteur": "ХРИСТО ДИМИТРОВ СИМИДЧИЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8a90612-5e0c-4d07-9608-d6d9c871f58d",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "726e22a333b1c756c945b1bca82600de9fba62ce1a83aefeb7e800f21527abd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
