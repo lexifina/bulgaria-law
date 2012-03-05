@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2012-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 817,
+  "case_year": 2011,
+  "judge_rapporteur": "НЕЛИ ЛЮБОМИРОВА ТОШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29d3e6f8-c39d-4606-878d-681e976bf0b2",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8831f588189f2827d8c4c2c5fadc11762c2c7ca220ebc3aeb6847a9ce4267ce8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
