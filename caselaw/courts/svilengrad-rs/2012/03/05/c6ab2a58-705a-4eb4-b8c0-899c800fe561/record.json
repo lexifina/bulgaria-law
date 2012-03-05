@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2012-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 458,
+  "case_year": 2011,
+  "judge_rapporteur": "ИВА ТОДОРОВА ГОГОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6ab2a58-705a-4eb4-b8c0-899c800fe561",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c2ad7b290e4e3251ecdebdbc86a950d49470b2316d0c2779ea2f8a16e66c341",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
