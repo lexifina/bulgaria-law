@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2012-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 239,
+  "case_year": 2011,
+  "judge_rapporteur": "ТАНЯ ГЕНЧЕВА СПАСОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cff8bfc5-6fd2-4bc3-9db3-31584620aa56",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8133f83eca9ebb75a2c8f7517a7fe2078f28e5504820605275d8652a2ec6f865",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
