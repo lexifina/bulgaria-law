@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2012-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 52,
+  "case_year": 2012,
+  "judge_rapporteur": "ЖИВКО ПАВЛОВ ГЕОРГИЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e62219c0-640e-49b3-8e90-f28ccddafc15",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3baa5585902868c1e203a7800fb6fca2f39dd1f8319bd732ef4bf9f05c7fd9a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
