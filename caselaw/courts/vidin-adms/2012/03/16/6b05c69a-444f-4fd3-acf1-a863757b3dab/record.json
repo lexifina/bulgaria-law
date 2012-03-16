@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2012-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 194,
+  "case_year": 2011,
+  "judge_rapporteur": "НИКОЛАЙ ПЕТРОВ ВИТКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b05c69a-444f-4fd3-acf1-a863757b3dab",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e55b80bdd55164c5c13c47ea72c98592e8a0d226313707771668c0afbda7ad0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
