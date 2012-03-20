@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2012-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 164,
+  "case_year": 2012,
+  "judge_rapporteur": "ТОДОР ИВАНОВ ДИМИТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=125c2d60-83f5-42e4-9f0f-294a2f1d6688",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59e073c4ee72c1aef535a72a0ee8acc7fd1c7c54dfe0ed733f458d5090db4ad0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
