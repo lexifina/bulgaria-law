@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2012-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 620,
+  "case_year": 2011,
+  "judge_rapporteur": "СВЕТЛАНА ЦЕКОВА БОРИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=513b3c81-1435-4e0a-9bf0-47eead03c200",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "447a5706bb81aec32f0cfda25af039495c53a590a7848483638d89312117a2c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
