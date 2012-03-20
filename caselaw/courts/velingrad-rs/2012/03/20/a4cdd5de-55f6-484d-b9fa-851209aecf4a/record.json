@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2012-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 109,
+  "case_year": 2012,
+  "judge_rapporteur": "НАТАША ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4cdd5de-55f6-484d-b9fa-851209aecf4a",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dfc49654ebb5985e4b11129591e42f5a3bf84cf97ea5221b5bf830b144cde711",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
