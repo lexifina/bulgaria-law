@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2012-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 18,
+  "case_year": 2012,
+  "judge_rapporteur": "АННА ГЕОРГИЕВА ГЕОРГИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e984f8fa-61dd-4160-86e2-b9035513c758",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "508294501a06fdce795eeaa1b2846f6421e4caa46e260988b6e6a80c619f2048",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
