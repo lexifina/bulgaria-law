@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2012-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2127,
+  "case_year": 2012,
+  "judge_rapporteur": "АНТОНИЯ ИВАНОВА ТОНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44759e92-e973-4f4f-899b-c1aea6376fec",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4319328399fa59f1b6289a2d58952abc5326e1c5512537df8bb0b0561bb56c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
