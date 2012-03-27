@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13002,
+  "case_year": 2011,
+  "decision_type": "Решение",
+  "decision_number": "4447",
+  "decision_date": "2012-03-27",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D595176%26code%3Dvas%26guid%3D1571614340",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=595176&code=vas&guid=1571614340",
+  "source_text_sha256": "0667d7ab3990f0106b5c3def601af5a648d2ebfed85499c551825a3840e12dab",
+  "source_images": 0
+}
