@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2012-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 196,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИАНА ВЪЛЕВА ДЖАМБАЗОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa1d2371-4908-4e2d-a2d5-e729550aa22b",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d2792b5475632a72ac32cd8ffe36b233dfdd419944299edd2e32834a8ae07741",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
