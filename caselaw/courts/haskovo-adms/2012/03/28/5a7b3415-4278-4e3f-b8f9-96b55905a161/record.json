@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2012-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 745,
+  "case_year": 2011,
+  "judge_rapporteur": "ИВА БАЙНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a7b3415-4278-4e3f-b8f9-96b55905a161",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe2f1ba43a05c481b3c4f02669993a40c0433747344f4c9c55d1613a4172e801",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
