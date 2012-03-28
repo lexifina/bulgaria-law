@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2012-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 325,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕВЕЛИН АНГЕЛОВ ДРАГАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e9266c3-d992-4229-ae48-1c5f4c6c84fa",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "484d3d84d54daf3cd59bd96daafd19d2e60185bde5bee61bf26fb839741c2094",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
