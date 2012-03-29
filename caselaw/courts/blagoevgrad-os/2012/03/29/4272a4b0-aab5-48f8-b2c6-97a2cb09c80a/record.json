@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2012-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1066,
+  "case_year": 2011,
+  "judge_rapporteur": "Катя Стайкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4272a4b0-aab5-48f8-b2c6-97a2cb09c80a",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=06.03.2012&to=06.05.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d90cab86d75a106dde2809a8ee20113b85a195f7e18efe59177004690bb63be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
