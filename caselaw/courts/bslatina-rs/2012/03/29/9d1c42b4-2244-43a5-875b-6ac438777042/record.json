@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2012-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 35,
+  "case_year": 2012,
+  "judge_rapporteur": "ТИХОМИР ИВАНОВ ВЕЛЬОВСКИ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d1c42b4-2244-43a5-875b-6ac438777042",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3ef20166a451341ff295ca88c7fbbf6d517a8a7473fa951c7264efdae0b48bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
