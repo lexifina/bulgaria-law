@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-04-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 36,
+  "case_year": 2012,
+  "judge_rapporteur": "МАЯ ПЕТРОВА ЙОРДАНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdaf995b-7dbe-4b18-a3c3-e9d7981b959a",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a58a970edb4b81c4cd14d53f2fa92075c8e853d13f7c56e95e57c56750152bd5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
