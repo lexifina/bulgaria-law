@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2012-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 95,
+  "case_year": 2012,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5315b935-98dc-49a8-bd89-067530d9af22",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d941a5a739e91b32bc4033f74d8d8b3d3838e1f9533c43dd1ec9a446d114d7e2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
