@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2012-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 101,
+  "case_year": 2012,
+  "judge_rapporteur": "КРАСИМИР БОРИСОВ ЦАЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9bb278f8-8632-4bc7-a8bf-7624fd2f1421",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d119d01689774e2a7bf77fc47b274672856eb7923d5e08b7c1f55e051286056b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
