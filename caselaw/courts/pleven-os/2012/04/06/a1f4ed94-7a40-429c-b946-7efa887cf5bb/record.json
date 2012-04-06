@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2012-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 171,
+  "case_year": 2012,
+  "judge_rapporteur": "КРАСИМИР ИВАНОВ ПЕТРАКИЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1f4ed94-7a40-429c-b946-7efa887cf5bb",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77b7bab5773cf8e30ac37ebd67ded8cde0dd514a366802d1682e6d40d25c8ae5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
