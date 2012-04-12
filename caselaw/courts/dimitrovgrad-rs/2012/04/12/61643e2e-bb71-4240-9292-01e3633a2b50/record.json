@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2012-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 177,
+  "case_year": 2012,
+  "judge_rapporteur": "ОГНЯН ХРИСТОВ ГЪЛЪБОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61643e2e-bb71-4240-9292-01e3633a2b50",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=16.01.2012&to=16.04.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcf3ced68b0e9fbdd58b1dd84cdf1be931b3fdd66e9efa16daa059dec00aad91",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
