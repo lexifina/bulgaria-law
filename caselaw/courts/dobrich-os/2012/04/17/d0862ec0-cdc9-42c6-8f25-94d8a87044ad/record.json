@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2012-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 32,
+  "case_year": 2011,
+  "judge_rapporteur": "ТАНЯ ГЕОРГИЕВА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0862ec0-cdc9-42c6-8f25-94d8a87044ad",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c5f2570ef0cc2c7f2ca8931f20cffa0967e3e39046474de0dc96d3a9c8dd2780",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
