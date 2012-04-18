@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2012-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 671,
+  "case_year": 2011,
+  "judge_rapporteur": "ДОБРИНА ИВАНЧЕВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=779414f4-f018-4ec7-a067-9e87d942a73b",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f27d9a39e47a2069d37f8623c4d338f0e6215906acf652b84dae57258499f181",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
