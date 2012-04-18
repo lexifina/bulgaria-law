@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2012-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 296,
+  "case_year": 2012,
+  "judge_rapporteur": "Емилия Топалова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=460851f8-e4e9-4674-9036-1c7063fd28ae",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=06.03.2012&to=06.05.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d90cab86d75a106dde2809a8ee20113b85a195f7e18efe59177004690bb63be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
