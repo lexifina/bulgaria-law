@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2012-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 265,
+  "case_year": 2011,
+  "judge_rapporteur": "ФЕНЯ ВЛАДИМИРОВА СТОЯНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef7d20fe-635e-4cd4-b45b-7d10f7ad8d4e",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83e51732ac143be27698cdfcba80f90e7d05571ec681ceca6d6b3a06ce7d2641",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
