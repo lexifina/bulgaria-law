@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2012-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 968,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЛАМЕН ГЕОРГИЕВ ЧЕНДЖИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca934140-efbb-4130-9ce2-a8b4a37a0856",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4bd2b19ee9ab34a972fe101399a2021330cac2d723c7e11eaf37c9286b29feb0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
