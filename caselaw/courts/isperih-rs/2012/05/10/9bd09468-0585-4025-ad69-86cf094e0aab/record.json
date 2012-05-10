@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2012-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 384,
+  "case_year": 2011,
+  "judge_rapporteur": "ДИМИТРИНКА ЕМИЛОВА КУПРИНДЖИЙСКА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9bd09468-0585-4025-ad69-86cf094e0aab",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f6213f6c2e0b6993475876cda3576262ac3d6dfef6659a4611c59ec516932e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
