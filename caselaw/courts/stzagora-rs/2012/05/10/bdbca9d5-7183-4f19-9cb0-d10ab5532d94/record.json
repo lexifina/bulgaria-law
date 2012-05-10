@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2012-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 781,
+  "case_year": 2012,
+  "judge_rapporteur": "ТОДОР ГОЧЕВ МИНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bdbca9d5-7183-4f19-9cb0-d10ab5532d94",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7713fe4968b127c36008210573499a251107839545e7c488d358431c04c019a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
