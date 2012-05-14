@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2012-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 664,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВЕЛИНА АПОСТОЛОВА ДИМОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a049f6e-1e31-41a6-8556-932dc73e8f80",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6ee26094702c956238bb90fd3a5bef8cdb08d7bbfdd5e802ca3d15b23f578366",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
