@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2012-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 373,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИМИТЪР БОРИСОВ БИШУРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b019bcb-ca47-4c78-a841-1f9628260cd7",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1e2c1ca5b6f7d08ccae397a9db36252f22c530ccd378b5a324f8818fd0d99f96",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
