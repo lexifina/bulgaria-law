@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2012-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 7179,
+  "case_year": 2009,
+  "judge_rapporteur": "РАЛИЦА БОРИСОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac8bd3bc-0773-43e4-80ac-4a21eef42651",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3c1057764d70ae1ce80b32f72321ed2cfc57ccfb69a1a4f9bca730cdafed2d7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
