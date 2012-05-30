@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2012-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 817,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЕТЯ НИКОЛОВА ГАТЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98d81700-6f52-498e-ac29-e7056de88c43",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd2981a8a8127c7d51a7d040fa18c2ef1e97ff875fb9630d6e5db09f78c67330",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
