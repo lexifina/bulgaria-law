@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2012-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 7779,
+  "case_year": 2011,
+  "judge_rapporteur": "ХРИСТО МИЛКОВ МИНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=074e35c2-04bf-4711-813b-67e9e4fd2869",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce9262396a71655f7cd6440071f1bd6de18131b564693be58e8e014a54e98380",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
