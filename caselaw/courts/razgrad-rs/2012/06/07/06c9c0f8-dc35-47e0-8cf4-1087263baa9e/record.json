@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2012-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 180,
+  "case_year": 2012,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=06c9c0f8-dc35-47e0-8cf4-1087263baa9e",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd14541c6ed0b4f3d693b140b0aad8f3ad13317e687a45331aa7bd80f73da727",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
