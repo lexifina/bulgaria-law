@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2012-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 215,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fcf5ed00-eaff-4bb2-a90b-43ba27172a23",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eaff0bb7b9e969b6958082bb1a76b46b007f52ced12bccd0181e31655494b626",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
