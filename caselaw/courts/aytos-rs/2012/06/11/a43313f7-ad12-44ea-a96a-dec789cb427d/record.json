@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2012-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 20,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРИЯ ДЖАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a43313f7-ad12-44ea-a96a-dec789cb427d",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8fe65d2b5ae3937d3970baeff3016c2066555e363388bfdabc5937792929daa2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
