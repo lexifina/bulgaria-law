@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2012-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 506,
+  "case_year": 2011,
+  "judge_rapporteur": "ГЕОРГИ ВИДЕВ ВИДЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ef0735b-aa27-464a-93a7-e3c2cf7a1925",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5cfecc67e5b5dd3b5be03b70c3c1151b40fc03753de768db67064c14cc5b9095",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
