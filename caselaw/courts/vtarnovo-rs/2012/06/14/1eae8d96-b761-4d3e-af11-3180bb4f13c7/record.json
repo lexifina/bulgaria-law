@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2012-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 838,
+  "case_year": 2012,
+  "judge_rapporteur": "МЛАДЕН ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1eae8d96-b761-4d3e-af11-3180bb4f13c7",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae1645c536389163ac3cb12d73fce6887e1213426d6b641bc23436aaba93666b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
