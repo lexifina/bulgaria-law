@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2012-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 77,
+  "case_year": 2012,
+  "judge_rapporteur": "ЗЛАТКО КОЛЕВ КОСТАДИНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1739fede-8902-47c8-8522-b75f930412ea",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46d4747400d9f1cede38bc337f181ffc4a6431f14156a5954ebdf21db6e69d7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
