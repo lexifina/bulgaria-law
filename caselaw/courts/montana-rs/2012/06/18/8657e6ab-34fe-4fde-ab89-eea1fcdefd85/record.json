@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2012-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 30215,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЕТЯ ТОПАЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8657e6ab-34fe-4fde-ab89-eea1fcdefd85",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af8339d1f44f1eb918fa196622910947d63f68bba1f082151168f67bfa77bb4f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
