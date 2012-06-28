@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2012-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 3427,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=016bfe46-712a-4aee-baa0-dbfec9fdb3e0",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c513357873b213d9de9220e0559f214cd0506e861cad230f521aee78196abdc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
