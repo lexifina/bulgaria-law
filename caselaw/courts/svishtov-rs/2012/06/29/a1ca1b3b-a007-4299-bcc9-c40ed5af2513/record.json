@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2012-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 210,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1ca1b3b-a007-4299-bcc9-c40ed5af2513",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eaff0bb7b9e969b6958082bb1a76b46b007f52ced12bccd0181e31655494b626",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
