@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2012-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 464,
+  "case_year": 2010,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6e52227f-5cc2-46b3-90fe-54793c9dcd20",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "642a53f9d7643bbdf0918b814a35bd909567bed8df419a9bd96acecda56cead7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
