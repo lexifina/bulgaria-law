@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2012-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3128,
+  "case_year": 2011,
+  "judge_rapporteur": "ЛЮДМИЛА ВАСИЛЕВА ПАНАЙОТОВА СТОЙНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa51e5b3-179e-4c46-b053-c8172b74a712",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fff0d027a8a3f97edf1b6091333290a2787cc2785a7159a0548f790ee0427edb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
