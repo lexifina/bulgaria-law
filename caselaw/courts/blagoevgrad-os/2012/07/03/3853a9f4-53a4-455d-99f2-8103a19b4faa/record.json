@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2012-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 315,
+  "case_year": 2012,
+  "judge_rapporteur": "Петър Пандев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3853a9f4-53a4-455d-99f2-8103a19b4faa",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=07.05.2012&to=07.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "31d155f979bb5b4fca6fa031d7ae1c7e7cae44a4975bc7dbcf6f19f60c9620b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
