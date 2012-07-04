@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2012-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 303,
+  "case_year": 2012,
+  "judge_rapporteur": "РАЛИЦА ИВАНОВА ХАДЖИИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=baa0a3d7-12b7-4f29-8e43-4b3bfc19fb56",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "78e980e55ad42f24749a756a636a5fc7eb33e1eb380dcf485f7ea57b892b17dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
