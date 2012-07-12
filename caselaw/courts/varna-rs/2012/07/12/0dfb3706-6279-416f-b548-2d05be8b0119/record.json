@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2012-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3652,
+  "case_year": 2012,
+  "judge_rapporteur": "ХРИСТО МИЛКОВ МИНЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dfb3706-6279-416f-b548-2d05be8b0119",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce9262396a71655f7cd6440071f1bd6de18131b564693be58e8e014a54e98380",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
