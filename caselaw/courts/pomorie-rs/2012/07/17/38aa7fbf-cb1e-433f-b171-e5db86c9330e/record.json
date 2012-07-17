@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2012-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 172,
+  "case_year": 2011,
+  "judge_rapporteur": "ИВАЙЛО ЙОРДАНОВ БЪЧВАРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38aa7fbf-cb1e-433f-b171-e5db86c9330e",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dfa635ccc7d4304bc7fd316e494596dd98984f95e3708df2d0643bb20d11a70e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
