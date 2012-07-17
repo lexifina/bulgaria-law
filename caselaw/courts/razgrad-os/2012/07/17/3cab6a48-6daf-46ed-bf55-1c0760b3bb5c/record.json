@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2012-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 47,
+  "case_year": 2010,
+  "judge_rapporteur": "АНЕЛИЯ МАРИНОВА ЙОРДАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3cab6a48-6daf-46ed-bf55-1c0760b3bb5c",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8fb10497a5bc9f6d1baee6716e1cfa15b544e4fce05538809633f8d1392e808f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
