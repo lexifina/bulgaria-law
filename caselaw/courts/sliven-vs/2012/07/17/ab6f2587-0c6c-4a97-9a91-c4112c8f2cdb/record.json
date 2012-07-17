@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 143,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ ДИМОВ ПЕПЕЛЯШЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab6f2587-0c6c-4a97-9a91-c4112c8f2cdb",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=17.04.2012&to=17.07.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "954c29d93802f447323dd1d577c4da6f52b75569d830d266b8d87370114affc2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
