@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2012-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 59,
+  "case_year": 2009,
+  "judge_rapporteur": "ВАЛЯ ЙОРДАНОВА МЛАДЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c9f7e48-7428-432a-8f0e-5fb6edb6edf1",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6278f0a8d339e5a9b2c6c229b6428d487e075c0bac1760d15da9abf22abcaa84",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
