@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2012-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 496,
+  "case_year": 2011,
+  "judge_rapporteur": "КОЛЬО ВЕЛКОВ ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e86ca43d-8615-4539-8866-fa7075e040e4",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ca740b0fcc60bb171c646157ffd55628827a7449065efeeb4c973678f43d8829",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
