@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1168,
+  "case_year": 2011,
+  "judge_rapporteur": "ЖИВКА КИРИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=97ee4f06-1850-4868-8fcc-b1319051244d",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a797733e21dd298a4c24588b149c9c867ecb76c605c98e8e9e95af107616a92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
