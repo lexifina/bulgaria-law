@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2012-07-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 422,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa853643-5c87-4405-8d72-6d15b4d627e2",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9657a3e52c6aeb6a62df44b40ff1e84da9a4e256dda73dfa5122e895de6adc14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
