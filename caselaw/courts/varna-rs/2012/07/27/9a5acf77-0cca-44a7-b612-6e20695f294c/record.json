@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2012-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 590,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИЯ ГЕОРГИЕВА КОЮВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9a5acf77-0cca-44a7-b612-6e20695f294c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef06420ba9c919236252e672b4a080708ca9307b3f239e508e85b79ab4c46874",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
