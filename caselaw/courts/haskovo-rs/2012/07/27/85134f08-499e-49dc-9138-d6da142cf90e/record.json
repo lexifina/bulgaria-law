@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2012-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2966,
+  "case_year": 2011,
+  "judge_rapporteur": "ВАЛЕНТИНА ЖЕКОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=85134f08-499e-49dc-9138-d6da142cf90e",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6dc37215f998ab3349172110cfa5abc88d672b1d19764e65e5cf6ae39e65c0ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
