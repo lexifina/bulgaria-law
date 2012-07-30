@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2012-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 254,
+  "case_year": 2012,
+  "judge_rapporteur": "МОМЧИЛ ДИМИТРОВ ТАРАЛАНСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2944b465-b05d-442e-a56d-06b2bfee53de",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3966ba1057fc6f40008c4319763db67761de48702da92e2b17085f0156559b33",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
