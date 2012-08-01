@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2012-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 299,
+  "case_year": 2012,
+  "judge_rapporteur": "СИЛВИЯ АНДРЕЕВА ЖИТАРСКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d47aeef-d3d6-4af5-8ab1-75e1deecb966",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71db56454005e0f99fe1d49ec7fb240beea1815bdc77385ec18ec2ab7ebd905a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
