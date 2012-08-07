@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2012-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 824,
+  "case_year": 2008,
+  "judge_rapporteur": "ИВЕТА ПАВЛОВА ТАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=386231cc-3da7-4364-862d-df02c2ec82a4",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "552c87f10190b1c59b3cba3d66ee1d8e098f93576757f2dd3874173de8b7e033",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
