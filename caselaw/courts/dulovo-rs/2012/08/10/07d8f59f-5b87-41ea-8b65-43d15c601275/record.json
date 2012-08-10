@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2012-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 319,
+  "case_year": 2012,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07d8f59f-5b87-41ea-8b65-43d15c601275",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "896ed56add4dea4c9bb02cf13889d249bb606f687f8630e47dbfbd4e277c7fbb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
