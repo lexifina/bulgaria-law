@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 187,
+  "case_year": 2012,
+  "judge_rapporteur": "МАЯ ПЕТРОВА ЙОРДАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28af6c0f-5359-4e6f-844a-8fd30701cb5e",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e4335057203a5e9a7ec90df69f63b53269c60a54ef1b13301a8b5df70d5376c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
