@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2012-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1515,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЕТЪР ПЕТКОВ МОНЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2840fa0-97f4-40e3-a8da-9f2c36b48339",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5ddbd3150074c93357e08c8374e1fd400d65784f15d0346a99dd31efc6bc3f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
