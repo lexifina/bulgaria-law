@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2012-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 754,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=11b5ae1b-b199-4b49-aac5-06cdd2890b3c",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e4c9f7a855a6e4be35b955135d5de98bbc0531c6dd82892dc1843eaa73f8cc42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
