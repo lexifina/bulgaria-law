@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2012-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1842,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРИНА ХРИСТОВА ХРИСТОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3ebb2c0d-4239-40b8-975a-3bc8c88bf02e",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5149d044f734c5a0fbd1215faa36fcaa0e769ffb49e5957d4b02f685e5ec1c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
