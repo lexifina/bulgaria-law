@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2012-09-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5,
+  "case_year": 2009,
+  "judge_rapporteur": "АНТОН ЦВЕТАНОВ АНТОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60ec3c10-7f54-448b-9e16-4b6f05d734a5",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eddcc01d6054f352d73fc41655612140bbcf1b4d74f408c3d938108a18593ce8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
