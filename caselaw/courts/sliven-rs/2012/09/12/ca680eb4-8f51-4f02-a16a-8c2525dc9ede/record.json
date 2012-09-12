@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-09-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 856,
+  "case_year": 2012,
+  "judge_rapporteur": "НИКОЛА ГЕОРГИЕВ МАРИНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca680eb4-8f51-4f02-a16a-8c2525dc9ede",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a797733e21dd298a4c24588b149c9c867ecb76c605c98e8e9e95af107616a92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
