@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2012-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 400,
+  "case_year": 1997,
+  "judge_rapporteur": "ТИХОМИР ПЕНКОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ebee599-38a4-4ff4-9da7-9d0eb9105d99",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba06eb8050ed01ccb8e2a25b02ee35a3b4514fc451789161c7c408f9df024ab6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
