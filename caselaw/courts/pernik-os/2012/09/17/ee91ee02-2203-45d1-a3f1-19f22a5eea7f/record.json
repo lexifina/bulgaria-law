@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2012-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 211,
+  "case_year": 2012,
+  "judge_rapporteur": "КРАСИМИР СТЕФАНОВ МАРИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee91ee02-2203-45d1-a3f1-19f22a5eea7f",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d3ba9976220f13880a782988e01038c1e99a5d8b36c93afea3476438f4f7f458",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
