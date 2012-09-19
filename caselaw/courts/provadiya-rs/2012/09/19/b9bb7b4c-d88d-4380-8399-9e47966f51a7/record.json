@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2012-09-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 456,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИМИТЪР СТЕФАНОВ МИХАЙЛОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9bb7b4c-d88d-4380-8399-9e47966f51a7",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a9fc0a07f9581e65e9d7fee05990ac3847076cf4a42caeca43e20d4f57b1ba0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
