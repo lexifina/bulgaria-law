@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2012-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 99,
+  "case_year": 2011,
+  "judge_rapporteur": "ИВАНЕЛА АТАНАСОВА КАРАДЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a12308be-ae22-430e-ae54-7837f740ce6b",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "21258569c0ed22e23dc47478ea4c0705a7630c458f1fe319a0bff5122f6eedd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
