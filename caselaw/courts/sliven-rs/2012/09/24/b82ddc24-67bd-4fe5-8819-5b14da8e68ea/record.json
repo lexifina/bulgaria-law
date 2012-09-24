@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2012-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1853,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА КАРАНАШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b82ddc24-67bd-4fe5-8819-5b14da8e68ea",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a797733e21dd298a4c24588b149c9c867ecb76c605c98e8e9e95af107616a92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
