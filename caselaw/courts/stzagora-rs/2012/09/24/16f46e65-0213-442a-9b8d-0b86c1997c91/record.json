@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2012-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4263,
+  "case_year": 2012,
+  "judge_rapporteur": "МИЛЕНА КИРОВА КОЛЕВА КОСТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16f46e65-0213-442a-9b8d-0b86c1997c91",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "95a75f56b1c8e96ea7d3804c6db2b6087055289d1cb03a2677fad7b5f9619bb0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
