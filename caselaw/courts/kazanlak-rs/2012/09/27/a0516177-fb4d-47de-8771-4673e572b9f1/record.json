@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2012-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1080,
+  "case_year": 2012,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0516177-fb4d-47de-8771-4673e572b9f1",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed47a63d1246284dc0e8d907ecaf93142da3653eb136ef2042b63442fc32f52f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
