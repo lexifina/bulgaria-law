@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2012-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1463,
+  "case_year": 2010,
+  "judge_rapporteur": "МАЯ ВАСИЛЕВА ГИЗДОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fbe5c636-e24e-42ad-991a-80dac39320e2",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4acafbd3bc907499ecd7b50356da48a222d2838064691c6454996b950a1eab2a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
