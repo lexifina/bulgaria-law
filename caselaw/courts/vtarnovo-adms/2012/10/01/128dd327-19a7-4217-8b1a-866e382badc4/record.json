@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2012-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 950,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ КОЛЕВ ЧЕМШИРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=128dd327-19a7-4217-8b1a-866e382badc4",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b942cdbb8c43f7e438394c323d89bc5816168e597f15693d4ba92a67a7d68f90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
