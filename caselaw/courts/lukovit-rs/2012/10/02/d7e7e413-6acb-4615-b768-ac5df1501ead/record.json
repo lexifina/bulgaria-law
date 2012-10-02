@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2012-10-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 276,
+  "case_year": 2012,
+  "judge_rapporteur": "ЦВЕТАН КРЪСТЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7e7e413-6acb-4615-b768-ac5df1501ead",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d00f200b44e486125690e9863d0366d4fe509e228f13c102460679f602d249b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
