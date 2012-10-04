@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2012-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 545,
+  "case_year": 2012,
+  "judge_rapporteur": "СТЕФКА ТОМОВА ПАШОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=de9dbdcf-873d-4158-ace1-e2369f80eabb",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f5cdc4283b3e33ca4ace5d0fd23219d43672e4e6eeb3a15533c57a615f98db3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
