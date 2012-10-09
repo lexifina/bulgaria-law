@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2012-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 501,
+  "case_year": 2012,
+  "judge_rapporteur": "НИКОЛАЙ ХРИСТОФОРОВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb88c9e5-9f9e-4f09-a196-7586605844d8",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ef1d3efc37bf9e74291960d7ae13012875eed9d901e70265f3b845e331cdefc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
