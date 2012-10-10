@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2012-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 612,
+  "case_year": 2012,
+  "judge_rapporteur": "ПАВЛЕТА ВАСИЛЕВА ДОБРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25bd5db5-34d8-4e1c-a940-4dea592b6582",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cfa13f4a086eac3d6b058de5899eae966c3d0fe04db2aea7c2073900212bf415",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
