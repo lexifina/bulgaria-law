@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2012-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 385,
+  "case_year": 2012,
+  "judge_rapporteur": "ЮЛИЯ СТАНКОВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84e34424-e615-45e8-8ffc-877920c0ca82",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6afa43857c1cf877c081453963e3f093dca96edf5726308b2f9bb80b777f624f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
