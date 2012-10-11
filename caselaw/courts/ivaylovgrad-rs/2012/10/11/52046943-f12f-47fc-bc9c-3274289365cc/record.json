@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2012-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 66,
+  "case_year": 2012,
+  "judge_rapporteur": "КАЛОЯН СИМЕОНОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52046943-f12f-47fc-bc9c-3274289365cc",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa7c05b75019f3b29393f3df0c716ecbd80d664b77fc4687acbd77ea02717a20",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
