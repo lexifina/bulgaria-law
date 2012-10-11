@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2012-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 757,
+  "case_year": 2012,
+  "judge_rapporteur": "СВЕТЛА ИВАНОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22d06026-423d-435a-a602-f003c95e646b",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9b70a7b16c7a81c3ba40a7029bf97876d98524cc1208a5e11ec58faf0b9f063",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
