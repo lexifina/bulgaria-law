@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2012-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10147,
+  "case_year": 2012,
+  "judge_rapporteur": "МИНКО НЕДЯЛКОВ МИНКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8ade4e9-bc51-4c2a-9dea-a388b2030f33",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "756506010e3c7497fc755c736195bfc827e358d11eff189352499a318aa26b3f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
