@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4231,
+  "case_year": 2011,
+  "decision_type": "Решение",
+  "decision_number": "12739",
+  "decision_date": "2012-10-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D586105%26code%3Dvas%26guid%3D1570719741",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=586105&code=vas&guid=1570719741",
+  "source_text_sha256": "f8047d0dcf38623e7e0531061b0d21ace4918389f0ddb3b2b9e5d34f4cbc84ee",
+  "source_images": 0
+}
