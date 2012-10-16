@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2012-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 336,
+  "case_year": 2012,
+  "judge_rapporteur": "РЕНИ МИХАЙЛОВА СПАРТАНСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9504d3d-8efb-4246-8ac2-ac4055582956",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bff727d7040ab8de23ef5ee9b1310022ff34719458211ef94eeb337a3f8a3919",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
