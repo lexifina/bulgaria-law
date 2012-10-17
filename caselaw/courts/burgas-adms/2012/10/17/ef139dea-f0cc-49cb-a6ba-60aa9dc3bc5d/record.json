@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2012-10-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 641,
+  "case_year": 2010,
+  "judge_rapporteur": "ЛИЛИЯ АЛЕКСАНДРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef139dea-f0cc-49cb-a6ba-60aa9dc3bc5d",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=18.07.2012&to=17.10.2012&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28c657720979e095b04fd762256af0786c841a5d5fa41d89c4f6fa62491752fc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
