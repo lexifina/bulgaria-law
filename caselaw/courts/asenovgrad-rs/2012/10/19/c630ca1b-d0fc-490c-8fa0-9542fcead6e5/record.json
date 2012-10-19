@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2012-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 624,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАН ГЕОРГИЕВ КАЛИБАЦЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c630ca1b-d0fc-490c-8fa0-9542fcead6e5",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0176e4e55a1f3bc4f6f049acd5be19ec96d66348ebf14dbdb7faf0795ba4fe9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
