@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2012-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 279,
+  "case_year": 2012,
+  "judge_rapporteur": "ИРЕНА ИЛКОВА ЯНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2522889-6c6e-43e5-bb88-2658a4ea33cd",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e20e3b92133e99add8ea0289111911517ceb99b734d40093f3c55115b1a02aaa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
