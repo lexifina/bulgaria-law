@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2012-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 124,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕМИЛИЯ ХРИСТОВА ДИШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8b61791-4e7e-403d-89ba-dd445882b013",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03168446f0bb08f82f7afb5594de12f702f867d7d24e74a66ddf5764c3bbeab3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
