@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2012-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 826,
+  "case_year": 2011,
+  "judge_rapporteur": "АТАНАС НИКОЛАЕВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53394be1-5161-4622-88b7-ef6837d06060",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0476d881a6424219b01462386ff903736dc6b7889ae9d9ea7b1a7498505be230",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
