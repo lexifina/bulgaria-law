@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2012-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 62,
+  "case_year": 2012,
+  "judge_rapporteur": "ПАВЛЕТА ВАСИЛЕВА ДОБРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d928220c-1d8d-4a0a-b84c-9a1a9d62dd08",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a490bc3881f12f5246b802e79f4ef3dca7b1005415f123650e92fba52bf1c37",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
