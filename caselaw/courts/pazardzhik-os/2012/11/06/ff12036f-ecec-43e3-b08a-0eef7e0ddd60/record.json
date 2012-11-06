@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2012-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 157,
+  "case_year": 2012,
+  "judge_rapporteur": "ИРИНА АТАНАСОВА ДЖУНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ff12036f-ecec-43e3-b08a-0eef7e0ddd60",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f7b690e0b089d6f85f8deea969b9024ed206ee720893748191f98439e9bab2a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
