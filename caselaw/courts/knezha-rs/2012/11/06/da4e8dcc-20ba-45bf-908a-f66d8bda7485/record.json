@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2012-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 125,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЛАМЕН ГЕОРГИЕВ ТОДОРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=da4e8dcc-20ba-45bf-908a-f66d8bda7485",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3e809cc543d3858ea391e148b360867597e2fa5e45c4e15206980af288ea71c5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
