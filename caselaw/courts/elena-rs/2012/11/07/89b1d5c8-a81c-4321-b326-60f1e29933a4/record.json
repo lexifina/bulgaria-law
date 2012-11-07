@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2012-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 181,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89b1d5c8-a81c-4321-b326-60f1e29933a4",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "945fffaf266fd2a45bb66b1d0f5e55eef74977db7fd57c3e9ec43f42626117e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
