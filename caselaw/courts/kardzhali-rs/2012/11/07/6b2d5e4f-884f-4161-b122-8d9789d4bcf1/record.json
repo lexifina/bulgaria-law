@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2012-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1451,
+  "case_year": 2012,
+  "judge_rapporteur": "АНГЕЛ МАВРЕВ МОМЧИЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b2d5e4f-884f-4161-b122-8d9789d4bcf1",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f0355790fd94b39011db3efc49297f9527748104137dd1c9a3d574df0fa8f76a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
