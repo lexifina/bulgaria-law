@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2012-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 825,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЛАМЕН ТОДОРОВ ДОЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eceefc48-4781-4c74-8b1e-2c81a8520c69",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe73449de0753881d7e887ee96ff431a55afbd32559584f411631e6f15926a04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
