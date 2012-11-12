@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2012-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 426,
+  "case_year": 2012,
+  "judge_rapporteur": "СТАНИСЛАВА ПЕНКОВА КАЗАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc693476-a711-4213-9f84-ecf935c3f7eb",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c2f235673832b2fe1f66081efb16cc17c690e858c611d77cf28bb6d3eff8909",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
