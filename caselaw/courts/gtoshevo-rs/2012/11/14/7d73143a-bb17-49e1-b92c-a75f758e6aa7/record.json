@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2012-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 78,
+  "case_year": 2011,
+  "judge_rapporteur": "ПЕТЪР АТАНАСОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7d73143a-bb17-49e1-b92c-a75f758e6aa7",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3e7e8363fa19f20cccd21dd3f439e6b3cdff5dc094cc63d28f97950334121c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
