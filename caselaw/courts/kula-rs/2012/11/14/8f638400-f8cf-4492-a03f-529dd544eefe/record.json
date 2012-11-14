@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2012-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 177,
+  "case_year": 2011,
+  "judge_rapporteur": "ВЛАДИМИР КАЛОЯНОВ КРУМОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f638400-f8cf-4492-a03f-529dd544eefe",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f1cbf33f5e0bcf23b78553eaf12c1c3834bdeed45a98086ae737705f6a968c5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
