@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2012-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 845,
+  "case_year": 2010,
+  "judge_rapporteur": "МАРИО ДИМИТРОВ СТОЯНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=020c3a55-b42e-4fd2-98a7-326d6141bdb1",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "21520e38c4a53d1dc47a60785a9ba7e05afc2c809615d4620927c440123ade16",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
