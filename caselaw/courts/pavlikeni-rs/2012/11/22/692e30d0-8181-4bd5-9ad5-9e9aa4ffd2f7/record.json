@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2012-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 534,
+  "case_year": 2012,
+  "judge_rapporteur": "РАДКА ИВАНОВА ЦАРИГРАДСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=692e30d0-8181-4bd5-9ad5-9e9aa4ffd2f7",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3dc66df9479ba5d732bc432cefcf4fb7bdf7a523c407f1454ef56567b5b9c03",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
