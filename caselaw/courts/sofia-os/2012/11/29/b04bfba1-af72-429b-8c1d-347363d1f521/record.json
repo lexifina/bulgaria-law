@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2012-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 80,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ ДИМИТРОВ ЧОЛАКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b04bfba1-af72-429b-8c1d-347363d1f521",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7cffe3374fb653b50ae19a9bd4c8119dac151e52c15abe97b387dce941067625",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
