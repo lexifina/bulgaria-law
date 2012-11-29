@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2012-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 267,
+  "case_year": 2012,
+  "judge_rapporteur": "ТАТЯНА ДИМИТРОВА ДАСКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93a85b98-e75b-4caa-b609-d0b083a8cc01",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2e129809c6bc8c1f7b758fef0167b65fa425ec4da45adbe3958c80a489a9a9ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
