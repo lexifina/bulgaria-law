@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2012-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 131,
+  "case_year": 2012,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=360de37b-09a1-44c1-85ff-e636b6b4d059",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2775843b1bf56f58e79d89345e758d792e3c021e72229bf43f55c52052b65063",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
