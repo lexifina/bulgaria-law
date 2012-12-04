@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2012-12-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 320,
+  "case_year": 2012,
+  "judge_rapporteur": "НЕДЕЛИНА ТАНЧЕВА МИНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=505dff55-c254-4139-aca8-a3423a55f5fc",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7042e3dbdf14210b1b12396763a696ea370ba67366def2e141058e5c358a941c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
