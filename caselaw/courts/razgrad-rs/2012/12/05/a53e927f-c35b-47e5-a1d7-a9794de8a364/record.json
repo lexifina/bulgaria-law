@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2012-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2100,
+  "case_year": 2011,
+  "judge_rapporteur": "КОНСТАНТИН ПЕТРОВ КОСЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a53e927f-c35b-47e5-a1d7-a9794de8a364",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a490bc3881f12f5246b802e79f4ef3dca7b1005415f123650e92fba52bf1c37",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
