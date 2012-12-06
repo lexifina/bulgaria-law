@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2012-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 578,
+  "case_year": 2008,
+  "judge_rapporteur": "МИХАИЛ АЛЕКСАНДРОВ МАЛЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=337a3ed0-106e-4370-bb4a-5d3b003f24f0",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "825ae8b5f2efa54b6dcb71401d78bcb671ab2f2fbe3aaa7d89a81eb7903ee1f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
