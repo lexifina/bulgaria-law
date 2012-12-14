@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2012-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7420,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИЛЯНА НИКОЛОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26afe43c-0600-4554-984f-8504402c9843",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e253ced7c3a29fb5e2c77ae8c518d1ecaeb24f5384e865874b25a6849885ba05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
