@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2012-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 539,
+  "case_year": 2012,
+  "judge_rapporteur": "ЯНКО НОВАКОВ НОВАКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27f87b57-5f91-40d6-b04e-75763a8998dd",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ae23ada7cb763fcedc0161ac1a62f254a8c9404aebcbc471ec5baae538dbb0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
