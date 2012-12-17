@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2012-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 358,
+  "case_year": 2012,
+  "judge_rapporteur": "АДРИАНА ГЕОРГИЕВА ДОБРЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2cf9895-9008-4250-a84b-83d7157ebc19",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "828b96001d9ba5ba559e69698cfe6bee5197f14ccc90b28cc8da054f6f4e6be5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
