@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2012-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 809,
+  "case_year": 2012,
+  "judge_rapporteur": "ЮЛИЯН СТАМЕНОВ СТАМЕНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b7e8a7b-94c9-48f2-a783-8d3e91c47fda",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "edbfc8812263a87c332d4173306aa5028a9032af0922ea2002b91e6e1cbe4a42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
