@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2012-12-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 358,
+  "case_year": 2012,
+  "judge_rapporteur": "ВЛАДИМИР НИКОЛАЕВ ЛЕГАРСКИ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6549d038-def5-4db2-8996-52f73bd7c8fc",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "972dc19192bddbc6e03c4e9d3e8cc245146d1222b62f791b3c4ad0f6899b0461",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
