@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2013-01-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 444,
+  "case_year": 2012,
+  "judge_rapporteur": "Румяна Бакалова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eeb28e40-c4e9-4ceb-959c-97db7b41c85c",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=09.11.2012&to=09.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d7fe3d7e10b0608e2e29689968784fa2c235863b7f14014f37562952026f335",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
