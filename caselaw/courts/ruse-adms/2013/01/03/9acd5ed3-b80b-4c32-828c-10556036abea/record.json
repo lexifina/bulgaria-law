@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2013-01-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 271,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕЛГА ВЕНЕЛИНОВА ЦОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9acd5ed3-b80b-4c32-828c-10556036abea",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0682ac78f991eb2e00e40374afcc7f91426638cd71625e31333fa52afc883bb9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
