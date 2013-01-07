@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2013-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 99,
+  "case_year": 2012,
+  "judge_rapporteur": "ТАНЯ ПЕТРОВА КИРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aedf71cf-1d14-449e-864e-0a0081873976",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71c2c61deea7905e36c98bf48dd8aa3a821d9e14293aa9c276419174c185a3e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
