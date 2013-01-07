@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2013-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 9,
+  "case_year": 2013,
+  "judge_rapporteur": "ГЕРГАНА ТОЧЕВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53488d37-f5e4-4af5-b5ef-84630e4e0ee3",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c31fd88bcb6f5a8ec537b551a8d064508994a2c6a63fb17176d07e25afbd9b9f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
