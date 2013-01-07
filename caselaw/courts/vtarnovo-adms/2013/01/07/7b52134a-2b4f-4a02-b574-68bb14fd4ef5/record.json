@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2013-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 11,
+  "case_year": 2013,
+  "judge_rapporteur": "РУМЯНА ПЕЙЧЕВА ПЕЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b52134a-2b4f-4a02-b574-68bb14fd4ef5",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4841999ba5069d002dea3f77d2bdccf2b192139bcc2686059b995b7bb6cd947c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
