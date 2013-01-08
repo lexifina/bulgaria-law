@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2013-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 39,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРИАНА КОЛЕВА ГУНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0537ec41-73f9-4b20-bd97-f92de39e0436",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f0355790fd94b39011db3efc49297f9527748104137dd1c9a3d574df0fa8f76a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
