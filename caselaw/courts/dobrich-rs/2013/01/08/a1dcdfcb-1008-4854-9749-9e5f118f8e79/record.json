@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2013-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3919,
+  "case_year": 2009,
+  "judge_rapporteur": "МИРОСЛАВА РАЙЧЕВА НЕДЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1dcdfcb-1008-4854-9749-9e5f118f8e79",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0408661ad8f97280b4ad4d97e883c42688a3c6e63f0996cc749dc168d61f91c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
