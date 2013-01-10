@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2013-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 770,
+  "case_year": 2011,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac29bf34-2d3d-490a-8005-c0eb7637bf1c",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0dedba85b14b8e450faae0a749f104b4844b859f8f2ecc1ef34030c1e5b5778b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
