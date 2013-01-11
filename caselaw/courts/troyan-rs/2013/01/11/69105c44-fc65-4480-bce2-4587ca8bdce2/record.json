@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2013-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 15,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕТЯ НИКОЛОВА ГАТЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=69105c44-fc65-4480-bce2-4587ca8bdce2",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1717144336c24f227007d7c5f5cc69ba748cb14ac7d6d9488de3f10aab8b05d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
