@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2013-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 584,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕЛЕНА ЗЛАТАНОВА ТОДОРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59af9ac2-935a-420a-a11f-839e2d37dc1a",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df79ba8f488289e3755d31f6f5615525228301d241120f2a72ffe80132609306",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
