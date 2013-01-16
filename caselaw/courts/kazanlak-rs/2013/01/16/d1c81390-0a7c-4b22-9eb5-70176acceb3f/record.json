@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2013-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1352,
+  "case_year": 2012,
+  "judge_rapporteur": "ТОДОР СТОЙКОВ ТОДОРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1c81390-0a7c-4b22-9eb5-70176acceb3f",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e46605714a1e89c586c6fd30f2c5424f25bab818f4e06bb8b9ca9dcf2dc2f6d8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
