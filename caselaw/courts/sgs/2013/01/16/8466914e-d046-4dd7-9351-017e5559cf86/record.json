@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2013-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4262,
+  "case_year": 2012,
+  "judge_rapporteur": "ДЕНИЦА ИВАНОВА ЦВЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8466914e-d046-4dd7-9351-017e5559cf86",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c2f235673832b2fe1f66081efb16cc17c690e858c611d77cf28bb6d3eff8909",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
