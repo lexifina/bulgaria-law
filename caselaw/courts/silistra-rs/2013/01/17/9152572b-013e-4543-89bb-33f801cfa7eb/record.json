@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2013-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1417,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕЛЕНА СТОЙНОВА ЧЕРНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9152572b-013e-4543-89bb-33f801cfa7eb",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=18.10.2012&to=17.01.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d5c7de1b0d1b56d9f1000a4fc9e4107b1fc3b93888d5b4720fe7e4eb9715cd6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
