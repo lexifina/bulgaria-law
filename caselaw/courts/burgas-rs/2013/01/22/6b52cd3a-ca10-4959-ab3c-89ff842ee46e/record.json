@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2013-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4896,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ ХРИСТОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b52cd3a-ca10-4959-ab3c-89ff842ee46e",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd1d7efa0b68be17a8b698da787b31b1abd0a52b6c31be032cc0e79918876f29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
