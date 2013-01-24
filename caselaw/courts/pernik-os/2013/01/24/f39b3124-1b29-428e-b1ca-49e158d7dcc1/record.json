@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2013-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 54,
+  "case_year": 2013,
+  "judge_rapporteur": "РЕНИ ПЕТРОВА КОВАЧКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f39b3124-1b29-428e-b1ca-49e158d7dcc1",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9aac42f833508ebddf4b526a783d8fb4578d8e66a0bd602ee63942cdb47cea51",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
