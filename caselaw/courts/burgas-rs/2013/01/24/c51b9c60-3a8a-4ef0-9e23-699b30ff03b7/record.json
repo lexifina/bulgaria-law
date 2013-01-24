@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2013-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4216,
+  "case_year": 2012,
+  "judge_rapporteur": "МАЯ НИКОЛОВА СТЕФАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c51b9c60-3a8a-4ef0-9e23-699b30ff03b7",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd1d7efa0b68be17a8b698da787b31b1abd0a52b6c31be032cc0e79918876f29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
