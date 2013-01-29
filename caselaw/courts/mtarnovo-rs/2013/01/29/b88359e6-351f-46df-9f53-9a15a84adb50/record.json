@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2013-01-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 15,
+  "case_year": 2013,
+  "judge_rapporteur": "����� ��������� �������",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b88359e6-351f-46df-9f53-9a15a84adb50",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81a83de6067ccad523f9ac766fd5ac9f8f6fde43ee2eefc1baed78022a6419eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
