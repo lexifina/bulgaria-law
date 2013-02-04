@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2013-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 20,
+  "case_year": 2013,
+  "judge_rapporteur": "СПАСИМИР СПАСОВ ЗДРАВЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=085607ca-e2fb-46d3-91c5-c2dfb5eee7ef",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "548cee8223999a32522ab974b2992680e2c7c70267c7dfeeeb206d85da0e2088",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
