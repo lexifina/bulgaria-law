@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2013-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 37,
+  "case_year": 2013,
+  "judge_rapporteur": "Емилия Дончева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e919018-421e-4642-aaa3-446c22892cf0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=10.01.2013&to=12.03.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9ed7121a47b32318f2f0557881ef542432e5f2757dd77388f34b43499b512d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
