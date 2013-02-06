@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-02-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5314,
+  "case_year": 2012,
+  "judge_rapporteur": "АЛБЕНА СЛАВОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8ab925f-8867-4e5d-93a1-a73b28b5637b",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30eb8a9f8e6fcdbb46db53948fea1e9e07284c51a625dbf7efb929343eecf127",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
