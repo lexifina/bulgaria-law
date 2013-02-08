@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2013-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3316,
+  "case_year": 2012,
+  "judge_rapporteur": "СВЕТЛА РУСКОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7a823c13-26dd-4778-9fcd-b5a5d374fc3c",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d1e3447218a07d5fd34ad781954805d76adf55521a5a1acd06b9f18d5dd3d94",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
