@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2013-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 42,
+  "case_year": 2013,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ff9266b1-deea-4f04-8965-585e03d3b4aa",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "82441a4523385888aa0fa4673589f25f38fb2753948e42d051f76958b34e9840",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
