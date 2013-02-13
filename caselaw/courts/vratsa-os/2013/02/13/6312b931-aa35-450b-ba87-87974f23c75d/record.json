@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2013-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 62,
+  "case_year": 2012,
+  "judge_rapporteur": "РАДОСЛАВА СИМЕOНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6312b931-aa35-450b-ba87-87974f23c75d",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f99ed5ee42be1232883c588fa64c32a853c65c39ee608d809fef93160741b3c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
