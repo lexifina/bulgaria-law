@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2013-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 33,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРГАРИТА ДИМИТРОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0804c42-4ff0-4d45-83bc-9f40efa4dd7f",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "108f035c52a35f06bcee8bb0390e42f3929e377b9b944fef79729505f015f5a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
