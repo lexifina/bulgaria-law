@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2013-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 492,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕРГАНА ВЕЛИКОВА НЕДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c8b5a31-d5dd-4baa-8f23-b46a6d606ad7",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73c30ecf9229c50d4127e164e839f1b549433cc2293b9afa98265ad08f32a0bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
