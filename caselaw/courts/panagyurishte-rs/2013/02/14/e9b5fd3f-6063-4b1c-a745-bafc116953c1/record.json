@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2013-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 295,
+  "case_year": 2012,
+  "judge_rapporteur": "ЦВЯТКО НИКОЛОВ МАНГОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9b5fd3f-6063-4b1c-a745-bafc116953c1",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4089aa898bf860644d43b462fe0a1c84d5432847e3df7dbe1961b9267ba1d321",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
