@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2013-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1981,
+  "case_year": 2011,
+  "judge_rapporteur": "ДИАНА МЛАДЕНОВА МАТЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=316317d1-af76-48d2-856a-0e626154fe69",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9079fb9cb81cc834e4fc53d3bdc09dff8180e9d668b7545ed2cb72c2069bc0aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
