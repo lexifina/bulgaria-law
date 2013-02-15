@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2013-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 107,
+  "case_year": 2013,
+  "judge_rapporteur": "ГЕОРГИ ГОЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80db2df1-19af-42cf-921f-07edb4c7039c",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6fd65183e3e6192cabe62637224b2811a9b49a31576bf4ef5762dc0c2ca25755",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
