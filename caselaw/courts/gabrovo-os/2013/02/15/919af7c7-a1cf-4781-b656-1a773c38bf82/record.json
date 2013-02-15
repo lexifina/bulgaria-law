@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2013-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 10003,
+  "case_year": 2012,
+  "judge_rapporteur": "ПОЛИНА ПЕНКОВА ПЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=919af7c7-a1cf-4781-b656-1a773c38bf82",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a89a5096581b860e485f8fb2e4435985aad63f624fe7518a83d1e3e9fb05a0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
