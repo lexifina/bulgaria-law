@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2013-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 8,
+  "case_year": 2012,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c1c51d1-f791-4034-aa75-cf4b37c1f932",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6ed319e8b948048dc74f13b1fbd9cbe209a153e5cab3977fa829e6e2e3bdb57b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
