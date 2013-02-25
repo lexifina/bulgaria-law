@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2013-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 556,
+  "case_year": 2012,
+  "judge_rapporteur": "ГЕОРГИ ЛЮБЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=788f6e06-a836-4b3e-a2b3-07c9f31d39b5",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30c016e1e30945249b046497bd09fa07ccbb87a38d314b896c9440e2320dbc03",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
