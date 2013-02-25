@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 400,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРА ДИМИТРОВА ХРИСТОВА ХРИСТАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6167b504-a45a-4f9b-a94c-94139ff0c4f3",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1964a99c572f493cae89b71a396d7a18d42a07a6bf695ccfb0926070c8ec266d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
