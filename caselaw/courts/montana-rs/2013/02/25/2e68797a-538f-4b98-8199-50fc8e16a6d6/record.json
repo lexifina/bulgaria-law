@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2013-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 70657,
+  "case_year": 2012,
+  "judge_rapporteur": "РУМЯНА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2e68797a-538f-4b98-8199-50fc8e16a6d6",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6559ed4ccc30e8cf5cf812a3b8271035823ef569fd6e79f835be5ccfc388ef9e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
