@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2013-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 118,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЛАМЕН СТАНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7893befa-2a60-4b8e-9118-69c2ef533394",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96a2147cfb5aaac826e0fb47ffa9c8dff16e701b48ca1cf12a8f0e12d3287745",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
