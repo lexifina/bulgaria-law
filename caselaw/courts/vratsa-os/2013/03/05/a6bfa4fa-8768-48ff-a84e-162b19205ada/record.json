@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2013-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 35,
+  "case_year": 2013,
+  "judge_rapporteur": "ЛИДИЯ КРУМОВА КЪТОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a6bfa4fa-8768-48ff-a84e-162b19205ada",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f99ed5ee42be1232883c588fa64c32a853c65c39ee608d809fef93160741b3c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
