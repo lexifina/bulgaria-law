@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2013-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 572,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРИЕТА СПАСОВА СПАСОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2d7a4177-aa1a-408f-9a0b-e4cae66d5085",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbf03f3e73f052c1cf8a705603c88680254c76217673bc92f86b6a877250ce70",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
