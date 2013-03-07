@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2013-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 401,
+  "case_year": 2012,
+  "judge_rapporteur": "НАСЯ ИВАНОВА ЯПАДЖИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02f79236-d149-42ab-bd58-77b65dfd4efc",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "502b415a2de76e8ee23579fcd2da5c37024b3cf8704932d1e9d8ab60e80d6810",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
