@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2013-03-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 24,
+  "case_year": 2013,
+  "judge_rapporteur": "СТОЯН ПЕТРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b4cef5f-b467-4de1-b544-b4acd0ca9aae",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f1987776631bc9ed7d0eeffcfce433d63a115cad3df2a33d405f6167f76d8f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
