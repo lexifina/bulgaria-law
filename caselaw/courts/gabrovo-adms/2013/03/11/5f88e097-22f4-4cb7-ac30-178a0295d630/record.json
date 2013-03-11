@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2013-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 17,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАН НИКИФОРОВ ЦОНКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f88e097-22f4-4cb7-ac30-178a0295d630",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9eb64a6d0c078f366eb2323bb060569dfd811384d860897bf73ee5e02dd7ea7c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
