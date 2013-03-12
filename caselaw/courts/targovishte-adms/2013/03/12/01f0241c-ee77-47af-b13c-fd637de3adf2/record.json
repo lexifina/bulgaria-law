@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2013-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 9,
+  "case_year": 2013,
+  "judge_rapporteur": "МИЛЧО ДИМИТРОВ МИХАЙЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=01f0241c-ee77-47af-b13c-fd637de3adf2",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6022f9728c894b9927fc3c4db320efc12e3cf51075bfea76797f4fa99c80e53f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
