@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2013-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2035,
+  "case_year": 2011,
+  "judge_rapporteur": "РАДОСВЕТА ДОБРЕВА ПАРАПАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58d455fd-a8be-49c4-a43e-1306e49788df",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "023fbf40958c0f314950648b4bf5f0751c6452ff5c988bd82df735ce6f45a391",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
