@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2013-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 275,
+  "case_year": 2013,
+  "judge_rapporteur": "СВЕТЛАНА НИКОЛОВА НЕДЕЛЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1ce180e-91aa-4e23-98dd-f0af50a73db8",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "74d926b98a39b9349cc71e10a6aa378d4c2ce371eca4b58d45b8cf5545fdebe9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
