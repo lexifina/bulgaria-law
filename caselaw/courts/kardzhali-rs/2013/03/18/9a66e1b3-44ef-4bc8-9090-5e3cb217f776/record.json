@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2013-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2425,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИАНА КОЛЕВА ГУНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9a66e1b3-44ef-4bc8-9090-5e3cb217f776",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "40e4a14bde11addf4769e0f4c5a74790ee567d8ff714ec3fad188e7f8b9c8d7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
