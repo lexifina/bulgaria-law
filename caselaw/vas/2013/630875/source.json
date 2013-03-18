@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 9439,
+  "case_year": 2012,
+  "decision_type": "Решение",
+  "decision_number": "3672",
+  "decision_date": "2013-03-18",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D630875%26code%3Dvas%26guid%3D1594560136",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=630875&code=vas&guid=1594560136",
+  "source_text_sha256": "47e590f6364916c7ad0f2a9c1ae423d61c35e88f0468ee4ea47902021e23d5b6",
+  "source_images": 0
+}
