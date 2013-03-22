@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2013-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1147,
+  "case_year": 2011,
+  "judge_rapporteur": "НИКОЛАЙ ИЛИЕВ УРУКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89b5e643-4559-4bc9-bc04-1c6fcb693606",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9810035b2d2c556fe9a3391b26ca942a10aeac3e222f4f55adf8f0c0adf42cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
