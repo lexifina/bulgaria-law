@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2013-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6421,
+  "case_year": 2011,
+  "judge_rapporteur": "СТАНИМИР ТОДОРОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a778c1c5-3423-4dc2-a767-1913c21e358a",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7029286d93f41de77bf458d9af0164149e1147b87dea179c673cd27418a7d44d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
