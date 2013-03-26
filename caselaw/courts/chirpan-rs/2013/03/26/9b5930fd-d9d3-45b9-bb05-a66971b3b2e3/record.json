@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2013-03-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 104,
+  "case_year": 2013,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b5930fd-d9d3-45b9-bb05-a66971b3b2e3",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a428063fe49b6b64b9ea98b2cd7321f1a38663466e8bee750c6bdd3e6ca3149f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
