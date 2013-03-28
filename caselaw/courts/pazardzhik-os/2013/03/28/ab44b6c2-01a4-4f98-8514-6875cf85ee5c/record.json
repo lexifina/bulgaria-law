@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2013-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 86,
+  "case_year": 2013,
+  "judge_rapporteur": "КРИСТИНА ЛАМБРЕВА ПУНТЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab44b6c2-01a4-4f98-8514-6875cf85ee5c",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ff316ce16cdc74c20eabc53ab47b95e87f0add441009885aa2e3ac477bfc1480",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
