@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2013-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 51,
+  "case_year": 2013,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c364a250-1887-4dc2-9fd1-efc28d537892",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a179699292ce06c809e4242f335b57cf9c893694a6f26f945a4e8b53b88ddef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
