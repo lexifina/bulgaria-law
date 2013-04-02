@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2013-04-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 75,
+  "case_year": 2013,
+  "judge_rapporteur": "НЕДЕЛИНА ТАНЧЕВА МИНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c54a689-9cd9-4417-a04d-a5a22eb8cf95",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "381b324a959781dba61441fee7f7f7c3770fedca60784072c4a4bec8a71a1cf8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
