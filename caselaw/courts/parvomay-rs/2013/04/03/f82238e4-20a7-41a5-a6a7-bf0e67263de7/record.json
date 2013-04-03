@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2013-04-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 44,
+  "case_year": 2013,
+  "judge_rapporteur": "ЕЛЕНА ЗАХАРИЕВА КАЛПАЧКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f82238e4-20a7-41a5-a6a7-bf0e67263de7",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "548cee8223999a32522ab974b2992680e2c7c70267c7dfeeeb206d85da0e2088",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
