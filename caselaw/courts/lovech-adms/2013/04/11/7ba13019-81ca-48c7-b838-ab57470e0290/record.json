@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2013-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 72,
+  "case_year": 2013,
+  "judge_rapporteur": "ЙОНИТА ЦАНКОВА ЦАНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ba13019-81ca-48c7-b838-ab57470e0290",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b90ab665a465c9cb149e4dcceedd8c0b2db8268567cf65316c16e47b5a880f7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
