@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2013-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 54,
+  "case_year": 2013,
+  "judge_rapporteur": "ВАЛЕНТИНА ПЕТРОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93aad9db-0ad6-4b5d-89bc-af110f7e419c",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "17b1efc42d6d25917ce0d21da28cb378d8c56ef2097c58b7435449c615fb3169",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
