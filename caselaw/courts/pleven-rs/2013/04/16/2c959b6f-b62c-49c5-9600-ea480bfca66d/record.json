@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2013-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 902,
+  "case_year": 2013,
+  "judge_rapporteur": "КРАСИМИР МАРИНОВ ДИМИТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2c959b6f-b62c-49c5-9600-ea480bfca66d",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e97d27cf68711e73cdbc38377e34678a5bb0176dc5e4fb98f0bcc287c053b85a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
