@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2013-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 840,
+  "case_year": 2012,
+  "judge_rapporteur": "АННА ПЕТКОВА ДОНКОВА КУТРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=712f5c5d-3240-4a7a-8c2a-d15419d0224b",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2eed007a0d35cee430516591050cebe5055f531c514a4de6f609919c7d1ac730",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
