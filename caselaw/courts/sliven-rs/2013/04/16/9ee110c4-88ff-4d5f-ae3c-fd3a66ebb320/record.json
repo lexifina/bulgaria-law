@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2013-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 624,
+  "case_year": 2013,
+  "judge_rapporteur": "ГЕОРГИ ТОДОРОВ БОЗУКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ee110c4-88ff-4d5f-ae3c-fd3a66ebb320",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6cff4cb1975726233571f265e9326f0227c217dee345c51df120d0a604d42904",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
