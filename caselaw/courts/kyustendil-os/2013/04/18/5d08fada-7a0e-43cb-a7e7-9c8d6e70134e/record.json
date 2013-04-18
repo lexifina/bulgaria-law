@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2013-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 18,
+  "case_year": 2012,
+  "judge_rapporteur": "ТАТЯНА ХРИСТОВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d08fada-7a0e-43cb-a7e7-9c8d6e70134e",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43ba482f2d8ef0dfb128a5f6b5670ae0d7357bf9e6911026a95e6efdce9a3bc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
