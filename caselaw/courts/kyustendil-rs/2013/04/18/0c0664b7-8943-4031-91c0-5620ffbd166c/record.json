@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2013-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1903,
+  "case_year": 2011,
+  "judge_rapporteur": "АСЯ ТОДОРОВА СТОИМЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c0664b7-8943-4031-91c0-5620ffbd166c",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=18.01.2013&to=19.04.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25b87107de4fc818ce5daf71bbdff17f56ddd2fed2ad1e67bd808eb53bfa9ce3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
