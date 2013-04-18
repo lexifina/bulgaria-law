@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2013-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 122,
+  "case_year": 2013,
+  "judge_rapporteur": "Николай Грънчаров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=979d7937-9bfd-4f06-a313-590b27b24f1c",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=13.03.2013&to=13.05.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3cad7844f7db19a8097f0d09f049e8e152e9dd5139198de1066a7e4af4c3d79",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
