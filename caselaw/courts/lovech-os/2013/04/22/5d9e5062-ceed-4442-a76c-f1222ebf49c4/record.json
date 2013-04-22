@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2013-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 168,
+  "case_year": 2013,
+  "judge_rapporteur": "ТАТЯНА ГЕНОВА МИТЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d9e5062-ceed-4442-a76c-f1222ebf49c4",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9858181ff91a88bcbf813ca2deba0e498428345e08ff6cbcfd62f22bfff8dbea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
