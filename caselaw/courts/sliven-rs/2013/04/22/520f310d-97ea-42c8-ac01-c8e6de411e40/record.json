@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2013-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 377,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕТЯ ХРИСТОВА МАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=520f310d-97ea-42c8-ac01-c8e6de411e40",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6fc2d4a5ac8eeab1f74dbe24a96969eb736d6682e4aceb43594040cace0d334",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
