@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2013-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 25,
+  "case_year": 2013,
+  "judge_rapporteur": "КАЛОЯН СИМЕОНОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fbff99a6-ac92-4155-8532-291458165ae2",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2a6df8f70c86ac8a5333b5ac658a2401b438012d5f530f9964414c2db26aca1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
