@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2013-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 89,
+  "case_year": 2013,
+  "judge_rapporteur": "ВАНЯ ГЕОРГИЕВА БЯНОВА НЕЙКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=248fe118-0275-4bb4-9278-7a9fc35b7ec0",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "61b6f388e09a808bda41584709601cc257c2073a6e56b3cf1fe9a2863097d633",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
