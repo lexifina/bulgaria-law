@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2013-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2134,
+  "case_year": 2012,
+  "judge_rapporteur": "АНТОАНЕТА ДРАГАНОВА АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25c8d125-2c14-4c82-9093-18cf201b7a9e",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5cffbe31170cecc23b6725c9459a673b7567a14bfc921eac3d4703a4a39deac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
