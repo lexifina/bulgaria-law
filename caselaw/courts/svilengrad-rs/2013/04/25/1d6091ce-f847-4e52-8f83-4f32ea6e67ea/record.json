@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2013-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 225,
+  "case_year": 2013,
+  "judge_rapporteur": "КРЕМЕНА ТОДОРОВА СТАМБОЛИЕВА БАЙНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d6091ce-f847-4e52-8f83-4f32ea6e67ea",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "efe17f2c5e4156666ccafd87b5e845a5a41cb6f2a53f20de013d81edaedc74e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
