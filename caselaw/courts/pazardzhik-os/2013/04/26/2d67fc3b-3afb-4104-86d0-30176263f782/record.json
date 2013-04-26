@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2013-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 352,
+  "case_year": 2012,
+  "judge_rapporteur": "КОСТА СТОЯНОВ СТОЯНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2d67fc3b-3afb-4104-86d0-30176263f782",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "abe9e4ac27e72df636610fd5e9b5d4b0adb9923b9ece7bf649249399c76adeaa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
