@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2013-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 580,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d03e174-7e38-4093-a314-e2a395f15837",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c302d6c5f6da3a618c484367dba171b9792fd8645f8f585b7f913f32b78b38d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
