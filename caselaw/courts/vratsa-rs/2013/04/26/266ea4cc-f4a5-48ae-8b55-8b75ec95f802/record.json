@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2013-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4732,
+  "case_year": 2012,
+  "judge_rapporteur": "МИГЛЕНА РАДЕНКОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=266ea4cc-f4a5-48ae-8b55-8b75ec95f802",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "08bbd3cf54379f684f638a67d11a94a572f18de37f99befa68ccfddc7390286a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
