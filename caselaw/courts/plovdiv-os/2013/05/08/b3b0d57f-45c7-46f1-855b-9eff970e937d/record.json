@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2013-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 249,
+  "case_year": 2013,
+  "judge_rapporteur": "ЕЛЕНА ЙОРДАНОВА ЗАХОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3b0d57f-45c7-46f1-855b-9eff970e937d",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "10494068c3bbd69a103cc82253b0451918a870008253eabf576013023c6ca157",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
