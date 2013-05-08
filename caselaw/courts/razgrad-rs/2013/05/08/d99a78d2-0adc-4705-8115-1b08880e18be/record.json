@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2013-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 390,
+  "case_year": 2013,
+  "judge_rapporteur": "АТАНАС ДЕЧКОВ ХРИСТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d99a78d2-0adc-4705-8115-1b08880e18be",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bd890f7a306ecfbc276a7cce7bb634d2782533b953b14351ada2b6c4ea82cdae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
