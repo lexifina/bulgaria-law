@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2013-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 292,
+  "case_year": 2012,
+  "judge_rapporteur": "МИРОСЛАВ ЦВЕТАНОВ МАРКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=54370810-50e3-4959-8f63-29d97b84c482",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ebb639b54dba812292eb534cc0908b3403f7975aa18ab9fc36de8115d0c6d05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
