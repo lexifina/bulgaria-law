@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2013-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 584,
+  "case_year": 2012,
+  "judge_rapporteur": "ДОБРИНКА ДИМЧЕВА КИРЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ff084e32-46bd-4e05-abfb-8df099ae2b95",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "efe17f2c5e4156666ccafd87b5e845a5a41cb6f2a53f20de013d81edaedc74e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
