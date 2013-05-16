@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2013-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 56,
+  "case_year": 2013,
+  "judge_rapporteur": "СТОЙКА ГЕОРГИЕВА МАНОЛОВА СТОЙКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44921a33-fc2b-43c3-bda9-14c081849dfb",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f931a23b45046abf40a2593c4c89e15bea49c9bccdfe8de82ab7caa09395c4eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
