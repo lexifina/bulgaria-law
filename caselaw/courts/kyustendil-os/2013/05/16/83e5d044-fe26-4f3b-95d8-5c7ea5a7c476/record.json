@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2013-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 50,
+  "case_year": 2013,
+  "judge_rapporteur": "КРАСИМИР ЛАМБРЕВ БАМБОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=83e5d044-fe26-4f3b-95d8-5c7ea5a7c476",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "910f7fab44069b09c052b32a74dcbe070b10a7c8a0b4786c02f16ab60f795071",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
