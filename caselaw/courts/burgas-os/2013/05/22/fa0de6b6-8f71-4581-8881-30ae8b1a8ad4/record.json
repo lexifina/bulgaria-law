@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2013-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1331,
+  "case_year": 2011,
+  "judge_rapporteur": "БОРЯНА АНГЕЛОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa0de6b6-8f71-4581-8881-30ae8b1a8ad4",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5cffbe31170cecc23b6725c9459a673b7567a14bfc921eac3d4703a4a39deac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
