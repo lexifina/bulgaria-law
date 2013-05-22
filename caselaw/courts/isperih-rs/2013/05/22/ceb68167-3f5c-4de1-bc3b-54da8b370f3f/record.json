@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2013-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 31,
+  "case_year": 2013,
+  "judge_rapporteur": "ЕЛИЦА ДЕНЧЕВА БОЯДЖИЕВА ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ceb68167-3f5c-4de1-bc3b-54da8b370f3f",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a5924ebe023390652ae18471c38c26b091be1f083f7ecd45d9373fc2d031d8c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
