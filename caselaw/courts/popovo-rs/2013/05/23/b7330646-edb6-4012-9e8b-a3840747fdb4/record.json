@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2013-05-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 882,
+  "case_year": 2012,
+  "judge_rapporteur": "ПОЛЯ ПАВЛИНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7330646-edb6-4012-9e8b-a3840747fdb4",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1481b1d8319fd7e8ca9a77aadec4866d06e1563f64f8ec23b85d2641ad5de293",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
