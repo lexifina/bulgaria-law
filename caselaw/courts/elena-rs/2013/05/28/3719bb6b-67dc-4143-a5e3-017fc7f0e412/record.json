@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2013-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 217,
+  "case_year": 2013,
+  "judge_rapporteur": "ИСКРА СТОЯНОВА ВАРАДЖАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3719bb6b-67dc-4143-a5e3-017fc7f0e412",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4388a3362165ab790155dfb423cf77ab48dbb965c51869db9347fa3d5adf2430",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
