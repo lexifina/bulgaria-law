@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 81,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕНКА СТОЯНОВА ХРИСТОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=532939b4-58bd-4d9f-a541-803c34b306d3",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e231cabcc8011f189a2229a16873887f18946499e7d4d5b4c98d68943c559cdf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
