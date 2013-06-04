@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2013-06-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 910,
+  "case_year": 2013,
+  "judge_rapporteur": "ИРЕНА КОЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=88579f10-dfee-4b7c-bf0b-e079a46004a0",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15a205e4fb6494ff74d51933b7732e5b51eb45fc5049ce226df113f2f7ab6c3d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
