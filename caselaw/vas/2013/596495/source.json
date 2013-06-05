@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13782,
+  "case_year": 2011,
+  "decision_type": "Решение",
+  "decision_number": "7649",
+  "decision_date": "2013-06-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D596495%26code%3Dvas%26guid%3D1571647075",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=596495&code=vas&guid=1571647075",
+  "source_text_sha256": "4fc84ebe25d3ac0e13994c56ca687f1cdb014232583b1e2f87c674bf37ae3aa8",
+  "source_images": 0
+}
