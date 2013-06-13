@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2013-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2522,
+  "case_year": 2012,
+  "judge_rapporteur": "БЛАГА ДИМИТРОВА БОЗОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d17bd2e-3da6-4872-9ab5-1e9ccb79918f",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b0cd0bb92ebe8e217af1491c3d9fcaf82a1e99bafc4b4e4a379c7ace6857c18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
