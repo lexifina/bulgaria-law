@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2013-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 486,
+  "case_year": 2013,
+  "judge_rapporteur": "ДАНИЕЛА НЕДКОВА РАДЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=550d08c9-7458-4e95-a069-8d6490416ff0",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae755741ae91981b5e3e0f6a0247bf0ac297af6b5a87b83119413d02e5ce2a93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
