@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2013-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 94,
+  "case_year": 2013,
+  "judge_rapporteur": "ИГНАТ ИВАНОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=13ec11c9-d8f3-4528-86e1-69570aea7930",
+  "motives_file": null,
+  "source": "https://pernik-adms.justice.bg/bg/1135?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c34edc6bd36225ba00ce407a87759a490b5c1dfa86a551343f5ea37ee1669408",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
