@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2013-06-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 491,
+  "case_year": 2013,
+  "judge_rapporteur": "ЗЛАТКО КОЛЕВ КОСТАДИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28507a8a-80ce-4837-a325-d0ea423a895b",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f8c2edeebec6a3105479d240971f16cb3ed381ee7638b2fb215a5d5c0bc57d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
