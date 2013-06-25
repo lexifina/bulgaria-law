@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 4625,
+  "case_year": 2012,
+  "judge_rapporteur": "ИРЕНА ПЕТРОВА ОБРЕТЕНОВА СИМЕОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb71b03c-ea04-4135-96c1-9ce6b230620a",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a02ca11808cca6586e136b00e18e0879a047b089c3dbba1636e8e8dd599edc30",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
