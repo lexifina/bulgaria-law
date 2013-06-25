@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2013-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 177,
+  "case_year": 2012,
+  "judge_rapporteur": "КАЛОЯН СИМЕОНОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6874a166-4d73-46a0-8007-726e3489114a",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2a6df8f70c86ac8a5333b5ac658a2401b438012d5f530f9964414c2db26aca1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
