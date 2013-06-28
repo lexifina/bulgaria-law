@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2013-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 329,
+  "case_year": 2013,
+  "judge_rapporteur": "СПАСЕНА ВЕНЕЛИНОВА ДРАГОТИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80097dd6-cc36-46c2-a791-36ddc6b305f4",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b549e0506f7cc1740952cb854ba8cf516a93942376ab744db8c8f1f203bbbea8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
