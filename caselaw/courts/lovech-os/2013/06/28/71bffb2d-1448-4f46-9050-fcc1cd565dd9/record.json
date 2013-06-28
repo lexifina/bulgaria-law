@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2013-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 19,
+  "case_year": 2013,
+  "judge_rapporteur": "МИЛЕНА ПЕТКОВА ВЪЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71bffb2d-1448-4f46-9050-fcc1cd565dd9",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9858181ff91a88bcbf813ca2deba0e498428345e08ff6cbcfd62f22bfff8dbea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
