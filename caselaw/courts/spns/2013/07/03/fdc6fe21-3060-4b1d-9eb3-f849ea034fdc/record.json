@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2013-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 956,
+  "case_year": 2013,
+  "judge_rapporteur": "СТОЯН ЛЮДМИЛОВ ТОНЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fdc6fe21-3060-4b1d-9eb3-f849ea034fdc",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "09d8b234e2d6362aa534ef05c5aa5dc24fef530d1549de223333f95eb4a4fe0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
