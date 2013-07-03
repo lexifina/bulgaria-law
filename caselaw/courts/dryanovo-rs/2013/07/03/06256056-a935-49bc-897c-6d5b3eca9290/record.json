@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2013-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 144,
+  "case_year": 2013,
+  "judge_rapporteur": "КОМАНДИРОВАН ВАСИЛ СТАВРЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=06256056-a935-49bc-897c-6d5b3eca9290",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0881c25f9575a8d3d456c8269ce78c32f6fe6520ddab40cc33d10c35ca2020fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
