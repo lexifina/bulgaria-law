@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2013-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 717,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕМИЛ СТЕФАНОВ БАНКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=380993fe-e5f8-49e7-b412-545f73778799",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03b3c9b1d6a3886c0f7c8396e1a0b0ce876afb5106be27c024eb59e777b454d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
