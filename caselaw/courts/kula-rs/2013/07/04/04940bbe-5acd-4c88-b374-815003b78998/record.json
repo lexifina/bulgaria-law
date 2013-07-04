@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2013-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 223,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЕТЪР ВАЛЕНТИНОВ ЖИВКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04940bbe-5acd-4c88-b374-815003b78998",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7369c93134572ed8f7c46f813aafd12954f03d30023760442ec6dd422a5b444f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
