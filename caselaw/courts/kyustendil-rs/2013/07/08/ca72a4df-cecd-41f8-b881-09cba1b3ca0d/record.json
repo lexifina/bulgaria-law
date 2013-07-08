@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2013-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 691,
+  "case_year": 2013,
+  "judge_rapporteur": "НИКОЛЕТА АНТОНОВА КАРАМФИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca72a4df-cecd-41f8-b881-09cba1b3ca0d",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e90dcfe02e7e2bc4eb3b67fc0bf4651d0fa0e8062f1c1c80de65d8deacf82b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
