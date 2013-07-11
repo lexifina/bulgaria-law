@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2013-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 289,
+  "case_year": 2013,
+  "judge_rapporteur": "ЙОХАН МИРОСЛАВОВ ДЖЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a9626820-2165-40e5-86a4-13306571f2a2",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e41e8f6257bd5507fb55d162c82f7cf907bd0c967019cc9ae02fcf6810798be6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
