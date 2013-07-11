@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2013-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 41,
+  "case_year": 2013,
+  "judge_rapporteur": "КАЛОЯН СИМЕОНОВ ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17acaeb9-9864-48f8-9c39-31fb799f2d12",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2a6df8f70c86ac8a5333b5ac658a2401b438012d5f530f9964414c2db26aca1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
