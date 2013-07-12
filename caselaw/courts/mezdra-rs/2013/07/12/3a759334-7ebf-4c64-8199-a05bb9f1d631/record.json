@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2013-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 745,
+  "case_year": 2012,
+  "judge_rapporteur": "ИВАН БОРИСОВ ВЪТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a759334-7ebf-4c64-8199-a05bb9f1d631",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3d1e00362ad9cc3991df5120a88153199a8c9fd6751a6051cb76b128caaeae45",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
