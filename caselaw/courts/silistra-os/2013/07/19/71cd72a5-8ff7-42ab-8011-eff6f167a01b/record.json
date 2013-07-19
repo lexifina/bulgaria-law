@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2013-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 31,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЛАМЕН НЕДЕЛЧЕВ НЕДЕЛЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71cd72a5-8ff7-42ab-8011-eff6f167a01b",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=20.04.2013&to=20.07.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1f0ab0983e3673f93b96531424e992b1556ef6505dddafdf9471e4810d7a3aea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
