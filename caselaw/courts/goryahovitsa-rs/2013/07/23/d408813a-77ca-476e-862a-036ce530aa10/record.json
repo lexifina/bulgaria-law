@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2013-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1316,
+  "case_year": 2013,
+  "judge_rapporteur": "ПАВЛИНА ТОНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d408813a-77ca-476e-862a-036ce530aa10",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "635c6c6da874a9fdb03affa0ab6ca79ee88e13c1c20536809a443df11c1aa7bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
