@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 11305,
+  "case_year": 2012,
+  "decision_type": "Решение",
+  "decision_number": "11118",
+  "decision_date": "2013-07-26",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D636343%26code%3Dvas%26guid%3D1594733982",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=636343&code=vas&guid=1594733982",
+  "source_text_sha256": "ba58b9a7520a9017721e3fa2ec401adac9e5207615f7c76d507136f48d4f96f9",
+  "source_images": 0
+}
