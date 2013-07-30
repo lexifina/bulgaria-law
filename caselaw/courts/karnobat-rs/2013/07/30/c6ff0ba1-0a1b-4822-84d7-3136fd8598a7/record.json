@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2013-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 590,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРИЕЛА АНАСТАСОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6ff0ba1-0a1b-4822-84d7-3136fd8598a7",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8c64c5d124550147263257998162e90021b09007fcecde2ef6920aafb2e7fd12",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
