@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2013-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1324,
+  "case_year": 2013,
+  "judge_rapporteur": "НЕЛИ САВЧЕВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37f4fcd3-422d-43c2-ae77-d5188773301a",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "383ea04396ecd2d1b29ed1ff989061f451916de3f169e2ccdb58b590cf0089e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
