@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2013-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1328,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЕЛИЗАР ТОДОРОВ БОЙЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91267111-1170-4190-8ee0-cc487cd67e6c",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24e2603d519083313683b22bf59964444ac37bac47aae9b35fdbb21ac307dfcd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
