@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2013-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 410,
+  "case_year": 2013,
+  "judge_rapporteur": "ДОРОТЕЯ СИМЕОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e558f5a4-41da-47b6-8e29-a43f9736ac39",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef2aecf6c566c303bcc8ce78140b5e70cbd83a2941eef2aa3562a4b60e507834",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
