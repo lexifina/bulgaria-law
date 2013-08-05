@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2013-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 309,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1223533d-3577-4502-b28f-9ab69a921a72",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9b2f7cb6e8c50777ff0b8246bcceb4ced85f127ae66b77d364206ad0e241d6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
