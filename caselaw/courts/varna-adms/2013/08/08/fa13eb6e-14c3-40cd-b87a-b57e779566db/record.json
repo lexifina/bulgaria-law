@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-08-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 4171,
+  "case_year": 2012,
+  "judge_rapporteur": "БОРИСЛАВ ГЕОРГИЕВ МИЛАЧКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa13eb6e-14c3-40cd-b87a-b57e779566db",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "584a71543942f58e5ba30eaad07ef8e14417695714c79f1bea19d7915a340437",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
