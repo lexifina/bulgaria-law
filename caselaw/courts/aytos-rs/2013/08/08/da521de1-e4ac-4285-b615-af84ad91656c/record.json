@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2013-08-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 328,
+  "case_year": 2013,
+  "judge_rapporteur": "ТАНЯ СПАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=da521de1-e4ac-4285-b615-af84ad91656c",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c38c613c32599ace8866df1af3245f4c8e36a1bd43c2d0e0f029d60a546e66a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
