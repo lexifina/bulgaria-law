@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2013-08-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2301,
+  "case_year": 2013,
+  "judge_rapporteur": "ЗАРА ЕХИЯ ИВАНОВА",
+  "act_kind": "Заповед",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9216704-cc1d-45b7-8bda-661a57b6b075",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef4956a0990ee7570f3969cd8b62c2089c5e8692d2ca57e5e581dfedfb2e22a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
