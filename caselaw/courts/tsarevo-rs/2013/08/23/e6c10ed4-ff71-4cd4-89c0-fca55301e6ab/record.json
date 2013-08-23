@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2013-08-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 82,
+  "case_year": 2013,
+  "judge_rapporteur": "МИНЧО ТАНЕВ ТАНЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6c10ed4-ff71-4cd4-89c0-fca55301e6ab",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b632da1af79b35185d840bed5933057b95f17dae11692d662ec0de16d17b7a57",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
