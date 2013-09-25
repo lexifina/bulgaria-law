@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2013-09-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2503,
+  "case_year": 2013,
+  "judge_rapporteur": "НЕДЕЛИН ЗАХАРИЕВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d08b322-97a0-41bc-87d4-6d402a0a1208",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1831761888a5dfe8f6e1a25e6c0c2d09221d23d02ac094aea833c784f6c7cd97",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
