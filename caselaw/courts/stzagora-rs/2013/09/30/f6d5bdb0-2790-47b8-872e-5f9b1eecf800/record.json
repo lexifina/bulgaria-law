@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2013-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2881,
+  "case_year": 2013,
+  "judge_rapporteur": "ОЛГА ИВАНОВА ЗЛАТЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f6d5bdb0-2790-47b8-872e-5f9b1eecf800",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c5a18c8db3d6edb30d69dac9e6d2e373a1d03e0d9197fa0e7829e236a483bfd1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
