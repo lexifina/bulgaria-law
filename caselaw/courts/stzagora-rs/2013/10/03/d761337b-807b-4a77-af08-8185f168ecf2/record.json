@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2013-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1820,
+  "case_year": 2013,
+  "judge_rapporteur": "БЛАГА ДИМИТРОВА БОЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d761337b-807b-4a77-af08-8185f168ecf2",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c5a18c8db3d6edb30d69dac9e6d2e373a1d03e0d9197fa0e7829e236a483bfd1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
