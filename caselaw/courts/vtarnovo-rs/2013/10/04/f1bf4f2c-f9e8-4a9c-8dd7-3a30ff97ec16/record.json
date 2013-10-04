@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2013-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3315,
+  "case_year": 2012,
+  "judge_rapporteur": "МАЯ ПЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1bf4f2c-f9e8-4a9c-8dd7-3a30ff97ec16",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "708085030a561622286093b5d95e29f690d27b7540ed3e0b4199f8081d9f23b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
