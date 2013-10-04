@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2013-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 628,
+  "case_year": 2013,
+  "judge_rapporteur": "НАТАЛИЯ НИКОЛАЕВА ЛОЗАНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4cc9c36d-64e5-44e0-bad3-1cb9509da051",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aedcde5626c966eecd8271441cdb243a506d7d5f0ec8fcc32f75105944fb8de1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
