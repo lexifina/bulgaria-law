@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2013-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 14,
+  "case_year": 2013,
+  "judge_rapporteur": "МИХАИЛ АНГЕЛОВ АЛЕКСОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0df280d1-916a-4630-8c16-c5e7e6cdfa0c",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "760f8beffc50fbbed97146ff9fceb71146fc49b1836cd4790676b7b52601d538",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
