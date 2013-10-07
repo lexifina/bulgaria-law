@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2013-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 542,
+  "case_year": 2013,
+  "judge_rapporteur": "ЖАКЛИН ГЕОРГИЕВА ДИМИТРОВА-АЛЕКСИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=199b566e-4fff-4883-b833-466599e4f96b",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "484af0a9037eb1dcb70430a79be032537c4522c8e7245b91115514daeb1ed62f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
