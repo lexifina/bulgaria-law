@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2013-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 313,
+  "case_year": 2013,
+  "judge_rapporteur": "РАДКА ИВАНОВА ЦАРИГРАДСКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb7e2d39-4e0d-429e-b8d6-03b7bf43c050",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "40978f4684059291fd013248ca0dee9939eab515941ca37ba0e92cb71bd913dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
