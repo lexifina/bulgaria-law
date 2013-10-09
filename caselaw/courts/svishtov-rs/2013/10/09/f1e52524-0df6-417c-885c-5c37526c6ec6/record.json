@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2013-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 375,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕНКА БОРИСОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1e52524-0df6-417c-885c-5c37526c6ec6",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b94caf78d38638777ed6ed58af835168651759c5f7788af573859f1f6e632df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
