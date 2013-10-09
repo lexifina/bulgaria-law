@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2013-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 272,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЛАДИМИР НИКОЛАЕВ ЛЕГАРСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b7ce0e3-c77a-40ec-ba68-7342536d0738",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91f39bc766ea18dddc1b4dc5c59aacd02600ede8694585366dea2d6bb6298a06",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
