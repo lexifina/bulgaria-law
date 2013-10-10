@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2013-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 403,
+  "case_year": 2011,
+  "judge_rapporteur": "Величка Борилова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=502615e1-2ec0-49c6-a355-0ab2cb235fda",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=15.09.2013&to=15.11.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba17446258bd51be57e11fe6464aeff1a4576be44be3b15739aa5af662242f40",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
