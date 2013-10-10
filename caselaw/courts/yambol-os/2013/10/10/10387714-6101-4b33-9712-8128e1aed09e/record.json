@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2013-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 435,
+  "case_year": 2007,
+  "judge_rapporteur": "ПЕПА ИЛИЕВА ЧИЛИКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=10387714-6101-4b33-9712-8128e1aed09e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "61b7ae4b13b0f6b6d2bfe5204cff7208dfea604104ecb09a87c4481f78accdfb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
