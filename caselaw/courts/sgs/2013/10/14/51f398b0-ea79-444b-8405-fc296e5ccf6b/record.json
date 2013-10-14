@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2013-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11718,
+  "case_year": 2013,
+  "judge_rapporteur": "МИЛЕНА СВЕТЛОЗАРОВА ТОМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51f398b0-ea79-444b-8405-fc296e5ccf6b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cfc1c20528f5316cad57aae04d13637867c0d3be72ca203af00aedc71bcb6822",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
