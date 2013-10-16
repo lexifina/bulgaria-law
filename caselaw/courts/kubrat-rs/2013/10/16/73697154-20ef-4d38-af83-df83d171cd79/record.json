@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2013-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 179,
+  "case_year": 2013,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73697154-20ef-4d38-af83-df83d171cd79",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1899c672f00251f4ebe228ceeef098a7cc2ecb4eea2281f73de029e96aa91e3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
