@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2013-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 125,
+  "case_year": 2012,
+  "judge_rapporteur": "ВАСИЛ АЛЕКСАНДРОВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02bfe4d3-b713-4aea-9307-6eb67c5c7e58",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a0c7a89211319a53ce782c7dbd8bd458cb554fc5007d91c1a91ff827d64e477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
