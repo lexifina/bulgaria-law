@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2013-10-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 223,
+  "case_year": 2012,
+  "judge_rapporteur": "НИКОЛАЙ ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=963e8280-266b-4015-a06d-f50eaf4ef984",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=21.07.2013&to=20.10.2013&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef2aecf6c566c303bcc8ce78140b5e70cbd83a2941eef2aa3562a4b60e507834",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
