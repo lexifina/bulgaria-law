@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2013-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 2021,
+  "case_year": 2013,
+  "judge_rapporteur": "ТАНЯ БОРИСОВА КОМСАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80a5229a-47e7-4d0b-a76a-415ed56becfa",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "646ef6a0e3b0f9cc67f5c1925095377488257f8eaf79795c585025df6086d338",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
