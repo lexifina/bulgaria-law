@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2013-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1724,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЛАДИМИР КАЛОЯНОВ КРУМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a4ffed7-91f5-4b17-9e4a-22f516bfe547",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c82300f1432a190bbaa73543a5cbec34d8416bdd04e0b93bc7485ef1072321c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
