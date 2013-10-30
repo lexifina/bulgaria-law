@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6338,
+  "case_year": 2013,
+  "decision_type": "Решение",
+  "decision_number": "14189",
+  "decision_date": "2013-10-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D667647%26code%3Dvas%26guid%3D1597537223",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=667647&code=vas&guid=1597537223",
+  "source_text_sha256": "7da6de16f86f2f4eb62d781df2f423cfe31654abd1bef77103d64663c3974e7a",
+  "source_images": 0
+}
