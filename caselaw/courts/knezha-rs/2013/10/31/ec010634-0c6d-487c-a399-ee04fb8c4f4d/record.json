@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2013-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 228,
+  "case_year": 2013,
+  "judge_rapporteur": "АНТОН ЦВЕТАНОВ АНТОНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec010634-0c6d-487c-a399-ee04fb8c4f4d",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fcd6c84326442beae6581f0490d1ca4ebda1526c146f976e5a976eebc1c5816f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
