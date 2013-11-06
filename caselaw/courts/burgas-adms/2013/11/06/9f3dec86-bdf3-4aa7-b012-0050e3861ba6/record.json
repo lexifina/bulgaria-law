@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2013-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1409,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЕСЕЛИН ВАЛЕНТИНОВ ЕНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f3dec86-bdf3-4aa7-b012-0050e3861ba6",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4fefb736def23a7fde2522b9f11844547f4429147b28a24dd55e21bbf7d34fc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
