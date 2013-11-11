@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2013-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 669,
+  "case_year": 2013,
+  "judge_rapporteur": "АННА КОСТАДИНОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7f5ab28f-2674-4830-a3f2-61ec04c1b104",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ddc31d91318be42d22ae57bfa86dae667aac1b1ad5a99d2cc853beda3eda6da2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
