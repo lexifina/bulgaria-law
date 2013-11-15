@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2013-11-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2101,
+  "case_year": 2013,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА НЕСТОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48f188eb-f457-4bc4-8de6-9f4941b73c53",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c41b1672747c5c5ada37f0825f9dd5868abb444d82a924e269a10e06b5b0c486",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
