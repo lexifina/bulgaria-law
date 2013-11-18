@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2013-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 388,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЛАМЕН СТОИМЕНОВ АНДОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bad0af0f-354c-4f40-aef6-4b8ea211b977",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e9664b336224e872a242d76ca009602aee512922ec3f764ee419d8d7b505980d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
