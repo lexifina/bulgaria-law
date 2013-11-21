@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2013-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 492,
+  "case_year": 2013,
+  "judge_rapporteur": "ДИМИТЪР ТОДОРОВ МАРИНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef2527ba-3562-4c87-a1ad-82311c678da6",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c1206de2da626eb32c97e12be24e5c0743d15a139540349a97e47a784383d52a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
