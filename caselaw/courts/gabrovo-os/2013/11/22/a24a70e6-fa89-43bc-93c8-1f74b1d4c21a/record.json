@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2013-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10153,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЛАМЕН НИКОЛАЕВ ПОПОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a24a70e6-fa89-43bc-93c8-1f74b1d4c21a",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "60404bff5f2b85011506b9d0b2c42b74eeff4403e1ee7f8b084e0806f46fa440",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
