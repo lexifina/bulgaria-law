@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2013-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 468,
+  "case_year": 2013,
+  "judge_rapporteur": "СТОЯН АНГЕЛОВ МОМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e43be317-9602-497c-a32b-ebc5ee5e72e2",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5e2d435ffe231caae872fdcaee112d4c235f81bc77aca03a4b2f1d726335946b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
