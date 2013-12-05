@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2013-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1546,
+  "case_year": 2013,
+  "judge_rapporteur": "ВАЛЕНТИН ДИМИТРОВ БОЙКИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=65756ff2-a24d-4f49-9913-3940ece90309",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fbe842f61641c33480451e8a79c809eb07b160555f70f53cf483368cc398c6a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
