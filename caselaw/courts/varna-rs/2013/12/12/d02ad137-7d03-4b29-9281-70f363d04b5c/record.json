@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2013-12-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11831,
+  "case_year": 2011,
+  "judge_rapporteur": "ДЕСИСЛАВА ГЕОРГИЕВА ЖЕКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d02ad137-7d03-4b29-9281-70f363d04b5c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "63d444f8298e94a9a0898da52d77958542aab859fe8fd1d24e13d6c8e92230a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
