@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2013-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 65,
+  "case_year": 2013,
+  "judge_rapporteur": "РАЯ ПЕТКОВА ЙОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=77a4607b-0195-4c32-8be3-991dd7ee01ce",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "950bf861d35a1e1b89f2c5b00ec1ce01e5ee7e73220bf1e01c4c46fd7d2042d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
