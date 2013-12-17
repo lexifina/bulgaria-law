@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2013-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5091,
+  "case_year": 2013,
+  "judge_rapporteur": "АННА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=392cdb1a-1328-42f9-a55d-8b95a254af6b",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "777a24c4e4c557fb4f4ca37868061ef583a682ec57706e51e37041b1c1620eef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
