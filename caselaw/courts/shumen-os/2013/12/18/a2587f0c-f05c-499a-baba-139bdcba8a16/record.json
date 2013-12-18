@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2013-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 640,
+  "case_year": 2013,
+  "judge_rapporteur": "КОНСТАНТИН ГЕОРГИЕВ МОЛЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2587f0c-f05c-499a-baba-139bdcba8a16",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5363d6a529bad0618ee847c9a42843140ed0ff7f3878ce2f4d0010ecabab09e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
