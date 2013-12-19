@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2013-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9045,
+  "case_year": 2011,
+  "judge_rapporteur": "ТЕОДОРА МАТЕВА НЕЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7975ef6-a58c-4251-a1f6-de1aafc497ec",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fbe842f61641c33480451e8a79c809eb07b160555f70f53cf483368cc398c6a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
