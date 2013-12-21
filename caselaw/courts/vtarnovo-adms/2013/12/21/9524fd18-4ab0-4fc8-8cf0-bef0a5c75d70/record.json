@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2013-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1221,
+  "case_year": 2012,
+  "judge_rapporteur": "МАРИЯНА МИКОВА ЛАЗАРОВА КАБАКЧИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9524fd18-4ab0-4fc8-8cf0-bef0a5c75d70",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "235c803ebff515d4ef196b397bd05c5de87d843edff5b1c8e4fb645e9cdba431",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
