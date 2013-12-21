@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2013-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 351,
+  "case_year": 2013,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8ec4de9-42b9-49a3-9a01-7c3e5d0a7115",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fcd6c84326442beae6581f0490d1ca4ebda1526c146f976e5a976eebc1c5816f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
