@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2013-12-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 190,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕТЪР ВАЛЕНТИНОВ ЖИВКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f2cdd11-4bd9-49b5-be94-e52393360c94",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9b336f140e60edc8b9df9891f0074cea602b667f61f3ecd673bc99c75e7e80ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
