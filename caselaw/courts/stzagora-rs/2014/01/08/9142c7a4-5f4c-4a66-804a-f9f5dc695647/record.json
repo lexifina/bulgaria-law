@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5624,
+  "case_year": 2013,
+  "judge_rapporteur": "ИВАН ХРИСТОВ РЕЖЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9142c7a4-5f4c-4a66-804a-f9f5dc695647",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee98b53e9cc9876cbcf20b79b03c295fd9ceeb17c12aa127133499b023bb904b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
