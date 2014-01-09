@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2014-01-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4,
+  "case_year": 2014,
+  "judge_rapporteur": "СТЕФКА СТАЙКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d5572873-b732-4c6b-92c3-ee327d46ad2e",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b12d66a23842eb89887cf2f57f134b8703f420310fb7570a7c933e8ddf578267",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
