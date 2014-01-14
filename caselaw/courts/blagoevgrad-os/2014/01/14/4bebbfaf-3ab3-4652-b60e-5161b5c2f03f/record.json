@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2014-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 40,
+  "case_year": 2009,
+  "judge_rapporteur": "Румяна Бакалова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bebbfaf-3ab3-4652-b60e-5161b5c2f03f",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=16.11.2013&to=16.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ca65bf0acbd93b9369d32e1f76f788081d996e6b57d758a53fa2561fa14e0119",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
