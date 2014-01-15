@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 125,
+  "case_year": 2014,
+  "judge_rapporteur": "НАДЕЖДА НАСКОВА ДЗИВКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6733c0cf-2759-4d04-8669-18464d9f9649",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "845fcefaa31e85f975c542934afc23f8a8d99934d0cf2a8b7aca5447fd0f2f7d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
