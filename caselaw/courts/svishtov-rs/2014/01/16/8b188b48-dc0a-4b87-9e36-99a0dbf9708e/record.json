@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2014-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 436,
+  "case_year": 2013,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b188b48-dc0a-4b87-9e36-99a0dbf9708e",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "753adaf54989f81b94a0c9dc6eec3b28f5278ef09c248a7b5e65844bf957ba1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
