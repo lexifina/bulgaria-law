@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2014-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2214,
+  "case_year": 2013,
+  "judge_rapporteur": "ВАСИЛ ЛЮБОМИРОВ ПАНАЙОТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61f91600-187c-44a0-920d-86267f075e86",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=21.10.2013&to=20.01.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "07576f8bfcb05491157f19c267528dc4066bf7da2fb25c8f17000a0021b3ad39",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
