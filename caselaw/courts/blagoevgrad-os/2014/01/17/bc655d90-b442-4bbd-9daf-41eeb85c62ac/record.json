@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2014-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 7,
+  "case_year": 2014,
+  "judge_rapporteur": "",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc655d90-b442-4bbd-9daf-41eeb85c62ac",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=17.01.2014&to=19.03.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3bf16da006559569e0f348aff2b53542283f8431f9ffbb73fb0238361ffa0dc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
