@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2014-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 370,
+  "case_year": 2013,
+  "judge_rapporteur": "ЮЛИТА НИКОЛОВА ГЕОРГИЕВА ТРИФОНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f994a91-df41-4b56-b026-7e91baa1af4f",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a96b0565e3d018a3089377c6aa82e51ecb9506e3939b890e2b28e191efaadc6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
