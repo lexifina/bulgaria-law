@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2014-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1601,
+  "case_year": 2013,
+  "judge_rapporteur": "СВЕТЛА ВАСИЛЕВА ПЕЙЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=08c95897-d49f-4cca-85fa-e11d02962c73",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b0d0f1178f123c45436cd52f4104678146eabf92d7e9c52a6d1c5e026019758",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
