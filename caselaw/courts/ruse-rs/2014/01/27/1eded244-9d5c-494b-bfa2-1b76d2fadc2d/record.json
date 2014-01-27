@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2014-01-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6505,
+  "case_year": 2013,
+  "judge_rapporteur": "ВИРЖИНИЯ КОНСТАНТИНОВА КАРАДЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1eded244-9d5c-494b-bfa2-1b76d2fadc2d",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b3dfddf572a5a648eca18f44d12ad9cd1ceed877da171863cd0bd896484f8f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
