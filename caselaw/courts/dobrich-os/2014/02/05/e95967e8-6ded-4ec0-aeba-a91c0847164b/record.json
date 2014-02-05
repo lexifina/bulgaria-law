@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2014-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 968,
+  "case_year": 2012,
+  "judge_rapporteur": "АЛБЕНА БОЖИДАРОВА ПЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e95967e8-6ded-4ec0-aeba-a91c0847164b",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "993900c192e7bc12364a3f4dde414af17142db1fc91bfe24cde991c0ba09268e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
