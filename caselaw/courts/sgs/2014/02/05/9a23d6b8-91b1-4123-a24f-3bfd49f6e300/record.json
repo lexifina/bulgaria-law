@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2014-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1008,
+  "case_year": 2007,
+  "judge_rapporteur": "ВАЛЕНТИН ДИМИТРОВ БОЙКИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9a23d6b8-91b1-4123-a24f-3bfd49f6e300",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.01.2014&to=07.03.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9525bf96510035d39cc0790dd0f53bee1819aa72f8fbe45a5696bbecef4b6215",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
