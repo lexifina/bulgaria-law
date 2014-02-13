@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1254,
+  "case_year": 2013,
+  "judge_rapporteur": "АСЕН ЦВЕТАНОВ ЦВЕТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9cb2fff2-5dc9-45a7-aa64-3ac8ebedc0ee",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "faf2d6afdad0f161c3e61805eaed19fd7f761d20669b494bf727c90ca2a6865b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
