@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2014-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 521,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРИЕЛА АНАСТАСОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c9d8531-ef80-4813-9815-f25814624fa0",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30de93de250b25a92aef5adf2e60fa7a2a51152d1a7393eec9a123c2b3cdab93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
