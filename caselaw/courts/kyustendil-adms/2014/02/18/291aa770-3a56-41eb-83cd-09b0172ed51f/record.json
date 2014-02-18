@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2014-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 396,
+  "case_year": 2013,
+  "judge_rapporteur": "АВТОНОМКА БОРИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=291aa770-3a56-41eb-83cd-09b0172ed51f",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d5b5c9cd6395d9a0ebbbf2877d2044aa79cf097a7eaba365226b1d1594c0af93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
