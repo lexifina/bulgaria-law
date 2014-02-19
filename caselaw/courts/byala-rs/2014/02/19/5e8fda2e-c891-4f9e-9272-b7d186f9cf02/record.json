@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2014-02-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 22,
+  "case_year": 2014,
+  "judge_rapporteur": "ЪШЪЛ ЛЮТФИ ИРИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e8fda2e-c891-4f9e-9272-b7d186f9cf02",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef5dd2ef2581657ba60f809418bdf04a42e3eda2344e5ca4fc717b6297ff716c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
