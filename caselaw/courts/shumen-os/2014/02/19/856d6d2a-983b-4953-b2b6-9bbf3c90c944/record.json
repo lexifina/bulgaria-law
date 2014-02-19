@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2014-02-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 335,
+  "case_year": 2012,
+  "judge_rapporteur": "ТЕОДОРА ЕНЧЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=856d6d2a-983b-4953-b2b6-9bbf3c90c944",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5f7a6b5625ffdb58231a6d8ba438af9c4646f0889e87b74ed2b9b89c1aa08ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
