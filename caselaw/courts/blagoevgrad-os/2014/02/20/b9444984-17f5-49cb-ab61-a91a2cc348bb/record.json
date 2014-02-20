@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2014-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 37,
+  "case_year": 2009,
+  "judge_rapporteur": "Маргарита Коцева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9444984-17f5-49cb-ab61-a91a2cc348bb",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=17.01.2014&to=19.03.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3bf16da006559569e0f348aff2b53542283f8431f9ffbb73fb0238361ffa0dc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
