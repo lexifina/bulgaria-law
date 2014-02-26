@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 28,
+  "case_year": 2014,
+  "judge_rapporteur": "ВЕЛИЧКА ЗАХАРИЕВА ВЛАШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5eaf319f-8490-4daa-b3b3-d3fd057a8a5a",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86cdc243b398f56dd665341eda0ba7ba2cc597a92cecd4990a1f348a4eda0aed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
