@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2783,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕНКА КРЪСТЕВА СТОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f80976a3-6d57-4107-9eea-982e0c7a4d3e",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3fb67f3a804a1ebf15e10566f8b18f1957374eb85544e771eb30b56df837ceba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
