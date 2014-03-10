@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2014-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 1069,
+  "case_year": 2000,
+  "judge_rapporteur": "ДАРИНКА АЛЕКСИЕВА СТАНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2dc9298-c74d-4a40-b27f-34b0ee07feb3",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "edbc328453e073df9001fcd898edcc440f58ed1f47a8b453b16536253c429376",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
