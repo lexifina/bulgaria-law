@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2014-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 37,
+  "case_year": 2014,
+  "judge_rapporteur": "БИСЕР ЦВЕТАНОВ ПЕТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64dae963-b4b8-4fb3-9352-20af078c6bb6",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3cbdb59e6f51de067ee8c4e936c1a47f2c51114ac8b77c5d1c707f075ba4cbb3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
