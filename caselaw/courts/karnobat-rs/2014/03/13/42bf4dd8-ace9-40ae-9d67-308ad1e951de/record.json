@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2014-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 93,
+  "case_year": 2014,
+  "judge_rapporteur": "ЧАНКО ПЕТКОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=42bf4dd8-ace9-40ae-9d67-308ad1e951de",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30de93de250b25a92aef5adf2e60fa7a2a51152d1a7393eec9a123c2b3cdab93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
