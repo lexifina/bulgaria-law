@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2014-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1550,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРГАРИТА ХРИСТОВА НОВАКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=69955499-c7b3-4af6-a0e2-e2c86bcbc658",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6e48deddfb6967841826541b87b5ea3c9a5f5d9541d5f8459124d6350606cca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
