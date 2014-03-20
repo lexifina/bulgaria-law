@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2014-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 16,
+  "case_year": 2014,
+  "judge_rapporteur": "АНТОАНЕТА ДИМИТРОВА МОНЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2c49ea3-a438-4bcc-86f2-6c62a0b775cb",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3e2974d850a1df536b029e5f9a293e63fe9555b87cfdf48c96b13e44b980c1e3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
