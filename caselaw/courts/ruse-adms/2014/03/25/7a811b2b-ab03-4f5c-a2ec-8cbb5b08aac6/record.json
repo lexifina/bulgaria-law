@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2014-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 388,
+  "case_year": 2013,
+  "judge_rapporteur": "ВИЛИАНА СТЕФАНОВА ВЪРБАНОВА МАНОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7a811b2b-ab03-4f5c-a2ec-8cbb5b08aac6",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "947147033c844deb888b7596a76f2b665167b5c5b7657c3524fb57d90bad817a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
