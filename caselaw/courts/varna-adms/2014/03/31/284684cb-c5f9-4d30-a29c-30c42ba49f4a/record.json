@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2014-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 249,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕВГЕНИЯ ГЕОРГИЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=284684cb-c5f9-4d30-a29c-30c42ba49f4a",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3f79897b438631e2c7ccbd4dee7ecc277eb23f6d9be649a82ef4148bffc9613",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
