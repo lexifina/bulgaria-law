@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2014-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 392,
+  "case_year": 2009,
+  "judge_rapporteur": "КАТЯ НИКОЛОВА ГЕРДОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0fbbe813-472a-4f43-aeae-e06ebc4ea3f3",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae8b14b8c1253fd42bc5941e6e0d729e57bbadb987ecc06fffbf89a5604e7e47",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
