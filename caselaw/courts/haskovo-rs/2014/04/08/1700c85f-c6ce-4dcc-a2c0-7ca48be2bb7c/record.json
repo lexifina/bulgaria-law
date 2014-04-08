@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2014-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 34,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЛАМЕН СТОЯНОВ ГЕОРГИЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1700c85f-c6ce-4dcc-a2c0-7ca48be2bb7c",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d91319c4c8094c94443bfb77fa7a9c2c2a0a3638caa6f3383460244a50ce1d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
