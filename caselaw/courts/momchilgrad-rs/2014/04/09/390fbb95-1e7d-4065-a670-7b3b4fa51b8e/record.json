@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2014-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 244,
+  "case_year": 2013,
+  "judge_rapporteur": "ПОЛИНА ЛЮБОМИРОВА АМБАРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=390fbb95-1e7d-4065-a670-7b3b4fa51b8e",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "271ea280064d39773d2efd97effa3ccdba230fbcbae36ec7b665537efb42dffd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
