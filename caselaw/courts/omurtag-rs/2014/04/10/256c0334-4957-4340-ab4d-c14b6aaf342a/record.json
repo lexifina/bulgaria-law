@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2014-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 311,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЛАМЕН ДИМИТРОВ КАРАНИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=256c0334-4957-4340-ab4d-c14b6aaf342a",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b1d06ee43f2e8784e33492f1c777fbc6507981ef7b60c3d88de0a6b753a99df3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
