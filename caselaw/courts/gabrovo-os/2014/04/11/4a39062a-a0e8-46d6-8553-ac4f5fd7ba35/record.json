@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2014-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 16,
+  "case_year": 2011,
+  "judge_rapporteur": "ПОЛИНА ПЕНКОВА ПЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a39062a-a0e8-46d6-8553-ac4f5fd7ba35",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e8d852a54bab0458521f04962fbe64ea2048d6c4a8dcd7ed3ab335bd55fafaa5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
