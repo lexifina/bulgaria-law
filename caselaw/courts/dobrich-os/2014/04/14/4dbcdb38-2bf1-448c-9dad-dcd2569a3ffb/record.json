@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2014-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 224,
+  "case_year": 2013,
+  "judge_rapporteur": "ТЕМЕНУГА ИВАНОВА СТОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4dbcdb38-2bf1-448c-9dad-dcd2569a3ffb",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "993900c192e7bc12364a3f4dde414af17142db1fc91bfe24cde991c0ba09268e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
