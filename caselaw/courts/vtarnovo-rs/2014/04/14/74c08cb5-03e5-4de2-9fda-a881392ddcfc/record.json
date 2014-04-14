@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2014-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3856,
+  "case_year": 2013,
+  "judge_rapporteur": "ГАЛЯ ИЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=74c08cb5-03e5-4de2-9fda-a881392ddcfc",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "84d68324587546561a0702b3ca23c2fbc3f415e508dab11a2e231d8c85d1d411",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
