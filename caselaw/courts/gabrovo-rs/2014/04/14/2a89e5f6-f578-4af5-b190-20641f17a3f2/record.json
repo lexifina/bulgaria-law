@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2014-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 178,
+  "case_year": 2014,
+  "judge_rapporteur": "ВАСИЛ ВЕНЕЛИНОВ СТАВРЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a89e5f6-f578-4af5-b190-20641f17a3f2",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0087f867685e75f94c98983044ad47cea3520615563e2315429c0a12abba50d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
