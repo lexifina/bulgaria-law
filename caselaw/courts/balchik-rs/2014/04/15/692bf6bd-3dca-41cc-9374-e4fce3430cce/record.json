@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2014-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 784,
+  "case_year": 2013,
+  "judge_rapporteur": "ИВЕЛИНА ДИМИТРОВА ВЕЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=692bf6bd-3dca-41cc-9374-e4fce3430cce",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a3d0579d0341840984e54d419c52fdfd6ac440e8162964aeb708bfbd3ea90e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
