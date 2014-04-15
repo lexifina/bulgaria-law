@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2014-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 180,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВА ТОДОРОВА ГОГОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7d3897d-86af-4a66-a947-adb19b669bdb",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e68f97345c09e75a9315c7e2af9b93262e3cd9c3f14e1aa2e5136b3c1c86236a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
