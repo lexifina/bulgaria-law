@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2014-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 44,
+  "case_year": 2014,
+  "judge_rapporteur": "ВЕСЕЛИН КИРИЛОВ ХАЙДУШКИ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c619f00-a33d-407a-a151-17dee6d63963",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b695a84ac093c4d4b72c783670ecd3d077e2e0a0556bdfa43c18a6bb950483b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
