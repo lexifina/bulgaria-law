@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2014-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 148,
+  "case_year": 2014,
+  "judge_rapporteur": "ГЕОРГИ АРАХАНГЕЛОВ ШОПОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6eb5596b-8105-4958-83f7-41230c51edc4",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a28a11b2c57c2af688d150f5b6a9c5a0020561cdd225b8cfd0e167a507948725",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
