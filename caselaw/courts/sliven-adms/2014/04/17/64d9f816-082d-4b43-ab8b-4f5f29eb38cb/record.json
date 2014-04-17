@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2014-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 83,
+  "case_year": 2014,
+  "judge_rapporteur": "ДЕТЕЛИНА КРЪСТЕВА БОЗУКОВА ГАНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64d9f816-082d-4b43-ab8b-4f5f29eb38cb",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=21.01.2014&to=22.04.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a955c1d3148f527e435370ddf8c6f4ba10d3c7b7aaf2b42dfaeba6f6702a1aa2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
