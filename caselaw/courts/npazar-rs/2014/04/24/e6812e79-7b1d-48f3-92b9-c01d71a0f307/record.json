@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2014-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1075,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6812e79-7b1d-48f3-92b9-c01d71a0f307",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f901b9d3ce196fa408af9d81819d09464b244a130921479cc7e2162ce2874af8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
