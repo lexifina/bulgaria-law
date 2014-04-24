@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2014-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2401,
+  "case_year": 2012,
+  "judge_rapporteur": "ЖАНЕТ ИВАНОВА БОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d97298c-92cf-4567-b1bd-5619c0ce8510",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c3073b4db4fa9b25752ec57ba3dd412f471cce3fd8b06e91f0f687d48a722c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
