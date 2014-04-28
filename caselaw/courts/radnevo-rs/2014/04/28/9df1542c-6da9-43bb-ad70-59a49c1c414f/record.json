@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2014-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 150,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9df1542c-6da9-43bb-ad70-59a49c1c414f",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b9a4e8d0f80ffc3be83b5d5a7e2630ba4895259dbba178269807228cce546d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
