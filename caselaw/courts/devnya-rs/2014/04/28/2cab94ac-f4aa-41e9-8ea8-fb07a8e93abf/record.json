@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2014-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 334,
+  "case_year": 2013,
+  "judge_rapporteur": "ДИМО ВЕНКОВ ЦОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2cab94ac-f4aa-41e9-8ea8-fb07a8e93abf",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d2941cebb8d5f4575c8b56f3cf320a940e62e5e08599bc231ea6edb77900a0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
