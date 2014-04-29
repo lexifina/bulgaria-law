@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-04-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2379,
+  "case_year": 2014,
+  "judge_rapporteur": "БОЯН ДИМИТРОВ КЮРТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1793410-f2ce-42bf-89f6-aa5e456c3675",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c97869d7a97eb4ecf669e30ba51cc1502f60d98bb50960d41fcfdc1076b39e4a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
