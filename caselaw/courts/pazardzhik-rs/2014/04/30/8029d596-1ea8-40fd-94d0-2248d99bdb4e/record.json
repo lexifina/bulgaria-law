@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2014-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 738,
+  "case_year": 2014,
+  "judge_rapporteur": "ЦВЕТАНКА ТРЕНДАФИЛОВА ВЪЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8029d596-1ea8-40fd-94d0-2248d99bdb4e",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "468c1710661872b0aad45b4753b5204990be8fa88f1430ac60456ebc2bb53400",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
