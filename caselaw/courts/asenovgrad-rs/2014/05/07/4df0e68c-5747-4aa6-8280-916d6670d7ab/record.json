@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2014-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 235,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА ПЕЙЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4df0e68c-5747-4aa6-8280-916d6670d7ab",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd682f8998dd36496228609a4d0c2f57f53ff11986f83cf7c84457934e8f54f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
