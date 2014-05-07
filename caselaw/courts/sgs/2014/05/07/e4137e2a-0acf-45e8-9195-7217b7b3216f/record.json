@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2014-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 3497,
+  "case_year": 2013,
+  "judge_rapporteur": "ПЕТЪР БОГОМИЛОВ ТЕОДОСИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4137e2a-0acf-45e8-9195-7217b7b3216f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=23.04.2014&to=07.06.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb37d666d64cc9cdf2d9a2e5feafe61facb6e2ef0a4da3adf9cf735be24b453e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
