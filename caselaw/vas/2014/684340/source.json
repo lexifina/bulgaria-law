@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 12040,
+  "case_year": 2013,
+  "decision_type": "Решение",
+  "decision_number": "6157",
+  "decision_date": "2014-05-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D684340%26code%3Dvas%26guid%3D1599292002",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=684340&code=vas&guid=1599292002",
+  "source_text_sha256": "5aee1809b50b5c501d77878a41d9d13a238bddaabdc18cd96ab61b8defab1380",
+  "source_images": 0
+}
