@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2014-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 34,
+  "case_year": 2014,
+  "judge_rapporteur": "НИКОЛАЙ ЕНЧЕВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3a0d82a-bad4-4cf7-b82f-c8cd9be9d96d",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9ca1861fb45dd2bf1f3a3aa0687412e2045b3b018fa7033b0e524039e8007b71",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
