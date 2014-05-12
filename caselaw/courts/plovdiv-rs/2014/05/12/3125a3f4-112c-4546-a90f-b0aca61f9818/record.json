@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4318,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТО СИМИТЧИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3125a3f4-112c-4546-a90f-b0aca61f9818",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c97869d7a97eb4ecf669e30ba51cc1502f60d98bb50960d41fcfdc1076b39e4a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
