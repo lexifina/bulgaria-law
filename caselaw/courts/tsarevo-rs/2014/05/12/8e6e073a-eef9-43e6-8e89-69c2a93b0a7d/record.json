@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2014-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 345,
+  "case_year": 2014,
+  "judge_rapporteur": "ТАТЯНА СТАНЧЕВА СТАНЧЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8e6e073a-eef9-43e6-8e89-69c2a93b0a7d",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a712bad1c29e1ce3be427925ac4c6fb1579c845f28cfa9dee36e929e484d9a86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
