@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 204,
+  "case_year": 2014,
+  "judge_rapporteur": "МИХАИЛ ДРАГИЕВ РУСЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f1bc01d-5860-434e-b5c4-5bfd1d38b480",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a127171dacaf7ec39fd5b8309f015f9fd1f9b7508222f3212c0652d1fc1a028",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
