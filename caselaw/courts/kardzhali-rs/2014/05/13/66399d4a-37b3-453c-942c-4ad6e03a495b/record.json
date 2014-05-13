@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2014-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 242,
+  "case_year": 2014,
+  "judge_rapporteur": "НЕВЕНА КАЛИНОВА КАЛИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66399d4a-37b3-453c-942c-4ad6e03a495b",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee00b65c9ed88a89aff3bfa9c8cea6dec8881d52063bfd3120950acf3619735b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
