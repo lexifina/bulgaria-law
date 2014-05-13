@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2014-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 52,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТЛОЗАР ГЕОРГИЕВ РАЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bbaad31d-02a8-47ad-80a9-ea13a4ebe746",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "abfa93c435d14ff1c3f6ff817372a83ca69f73125f478f7b7625f2d39393038b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
