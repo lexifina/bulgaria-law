@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2014-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 181,
+  "case_year": 2013,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35261d87-ba21-4acf-9c31-ac82a997a37d",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68ea99e77e7b0d1791b30a101c9a6c1f1f534e1f2f2e300614ebfc41e2c4ffcf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
