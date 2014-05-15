@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1623,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРИАНА ГЕОРГИЕВА КАРАСТАНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a10d848-594a-4850-b34b-71f50c47f401",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3913f36ea3256757e9208967bdd31bd9b94a533015925b1504936527095a215f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
