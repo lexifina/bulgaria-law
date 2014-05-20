@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2014-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 229,
+  "case_year": 2014,
+  "judge_rapporteur": "НАТАША ГЕОРГИЕВА ПАНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=21d41d58-dfaf-414a-9f05-99e23db6ffdc",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8be4377b5f6a6fd3c6e15f3d1318f99e27994d4ce350ad9a6649c9fff0b05a76",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
