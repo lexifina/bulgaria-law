@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2014-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 293,
+  "case_year": 2014,
+  "judge_rapporteur": "СТРАТИМИР ДИМИТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4688b7f2-e5de-4d2e-80a7-41b5ba375a77",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "723f4f840e61a8b347cf390547d1e996fb2567ecfa90ccabd2404154bca963e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
