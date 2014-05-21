@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2014-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 30,
+  "case_year": 2014,
+  "judge_rapporteur": "ВЕСЕЛА ЖИВКОВА ОФИЦЕРСКА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0da88392-57df-4e36-88bb-3fd28cb07b64",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "524c61a6bef358347362d8d8ad6944c2af9a55a4dc78dec50f0ebc12a7696bd1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
