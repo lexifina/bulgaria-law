@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2014-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 158,
+  "case_year": 2013,
+  "judge_rapporteur": "ЛЮЛИН ВЕНЕЛИНОВ ЛОЗАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b069b74f-7ec1-4ebd-a619-d5922ac550d1",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2aa54c23f0d476acb146671344475dae5eb5020252d2f82c56fc3ae03f9409eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
