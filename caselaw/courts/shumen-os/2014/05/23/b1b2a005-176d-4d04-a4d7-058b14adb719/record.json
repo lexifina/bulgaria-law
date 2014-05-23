@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2014-05-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 116,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТЛИН ЕМИЛОВ СТЕФАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1b2a005-176d-4d04-a4d7-058b14adb719",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa1ac549514b59c6b3a738dba362b8073106801741cf21499ae724e649c7cf6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
