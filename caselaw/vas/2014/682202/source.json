@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 11269,
+  "case_year": 2013,
+  "decision_type": "Решение",
+  "decision_number": "7195",
+  "decision_date": "2014-05-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D682202%26code%3Dvas%26guid%3D1599230686",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=682202&code=vas&guid=1599230686",
+  "source_text_sha256": "b1d057d4338efcac33ac3b2f53ed76780af1e0302e8df01820240efaec47c3d1",
+  "source_images": 0
+}
