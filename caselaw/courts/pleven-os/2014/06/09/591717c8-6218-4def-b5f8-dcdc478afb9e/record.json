@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2014-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 436,
+  "case_year": 2014,
+  "judge_rapporteur": "КРИСТИНА АНТОНОВА ЛАЛЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=591717c8-6218-4def-b5f8-dcdc478afb9e",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "137e6bd2883e8037c0159d12c88a0429212b8c8ec880d8ddad27e54bf3c51e6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
