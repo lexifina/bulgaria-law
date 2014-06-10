@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2014-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 98,
+  "case_year": 2014,
+  "judge_rapporteur": "РЕНАТА ГЕОРГИЕВА МИШОНОВА-ХАЛЬОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20b41df5-b200-4d1c-8ed9-240e41a084a6",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5eb942b9afbca7de4d9dc3a2270ef639cbe068ef5242d2010207877d83cc9db3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
