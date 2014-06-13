@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2014-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4029,
+  "case_year": 2008,
+  "judge_rapporteur": "ЙОРДАНКА БОРИСОВА МОЛЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=da9b5a8c-bb4d-4d9d-94aa-992cc5dd50b5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.06.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7055d8b312d704f0b831013c7b8f3737ceb23899651ff2a70beb6087a47b58bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
