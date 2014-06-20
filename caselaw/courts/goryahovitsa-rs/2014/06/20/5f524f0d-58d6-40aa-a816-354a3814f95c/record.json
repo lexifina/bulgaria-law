@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2014-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 544,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЛАМЕН СТАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f524f0d-58d6-40aa-a816-354a3814f95c",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79b4fecbd1bc8e891064cc97905d2d7334c03d3dc9eb9a44a61910edccfa7c29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
