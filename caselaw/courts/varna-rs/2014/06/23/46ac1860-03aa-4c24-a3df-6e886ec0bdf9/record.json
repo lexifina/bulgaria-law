@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2014-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2756,
+  "case_year": 2014,
+  "judge_rapporteur": "РАДОСТИНА СТАМАТОВА МЕТОДИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46ac1860-03aa-4c24-a3df-6e886ec0bdf9",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a814264c24a9ee5bcc20106195a4de7541a9fbedb13416f8806b047cb9644122",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
