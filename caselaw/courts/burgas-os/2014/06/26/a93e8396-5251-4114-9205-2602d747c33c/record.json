@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 531,
+  "case_year": 2014,
+  "judge_rapporteur": "КАТЯ ЙОРДАНОВА ГОСПОДИНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a93e8396-5251-4114-9205-2602d747c33c",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3913f36ea3256757e9208967bdd31bd9b94a533015925b1504936527095a215f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
