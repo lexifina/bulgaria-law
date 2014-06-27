@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2014-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1133,
+  "case_year": 2013,
+  "judge_rapporteur": "ЕВГЕНИ ДИМИТРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=837c962b-d82a-4267-b683-2af9a1c921e4",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.06.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7055d8b312d704f0b831013c7b8f3737ceb23899651ff2a70beb6087a47b58bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
