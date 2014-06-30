@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2014-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 267,
+  "case_year": 2014,
+  "judge_rapporteur": "ТОДОР ИЛИЕВ ТИХОЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f8f9559-bb37-45ea-a259-6b2134e9c689",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba003a05f6ba4711360d77ee6783344a962935e84d5d7bfedfdb98b12f33a4dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
