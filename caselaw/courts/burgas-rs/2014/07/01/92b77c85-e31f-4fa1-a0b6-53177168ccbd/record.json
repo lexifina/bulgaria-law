@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2090,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕТЪР ГЕОРГИЕВ ПЕВТИЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92b77c85-e31f-4fa1-a0b6-53177168ccbd",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ed8ce0c9590b246660a97d98475ff51c27012606553a7fed7cdb766380772a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
