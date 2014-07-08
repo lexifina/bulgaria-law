@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2014-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2950,
+  "case_year": 2011,
+  "judge_rapporteur": "МАРИЯ НИКОЛАЕВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17a76f41-f5bd-43e2-8c06-dd6409e4bc8c",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c3073b4db4fa9b25752ec57ba3dd412f471cce3fd8b06e91f0f687d48a722c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
