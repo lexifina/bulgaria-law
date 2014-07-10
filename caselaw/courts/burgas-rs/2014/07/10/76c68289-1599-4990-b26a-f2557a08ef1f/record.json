@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-07-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3327,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕЛЕОНОРА СИМЕОНОВА КРАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=76c68289-1599-4990-b26a-f2557a08ef1f",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ed8ce0c9590b246660a97d98475ff51c27012606553a7fed7cdb766380772a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
