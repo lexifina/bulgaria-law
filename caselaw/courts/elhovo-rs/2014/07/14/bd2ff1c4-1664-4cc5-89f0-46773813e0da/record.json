@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2014-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 798,
+  "case_year": 2013,
+  "judge_rapporteur": "МАРТИНА ИВАНОВА КИРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bd2ff1c4-1664-4cc5-89f0-46773813e0da",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa96adfc5bcd7f8cf8e112eaf5fc79312ae1a4faf36e827bc75b417f79c69297",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
