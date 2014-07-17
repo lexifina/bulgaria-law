@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2014-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2571,
+  "case_year": 2012,
+  "judge_rapporteur": "АНГЕЛИНА ГЕРГИНОВА ГЕРГИНСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ada64a0f-0d5f-4f28-a81f-ddfd74114f8a",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.06.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7055d8b312d704f0b831013c7b8f3737ceb23899651ff2a70beb6087a47b58bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
