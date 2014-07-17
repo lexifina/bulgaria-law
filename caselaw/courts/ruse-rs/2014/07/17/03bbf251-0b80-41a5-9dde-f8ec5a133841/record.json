@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2014-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3683,
+  "case_year": 2014,
+  "judge_rapporteur": "ВАСИЛ МАРИНОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03bbf251-0b80-41a5-9dde-f8ec5a133841",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a6474e347cb606f93b7f0faec15054ebdeeb9769953ad7e589c7930a723fcc5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
