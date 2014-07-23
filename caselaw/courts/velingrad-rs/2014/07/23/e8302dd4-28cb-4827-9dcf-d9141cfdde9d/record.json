@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2014-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1196,
+  "case_year": 2013,
+  "judge_rapporteur": "ВАНЯ ГЕОРГИЕВА ТОТОЛАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8302dd4-28cb-4827-9dcf-d9141cfdde9d",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aee638a67d961b1d3ca24c252bff150289fd31baf573fb02bd43073b90910f7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
