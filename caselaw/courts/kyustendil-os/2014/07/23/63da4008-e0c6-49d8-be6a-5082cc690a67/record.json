@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2014-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 13,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕВГЕНИЯ ХРИСТОВА СТАМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63da4008-e0c6-49d8-be6a-5082cc690a67",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=23.04.2014&to=23.07.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8043e7702d3c5b0e3540dbe76219da2a520cda43f628a50ae59852bb26d4e4b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
