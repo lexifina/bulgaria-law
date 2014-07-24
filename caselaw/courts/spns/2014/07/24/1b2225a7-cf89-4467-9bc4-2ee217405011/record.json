@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2014-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 865,
+  "case_year": 2014,
+  "judge_rapporteur": "ВИРЖИНИЯ АЛЕКСАНДРОВА ПЕТРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b2225a7-cf89-4467-9bc4-2ee217405011",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6f3195c62b53e5141b170c7d9ce3181edf7419acb781d173f93edebc52bec39",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
