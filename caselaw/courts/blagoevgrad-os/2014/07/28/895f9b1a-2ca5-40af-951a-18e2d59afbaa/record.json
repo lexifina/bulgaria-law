@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2014-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 64,
+  "case_year": 2014,
+  "judge_rapporteur": "",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=895f9b1a-2ca5-40af-951a-18e2d59afbaa",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=22.07.2014&to=21.09.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19beb7477f1fa66bcadf99e323529446a768cab3f581e59cc1c0690cbe127060",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
