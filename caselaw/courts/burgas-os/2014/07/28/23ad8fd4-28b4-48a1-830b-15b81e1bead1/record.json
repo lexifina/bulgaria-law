@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 672,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕТЯ ИВАНОВА ПЕТРОВА ДАКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=23ad8fd4-28b4-48a1-830b-15b81e1bead1",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9dca6c6f4e6905861fc6b733e5b993fe8a0778635ee33a3d9b1fa4166688789",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
