@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2014-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 215,
+  "case_year": 2013,
+  "judge_rapporteur": "КРАСИМИР ГЕОРГИЕВ НЕНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3e87485b-edf8-4af4-a76d-53f1f130d02f",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5a78ece4c416bd2932f0f2f4812a1ed364a67fa62477f06e2102ec24546c04fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
