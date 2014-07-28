@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2014-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 302,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРТИН ДАНЧЕВ ДАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=125e3f70-7470-452c-be68-667e7282a0ed",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf35b7ae21d726c0ffb60f55699721c13db4c7da78884a5c6edfe6dc436bd0bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
