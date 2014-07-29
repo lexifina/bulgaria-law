@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 405,
+  "case_year": 2014,
+  "judge_rapporteur": "РАЙНА ДИМОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f422230-11f9-409c-993c-0ca11f1c644b",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4090f6cbb8772bf49b9079e13e8497d63ed5e72994355b619247f3784166474",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
