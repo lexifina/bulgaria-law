@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 624,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРИЯ ИЛИЕВА ЗЛАТАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=314344b0-1f72-4a30-b99f-31f9f69cb739",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77069f6a3dcfc8c1ec875a5e72a15f9964b6b9bbc2ce081804010d4cd565fd03",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
