@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2014-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 201,
+  "case_year": 2014,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=57d01822-70b4-4a61-85e0-d9b8bdad62af",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2d5a73138086f2fad0ec0abd206d39a14d63fcdd8576f0a8175ccaf11e4f7d7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
