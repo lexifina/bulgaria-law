@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2014-08-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 100,
+  "case_year": 2010,
+  "judge_rapporteur": "МИХАИЛ АНГЕЛОВ АЛЕКСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c86d4055-dd60-4040-808f-bd89878311f7",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d93327c88d5b4c1692b41e7eaeca40a5735c817685202416dc5b0028baa1297",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
