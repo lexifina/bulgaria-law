@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2014-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 265,
+  "case_year": 2014,
+  "judge_rapporteur": "РАДКА ДИМИТРОВА ДРАЖЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d8cbe89e-9083-491d-8939-dcb15fcd9d84",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf35b7ae21d726c0ffb60f55699721c13db4c7da78884a5c6edfe6dc436bd0bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
