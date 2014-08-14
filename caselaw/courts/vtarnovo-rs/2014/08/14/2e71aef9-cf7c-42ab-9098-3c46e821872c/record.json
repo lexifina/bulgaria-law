@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2014-08-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 315,
+  "case_year": 2014,
+  "judge_rapporteur": "МИЛЕНА АЛЕКСИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2e71aef9-cf7c-42ab-9098-3c46e821872c",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a129a04c6f61a446e235496c32097b750d8a8b4d5af21da53e655b31699feb4e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
