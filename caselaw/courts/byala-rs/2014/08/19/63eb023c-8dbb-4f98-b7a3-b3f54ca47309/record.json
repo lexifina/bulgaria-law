@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2014-08-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 678,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАЙЛО АСЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63eb023c-8dbb-4f98-b7a3-b3f54ca47309",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f256f211ed2cb91e470114addb27c5059006b662d98c4c958e7d140ea71799a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
