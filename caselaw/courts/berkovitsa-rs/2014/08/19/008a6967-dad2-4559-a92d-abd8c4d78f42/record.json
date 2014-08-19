@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2014-08-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 283,
+  "case_year": 2014,
+  "judge_rapporteur": "КАЛИН ТРИФОНОВ ТОДОРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=008a6967-dad2-4559-a92d-abd8c4d78f42",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d54b3134d883282c98047d701e6979de70dcb2614c86634ae2cca44ffab9fdbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
