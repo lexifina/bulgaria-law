@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2014-08-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 37,
+  "case_year": 2014,
+  "judge_rapporteur": "ЗОРНИЦА МАРИНОВА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b6abc26-6879-42e2-b7ae-905f5b6878b0",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e233e7458867022bbfe57cf7b2f2434ed09f370ca374695408e936c5639e8020",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
