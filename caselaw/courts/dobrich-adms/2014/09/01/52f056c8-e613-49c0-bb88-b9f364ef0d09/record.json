@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2014-09-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 507,
+  "case_year": 2014,
+  "judge_rapporteur": "КРАСИМИРА КЕРАНОВА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52f056c8-e613-49c0-bb88-b9f364ef0d09",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "994e6d6c93510a37f63ef75e18c3be5bfefc36feaf1d2c3a6e63a07bfd9d3486",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
