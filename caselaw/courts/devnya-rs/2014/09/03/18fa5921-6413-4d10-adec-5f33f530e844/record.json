@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2014-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 261,
+  "case_year": 2014,
+  "judge_rapporteur": "ДИМО ВЕНКОВ ЦОЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18fa5921-6413-4d10-adec-5f33f530e844",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e75b73d6dc7c1d2f0434a95b6b7433211ededa62638ce8a3e21b4ac5aa207f5c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
