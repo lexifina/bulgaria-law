@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2014-09-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 129,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕТЪР ВАЛЕНТИНОВ ЖИВКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6bbe408a-cfc8-4f85-97b3-f0317182d3de",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c505d52370607deb617c4470d10d3dda0a128d78e0c044154c21b979273f1f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
