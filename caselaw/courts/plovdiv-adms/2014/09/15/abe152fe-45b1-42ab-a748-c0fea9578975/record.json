@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 3394,
+  "case_year": 2013,
+  "judge_rapporteur": "ТАТЯНА ИВАНОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=abe152fe-45b1-42ab-a748-c0fea9578975",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77069f6a3dcfc8c1ec875a5e72a15f9964b6b9bbc2ce081804010d4cd565fd03",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
