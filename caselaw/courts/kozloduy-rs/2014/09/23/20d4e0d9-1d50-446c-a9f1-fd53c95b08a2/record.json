@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2014-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1108,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАН ЦВЕТОЗАРОВ ИВАНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20d4e0d9-1d50-446c-a9f1-fd53c95b08a2",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a259be4a51bd7c372e31d61cebd3f72677ff60c104f88f0aa5ad4a59d036327",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
