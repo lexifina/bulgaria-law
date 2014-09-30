@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 103,
+  "case_year": 2014,
+  "judge_rapporteur": "СТОЙКО ДРАГАНОВ СПАСОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a36cfb3a-0729-4bc7-a934-a840a3b7a5dd",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86f3e2d26464986c76dcc2d3e1786fb24df5c1889becfc88782fc6d40358ba6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
