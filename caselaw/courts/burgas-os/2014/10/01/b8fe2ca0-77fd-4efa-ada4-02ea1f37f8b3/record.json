@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 135,
+  "case_year": 2014,
+  "judge_rapporteur": "ПАВЕЛ АЛЕКСАНДРОВ ХАНДЖИЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8fe2ca0-77fd-4efa-ada4-02ea1f37f8b3",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9dca6c6f4e6905861fc6b733e5b993fe8a0778635ee33a3d9b1fa4166688789",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
