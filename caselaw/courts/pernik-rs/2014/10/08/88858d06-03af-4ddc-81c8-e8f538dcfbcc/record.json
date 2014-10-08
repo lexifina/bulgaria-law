@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2014-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 958,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕТЯ ЙОРДАНОВА КОТЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=88858d06-03af-4ddc-81c8-e8f538dcfbcc",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96017a59f0757713ba66fd395bc3b6ae8e8a2eb5203d0da8307bef0af4e0030a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
