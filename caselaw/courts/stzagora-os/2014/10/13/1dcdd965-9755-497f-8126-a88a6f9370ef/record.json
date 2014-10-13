@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1028,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЛАМЕН СТЕФАНОВ ЗЛАТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1dcdd965-9755-497f-8126-a88a6f9370ef",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "54233e123049b1fb1672a686e5d47e9c15d0102508bca334d8e847fc729577eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
