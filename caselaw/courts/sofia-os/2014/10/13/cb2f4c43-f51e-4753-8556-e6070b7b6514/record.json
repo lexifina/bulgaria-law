@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2014-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 54,
+  "case_year": 2014,
+  "judge_rapporteur": "ЯНИТА ДИМИТРОВА ЯНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb2f4c43-f51e-4753-8556-e6070b7b6514",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89bdfe8d659efc7ccd14f36ba20c3a36bb7abb0b7467549f4f2b8c1b9035be50",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
