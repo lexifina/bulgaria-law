@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 14870,
+  "case_year": 2012,
+  "judge_rapporteur": "ДИМИТРИНА ИЛИЕВА ТЕНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46f1d2d6-62b6-4819-8664-42ae4955852c",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3326c659dac6311fa5da89d60f407653fa43407f8433573a532b8369cfba41ff",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
