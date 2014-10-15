@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1137,
+  "case_year": 2011,
+  "judge_rapporteur": "СЪБЧО АТАНАСОВ СЪБЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=738e3998-4a7b-48a9-8905-e157d87414a0",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9dca6c6f4e6905861fc6b733e5b993fe8a0778635ee33a3d9b1fa4166688789",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
