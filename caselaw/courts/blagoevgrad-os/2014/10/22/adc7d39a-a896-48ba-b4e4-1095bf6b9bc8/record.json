@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2014-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 489,
+  "case_year": 2013,
+  "judge_rapporteur": "Миглена Йовкова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=adc7d39a-a896-48ba-b4e4-1095bf6b9bc8",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=22.09.2014&to=22.11.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d76f9345a96e8447b9c4a2158e165ab044fad04764cdfc64ea729291727ef6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
