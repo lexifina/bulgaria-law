@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2014-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 194,
+  "case_year": 2012,
+  "judge_rapporteur": "СВЕТЛА ЖЕЛЯЗКОВА СТОЯНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71d2e82a-82b1-4041-8e57-c269cc7edcee",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b17e756cf2fd22febdaaec4e5f195a2cb6c5e97db65a9cc976ec20243fab93c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
