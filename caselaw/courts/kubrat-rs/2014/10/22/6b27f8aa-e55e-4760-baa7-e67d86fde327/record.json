@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2014-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 225,
+  "case_year": 2014,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b27f8aa-e55e-4760-baa7-e67d86fde327",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=24.07.2014&to=23.10.2014&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0a0b28ffce68cd9ba1b41410429fde16f4a8e56e5a795cc345bb6be0e4199b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
