@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2014-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 532,
+  "case_year": 2014,
+  "judge_rapporteur": "АНЕЛИЯ АНГЕЛОВА ДИМИТРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8971f028-ed86-4705-b13f-2af92b0b55e8",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "556c08f27eba986f02c5a089fcf30324fa65d60c4fe920993d4a04b7e7e1fbcd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
