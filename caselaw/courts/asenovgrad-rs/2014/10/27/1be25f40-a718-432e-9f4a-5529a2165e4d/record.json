@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2014-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1437,
+  "case_year": 2008,
+  "judge_rapporteur": "ЕЛЕНА ЗАХАРИЕВА КАЛПАЧКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1be25f40-a718-432e-9f4a-5529a2165e4d",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc1dc4051aab7fee1445768b982dcd79635cbee8a3bfe72e3931f685faab352a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
