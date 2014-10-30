@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2014-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 162,
+  "case_year": 2014,
+  "judge_rapporteur": "ЙОХАННА ИВАНОВА АНТОНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=229cbc7c-a338-4499-9888-6a5ef5e628d3",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0cbce8bc52c61ca3b0dfe6493977d35b9f7cde74e7b198bb4459b3f6d1ddb04f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
