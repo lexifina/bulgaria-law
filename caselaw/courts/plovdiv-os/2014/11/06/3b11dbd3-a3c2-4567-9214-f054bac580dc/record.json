@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2014-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 599,
+  "case_year": 2014,
+  "judge_rapporteur": "КРАСИМИРА ДИМИТРОВА ВАНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b11dbd3-a3c2-4567-9214-f054bac580dc",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a40a895e6e75d61f6617ceaad08a581ae01b85febfc5d95283955f472a0c1650",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
