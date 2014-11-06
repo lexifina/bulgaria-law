@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2014-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 215,
+  "case_year": 2014,
+  "judge_rapporteur": "ДИМИТЪР ИЛИЕВ ДИМИТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=618ba356-e7e4-4aa2-bc9e-91cea1dca157",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c6af8dff3cf830d8d3e9c58618719988df27c669c403d48ba74304cf39ea3ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
