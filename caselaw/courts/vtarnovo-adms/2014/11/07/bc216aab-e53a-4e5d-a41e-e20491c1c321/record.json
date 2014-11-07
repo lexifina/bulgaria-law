@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2014-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 684,
+  "case_year": 2013,
+  "judge_rapporteur": "ЙОРДАНКА ХРИСТОВА МАТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc216aab-e53a-4e5d-a41e-e20491c1c321",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0c82507f352659a91dac0cafb98b3f55668fc231a99c424baccfeab2f1ed642",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
