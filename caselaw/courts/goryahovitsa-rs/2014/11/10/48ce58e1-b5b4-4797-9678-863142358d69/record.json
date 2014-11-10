@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2014-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 453,
+  "case_year": 2011,
+  "judge_rapporteur": "МИЛЕНА КАРАГЬОЗОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48ce58e1-b5b4-4797-9678-863142358d69",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fdf60bc07c4cc3de77ec70fbc5aa417ab8d92e644e96572155d0123b677f42b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
