@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2014-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 320,
+  "case_year": 2014,
+  "judge_rapporteur": "ГАЛИН ХРИСТОВ ГЕОРГИЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58877644-4d74-4a3c-95cd-8197f2ad55c5",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c57f9f58c6655386b8d9f9c72f292791ffc9eebb289955992a18f812eaa2a075",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
