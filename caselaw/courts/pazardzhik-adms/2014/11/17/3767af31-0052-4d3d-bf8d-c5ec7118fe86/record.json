@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2014-11-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 829,
+  "case_year": 2014,
+  "judge_rapporteur": "ГЕОРГИ ВИДЕВ ВИДЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3767af31-0052-4d3d-bf8d-c5ec7118fe86",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e472e5944ee2eb920220c1a799c9977cee0f9eb75317215f1e45027918a5daf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
