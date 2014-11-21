@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2014-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 140,
+  "case_year": 2013,
+  "judge_rapporteur": "ТЕМИСЛАВ МАЛИНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b46caa6-9830-4cf5-b753-f48298713ad3",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "136d28021236bfd5d1c3f779b1c4445efb5461dc465c4d00327f3a00d1309aa6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
