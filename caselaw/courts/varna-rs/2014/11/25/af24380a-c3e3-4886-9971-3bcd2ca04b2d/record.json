@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2014-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10669,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАНКА ДИМИТРОВА ДРИНГОВА КАРАКАШЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af24380a-c3e3-4886-9971-3bcd2ca04b2d",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "470d2280190c828e3010dfc15ec49cb41a2a35fc942f11650f2ceb6bc456b58a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
