@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ардино",
+  "jurisdiction": "BG",
+  "date": "2014-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11,
+  "case_year": 2014,
+  "judge_rapporteur": "СУНАЙ ЮСЕИН ОСМАН",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7fef5ab7-1d61-4d07-b8e6-7c1a3e164e4c",
+  "motives_file": null,
+  "source": "https://ardino-rs.justice.bg/bg/4775?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "38f6ad2dceea06836819d31f174dcb0ea037ee0163d45592522157ec40e2ae8c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
