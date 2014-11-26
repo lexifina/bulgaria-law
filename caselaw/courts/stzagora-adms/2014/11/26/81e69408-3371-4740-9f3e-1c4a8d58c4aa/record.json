@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2014-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 540,
+  "case_year": 2014,
+  "judge_rapporteur": "ГАЛИНА КОЛЕВА ДИНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81e69408-3371-4740-9f3e-1c4a8d58c4aa",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68e9bff9204d7d2d0f134ed0c0b073bf89ccf6c044ce29cbe7ef7b073e8afbc4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
