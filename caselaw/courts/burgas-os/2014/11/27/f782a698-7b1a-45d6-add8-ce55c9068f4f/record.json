@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2014-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 21,
+  "case_year": 2013,
+  "judge_rapporteur": "ДАРИНА АНГЕЛОВА КОСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f782a698-7b1a-45d6-add8-ce55c9068f4f",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ea397f5d3e76d57025f78085aa4ef48b5a3b6844b31c173f10fddbaba6017a9f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
