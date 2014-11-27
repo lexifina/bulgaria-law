@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2014-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1161,
+  "case_year": 2014,
+  "judge_rapporteur": "КРЕМЕНА НИКОЛАЕВА ГОЛЕМАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c9c9270-2873-42df-a222-323da9c6e7f5",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "78c249bfe9c265970579a663c8556bcca6b3eeba373a3aa7d162430d122cef8f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
