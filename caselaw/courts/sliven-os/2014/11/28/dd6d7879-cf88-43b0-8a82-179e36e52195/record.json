@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2014-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 348,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТИНА ЗАХАРИЕВА МАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dd6d7879-cf88-43b0-8a82-179e36e52195",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57d7fff97073e54c98170714f785b768ae9395e203a7227faa5bf0203a0a2f34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
