@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2014-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6422,
+  "case_year": 2011,
+  "judge_rapporteur": "АЛБЕНА ПЕТРОВА КОЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=995fe893-0739-439c-8449-3ef90a98988d",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55355c5121928658ed0b617a64c0a4210805a4c9b1115aade9d9d740f7be924e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
