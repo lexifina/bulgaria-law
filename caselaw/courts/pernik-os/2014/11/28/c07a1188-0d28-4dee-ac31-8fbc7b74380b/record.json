@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2014-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 380,
+  "case_year": 2014,
+  "judge_rapporteur": "РЕНИ ПЕТРОВА КОВАЧКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c07a1188-0d28-4dee-ac31-8fbc7b74380b",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d31877fae1fdd5f7441554e1ea00f1864ddf1dbf6c8fe46bbbcc628ada92d15f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
