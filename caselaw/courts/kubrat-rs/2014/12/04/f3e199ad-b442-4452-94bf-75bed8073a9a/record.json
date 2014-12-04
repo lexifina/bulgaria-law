@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2014-12-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 272,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЛАМЕН БОГОМИЛОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3e199ad-b442-4452-94bf-75bed8073a9a",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "160ef9a26ebb49f76e6885f253c78ea5dd20d314e50b6bddcf458f13c526649f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
