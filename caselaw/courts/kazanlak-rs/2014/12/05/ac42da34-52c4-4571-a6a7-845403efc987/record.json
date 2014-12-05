@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2014-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1796,
+  "case_year": 2014,
+  "judge_rapporteur": "ВАЛЕНТИНА ИВАНОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac42da34-52c4-4571-a6a7-845403efc987",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d95fe6365c15ff8ef8c22f6cbbb2603a8d1335ff1182021946c85ee9ce839ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
