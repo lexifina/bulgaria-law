@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2014-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 795,
+  "case_year": 2014,
+  "judge_rapporteur": "ГАЛЯ ВАСИЛЕВА ПЕТРЕШКОВА-СТАВАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d297c28-4250-463b-a558-e09c1c49e5d1",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e11e39083aea5b477c96f13f62c4188308a422f8eacd245057cb8052fe985a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
