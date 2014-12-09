@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2014-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 255,
+  "case_year": 2014,
+  "judge_rapporteur": "БИСЕР ЦВЕТАНОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=33b9df15-49a8-4978-9779-3c301ac89eb2",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d31877fae1fdd5f7441554e1ea00f1864ddf1dbf6c8fe46bbbcc628ada92d15f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
