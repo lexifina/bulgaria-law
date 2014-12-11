@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2014-12-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13614,
+  "case_year": 2014,
+  "judge_rapporteur": "ЦВЕТЕЛИНА ГЕОРГИЕВА ХЕКИМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68d63a10-8218-45ce-9a75-afa9df7a6956",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "470d2280190c828e3010dfc15ec49cb41a2a35fc942f11650f2ceb6bc456b58a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
