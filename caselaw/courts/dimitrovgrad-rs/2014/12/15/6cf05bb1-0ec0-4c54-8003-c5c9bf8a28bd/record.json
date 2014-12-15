@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2014-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 563,
+  "case_year": 2014,
+  "judge_rapporteur": "АНТОАНЕТА ВЪЛЧЕВА МИТРУШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6cf05bb1-0ec0-4c54-8003-c5c9bf8a28bd",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f7a689045bea5f0528cb2b37a1e7bb098519c54a4c655b89e85256688c2718d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
