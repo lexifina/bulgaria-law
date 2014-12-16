@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2014-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 51,
+  "case_year": 2013,
+  "judge_rapporteur": "МАГДАЛЕНА КОЛЕВА ДАВИДОВА ЯНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2236d294-1f48-4067-a0dd-10b15a1df34d",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77b38fbdc3a902f2809de1a93b52df95a5fa357b20c7ecb529ce696baea03485",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
