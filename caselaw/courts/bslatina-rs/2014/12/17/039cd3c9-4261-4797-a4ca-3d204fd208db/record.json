@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2014-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 579,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАЙЛО ПАРАСКЕВОВ ШАБАНСКИ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=039cd3c9-4261-4797-a4ca-3d204fd208db",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4630925c407ccf7af8a310ad962421d4b22c96349c1f886f87b114c7b033e7d7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
