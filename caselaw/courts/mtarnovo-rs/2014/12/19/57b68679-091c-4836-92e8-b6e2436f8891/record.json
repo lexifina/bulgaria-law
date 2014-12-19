@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2014-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 220,
+  "case_year": 2014,
+  "judge_rapporteur": "ТАТЯНА СТАНЧЕВА СТАНЧЕВА-ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=57b68679-091c-4836-92e8-b6e2436f8891",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "052ceb7957bdad33603ac2bdd5b7ad618d2ff82369c8689ee9ab679b1a32c73b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
