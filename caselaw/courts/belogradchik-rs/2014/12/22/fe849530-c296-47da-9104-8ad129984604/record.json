@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2014-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 245,
+  "case_year": 2014,
+  "judge_rapporteur": "БОЖИДАРКА ДАНЧОВА ЙОСИФОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe849530-c296-47da-9104-8ad129984604",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "afed8ee21548642ae524d6eba441e5c76e597990e862ee7504b03133ad90d9ca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
