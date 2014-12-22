@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2014-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 611,
+  "case_year": 2011,
+  "judge_rapporteur": "ДИАНА ГАНЧЕВА КОЛЕДЖИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f724f4cc-696a-4c82-b611-02379bd24fef",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "799214fa74eae6fe8fef4897a4ec15f096785ca8132c078c545137a42df54e79",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
