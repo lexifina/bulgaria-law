@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 892,
+  "case_year": 2013,
+  "judge_rapporteur": "СТЕФКА ПЕТКОВА КЕМАЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55b6640d-5209-48d7-b2bd-f1d1cebb2b65",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e472e5944ee2eb920220c1a799c9977cee0f9eb75317215f1e45027918a5daf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
