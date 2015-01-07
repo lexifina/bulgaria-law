@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2015-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 37,
+  "case_year": 2015,
+  "judge_rapporteur": "ПАВЛИНА НЕЙЧЕВА ПАСКАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d5a2874d-43b6-428d-9837-2d006a81dee3",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55355c5121928658ed0b617a64c0a4210805a4c9b1115aade9d9d740f7be924e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
