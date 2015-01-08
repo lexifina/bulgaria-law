@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 999,
+  "case_year": 2014,
+  "judge_rapporteur": "МИЛЕНА РАНГЕЛОВА ДАСКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2d8284c1-17b5-49d6-bcf0-c748fe51fff6",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d31877fae1fdd5f7441554e1ea00f1864ddf1dbf6c8fe46bbbcc628ada92d15f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
