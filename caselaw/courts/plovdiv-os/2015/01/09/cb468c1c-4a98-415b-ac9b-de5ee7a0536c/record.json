@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-01-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3043,
+  "case_year": 2013,
+  "judge_rapporteur": "ГРЕТА ИЛИЕВА ЧАКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb468c1c-4a98-415b-ac9b-de5ee7a0536c",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a40a895e6e75d61f6617ceaad08a581ae01b85febfc5d95283955f472a0c1650",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
