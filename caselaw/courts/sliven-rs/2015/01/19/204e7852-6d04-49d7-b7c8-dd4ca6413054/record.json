@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3096,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТОЗАР ДИМОВ СВЕТИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=204e7852-6d04-49d7-b7c8-dd4ca6413054",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbc1e27e238b14a67e6b2a43262d4209bb958cc8175a07ed8b20755ad7d924a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
