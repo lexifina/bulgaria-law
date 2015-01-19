@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 829,
+  "case_year": 2014,
+  "judge_rapporteur": "ЛЮДМИЛА ВЛАДИМИРОВА ПЕЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2458cf0b-0299-4be1-b5c4-e8095fa3b650",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d31877fae1fdd5f7441554e1ea00f1864ddf1dbf6c8fe46bbbcc628ada92d15f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
