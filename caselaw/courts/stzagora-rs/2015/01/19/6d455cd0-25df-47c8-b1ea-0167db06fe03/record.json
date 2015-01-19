@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2015-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 316,
+  "case_year": 2014,
+  "judge_rapporteur": "ДАРИНА КЪНЧЕВА СТОЯНОВА КРУМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d455cd0-25df-47c8-b1ea-0167db06fe03",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=24.10.2014&to=23.01.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf5f9c5cd3b45ce0a3d1c9fcce9ba60a2e1284ed05d01bbca5f8db2e4b2afca3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
