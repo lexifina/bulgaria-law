@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2015-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1117,
+  "case_year": 2014,
+  "judge_rapporteur": "СТОЯН ЛЮДМИЛОВ ТОНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd9a1ae3-720a-42c6-abb0-a80f6662786f",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9708f1f6050495583a5ac93902e885713682aba6c98e5d0d92e2f49d800d3a94",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
