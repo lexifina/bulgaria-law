@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2015-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 408,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕВЕЛИНА ПЕТКОВА КАРАГЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e044b3f-7f34-42af-b104-d6708b4018ff",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "99e47dd08a1662a006ceaf9e729573bb07453cd5b5238831382efbb1f3bdb444",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
