@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2015-01-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 831,
+  "case_year": 2013,
+  "judge_rapporteur": "КРАСИМИР ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b599b43-2bbc-4104-80cc-5646bc9398c1",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fcbb139a7b7a928c75af7369b53d926899fc2df79afff2488c710dcbb4fa2973",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
