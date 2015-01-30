@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2015-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1096,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТЛА ТОТЕВА ДОЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=162cfd9b-e0fe-43f6-a962-6b1d3a8dcae4",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a77a4e257675ff8dfe5f20367bd672c33942dbbdfca880a4d334b3092073e741",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
