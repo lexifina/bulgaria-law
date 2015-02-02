@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 20074,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕЛИЗАБЕТ ЛОПЕС ПЕТРОВА КАЛПАКЧИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=387f52ca-0b8b-409b-ad50-e7b4f7baa3c2",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=24.01.2015&to=10.03.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d076353839d2514ec54a44179a0798ef2f0ffae811e7bc37559374e348408bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
