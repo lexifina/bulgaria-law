@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 661,
+  "case_year": 2013,
+  "judge_rapporteur": "ДИМИТЪР БОРИСОВ БИШУРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a0e5d6c-d4b3-4af6-93b7-fc9598cf1c0c",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3d7bab4408d0b4d90bbce8faee9151f2008c74799b37e13afb08cfda22ef054",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
