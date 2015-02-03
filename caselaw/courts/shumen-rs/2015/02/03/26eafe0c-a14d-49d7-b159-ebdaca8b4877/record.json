@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2015-02-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1995,
+  "case_year": 2014,
+  "judge_rapporteur": "КАЛИН ГЕОРГИЕВ КОЛЕШАНСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26eafe0c-a14d-49d7-b159-ebdaca8b4877",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a6155b3626348b40f28b9f2495824ccfe8ef8f803841ced5bc60cb7df81deae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
