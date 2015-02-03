@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2015-02-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 8,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАЛИНА НИКОЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=105ac62a-4fa4-437f-81cf-a510dc0f9cc5",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e15b7b34c39179e85e9236e122647c1a134136254f7979d16d109489f5b2257",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
