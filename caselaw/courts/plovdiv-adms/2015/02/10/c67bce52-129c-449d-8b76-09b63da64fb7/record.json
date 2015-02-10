@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2285,
+  "case_year": 2014,
+  "judge_rapporteur": "НЕДЯЛКО ГЕОРГИЕВ БЕКИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c67bce52-129c-449d-8b76-09b63da64fb7",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e47fee82649207b5072cec64c2a1f2d4c2e822c1583897e660bf028596235021",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
