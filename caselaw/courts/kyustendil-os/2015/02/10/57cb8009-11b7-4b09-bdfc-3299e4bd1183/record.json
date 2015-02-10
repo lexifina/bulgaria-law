@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2015-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 439,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕНКА НИКОЛАЕВА БРАТАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=57cb8009-11b7-4b09-bdfc-3299e4bd1183",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6fce3617a09268545ddc3a8034a27aca419b4a56ae006eca7f8d20ed4c5f0ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
