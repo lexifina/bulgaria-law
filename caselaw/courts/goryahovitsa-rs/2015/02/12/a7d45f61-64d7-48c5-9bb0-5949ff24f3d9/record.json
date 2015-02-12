@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2015-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2366,
+  "case_year": 2013,
+  "judge_rapporteur": "ЦВЕТЕЛИНА СВИЛЕНОВА ЦОНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7d45f61-64d7-48c5-9bb0-5949ff24f3d9",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc716949808f4b7bb335a381bc97940fc5e3adcb018458095e63f23998b56554",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
