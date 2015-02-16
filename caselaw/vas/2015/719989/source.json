@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7167,
+  "case_year": 2014,
+  "decision_type": "Решение",
+  "decision_number": "1663",
+  "decision_date": "2015-02-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D719989%26code%3Dvas%26guid%3D1622257173",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=719989&code=vas&guid=1622257173",
+  "source_text_sha256": "b5bf32b16b8407e6ff207a762fc3c886bf65760adb72ce560779cb91177026f6",
+  "source_images": 0
+}
