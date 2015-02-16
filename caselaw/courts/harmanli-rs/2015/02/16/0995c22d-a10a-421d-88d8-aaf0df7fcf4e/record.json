@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2015-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 436,
+  "case_year": 2014,
+  "judge_rapporteur": "МИНКА ИВАНОВА КИТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0995c22d-a10a-421d-88d8-aaf0df7fcf4e",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9bc4d709a478cff98a6b733312cfbc84b5c88f616a91031b3a56e5eb6d5e289f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
