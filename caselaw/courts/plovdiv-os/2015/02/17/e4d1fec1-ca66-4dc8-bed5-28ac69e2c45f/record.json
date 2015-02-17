@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2206,
+  "case_year": 2014,
+  "judge_rapporteur": "КРЪСТИНА ЛЮБЕНОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d1fec1-ca66-4dc8-bed5-28ac69e2c45f",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90fb072aaf83db28080d6d23672611ab1332d8999da0678973bd954b9c4c10cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
