@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2015-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 94,
+  "case_year": 2013,
+  "judge_rapporteur": "СТЕФКА СТАЙКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4ad4a26b-5109-4fe5-ae03-b1fa0b9c8589",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28bc90e2bef5bd4b561d03ce9424cb1bc239a93ac00a34f47ab1addf5ef7e7a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
