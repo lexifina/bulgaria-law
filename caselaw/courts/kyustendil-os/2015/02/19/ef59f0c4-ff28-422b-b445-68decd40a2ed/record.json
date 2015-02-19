@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2015-02-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 141,
+  "case_year": 2013,
+  "judge_rapporteur": "МИЛЕНА БОГДАНОВА БОГДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef59f0c4-ff28-422b-b445-68decd40a2ed",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6fce3617a09268545ddc3a8034a27aca419b4a56ae006eca7f8d20ed4c5f0ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
