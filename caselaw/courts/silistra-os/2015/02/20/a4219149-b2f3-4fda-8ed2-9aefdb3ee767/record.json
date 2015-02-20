@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2015-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 46,
+  "case_year": 2015,
+  "judge_rapporteur": "АНЕЛИЯ ДИМИТРОВА ВЕЛИКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4219149-b2f3-4fda-8ed2-9aefdb3ee767",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fdafdb2bdb470f4786138ebd3d58869f01b38d134a966f26c6b2e0a51ad0424e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
