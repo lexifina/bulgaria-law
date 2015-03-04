@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2015-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 75,
+  "case_year": 2015,
+  "judge_rapporteur": "НИКОЛИНКА ГЕОРГИЕВА ДИМИТРОВА КЪНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4b71881-70d1-4179-a7ec-eafaebd802c0",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d1920d73315f1188813cc8ac924442a9add9910149db1552c113c3544fae7a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
