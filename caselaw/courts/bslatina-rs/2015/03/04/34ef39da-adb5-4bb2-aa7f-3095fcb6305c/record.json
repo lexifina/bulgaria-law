@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2015-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 141,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАЙЛО ПАРАСКЕВОВ ШАБАНСКИ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=34ef39da-adb5-4bb2-aa7f-3095fcb6305c",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d980da67084743a4bba8260cb199af8504cc19b1946e987c0c7b934bb0b0c949",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
