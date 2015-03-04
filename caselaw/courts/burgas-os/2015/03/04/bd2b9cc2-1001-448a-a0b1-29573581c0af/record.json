@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 230,
+  "case_year": 2015,
+  "judge_rapporteur": "ДАРИНА АНГЕЛОВА КОСТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bd2b9cc2-1001-448a-a0b1-29573581c0af",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d317a475f1d95e95658713d8dc4efd1860e09dd84e547b44aed305573c61d247",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
