@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2015-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 547,
+  "case_year": 2014,
+  "judge_rapporteur": "ГЕОРГИ КОЛЕВ ЧЕМШИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61056ad4-0760-4923-a4fb-94daa8d0eed0",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b27442babd564137deac179997bd4b8f4f785474ed3e5285599c7cd7c7dad1f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
