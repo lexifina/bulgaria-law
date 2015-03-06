@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 572,
+  "case_year": 2015,
+  "judge_rapporteur": "ДЕСИСЛАВА АНГЕЛОВА РАЛИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d764525-c556-46b4-89a1-6f35cbfc6601",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3d7bab4408d0b4d90bbce8faee9151f2008c74799b37e13afb08cfda22ef054",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
