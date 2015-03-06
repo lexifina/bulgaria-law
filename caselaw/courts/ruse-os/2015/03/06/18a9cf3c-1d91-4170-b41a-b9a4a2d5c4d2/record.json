@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2015-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 246,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТО ЛИЛЯНОВ ЛАЗАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18a9cf3c-1d91-4170-b41a-b9a4a2d5c4d2",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "169c2efc237bc3afc6e7ac76b1db6ef1f3d16a309098794a5feb592396138548",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
