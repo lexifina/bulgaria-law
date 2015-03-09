@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2015-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 107,
+  "case_year": 2015,
+  "judge_rapporteur": "СЕВДАЛИНА ВАСИЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f6b1f56-f051-489b-a15b-0116a1d1b337",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5497f426b99e97010861e7c347e227e550bcd0e101f135edfcabd3afc1dd9bcb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
