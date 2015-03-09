@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2015-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 99,
+  "case_year": 2015,
+  "judge_rapporteur": "КАТЯ ЦВЕТАНОВА МЛАДЕНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1716e02-859a-464e-9a9a-2f83a933d17d",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b721287ff904ba2938f4cd890a34ce5d4606556f972ab0cc75e762cd8141910d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
