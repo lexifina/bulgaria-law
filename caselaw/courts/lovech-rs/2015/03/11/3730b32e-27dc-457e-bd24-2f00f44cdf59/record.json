@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2015-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 225,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАЛЯ АНГЕЛОВА МАРИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3730b32e-27dc-457e-bd24-2f00f44cdf59",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a24f2ddbaa0dd1e7e8b26678291a780867bb9eec281f063b20cd25106461331a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
