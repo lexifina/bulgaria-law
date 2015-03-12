@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 6753,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТЛАНА БОЙКОВА МЕТОДИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=baa817fc-8d28-4bb3-bdaa-3366f0d26bd8",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64e97f77dc6d3b61e97bc276ddaf5f6a83b340fcf538c980eb4d9a81613e8e05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
