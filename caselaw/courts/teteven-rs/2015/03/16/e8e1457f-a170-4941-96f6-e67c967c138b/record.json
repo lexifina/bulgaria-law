@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2015-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 57,
+  "case_year": 2015,
+  "judge_rapporteur": "НАНКО СЪБОВ МАРИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8e1457f-a170-4941-96f6-e67c967c138b",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ae82d907bd6bf9601606864742a2f7c4ae40dca6b4173ee450271078b1cca4d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
