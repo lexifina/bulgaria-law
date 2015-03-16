@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 3,
+  "case_year": 2015,
+  "judge_rapporteur": "ВОЛЯ ПЕТРОВ КЪНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8afd7c9-d870-4724-a0a5-01e244aa1f11",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a647f36f6bb49ecb1861fa14f96c5f10e0c06d8f2a863526b034b810e189a08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
