@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2015-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 116,
+  "case_year": 2014,
+  "judge_rapporteur": "",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d5b97c2a-017a-4d49-adfa-b4c222c7fbf0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=24.01.2015&to=26.03.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "311e6cb06610a238cbf27263013c4f20dd9682eaf6bd4a08c870854c03b5f23e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
