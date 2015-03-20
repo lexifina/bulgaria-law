@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2015-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 56,
+  "case_year": 2014,
+  "judge_rapporteur": "СЕВДА ХРИСТОВА ДОЙНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5906d57-1acf-4399-842e-606c3b9abf72",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d1920d73315f1188813cc8ac924442a9add9910149db1552c113c3544fae7a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
