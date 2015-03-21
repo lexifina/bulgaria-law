@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2015-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 326,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b96a721d-7b7f-4267-b35c-571c28aa149e",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "960901a382a3409ce2e2386440395acdea0f76e7a264e9e558f979fae81f894d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
