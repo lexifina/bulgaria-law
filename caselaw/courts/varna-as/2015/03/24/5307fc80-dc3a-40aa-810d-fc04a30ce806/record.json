@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 10,
+  "case_year": 2015,
+  "judge_rapporteur": "ПАВЛИНА ГЕОРГИЕВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5307fc80-dc3a-40aa-810d-fc04a30ce806",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "227830561729892e33482292faf77238c1d573c6ee27d9d92ed42bbaf181eafc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
