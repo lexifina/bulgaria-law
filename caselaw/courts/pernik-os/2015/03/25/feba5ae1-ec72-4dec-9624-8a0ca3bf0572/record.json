@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 273,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАНКА СТОИМЕНОВА ШКОДРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=feba5ae1-ec72-4dec-9624-8a0ca3bf0572",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "385195ea1728c1d43e187463cd16383f57b1a77211bc7f94eef76cddbf100edc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
