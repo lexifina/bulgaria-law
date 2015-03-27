@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 212,
+  "case_year": 2015,
+  "judge_rapporteur": "БОРИСЛАВ АЛЕКСАНДРОВ ИЛИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17b653ff-41e9-4dd4-bfe6-37abd44531a8",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "517d71ccabdc907fadfdc24b38bd48daba2f8a5a96f0e0451f9a3497fdc9ecc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
