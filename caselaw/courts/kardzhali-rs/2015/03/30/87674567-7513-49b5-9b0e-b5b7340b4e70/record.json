@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2015-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 230,
+  "case_year": 2015,
+  "judge_rapporteur": "ВЕРГИНИЯ СЪБЕВА ЕЛАНЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87674567-7513-49b5-9b0e-b5b7340b4e70",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab907204033a969f99b4891859f933b77e2e61f3461554b0ab358c461c1e6784",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
