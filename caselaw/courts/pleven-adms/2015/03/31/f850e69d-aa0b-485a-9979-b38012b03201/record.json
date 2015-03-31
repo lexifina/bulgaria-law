@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2015-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 962,
+  "case_year": 2014,
+  "judge_rapporteur": "ПОЛИНА ХРИСТОВА БОГДАНОВА КУЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f850e69d-aa0b-485a-9979-b38012b03201",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e44627131c9ff5cf29f2966170dad3ab1f6e63b19ba899713a581626a1042bc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
