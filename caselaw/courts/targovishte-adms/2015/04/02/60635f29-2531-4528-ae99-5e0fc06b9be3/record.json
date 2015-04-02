@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2015-04-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно административно дело",
+  "case_number": 50,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАНКА ПЕНЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60635f29-2531-4528-ae99-5e0fc06b9be3",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "751b40cda591fd36b227399c49c3fb716f6c22e47a89d872053bffe14b6bf89f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
