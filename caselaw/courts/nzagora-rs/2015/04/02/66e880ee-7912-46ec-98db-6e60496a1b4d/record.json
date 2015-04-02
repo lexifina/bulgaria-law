@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2015-04-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 101,
+  "case_year": 2015,
+  "judge_rapporteur": "РОСИЦА СТОЯНОВА НЕНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66e880ee-7912-46ec-98db-6e60496a1b4d",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b77d699a410306f75da29a06dedb5ce732d0cd9a0c27c911a8cef69992fc749",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
