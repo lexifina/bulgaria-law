@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2015-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 69,
+  "case_year": 2015,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9de8a068-f585-499b-852e-1503b5dbc063",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2c596273ce4bca25da73757428b35392833e9cfd3da13eed43a6dd5e701a987d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
