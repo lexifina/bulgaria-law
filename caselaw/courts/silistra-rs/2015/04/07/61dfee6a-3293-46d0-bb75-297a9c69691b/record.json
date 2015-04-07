@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2015-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1322,
+  "case_year": 2014,
+  "judge_rapporteur": "ЛЮБА СТОЯНОВА СТОИЛКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61dfee6a-3293-46d0-bb75-297a9c69691b",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcb79fbca5d9beb40e82f07934a2c5eeb4d78639f8742747a0a23af3704d9995",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
