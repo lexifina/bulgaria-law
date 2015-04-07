@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2015-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 42,
+  "case_year": 2013,
+  "judge_rapporteur": "ТОДОР ХАДЖИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=97e6b812-ad88-419c-8695-e004ee4b2423",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fcbb139a7b7a928c75af7369b53d926899fc2df79afff2488c710dcbb4fa2973",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
