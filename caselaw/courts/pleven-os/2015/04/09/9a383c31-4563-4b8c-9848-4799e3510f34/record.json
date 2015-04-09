@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2015-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 998,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАН НАЙДЕНОВ РАДКОВСКИ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9a383c31-4563-4b8c-9848-4799e3510f34",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b14f2b07bcdd569f5871adb51bcd7531cacbcbd59c133e6bf6a069dbbb37af36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
