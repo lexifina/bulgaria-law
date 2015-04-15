@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2015-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 221,
+  "case_year": 2014,
+  "judge_rapporteur": "АНДРЕЙ ГЕОРГИЕВ АНДРЕЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc8ce120-6494-469d-b872-8f3626cae561",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18c2437bdd05c3c74f045d093fd4aba6fb89db25c96ab56ae34410aa707f0b8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
