@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2015-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2,
+  "case_year": 2015,
+  "judge_rapporteur": "ТАТЯНА ГЕОРГИЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d770bd3-1330-47e3-9e07-03a38e8b7a8a",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c4474ab4f81602b5fd94152962970df955ecc2bfb8ec1b7af399dd2bb0166991",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
