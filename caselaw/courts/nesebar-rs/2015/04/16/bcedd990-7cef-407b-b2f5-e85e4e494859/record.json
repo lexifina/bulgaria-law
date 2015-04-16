@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2015-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 748,
+  "case_year": 2014,
+  "judge_rapporteur": "ПЕТЪР СЛАВОВ ПЕТРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bcedd990-7cef-407b-b2f5-e85e4e494859",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "960901a382a3409ce2e2386440395acdea0f76e7a264e9e558f979fae81f894d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
