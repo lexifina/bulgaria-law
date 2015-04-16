@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 89,
+  "case_year": 2014,
+  "judge_rapporteur": "ГЕОРГИ ПАНЕВ ГЕОРГИЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4f1829a4-5189-4d36-bd98-7398e84a5266",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a647f36f6bb49ecb1861fa14f96c5f10e0c06d8f2a863526b034b810e189a08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
