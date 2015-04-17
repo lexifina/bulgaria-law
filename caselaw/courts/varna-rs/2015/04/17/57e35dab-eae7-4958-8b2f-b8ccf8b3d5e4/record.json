@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9931,
+  "case_year": 2014,
+  "judge_rapporteur": "ДАНИЕЛА ДУШКОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=57e35dab-eae7-4958-8b2f-b8ccf8b3d5e4",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4d5359e808c5959d2f64d6b15d6c50bfa0900e6fc3da1c214736ef7a2e9f806",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
