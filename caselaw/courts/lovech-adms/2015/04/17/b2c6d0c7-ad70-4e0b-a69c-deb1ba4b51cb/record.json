@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2015-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 77,
+  "case_year": 2015,
+  "judge_rapporteur": "ДИАНКА ДЕНЕВА ДАБКОВА ПАНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2c6d0c7-ad70-4e0b-a69c-deb1ba4b51cb",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e1cda150f7cf6eee174811dee253820a297f5e24b9a86d88fa7dbb199c2dcfbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
