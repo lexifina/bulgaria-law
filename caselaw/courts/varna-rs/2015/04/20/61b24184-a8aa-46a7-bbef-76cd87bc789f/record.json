@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11929,
+  "case_year": 2014,
+  "judge_rapporteur": "ДЕНИЦА ДИМИТРОВА СЛАВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61b24184-a8aa-46a7-bbef-76cd87bc789f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4d5359e808c5959d2f64d6b15d6c50bfa0900e6fc3da1c214736ef7a2e9f806",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
