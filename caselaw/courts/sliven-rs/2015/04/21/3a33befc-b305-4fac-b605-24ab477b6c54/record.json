@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5755,
+  "case_year": 2011,
+  "judge_rapporteur": "МИНЧО СТОЯНОВ МИНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a33befc-b305-4fac-b605-24ab477b6c54",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e0b21dbd930e8962ff64feef43574271283da0b9092a69a17ee1d76e57b7fad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
