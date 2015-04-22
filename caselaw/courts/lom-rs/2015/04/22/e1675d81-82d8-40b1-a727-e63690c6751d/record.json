@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2015-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 897,
+  "case_year": 2014,
+  "judge_rapporteur": "АЛБЕНА ГЕОРГИЕВА МИРОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1675d81-82d8-40b1-a727-e63690c6751d",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b721287ff904ba2938f4cd890a34ce5d4606556f972ab0cc75e762cd8141910d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
