@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2015-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 26,
+  "case_year": 2015,
+  "judge_rapporteur": "ТАНЯ ПЕТРОВА КИРКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2544b3ca-4631-4c6e-a1af-5fcea37df499",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=24.01.2015&to=25.04.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "379cfca11279892cae20dc00d65268681841d3b16d696d75e8af9e56e18d3e7b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
