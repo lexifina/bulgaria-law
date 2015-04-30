@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2015-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 40,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ ПЕТРОВА АЛЕКСАНДРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=085cd03d-5d0d-49a0-9b5c-e777c3846fbd",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "776bd642560ee4985d0d6871ee8e840ba79f652bc7383e482770295ff5051352",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
