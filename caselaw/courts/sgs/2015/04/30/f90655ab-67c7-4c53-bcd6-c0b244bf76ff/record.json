@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1442,
+  "case_year": 2010,
+  "judge_rapporteur": "ПЛАМЕН АНГЕЛОВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f90655ab-67c7-4c53-bcd6-c0b244bf76ff",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=26.04.2015&to=10.06.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3be65756179bb1a6d52694ed7b1cee6016febdf557258f870ccea98e8adcc9b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
