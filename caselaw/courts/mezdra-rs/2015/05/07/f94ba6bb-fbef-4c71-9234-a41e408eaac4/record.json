@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2015-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 780,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАНКА НИКОЛОВА КОЖУХАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f94ba6bb-fbef-4c71-9234-a41e408eaac4",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f7f05094897030144ff7d22f31881cf64e8a37a5f13099f4b9ed5bb39d251b72",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
