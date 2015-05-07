@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2015-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 183,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАН ЛАТИНОВ МАРИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab02b858-2f9c-49e9-b335-71c738d1ea94",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a7d98c522c5f18ea01f3b72f2d2d0c33352f114138387f27b2f4ee4335dce035",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
