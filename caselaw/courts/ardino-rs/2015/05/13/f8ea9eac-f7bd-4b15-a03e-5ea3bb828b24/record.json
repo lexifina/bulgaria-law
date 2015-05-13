@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ардино",
+  "jurisdiction": "BG",
+  "date": "2015-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 36,
+  "case_year": 2015,
+  "judge_rapporteur": "ВАЛЕНТИН ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8ea9eac-f7bd-4b15-a03e-5ea3bb828b24",
+  "motives_file": null,
+  "source": "https://ardino-rs.justice.bg/bg/4775?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f1c6ac840c06c5499a94126f6bd34cc8655f3317c79ed698c1808dd313e2e0f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
