@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2015-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 122,
+  "case_year": 2015,
+  "judge_rapporteur": "СТЕЛА ДЯНКОВА БЪЧВАРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dad22e3-b06a-47ad-9cca-bd0f07f7d013",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a5ab4402a457ffd165b3a6faffa6ef8bbaa7c3dab948f51df8d7fe6c4278888",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
