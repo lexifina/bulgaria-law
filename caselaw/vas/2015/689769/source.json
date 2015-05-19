@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 14023,
+  "case_year": 2013,
+  "decision_type": "Решение",
+  "decision_number": "5680",
+  "decision_date": "2015-05-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D689769%26code%3Dvas%26guid%3D1599444893",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=689769&code=vas&guid=1599444893",
+  "source_text_sha256": "f19437d1d446ef9b6faa3dd5396472d2d8b7d4b360e1b2aef70a6076c8f8fc1b",
+  "source_images": 0
+}
