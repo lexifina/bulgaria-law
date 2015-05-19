@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2015-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 111,
+  "case_year": 2015,
+  "judge_rapporteur": "",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f4c15844-0b53-49ca-9286-166bfe6c4f11",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=27.03.2015&to=27.05.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73b776171f4d69c89bcbbf464fa8c88b978be1b45ffe8afa0bc4167d01970357",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
