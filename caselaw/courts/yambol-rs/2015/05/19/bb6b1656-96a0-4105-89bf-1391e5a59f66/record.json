@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2015-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 859,
+  "case_year": 2015,
+  "judge_rapporteur": "АТАНАС ДИМОВ АТАНАСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb6b1656-96a0-4105-89bf-1391e5a59f66",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4cf49ecff71dcbedc4217908023a252af6fd11473e557a1c9c3e2993dfc77751",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
