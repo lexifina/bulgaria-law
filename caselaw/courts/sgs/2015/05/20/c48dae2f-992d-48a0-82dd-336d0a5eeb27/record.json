@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3565,
+  "case_year": 2014,
+  "judge_rapporteur": "ВЕЛИЧКА АСЕНОВА ЦАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c48dae2f-992d-48a0-82dd-336d0a5eeb27",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=26.04.2015&to=10.06.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3be65756179bb1a6d52694ed7b1cee6016febdf557258f870ccea98e8adcc9b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
