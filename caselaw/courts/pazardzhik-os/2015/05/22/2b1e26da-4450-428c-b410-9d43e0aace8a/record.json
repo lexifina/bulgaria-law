@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 17,
+  "case_year": 2013,
+  "judge_rapporteur": "КАТЯ СТ ПЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2b1e26da-4450-428c-b410-9d43e0aace8a",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "639c2140daaf6afde70d83455c93dfc0f95b33c59a4516412684336bf82743a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
