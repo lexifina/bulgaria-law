@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3241,
+  "case_year": 2014,
+  "judge_rapporteur": "СИЛВИЯ ДИМИТРОВА ОБРЕШКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c0dec5c-7388-443c-bbf5-5149426ac047",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91a8514842ecee6fec3dcfe1dcaa4fbeb0e526387d7748a77ab1263701ede691",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
