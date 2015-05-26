@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 746,
+  "case_year": 2011,
+  "judge_rapporteur": "ДАНИЕЛА ДИНЕВА ДРАГНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=395593ac-e897-4a5f-9d1f-418e4c965b96",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f82c40c02c62c7b3a78e8636c7ede2a1a358f619c71cccaf3b780fe2d299bf05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
