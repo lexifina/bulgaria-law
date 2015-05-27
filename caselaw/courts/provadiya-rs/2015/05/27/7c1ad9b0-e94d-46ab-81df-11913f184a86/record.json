@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2015-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 880,
+  "case_year": 2014,
+  "judge_rapporteur": "ТОНКА МИРОСЛАВОВА СЛАВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c1ad9b0-e94d-46ab-81df-11913f184a86",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0cf6a71eb11a002ffc1f0488659a406d96064e8659937749e99dcb61d2473b0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
