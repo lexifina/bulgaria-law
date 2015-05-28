@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2015-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 994,
+  "case_year": 2012,
+  "judge_rapporteur": "СВЕТОСЛАВ НЕДЕЛЧЕВ ТОДОРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3ff70c4-4c13-499d-87b9-6ccc8c0790e3",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0cf6a71eb11a002ffc1f0488659a406d96064e8659937749e99dcb61d2473b0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
