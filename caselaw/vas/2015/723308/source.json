@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 8270,
+  "case_year": 2014,
+  "decision_type": "Решение",
+  "decision_number": "6693",
+  "decision_date": "2015-06-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D723308%26code%3Dvas%26guid%3D1622349469",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=723308&code=vas&guid=1622349469",
+  "source_text_sha256": "14bdaffbca8f36b787897a92e8c291341927a2626900c6220bab29835b8d3afd",
+  "source_images": 0
+}
