@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2015-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 491,
+  "case_year": 2013,
+  "judge_rapporteur": "ДАНИЕЛА ЙОРДАНОВА ИГНАТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce21039b-7653-4807-9c3b-d973e0c6b9f6",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "973dd22943ae126b1acdc55459938619bfcad41a255603cabc2ee1778deb1db9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
