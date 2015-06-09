@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2015-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 49,
+  "case_year": 2008,
+  "judge_rapporteur": "Маргарита Коцева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59e8a4ed-9113-4f81-b4e9-5398d7ed75ec",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=28.05.2015&to=28.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36101c764ba4bc04d5d819d64d8c256c28828212ea8b225b061077423a07f9b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
