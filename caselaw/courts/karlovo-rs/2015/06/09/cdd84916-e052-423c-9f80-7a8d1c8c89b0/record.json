@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2015-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1412,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА ЛИЧЕВА-ГУРГОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdd84916-e052-423c-9f80-7a8d1c8c89b0",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6bc52172acb9430984f12f19daa2a22ce069563f0d9376b30b226eaa0f59d1f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
