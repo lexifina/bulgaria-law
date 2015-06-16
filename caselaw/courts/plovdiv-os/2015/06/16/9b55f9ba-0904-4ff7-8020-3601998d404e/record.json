@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-06-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 996,
+  "case_year": 2014,
+  "judge_rapporteur": "АННА ИВАНОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b55f9ba-0904-4ff7-8020-3601998d404e",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c31ce72f9e53b840c2a52ccceb3c7365f1e6b7d8525a2b34304815f0831b0dd7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
