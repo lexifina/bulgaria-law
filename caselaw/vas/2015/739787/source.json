@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13875,
+  "case_year": 2014,
+  "decision_type": "Решение",
+  "decision_number": "7278",
+  "decision_date": "2015-06-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D739787%26code%3Dvas%26guid%3D1623456478",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=739787&code=vas&guid=1623456478",
+  "source_text_sha256": "31f3d47f120f8c834bd4dd1dcfe6977423bdb06d57ac8466f82515335306caa0",
+  "source_images": 0
+}
