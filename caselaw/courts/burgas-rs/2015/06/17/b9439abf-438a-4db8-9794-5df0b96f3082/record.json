@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2544,
+  "case_year": 2015,
+  "judge_rapporteur": "СВЕТЛАНА НИКОЛАЕВА ЯНЕВА РАЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9439abf-438a-4db8-9794-5df0b96f3082",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6af428abc2ee27e93652e20ec1b40692bfcbd5cb156ee45a5fdbdba712f84f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
