@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2015-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 876,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ НИКОЛАЕВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=add192bd-683f-4895-9347-5f0240e81eab",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "915aafdf520a60b89704128725224d48593c255396a26aa21f1e7085bb9d7121",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
