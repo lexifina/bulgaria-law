@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 134,
+  "case_year": 2015,
+  "judge_rapporteur": "СТОЙКО ДРАГАНОВ СПАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3ee4924c-7f8b-412e-b569-1148993209d0",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89ee6bfe262b0e97918375f60d038a10f09acab057cb5178913523d19edc5fe9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
