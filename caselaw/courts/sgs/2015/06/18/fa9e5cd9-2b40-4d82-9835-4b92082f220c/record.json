@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 1321,
+  "case_year": 2015,
+  "judge_rapporteur": "ВЛАДИСЛАВА ВЕЛИЧКОВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa9e5cd9-2b40-4d82-9835-4b92082f220c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.06.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b1933c7b2a5446b331a588e922f69395ff3d1e4164ff6b534148436319624e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
