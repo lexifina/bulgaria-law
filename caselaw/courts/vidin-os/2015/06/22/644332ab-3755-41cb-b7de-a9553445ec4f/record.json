@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2015-06-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 443,
+  "case_year": 2014,
+  "judge_rapporteur": "СВЕТЛА ЖЕЛЯЗКОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=644332ab-3755-41cb-b7de-a9553445ec4f",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "de498562f4f6c4494116c8b576980680568041219b3b7feac9483e935ec358fe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
