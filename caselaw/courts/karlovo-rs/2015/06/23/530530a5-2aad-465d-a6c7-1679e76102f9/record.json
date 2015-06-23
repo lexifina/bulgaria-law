@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2015-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1414,
+  "case_year": 2014,
+  "judge_rapporteur": "ДАРИНА ИЛИЕВА ПОПОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=530530a5-2aad-465d-a6c7-1679e76102f9",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6bc52172acb9430984f12f19daa2a22ce069563f0d9376b30b226eaa0f59d1f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
