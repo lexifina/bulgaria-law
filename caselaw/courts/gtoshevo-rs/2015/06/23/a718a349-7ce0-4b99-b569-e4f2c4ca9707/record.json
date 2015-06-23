@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2015-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 159,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЕТЪР АТАНАСОВ ПЕТРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a718a349-7ce0-4b99-b569-e4f2c4ca9707",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3a337ee133ba10c5cb236168cc5c486d7665469182728f81a7142a5649ac4f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
