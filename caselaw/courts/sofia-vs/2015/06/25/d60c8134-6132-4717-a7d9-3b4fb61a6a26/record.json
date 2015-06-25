@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2015-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 177,
+  "case_year": 2015,
+  "judge_rapporteur": "МАДЛЕН ГЕОРГИЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d60c8134-6132-4717-a7d9-3b4fb61a6a26",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "281672c669d63962dd6c1b9b810406c1b16d0a7190deff12a9cac449f8b4aecc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
