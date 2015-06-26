@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 451,
+  "case_year": 2015,
+  "judge_rapporteur": "АЛБЕНА ГЕОРГИЕВА ПАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=88dd38de-63c9-40e7-90e0-e232835a9392",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "639c2140daaf6afde70d83455c93dfc0f95b33c59a4516412684336bf82743a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
