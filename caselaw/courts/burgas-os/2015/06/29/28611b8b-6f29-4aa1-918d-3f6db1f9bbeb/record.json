@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1102,
+  "case_year": 2015,
+  "judge_rapporteur": "РОСЕН ДИМИТРОВ ПАРАШКЕВОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28611b8b-6f29-4aa1-918d-3f6db1f9bbeb",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0670419b73a6054ee3d7332cf677b839d83f0da29a41ce7348d07b2b269c87ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
