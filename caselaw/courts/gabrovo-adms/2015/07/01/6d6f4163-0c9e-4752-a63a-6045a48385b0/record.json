@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2015-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 63,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАН НИКИФОРОВ ЦОНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d6f4163-0c9e-4752-a63a-6045a48385b0",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a944f8b1cc3f7c6120a16322f347f06b915784570554c3b1c9f63b33f56d8b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
