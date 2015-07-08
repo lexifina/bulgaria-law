@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2015-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70207,
+  "case_year": 2015,
+  "judge_rapporteur": "КАЛИН ТРИФОНОВ ТОДОРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d397593d-75f6-4191-a1de-bf28585647ec",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c1f4f77095d8b6d6894a063485b8fa838f3865ad3937a5e854b97acf926d060d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
