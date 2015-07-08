@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2015-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 77,
+  "case_year": 2015,
+  "judge_rapporteur": "ДИМИТРИНКА ЕМИЛОВА КУПРИНДЖИЙСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=be513114-a761-46e5-8b27-ed6d4513f647",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a689ec58414e5ccea905d54b957ebf87a31213b803aba31c3b47d2d361409d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
