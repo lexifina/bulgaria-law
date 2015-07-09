@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-07-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1150,
+  "case_year": 2002,
+  "judge_rapporteur": "БОГДАНА НИКОЛОВА ЖЕЛЯВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=76f9dfe7-c180-4b43-a878-95ce1a4abf5c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.06.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b1933c7b2a5446b331a588e922f69395ff3d1e4164ff6b534148436319624e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
