@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2015-07-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 331,
+  "case_year": 2014,
+  "judge_rapporteur": "МИЛЕНА ЙОРДАНОВА АЛЕКСОВА СТОИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c50cdff1-d6d4-4402-98ba-e5f5f349ffad",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "61ecc3d53e07c8ce342544f8383b6dcc3892ccb4eea49ae3549b9188f6d0821f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
