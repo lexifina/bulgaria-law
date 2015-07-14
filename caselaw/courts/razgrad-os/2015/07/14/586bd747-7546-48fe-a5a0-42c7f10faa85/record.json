@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2015-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 478,
+  "case_year": 2005,
+  "judge_rapporteur": "ЕМИЛ ДИМИТРОВ СТОЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=586bd747-7546-48fe-a5a0-42c7f10faa85",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "605baccf231cbe4517bca56cede43e932e706e9e1a91c33e386b42969a985c92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
