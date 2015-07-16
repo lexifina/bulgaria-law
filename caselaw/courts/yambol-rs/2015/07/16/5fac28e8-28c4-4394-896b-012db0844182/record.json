@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2015-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 669,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЕТРАНКА ПАНАЙОТОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5fac28e8-28c4-4394-896b-012db0844182",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4cf49ecff71dcbedc4217908023a252af6fd11473e557a1c9c3e2993dfc77751",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
