@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2015-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 34,
+  "case_year": 2015,
+  "judge_rapporteur": "ЮЛИЯ СИМПЛИЧЕВА ДАНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3bba2340-1a8e-413a-bc7c-8049d6fed183",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5b35d0f4be5ccfc52addbefe9ba29a823f4368ca058368cd14aa85b4531fac4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
