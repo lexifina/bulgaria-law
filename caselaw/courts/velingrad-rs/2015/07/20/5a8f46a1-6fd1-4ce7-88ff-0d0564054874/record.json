@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2015-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 261,
+  "case_year": 2015,
+  "judge_rapporteur": "ВЕСЕЛИН АНГЕЛОВ ПЕТРИЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a8f46a1-6fd1-4ce7-88ff-0d0564054874",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b263cc943d96452806d040611b797b65da737b391434c0b299a33eee5f6bca1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
