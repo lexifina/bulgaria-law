@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2015-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 46,
+  "case_year": 2015,
+  "judge_rapporteur": "ЮЛИТА НИКОЛОВА ГЕОРГИЕВА ТРИФОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9b37761-b7d8-4830-96bf-54f73fb77a5c",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3d0f8d81ffa1204bc5d84808f26e1a2c2facc215d02b50e9c5ecc6ae9864098",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
