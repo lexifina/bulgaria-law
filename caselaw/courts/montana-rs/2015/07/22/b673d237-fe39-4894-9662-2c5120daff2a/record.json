@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2015-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 30115,
+  "case_year": 2015,
+  "judge_rapporteur": "ЗОЯ ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b673d237-fe39-4894-9662-2c5120daff2a",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c1f4f77095d8b6d6894a063485b8fa838f3865ad3937a5e854b97acf926d060d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
