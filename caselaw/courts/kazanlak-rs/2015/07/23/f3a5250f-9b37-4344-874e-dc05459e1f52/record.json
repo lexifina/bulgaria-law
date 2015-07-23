@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2015-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1616,
+  "case_year": 2015,
+  "judge_rapporteur": "ВАНЯ ЖЕЛЯЗКОВА ТЕНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3a5250f-9b37-4344-874e-dc05459e1f52",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68511e3f73b6391ae074a878fbe0785a0e9a1cc995dcf05471efe6d0b6fe74ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
