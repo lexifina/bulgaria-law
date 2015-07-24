@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2015-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 650,
+  "case_year": 2015,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b39e4dc-96f8-4bdb-b244-88c5636c6573",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=26.04.2015&to=26.07.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2f2b21473b20d869763fe237368a6e0d899c5ce86892ce998250b48fdfaef0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
