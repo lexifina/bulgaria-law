@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2015-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2199,
+  "case_year": 2015,
+  "judge_rapporteur": "НИКОЛАЙ МИНЧЕВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=24dc5b61-3bf4-4832-8fbe-75143b4aff1a",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73bbb6efb833709ee1b0c4a314383c053d85210a18f8f867073dbb73b088b38f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
