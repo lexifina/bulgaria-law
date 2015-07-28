@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2015-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 68,
+  "case_year": 2014,
+  "judge_rapporteur": "ГАБРИЕЛ ПЕТКОВ ЙОНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc5276e8-070b-4d40-8445-52182e5f215d",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb0e7fbe14100e028d553b9f5365abcd5e040301ca434f6ffe58673cb3ff3bb9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
