@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2015-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 311,
+  "case_year": 2013,
+  "judge_rapporteur": "ИНА ГЕОРГИЕВА РАЙЧЕВА ЦОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d29bf3b-7418-4843-92bb-923dc519a47f",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b84117d97c4aff35f79aa5fa03d1866de4513994cbaff9b241cf04d02645b882",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
