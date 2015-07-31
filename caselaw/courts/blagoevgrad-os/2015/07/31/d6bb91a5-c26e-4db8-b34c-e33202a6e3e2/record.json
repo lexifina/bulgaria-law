@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2015-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 349,
+  "case_year": 2013,
+  "judge_rapporteur": "Лилия Масева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6bb91a5-c26e-4db8-b34c-e33202a6e3e2",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=29.07.2015&to=28.09.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79c6e872a0c0c3678ee520670d84820601693fba6b7b1fd50c22e3901bd2a44f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
