@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2015-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 475,
+  "case_year": 2015,
+  "judge_rapporteur": "ДИАНА КРУМОВА РАДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2734c394-a457-4b64-ae88-decfed943edc",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "caf0337805fbf1d6186f4f68676bd9f029157234a6b0061de2c48538e81d3a70",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
