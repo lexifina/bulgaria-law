@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2225,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВЕТА ЖИКОВА ПЕКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee64a6d1-e9d5-4eec-91ea-4806f260ddad",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c576b6a3768ffd662fd8ed5fe8e25abe850e12324a586e33241d80f80fcd2c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
