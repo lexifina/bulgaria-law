@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2015-08-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 23,
+  "case_year": 2009,
+  "judge_rapporteur": "НИКОЛАЙ СТАНКОВ МЕТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=96208de4-f3c8-409e-a310-a2680b713c24",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1abdb6fb56390ab4d41be73c23875ff2d92dc5001c5ce05564a2c36753cfd34f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
