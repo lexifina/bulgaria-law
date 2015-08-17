@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2015-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 802,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЛАМЕН МИТКОВ ДРАГАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f718255b-8451-4d30-a0c6-8939b01ecca3",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7fddd31a36ed2faadc9940477019632a5fd4290be921799b73a4875970fa8bdf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
