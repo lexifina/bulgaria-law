@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2015-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 297,
+  "case_year": 2015,
+  "judge_rapporteur": "ДИМЧО СТОЯНОВ ЛУКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ecbedc57-2180-43ae-818c-d98d77bc4116",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d28dc972fb9a0f92cd642108d61fb685a48217aa7fcecc83fdd0dfcb63306f9d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
