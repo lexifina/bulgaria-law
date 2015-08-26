@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2015-08-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 285,
+  "case_year": 2015,
+  "judge_rapporteur": "НАСЯ ИВАНОВА ЯПАДЖИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8493efad-c0cb-421d-9e97-57e85d4a8d69",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "885a74a46e12ad58af408af649faeab971bf83209920404db35ceaa5b7b15ccd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
