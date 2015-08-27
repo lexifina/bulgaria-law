@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-08-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 40,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТИНА ЗАХАРИЕВА МАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3472f49-54be-410a-8f80-df1d2c1cf69e",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9b71e05f07cd40bc942c4e939b2a25b2109f3d6d30c50029ba37cbfbde33739c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
