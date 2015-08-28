@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-08-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1402,
+  "case_year": 2015,
+  "judge_rapporteur": "ЯНКО НОВАКОВ НОВАКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0207f7d7-0d40-495c-9fef-c9eda65b2e65",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c1d905b569b0f855ff0e0fa631abc4590178f938b1a8c5a4854784f1f23043e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
