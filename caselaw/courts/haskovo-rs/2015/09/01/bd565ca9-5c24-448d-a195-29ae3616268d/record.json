@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2015-09-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 1366,
+  "case_year": 2015,
+  "judge_rapporteur": "НЕЛИ ДЕЛЧЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bd565ca9-5c24-448d-a195-29ae3616268d",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b540d7693eafd89a7c2093054bbc9115132711b8ce32e3f0d3238fee92ad5e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
