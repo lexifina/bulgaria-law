@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2057,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИАНА МИХАЙЛОВА МИХАЙЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5eacad76-4bf7-4238-8bf7-7d3dc50331a0",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1aee2a6ae377b469f06571597681cac80a2943fc2edca9a9ed5ddf599b0707e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
