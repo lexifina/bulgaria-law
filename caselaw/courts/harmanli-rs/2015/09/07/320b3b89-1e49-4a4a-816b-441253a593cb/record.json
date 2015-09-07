@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2015-09-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 303,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=320b3b89-1e49-4a4a-816b-441253a593cb",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "630fd31d2ac40803937d3932c608834d6efab6b2cbc53728399aedc9c81f41fa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
