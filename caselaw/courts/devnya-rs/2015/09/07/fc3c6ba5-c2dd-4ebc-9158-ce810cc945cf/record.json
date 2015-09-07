@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2015-09-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 241,
+  "case_year": 2015,
+  "judge_rapporteur": "ДАНИЕЛА ХРИСТОВА ВЪЛЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc3c6ba5-c2dd-4ebc-9158-ce810cc945cf",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0eb2d1332b9cd2cd0f817803f412446e3937af4718d115b175ea30b108f45c23",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
