@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2015-09-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1168,
+  "case_year": 2015,
+  "judge_rapporteur": "БОРЯНА СТОЙЧЕВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f626c9c7-e76b-4c30-a9bb-407384454a3c",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7fddd31a36ed2faadc9940477019632a5fd4290be921799b73a4875970fa8bdf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
