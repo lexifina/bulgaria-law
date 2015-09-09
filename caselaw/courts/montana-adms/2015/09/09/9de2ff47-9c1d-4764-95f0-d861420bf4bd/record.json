@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2015-09-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 375,
+  "case_year": 2015,
+  "judge_rapporteur": "БИСЕРКА ЛЮБЕНОВА БОЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9de2ff47-9c1d-4764-95f0-d861420bf4bd",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8bc96cd11d9d5f68ccc576f880cf23e3d32287c3dfa6fa93da991168505f3aac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
