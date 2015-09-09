@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2015-09-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 949,
+  "case_year": 1997,
+  "judge_rapporteur": "ПОЛИНА ПЕНКОВА ПЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3a2f064-d85f-451e-a07d-2851f18da10f",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e906d12fedc3dd356bf44b9c9dad3fa92e412ba642318f2a784cf84398b0146c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
