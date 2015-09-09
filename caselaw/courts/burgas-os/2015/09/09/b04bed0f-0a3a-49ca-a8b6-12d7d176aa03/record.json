@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-09-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 251,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЛАМЕН АНГЕЛОВ СИНКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b04bed0f-0a3a-49ca-a8b6-12d7d176aa03",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c1d905b569b0f855ff0e0fa631abc4590178f938b1a8c5a4854784f1f23043e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
