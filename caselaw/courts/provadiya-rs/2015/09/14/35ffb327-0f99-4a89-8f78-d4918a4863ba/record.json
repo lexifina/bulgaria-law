@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2015-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 243,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВО ВЪТЕВ ВЪТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35ffb327-0f99-4a89-8f78-d4918a4863ba",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "901ec5fbe0279206174a9446767d7f0d5f480f2dbf536a133b4c5a8d67473f74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
