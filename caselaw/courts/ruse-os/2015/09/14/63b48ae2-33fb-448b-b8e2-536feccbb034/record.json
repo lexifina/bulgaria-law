@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2015-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно административно наказателно дело",
+  "case_number": 480,
+  "case_year": 2015,
+  "judge_rapporteur": "АЛЕКСАНДЪР СТОЯНОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63b48ae2-33fb-448b-b8e2-536feccbb034",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3aa921cc429f59c1dc47b61769fbc0a32d01906789d95fd2a0393039922ca849",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
