@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2015-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 169,
+  "case_year": 2015,
+  "judge_rapporteur": "РОМАН ТОДОРОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e1e313a-f406-48d2-8f45-ba8e9b2da397",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ae1cbece4bc929a3b07b383aa495b20cc260588bf37c623f1562ae2fa0b6b66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
