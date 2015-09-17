@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 208,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ БОНЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dade573-9f62-49c7-a57d-a96256e0df49",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8c5cedab00c5bf569b8ce383015e3a5bf5e85e36ceceac25d12ea4510faede66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
