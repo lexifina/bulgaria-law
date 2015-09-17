@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2015-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 139,
+  "case_year": 2015,
+  "judge_rapporteur": "СТЕЛА АЛЕКСАНДРОВА ДИНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccec0a9c-bf5d-4cc7-802f-98dc792e52a3",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "589e5551681518b92ec67a62a4ac66c36d239019c91ae94a660009d3dc0ff855",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
