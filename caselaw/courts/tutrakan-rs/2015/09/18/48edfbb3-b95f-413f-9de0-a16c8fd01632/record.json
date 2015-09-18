@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2015-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 123,
+  "case_year": 2015,
+  "judge_rapporteur": "СПАС МАРИНОВ СТЕФАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48edfbb3-b95f-413f-9de0-a16c8fd01632",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6208f67c3b985bc97a4e223208370cd1e223e6199290b1c8416b78ae819aeefd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
