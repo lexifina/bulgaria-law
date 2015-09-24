@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2015-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 251,
+  "case_year": 2015,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d155232d-a440-4b02-b4df-e40fe85b6f0f",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5e254d32c80c459ee2f86ce57d13fb8195fac061e34584ed4da53777c911d8ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
