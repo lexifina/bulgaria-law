@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2015-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 70352,
+  "case_year": 2015,
+  "judge_rapporteur": "КАЛИН ТРИФОНОВ ТОДОРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3995cb0d-b48e-49c7-abd0-392f5a04388f",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cdb2404445152708bd491eb7f6d4ffb4f8e990384711db9a25df15af9b666903",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
