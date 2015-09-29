@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2015-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 205,
+  "case_year": 2015,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2cabb77-a9c1-402f-acde-c58fbd59a34c",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a58c74fedff8ba3e3deff07b89c2c9484feedf84f4cef418adf073e30df4f27d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
