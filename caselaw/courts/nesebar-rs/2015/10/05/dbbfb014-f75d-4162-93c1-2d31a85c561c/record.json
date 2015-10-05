@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2015-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1132,
+  "case_year": 2012,
+  "judge_rapporteur": "ВАЛЕРИ ВЛАДИМИРОВ СЪБЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dbbfb014-f75d-4162-93c1-2d31a85c561c",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5fe141cc7b1698690797ab5b27b0e99a435a5d3dc0bed32d03c5bca9531f5971",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
