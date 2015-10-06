@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 393,
+  "case_year": 2015,
+  "judge_rapporteur": "КОСТА СТОЯНОВ СТОЯНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e571579e-790b-44d6-892c-33388d9e2f14",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc28849edcef00eff5bddfda8febe635bd749e171e6e706ce65972282ad0f670",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
