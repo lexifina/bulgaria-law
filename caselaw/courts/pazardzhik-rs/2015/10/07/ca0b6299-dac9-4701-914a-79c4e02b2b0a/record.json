@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2015-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1167,
+  "case_year": 2014,
+  "judge_rapporteur": "СТЕЛА ЙОРДАНОВА МИХАЙЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca0b6299-dac9-4701-914a-79c4e02b2b0a",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e8ae574dc15141479edbaa05ec2e7ef4782b71d1939560e0da017e25fcd049b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
