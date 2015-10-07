@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5031,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "10329",
+  "decision_date": "2015-10-07",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D760378%26code%3Dvas%26guid%3D1625955048",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=760378&code=vas&guid=1625955048",
+  "source_text_sha256": "1a76318d491dd68c75957f1719b3f95b411d6e92b8ea2f26c707822c07468ccc",
+  "source_images": 0
+}
