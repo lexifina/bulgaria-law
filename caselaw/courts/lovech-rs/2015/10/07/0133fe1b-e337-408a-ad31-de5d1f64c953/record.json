@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2015-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1587,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРИЯ ДИМОВА ШОЛЕКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0133fe1b-e337-408a-ad31-de5d1f64c953",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b03d445f7e0e09da71c7384cc5691246a4e99a09984a27d47f551483849cc91c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
