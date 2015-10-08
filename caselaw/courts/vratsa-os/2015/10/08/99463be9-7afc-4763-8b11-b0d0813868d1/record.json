@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2015-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 67,
+  "case_year": 2012,
+  "judge_rapporteur": "ЦВЕТАНА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=99463be9-7afc-4763-8b11-b0d0813868d1",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe758652282e1981a23b01ba1637d53e9deb629ead433aae90e44e91dfc51dfc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
