@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 439,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "10423",
+  "decision_date": "2015-10-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D746943%26code%3Dvas%26guid%3D1624312601",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=746943&code=vas&guid=1624312601",
+  "source_text_sha256": "9f17cb76fde5e13426cae9ac3ebb9d175aa1aae3f7d316e3f962fac3b9996114",
+  "source_images": 0
+}
