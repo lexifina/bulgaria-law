@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2015-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 230,
+  "case_year": 2015,
+  "judge_rapporteur": "ЦВЯТКО НИКОЛОВ МАНГОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=50cfcac5-f16d-4da9-b7bb-6ae43bb1bcde",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42cc2467fdbb971d55f46de9addc8023992d5aa7890613b340446fd00a9abe9c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
