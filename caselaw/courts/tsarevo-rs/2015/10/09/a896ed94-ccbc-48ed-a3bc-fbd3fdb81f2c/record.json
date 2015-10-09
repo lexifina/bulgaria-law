@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2015-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 309,
+  "case_year": 2015,
+  "judge_rapporteur": "МИНЧО ТАНЕВ ТАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a896ed94-ccbc-48ed-a3bc-fbd3fdb81f2c",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50436f7d372e1c2b1e1b110aaf6adeb0b593599acf095ae6f8ce5419004f6a01",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
