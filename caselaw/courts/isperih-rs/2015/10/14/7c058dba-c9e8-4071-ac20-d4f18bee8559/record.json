@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2015-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 702,
+  "case_year": 2015,
+  "judge_rapporteur": "ЕЛИЦА ДЕНЧЕВА БОЯДЖИЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c058dba-c9e8-4071-ac20-d4f18bee8559",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70ead1d2de831105be4efe71ec836af469adf1c107e70f960bab83cfc735ed8e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
