@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2354,
+  "case_year": 2015,
+  "judge_rapporteur": "ЕВА ДИМИТРОВА ПЕЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=13a309dc-39ca-45c7-b9e4-a97b1b090fff",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.09.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6b49b31cc44e7f894419700eb97157f241f9cd313e21f6e435e8db407cf56f35",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
