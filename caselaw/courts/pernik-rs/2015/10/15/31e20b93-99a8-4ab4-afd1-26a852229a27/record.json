@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5906,
+  "case_year": 2015,
+  "judge_rapporteur": "ЯВОР ПЕТРОВ ДЖАМАЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31e20b93-99a8-4ab4-afd1-26a852229a27",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7eccacc607454e116a0209d0fafb082f6d34d2ea0711ab539468be8e4645940",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
