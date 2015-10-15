@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2015-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 116,
+  "case_year": 2014,
+  "judge_rapporteur": "ИВАН ХРИСТОВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a3e6ceb-e590-41ca-8f78-f318c44bd63c",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1342b601f40d0906c139312aa792fb82b7afaab1b982724fc091617a7440826e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
