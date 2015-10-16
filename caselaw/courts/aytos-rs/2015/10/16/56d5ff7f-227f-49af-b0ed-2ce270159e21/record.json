@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2015-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 212,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ ДУЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=56d5ff7f-227f-49af-b0ed-2ce270159e21",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46492e60bf9cc86175e3c9d7d9bae76dc2d9df83901826f65e2de4345bf1c97b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
