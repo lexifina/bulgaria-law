@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2015-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 279,
+  "case_year": 2014,
+  "judge_rapporteur": "РОСЕН ИВАНОВ БАЛКАНСКИ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=214ca9bf-35a9-40d1-afe9-8351aeb11494",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "937f5c95722e74de27c66309ccc1f2e505cf9843502ef75acc421d0e8d9eb36a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
