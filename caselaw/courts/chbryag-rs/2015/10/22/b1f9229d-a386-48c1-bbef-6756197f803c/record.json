@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2015-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 677,
+  "case_year": 2015,
+  "judge_rapporteur": "ЗОЯ ГЕОРГИЕВА ПАНЧЕВА ИЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1f9229d-a386-48c1-bbef-6756197f803c",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "865d11ea8c217fed34ac34e90a191f2a20e8ad266e826f3ff736f104805d8281",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
