@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2015-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 138,
+  "case_year": 2015,
+  "judge_rapporteur": "АННА ТОДОРОВА ТРИФОНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4704bc6b-44bf-4224-970e-b5842a22a291",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=27.07.2015&to=26.10.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc906e6c4602efa78191fbd653188e431abb28cc6eb4b3298faecd2154a0ba43",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
