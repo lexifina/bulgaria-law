@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-11-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6102,
+  "case_year": 2015,
+  "judge_rapporteur": "ВАЛЕНТИНА ЖЕКОВА КЪРПИЧЕВА ЦИНЦАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aaaef5f4-9b1d-4d2b-81e8-52e807a0fb92",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a4a3d07eb6a3260bea777df49f66f417dad4bbf47a2f1b330144188ee1e220f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
