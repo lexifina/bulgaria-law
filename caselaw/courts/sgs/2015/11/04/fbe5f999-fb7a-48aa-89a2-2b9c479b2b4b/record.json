@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13767,
+  "case_year": 2014,
+  "judge_rapporteur": "АСЕН АЛЕКСАНДРОВ ВОДЕНИЧАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fbe5f999-fb7a-48aa-89a2-2b9c479b2b4b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.10.2015&to=18.11.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "582f667b958dc136b41ada33b7216ab6beb423720b66d7c49046ef9f3e42ba4b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
