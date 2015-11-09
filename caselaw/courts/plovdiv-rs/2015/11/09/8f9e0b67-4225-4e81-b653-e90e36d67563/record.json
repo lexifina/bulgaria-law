@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7397,
+  "case_year": 2015,
+  "judge_rapporteur": "МИХАЕЛА СВЕТЛОЗАР БОЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f9e0b67-4225-4e81-b653-e90e36d67563",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3548724d1f4cd44f47b896d247443889d8b2207d5ccfa375d722834a505b4aab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
