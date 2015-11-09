@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2015-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 84,
+  "case_year": 2014,
+  "judge_rapporteur": "АНТОНИЯ КИРОВА РОГЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec4a3e98-22d3-46f0-bf22-b27e828c93c4",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a58cae21b2c871f2e725311ffaa560f16492b269047e194d7fef128efad28461",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
