@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2015-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 760,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЛАМЕН ПЕТРОВ ДЕЯНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30c64520-4831-4739-9b60-5bdff0552c5d",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df65dcb591f95b9758fba2493996b9eb24864e472e2971049d3148219703b02d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
