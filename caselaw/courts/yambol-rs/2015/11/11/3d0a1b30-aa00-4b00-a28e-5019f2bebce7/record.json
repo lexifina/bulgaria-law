@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2015-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 985,
+  "case_year": 2015,
+  "judge_rapporteur": "РАДОСТИН СТОЯНОВ РАДИЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d0a1b30-aa00-4b00-a28e-5019f2bebce7",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "04c1697ca84f1fcaa7cceed43a835d42b6b92635e3b1c72c656e0ebf6eba1fdd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
