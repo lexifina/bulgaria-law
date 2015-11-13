@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2015-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 157,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАНКА ПЕНЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3db3f2c-67f1-49ae-ba25-fa19473ee59b",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e31ea661a2470126e007df3bcf0d27e414d273e27bfea4b3c86e439d5c9029f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
