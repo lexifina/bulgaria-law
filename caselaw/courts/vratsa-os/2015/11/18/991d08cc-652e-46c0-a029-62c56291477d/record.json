@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2015-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 725,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕВГЕНИЯ ГЕОРГИЕВА СИМЕОНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=991d08cc-652e-46c0-a029-62c56291477d",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c3b57b0966fab69675d98606a6d1666bef34aec5b09fd78dbd080362c53a456",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
