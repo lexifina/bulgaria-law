@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2015-11-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2026,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТО ТОТЕВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=684ab7c9-b3fd-40f5-9196-e949ca85a5b0",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ba5346fa54e8632034521e5f0263ef4e3f3d2e552ae84a0b42cb2579ac648cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
