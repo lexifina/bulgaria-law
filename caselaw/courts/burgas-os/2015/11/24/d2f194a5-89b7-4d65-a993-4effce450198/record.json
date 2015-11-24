@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 990,
+  "case_year": 2013,
+  "judge_rapporteur": "ЦВЕТА ЖИВКОВА ПОПОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2f194a5-89b7-4d65-a993-4effce450198",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83867b67dddd549b5898191f35fdb4ca0c238042aacfad0206c38802647a379d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
