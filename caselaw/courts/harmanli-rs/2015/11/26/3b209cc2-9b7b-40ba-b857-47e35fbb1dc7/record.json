@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2015-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 412,
+  "case_year": 2015,
+  "judge_rapporteur": "МИНКА ИВАНОВА КИТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b209cc2-9b7b-40ba-b857-47e35fbb1dc7",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7775176d3f2d84d377350992fabc464083b78f77ee6a7ead0e1e2198b8300469",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
