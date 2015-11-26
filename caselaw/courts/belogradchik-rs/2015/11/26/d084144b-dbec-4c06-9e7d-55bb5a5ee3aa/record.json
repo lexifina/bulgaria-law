@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2015-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 258,
+  "case_year": 2015,
+  "judge_rapporteur": "БОЖИДАРКА ДАНЧОВА ЙОСИФОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d084144b-dbec-4c06-9e7d-55bb5a5ee3aa",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "946a62fd3733a5adaec49beff7e11fcd1a2b0e18001d2c7817374153cdc09d46",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
