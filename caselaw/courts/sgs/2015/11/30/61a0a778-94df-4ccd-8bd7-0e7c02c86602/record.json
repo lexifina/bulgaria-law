@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4053,
+  "case_year": 2013,
+  "judge_rapporteur": "БОЖАНА КОСТАДИНОВА ЖЕЛЯЗКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61a0a778-94df-4ccd-8bd7-0e7c02c86602",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=19.11.2015&to=11.12.2015&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "34324ad9d57aea980e4791737635a9dff6ed41181c5f1da8056aec42164b9597",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
