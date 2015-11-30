@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3200,
+  "case_year": 2013,
+  "judge_rapporteur": "АНТОНИЯ АТАНАСОВА АТАНАСОВА АЛЕКСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb62cc69-c252-4006-8a9a-b95c5e3b9701",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19d376c6de5197e99b83a69c7f1da03effa9d4e5c398a85eccf174977a5d983a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
