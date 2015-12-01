@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2015-12-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 677,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЕСЕЛИН ХРИСТОВ КОЛАРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e87e1f1-f5a1-479d-92e6-a2ee267e37eb",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7775176d3f2d84d377350992fabc464083b78f77ee6a7ead0e1e2198b8300469",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
