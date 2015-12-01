@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2015-12-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1192,
+  "case_year": 2015,
+  "judge_rapporteur": "ЗОРНИЦА ВАЛЕНТИНОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7405142d-c19d-4a0d-a407-fa45c37fd4bf",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ba5346fa54e8632034521e5f0263ef4e3f3d2e552ae84a0b42cb2579ac648cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
