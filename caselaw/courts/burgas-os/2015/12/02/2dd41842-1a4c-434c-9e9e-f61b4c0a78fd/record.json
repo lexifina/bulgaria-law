@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1944,
+  "case_year": 2015,
+  "judge_rapporteur": "НЕДЯЛКА ПЕНЕВА ПЕНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2dd41842-1a4c-434c-9e9e-f61b4c0a78fd",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83867b67dddd549b5898191f35fdb4ca0c238042aacfad0206c38802647a379d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
