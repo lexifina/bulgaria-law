@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2015-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4382,
+  "case_year": 2015,
+  "judge_rapporteur": "СВЕТЛА АТАНАСОВА ЗАХАРИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b6479a0-d833-40aa-950b-2aafed096d2e",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30740230d158d751be418e818b1e45595b03c801dda8e593477da259cd3c086a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
