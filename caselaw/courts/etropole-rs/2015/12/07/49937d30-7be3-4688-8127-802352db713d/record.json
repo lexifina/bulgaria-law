@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Етрополе",
+  "jurisdiction": "BG",
+  "date": "2015-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 27,
+  "case_year": 2015,
+  "judge_rapporteur": "МАЯ ДОЙЧЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49937d30-7be3-4688-8127-802352db713d",
+  "motives_file": null,
+  "source": "https://etropole-rs.justice.bg/bg/7015?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e25335b7e1036e955a0db718e38322a79dd80f0b0367896e5ef6d73fd3a69b3b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
