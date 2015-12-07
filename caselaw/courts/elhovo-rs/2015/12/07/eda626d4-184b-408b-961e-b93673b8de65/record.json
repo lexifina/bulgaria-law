@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2015-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 613,
+  "case_year": 2014,
+  "judge_rapporteur": "ДОРОТЕЯ ПЕТКОВА ЯНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eda626d4-184b-408b-961e-b93673b8de65",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f889e2cb42b54fa7eabad212d4427afedaf8b2ca16b8aebe8c075b87130f557",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
