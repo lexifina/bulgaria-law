@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2015-12-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1743,
+  "case_year": 2015,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=041293ad-9bb4-43cd-bc67-6268747b1ca8",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d88b0d0ef7a01f8e6af0cc75547a92688796725e50d5fca7eee9d841b85d8ba7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
