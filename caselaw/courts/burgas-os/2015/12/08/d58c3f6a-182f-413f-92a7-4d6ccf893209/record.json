@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-12-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 227,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАН АТАНАСОВ ВОДЕНИЧАРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d58c3f6a-182f-413f-92a7-4d6ccf893209",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83867b67dddd549b5898191f35fdb4ca0c238042aacfad0206c38802647a379d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
