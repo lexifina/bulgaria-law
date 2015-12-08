@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2015-12-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 245,
+  "case_year": 2015,
+  "judge_rapporteur": "ЙОРДАН ИВАНОВ ГЕРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8420ff11-5555-423e-b6d3-5c63cd761f50",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "112ef6a004d9daf4a390a49060059f2a3af9c7e017a27bb3942ca9c64e819254",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
