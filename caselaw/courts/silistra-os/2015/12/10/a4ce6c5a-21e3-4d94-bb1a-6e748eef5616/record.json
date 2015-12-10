@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2015-12-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 234,
+  "case_year": 2015,
+  "judge_rapporteur": "ДЕНИЦА БОЖИДАРОВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4ce6c5a-21e3-4d94-bb1a-6e748eef5616",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fbb0f6bd003f02269d3a8f7de4b6d050e63c88d3c821578d950be0fbaccb5f1c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
