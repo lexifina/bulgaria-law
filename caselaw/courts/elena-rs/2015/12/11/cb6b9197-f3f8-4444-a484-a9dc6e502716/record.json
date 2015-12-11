@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2015-12-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 261,
+  "case_year": 2015,
+  "judge_rapporteur": "ИСКРА СТОЯНОВА ВАРАДЖАКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb6b9197-f3f8-4444-a484-a9dc6e502716",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85cab83df37c0b25ab38728974f185b36b4700ca215c67cd31d8381d28306963",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
