@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2015-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 351,
+  "case_year": 2014,
+  "judge_rapporteur": "ДОБРИНКА АНГЕЛОВА ЗАФИРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6e46b9b5-bb20-4622-a534-eeb732ce397d",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "365921d55b0c262fb2b7f0575675ef779bd31e26eb22490665e2f7b0a6ecdbef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
