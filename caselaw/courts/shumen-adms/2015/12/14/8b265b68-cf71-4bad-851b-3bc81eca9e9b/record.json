@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2015-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 267,
+  "case_year": 2015,
+  "judge_rapporteur": "КРЕМЕНА ГРИГОРОВА БОРИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b265b68-cf71-4bad-851b-3bc81eca9e9b",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b1800c8519a249a4af6afd1808f967b69eb6dbb19af32612467346673d8ebcb1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
