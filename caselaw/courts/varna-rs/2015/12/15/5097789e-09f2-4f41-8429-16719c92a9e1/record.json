@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2015-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11099,
+  "case_year": 2015,
+  "judge_rapporteur": "НЕЛА КРЪСТЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5097789e-09f2-4f41-8429-16719c92a9e1",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a616f97b811cd187e251b781f0d191eeaba18415c10828efeec8cff93354b8d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
