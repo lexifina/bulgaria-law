@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2015-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5056,
+  "case_year": 2010,
+  "judge_rapporteur": "ДИМИТРИНА АНГЕЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=183f3ee9-f5ca-48e2-ae11-fb9f679d8526",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.12.2015&to=03.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c8dc11e57d1bbbe8186ca79a57b7c71f636f9137b658dab274e1e44a5a00417",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
