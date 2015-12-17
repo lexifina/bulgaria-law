@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2015-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 276,
+  "case_year": 2015,
+  "judge_rapporteur": "ВАНКО ДИМИТРОВ АНГЕЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=76dc6ff3-c056-4def-8def-c988ea97d108",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75a6ad5c26920522b6b0d6cbc990fd977b2f651a7af83407b7fb602dd7e55910",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
