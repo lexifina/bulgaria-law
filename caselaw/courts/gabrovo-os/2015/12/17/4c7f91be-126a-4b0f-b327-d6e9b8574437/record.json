@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2015-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 48,
+  "case_year": 2015,
+  "judge_rapporteur": "СИМОНА ДИМИТРОВА МИЛАНЕЗИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c7f91be-126a-4b0f-b327-d6e9b8574437",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8276e0854c49ba5b187551bb9ec65f5dfad12b39b535c8bb2ef3f33e5bdfafe2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
