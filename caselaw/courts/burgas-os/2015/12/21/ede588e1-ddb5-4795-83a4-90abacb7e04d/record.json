@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2015-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 287,
+  "case_year": 2015,
+  "judge_rapporteur": "ДЕСИСЛАВА ДИНКОВА ДИНКОВА ЩЕРЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ede588e1-ddb5-4795-83a4-90abacb7e04d",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83867b67dddd549b5898191f35fdb4ca0c238042aacfad0206c38802647a379d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
