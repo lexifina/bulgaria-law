@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2015-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 530,
+  "case_year": 2015,
+  "judge_rapporteur": "ДИМИТЪР ВАСИЛЕВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=598cee38-5f5b-4f99-9209-cd96ec983638",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "106cc4d991d0002b4dbdd8924c42e3b727a78f9a011e0308f3e0a622d8654db3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
