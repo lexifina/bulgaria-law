@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2015-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 105,
+  "case_year": 2015,
+  "judge_rapporteur": "ЕМИЛИЯ ЙОРДАНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b6f0858-b7c7-4fb3-91bd-3b83f473148d",
+  "motives_file": null,
+  "source": "https://pernik-adms.justice.bg/bg/1135?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e4ef720ab5f9e71abb72de727bf359c4c05a86a94e37f28c5b8017aff68e549a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
