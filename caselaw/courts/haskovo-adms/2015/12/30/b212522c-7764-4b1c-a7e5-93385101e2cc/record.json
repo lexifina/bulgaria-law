@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2015-12-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 356,
+  "case_year": 2015,
+  "judge_rapporteur": "КРЕМЕНА КОСТОВА ГРОЗЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b212522c-7764-4b1c-a7e5-93385101e2cc",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6a41fb0b2a6573801f203197547126e7543742479386d5bab4b1cba98f53924",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
