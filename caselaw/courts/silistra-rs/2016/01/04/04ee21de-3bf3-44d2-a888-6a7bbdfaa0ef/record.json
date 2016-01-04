@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-01-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1245,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕЛЕНА СТОЙНОВА ЧЕРНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04ee21de-3bf3-44d2-a888-6a7bbdfaa0ef",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad67f8b8503039fa0ab0d226eb19c76cd47b8c79236687ded11e40b7d41b81f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
