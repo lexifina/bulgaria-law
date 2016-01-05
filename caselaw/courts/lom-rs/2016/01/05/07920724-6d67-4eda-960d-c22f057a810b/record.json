@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2016-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 861,
+  "case_year": 2015,
+  "judge_rapporteur": "СОНЯ ДИМИТРОВА КАМАРАШКА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07920724-6d67-4eda-960d-c22f057a810b",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4f53529d9de426ffd6f7aa7611dde94a24318685b38b42af0a68e58445b1f15",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
