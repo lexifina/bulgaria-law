@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2016-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 869,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЕНКА ПЕТКОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5526a85f-f6c5-4b90-9c83-ede746e9b253",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9812df93051805feb6a7bddd5e59030a379f610cdc6ea8615a49fccf5f2e69af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
