@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 3000,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "291",
+  "decision_date": "2016-01-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D754494%26code%3Dvas%26guid%3D1625151710",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=754494&code=vas&guid=1625151710",
+  "source_text_sha256": "28c8410d0b4bd5e27ef393b73714d883dd7a31ed5735ce4bb7e5018bee9ded74",
+  "source_images": 0
+}
