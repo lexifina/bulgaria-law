@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-01-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 76,
+  "case_year": 2016,
+  "judge_rapporteur": "ЯНКА ЖЕЛЕВА ГАНЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d700e3a-a6f7-4f2f-a7ec-4108e922d29b",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c75635e941e7a4255672b3512b3c2b9d95bb562a39b185444a4643392f2790f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
