@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-01-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13919,
+  "case_year": 2014,
+  "judge_rapporteur": "ЛИЛИЯ МАРКОВА РУНЕВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b625a546-c16e-480f-905f-e7e5e8a696aa",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=04.01.2016&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a624b0e4581f13e4ddb994e3abcfbbfc57dab68c494fd9557566de77501b24b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
