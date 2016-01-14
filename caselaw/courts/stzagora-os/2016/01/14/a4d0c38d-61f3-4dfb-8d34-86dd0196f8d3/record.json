@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2016-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 11,
+  "case_year": 2016,
+  "judge_rapporteur": "КРАСИМИР ЙОРДАНОВ ГЕОРГИЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4d0c38d-61f3-4dfb-8d34-86dd0196f8d3",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d2c5fffa6353b7448de7ebeb1ff553996aba9c1adf6810388f2caf76b4799c4b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
