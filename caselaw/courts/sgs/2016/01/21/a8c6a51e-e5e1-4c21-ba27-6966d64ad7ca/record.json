@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11906,
+  "case_year": 2014,
+  "judge_rapporteur": "НОРА ВЛАДИМИРОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8c6a51e-e5e1-4c21-ba27-6966d64ad7ca",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=04.01.2016&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a624b0e4581f13e4ddb994e3abcfbbfc57dab68c494fd9557566de77501b24b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
