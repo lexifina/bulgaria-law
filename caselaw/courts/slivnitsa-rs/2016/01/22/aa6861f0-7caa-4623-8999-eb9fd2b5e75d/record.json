@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2016-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 20,
+  "case_year": 2016,
+  "judge_rapporteur": "ГЕОРГИ НИКОЛОВ НИКОЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa6861f0-7caa-4623-8999-eb9fd2b5e75d",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e60ced4ebaee0bb498d0e0e8500826de2a472811d661e88cac42a7d4c2f7bd2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
