@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2016-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1099,
+  "case_year": 2015,
+  "judge_rapporteur": "ЛИЛИЯ НЕДЯЛКОВА ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=47213812-5dff-43bf-91a5-59f9036affe1",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=27.10.2015&to=26.01.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a4a84586a75bf3f4ea3a44368e1e2b79d934e56b8fa17a37d7da6fdd070ec7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
