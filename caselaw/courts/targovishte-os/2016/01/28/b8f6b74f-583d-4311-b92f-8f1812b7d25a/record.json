@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2016-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 14,
+  "case_year": 2016,
+  "judge_rapporteur": "ТАТЯНА НЕДЕЛЧЕВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8f6b74f-583d-4311-b92f-8f1812b7d25a",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29b4b064dca4fceffa466e014d1f607610b65ccf6ff99cbdb88a887df56d15c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
