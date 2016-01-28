@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2016-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 213,
+  "case_year": 2014,
+  "judge_rapporteur": "ГЕРГАНА ИВАНОВА КРАТУНКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c0ae03df-1351-4bb6-82bb-5587ccb8ea0a",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0248b9a4f902d14065e09db59b205e5c96ede5d5ac6fa930e03e5bab709c702d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
