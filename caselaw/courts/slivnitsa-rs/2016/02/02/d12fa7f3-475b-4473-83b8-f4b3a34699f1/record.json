@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2016-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 32,
+  "case_year": 2016,
+  "judge_rapporteur": "АНГЕЛИНА ГЕРГИНОВА ГЕРГИНСКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d12fa7f3-475b-4473-83b8-f4b3a34699f1",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4c890327dedca3fd69fabfe09b460a8704d5d68441ab05b511ea26e9cb195fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
