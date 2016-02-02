@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2016-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 58,
+  "case_year": 2015,
+  "judge_rapporteur": "НЕЛИ ЛЮБОМИРОВА ТОШЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a1f8ab5-d9f7-43a6-9860-0f54ec3c89d4",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2d7e3fe0eece92b02ef65e86f6ce2c3d8a3487e2ffb724e4ec349201d158b88",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
