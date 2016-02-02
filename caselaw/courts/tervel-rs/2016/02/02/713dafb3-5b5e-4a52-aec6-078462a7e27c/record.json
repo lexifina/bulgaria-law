@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2016-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 526,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАНЧО МАНЕВ ДРАГАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=713dafb3-5b5e-4a52-aec6-078462a7e27c",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c082f549b69cf16bff3d1f8ab266a3847f47d4afb22cf3115a5da5055ae9a56",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
