@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2016-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 218,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАБРИЕЛ ПЕТКОВ ЙОНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0fb76b0-c241-474f-aa4a-e28ba7b69df5",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "78a1d254c07756356952548bee2233eb679d4434e17d5aaa557dff9c26cd9955",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
