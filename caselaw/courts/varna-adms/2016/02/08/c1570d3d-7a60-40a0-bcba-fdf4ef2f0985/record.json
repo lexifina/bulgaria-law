@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 104,
+  "case_year": 2016,
+  "judge_rapporteur": "ТИНКА АТАНАСОВА КОСЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c1570d3d-7a60-40a0-bcba-fdf4ef2f0985",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9b973e3150960ac213c6cf41d6924030ccbf35de3aabdd38add04fc0f30ed4b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
