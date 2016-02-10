@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2016-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 395,
+  "case_year": 2015,
+  "judge_rapporteur": "БИЛЯНА СИЛВИОНОВА КИСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d98125a-3f9e-4e5d-ad1f-56aed920f2c2",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a166bdfe0572bde68fe383559f3a76ad984f233c58048cb167b07cc4373409af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
