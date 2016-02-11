@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2016-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 8,
+  "case_year": 2016,
+  "judge_rapporteur": "СВЕТЛА РАДЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aeefb526-2399-477b-a79d-676474c2b9cf",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f77a73e9f78b83ce4f4229db9bb7665d17993d06c712dfd963e865acaaac2f1a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
