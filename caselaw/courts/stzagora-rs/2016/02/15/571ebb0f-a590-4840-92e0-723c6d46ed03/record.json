@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2016-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2735,
+  "case_year": 2015,
+  "judge_rapporteur": "БЛАГА ДИМИТРОВА БОЗОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=571ebb0f-a590-4840-92e0-723c6d46ed03",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "40d4cf2507b48300e0ed43fe30e0c3acc89086fdc6ff6f1af575ed8a98330933",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
