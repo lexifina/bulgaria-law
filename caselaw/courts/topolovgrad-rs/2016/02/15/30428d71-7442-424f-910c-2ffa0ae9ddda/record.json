@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2016-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 16,
+  "case_year": 2016,
+  "judge_rapporteur": "МИЛЕНА ИВАНОВА СЕМЕРДЖИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30428d71-7442-424f-910c-2ffa0ae9ddda",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4478d0dfc9e148ebbd732fc6d872b0f97c8027c4d4bfef012ffc98c05df31501",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
