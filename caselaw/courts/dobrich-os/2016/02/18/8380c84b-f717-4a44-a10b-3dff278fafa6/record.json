@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2016-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 1330,
+  "case_year": 1994,
+  "judge_rapporteur": "АДРИАНА ПАНАЙОТОВА ПАНАЙОТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8380c84b-f717-4a44-a10b-3dff278fafa6",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7dac32270931545956b8fb7efcb7ef9ba530f664925ba6cc89adb31f6542e1b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
