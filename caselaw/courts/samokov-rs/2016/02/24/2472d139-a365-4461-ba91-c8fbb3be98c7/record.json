@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2016-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 22,
+  "case_year": 2016,
+  "judge_rapporteur": "КИРИЛ ДАВИДОВ ПАВЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2472d139-a365-4461-ba91-c8fbb3be98c7",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11d686e6586668f724f461e578995d8b3cb2632a6f36c4db34c8a8fa647eea66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
