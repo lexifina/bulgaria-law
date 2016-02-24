@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2016-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 64,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИЯ ДУЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0cbda2d6-3e38-4fea-9c30-ca24e89658b4",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f95a288bc310a357463428238a4823b1ffc8bf7ea16629697eaeb438c49a3be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
