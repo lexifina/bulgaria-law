@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2016-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 298,
+  "case_year": 2015,
+  "judge_rapporteur": "ЮЛИЯНА ВАСИЛЕВА ЦОНЕВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71b1712b-7e6a-4fd0-845a-200e5e898fc0",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f1e2f4fde180adce12b6b61b82c8c671bd27aaf3029efeb9b08b7fc2a1743f20",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
