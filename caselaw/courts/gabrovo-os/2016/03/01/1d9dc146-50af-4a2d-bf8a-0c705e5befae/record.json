@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2016-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 3,
+  "case_year": 2008,
+  "judge_rapporteur": "ВАЛЕНТИНА ЙОРДАНОВА ГЕНЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d9dc146-50af-4a2d-bf8a-0c705e5befae",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "336a7fe80826d9c50e799a96a5dd21a450a25960841ab361d3e21c5c18da26bd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
