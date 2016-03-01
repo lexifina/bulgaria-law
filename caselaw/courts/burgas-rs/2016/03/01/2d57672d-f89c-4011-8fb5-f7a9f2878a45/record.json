@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2016-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1154,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЛАМЕНА НИКОЛОВА СЪБЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2d57672d-f89c-4011-8fb5-f7a9f2878a45",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9345a56a8c37ef0418e10f2aca8a1c2cb00dba7b810da197715fc4a2de0247af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
