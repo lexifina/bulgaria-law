@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2016-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 26,
+  "case_year": 2016,
+  "judge_rapporteur": "СВИЛЕН РУСЕВ АЛЕКСАНДРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87501def-d258-4d08-93d3-609d6d24f75b",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fdc137068485b07d022fae23f9c05a6f764bf7450d4e81a8064968ea14d7a844",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
