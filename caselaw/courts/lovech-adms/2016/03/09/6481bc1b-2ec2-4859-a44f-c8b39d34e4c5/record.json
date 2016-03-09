@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2016-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 176,
+  "case_year": 2014,
+  "judge_rapporteur": "МИРОСЛАВ ВЪЛКОВ ВЪЛКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6481bc1b-2ec2-4859-a44f-c8b39d34e4c5",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d4592001f480844d36a6f948b41658ae94566b48fd1357e4da3289418cf7561",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
