@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2016-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 858,
+  "case_year": 2015,
+  "judge_rapporteur": "ДЕСИСЛАВА ДИМИТРОВА КРИВИРАЛЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3e75a5f0-9290-4465-be57-d8cc9f633884",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ea127e432f7e5572f1c16bec472257f634a8f444e7e6a01ed841169b9559ce6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
