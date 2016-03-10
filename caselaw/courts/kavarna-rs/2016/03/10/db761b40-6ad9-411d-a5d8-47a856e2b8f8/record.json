@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2016-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3,
+  "case_year": 2013,
+  "judge_rapporteur": "ВЕСЕЛИНА МИХАЙЛОВА УЗУНОВА ПАНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=db761b40-6ad9-411d-a5d8-47a856e2b8f8",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "027ee93d1ea4589e30d36e1cfd8b69e6c1b92886afefd0f8e6fa7a85601b8251",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
