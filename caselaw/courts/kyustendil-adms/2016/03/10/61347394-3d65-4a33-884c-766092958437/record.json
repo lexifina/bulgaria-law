@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2016-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 201,
+  "case_year": 2015,
+  "judge_rapporteur": "ДАНИЕЛА ЛЮБОМИРОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61347394-3d65-4a33-884c-766092958437",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a59919c9e3079fdcf6303878a6bf3a11741bfe18edfdb70657d4a91dcacd36b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
