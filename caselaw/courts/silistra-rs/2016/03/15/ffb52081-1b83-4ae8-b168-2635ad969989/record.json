@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 35,
+  "case_year": 2016,
+  "judge_rapporteur": "ГАЛИНА ДИМИТРОВА ВАСИЛЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ffb52081-1b83-4ae8-b168-2635ad969989",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "555c73d220e66267f15d55f50ed0dce23f49357a430ad70fa22bcda79a7281b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
