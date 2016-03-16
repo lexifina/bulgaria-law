@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2016-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1192,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАЛИНА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a688edfb-4467-47ed-bc4c-0c32c4eee989",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f77a73e9f78b83ce4f4229db9bb7665d17993d06c712dfd963e865acaaac2f1a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
