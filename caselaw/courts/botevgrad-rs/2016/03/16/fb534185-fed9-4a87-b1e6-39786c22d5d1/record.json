@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2016-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 123,
+  "case_year": 2016,
+  "judge_rapporteur": "ТОНИ ПЕТКОВ ГЕТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb534185-fed9-4a87-b1e6-39786c22d5d1",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e39eafa5146792777a824bc38a3dbe8dc5abcd6ab64a6d1ff46b62b15194abe7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
