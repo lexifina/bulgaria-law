@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 159,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЕТЯ ИВАНОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7879546a-9be9-4332-bb32-d2f20381f9a8",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c68b41a423a2e1664fff5f79e055f98784fd40b597effcb16b0bf5362b69403e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
