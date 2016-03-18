@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16110,
+  "case_year": 2013,
+  "judge_rapporteur": "МИЛЕН ПЕТКОВ ЕВТИМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8de95323-9c62-4d47-9be7-1b52878a366d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=13.03.2016&to=04.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4b6ae1f92777babe73c81ebd81c21bfd5263bca6f2194404280f4d751df0513",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
