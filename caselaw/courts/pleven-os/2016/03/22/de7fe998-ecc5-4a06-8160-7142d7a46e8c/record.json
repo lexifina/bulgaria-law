@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2016-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 207,
+  "case_year": 2016,
+  "judge_rapporteur": "НИКОЛАЙ ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=de7fe998-ecc5-4a06-8160-7142d7a46e8c",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ca98c235fe8dba51b3151118be3cc1fb1876ae7000225ec37ae7e3854612e2cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
