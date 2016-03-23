@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2016-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 400,
+  "case_year": 2016,
+  "judge_rapporteur": "ЗОЯ ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f16824d1-2636-46bd-8ee4-df90bd5ce9af",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba3e3c6d3cebda6a0437e156987e03017b201448340c129de2be3956c98ef080",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
