@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2016-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1826,
+  "case_year": 2015,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4f2b607e-4509-4214-8293-a055784bf9e6",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0eeddde970416dd276344bc2b86a63e9aedc70f37866c0e31c685bdad6106e65",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
