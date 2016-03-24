@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2016-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1326,
+  "case_year": 2015,
+  "judge_rapporteur": "ПАВЕЛ АЛЕКСАНДРОВ ХАНДЖИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8db485b0-c36d-4f27-a6d3-a5349b23470f",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5c758fe9867cf8f5793f3cfd696c76f8f67297c9b8cbec0b8701b4f84f23037",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
