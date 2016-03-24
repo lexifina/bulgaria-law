@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2016-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 355,
+  "case_year": 2016,
+  "judge_rapporteur": "ГЕОРГИ ДИМИТРОВ ВАСИЛЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d75bece9-d965-42ea-9761-70e0fd1c9772",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e1f17b24b6729e2ece5778c517ddcd457556141fcac16cd7fa4f3c9bba38cc18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
