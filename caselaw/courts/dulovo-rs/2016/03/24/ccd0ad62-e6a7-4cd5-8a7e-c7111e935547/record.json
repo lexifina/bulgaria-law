@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2016-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 384,
+  "case_year": 2015,
+  "judge_rapporteur": "НИКОЛАЙ КОСТАДИНОВ КЪНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccd0ad62-e6a7-4cd5-8a7e-c7111e935547",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39a0b739ffcaa9a4ecb37650b4d01bfe8994385c68b8679a09d4ff168b12c7d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
