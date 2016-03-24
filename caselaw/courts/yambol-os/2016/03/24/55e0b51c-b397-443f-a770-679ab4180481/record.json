@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2016-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 14,
+  "case_year": 2015,
+  "judge_rapporteur": "КРАСИМИРА ВЕСЕЛИНОВА ТАГАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55e0b51c-b397-443f-a770-679ab4180481",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd82835c50a040facd07a2215056662afc75b36f1076fa38510d9b6e8f7ad9f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
