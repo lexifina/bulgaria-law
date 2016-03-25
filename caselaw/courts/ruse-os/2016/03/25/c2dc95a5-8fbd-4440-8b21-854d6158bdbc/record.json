@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2016-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 660,
+  "case_year": 1990,
+  "judge_rapporteur": "СИЛВИЯ ЯЦОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c2dc95a5-8fbd-4440-8b21-854d6158bdbc",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "40749fb4578048f19b16660ae273de7bf61adae8fa8adca741295b0ac5331a02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
