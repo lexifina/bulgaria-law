@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2016-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 244,
+  "case_year": 2016,
+  "judge_rapporteur": "ЕЛЕНА ЗЛАТАНОВА ТОДОРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e2ff993-993c-4723-9a13-b29e2234a7f0",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "220e180bc4056f2e6c7dd27c296c8cc17f5225b7cc1b70c69d123e38ca4caf18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
