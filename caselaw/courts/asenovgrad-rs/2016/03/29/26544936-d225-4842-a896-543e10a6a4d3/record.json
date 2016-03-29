@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2016-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 318,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАН ГЕОРГИЕВ ШЕЙТАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26544936-d225-4842-a896-543e10a6a4d3",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ef5111e223d5e24ca7b8a0e32a8ec2eb60b6a26f97798301c8cc53d7542760c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
