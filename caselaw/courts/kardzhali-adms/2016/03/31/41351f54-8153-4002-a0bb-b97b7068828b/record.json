@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2016-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 49,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИЯ КИРИЛОВА БОЖКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=41351f54-8153-4002-a0bb-b97b7068828b",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05f4f63432a085257acaa85b73b1ca880d0db57ed051eecf2447da49cca5bf87",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
