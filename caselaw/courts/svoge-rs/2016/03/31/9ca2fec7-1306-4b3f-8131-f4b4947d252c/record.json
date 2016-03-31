@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2016-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 486,
+  "case_year": 2015,
+  "judge_rapporteur": "РУМЕН АТАНАСОВ СТОЙНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ca2fec7-1306-4b3f-8131-f4b4947d252c",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0248b9a4f902d14065e09db59b205e5c96ede5d5ac6fa930e03e5bab709c702d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
