@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2016-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 735,
+  "case_year": 2015,
+  "judge_rapporteur": "АТАНАСКА АНГЕЛОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43268541-fb31-4842-bcc6-b4127c4c5960",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9360bacd2970e6ad082b963c70b8a2b136aa9727ab4aa01ac3b230254248e031",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
