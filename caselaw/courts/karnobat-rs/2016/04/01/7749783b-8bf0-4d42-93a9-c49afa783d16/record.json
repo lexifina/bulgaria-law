@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2016-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 859,
+  "case_year": 2015,
+  "judge_rapporteur": "ЗЛАТКО КОЛЕВ КОСТАДИНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7749783b-8bf0-4d42-93a9-c49afa783d16",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7483da84a79eb1988bac7f1e201a88c63eea1aacaf5032b1c2874cad3758fd8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
