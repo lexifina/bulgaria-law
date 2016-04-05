@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2016-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 83,
+  "case_year": 2016,
+  "judge_rapporteur": "ДАНИЕЛ АТАНАСОВ ЛУКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fab92b57-f134-4bfc-9620-692338752e27",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0817c593dfe44e16aa6b08f8fe30acbbbbcedb8030b7d20104b2daedd56027a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
