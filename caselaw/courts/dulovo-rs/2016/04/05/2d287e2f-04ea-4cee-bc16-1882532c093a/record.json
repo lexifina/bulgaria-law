@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2016-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 71,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕСЕЛИН ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2d287e2f-04ea-4cee-bc16-1882532c093a",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39a0b739ffcaa9a4ecb37650b4d01bfe8994385c68b8679a09d4ff168b12c7d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
