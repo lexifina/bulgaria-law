@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 540,
+  "case_year": 2014,
+  "judge_rapporteur": "ТЕОДОРА ЕНЧЕВА ДИМИТРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b0513a5-88fe-49a2-b5fe-0902e03eae11",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33fa32c8bd68260a6d1d17811f58818c40355404e341fe10cd88eae7e415ca4e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
