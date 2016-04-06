@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2016-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 58,
+  "case_year": 2016,
+  "judge_rapporteur": "ЧАНКО ПЕТКОВ ПЕТКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9d081ce-4542-48eb-9b0d-ce81a7b3e124",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f13565e1f7fc22dfb0de90d4cff72a0bb42f67be9925f7a76a995f7e6db6603",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
