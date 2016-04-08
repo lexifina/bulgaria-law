@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2016-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Брачно дело",
+  "case_number": 433,
+  "case_year": 2015,
+  "judge_rapporteur": "СТЕЛА ДЯНКОВА БЪЧВАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a393e0fc-90bf-4984-a96f-20dee3fada9b",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa8069dffe5817b17f0240e765d400b7e8542fc6bf3fdf60cf87662614d7b84f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
