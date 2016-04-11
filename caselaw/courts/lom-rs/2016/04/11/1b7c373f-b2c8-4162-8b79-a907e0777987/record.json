@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2016-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 155,
+  "case_year": 2014,
+  "judge_rapporteur": "НАТАЛИЯ НИКОЛАЕВА ЛОЗАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b7c373f-b2c8-4162-8b79-a907e0777987",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "adb9920dbbae98998ec4d4aafba98f54746d52d77c32fa16b51b9ea12b608550",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
