@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2016-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 746,
+  "case_year": 2016,
+  "judge_rapporteur": "ТАНЯ ПЕТКОВА ПЕТКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f61e717-4209-4e9a-a2b6-0f25ff3a77d7",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "65dff41015eaa9e83379497ac1febaf328b7074321ee7eea7d76138ab4d1243f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
