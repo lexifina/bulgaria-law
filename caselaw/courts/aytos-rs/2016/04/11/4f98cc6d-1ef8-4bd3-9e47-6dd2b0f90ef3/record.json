@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2016-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 323,
+  "case_year": 2014,
+  "judge_rapporteur": "НИКОЛАЙ ГЕМЕДЖИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4f98cc6d-1ef8-4bd3-9e47-6dd2b0f90ef3",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f95a288bc310a357463428238a4823b1ffc8bf7ea16629697eaeb438c49a3be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
