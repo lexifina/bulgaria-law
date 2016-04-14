@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елин Пелин",
+  "jurisdiction": "BG",
+  "date": "2016-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 83,
+  "case_year": 2016,
+  "judge_rapporteur": "РОСИЦА ГЕНАДИЕВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0997a046-18a1-43ea-960e-2c05ea7820f8",
+  "motives_file": null,
+  "source": "https://elpelin-rs.justice.bg/bg/6875?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5afd41d9345f4e9bad9505d8b783fa1cc1870121d40bfe1f14479694915b426",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
