@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2016-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 40,
+  "case_year": 2016,
+  "judge_rapporteur": "ОГНЯН МЕТОДИЕВ ЕВГЕНИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccf50fc6-f098-4b30-a36d-211c701d5a28",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "702fd5cda2ed3916b678ef7fca618e56bd98a1b04808fccdd8fd722354d724a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
