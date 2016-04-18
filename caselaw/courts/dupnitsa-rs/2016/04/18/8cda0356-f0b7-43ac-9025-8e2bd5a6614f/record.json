@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2016-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 902,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРГАРИТА ПЛАМЕНОВА АЛЕКСИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8cda0356-f0b7-43ac-9025-8e2bd5a6614f",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb06304d6cc716498936bfa24ad6aed15aa723396d4d6bc24047f743d2a3ee94",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
