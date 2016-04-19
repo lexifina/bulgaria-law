@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2016-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 109,
+  "case_year": 2015,
+  "judge_rapporteur": "ПЕТЪР СЛАВОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fbfadfe9-a707-4d28-acb4-543246ac4473",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0eeddde970416dd276344bc2b86a63e9aedc70f37866c0e31c685bdad6106e65",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
