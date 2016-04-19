@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2016-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1095,
+  "case_year": 2015,
+  "judge_rapporteur": "СИЛВИЯ СТЕФАНОВА ХАЗЪРБАСАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c2cb1a8-9d1d-4c33-af63-6ac915da68cd",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b345e7445cfdf2e252f3b324f2264b72c9f1d07008f0bd31c270e62b73fb969",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
