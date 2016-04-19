@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2016-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2865,
+  "case_year": 2015,
+  "judge_rapporteur": "ВЕЛЕМИРА ДЕНЧЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cce3f66e-1e48-4433-bd6a-1da9497391f7",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "941cae0151ed4805528ef5ed97965ba966d4c34a0756cca9486de3ac6413e8d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
