@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2016-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 723,
+  "case_year": 2015,
+  "judge_rapporteur": "ФИЛИП ФИЛИПОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1543d1b1-3bc7-4f34-84ff-8173f88f0869",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed44c7a31ed746068d3551341bbbd8cc40f2d160213dba5ea7a2b34fc3c73a81",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
