@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2016-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 28,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИАНА МИТЕВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5278040-fc8f-4b3a-8b7f-7e8e86c3bddb",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4c890327dedca3fd69fabfe09b460a8704d5d68441ab05b511ea26e9cb195fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
