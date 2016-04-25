@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2016-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 544,
+  "case_year": 2015,
+  "judge_rapporteur": "ЦОНКО СЛАВКОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4f0ba06-aabf-4c7f-a41d-10491a2eda5c",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0e63b78a3d8ad1ab9e648717da3c3165b80b89ab5e63a5810f9cb0cf4f5fd4cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
