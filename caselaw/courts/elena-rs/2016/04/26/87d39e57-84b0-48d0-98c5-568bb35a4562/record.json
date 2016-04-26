@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2016-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 140,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87d39e57-84b0-48d0-98c5-568bb35a4562",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9d35c1233feea4a35c902c58488ed62ff568668f6c223227a7fa21e6c6a11be8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
