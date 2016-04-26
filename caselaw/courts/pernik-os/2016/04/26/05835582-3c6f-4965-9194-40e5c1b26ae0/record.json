@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2016-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 730,
+  "case_year": 2015,
+  "judge_rapporteur": "МЕТОДИ КРУМОВ ВЕЛИЧКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=05835582-3c6f-4965-9194-40e5c1b26ae0",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2d7e3fe0eece92b02ef65e86f6ce2c3d8a3487e2ffb724e4ec349201d158b88",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
