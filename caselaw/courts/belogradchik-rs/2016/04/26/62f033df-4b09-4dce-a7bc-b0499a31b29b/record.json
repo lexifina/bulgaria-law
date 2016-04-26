@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2016-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 97,
+  "case_year": 2016,
+  "judge_rapporteur": "АННА ИВАНОВА КАЙТАЗКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=62f033df-4b09-4dce-a7bc-b0499a31b29b",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=27.01.2016&to=27.04.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "700adaaa3b888c82f80124a1368cbb3606fcb426e7096f8dd4a6d8a14a9d165d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
