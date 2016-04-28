@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2016-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 874,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕНЕЛИН ДИМИТРОВ НИКОЛАЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c61a3d49-31c4-4c70-b642-53038c8d19af",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1702be914689501d18fae10091d40f0bcd990f7668514431a55fe2c967aa854",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
