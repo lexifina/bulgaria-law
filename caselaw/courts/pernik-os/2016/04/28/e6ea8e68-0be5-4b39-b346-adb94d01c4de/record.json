@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2016-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 653,
+  "case_year": 1996,
+  "judge_rapporteur": "МИЛЕНА РАНГЕЛОВА ДАСКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6ea8e68-0be5-4b39-b346-adb94d01c4de",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2d9558c88d7fbb907da00f728fbdaa2138a743801edca5068a760081a3ebea87",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
