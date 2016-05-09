@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2016-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 125,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМИТЪР МИХАЙЛОВ КОВАЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4680ae42-c7d3-4e5a-ab96-05641876c3c4",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2d9558c88d7fbb907da00f728fbdaa2138a743801edca5068a760081a3ebea87",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
