@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 2672,
+  "case_year": 2016,
+  "decision_type": "Решение",
+  "decision_number": "5611",
+  "decision_date": "2016-05-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D797484%26code%3Dvas%26guid%3D1628935136",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=797484&code=vas&guid=1628935136",
+  "source_text_sha256": "7495d1471441864c6a997ec07b06cc205899c1cbdb891f67814a2e1c9580504d",
+  "source_images": 0
+}
