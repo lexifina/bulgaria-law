@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2016-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 193,
+  "case_year": 2015,
+  "judge_rapporteur": "СТИЛИЯН КИРИЛОВ МАНОЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0beb75b2-459e-4e59-bceb-d6d871d94490",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e1e0481cb3c1a1b9eb5b8afe98993642437113764b254f117c595cf4654a4edc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
