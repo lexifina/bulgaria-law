@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11928,
+  "case_year": 2015,
+  "judge_rapporteur": "ДЖУЛИАНА ИВАНОВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5244f159-a081-4529-be51-93e606c11ec5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=28.04.2016&to=20.05.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9aa12fbeb8bcd6009a805c4035ff15777a12c17844e3496e504c009fa29cdb85",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
