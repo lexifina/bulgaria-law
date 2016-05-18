@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2016-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 757,
+  "case_year": 2016,
+  "judge_rapporteur": "КРАСИМИР СЕМОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=db2b32a9-83fd-4328-ade0-45831947874e",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "92d2c6b45b80e7a39bd8341e1069ea789b9e24e83f2b2dee051d625dbbb309cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
