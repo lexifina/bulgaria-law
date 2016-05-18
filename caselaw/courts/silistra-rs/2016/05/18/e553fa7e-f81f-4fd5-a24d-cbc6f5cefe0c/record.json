@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 394,
+  "case_year": 2016,
+  "judge_rapporteur": "СТОЯН ИВАНОВ СТОЯНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e553fa7e-f81f-4fd5-a24d-cbc6f5cefe0c",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da5514cb172bcb40a778dab7437a9fc4bd856fba384f84786ec92192b899921c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
