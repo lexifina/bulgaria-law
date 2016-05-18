@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2016-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 267,
+  "case_year": 2015,
+  "judge_rapporteur": "СОНЯ ДИМИТРОВА КАМАРАШКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=644bf258-3410-485c-bd6a-aba2c8bbcccb",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b6b528a9dcb28dfe01c79a6f6db292b936e305f553915f7003d90dfe7fd5888",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
