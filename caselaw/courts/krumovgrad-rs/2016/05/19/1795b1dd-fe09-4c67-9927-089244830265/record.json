@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2016-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 12,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАН ИЛИЕВ ЙОРДАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1795b1dd-fe09-4c67-9927-089244830265",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "62c5cd821f50a5ed7fc6bdb69c8fcf9ecc9190d5c16fc23a96d47c9cbc557b6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
