@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2016-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 212,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРТИН ЦВЕТАНОВ САНДУЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a67ae6f7-df7a-4e1c-ada3-17f209d5bb76",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c3d56e36eb2c7c0310f6e1d3de7c33f0165098d7404c1cfc7834bbb00ec5fad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
