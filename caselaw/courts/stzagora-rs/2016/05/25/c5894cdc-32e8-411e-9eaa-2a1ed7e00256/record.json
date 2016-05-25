@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2016-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 2970,
+  "case_year": 2015,
+  "judge_rapporteur": "РОСЕН ТЕНЧЕВ ЧИЛИКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5894cdc-32e8-411e-9eaa-2a1ed7e00256",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "566e25df7ae52b31f4f16308454c4ba08189cbe4c4729edba3770631a26bfefd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
