@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2016-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 73,
+  "case_year": 2014,
+  "judge_rapporteur": "ДОРОТЕЯ ЕНЧЕВА ИВАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=613bb261-d86d-4342-b032-a86a27be9693",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11d349cf7ba4c838c30df037da42b7c64077ecde80c968af14a7d151753941d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
