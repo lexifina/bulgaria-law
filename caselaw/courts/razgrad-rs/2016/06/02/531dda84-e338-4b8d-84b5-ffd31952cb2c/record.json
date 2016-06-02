@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2016-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 98,
+  "case_year": 2016,
+  "judge_rapporteur": "КОНСТАНТИН ПЕТРОВ КОСЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=531dda84-e338-4b8d-84b5-ffd31952cb2c",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b3803d7765bdecfdb57ed6e6766dda4c0aa8146f776605fc1234763497ea19e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
