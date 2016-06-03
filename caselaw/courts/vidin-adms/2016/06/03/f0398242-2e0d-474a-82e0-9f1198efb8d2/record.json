@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2016-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 108,
+  "case_year": 2016,
+  "judge_rapporteur": "НИКОЛАЙ ПЕТРОВ ВИТКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0398242-2e0d-474a-82e0-9f1198efb8d2",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5cfbd0f3f0225a90d51c4fa254d1f5c96235e261d69afc3b139c467c5481aefe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
