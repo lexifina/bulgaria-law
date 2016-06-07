@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2016-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 228,
+  "case_year": 2016,
+  "judge_rapporteur": "ЦОНКА ТОДОРОВА МИТКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0cff539a-8b6c-453b-9a3a-5d25e18d54c9",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d5ef2e12f82adf2a55c9ceb443f5c59a7c89c71fe3e506d4a068a20aeab643ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
