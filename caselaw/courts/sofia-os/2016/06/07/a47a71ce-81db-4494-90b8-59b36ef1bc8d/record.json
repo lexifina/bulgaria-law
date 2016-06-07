@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2016-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 850,
+  "case_year": 1997,
+  "judge_rapporteur": "ФИЛИП ВЛАДИМИРОВ ВЛАДИМИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a47a71ce-81db-4494-90b8-59b36ef1bc8d",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "228097e4c9657a248085f98a78b1124d2d739f5b1873e17ad1445211a84fe559",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
