@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2016-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 584,
+  "case_year": 2014,
+  "judge_rapporteur": "ХРИСТО ПОПОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5723c231-364d-4611-acfc-1b83b591ab2a",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe177356cda735e20ee780286b56c13acd548ca5a35164017a8d2efd32e34836",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
