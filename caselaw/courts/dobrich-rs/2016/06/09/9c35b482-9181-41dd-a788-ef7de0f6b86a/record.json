@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2016-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 375,
+  "case_year": 2016,
+  "judge_rapporteur": "РОМЕО СИМЕОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9c35b482-9181-41dd-a788-ef7de0f6b86a",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa1565187dd2204dc5968efe1678d0d44eb452b8d68bae95adceebeeb67dce39",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
