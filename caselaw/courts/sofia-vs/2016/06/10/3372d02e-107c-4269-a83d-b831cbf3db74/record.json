@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2016-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 262,
+  "case_year": 2015,
+  "judge_rapporteur": "ГЕОРГИ МИТКОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3372d02e-107c-4269-a83d-b831cbf3db74",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f600faa154bf22e3e8ab9b3396e7b7fe6bf0d7fdf63450ae66799d563c80fedd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
