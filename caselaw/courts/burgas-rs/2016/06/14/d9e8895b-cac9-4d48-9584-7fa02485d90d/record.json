@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2016-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2521,
+  "case_year": 2016,
+  "judge_rapporteur": "СВЕТЛИН ИВАНОВ ИВАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9e8895b-cac9-4d48-9584-7fa02485d90d",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "823059e6aea33707374d69909e03febae17ad317e2c68059765e166b110b9d01",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
