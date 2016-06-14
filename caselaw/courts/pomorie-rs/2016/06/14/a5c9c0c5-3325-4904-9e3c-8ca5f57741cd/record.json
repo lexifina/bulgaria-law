@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2016-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 198,
+  "case_year": 2015,
+  "judge_rapporteur": "ИВАЙЛО ЙОРДАНОВ БЪЧВАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5c9c0c5-3325-4904-9e3c-8ca5f57741cd",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "db3459c67f614bed4bfdb8a018f5c1b1a0a384d4ac4c2bbcf0f7de3f5661882f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
