@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2016-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 269,
+  "case_year": 2016,
+  "judge_rapporteur": "ВАЛЕНТИНА ДРАГИЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fda7d262-7f0f-4254-b9bf-062169415f55",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bea471e64f384f3a41cad79488ca96dac28d5872647fb4f6bb1fb72dca6317cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
