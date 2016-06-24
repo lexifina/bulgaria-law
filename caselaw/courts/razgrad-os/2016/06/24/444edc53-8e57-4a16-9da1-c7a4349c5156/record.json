@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2016-06-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 80,
+  "case_year": 2010,
+  "judge_rapporteur": "ЕМИЛ ДИМИТРОВ СТОЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=444edc53-8e57-4a16-9da1-c7a4349c5156",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11d349cf7ba4c838c30df037da42b7c64077ecde80c968af14a7d151753941d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
