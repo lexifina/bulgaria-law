@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7829,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "7806",
+  "decision_date": "2016-06-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D768717%26code%3Dvas%26guid%3D1626196382",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=768717&code=vas&guid=1626196382",
+  "source_text_sha256": "e2117695efadd7f446e940df2c9f15100883efaf3b09f58cff62eefa077e14d1",
+  "source_images": 0
+}
