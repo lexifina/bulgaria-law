@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2016-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 728,
+  "case_year": 2016,
+  "judge_rapporteur": "ВАСИЛ МИТЕВ АТАНАСОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a3988897-b2ac-45b8-a63a-fd1d7c5a9f90",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3fa85f1e286e543d75d17b314c547722e3e850f2f93e55077203c61a8642b0db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
