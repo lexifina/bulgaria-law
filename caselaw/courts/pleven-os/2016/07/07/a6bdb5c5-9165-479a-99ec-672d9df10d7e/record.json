@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2016-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 360,
+  "case_year": 2016,
+  "judge_rapporteur": "НИКОЛАЙ ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a6bdb5c5-9165-479a-99ec-672d9df10d7e",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b80755e04c0756836ad3ee644013b61c53e740023ab1a4598ff8f44be2bf873",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
