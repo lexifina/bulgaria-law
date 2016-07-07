@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно дело",
+  "case_number": 139,
+  "case_year": 2016,
+  "judge_rapporteur": "ХРИСТИНКА ДАНЧЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec35b089-542b-444e-aa1e-9ea7c2f9d1fd",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "806f6248a0dbc22e77968d555b31c4271235872415ad7b2d4663e0323016c205",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
