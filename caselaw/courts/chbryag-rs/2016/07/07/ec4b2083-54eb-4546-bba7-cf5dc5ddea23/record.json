@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2016-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 492,
+  "case_year": 2016,
+  "judge_rapporteur": "ХРИСТО ВИТКОВ ПЪРВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec4b2083-54eb-4546-bba7-cf5dc5ddea23",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3c559bfec0e866c130268cd2f3d198be4666425b60f9344b99a4a73d5fd3f5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
