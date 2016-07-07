@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2016-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5,
+  "case_year": 2016,
+  "judge_rapporteur": "СВЕТОСЛАВ ЕМИЛОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b59d650c-f015-4400-9153-4ac0757c9ab7",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e2ab598f1a95259eba056317c9a1fde717bcc2d3b6d92192476ba6b7ce175c4b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
