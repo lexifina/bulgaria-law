@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2016-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 290,
+  "case_year": 2016,
+  "judge_rapporteur": "АНТОАНЕТА МАРИНОВА СИМЕОНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d4a7b6-3922-41a3-87b6-7787b07134d5",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6d0b3c893dd87ac6efe954058172a8bcc1f39f1c848a48f4dc573b8a89d96da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
