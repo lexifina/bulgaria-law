@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2016-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 321,
+  "case_year": 2015,
+  "judge_rapporteur": "ГАЛИНА АТАНАСОВА СТОЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35cbc82c-d590-4876-b25d-2d287ff52860",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a5b7bc9854c8277d49157655c9f5658165cc0ec56d6490eb583c3c1bae7f6f25",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
