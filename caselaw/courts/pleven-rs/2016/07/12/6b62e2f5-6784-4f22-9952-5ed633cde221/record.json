@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2016-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1609,
+  "case_year": 2016,
+  "judge_rapporteur": "ВАЛЕРИ ЦВЕТАНОВ ЦВЕТАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b62e2f5-6784-4f22-9952-5ed633cde221",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1702be914689501d18fae10091d40f0bcd990f7668514431a55fe2c967aa854",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
