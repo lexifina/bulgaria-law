@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2016-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 314,
+  "case_year": 2016,
+  "judge_rapporteur": "БОЙКА МИХАЙЛОВА ТАБАКОВА ПИСАРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c33e4947-0a27-4637-91ec-6b277d0b1ecb",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3e485916055d1c6f990ddfe4498082c37d0aa21a07be37c7c651cd037d1ea76",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
