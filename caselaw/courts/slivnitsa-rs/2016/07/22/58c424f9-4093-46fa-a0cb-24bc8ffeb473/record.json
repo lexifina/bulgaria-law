@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2016-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 160,
+  "case_year": 2016,
+  "judge_rapporteur": "АНГЕЛИНА ГЕРГИНОВА ГЕРГИНСКА",
+  "act_kind": "Заповед",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58c424f9-4093-46fa-a0cb-24bc8ffeb473",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba595df1402c85b7bf8289831d8e2037c35db21b5ca8f578e104aad419ac31ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
