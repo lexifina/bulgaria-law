@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2016-07-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 270,
+  "case_year": 2016,
+  "judge_rapporteur": "НАТАША ГЕОРГИЕВА ПАНЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68371890-b523-48d1-bbf4-7fe96156cfd2",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=28.04.2016&to=28.07.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "562be75655b40a1b5a2ecb1211cd66d3fb16f9841d61da28fe5e4f9f308ddc2d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
