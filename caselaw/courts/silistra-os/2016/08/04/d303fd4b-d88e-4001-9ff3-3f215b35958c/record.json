@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 15,
+  "case_year": 2016,
+  "judge_rapporteur": "ГАЛИНА МАРИНОВА ЕНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d303fd4b-d88e-4001-9ff3-3f215b35958c",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c958312f96f5d8f230075ec25231efa3c77b59807d829a73f6e90f0490ae69e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
