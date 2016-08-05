@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 100,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРГАРИТА РУСЕВА СЛАВОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=83dd07fe-b4c5-45aa-9be3-f18580cda3c8",
+  "motives_file": null,
+  "source": "https://silistra-adms.justice.bg/bg/1485?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fab9776cf305b00cef0806cd53f681674a8f3a124efd8158c3eb813dba587e90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
