@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2016-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 149,
+  "case_year": 2016,
+  "judge_rapporteur": "НЕВЯНА ПЕЙЧЕВА ЗАХАРИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4ad00c60-b9ea-4ec6-a7a2-5437cb69d3e7",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af7cbee6bcbb6907428b3f0b804819701175576db1886094dd81be13e67d1511",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
