@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-08-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 596,
+  "case_year": 2012,
+  "judge_rapporteur": "ЖАКЛИН ДИМИТРОВА КОМИТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc977b98-f83c-4620-b101-82307a450b25",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=29.07.2016&to=20.08.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1132c3b30fe5b5721172d9eb4095ad890a51e4baf60f5874b3efd90ae83d97bd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
