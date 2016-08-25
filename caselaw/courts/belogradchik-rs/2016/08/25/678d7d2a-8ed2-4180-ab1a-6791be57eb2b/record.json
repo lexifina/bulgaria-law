@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2016-08-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 235,
+  "case_year": 2015,
+  "judge_rapporteur": "АННА ИВАНОВА КАЙТАЗКА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=678d7d2a-8ed2-4180-ab1a-6791be57eb2b",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c57c894d3c7ca012fcc8edcbbd15057ea57f255f832db9e461d241ed0e2efa6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
