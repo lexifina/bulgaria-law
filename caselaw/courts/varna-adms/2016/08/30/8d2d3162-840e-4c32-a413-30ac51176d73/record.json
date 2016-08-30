@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1309,
+  "case_year": 2016,
+  "judge_rapporteur": "РАЛИЦА ДОБРЕВА АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d2d3162-840e-4c32-a413-30ac51176d73",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3789e72080a96f00e2c81db8cc9e9bc77c0b2da63ed08885f1a7b54c60971e1c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
