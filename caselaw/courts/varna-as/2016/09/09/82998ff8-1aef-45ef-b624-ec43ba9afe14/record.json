@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-09-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 455,
+  "case_year": 2016,
+  "judge_rapporteur": "МИЛЕН ПЕТРОВ СЛАВОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82998ff8-1aef-45ef-b624-ec43ba9afe14",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "715c2fb0d588ac5a5e11fdcab56543d80725f70a3112c0ca41f399061d8dadb5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
