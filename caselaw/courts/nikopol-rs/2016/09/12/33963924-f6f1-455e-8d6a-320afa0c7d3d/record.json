@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2016-09-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 177,
+  "case_year": 2016,
+  "judge_rapporteur": "ТОДОР ИЛИЕВ ТИХОЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=33963924-f6f1-455e-8d6a-320afa0c7d3d",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4032ac176e7e4e6c8a5d7f353d0646b8ba66ab50b3f335be0a14b238557c4558",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
