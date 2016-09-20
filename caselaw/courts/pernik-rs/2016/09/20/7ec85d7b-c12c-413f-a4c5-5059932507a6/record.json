@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2016-09-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2365,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИАНА МЛАДЕНОВА МАТЕЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ec85d7b-c12c-413f-a4c5-5059932507a6",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0069ad98df734c0d80d9b1cf47a47b9dcc83b3b21482b82428e26ba24a18b8b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
