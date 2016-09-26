@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1005,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВЕЛИНА АПОСТОЛОВА ДИМОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28b31bc8-2e89-4b26-91d0-4f6bf7ebf407",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0186d1d8b11d47c22affc5b79c785591a32c006fc7f23d3e4378e236ea4e7815",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
