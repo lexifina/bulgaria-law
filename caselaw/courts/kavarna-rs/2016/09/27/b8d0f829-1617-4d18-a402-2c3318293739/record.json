@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2016-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 159,
+  "case_year": 2016,
+  "judge_rapporteur": "ЕМИЛИЯ ДИМИТРОВА ПАНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8d0f829-1617-4d18-a402-2c3318293739",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b253f733616c9f31eab25c4805013c18723a8c4b3e1a98c8ff736898081608f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
