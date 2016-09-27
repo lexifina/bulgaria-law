@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2016-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 458,
+  "case_year": 2016,
+  "judge_rapporteur": "БОРЯНА АЛЕКСАНДРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1430c6f-b202-4ccc-a026-3cfd99e53496",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "207da538e59cdcd262f107e849fd7cecbbe8e5066ef1bc568a0e963dc530bc3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
