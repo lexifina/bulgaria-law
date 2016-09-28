@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2016-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 498,
+  "case_year": 2016,
+  "judge_rapporteur": "КАТЯ СТОЯНОВА ПЕНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c52e669-5ab5-4087-843f-a75ae3aecb03",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "882fd8f7dcdf48435654182b3e3b7af62849c1414d1b023f8923654d4a733946",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
