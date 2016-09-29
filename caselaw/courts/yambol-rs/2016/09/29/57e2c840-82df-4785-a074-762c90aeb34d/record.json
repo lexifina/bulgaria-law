@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2016-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1371,
+  "case_year": 2012,
+  "judge_rapporteur": "НИКОЛАЙ ИВАНОВ КИРКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=57e2c840-82df-4785-a074-762c90aeb34d",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57750734c3f5a01df609ffecb4bec32bd6eceff43420018933deae187e5a5a8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
