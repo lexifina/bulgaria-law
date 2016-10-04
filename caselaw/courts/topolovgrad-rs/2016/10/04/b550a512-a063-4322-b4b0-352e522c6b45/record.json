@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2016-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 60,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАН ХРИСТОВ ХРИСТОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b550a512-a063-4322-b4b0-352e522c6b45",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a662e414168fcf99dd52b4c473512b94ba7068e922ce3dc830658a515b5915b3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
