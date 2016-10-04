@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2016-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 353,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИЯ МИНЧЕВА ВЕЛКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b87b48e-73dd-43b9-a69b-e72d33ba5129",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85c9aed509f52d770dcb864a00bec42347d1734c63349d000c696f1237492c78",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
