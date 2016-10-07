@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2016-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 362,
+  "case_year": 2016,
+  "judge_rapporteur": "ЖЕНИ АТАНАСОВА БОЗУКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c84ebb35-0471-4bd2-ba3c-400e91a4d0ae",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa23343b529a9483d6b58ced7f0f4e572594d3c2ef2dc7485ba56e434a31f517",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
