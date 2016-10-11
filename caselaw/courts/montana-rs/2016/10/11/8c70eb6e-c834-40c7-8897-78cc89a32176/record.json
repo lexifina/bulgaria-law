@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2016-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1518,
+  "case_year": 2016,
+  "judge_rapporteur": "ЗОЯ ХРИСТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c70eb6e-c834-40c7-8897-78cc89a32176",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "effd9933b1491828e68f20e1cc246761dcde82c1f37479c5ae38b17ede7e9d4d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
