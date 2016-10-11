@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2016-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 159,
+  "case_year": 2016,
+  "judge_rapporteur": "РАДОСЛАВА МАРИНОВА ЙОРДАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f6be850-3e9f-4469-8a19-d51c657cb7bc",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3fb83c013eb092efc9af19b2307daa1a684b601e1c64d1f52ea53bf363ce3ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
