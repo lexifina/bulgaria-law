@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2016-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 197,
+  "case_year": 2016,
+  "judge_rapporteur": "АНЕТА ИВАНОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18092cd8-837a-4743-b2d5-70c6a3af5f36",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af7cbee6bcbb6907428b3f0b804819701175576db1886094dd81be13e67d1511",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
