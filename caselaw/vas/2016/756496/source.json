@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 3689,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "10677",
+  "decision_date": "2016-10-13",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D756496%26code%3Dvas%26guid%3D1625211294",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=756496&code=vas&guid=1625211294",
+  "source_text_sha256": "f6592ddd9153706b58613d21f46c21eb80b81cbcea27031c837d29c49b43a0fb",
+  "source_images": 0
+}
