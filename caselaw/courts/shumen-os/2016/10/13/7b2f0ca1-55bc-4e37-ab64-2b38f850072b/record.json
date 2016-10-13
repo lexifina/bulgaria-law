@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 243,
+  "case_year": 2004,
+  "judge_rapporteur": "РАЛИЦА ИВАНОВА ХАДЖИИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b2f0ca1-55bc-4e37-ab64-2b38f850072b",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e4ba4dd37255473be33014c10cd615d436b3536bec350ea847d47a4d7601fe3c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
