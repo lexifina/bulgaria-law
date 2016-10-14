@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2016-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10036,
+  "case_year": 2016,
+  "judge_rapporteur": "СИМОНА ДИМИТРОВА МИЛАНЕЗИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58187c49-566c-4dc8-82f9-cd66c0d279a0",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b8f298701f28a788b3fbfe3b71505e0b060805244df84d8d45564339d63dd40",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
