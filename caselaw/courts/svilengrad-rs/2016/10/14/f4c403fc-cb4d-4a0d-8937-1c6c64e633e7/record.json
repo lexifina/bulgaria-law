@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2016-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 681,
+  "case_year": 2016,
+  "judge_rapporteur": "ХРИСТО ГЕОРЧЕВ ГЕОРЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f4c403fc-cb4d-4a0d-8937-1c6c64e633e7",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b4b06670afa49f5c998fe6b4e7e99cd1f814e74ae43f4328f9f2c41c1b7e1a1a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
