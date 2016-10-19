@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 264,
+  "case_year": 2016,
+  "judge_rapporteur": "РОСТИСЛАВА ЯНКОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=70c63a26-032b-4c80-a711-75bdb49f55fa",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0186d1d8b11d47c22affc5b79c785591a32c006fc7f23d3e4378e236ea4e7815",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
