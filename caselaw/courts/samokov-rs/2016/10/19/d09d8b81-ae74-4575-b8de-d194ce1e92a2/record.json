@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2016-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 614,
+  "case_year": 2014,
+  "judge_rapporteur": "КИРИЛ ДАВИДОВ ПАВЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d09d8b81-ae74-4575-b8de-d194ce1e92a2",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "caa02cf5b37ae645a31163435b0ce4908dccb20a1955429ae7234d5cd265a213",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
