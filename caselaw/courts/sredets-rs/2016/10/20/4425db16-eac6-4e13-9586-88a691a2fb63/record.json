@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2016-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 31,
+  "case_year": 2016,
+  "judge_rapporteur": "СТОЯН ПЕТРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4425db16-eac6-4e13-9586-88a691a2fb63",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c46011db2ab5ce9c413a4634937987b59f6177a573f93a4d3748ad5b4832f8c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
