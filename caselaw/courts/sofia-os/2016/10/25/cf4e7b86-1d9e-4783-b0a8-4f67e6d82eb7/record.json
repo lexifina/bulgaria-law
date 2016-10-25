@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2016-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 313,
+  "case_year": 2016,
+  "judge_rapporteur": "ЕВГЕНИЯ ТОДОРОВА ГЕНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf4e7b86-1d9e-4783-b0a8-4f67e6d82eb7",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b951f71631e769e02d02091014e17563b0015384818ade1f7ba8527debcccac9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
