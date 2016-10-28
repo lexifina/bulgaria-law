@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 290,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЛАДИМИР НИКОЛОВ ДОБРЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa38761f-4ce2-4da1-b933-963adeda8c82",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c958312f96f5d8f230075ec25231efa3c77b59807d829a73f6e90f0490ae69e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
