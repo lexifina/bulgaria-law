@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2016-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 446,
+  "case_year": 2016,
+  "judge_rapporteur": "РАДИНА ВАСИЛЕВА ХАДЖИКИРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=70e14952-5d3a-4129-a011-3925a1e284bf",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=29.07.2016&to=28.10.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa2a5e35402945b0ff290ca747a1a538158af19908668fd6c640b4a89c7ca5f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
