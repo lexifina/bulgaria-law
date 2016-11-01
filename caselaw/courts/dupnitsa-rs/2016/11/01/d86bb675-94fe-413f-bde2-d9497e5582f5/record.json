@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2016-11-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 329,
+  "case_year": 2016,
+  "judge_rapporteur": "ДОБРИНКА АНГЕЛОВА ЗАФИРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d86bb675-94fe-413f-bde2-d9497e5582f5",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0fa52ace2eb6074a831ce3c053ec9187aa142d71e1dd3c1bb14f2671704d72f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
