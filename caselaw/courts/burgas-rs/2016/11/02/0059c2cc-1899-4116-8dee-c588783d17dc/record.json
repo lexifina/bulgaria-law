@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2016-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5135,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМАНА ГЕОРГИЕВА КИРЯЗОВА ВЪЛКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0059c2cc-1899-4116-8dee-c588783d17dc",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64a02359eff11b3c604886a8f34c7aa276c2b6c54a08b8d511a4f58da226092c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
