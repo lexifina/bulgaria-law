@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2016-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 42,
+  "case_year": 2016,
+  "judge_rapporteur": "ЙОРДАН МИНКОВ ДАМАСКИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=883f30a9-f01e-4da1-8e46-730c2de40a23",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b923ac189c8afdde6919244501e4ec0db831f4d792b7d4d01d15ca98e49a30f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
