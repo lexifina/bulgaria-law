@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2016-11-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 394,
+  "case_year": 2016,
+  "judge_rapporteur": "ПАЛМИРА ДИМИТРОВА АТАНАСОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a325aa4-6c3c-4378-ac91-4031f52f7cea",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12490a08f25955c2188f9f489c4119b6f011ae148f97ceceb672b786ea16cdf2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
