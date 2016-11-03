@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-11-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 467,
+  "case_year": 2016,
+  "judge_rapporteur": "ДАРИНА НЕДЕЛЧЕВА РАЧЕВА ГЕНАДИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c3ce81e-1f53-4d04-891f-1cba0c58cef6",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96b7a3018ae581dcd318e9af7fbe4451d2e42d410ad4e2bbc11d7396b2ed3793",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
