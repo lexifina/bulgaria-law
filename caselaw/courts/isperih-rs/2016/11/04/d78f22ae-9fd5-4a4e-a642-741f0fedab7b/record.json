@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2016-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 539,
+  "case_year": 2016,
+  "judge_rapporteur": "ЮЛИЯНА ВАСИЛЕВА ЦОНЕВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d78f22ae-9fd5-4a4e-a642-741f0fedab7b",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e42afbf75e6431d4e0b66f48202282ee882591a2b91e4ae0cdd3aaad46105bc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
