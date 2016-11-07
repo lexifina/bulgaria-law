@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2016-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4074,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМАНА НИКОЛОВА ЙОСИФОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0f59586-f472-4544-bdf9-dd7197e9f287",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=29.10.2016&to=20.11.2016&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f7d8f236365ba0dcb1e9b6fbf35d3aaeb7aa311d728d0fd952d468c15e03216",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
