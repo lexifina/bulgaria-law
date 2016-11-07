@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2016-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 132,
+  "case_year": 2014,
+  "judge_rapporteur": "ФИЛИП ВЛАДИМИРОВ ВЛАДИМИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bed6aabf-5b98-43a7-aa70-c9b404d95427",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2064281426b5cc1893da13d36919625f77ed16c528262b1260e4ffa10ef03776",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
