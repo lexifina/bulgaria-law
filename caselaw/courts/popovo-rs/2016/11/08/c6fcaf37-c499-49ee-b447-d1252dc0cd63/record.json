@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2016-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 786,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИНЕЛА ГЕОРГИЕВА СТЕФАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6fcaf37-c499-49ee-b447-d1252dc0cd63",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b6ca573f74407e5a11f807d8cb776a02bd21178fb90773b34bc3e80b2a5f7f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
