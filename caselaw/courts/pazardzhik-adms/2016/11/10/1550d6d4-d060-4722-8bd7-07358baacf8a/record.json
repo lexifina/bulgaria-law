@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2016-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 834,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИАНА ДИМИТРОВА ШОТЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1550d6d4-d060-4722-8bd7-07358baacf8a",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a155c777b490b31631ba08c3042049bc3b04c7de418fdd371c25c6381afeb996",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
