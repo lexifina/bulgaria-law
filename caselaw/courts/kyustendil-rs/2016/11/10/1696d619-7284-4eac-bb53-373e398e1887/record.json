@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2016-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1087,
+  "case_year": 2015,
+  "judge_rapporteur": "ЕЛИСАВЕТА ГЕОРГИЕВА ДЕЯНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1696d619-7284-4eac-bb53-373e398e1887",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29fc2a355d8f5d69afebb76e879cd2c99958af8ae5347609c162648871746dc5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
