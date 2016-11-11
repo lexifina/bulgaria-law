@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2016-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 276,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАН СТОЯНОВ ЧЕНКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=041fd3c8-c3ac-4adc-a738-7b50d2a9539a",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d41397d1ff34329a008a7a7c3167a95263eaf2eb299d4ee06ce9c58b90f7547b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
