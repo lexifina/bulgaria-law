@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2016-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 359,
+  "case_year": 2015,
+  "judge_rapporteur": "АНГЕЛ ДИМИТРОВ ГАГАШЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=071873da-7726-4b2a-970a-eb0705e86557",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5e1bc2916db0bc079e48c978f4e37aa16171bf519fb4956ba65e88335e9aeaac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
