@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2016-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1044,
+  "case_year": 2016,
+  "judge_rapporteur": "КАТЯ НИКОЛОВА ГЕРДОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7410f135-f2d3-435c-8470-c0387fd1ba51",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "354c1d22224975309d38d7cf3866b39e16c05e5151bdca9521aa6214c6570eb2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
