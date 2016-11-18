@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2016-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1305,
+  "case_year": 2016,
+  "judge_rapporteur": "ГРОЗДАН БОНЧЕВ ГРОЗЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71ff485f-b4bf-4fd3-9392-cd83cbd2e035",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c56bf03508fd4b387fc395d6f201e51b297d12f930cb631d11dab831d489c7ab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
