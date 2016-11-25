@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 127,
+  "case_year": 2016,
+  "judge_rapporteur": "СНЕЖИНА ПЕТКОВА ЧОЛАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce863364-5f52-4230-8427-6cb2999102be",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dfab39d59d9db7dd85d15723e4056fc52d1480313d41ba3d36fea52b12b646fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
