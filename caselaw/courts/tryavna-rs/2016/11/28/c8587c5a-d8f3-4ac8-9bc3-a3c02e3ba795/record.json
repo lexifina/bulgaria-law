@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2016-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 202,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИЯ СТОЯНОВА ДИНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8587c5a-d8f3-4ac8-9bc3-a3c02e3ba795",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbcbeefbf2552a39e08e9804e150d5554b1754c5d02a71722e24033c8af26ee3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
