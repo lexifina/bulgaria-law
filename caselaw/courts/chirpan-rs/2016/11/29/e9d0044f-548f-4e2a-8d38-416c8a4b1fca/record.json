@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2016-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 518,
+  "case_year": 2015,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9d0044f-548f-4e2a-8d38-416c8a4b1fca",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "21e86fedfd6f6eadfd541d1e5800017bd0b7a3b45d4cb93754627bf1fdd36203",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
