@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 534,
+  "case_year": 2016,
+  "judge_rapporteur": "ЙОРДАН ВАСИЛЕВ ДИМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=568b1ae1-879d-47c5-894e-6befae4bad6b",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af219e43af67b384c8015390f94ccfb167973f4733ff7a8ed97b487c6550ddd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
