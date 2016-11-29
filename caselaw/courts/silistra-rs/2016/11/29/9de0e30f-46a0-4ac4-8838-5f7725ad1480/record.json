@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2016-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1034,
+  "case_year": 2016,
+  "judge_rapporteur": "МИРОСЛАВ СТЕФАНОВ ХРИСТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9de0e30f-46a0-4ac4-8838-5f7725ad1480",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d16c33bc6476fa95d5edf949e3e6a747d81ca6f2433e5978e20e63dddd7ea3b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
