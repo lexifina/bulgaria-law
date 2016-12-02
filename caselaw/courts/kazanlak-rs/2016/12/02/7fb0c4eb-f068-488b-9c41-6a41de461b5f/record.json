@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2016-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 436,
+  "case_year": 2016,
+  "judge_rapporteur": "СТЕЛА ВЕСЕЛИНОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7fb0c4eb-f068-488b-9c41-6a41de461b5f",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b6307b059395bef14f0c6d63b2664c05514aa6932b1a5954fe74a4b740f83b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
