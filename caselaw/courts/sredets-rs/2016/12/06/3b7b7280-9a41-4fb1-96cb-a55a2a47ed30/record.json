@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2016-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 456,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b7b7280-9a41-4fb1-96cb-a55a2a47ed30",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a93f62434ff9b1920cc929874d8b827fde30605e89dc3431c96073616bbf3cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
