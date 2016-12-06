@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13802,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "13275",
+  "decision_date": "2016-12-06",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D786579%26code%3Dvas%26guid%3D1627982780",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=786579&code=vas&guid=1627982780",
+  "source_text_sha256": "d4c3c197a08c218f8edc70a57128ac7f5bddc1d5aa1014feb20df086cd831cc6",
+  "source_images": 0
+}
