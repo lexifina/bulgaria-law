@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2016-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 495,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМЧО СТОЯНОВ ЛУКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f5a735f5-3829-464a-8b0f-2e759d5cd020",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af219e43af67b384c8015390f94ccfb167973f4733ff7a8ed97b487c6550ddd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
