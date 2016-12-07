@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2016-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 419,
+  "case_year": 2016,
+  "judge_rapporteur": "АКСИНИЯ БОРИСОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27d81752-bbb3-4a98-ade9-3dd861a86ec4",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc1a97523336b3a38eac256ba7f956a3fe66091e7d164d691ef73b36b5750823",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
