@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7954,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "13425",
+  "decision_date": "2016-12-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D769140%26code%3Dvas%26guid%3D1626221144",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=769140&code=vas&guid=1626221144",
+  "source_text_sha256": "68422413e63e94d3d706c918a7bf74130216222b0cd480e3853b3799bd152fe7",
+  "source_images": 0
+}
