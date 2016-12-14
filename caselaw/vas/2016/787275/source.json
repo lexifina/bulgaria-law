@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 14033,
+  "case_year": 2015,
+  "decision_type": "Решение",
+  "decision_number": "13656",
+  "decision_date": "2016-12-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D787275%26code%3Dvas%26guid%3D1628009663",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=787275&code=vas&guid=1628009663",
+  "source_text_sha256": "7da0212b7ba2a68e34247c5181e7993974da495e2a72302a5008cf4e81b47bc9",
+  "source_images": 0
+}
