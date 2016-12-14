@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2016-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 157,
+  "case_year": 2016,
+  "judge_rapporteur": "СТЕФАН АСЕНОВ ДАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=da8fd0ca-8377-4dd9-ba79-48ac678e88fc",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "942861e3c89c86d8293fe3a8913107bcfccbceff206d19d40f9e2a7984ff4faf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
