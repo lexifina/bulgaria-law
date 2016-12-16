@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2016-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 750,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАЙЛО ГЕНОВ ЙОРДАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2f0cec6-9c02-4240-a8b7-767d3a6775aa",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77e2f7f873c1af274f2f43be2e353c5525959bb36f552cb4148bcc7f29b7de03",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
