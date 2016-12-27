@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2016-12-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 6560,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВЕЛИНА ХРИСТОВА ХРИСТОВА-ЖЕЛЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0470e1f0-667a-4f96-b9c6-b0850791668c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa35cabd33f279ec1fd287b647c98dab76c39634804ca9b56680e19cf41c19c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
