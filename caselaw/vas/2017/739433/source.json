@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13750,
+  "case_year": 2014,
+  "decision_type": "Решение",
+  "decision_number": "199",
+  "decision_date": "2017-01-09",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D739433%26code%3Dvas%26guid%3D1623453436",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=739433&code=vas&guid=1623453436",
+  "source_text_sha256": "8faa548eee1b26a39574765754fde0b5882d045add842e51b75b255d1c1ba4c2",
+  "source_images": 0
+}
