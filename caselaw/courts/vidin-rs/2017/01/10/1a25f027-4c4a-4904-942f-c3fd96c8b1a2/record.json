@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1508,
+  "case_year": 2016,
+  "judge_rapporteur": "АНДРЕЙ ЖИВКОВ ДЕЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a25f027-4c4a-4904-942f-c3fd96c8b1a2",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef035a452cd5d2f9ab569ddbfab80e7cee6c5fbed6b46b0d60aa68c09988036c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
