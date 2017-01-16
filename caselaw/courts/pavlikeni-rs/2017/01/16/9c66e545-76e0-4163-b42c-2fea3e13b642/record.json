@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2017-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 709,
+  "case_year": 2016,
+  "judge_rapporteur": "РАДКА ИВАНОВА ЦАРИГРАДСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9c66e545-76e0-4163-b42c-2fea3e13b642",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d5af65dedebbd1fa0ef955a09ffe52fa5f7055a7ce819ef4732747b49ea9573",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
