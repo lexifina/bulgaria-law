@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 23,
+  "case_year": 2016,
+  "judge_rapporteur": "РУМЕН ГЕОРГИЕВ КАТРЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2aada681-988a-4a72-bb3e-507713f7298b",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5316814b575c2f10c65a80cd2c0b81c2cb2f876fb75148406557cdf67aaed53d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
