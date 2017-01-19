@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2017-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 480,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЕТЯ ДИМИТРОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7d99d1c7-6a29-4113-b7a0-9ce9384c8d5f",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e24a0e74141c18f955a5a9f201af5c930304d76d64354e7e0016bc99c8676d34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
