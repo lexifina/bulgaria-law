@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно административно дело",
+  "case_number": 149,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЕТЪР ГЕОРГИЕВ КАСАБОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58b28d8c-96ad-4a8c-b4f2-24dd53dae68f",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b69a6fb6450bca99f408457764fa5c3be62b2a7cc359c80280b9577c81a76d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
