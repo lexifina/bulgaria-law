@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2017-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 614,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМИТРИНКА ЕМИЛОВА КУПРИНДЖИЙСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5bc4bfd1-569b-4314-9f02-9375c892d8db",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e42afbf75e6431d4e0b66f48202282ee882591a2b91e4ae0cdd3aaad46105bc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
