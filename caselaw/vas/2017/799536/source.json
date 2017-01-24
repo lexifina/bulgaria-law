@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 3365,
+  "case_year": 2016,
+  "decision_type": "Решение",
+  "decision_number": "938",
+  "decision_date": "2017-01-24",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D799536%26code%3Dvas%26guid%3D1628995526",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=799536&code=vas&guid=1628995526",
+  "source_text_sha256": "a5cad95d8507b15c10e9a469bfcae726e707fd1131d3addea272a777965e865e",
+  "source_images": 0
+}
