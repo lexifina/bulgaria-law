@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 1233,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЕТРАНКА ПАНАЙОТОВА КИРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8864fea-6ded-4dff-a7e2-9aec33696006",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e336e319a08b1ca852ea8c587829cff06cfac7ec39cbd9402949a2c0699dd9ce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
