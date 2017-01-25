@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2017-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 7,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦВЕТОМИЛ БОРИСОВ ГОРЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=958d1a77-b64e-4775-95bb-320454a66e78",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d5af65dedebbd1fa0ef955a09ffe52fa5f7055a7ce819ef4732747b49ea9573",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
