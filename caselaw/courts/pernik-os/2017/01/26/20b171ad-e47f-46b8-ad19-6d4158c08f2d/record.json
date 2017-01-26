@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2017-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 40,
+  "case_year": 2017,
+  "judge_rapporteur": "РЕНИ ПЕТРОВА КОВАЧКА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20b171ad-e47f-46b8-ad19-6d4158c08f2d",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=29.10.2016&to=28.01.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88996db350f16de17933d9f87427727102dac446f54dc9409c22785b4d54948d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
