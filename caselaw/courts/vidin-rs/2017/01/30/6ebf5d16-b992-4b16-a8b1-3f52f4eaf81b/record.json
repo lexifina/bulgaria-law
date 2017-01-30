@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2402,
+  "case_year": 2016,
+  "judge_rapporteur": "ГАЛИНА ВАСКОВА ГЕРАСИМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6ebf5d16-b992-4b16-a8b1-3f52f4eaf81b",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dae3130582fb79a6582d43293b5431b149f377ee219bd6e82b9ec71de819fd8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
