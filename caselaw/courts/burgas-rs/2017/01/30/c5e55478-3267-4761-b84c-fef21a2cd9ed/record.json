@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2017-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 388,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕОРГИ ХРИСТОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5e55478-3267-4761-b84c-fef21a2cd9ed",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f577a684e7851961c944f97cce10e90e40f25f7eb4d236b1c49cac203571ed42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
