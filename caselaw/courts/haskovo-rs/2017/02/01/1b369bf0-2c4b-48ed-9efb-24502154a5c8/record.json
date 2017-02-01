@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2017-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 104,
+  "case_year": 2017,
+  "judge_rapporteur": "ГРОЗДАН БОНЧЕВ ГРОЗЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b369bf0-2c4b-48ed-9efb-24502154a5c8",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4bf8a055ef1902c4f12ebf216c73fe3841e9afaa22a73ebaeb925cc28bfff333",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
