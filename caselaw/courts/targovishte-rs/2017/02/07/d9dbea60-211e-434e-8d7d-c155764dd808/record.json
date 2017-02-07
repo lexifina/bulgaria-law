@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2017-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1535,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЯРА МАРКОВА ПАНАЙОТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9dbea60-211e-434e-8d7d-c155764dd808",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "470acfb71972881ece416e138967967614ebdd8051d867a4542a5d545e00617b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
