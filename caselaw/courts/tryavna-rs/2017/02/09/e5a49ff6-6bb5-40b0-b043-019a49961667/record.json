@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2017-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 19,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИЯ СТОЯНОВА ДИНЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5a49ff6-6bb5-40b0-b043-019a49961667",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe02d8e3197645082351a94f4dad6854c6f779445bc2b7fe893c19b1c0ad596f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
