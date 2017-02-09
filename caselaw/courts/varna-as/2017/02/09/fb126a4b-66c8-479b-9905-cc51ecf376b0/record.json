@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 51,
+  "case_year": 2017,
+  "judge_rapporteur": "ЖЕНЯ РАДКОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb126a4b-66c8-479b-9905-cc51ecf376b0",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "729fd5850b23135e500d337ff8aa6be60a55848c3602cc3bc4376c86083fcbca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
