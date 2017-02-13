@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2017-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 535,
+  "case_year": 2016,
+  "judge_rapporteur": "ЖАНЕТА АНГЕЛОВА МАЛИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c6c4d49-9fe1-4844-81fc-3ae770cbcd8c",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "17beda412316c4bf5ab3323bc26e57ed0c4422aa45b59064a6bae9babd3dec68",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
