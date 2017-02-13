@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2017-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 33,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛИН ХРИСТОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b72ee60-c86b-47be-b027-86b29f84dc27",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4cb6d2dc7af9cd4ba2f9c2c3ef4d63ca6b65bfe2beb7de83dded4f2e3b48b882",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
