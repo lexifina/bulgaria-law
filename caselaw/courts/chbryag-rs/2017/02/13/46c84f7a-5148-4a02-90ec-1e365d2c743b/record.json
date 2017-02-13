@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2017-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 322,
+  "case_year": 2016,
+  "judge_rapporteur": "ВИОЛЕТА ГРИГОРОВА НИКОЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46c84f7a-5148-4a02-90ec-1e365d2c743b",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29a0527d7a3f65a87296872bb6127ef773a3d9e8100a8f52a7e24c563394214f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
