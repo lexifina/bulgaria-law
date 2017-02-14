@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2017-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 566,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВЕЛИНА КАРЧЕВА ЯНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d45e3f4e-bb13-4233-86b4-85eafaa33a35",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1090f4c96542075ac8355ccaabd7d3f16cb1877abf0c70cc89dcae00713ee7d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
