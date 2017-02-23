@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2017-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 94,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦВЕТАНЧО ДИМИТРОВ ТРИФОНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1142b160-a74b-43fe-aaa5-d63011bbca35",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "031accca7b9d31834068b0518fe808a713095512efb0bbd101a41171b335f906",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
