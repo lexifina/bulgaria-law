@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Етрополе",
+  "jurisdiction": "BG",
+  "date": "2017-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 199,
+  "case_year": 2016,
+  "judge_rapporteur": "МАЯ ДОЙЧЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a906dee7-2813-45c9-9edc-56af46201d8c",
+  "motives_file": null,
+  "source": "https://etropole-rs.justice.bg/bg/7015?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1659d08a5f599f759d2e335e961eac73db71ae712214c5317cd78c3e8e512574",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
