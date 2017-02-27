@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-02-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2942,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА ЛИЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c98ffe2d-33e1-4ffc-ada1-c3e1e060fbba",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=29.01.2017&to=15.03.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4cbc85d3607bad4fd3f06250ec984ab216338225959dad7d76af9b99daf4541",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
