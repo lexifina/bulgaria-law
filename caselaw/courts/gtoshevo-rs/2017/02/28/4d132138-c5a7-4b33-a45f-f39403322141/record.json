@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2017-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 60,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИНКО МИНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d132138-c5a7-4b33-a45f-f39403322141",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc2be89061c12fff4324b2e70603c9b4f91d6544658335182aa9bc24a81c80d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
