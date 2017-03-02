@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2017-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 41,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИМО ВЕНКОВ ЦОЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c018de3b-3e68-4534-a4a7-74cb01a31045",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f794af804860b97b932fe5d4a4db8ab1f60f239b595f0542934bf28a60a98d8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
