@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2017-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 101,
+  "case_year": 2017,
+  "judge_rapporteur": "ДЕСИСЛАВА КОНСТАНТИНОВА НИКОЛАЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f4b39cf-b2d2-4b23-b75e-f56e4002f7ea",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "653f091750ad8885067ddb478575160889034dd743a4e69926b469fff6dc7444",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
