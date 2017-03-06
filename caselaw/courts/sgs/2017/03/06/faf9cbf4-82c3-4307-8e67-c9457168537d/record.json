@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15537,
+  "case_year": 2014,
+  "judge_rapporteur": "КАТЕРИНА ДЕЛЧЕВА ЕНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=faf9cbf4-82c3-4307-8e67-c9457168537d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.03.2017&to=13.03.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8487b499449f14491898b1e42ea44fb95efeb9b07d9a21c38bb8f5826fece14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
