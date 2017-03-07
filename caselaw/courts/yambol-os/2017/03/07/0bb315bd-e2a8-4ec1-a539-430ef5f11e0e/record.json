@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2,
+  "case_year": 2017,
+  "judge_rapporteur": "ЖЕНИ АТАНАСОВА БОЗУКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0bb315bd-e2a8-4ec1-a539-430ef5f11e0e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4bf09f491233aa689c906b57f7f28ef85e9834c23ff59a0d05dd096bd9e102db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
