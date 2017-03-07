@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2017-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 62,
+  "case_year": 2017,
+  "judge_rapporteur": "КАТИНА МИТКОВА МИНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36d23aaa-e513-4d1b-bf77-373d4e5b78a2",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2baf84239333575ade07bdef8b659cb3065dad4b9763e57a28fdb238b6162563",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
