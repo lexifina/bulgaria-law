@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2017-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 73,
+  "case_year": 2017,
+  "judge_rapporteur": "КРАСИМИР СЕМОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=028f3513-7311-4a54-a4e4-ad3d9402dc3c",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70b6a7d74747d11d16b51a7df7a0c6242f582715d9c63848093b42331cac1cf2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
