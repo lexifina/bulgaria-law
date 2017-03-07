@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2017-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 10,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕОРГИ ДИМИТРОВ ЧОЛАКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03c9c01b-3675-4da5-bd3c-5615601911db",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa36457c2ae09483f80718124b51c724a07cb64f7191c8763db522420c36014c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
