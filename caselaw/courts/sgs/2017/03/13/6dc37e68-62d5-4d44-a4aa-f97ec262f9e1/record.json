@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6979,
+  "case_year": 2014,
+  "judge_rapporteur": "РОСЕН БОРИСЛАВОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6dc37e68-62d5-4d44-a4aa-f97ec262f9e1",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.03.2017&to=13.03.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8487b499449f14491898b1e42ea44fb95efeb9b07d9a21c38bb8f5826fece14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
