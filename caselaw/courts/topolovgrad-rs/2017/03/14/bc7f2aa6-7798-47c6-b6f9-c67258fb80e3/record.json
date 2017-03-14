@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2017-03-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 15,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВАН ХРИСТОВ ХРИСТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc7f2aa6-7798-47c6-b6f9-c67258fb80e3",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "00dea61899b077ae3bbf3eaae5c5c3ce55e8dad2c50dfca2b22c970c23c6a2c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
