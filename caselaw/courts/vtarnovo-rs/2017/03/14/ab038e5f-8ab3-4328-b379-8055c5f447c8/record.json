@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2017-03-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 426,
+  "case_year": 2017,
+  "judge_rapporteur": "ДАНИЕЛ ЙОРДАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab038e5f-8ab3-4328-b379-8055c5f447c8",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c2eaab3fff5b23ea97a4976bc7492919f8867f1084899701b9cc886f73c045d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
