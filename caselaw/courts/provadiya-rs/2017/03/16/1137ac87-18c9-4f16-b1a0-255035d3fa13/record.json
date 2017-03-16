@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2017-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 162,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕЛЕНА ИВАНОВА СТОИЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1137ac87-18c9-4f16-b1a0-255035d3fa13",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc859bea6ac7eefaa5d23fd8a92df07c591d7fcac032d4ead496743a55c4bd43",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
