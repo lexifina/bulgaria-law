@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2017-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 58,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕВГЕНИЯ ПАВЛОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39f46082-bde0-4ca5-958f-378a63e8f95e",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa2f613990883200ceeea0d482b39ecadc6aac078700590264d9124453d86063",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
