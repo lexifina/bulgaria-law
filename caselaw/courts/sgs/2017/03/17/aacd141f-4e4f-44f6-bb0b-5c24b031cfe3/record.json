@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 10256,
+  "case_year": 2016,
+  "judge_rapporteur": "АНЕЛИЯ ЗДРАВКОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aacd141f-4e4f-44f6-bb0b-5c24b031cfe3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=14.03.2017&to=24.03.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4626d667cd5ea63e1aee64ad3ee3ae5db87f2591892fea88f6a4013b7f3e8ba4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
