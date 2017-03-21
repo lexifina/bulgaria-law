@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 274,
+  "case_year": 2016,
+  "judge_rapporteur": "АНТОНИЯ БЛАГОВЕСТОВА ГЕНАДИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c529333-0cb2-42da-8a05-eba7dc5002d8",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a94d0cd16c507d4d29729e6501f10fa9b6b878dc69deda3b2201a5bfa14a022d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
