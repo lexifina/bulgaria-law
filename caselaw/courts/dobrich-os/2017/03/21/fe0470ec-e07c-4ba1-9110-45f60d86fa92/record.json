@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 400,
+  "case_year": 2014,
+  "judge_rapporteur": "АТАНАС МИЛЧЕВ КАМЕНСКИ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe0470ec-e07c-4ba1-9110-45f60d86fa92",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ff9223c2186efaefba89fef1ff6ef04bc7a1584f5dc5cf0951269157f1bceaf1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
