@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2017-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 107,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИЛЯНА НИКОЛОВА ЙОРДАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8aca04a2-0564-4514-94c6-80a982862eef",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15156dc5d27410ed83329dfa3594b96cd20bf46285a5cbddd9b691fc3ebd9fcc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
