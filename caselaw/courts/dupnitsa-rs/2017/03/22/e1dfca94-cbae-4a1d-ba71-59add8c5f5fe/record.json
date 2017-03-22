@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2017-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 475,
+  "case_year": 2017,
+  "judge_rapporteur": "МИРОСЛАВ РУМЕНОВ САНЕВСКИ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1dfca94-cbae-4a1d-ba71-59add8c5f5fe",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a40aeacb6363025b00c2276891ab65e4a5b49fbe808f2a974925c072c2ce03c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
