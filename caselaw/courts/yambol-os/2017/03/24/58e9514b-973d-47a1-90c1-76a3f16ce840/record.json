@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 19,
+  "case_year": 2013,
+  "judge_rapporteur": "НИКОЛАЙ ЕНЧЕВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58e9514b-973d-47a1-90c1-76a3f16ce840",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4bf09f491233aa689c906b57f7f28ef85e9834c23ff59a0d05dd096bd9e102db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
