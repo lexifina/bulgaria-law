@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 207,
+  "case_year": 2016,
+  "decision_type": "Решение",
+  "decision_number": "3853",
+  "decision_date": "2017-03-29",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D789994%26code%3Dvas%26guid%3D1628721825",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=789994&code=vas&guid=1628721825",
+  "source_text_sha256": "2b9d1fdc668bf6051698c7a54d076c04b1caafa92c0bf98602aaab3daeead444",
+  "source_images": 0
+}
