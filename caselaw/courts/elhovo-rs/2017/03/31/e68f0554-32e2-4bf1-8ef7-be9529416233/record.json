@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2017-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 367,
+  "case_year": 2015,
+  "judge_rapporteur": "ЯНА ВЪЛКОВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e68f0554-32e2-4bf1-8ef7-be9529416233",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8149ed75b18b20c8145b7371019d64707872c7c8f13fa47404917f8d52eb03ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
