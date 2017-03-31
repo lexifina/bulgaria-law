@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2017-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6823,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ef985ff-d5d3-4722-8e94-b3d941083194",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f577a684e7851961c944f97cce10e90e40f25f7eb4d236b1c49cac203571ed42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
