@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2017-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 156,
+  "case_year": 2017,
+  "judge_rapporteur": "СОНЯ ДИМИТРОВА КАМАРАШКА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b648cec3-1dc8-43ff-a6e0-b0fb97de820d",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed4e777fa327150e8ffee8aa96a16623c091c09a7547b6b6d02a08cbc7977f5a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
