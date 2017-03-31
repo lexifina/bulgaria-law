@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2044,
+  "case_year": 2017,
+  "judge_rapporteur": "ДОНИКА ИЛИЕВА ТАРЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e40118d-932a-4972-99f9-dafebeccb1ae",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=16.03.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1929146acc34178d9dce027c4187dfe9a30eb64a7f500edcbe2f08b1984da981",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
