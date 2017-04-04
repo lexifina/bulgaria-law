@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2017-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 40,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИМИТЪР МИКОВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b90668a-223d-4746-af5a-00c58ab929e9",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9396aac53c16c1acb6b88c62b5bc2f4d4c991b69ad93871c9dcbf45f75a5b7ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
