@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 31,
+  "case_year": 2016,
+  "judge_rapporteur": "ДИАНА БОРИСОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=54da159d-061b-44a3-8b91-9c6a2c38cd5b",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce2fb9b53ad5613ef21034112b05e64428f8b969f471a0574dbaaea98e33fca1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
