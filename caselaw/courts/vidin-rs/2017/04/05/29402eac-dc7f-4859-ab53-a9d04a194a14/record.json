@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 975,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИЕЛА ВИКТОРОВА ЙОСИФОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29402eac-dc7f-4859-ab53-a9d04a194a14",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dae3130582fb79a6582d43293b5431b149f377ee219bd6e82b9ec71de819fd8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
