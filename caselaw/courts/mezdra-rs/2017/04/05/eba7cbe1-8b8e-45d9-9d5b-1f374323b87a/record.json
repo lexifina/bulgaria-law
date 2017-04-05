@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2017-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 499,
+  "case_year": 2015,
+  "judge_rapporteur": "АНЕЛИЯ АНГЕЛОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eba7cbe1-8b8e-45d9-9d5b-1f374323b87a",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "02f62521e1d4361ca686bc07926ff0b88de8cb90ee80b40e2133cf21e1af6da7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
