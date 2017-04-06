@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2017-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 30,
+  "case_year": 2017,
+  "judge_rapporteur": "АННА ИВАНОВА КАЙТАЗКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e3421c4f-589f-4088-be47-bd6d2f7bdd0b",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4507d475a9b1b68692b7e57012b1617b6e7f30675da7b10280d88baeed54abc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
