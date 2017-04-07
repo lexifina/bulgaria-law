@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2017-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 371,
+  "case_year": 2016,
+  "judge_rapporteur": "ЙОВКА ИВАНОВА КАЗАНДЖИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55c45e3c-afc4-497f-8e15-83d3be01d6cc",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa2f613990883200ceeea0d482b39ecadc6aac078700590264d9124453d86063",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
