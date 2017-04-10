@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2017-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 46,
+  "case_year": 2017,
+  "judge_rapporteur": "ПАВЛИНА ДИМИТРОВА ГЕОРГИЕВА-ЖЕЛЕЗОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9531dbc2-73b5-4e28-8d41-b8d838769a39",
+  "motives_file": null,
+  "source": "https://silistra-adms.justice.bg/bg/1485?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12dff32c177f09a32d4ad0e9771c03396c5e079aecbbb7d64d9e11802ed61dbb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
