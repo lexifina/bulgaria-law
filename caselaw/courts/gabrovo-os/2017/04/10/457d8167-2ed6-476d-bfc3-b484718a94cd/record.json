@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10038,
+  "case_year": 2016,
+  "judge_rapporteur": "МИНКО НЕДЯЛКОВ МИНКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=457d8167-2ed6-476d-bfc3-b484718a94cd",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a6f209a8129fc24a83d47224d4a2a49e6dcf818735fd11f7a7b9924ac0166ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
