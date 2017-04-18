@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4449,
+  "case_year": 2015,
+  "judge_rapporteur": "СТЕФАН НЕДЯЛКОВ КЮРКЧИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e7c2f03a-2a0e-47c3-91c5-365993a54a92",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.04.2017&to=26.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49ff334c1c7a4d92cac4eff5c75411750e87e2e98c932dda19a24eb96fca850d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
