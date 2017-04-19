@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 9255,
+  "case_year": 2016,
+  "decision_type": "Решение",
+  "decision_number": "4855",
+  "decision_date": "2017-04-19",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D817231%26code%3Dvas%26guid%3D1650174039",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=817231&code=vas&guid=1650174039",
+  "source_text_sha256": "fd784c862c2215d3f606b30728fd6d46bf70d556a930131df6b9993d7922647e",
+  "source_images": 0
+}
