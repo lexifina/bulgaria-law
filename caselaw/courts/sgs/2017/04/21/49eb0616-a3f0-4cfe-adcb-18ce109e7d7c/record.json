@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 12939,
+  "case_year": 2016,
+  "judge_rapporteur": "ТАТЯНА СТАВРИ ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49eb0616-a3f0-4cfe-adcb-18ce109e7d7c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.04.2017&to=26.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49ff334c1c7a4d92cac4eff5c75411750e87e2e98c932dda19a24eb96fca850d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
