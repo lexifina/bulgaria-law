@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2017-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 52,
+  "case_year": 2017,
+  "judge_rapporteur": "СПАСИМИР СПАСОВ ЗДРАВЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=547a8cc9-450c-49df-a49e-6b6ea7b69e48",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1aff8714fa64278fcade698c51275529e40faff58090a9beb5e4bffbb3213eef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
