@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2017-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3316,
+  "case_year": 2016,
+  "judge_rapporteur": "ИРЕНА КОЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8380c22a-c212-4e7b-8fe5-60bd40dbd9c4",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c2eaab3fff5b23ea97a4976bc7492919f8867f1084899701b9cc886f73c045d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
