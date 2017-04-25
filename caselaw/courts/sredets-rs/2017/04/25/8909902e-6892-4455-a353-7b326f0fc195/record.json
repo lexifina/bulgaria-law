@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2017-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 22,
+  "case_year": 2013,
+  "judge_rapporteur": "АСЕН ТОТЕВ РАДЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8909902e-6892-4455-a353-7b326f0fc195",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "00ee8b0c161c204b8d78ef6de611534197538f45cfac9c07e711aa4ae2d0a218",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
