@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4211,
+  "case_year": 2016,
+  "judge_rapporteur": "НИКОЛАЙ НАЙДЕНОВ МЛАДЕНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9d8974a-1c28-41e3-8665-0b0bbee2282e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.04.2017&to=26.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49ff334c1c7a4d92cac4eff5c75411750e87e2e98c932dda19a24eb96fca850d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
