@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2017-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 95,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЛАДИМИР НИКОЛАЕВ ЛЕГАРСКИ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30864b3f-fd95-4695-a296-c858187831b8",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3047416ce14257442fc04ffcec242be46294b255eeb28149747e5b462ba4121",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
