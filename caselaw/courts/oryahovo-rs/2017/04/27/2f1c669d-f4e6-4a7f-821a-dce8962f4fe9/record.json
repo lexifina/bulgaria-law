@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2017-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 51,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВЕТА ВЕНЦИСЛАВОВА КЪНЕВА-САНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2f1c669d-f4e6-4a7f-821a-dce8962f4fe9",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c07444ed31be97c26d1b4dff1366a35e1097fad4440fa0e3e25df58bb3e3461",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
