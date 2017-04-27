@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ардино",
+  "jurisdiction": "BG",
+  "date": "2017-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 24,
+  "case_year": 2017,
+  "judge_rapporteur": "СУНАЙ ЮСЕИН ОСМАН",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5416f7a4-ee31-40e2-a0e2-1f7a67b70b5d",
+  "motives_file": null,
+  "source": "https://ardino-rs.justice.bg/bg/4775?from=29.01.2017&to=30.04.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aed078540b3039319e6149eced62de2737d8d5b870021fe34ead2f09fad553f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
