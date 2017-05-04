@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2017-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 291,
+  "case_year": 2016,
+  "judge_rapporteur": "ГАЛЕНА ПЕТКОВА ДЯКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5ce5756-e562-4a5c-bbbe-1e0a48d22a8d",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d368b2fa996036349b42d50242410b76c9a5c6432bd8bd333cdb4ce1558f278",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
