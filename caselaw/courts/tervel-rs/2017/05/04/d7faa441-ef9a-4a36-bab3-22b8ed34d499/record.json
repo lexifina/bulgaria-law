@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2017-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 25,
+  "case_year": 2017,
+  "judge_rapporteur": "РОСЕН ИВАНОВ БАЛКАНСКИ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7faa441-ef9a-4a36-bab3-22b8ed34d499",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "108b1fe090101df7931a9f5036cb0fb630817acae94874da33f0598c7ef911df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
