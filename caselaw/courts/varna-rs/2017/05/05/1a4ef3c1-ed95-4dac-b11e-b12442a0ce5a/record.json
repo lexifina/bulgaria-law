@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 2436,
+  "case_year": 2016,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a4ef3c1-ed95-4dac-b11e-b12442a0ce5a",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "976f60d4ec4c6f4f4c57bb51c0a08e0d69f9f6e3d67b3290c3c35a0da14490fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
