@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2017-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 285,
+  "case_year": 2017,
+  "judge_rapporteur": "АННА СТЕФАНОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80ffa5bb-c587-41d3-866d-38bf8681f123",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7520e1481fa705f246b35404b32bfcabfe7f322794e1d1e678c4dcba04d6e050",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
