@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2017-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 645,
+  "case_year": 1997,
+  "judge_rapporteur": "КРЕМЕНА ИВАНОВА КРАЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4e0e3c3-cbb0-4491-8b67-0aea388470c0",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94e7f5871176ccf0714b9af74f6579bc24e2ed2810f31e20124f789ad98a74a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
