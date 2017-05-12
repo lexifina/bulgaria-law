@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2017-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 335,
+  "case_year": 2017,
+  "judge_rapporteur": "АЛЕКСАНДЪР ЛЮБЕНОВ АЛЕКСАНДРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc53de67-5c35-470a-b857-8785f982e206",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b8249acb37f794f9124e677747bb2743bc78bd4d78c520d9af15a71b8cf23e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
