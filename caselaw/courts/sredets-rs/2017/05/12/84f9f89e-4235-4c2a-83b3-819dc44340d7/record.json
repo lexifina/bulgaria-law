@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2017-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 100,
+  "case_year": 2017,
+  "judge_rapporteur": "КРАСИМИРА ТОНЧЕВА ДОНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84f9f89e-4235-4c2a-83b3-819dc44340d7",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ad3d28032315c0f37428a122e5dc59c6f5e0c450a36b279fed9e3ad4643c4a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
