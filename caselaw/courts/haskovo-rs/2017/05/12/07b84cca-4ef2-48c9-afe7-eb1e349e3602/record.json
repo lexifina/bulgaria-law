@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2017-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 311,
+  "case_year": 2017,
+  "judge_rapporteur": "ДАНИЕЛА КОЛЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07b84cca-4ef2-48c9-afe7-eb1e349e3602",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b71a89ab20a5d9a487a056149e5d76ca0a25f2a55b54646cf469ccf425b3b3f6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
