@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2017-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 161,
+  "case_year": 2017,
+  "judge_rapporteur": "СТАНИСЛАВ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b62f93e3-af78-4cb9-92cd-d9826783d0df",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2b28827227a03cbaa3ac2931a993fa238f1037c7a94f9cc58ff8195d4219915",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
