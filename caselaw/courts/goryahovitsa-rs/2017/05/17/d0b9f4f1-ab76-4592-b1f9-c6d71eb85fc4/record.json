@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2017-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 256,
+  "case_year": 2017,
+  "judge_rapporteur": "ЗЛАТИНА ЛИЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0b9f4f1-ab76-4592-b1f9-c6d71eb85fc4",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7bb28c4b51aed021512b03f4a34f424d2942f8f75c91f3bbf439ef0ab9a4eb52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
