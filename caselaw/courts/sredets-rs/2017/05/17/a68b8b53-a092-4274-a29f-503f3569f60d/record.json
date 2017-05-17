@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2017-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 161,
+  "case_year": 2017,
+  "judge_rapporteur": "КРАСИМИРА ТОНЧЕВА ДОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a68b8b53-a092-4274-a29f-503f3569f60d",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ad3d28032315c0f37428a122e5dc59c6f5e0c450a36b279fed9e3ad4643c4a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
