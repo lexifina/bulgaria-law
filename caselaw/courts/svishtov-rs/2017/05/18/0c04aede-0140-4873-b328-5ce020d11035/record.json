@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2017-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 782,
+  "case_year": 2016,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c04aede-0140-4873-b328-5ce020d11035",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2384ec5ebd9a7aa13f8082f712bc5cb127612d7d9949bd6bc115aba3a1b11536",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
