@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2017-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 161,
+  "case_year": 2014,
+  "judge_rapporteur": "СИЛВИЯ ЦВЕТКОВА КРЪСТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a9e570af-bebb-4f5b-842b-8e1484689e53",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f8074645b9b565d001c91b1720c282d8e21419670f4028b507db059c21f2724c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
