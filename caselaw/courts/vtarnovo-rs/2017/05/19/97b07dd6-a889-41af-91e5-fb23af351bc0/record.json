@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2017-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 803,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИАНА РАДЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=97b07dd6-a889-41af-91e5-fb23af351bc0",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5815ae5b62d2761687c937a60c67954d556bb50c04824481632e5a642ff2a546",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
