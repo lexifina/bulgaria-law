@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 1018,
+  "case_year": 1997,
+  "judge_rapporteur": "ИВА СПАСОВА ДИМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=683cb536-8588-46aa-9191-3a9b3f1e26bb",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3e732c6c1658319cb122e343daac9ce402e45a2304361b9c1e88ed41e3becee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
