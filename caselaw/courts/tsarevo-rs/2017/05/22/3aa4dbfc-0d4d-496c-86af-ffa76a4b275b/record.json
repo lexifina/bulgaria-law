@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2017-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 313,
+  "case_year": 2017,
+  "judge_rapporteur": "АЛЕКСАНДРА ФЬОДОРОВНА КОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3aa4dbfc-0d4d-496c-86af-ffa76a4b275b",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "27c895d3c4e1dfefa14dadd98208967231c358b1f90277623c25be5879c41970",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
