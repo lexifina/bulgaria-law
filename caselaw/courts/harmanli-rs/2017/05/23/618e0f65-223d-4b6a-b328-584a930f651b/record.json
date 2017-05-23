@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2017-05-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 145,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЕСЕЛИН ХРИСТОВ КОЛАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=618e0f65-223d-4b6a-b328-584a930f651b",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "14289f6f7726d4f1bd4a27c4750521ad32994b241da5dc07ab924493a78e3ede",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
