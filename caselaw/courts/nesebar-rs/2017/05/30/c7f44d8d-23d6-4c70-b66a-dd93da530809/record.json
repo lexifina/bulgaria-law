@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2017-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 352,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЕТЪР СЛАВОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7f44d8d-23d6-4c70-b66a-dd93da530809",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "039356b3aecd6280621b5be1e1c911158e0ae370b0e430f12e64b105b1c4a09d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
