@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2017-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 617,
+  "case_year": 2017,
+  "judge_rapporteur": "РАДОСЛАВА МАЖДРАКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1fd5a4c6-7bdf-4f8a-a359-7cf979c0b7dd",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8e1a09fd66c934d5b830b910832b57724ad8de75b4c119720cda003b0d3ae828",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
