@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2017-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 135,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЛАМЕН ИВАНОВ ПЕНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91f29fa1-1adb-4d11-b5e6-4b28636319ec",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49aa51822bab0998b233b15a236b6f8d1c3a66c091323b20f7b948b3832b068c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
