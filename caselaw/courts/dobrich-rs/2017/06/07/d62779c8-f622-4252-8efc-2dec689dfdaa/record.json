@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4158,
+  "case_year": 2016,
+  "judge_rapporteur": "АННА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d62779c8-f622-4252-8efc-2dec689dfdaa",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab3f0fdbd261fe5c4e857282ff43db51ace870f1f0b19e5af74ed864643edcb8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
