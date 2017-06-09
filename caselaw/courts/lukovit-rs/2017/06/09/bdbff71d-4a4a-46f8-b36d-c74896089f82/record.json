@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2017-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 376,
+  "case_year": 2015,
+  "judge_rapporteur": "АНИ БОРИСОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bdbff71d-4a4a-46f8-b36d-c74896089f82",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49aa51822bab0998b233b15a236b6f8d1c3a66c091323b20f7b948b3832b068c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
