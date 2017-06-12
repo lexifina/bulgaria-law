@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2017-06-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 137,
+  "case_year": 2016,
+  "judge_rapporteur": "НИКОЛАЙ ХРИСТОФОРОВ ХРИСТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59999427-3b24-427b-8492-9414f36a8be6",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f27277292da35c7dcdeefe0434994a32f89fc603a935bf440c02be819d614122",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
