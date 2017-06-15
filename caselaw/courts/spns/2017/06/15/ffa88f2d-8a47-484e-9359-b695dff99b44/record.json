@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2017-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1268,
+  "case_year": 2017,
+  "judge_rapporteur": "АНДОН ГЕОРГИЕВ МИТАЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ffa88f2d-8a47-484e-9359-b695dff99b44",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "979d0d22cdeab11bf0f7166b8b5a0b27e5eca4fc151cbbee298cb47c201f2bc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
