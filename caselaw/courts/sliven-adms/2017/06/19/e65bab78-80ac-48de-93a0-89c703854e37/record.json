@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2017-06-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 48,
+  "case_year": 2017,
+  "judge_rapporteur": "ИГЛИКА ВАСИЛЕВА ЖЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e65bab78-80ac-48de-93a0-89c703854e37",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2dbb3eb5f2c2e07a47bd8957f17fb491ad450df0eaecf7f4ec981e7f7fd651ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
