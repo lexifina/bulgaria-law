@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2017-06-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 36,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕСЕЛИН ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef999adc-f774-46fd-b509-015e45103a78",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "332100ddb1000b93db5ade523d8f295e8782839ae56e6387f3372b2241430028",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
