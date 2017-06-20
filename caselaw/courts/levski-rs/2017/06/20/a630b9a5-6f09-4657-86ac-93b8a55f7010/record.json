@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2017-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 110,
+  "case_year": 2017,
+  "judge_rapporteur": "ПАЛМИРА ДИМИТРОВА АТАНАСОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a630b9a5-6f09-4657-86ac-93b8a55f7010",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b699866ce44f7f9583748f68e6f297cf33c56f3877ec81950ac7f365eae35bc4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
