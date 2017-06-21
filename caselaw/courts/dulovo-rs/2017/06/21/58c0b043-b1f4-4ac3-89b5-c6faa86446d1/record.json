@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2017-06-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 65,
+  "case_year": 2017,
+  "judge_rapporteur": "НИКОЛАЙ КОСТАДИНОВ КЪНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58c0b043-b1f4-4ac3-89b5-c6faa86446d1",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "332100ddb1000b93db5ade523d8f295e8782839ae56e6387f3372b2241430028",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
