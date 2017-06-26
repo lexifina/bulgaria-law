@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1203,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИАНА КИРИЛОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8a303d7-d66d-4f24-8e38-19ccd7f465e7",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6077f1cd0a49fcd021997f121df647514b7aab1cdfcafd5c7360607358d87ae2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
