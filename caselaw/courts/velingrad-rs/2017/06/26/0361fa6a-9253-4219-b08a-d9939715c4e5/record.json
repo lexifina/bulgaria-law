@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2017-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 576,
+  "case_year": 2017,
+  "judge_rapporteur": "ВАЛЕНТИНА ДРАГИЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0361fa6a-9253-4219-b08a-d9939715c4e5",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bbd31416670d9a64ad722414f8c12f0e4e4728c5333a2510a65b1c5c037f1b0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
