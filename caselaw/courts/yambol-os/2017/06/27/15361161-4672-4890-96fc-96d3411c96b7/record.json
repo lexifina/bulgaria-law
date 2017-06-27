@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 79,
+  "case_year": 2016,
+  "judge_rapporteur": "ДОБРИН ПЕЕВ КЮЧУКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=15361161-4672-4890-96fc-96d3411c96b7",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c36261d0321853b18b0248f31a2f956d259aa6fd89354dceb4d633b1ab307a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
