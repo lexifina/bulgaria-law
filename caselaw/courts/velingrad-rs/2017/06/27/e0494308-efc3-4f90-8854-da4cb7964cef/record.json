@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2017-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 379,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЕСЕЛИН АНГЕЛОВ ПЕТРИЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0494308-efc3-4f90-8854-da4cb7964cef",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bbd31416670d9a64ad722414f8c12f0e4e4728c5333a2510a65b1c5c037f1b0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
