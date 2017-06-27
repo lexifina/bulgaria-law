@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2017-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 169,
+  "case_year": 2017,
+  "judge_rapporteur": "НАСЯ ИВАНОВА ЯПАДЖИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=50e38b25-a3cb-4b2b-a487-0c992000be51",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a5c4372eef2abe1b33605ce47e6cf8fde6cc554d4768a643048e9eae0ded083",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
