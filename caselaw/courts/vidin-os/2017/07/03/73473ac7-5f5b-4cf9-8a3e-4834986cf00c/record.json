@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 64,
+  "case_year": 2016,
+  "judge_rapporteur": "СВЕТЛА ЖЕЛЯЗКОВА СТОЯНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73473ac7-5f5b-4cf9-8a3e-4834986cf00c",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ca0bb8362b84f73c8a8d1c9fcc607b406545b949a6aa0b4caa2377d98553702",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
