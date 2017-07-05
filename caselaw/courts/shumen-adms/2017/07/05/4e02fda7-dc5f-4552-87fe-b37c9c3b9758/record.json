@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 80,
+  "case_year": 2017,
+  "judge_rapporteur": "КРЕМЕНА ГРИГОРОВА БОРИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e02fda7-dc5f-4552-87fe-b37c9c3b9758",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90cb8239bcb68405d8dd0383e61a81ddb559a6d79d8e5cb1d166ea5dbac148d0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
