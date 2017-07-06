@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2017-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 175,
+  "case_year": 2017,
+  "judge_rapporteur": "КАМЕН ГЕОРГИЕВ ГАТЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30c1764f-770a-4bb4-9ed5-ebd3e88a2f9c",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88f680225910f685ab7d3263231ca3dd76fb686be0df6439626aa5df305b4813",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
