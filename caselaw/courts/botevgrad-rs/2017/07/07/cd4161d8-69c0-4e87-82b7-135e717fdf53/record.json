@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2017-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1550,
+  "case_year": 2016,
+  "judge_rapporteur": "ИЛИЯНА ЦВЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd4161d8-69c0-4e87-82b7-135e717fdf53",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a8dbeba61ad5cedb2a081990b75b3bf39157dea88cb1cc86f427a33ba209089",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
