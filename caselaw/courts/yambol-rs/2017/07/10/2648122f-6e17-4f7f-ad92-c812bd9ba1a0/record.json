@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-07-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 765,
+  "case_year": 2017,
+  "judge_rapporteur": "НИКОЛАЙ ИВАНОВ КИРКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2648122f-6e17-4f7f-ad92-c812bd9ba1a0",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9dc665905c1f02b97c043dce37418c63c7705cdd439fce84863800f773c54e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
