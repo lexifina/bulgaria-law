@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7879,
+  "case_year": 2016,
+  "judge_rapporteur": "НЕВЕНА БОРИСОВА ЧЕУЗ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=419e64ce-b9c9-45df-acf3-5ab305e21b5a",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=02.07.2017&to=12.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11b33890d6a95b10838b71d4bf1d60edbd7159981f231cee1836ecc8d5f6f0ce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
