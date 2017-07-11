@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2017-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 240,
+  "case_year": 2016,
+  "judge_rapporteur": "БОЖИДАРКА ДАНЧОВА ЙОСИФОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0b30d2a-a642-4bc5-85bc-082de244749e",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7bd16acdd6dbafd1dc3fcc8998ea5da321fa8667fff43ad826540ba87a39c3e0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
