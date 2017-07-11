@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2017-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 47,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕМИЛИЯ ДИМИТРОВА ПАНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8e30c5e-1b06-445e-8ce4-59dc93582e61",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "507ee8dfd5930d563a2a775250bbb9e3243754a344e3b04631c45fd4e76a2aae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
