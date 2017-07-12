@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2017-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 236,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВАЙЛО ГЕНОВ ЙОРДАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee28fdbc-ef32-4b54-8ddb-d6d5e9c59aa7",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6aa3b188ace5906e615383bcb37507229e6e396ba672c4ee55a2cf682f00360e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
