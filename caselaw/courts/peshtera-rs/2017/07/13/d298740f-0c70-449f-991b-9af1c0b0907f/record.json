@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2017-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 715,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЕЛИНА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d298740f-0c70-449f-991b-9af1c0b0907f",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88f680225910f685ab7d3263231ca3dd76fb686be0df6439626aa5df305b4813",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
