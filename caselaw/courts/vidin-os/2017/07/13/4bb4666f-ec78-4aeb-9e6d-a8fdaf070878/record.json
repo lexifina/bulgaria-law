@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 186,
+  "case_year": 2017,
+  "judge_rapporteur": "ЛЮЛИН ВЕНЕЛИНОВ ЛОЗАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bb4666f-ec78-4aeb-9e6d-a8fdaf070878",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0ca0bb8362b84f73c8a8d1c9fcc607b406545b949a6aa0b4caa2377d98553702",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
