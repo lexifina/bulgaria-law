@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2017-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 318,
+  "case_year": 2017,
+  "judge_rapporteur": "ТОШКА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=625e844d-f9fa-4a92-8c70-32ba5744a7fe",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "845a74e7b6106a3bd1717b68861c49bcc667f0c66da939c37d9a6897f7e91166",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
