@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 556,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛЯ ИВАНОВА МИТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8da849ad-3500-4e61-9537-e1c530eae204",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab3f0fdbd261fe5c4e857282ff43db51ace870f1f0b19e5af74ed864643edcb8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
