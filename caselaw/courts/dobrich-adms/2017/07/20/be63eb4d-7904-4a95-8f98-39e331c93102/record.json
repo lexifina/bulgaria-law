@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 288,
+  "case_year": 2017,
+  "judge_rapporteur": "СИЛВИЯ МИНКОВА САНДЕВА-ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=be63eb4d-7904-4a95-8f98-39e331c93102",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f9f256953abebeb1c1de4ff35baeb8542762adc4eb6c86438ecf703e54a0a10",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
