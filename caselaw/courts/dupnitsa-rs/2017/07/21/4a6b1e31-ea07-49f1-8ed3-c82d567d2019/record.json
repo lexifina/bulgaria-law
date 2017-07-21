@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2017-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1006,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕЛИ ГЕОРГИЕВА СКОКЛЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a6b1e31-ea07-49f1-8ed3-c82d567d2019",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d2f2e361f18defb4a190e5f4ad5e43f950f07c00835ed621315234ac004e1235",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
