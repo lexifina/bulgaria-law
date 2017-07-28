@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2017-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 70,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЛАМЕН МАРИНОВ ДОЙКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3be0bbf-c315-44e7-a645-ade832d6bbdc",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42d635c896a3a202b8a9fe1d857862aeb95fe2359127d2bb464e0f58d90ed89f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
