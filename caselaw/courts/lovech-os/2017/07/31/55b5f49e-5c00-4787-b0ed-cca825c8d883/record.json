@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2017-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 44,
+  "case_year": 2016,
+  "judge_rapporteur": "ПОЛЯ СТОЯНОВА ДАНКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55b5f49e-5c00-4787-b0ed-cca825c8d883",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=01.05.2017&to=31.07.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1e6194a94da1621c99ffc6cfa636f5fff07fb8289af0f7a53e7ac2f483fb786d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
