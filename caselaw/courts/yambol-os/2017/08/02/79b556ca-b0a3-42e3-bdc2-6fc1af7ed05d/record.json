@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-08-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 47,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛИНА ИВАНОВА ВЪЛЧАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=79b556ca-b0a3-42e3-bdc2-6fc1af7ed05d",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f97272605b204ae8ee0842e5826bc3163e23815af3b73f4c92fd54e05815120",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
