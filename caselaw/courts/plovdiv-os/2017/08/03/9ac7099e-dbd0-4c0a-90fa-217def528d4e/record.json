@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1128,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЕСЕЛИНА ТОДОРОВА СЕМКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ac7099e-dbd0-4c0a-90fa-217def528d4e",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a65e10d6ecfc8b8863883e929ca4ae49a2f5951dd00d0b01ed85c2b6486233e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
