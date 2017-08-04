@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 608,
+  "case_year": 2017,
+  "judge_rapporteur": "ЯВОР ИВАНОВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1324c790-57ee-4b4a-9e05-8924ff08eba3",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "587fed717dbe101147168223d4dfe88641794147869d2b9ce8d5cb2ab2c20f4c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
