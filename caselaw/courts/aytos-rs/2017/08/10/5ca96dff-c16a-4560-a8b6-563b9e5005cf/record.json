@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2017-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 33,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ ДУЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5ca96dff-c16a-4560-a8b6-563b9e5005cf",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "895c270a7f3d4612f02ffe0b7c594f0bb94c6aa17d16df0c09b5691e17364d62",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
