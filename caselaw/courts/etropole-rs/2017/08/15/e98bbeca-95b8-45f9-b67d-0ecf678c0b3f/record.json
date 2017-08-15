@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Етрополе",
+  "jurisdiction": "BG",
+  "date": "2017-08-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 87,
+  "case_year": 2017,
+  "judge_rapporteur": "МАЯ ДОЙЧЕВА НИКОЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e98bbeca-95b8-45f9-b67d-0ecf678c0b3f",
+  "motives_file": null,
+  "source": "https://etropole-rs.justice.bg/bg/7015?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb7d58f11e1007471c5cd1a0c6cb670aa9a86b705f35be1a4cb70d7836fad479",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
