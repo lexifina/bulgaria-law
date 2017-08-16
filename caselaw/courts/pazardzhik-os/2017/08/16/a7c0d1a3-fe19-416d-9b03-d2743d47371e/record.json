@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2017-08-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 567,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦВЕТАНКА ТРЕНДАФИЛОВА ВЪЛЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7c0d1a3-fe19-416d-9b03-d2743d47371e",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c88f4ca9c066e5e74b3be7673d058a05c86942e44dd0f402ff9b7e3e7ded672",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
