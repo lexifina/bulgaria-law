@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2017-08-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 395,
+  "case_year": 2017,
+  "judge_rapporteur": "ДОБРИНКА ДИМЧЕВА КИРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c0dbc0d-9dac-4c4e-af1f-6b8b17b5f1e1",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "261148e8a02a472a0deeb51973b1ec77e26c5495a38b14d051b40ebacf1d0c62",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
