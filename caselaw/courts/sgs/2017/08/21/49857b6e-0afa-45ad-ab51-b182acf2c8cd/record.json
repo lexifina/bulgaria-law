@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-08-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5032,
+  "case_year": 2015,
+  "judge_rapporteur": "ИЛИАНА ВАЛЕНТИНОВА СТАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49857b6e-0afa-45ad-ab51-b182acf2c8cd",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=15.08.2017&to=25.08.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "61d6066f3513b82f82583f19be092f8628197879f104aaa5fac6d26be80f19bc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
