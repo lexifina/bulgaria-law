@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-08-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 14,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛИНА КОСЕВА КОСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=696ec44c-6221-4906-8d96-dbb91af92b61",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "18bb7f6a72cdc6519e00c9831689e5afcbe3aaf6a89be354535fc2cb12ec3cc7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
