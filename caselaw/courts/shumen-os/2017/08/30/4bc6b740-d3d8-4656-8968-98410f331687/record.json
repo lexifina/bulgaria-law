@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 247,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИАНА ИВАНОВА ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bc6b740-d3d8-4656-8968-98410f331687",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9e0da69d03539e8cef08fa146a1935de6b9c36de4baec42f6ba259540841d5b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
