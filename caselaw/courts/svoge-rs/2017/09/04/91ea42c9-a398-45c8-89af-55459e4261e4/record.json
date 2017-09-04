@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2017-09-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 205,
+  "case_year": 2017,
+  "judge_rapporteur": "НАДЯ СТЕФАНОВА БАКАЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91ea42c9-a398-45c8-89af-55459e4261e4",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "de36c7eee4bcdc66c6152c5c89dc67767487f6770d98d72fb8129a7a0171c620",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
