@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2017-09-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 659,
+  "case_year": 2016,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31bff138-4130-41de-93e9-8e3be4765938",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "980a31b350200b8e0d5a2eca2ae25416b61300bb06e0502c5820031511935ca2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
