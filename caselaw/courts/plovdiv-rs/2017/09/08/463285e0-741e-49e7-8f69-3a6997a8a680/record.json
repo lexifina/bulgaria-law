@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-09-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5751,
+  "case_year": 2017,
+  "judge_rapporteur": "НИКОЛАЙ ЗАХАРИЕВ ПЕТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=463285e0-741e-49e7-8f69-3a6997a8a680",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=01.08.2017&to=15.09.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd5b68651f9b0acb0c82fdb775e1638da5726ac3a0c4bfcb0ea3d701c63afb02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
