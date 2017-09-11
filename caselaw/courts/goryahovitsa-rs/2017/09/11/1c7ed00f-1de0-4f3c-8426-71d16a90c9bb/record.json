@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2017-09-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 402,
+  "case_year": 2017,
+  "judge_rapporteur": "МИЛЕНА КАРАГЬОЗОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c7ed00f-1de0-4f3c-8426-71d16a90c9bb",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5f88b375068c21e3bee88ae755baaa60c1b478286147dc6b5a6803c704afe61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
