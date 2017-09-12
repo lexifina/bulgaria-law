@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2017-09-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 411,
+  "case_year": 2014,
+  "judge_rapporteur": "МАРИНА ТРИФОНОВА ЦВЕТКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81b21e6c-f2cd-435d-bba4-462d4c9203bc",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "22552b7b7faf9ce903c0242a5263425379006f02a6c0e83c90283b539bf9de71",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
