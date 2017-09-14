@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2017-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3364,
+  "case_year": 2017,
+  "judge_rapporteur": "АНИ СТОЯНОВА ХАРИЗАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d263aff1-c876-4b85-9f1a-e3e2ea65edda",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "99062c5a1c5e188858104442852c32142bdfb48f591e4d485f43761662662cc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
