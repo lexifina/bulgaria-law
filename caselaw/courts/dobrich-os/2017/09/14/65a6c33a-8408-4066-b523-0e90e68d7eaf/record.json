@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 238,
+  "case_year": 2017,
+  "judge_rapporteur": "КАЛИНА ТОДОРОВА ДИМИТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=65a6c33a-8408-4066-b523-0e90e68d7eaf",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9ce922f3bdafeb1aa2bdd8acaf9a70a4f73c5b7c9d74d8a9ac198466b6ce579",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
