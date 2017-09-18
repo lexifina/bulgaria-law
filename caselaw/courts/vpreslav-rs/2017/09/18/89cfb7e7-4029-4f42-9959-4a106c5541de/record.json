@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2017-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИЯНА ДИМОВА ПЕТРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89cfb7e7-4029-4f42-9959-4a106c5541de",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6168e500c515a38e4cb284fb91cedbcb57c0ddf17495cb57ae71aa5ba178d78",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
