@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2017-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1501,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИЯ МАРКОВА БЕРБЕРОВА-ГЕОРГИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59f8c20d-00da-41bd-8797-45ba5d7f594a",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b95bbe375e84aa14009dc27893547a1d628a19f920ca827cc99db1cf1329d24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
