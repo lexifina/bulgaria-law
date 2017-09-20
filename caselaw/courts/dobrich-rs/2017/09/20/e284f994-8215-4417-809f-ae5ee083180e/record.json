@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-09-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3044,
+  "case_year": 2017,
+  "judge_rapporteur": "ДЕНИЦА БОЖИДАРОВА ПЕТКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e284f994-8215-4417-809f-ae5ee083180e",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36e51a4ce4eb736afe85a174ff1ceba3a121d52f2abdaad9f3108c0039ebec7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
