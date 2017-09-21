@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2017-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 222,
+  "case_year": 2017,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1df9b72b-1fe3-48bd-bae8-1f8117e1f973",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8e261ee4558f9b1a3e90d910c3026068651b6f828dfca4df1d1a3182716daffa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
