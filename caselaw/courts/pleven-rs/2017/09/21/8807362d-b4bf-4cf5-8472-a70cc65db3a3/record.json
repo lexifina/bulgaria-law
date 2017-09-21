@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2017-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1226,
+  "case_year": 2017,
+  "judge_rapporteur": "АСЕН ИВАНОВ ДАСКАЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8807362d-b4bf-4cf5-8472-a70cc65db3a3",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "670533e90db84744925c535ae3fd8608dc1edb7d336517c6730eb7a3e58a2469",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
