@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2017-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 717,
+  "case_year": 2017,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1460e5e-3191-4aa6-8e91-fcd564952531",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "357823ef2ff904bedbfdb4440c698c3b7fa368a472584ae37b607c8e77502b7c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
