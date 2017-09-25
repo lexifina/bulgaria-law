@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2017-09-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2084,
+  "case_year": 2017,
+  "judge_rapporteur": "ТОДОР ГОЧЕВ МИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f314e57-65e6-4302-a275-4a4361984dad",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe658c97c36d20d0fd4cff4fa8e9faaeedb475f7d400033b2b30322169441c52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
