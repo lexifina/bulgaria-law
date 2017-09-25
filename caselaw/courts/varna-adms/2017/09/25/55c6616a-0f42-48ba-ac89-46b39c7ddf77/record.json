@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-09-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2671,
+  "case_year": 2017,
+  "judge_rapporteur": "ДАНИЕЛА СТАНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55c6616a-0f42-48ba-ac89-46b39c7ddf77",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b46eadfb29bec75e33f47459343747cff29e4d6cb3c03b1ed5718fba6763068b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
