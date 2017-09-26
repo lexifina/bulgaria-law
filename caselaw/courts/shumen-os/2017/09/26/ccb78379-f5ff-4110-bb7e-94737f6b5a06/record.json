@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 477,
+  "case_year": 2015,
+  "judge_rapporteur": "СВИЛЕН СТАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccb78379-f5ff-4110-bb7e-94737f6b5a06",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9e0da69d03539e8cef08fa146a1935de6b9c36de4baec42f6ba259540841d5b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
