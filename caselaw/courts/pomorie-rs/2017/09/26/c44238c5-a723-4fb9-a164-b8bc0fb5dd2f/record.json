@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2017-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 357,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВАЙЛО ЙОРДАНОВ БЪЧВАРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c44238c5-a723-4fb9-a164-b8bc0fb5dd2f",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4ab34822b48fa8cf5379500319f5c1592b53acaf9b9a82b4db62fa66d5849fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
