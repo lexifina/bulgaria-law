@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 398,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИНЕЛА ГАНЧЕВА ДОНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6183fc5-ae2b-4110-82cd-5c1a54836c29",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "421dc4b6fd344cb21a9292827bf40a8d08ea65a2b9d976d93cadd6df9815ef89",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
