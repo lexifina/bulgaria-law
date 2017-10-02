@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2017-10-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1964,
+  "case_year": 2016,
+  "judge_rapporteur": "СТАНИМИР ХРИСТОВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ae057eaf-ce79-4dae-8d76-5ab02d1c8b3d",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0568c811d2ab338b0e1241f9a3782d018f57867b2a5ce909d3a25c6504034036",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
