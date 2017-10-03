@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2017-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 564,
+  "case_year": 2016,
+  "judge_rapporteur": "АКСИНИЯ БОРИСОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0af121cf-86bb-4a10-8c52-998abee961ee",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b70d259bdf62d1ff5dbd116bcfca750420eb1814f6401e155764c388bef0efdf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
