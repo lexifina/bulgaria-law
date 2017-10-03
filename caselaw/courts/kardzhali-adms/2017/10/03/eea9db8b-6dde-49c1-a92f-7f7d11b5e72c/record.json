@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2017-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 167,
+  "case_year": 2017,
+  "judge_rapporteur": "ВИКТОР ДИНЕВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eea9db8b-6dde-49c1-a92f-7f7d11b5e72c",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee0f0276098524ac51cf6e22e31593b0603313709fa618aa86a43dffbe64d30a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
