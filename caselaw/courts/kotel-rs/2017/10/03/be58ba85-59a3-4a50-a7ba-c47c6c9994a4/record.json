@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2017-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 147,
+  "case_year": 2017,
+  "judge_rapporteur": "ЙОВКА ЖЕЛЯЗКОВА БЪЧВАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=be58ba85-59a3-4a50-a7ba-c47c6c9994a4",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ba5d500f31bdc0ae502e04fbf53c9852a3af21424b3734fe59fb85344d1ddec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
