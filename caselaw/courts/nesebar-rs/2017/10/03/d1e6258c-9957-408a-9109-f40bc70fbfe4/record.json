@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2017-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 255,
+  "case_year": 2017,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1e6258c-9957-408a-9109-f40bc70fbfe4",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b95bbe375e84aa14009dc27893547a1d628a19f920ca827cc99db1cf1329d24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
