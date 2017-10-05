@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2017-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 925,
+  "case_year": 2017,
+  "judge_rapporteur": "МИХАИЛ ГЕОРГИЕВ МИХАЙЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b123df1-84d9-44da-b823-0a447500b5ad",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4a7358140439f11a7d5d8e02780701c55698626f15fe4651d8c4247d58c440f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
