@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1358,
+  "case_year": 2017,
+  "judge_rapporteur": "ЗОРНИЦА ВАЛЕНТИНОВА ПЕТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2eeace61-944b-4b23-b25d-7ab848b012c7",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6933bb2a1047d53ce715d96f204fa3028123bfdcd7ceae529b87c4165671ac2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
