@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 199,
+  "case_year": 2017,
+  "judge_rapporteur": "ВАСИЛ МАРИНОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=df34632a-232c-42a2-b31f-4c27c2500d52",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f97272605b204ae8ee0842e5826bc3163e23815af3b73f4c92fd54e05815120",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
