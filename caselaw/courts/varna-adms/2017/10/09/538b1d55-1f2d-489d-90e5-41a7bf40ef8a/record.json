@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1405,
+  "case_year": 2017,
+  "judge_rapporteur": "КРАСИМИР РУСЕВ КИПРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=538b1d55-1f2d-489d-90e5-41a7bf40ef8a",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b46eadfb29bec75e33f47459343747cff29e4d6cb3c03b1ed5718fba6763068b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
