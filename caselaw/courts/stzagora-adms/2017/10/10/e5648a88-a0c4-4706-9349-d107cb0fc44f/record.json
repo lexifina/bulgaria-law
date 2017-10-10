@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2017-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 512,
+  "case_year": 2016,
+  "judge_rapporteur": "СТИЛИЯН КИРИЛОВ МАНОЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5648a88-a0c4-4706-9349-d107cb0fc44f",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c7766bbe11bc44286005e5b29a4e94ba1924a18c479e06950da7e485e255a941",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
