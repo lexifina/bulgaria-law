@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2017-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 174,
+  "case_year": 2017,
+  "judge_rapporteur": "АННА ПЕТКОВА ДОНКОВА КУТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1fe30412-f8d2-4b28-bc66-b31bd13a7da9",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6be1e9595ede2fcaa2e8587a81188e5879d160bd57a284d9fe8cab6f8eb0980a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
