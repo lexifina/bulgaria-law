@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2017-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 788,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕЛКА АНГЕЛОВА БРАТОЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb18991c-3d6e-4bcb-b67e-8d561d40c464",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3fd5f2ca41241af98a8d1268297848221aeb5f467f457f17b9f66c59481c18b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
