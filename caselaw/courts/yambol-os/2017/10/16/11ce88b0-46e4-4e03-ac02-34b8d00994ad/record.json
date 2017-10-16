@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Фирмено дело",
+  "case_number": 806,
+  "case_year": 1997,
+  "judge_rapporteur": "НИКОЛАЙ ЕНЧЕВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=11ce88b0-46e4-4e03-ac02-34b8d00994ad",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f97272605b204ae8ee0842e5826bc3163e23815af3b73f4c92fd54e05815120",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
