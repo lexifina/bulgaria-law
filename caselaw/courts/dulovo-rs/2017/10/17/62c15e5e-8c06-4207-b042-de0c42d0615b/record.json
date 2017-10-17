@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2017-10-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 151,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЕСЕЛИН ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=62c15e5e-8c06-4207-b042-de0c42d0615b",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6f346a353a01a3ae652514c79c5f9990271cc704c7288fd32d56e96dc0ca81e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
