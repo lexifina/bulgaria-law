@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2017-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 262,
+  "case_year": 2017,
+  "judge_rapporteur": "СТЕЛА ДЯНКОВА БЪЧВАРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bd7d57ba-9e32-4a6a-be8c-f8a28e6394de",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f02b6cc2cf628cd9cd72ca2baafbba12e9fc58e10971b9f734da5ffdb0766ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
