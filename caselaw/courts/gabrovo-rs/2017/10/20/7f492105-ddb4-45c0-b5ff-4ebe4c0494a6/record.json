@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 283,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИЯН ДИМИТРОВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7f492105-ddb4-45c0-b5ff-4ebe4c0494a6",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6933bb2a1047d53ce715d96f204fa3028123bfdcd7ceae529b87c4165671ac2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
