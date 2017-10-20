@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1333,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИАНА МОМЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=586fcf2a-e2a7-4e7b-9e95-76c458be9703",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36e51a4ce4eb736afe85a174ff1ceba3a121d52f2abdaad9f3108c0039ebec7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
