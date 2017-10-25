@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2017-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 511,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИЯ ДЖАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5886859a-4428-43b8-abac-6e51cdd5ecef",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "895c270a7f3d4612f02ffe0b7c594f0bb94c6aa17d16df0c09b5691e17364d62",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
