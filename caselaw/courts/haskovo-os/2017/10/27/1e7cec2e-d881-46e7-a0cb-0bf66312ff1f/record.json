@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2017-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 493,
+  "case_year": 2017,
+  "judge_rapporteur": "СТРАТИМИР ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e7cec2e-d881-46e7-a0cb-0bf66312ff1f",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ebb4a4d2f7622520b14bca28f7f3066284bdfdd1d3b01a94395d8bd1d6c6e28",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
