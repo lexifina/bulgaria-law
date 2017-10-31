@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2017-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 423,
+  "case_year": 2017,
+  "judge_rapporteur": "КАПКА ЕМИЛОВА ПАВЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93476efc-1961-4b02-8dd3-e60ada512450",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=01.08.2017&to=31.10.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "280f1506553b33995ecf7734ab51248fd596a6469660f8880bcac51761ad748f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
