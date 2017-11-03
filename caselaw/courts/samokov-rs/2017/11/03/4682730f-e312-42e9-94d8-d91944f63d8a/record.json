@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2017-11-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 972,
+  "case_year": 2016,
+  "judge_rapporteur": "СИМЕОН СТЕФАНОВ СТОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4682730f-e312-42e9-94d8-d91944f63d8a",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d069c08b133fd3d5b5aee84a3def2444208ca253cba290f1da9fa5e8ee601e69",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
