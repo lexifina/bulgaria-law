@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 117,
+  "case_year": 2017,
+  "judge_rapporteur": "ТАНЯ ГЕОРГИЕВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1ffb5f6-b1b8-4c41-bf62-42e146bbc403",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77e320e5c14fd29498c42699e62188200bc8e6e7960c1a7b72d8d0c629c14be2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
