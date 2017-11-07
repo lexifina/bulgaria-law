@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2017-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 366,
+  "case_year": 2014,
+  "judge_rapporteur": "ДИМИТЪР ПЕТКОВ ЧАРДАКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c9fe001-a134-470f-8d58-02dd672c8f5b",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a3e64f1af791e6c2a5e0549f2e9064247491faa21792c8a2e4d0c32e67c332d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
