@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2017-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 697,
+  "case_year": 2017,
+  "judge_rapporteur": "ЛЮБОМИР ИЛИЕВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f2bcd8b-1e21-45f6-8a4e-18f58862eed5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=31.10.2017&to=10.11.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9c03fcac28f30179627dbb6c8b7b9b241f4c39dd66b9dba83436a023d96d7aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
