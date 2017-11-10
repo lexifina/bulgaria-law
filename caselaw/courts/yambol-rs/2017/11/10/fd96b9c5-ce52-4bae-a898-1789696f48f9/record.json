@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2017-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4265,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛЯ ДИМИТРОВА РУСЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fd96b9c5-ce52-4bae-a898-1789696f48f9",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b487995c08fe467d302e6bea210df454a7d038c20891e3930b244989e98dc928",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
