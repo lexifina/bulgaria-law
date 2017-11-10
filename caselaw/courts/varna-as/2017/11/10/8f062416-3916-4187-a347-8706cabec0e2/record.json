@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 411,
+  "case_year": 2017,
+  "judge_rapporteur": "РОСИЦА АНТОНОВА ТОНЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f062416-3916-4187-a347-8706cabec0e2",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5918b47353cf5698114638674b7f9b3f769d0e249d84bc6e49bd9faf61e8e02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
