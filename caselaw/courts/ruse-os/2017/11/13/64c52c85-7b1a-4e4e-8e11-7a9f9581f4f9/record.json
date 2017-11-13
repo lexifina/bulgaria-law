@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2017-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 434,
+  "case_year": 2016,
+  "judge_rapporteur": "АГЛИКА ИВАЙЛОВА ГАВРАИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64c52c85-7b1a-4e4e-8e11-7a9f9581f4f9",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1aac31f30052071ef52532c2f674eff65fd6e0c1f52737e60d541f2319cd3a24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
