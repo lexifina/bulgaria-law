@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-11-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1070,
+  "case_year": 2017,
+  "judge_rapporteur": "МИЛЕНА КРЪСТЕВА КАМЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d69a6d7-901f-43c7-aed7-27e3c220f034",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86aa1199931aeb3e7b26ab00210512d47b54b6fbd659ecaa168fcdde94be6d74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
