@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2017-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1042,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛЯ ВАСИЛЕВА ПЕТРЕШКОВА-СТАВАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7cb70d2-e28a-4d58-aae6-9db5f4fe112b",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b1878586428c48a49be406bea3181f3cbd6dfd426462e0f1504cb02248712f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
