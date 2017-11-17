@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2017-11-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1013,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦВЕТОМИРА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16352b28-4561-42ea-999d-08e3c80de3f4",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c81e75ba5c24e0f43c8791fd83df0344146ed8a2a776f827f09d8b29fb2cafce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
