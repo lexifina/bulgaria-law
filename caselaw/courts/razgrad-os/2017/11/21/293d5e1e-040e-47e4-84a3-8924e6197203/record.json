@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2017-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 255,
+  "case_year": 2017,
+  "judge_rapporteur": "ИРИНА МИТКОВА ГАНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=293d5e1e-040e-47e4-84a3-8924e6197203",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "38654ebc1099ffec2cbae14fb61a7b026b64a020c1cc8a887e3988a6cc28df07",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
