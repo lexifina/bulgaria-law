@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2017-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 338,
+  "case_year": 2015,
+  "judge_rapporteur": "ЙОВКА ЖЕЛЯЗКОВА БЪЧВАРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=abc2bb12-a5a4-4050-bcfe-c03d574646cb",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25c72c16b774746755a77aaeb351f701194f56b8c2e9ad5725283a49749830f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
