@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2017-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 484,
+  "case_year": 2017,
+  "judge_rapporteur": "НИКОЛИНКА ГЕОРГИЕВА ЧОКОЕВА-МИЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d5663d6-3536-4e9f-b9bd-f36df06467f4",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1aac31f30052071ef52532c2f674eff65fd6e0c1f52737e60d541f2319cd3a24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
