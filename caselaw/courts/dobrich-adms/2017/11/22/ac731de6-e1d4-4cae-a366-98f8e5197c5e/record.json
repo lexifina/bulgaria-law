@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2017-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 530,
+  "case_year": 2017,
+  "judge_rapporteur": "МИЛЕНА СТОЯНОВА МАРКОВА-ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac731de6-e1d4-4cae-a366-98f8e5197c5e",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90400ffa2a5ee8828090be226d7e567a4e8c64957c0832eb2fac2d40752cfc42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
