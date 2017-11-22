@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2017-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 438,
+  "case_year": 2017,
+  "judge_rapporteur": "СИЛВИЯ ПЕТРОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8a0280c-68c2-42fc-ae01-be251645a0dc",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5edeca5ebdcd9c10509b847a2fbfba3e74b23fc19263176e28dc64f207a4f4f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
