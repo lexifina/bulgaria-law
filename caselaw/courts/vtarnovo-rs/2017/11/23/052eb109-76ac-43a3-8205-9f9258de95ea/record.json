@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2017-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2106,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЕНКО ЦАНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=052eb109-76ac-43a3-8205-9f9258de95ea",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e532f878f40e44121c6a00519aa026795c41eda60de6f436a6a0c77f82b211c5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
