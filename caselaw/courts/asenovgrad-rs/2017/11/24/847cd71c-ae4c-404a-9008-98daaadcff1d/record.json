@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2017-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1400,
+  "case_year": 2017,
+  "judge_rapporteur": "НЕВЕНА ТОДОРОВА КАБАДАИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=847cd71c-ae4c-404a-9008-98daaadcff1d",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b3631d27b410e3fde71e549573155b93f4d1407b1d32f4f3c130934c8ab61aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
