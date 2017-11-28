@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2017-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 318,
+  "case_year": 2017,
+  "judge_rapporteur": "ПОЛИНА ПЕНКОВА ПЕНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d3cec5c-4003-47b7-a6cb-90f3646c9e93",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "808d468c88b23910081d65e1dd8f8b7b185f40bade1b2b779f0501fbb89f3433",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
