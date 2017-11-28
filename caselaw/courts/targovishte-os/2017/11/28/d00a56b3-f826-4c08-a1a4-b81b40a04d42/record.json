@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2017-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 231,
+  "case_year": 2017,
+  "judge_rapporteur": "АНГЕЛ ГЕОРГИЕВ ПАВЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d00a56b3-f826-4c08-a1a4-b81b40a04d42",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36bca8ffa85a0f13cec375201bed016fbbb4188621174d194e5c29258ea882d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
