@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2017-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 199,
+  "case_year": 2017,
+  "judge_rapporteur": "АНТОН ЦВЕТАНОВ АНТОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=549389ba-c22d-4455-96fb-ba40def85dec",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42bbb3e58995ea24571cff0236ebfd1f2ef75e57d3bdb0cfaa34eca9c36047f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
