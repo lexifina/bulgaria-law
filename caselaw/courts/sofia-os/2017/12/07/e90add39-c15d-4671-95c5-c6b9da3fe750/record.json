@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2017-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 430,
+  "case_year": 2016,
+  "judge_rapporteur": "ДОРА ДИМИТРОВА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e90add39-c15d-4671-95c5-c6b9da3fe750",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96d85c557d6ffb68a61fa74644196fbb2de02fa0040cfba1443a858e491db4f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
