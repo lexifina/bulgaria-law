@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2017-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2796,
+  "case_year": 2017,
+  "judge_rapporteur": "НАТАЛИЯ ПЕТКОВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6069fbd9-f438-4e9b-86fc-86ec4a7f5fdf",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c40d49a6bf0feb97b82188d5b06a90f54edf81cdf5af2d6e8f1f3859323c0586",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
