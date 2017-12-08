@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2017-12-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2262,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕЛИСАВЕТА ЙОРДАНОВА РАДИНА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0777dc5a-8155-4e4a-885d-390bef2a0a01",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a3e64f1af791e6c2a5e0549f2e9064247491faa21792c8a2e4d0c32e67c332d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
