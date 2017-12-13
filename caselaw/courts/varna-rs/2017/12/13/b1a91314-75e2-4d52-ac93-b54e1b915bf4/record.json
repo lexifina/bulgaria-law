@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2017-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4141,
+  "case_year": 2017,
+  "judge_rapporteur": "АЛБЕНА СЛАВОВА НЕДЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1a91314-75e2-4d52-ac93-b54e1b915bf4",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=01.11.2017&to=16.12.2017&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ab42e01f7ab663a6f91b0a37301242dadcf2cd5f0ee839d5f4df51ecc3182d6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
