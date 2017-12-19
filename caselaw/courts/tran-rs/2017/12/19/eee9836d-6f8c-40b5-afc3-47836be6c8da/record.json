@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2017-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 24,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЕТЪР СИМЕОНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eee9836d-6f8c-40b5-afc3-47836be6c8da",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da840fb18a32e727fcf957b3faf357906d3e0869e0af325efd8c607455ca0405",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
