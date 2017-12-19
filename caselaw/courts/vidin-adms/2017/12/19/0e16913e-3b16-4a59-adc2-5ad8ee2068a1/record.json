@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2017-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 211,
+  "case_year": 2017,
+  "judge_rapporteur": "БИЛЯНА СПАСОВА ПАНТАЛЕЕВА КАЙЗЕРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e16913e-3b16-4a59-adc2-5ad8ee2068a1",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf3ce15cd432fe7a3f4bd01475a447aaa67235eabe09142b463007a1c57f7f8e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
