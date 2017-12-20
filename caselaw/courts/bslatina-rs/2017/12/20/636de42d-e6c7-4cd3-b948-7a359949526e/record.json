@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2017-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 684,
+  "case_year": 2017,
+  "judge_rapporteur": "СИЛВИЯ АНДРЕЕВА ЖИТАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=636de42d-e6c7-4cd3-b948-7a359949526e",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c591ce81a1450e13c8f56313428f6098241d00596d42cc7195667107fd0484d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
