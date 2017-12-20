@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1246,
+  "case_year": 2016,
+  "judge_rapporteur": "КРАСИМИР МАРИНОВ КРЪСТЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c94ede5a-53e0-4722-8f60-7724b2e51ecd",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94064e54f37a5f9d02f85c0f596f65818810451183cb5bb81ad5dfcfe4e2bae3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
