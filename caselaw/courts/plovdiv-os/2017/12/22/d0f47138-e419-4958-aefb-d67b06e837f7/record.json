@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2017-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2245,
+  "case_year": 2017,
+  "judge_rapporteur": "НАДЕЖДА ИВАНОВА ЖЕЛЯЗКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0f47138-e419-4958-aefb-d67b06e837f7",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8462fa32f2896c7026fc02155475ca5ec572c7d366be2f2d90ec0f46be16d1df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
