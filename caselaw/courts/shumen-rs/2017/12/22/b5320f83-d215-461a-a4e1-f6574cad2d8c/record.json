@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2017-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2469,
+  "case_year": 2016,
+  "judge_rapporteur": "БИСТРА РАДКОВА БОЙН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5320f83-d215-461a-a4e1-f6574cad2d8c",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94064e54f37a5f9d02f85c0f596f65818810451183cb5bb81ad5dfcfe4e2bae3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
