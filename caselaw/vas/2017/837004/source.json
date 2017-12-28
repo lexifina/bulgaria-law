@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 1447,
+  "case_year": 2017,
+  "decision_type": "Решение",
+  "decision_number": "16078",
+  "decision_date": "2017-12-28",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D837004%26code%3Dvas%26guid%3D1652018418",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=837004&code=vas&guid=1652018418",
+  "source_text_sha256": "4273e1323e7eddacf858f254b73cef9a815f1020fe99f173d54ec45225cb1cd8",
+  "source_images": 0
+}
