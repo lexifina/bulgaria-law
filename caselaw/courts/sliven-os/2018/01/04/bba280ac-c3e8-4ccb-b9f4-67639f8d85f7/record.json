@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-01-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 171,
+  "case_year": 2016,
+  "judge_rapporteur": "СНЕЖАНА ДИМИТРОВА БАКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bba280ac-c3e8-4ccb-b9f4-67639f8d85f7",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a060a1dcdc1ba59efe921d31f344894b4387964988eb90b936f4508584fe77f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
