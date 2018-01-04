@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2018-01-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 66,
+  "case_year": 2010,
+  "judge_rapporteur": "ВЕНЦИСЛАВ ГЕОРГИЕВ ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f862431c-07ea-450e-af93-1ab221f44339",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0dff084c727369dab42a8fb80dc3127a9db6095a47debcc5896d0a0904ec796e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
