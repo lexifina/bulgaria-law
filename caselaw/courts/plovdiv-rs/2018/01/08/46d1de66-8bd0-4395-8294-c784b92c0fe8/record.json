@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 7753,
+  "case_year": 2017,
+  "judge_rapporteur": "АТАНАСКА АНАСТАСОВА АНАСТАСОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46d1de66-8bd0-4395-8294-c784b92c0fe8",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.12.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30de4ffdafbf343bacdd2ea326ae6360b552ad792293bf3eb45adcfcd2d7097d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
