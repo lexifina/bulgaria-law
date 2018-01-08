@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2018-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 235,
+  "case_year": 2017,
+  "judge_rapporteur": "ЯНИТА ДИМИТРОВА ЯНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1233b13d-e731-4e2b-98a4-862beb22659a",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96d85c557d6ffb68a61fa74644196fbb2de02fa0040cfba1443a858e491db4f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
