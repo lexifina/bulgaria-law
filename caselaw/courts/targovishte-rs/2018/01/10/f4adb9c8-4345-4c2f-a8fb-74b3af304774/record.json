@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 862,
+  "case_year": 2016,
+  "judge_rapporteur": "ПЛАМЕН МИТКОВ ДРАГАНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f4adb9c8-4345-4c2f-a8fb-74b3af304774",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e09c5c15a784ecd6ef6d5763298bca6f6b00b248fb4afaeda9289df9c7e00f88",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
