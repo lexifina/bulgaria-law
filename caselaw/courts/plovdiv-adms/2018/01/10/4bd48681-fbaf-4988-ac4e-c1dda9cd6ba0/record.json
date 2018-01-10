@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2549,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЛАДИМИР СТОЯНОВ ВЪЛЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bd48681-fbaf-4988-ac4e-c1dda9cd6ba0",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a6c746caab6efa60f63ef95f59e42d44ad52febab828fb9210a1e5c09c61460c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
