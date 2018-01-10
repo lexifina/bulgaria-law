@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2018-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 534,
+  "case_year": 2016,
+  "judge_rapporteur": "АНТОН ЕЛЕНКОВ АНТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cac12ec6-9f3b-4177-9db9-855c38d3cd6d",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9341760fa5a8389636dd829ab989bb02c9c88eb9e75e3d222657586f585d6a33",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
