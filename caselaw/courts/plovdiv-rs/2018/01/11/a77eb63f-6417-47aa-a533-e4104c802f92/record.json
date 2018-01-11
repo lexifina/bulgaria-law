@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13699,
+  "case_year": 2017,
+  "judge_rapporteur": "ЗОЯ ИВАНОВА БОГДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a77eb63f-6417-47aa-a533-e4104c802f92",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.12.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30de4ffdafbf343bacdd2ea326ae6360b552ad792293bf3eb45adcfcd2d7097d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
