@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2018-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 14,
+  "case_year": 2018,
+  "judge_rapporteur": "ТАНЯ ДИМОВА ДАМЯНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ea50646f-ed2a-42c0-b16a-cc8c9657339f",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "960a7748c5ddb6e133e464ce6e1cb02d14c22b6ca90525786a32af65b2e3bc13",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
