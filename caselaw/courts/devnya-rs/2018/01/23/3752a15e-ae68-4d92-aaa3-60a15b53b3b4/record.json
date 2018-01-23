@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2018-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 877,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИМИТЪР ВАСИЛЕВ ВАСИЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3752a15e-ae68-4d92-aaa3-60a15b53b3b4",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "53d5d53aed00a13fc2f7808401d48ab583dec2ef13e8fe354cd69bca78bb23b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
