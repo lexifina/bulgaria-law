@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4798,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕОРГИ НИКОЛОВ ГРЪНЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b63f914-6237-43b3-b404-6ccd2cdb0c8c",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "80cdf32dfe32170e3c3d9c5dea48055e1c087406dc78f612bf7246b1e34c2c90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
