@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2018-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 111,
+  "case_year": 2018,
+  "judge_rapporteur": "НИКОЛАЙ ИВАНОВ КИРКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6312e1e-6d1c-411e-a1f2-f6ee31c3ccb4",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b487995c08fe467d302e6bea210df454a7d038c20891e3930b244989e98dc928",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
