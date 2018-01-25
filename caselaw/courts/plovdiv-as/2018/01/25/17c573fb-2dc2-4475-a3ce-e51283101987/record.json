@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 55,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕЛИНА ЕМАНУИЛОВА АНТОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17c573fb-2dc2-4475-a3ce-e51283101987",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "870385a07e278a37a864e4526aeb638415f85e5027baf0f110b4a1d3d0977168",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
