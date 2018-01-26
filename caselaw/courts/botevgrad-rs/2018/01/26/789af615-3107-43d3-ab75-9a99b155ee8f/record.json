@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2018-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 199,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦВЕТАНКА АТАНАСОВА ГРЕБЕНАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=789af615-3107-43d3-ab75-9a99b155ee8f",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0cda816db1dbb264ccecc430df41462604a997b11bb93a5cd6ff33f47f6c694",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
