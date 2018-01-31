@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2018-01-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1755,
+  "case_year": 2017,
+  "judge_rapporteur": "РОСИЦА СТОЯНОВА НЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f69239e7-12a9-4282-884f-b8ba84df8e17",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=01.11.2017&to=31.01.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c0fb48e4e25e5c069cabf7446ac363e98428a23ec08d6573d57a13e10268f0e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
