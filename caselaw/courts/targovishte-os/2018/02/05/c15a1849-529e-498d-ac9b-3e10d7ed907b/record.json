@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 245,
+  "case_year": 2017,
+  "judge_rapporteur": "АНГЕЛ ГЕОРГИЕВ ПАВЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c15a1849-529e-498d-ac9b-3e10d7ed907b",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "816185374f34f51ea0e250f73d62b71b95a9e979cd679d5e7e85a89a27cdc4ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
