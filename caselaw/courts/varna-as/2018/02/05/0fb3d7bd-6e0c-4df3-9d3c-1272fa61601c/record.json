@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2018-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 540,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИАНА ВЪЛЕВА ДЖАМБАЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0fb3d7bd-6e0c-4df3-9d3c-1272fa61601c",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e61129e44ca29775b35ae2978da93ab0f4e287dc2472e12cd10291b0824f752d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
