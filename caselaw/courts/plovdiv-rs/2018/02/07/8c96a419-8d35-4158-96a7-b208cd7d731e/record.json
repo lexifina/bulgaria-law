@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 758,
+  "case_year": 2018,
+  "judge_rapporteur": "БОЖИДАР ИВАНОВ КЪРПАЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c96a419-8d35-4158-96a7-b208cd7d731e",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=01.02.2018&to=18.03.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1e90d48029a973e4ac88b369f2947dfd4b41e6405a6d6dd1193bbfef58efd7c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
