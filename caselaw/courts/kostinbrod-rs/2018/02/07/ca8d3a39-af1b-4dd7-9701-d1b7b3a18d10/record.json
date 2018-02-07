@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2018-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 35,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИАНА ДИМЧЕВА СТАНКЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca8d3a39-af1b-4dd7-9701-d1b7b3a18d10",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3cf414cf5ff32ea30f844b4e3cef67cde9d85e83006a88cef431a0caa4ec76cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
