@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1457,
+  "case_year": 2018,
+  "judge_rapporteur": "ТАТЯНА КОСТАДИНОВА КОСТАДИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c045f96b-89a9-4b7f-9d0e-3487ef7d1838",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.02.2018&to=17.02.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "80edb9484bd8451f53133581111c544746836e04b87946d9b4eeb122a9d4c3bd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
