@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2018-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 49,
+  "case_year": 2018,
+  "judge_rapporteur": "СИЛВИНА ДАЧКОВА ЙОВЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45b6a0e6-ac07-4730-9d55-459b789d5b43",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "162c0d756de3c0e881b5b1b7aa1eb1540732d41d4b5bea5ebcf92aba3fd02299",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
