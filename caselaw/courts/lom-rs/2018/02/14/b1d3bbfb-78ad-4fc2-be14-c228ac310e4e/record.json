@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2018-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2956,
+  "case_year": 2017,
+  "judge_rapporteur": "НИНА ИВАНОВА КАМЕНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1d3bbfb-78ad-4fc2-be14-c228ac310e4e",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0a83c90d5bc1bab0f9e01aff5a3ccddc56363533ec0a3065316d63741d672fe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
