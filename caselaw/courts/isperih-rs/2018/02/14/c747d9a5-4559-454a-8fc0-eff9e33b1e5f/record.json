@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2018-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 338,
+  "case_year": 2017,
+  "judge_rapporteur": "ЕЛИЦА ДЕНЧЕВА БОЯДЖИЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c747d9a5-4559-454a-8fc0-eff9e33b1e5f",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "463ad5837638fd6304188faef46b2a9c298c8ce3bac5aa83a0d43ae75b7eec1a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
