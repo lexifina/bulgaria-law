@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2018-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 18,
+  "case_year": 2018,
+  "judge_rapporteur": "ЧАНКО ПЕТКОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0372dc1a-5c75-4a8e-a903-c1ac3e8d9795",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a1b855c976c39c3b5820eecc4ec72f436e020128ce0570181f1db0e384609ee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
