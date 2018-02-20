@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2018-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 53,
+  "case_year": 2018,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ДИНКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e78c0415-9ad7-43a1-a9bd-eef559f1c779",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d6e9d2f79f007f02a17a0f48b280ec49c8a9d1b83832bd340b3e5bf7b2cba5b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
