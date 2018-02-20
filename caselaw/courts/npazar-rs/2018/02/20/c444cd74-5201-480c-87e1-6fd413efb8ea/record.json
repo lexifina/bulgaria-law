@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2018-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 843,
+  "case_year": 2017,
+  "judge_rapporteur": "СВЕТЛА РАДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c444cd74-5201-480c-87e1-6fd413efb8ea",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79ff11622d6a2f13016039d895fa894dd3972d2db45f032dd3773a86c6208683",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
