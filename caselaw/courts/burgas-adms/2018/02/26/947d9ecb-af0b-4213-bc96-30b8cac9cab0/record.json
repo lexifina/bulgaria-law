@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2314,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИНА ХРИСТОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=947d9ecb-af0b-4213-bc96-30b8cac9cab0",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab67c9549de257d23fbd3b9995bf6d13599fba7042f960097565dbc2d08c6bb1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
