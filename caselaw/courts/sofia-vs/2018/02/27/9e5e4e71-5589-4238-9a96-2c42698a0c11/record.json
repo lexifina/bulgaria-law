@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2018-02-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 215,
+  "case_year": 2017,
+  "judge_rapporteur": "ЮЛИЯН ВЕНЦИСЛАВОВ БАНКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e5e4e71-5589-4238-9a96-2c42698a0c11",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "142815d501f51bbc97fc3f84a372d3a3abbd96c81e37ada27d0ba4803682b3ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
