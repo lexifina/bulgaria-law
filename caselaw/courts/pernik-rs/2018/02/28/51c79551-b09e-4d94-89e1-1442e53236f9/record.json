@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1,
+  "case_year": 2018,
+  "judge_rapporteur": "СВЕТОСЛАВА ИВАНОВА АЛЕКСИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51c79551-b09e-4d94-89e1-1442e53236f9",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "31b7513b741e65a16787ce593ed5bbd5ec2e9e00ff2c81b15a07a8ee8a21a4a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
