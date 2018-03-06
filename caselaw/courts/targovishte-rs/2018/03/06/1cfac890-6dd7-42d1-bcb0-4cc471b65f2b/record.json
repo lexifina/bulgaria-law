@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 107,
+  "case_year": 2018,
+  "judge_rapporteur": "АННА СТЕФАНОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1cfac890-6dd7-42d1-bcb0-4cc471b65f2b",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d18b6196805f52a533abbb69b7286376846457c51cc567374c614f23c73e940b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
