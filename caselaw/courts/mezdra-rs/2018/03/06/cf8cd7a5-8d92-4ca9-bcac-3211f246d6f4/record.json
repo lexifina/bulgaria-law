@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2018-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 461,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЯРА АТАНАСОВА АТАНАСОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf8cd7a5-8d92-4ca9-bcac-3211f246d6f4",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "336fcd333346b602de887d6ea6f72a2950603742c1ee1b68e987d0106c7ebe64",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
