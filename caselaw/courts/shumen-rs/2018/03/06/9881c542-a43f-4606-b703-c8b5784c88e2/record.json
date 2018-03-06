@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2018-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 457,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕНТИНА ЛЮБЕНОВА ТОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9881c542-a43f-4606-b703-c8b5784c88e2",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d538d29fd6cc657c23105b15ca04ce250442aeec30acedc7d84c074c376bce8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
