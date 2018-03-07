@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 56,
+  "case_year": 2018,
+  "judge_rapporteur": "НИКОЛЕТА АНТОНОВА КАРАМФИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=458a6aaa-5682-4fb8-9ddb-d50d77b33783",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41206917d26a1419af5da68f3a66d5ff172e10cfab04abf855834b136a83e863",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
