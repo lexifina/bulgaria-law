@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 505,
+  "case_year": 2017,
+  "judge_rapporteur": "ЙОЛАНДА МИЛЬОВА ЦЕКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd6793e7-0e8c-4464-aa4f-d264ad883e57",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf9976f17aae04d9a71045bc6c374e62d861faa683db09f64c48a7e5e9bc557f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
