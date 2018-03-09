@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2018-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 50,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯВОР ПЛАМЕНОВ ТОМОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1060b74-4574-4505-8509-d77872831ea2",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1487f4583c3fb1350028252d8709760858a5be755bcd2ebcc2bc88abae101946",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
