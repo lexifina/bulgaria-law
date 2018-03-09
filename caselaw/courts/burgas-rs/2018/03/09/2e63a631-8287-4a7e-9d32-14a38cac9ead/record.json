@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9040,
+  "case_year": 2017,
+  "judge_rapporteur": "АННА ИВАНОВА ЩЕРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2e63a631-8287-4a7e-9d32-14a38cac9ead",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=01.02.2018&to=18.03.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "448c5859874dc40bf7a98a9eef58e878a409cb5c72a03831bd0ce405222dd60e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
