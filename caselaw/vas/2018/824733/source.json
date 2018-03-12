@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 11880,
+  "case_year": 2016,
+  "decision_type": "Решение",
+  "decision_number": "3118",
+  "decision_date": "2018-03-12",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D824733%26code%3Dvas%26guid%3D1651012994",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=824733&code=vas&guid=1651012994",
+  "source_text_sha256": "3639423a00189b6b0c28006b57e192e5bafdb9555e2381ba73763633308d8c46",
+  "source_images": 0
+}
