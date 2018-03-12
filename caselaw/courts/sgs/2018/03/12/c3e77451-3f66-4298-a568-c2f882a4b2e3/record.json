@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 105,
+  "case_year": 2014,
+  "judge_rapporteur": "ЕЛЕНА ТОДОРОВА РАДЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3e77451-3f66-4298-a568-c2f882a4b2e3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.03.2018&to=22.03.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c8350b40876fc1c829321c9ca5c24c3ae16bc40ed65b86be70caa138544ee535",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
