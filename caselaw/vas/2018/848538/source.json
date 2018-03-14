@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5264,
+  "case_year": 2017,
+  "decision_type": "Решение",
+  "decision_number": "3223",
+  "decision_date": "2018-03-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D848538%26code%3Dvas%26guid%3D1652977283",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=848538&code=vas&guid=1652977283",
+  "source_text_sha256": "75e8893dca02c0d1346d9373358ecd6f97e63f09812802f2977762a7759bfa8e",
+  "source_images": 0
+}
