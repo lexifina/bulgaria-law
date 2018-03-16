@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 195,
+  "case_year": 2017,
+  "judge_rapporteur": "СИМЕОН СИМЕОНОВ МИХОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3084c16b-44a8-4a75-9911-16d2680c7ec2",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0d66338885de5afced9a7efc20220378d09de6334cf9ff8951c8157c5aad9343",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
