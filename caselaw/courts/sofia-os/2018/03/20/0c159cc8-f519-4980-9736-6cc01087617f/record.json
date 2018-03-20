@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2018-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 593,
+  "case_year": 2012,
+  "judge_rapporteur": "ПЛАМЕН ДИМИТРОВ ПЕТКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c159cc8-f519-4980-9736-6cc01087617f",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05653d3858f5ed093999efc05dcbc6b678da7d36661e579f2b5155ef7401b459",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
