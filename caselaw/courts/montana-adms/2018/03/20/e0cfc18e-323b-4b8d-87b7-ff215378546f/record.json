@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2018-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 82,
+  "case_year": 2018,
+  "judge_rapporteur": "РЕНИ ЦВЕТАНОВА СЛАВКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0cfc18e-323b-4b8d-87b7-ff215378546f",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "26c82d1aa534c9a327e27ed0b4454bee72b7e99f476d843e265978ac2756c628",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
