@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 405,
+  "case_year": 2017,
+  "judge_rapporteur": "ЦАНКА ГЕОРГИЕВА НЕДЕЛЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f2678a0-760c-4e58-9dcb-d2b350bb3e13",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3179d8225b8c2652c6100e9a599c8fe7dfc999f7cbc6a395fe9059b8841734f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
