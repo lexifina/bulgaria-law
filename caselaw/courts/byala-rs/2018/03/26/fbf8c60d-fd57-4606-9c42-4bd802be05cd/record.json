@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2018-03-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 110,
+  "case_year": 2018,
+  "judge_rapporteur": "ЪШЪЛ ЛЮТФИ ИРИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fbf8c60d-fd57-4606-9c42-4bd802be05cd",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "44195ad017ab9ae5e49df3dea2dc0521f9f4d579bbfb48efa2d7cc5dca047bc7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
