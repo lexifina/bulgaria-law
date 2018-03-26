@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-03-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 17,
+  "case_year": 2018,
+  "judge_rapporteur": "МИЛЕНА БОРИСОВА БУХЧЕВА-ПЕЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1524d87f-c932-4a0d-8519-8bd8eb38714f",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e242f01c35ae4fd7af352b028e52284a3539014e2f588a62baebbacbdb08b02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
