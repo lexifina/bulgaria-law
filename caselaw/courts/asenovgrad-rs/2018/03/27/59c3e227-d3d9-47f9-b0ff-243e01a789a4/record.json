@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2018-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 149,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАН ГЕОРГИЕВ ШЕЙТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59c3e227-d3d9-47f9-b0ff-243e01a789a4",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f738b8a427da055716074be9fd71e2b9e65ad498c92feea3d772b0ec0e77f053",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
