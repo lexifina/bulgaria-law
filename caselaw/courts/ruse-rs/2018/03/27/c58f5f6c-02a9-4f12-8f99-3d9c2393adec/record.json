@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5886,
+  "case_year": 2017,
+  "judge_rapporteur": "МИЛЕН ПАВЛОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c58f5f6c-02a9-4f12-8f99-3d9c2393adec",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9d8e96eb7f5e65dec637668139fae47d68e98d6c8886b49d225337711bf37e2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
