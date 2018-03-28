@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2018-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2855,
+  "case_year": 2017,
+  "judge_rapporteur": "СВЕТОСЛАВА МИХАЙЛОВА ЦОНЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1689f8a0-7716-4b34-8b14-94099bb96241",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f480737b6093794b8599d916c1330ec19459ccdd5240f805763f32613595e3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
