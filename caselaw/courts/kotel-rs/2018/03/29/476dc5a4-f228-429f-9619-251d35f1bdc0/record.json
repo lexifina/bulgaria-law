@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2018-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 130,
+  "case_year": 2018,
+  "judge_rapporteur": "ЙОВКА ЖЕЛЯЗКОВА БЪЧВАРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=476dc5a4-f228-429f-9619-251d35f1bdc0",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aef7d94186f4f1107908c517fca851442eaa9bd88e92d8ccbf633230e03320e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
