@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 41,
+  "case_year": 2018,
+  "judge_rapporteur": "МИРОСЛАВ НИКОЛОВ МИТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a13d5902-a90c-4ae2-958b-42de1f5963fd",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "816185374f34f51ea0e250f73d62b71b95a9e979cd679d5e7e85a89a27cdc4ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
