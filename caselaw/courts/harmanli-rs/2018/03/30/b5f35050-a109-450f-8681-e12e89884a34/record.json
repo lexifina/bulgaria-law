@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2018-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 145,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕСЕЛИН ХРИСТОВ КОЛАРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5f35050-a109-450f-8681-e12e89884a34",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b0bddb33715a0a6b113492ecc08d4e965aa58bfa796b8f4e77c985d97a7ef3ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
