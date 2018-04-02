@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-04-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 388,
+  "case_year": 2018,
+  "judge_rapporteur": "ПАВЛИНА ЕНЧЕВА СТОЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0d92f5e-a456-4959-8f9a-6b432efe19e8",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab67c9549de257d23fbd3b9995bf6d13599fba7042f960097565dbc2d08c6bb1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
