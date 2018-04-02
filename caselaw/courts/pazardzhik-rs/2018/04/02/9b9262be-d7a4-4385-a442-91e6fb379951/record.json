@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2018-04-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1819,
+  "case_year": 2017,
+  "judge_rapporteur": "ХРИСТО ЛЕНКОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b9262be-d7a4-4385-a442-91e6fb379951",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b8e80363c5b844429925d46bc3be4714d8f3dd3700ccb6ee127e0fbd73608b10",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
