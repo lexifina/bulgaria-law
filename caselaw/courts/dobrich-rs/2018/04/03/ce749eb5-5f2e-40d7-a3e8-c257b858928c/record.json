@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2018-04-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2977,
+  "case_year": 2017,
+  "judge_rapporteur": "ПАВЛИНА НЕЙЧЕВА ПАСКАЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce749eb5-5f2e-40d7-a3e8-c257b858928c",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "909e6238ecabda993d0369f50b32947b2755bfaf774b47493afbb2959b7cbfec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
