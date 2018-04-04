@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2018-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 52,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСИНА НИКОЛАЕВА ДОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53f3e1e1-e599-444c-b548-2a4512e22268",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05653d3858f5ed093999efc05dcbc6b678da7d36661e579f2b5155ef7401b459",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
