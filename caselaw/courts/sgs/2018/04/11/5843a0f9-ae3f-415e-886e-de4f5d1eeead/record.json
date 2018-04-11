@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1663,
+  "case_year": 2018,
+  "judge_rapporteur": "КОСТАДИНКА СИМЕОНОВА КОСТАДИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5843a0f9-ae3f-415e-886e-de4f5d1eeead",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.04.2018&to=13.04.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eb558082b206378f5ffa07ec19bafebf42cb8e3d594d0c87ca44e12c061d0d4d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
