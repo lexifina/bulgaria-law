@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2018-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 71,
+  "case_year": 2018,
+  "judge_rapporteur": "АНА АВРАМОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b3a52fc-3a02-4dcf-bd2b-3d844d4fe6fa",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbd3fe973a24b6456c17f3134a3544b1cbf811ef6996a65b48bac4506f247911",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
