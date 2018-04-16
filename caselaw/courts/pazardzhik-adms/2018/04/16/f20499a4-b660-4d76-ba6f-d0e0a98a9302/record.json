@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2018-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 377,
+  "case_year": 2018,
+  "judge_rapporteur": "ГЕОРГИ ВИДЕВ ВИДЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f20499a4-b660-4d76-ba6f-d0e0a98a9302",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c6f8bf2341752f0f288f87c652ae92f64ec38ef15535278971f1a87b1b5183f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
