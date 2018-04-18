@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2018-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 35,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСИЦА ХРИСТОВА СЛАВЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4bc2ccf-0337-47fe-abb1-043fcc0a85ea",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9cdd117f83a23d88f9d3d849880cc8e63f40c13efe150296f0048b85b2b5b16d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
