@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2018-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 141,
+  "case_year": 2018,
+  "judge_rapporteur": "РЕНИ МИХАЙЛОВА СПАРТАНСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ffbfe28d-1bd5-4934-99bd-9d714c0f0cf7",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dc9e643ca77e89b5b8e61ae2ff5cfe144fd3ca17a18979660fa4f63cd9a7ac8b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
