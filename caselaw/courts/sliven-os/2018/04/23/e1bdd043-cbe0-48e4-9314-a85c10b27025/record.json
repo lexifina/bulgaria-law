@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 161,
+  "case_year": 2018,
+  "judge_rapporteur": "МАЯ ПЕТРОВА ВЕЛИЧКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1bdd043-cbe0-48e4-9314-a85c10b27025",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b1b34ddcd7907505d941b70d879314b80cd4e046c4de26b15766be3e838fe8c7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
