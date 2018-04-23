@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2018-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 668,
+  "case_year": 2017,
+  "judge_rapporteur": "СТЕФАН МАРКОВ СТОЙКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9311799d-81f2-4c03-a316-2e5e7fa43bd5",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05653d3858f5ed093999efc05dcbc6b678da7d36661e579f2b5155ef7401b459",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
