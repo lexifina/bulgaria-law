@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 90,
+  "case_year": 2018,
+  "judge_rapporteur": "ВИЛИАНА СТЕФАНОВА ВЪРБАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8260dd82-087e-4e35-a0d7-4c219493510a",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "342ee8e9ef68065ac3d3d722b14af89e7b08f2739c6af873e0229306afafef46",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
