@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2018-04-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 27,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕРИ НИКОЛОВ РАДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22fc2f1b-16c7-4451-aef5-7a5c459f429a",
+  "motives_file": null,
+  "source": "https://silistra-adms.justice.bg/bg/1485?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45aa6854dec9ea54c4686573d5fbf3038f7f198526b3802030b9626041641713",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
