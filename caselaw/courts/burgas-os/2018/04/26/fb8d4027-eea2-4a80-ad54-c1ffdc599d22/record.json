@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 624,
+  "case_year": 2018,
+  "judge_rapporteur": "КИРИЛ СТОЯНОВ ГРАДЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb8d4027-eea2-4a80-ad54-c1ffdc599d22",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0d66338885de5afced9a7efc20220378d09de6334cf9ff8951c8157c5aad9343",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
