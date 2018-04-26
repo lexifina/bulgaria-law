@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2018-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 18,
+  "case_year": 2018,
+  "judge_rapporteur": "БИЛЯНА СИЛВИОНОВА КИСЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45751f80-197b-4277-b423-079ef22707fa",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da4de0572a29cc78b3be82e6d90f63e695185a93012152b823f24b5d6d952664",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
