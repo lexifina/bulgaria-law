@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2018-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 135,
+  "case_year": 2018,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=62c515d2-6c02-4671-8b7c-4a3c97e1b01e",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ebf80a69b884729f38e35649f133cb12444d7ff436dcfbd5b0a4ee17728dc2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
