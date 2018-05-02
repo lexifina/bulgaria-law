@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2018-05-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 310,
+  "case_year": 2016,
+  "judge_rapporteur": "ИВАН БОЖИКОВ ДИМИТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f771591-f8b4-4c39-8e76-aaaf34c579fd",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19d3604cefa6da876dc27d48c5fbc360c7705393dd1f8dd83ea615c2bfbbce51",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
