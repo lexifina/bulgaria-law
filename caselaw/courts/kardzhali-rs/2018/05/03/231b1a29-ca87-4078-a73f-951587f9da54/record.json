@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2018-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 683,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИАНА КОЛЕВА ГУНЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=231b1a29-ca87-4078-a73f-951587f9da54",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=01.02.2018&to=03.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc8b055330d67e2e74ec7a5a5bfee5f23f4df96f30110b738aca84dad69075c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
