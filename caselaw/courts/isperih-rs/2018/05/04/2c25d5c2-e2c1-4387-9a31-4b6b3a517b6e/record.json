@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2018-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 117,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕЛИЦА ДЕНЧЕВА БОЯДЖИЕВА ГЕОРГИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2c25d5c2-e2c1-4387-9a31-4b6b3a517b6e",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5577be9f352a60ed986a75c9a674341b9293ee1ef82d0fc1fe7c61a4c1a98e6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
