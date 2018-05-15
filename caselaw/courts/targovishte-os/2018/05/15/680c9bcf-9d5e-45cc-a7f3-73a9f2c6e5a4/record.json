@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 68,
+  "case_year": 2017,
+  "judge_rapporteur": "МАРИАНА НИКОЛАЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=680c9bcf-9d5e-45cc-a7f3-73a9f2c6e5a4",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "58aa66326558f3caf7a19eff5aa8735edca7af5c6c6ee764cf635f7cea3a1f64",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
