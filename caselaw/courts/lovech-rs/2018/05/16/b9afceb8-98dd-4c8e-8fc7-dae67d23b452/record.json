@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2018-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 365,
+  "case_year": 2017,
+  "judge_rapporteur": "ГАЛЯ АНГЕЛОВА МАРИНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9afceb8-98dd-4c8e-8fc7-dae67d23b452",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56b8ea827f52101b3a0908740f538a16dcf56dfd82c041c4abb443157d954a1b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
