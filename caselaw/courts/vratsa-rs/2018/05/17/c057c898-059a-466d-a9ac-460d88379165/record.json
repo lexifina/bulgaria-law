@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2018-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 147,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕРОНИКА АНТОНОВА БОЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c057c898-059a-466d-a9ac-460d88379165",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "44cbb4fdda385ea622a3c991173824a71edb94db3a39b5c4a909776d4c354748",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
