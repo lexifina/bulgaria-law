@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 768,
+  "case_year": 2018,
+  "judge_rapporteur": "МИРОСЛАВ АРХАНГЕЛОВ ЙОРДАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=868774c7-3991-49ed-b2cd-358e6ed34e30",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b10f2d900a3dd5edded672ecf5cc481ef8d7a458c91469f2056b010baea3f302",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
