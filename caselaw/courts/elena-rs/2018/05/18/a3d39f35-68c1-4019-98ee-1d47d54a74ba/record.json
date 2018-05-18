@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2018-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 431,
+  "case_year": 2017,
+  "judge_rapporteur": "ИСКРА СТОЯНОВА ВАРАДЖАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a3d39f35-68c1-4019-98ee-1d47d54a74ba",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dfb75703c56d99e9e80f275e4678108271b7f0ae848653c703f7f6fd31417ff8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
