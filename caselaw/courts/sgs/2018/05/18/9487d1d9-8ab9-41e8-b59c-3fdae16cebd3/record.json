@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1632,
+  "case_year": 2018,
+  "judge_rapporteur": "БОЖАНА КОСТАДИНОВА ЖЕЛЯЗКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9487d1d9-8ab9-41e8-b59c-3fdae16cebd3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=17.05.2018&to=27.05.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e861470b12f06a1da0c38c89f2e7f22cd1793493fe398d1cdf5da1d494cd99ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
