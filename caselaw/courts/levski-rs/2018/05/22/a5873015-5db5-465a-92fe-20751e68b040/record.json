@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2018-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 124,
+  "case_year": 2018,
+  "judge_rapporteur": "ПАЛМИРА ДИМИТРОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5873015-5db5-465a-92fe-20751e68b040",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f8dfb7d2242a46304b5b8b4a7e8e07b472976daf2f8e737a5d0bd2447309123",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
