@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2018-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 307,
+  "case_year": 2017,
+  "judge_rapporteur": "ВИОЛЕТА КОСТАДИНОВА АПОСТОЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4c1f94f-0b75-436c-9017-ce8c0d8cb4db",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "27c7dec8587ca3885e9c40332d522118b89614287cab9605bc7aa8d3d809b244",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
