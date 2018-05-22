@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2018-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1709,
+  "case_year": 2016,
+  "judge_rapporteur": "МАРИЕТА ХРИСТОВА РАЙКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ef54db8-fc2d-455c-9fab-d9566e4292a4",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5673027efbc2d3d1d6fb336d2f1bbc0599bc3b29afa4e5c85ba3e66e07b6aba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
