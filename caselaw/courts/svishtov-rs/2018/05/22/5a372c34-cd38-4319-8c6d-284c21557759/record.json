@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2018-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 410,
+  "case_year": 2018,
+  "judge_rapporteur": "СТЕЛА ДЯНКОВА БЪЧВАРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a372c34-cd38-4319-8c6d-284c21557759",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bdef4dfa6c4eb68d911e77b454c688467b27c93549f4ca236ac7681d5fd99b2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
