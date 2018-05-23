@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-05-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 67,
+  "case_year": 2018,
+  "judge_rapporteur": "ВОЛЯ ПЕТРОВ КЪНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=32153807-72ea-4a14-82cd-c69b97e24948",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ba09eed3789267a2356540dc8764e21799aa0f5b2898e57e33045bdc4c28d0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
