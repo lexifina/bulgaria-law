@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 253,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯНИЦА СЪБЧЕВА СЪБЕВА ЧЕНАЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dbc46b69-4a15-4d84-8efb-bfe82c7bc8be",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "abbc28ac3d7985d312750da3f8597000c112307c6bd6245516633b5af00c0d16",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
