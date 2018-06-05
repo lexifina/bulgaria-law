@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-06-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 722,
+  "case_year": 2018,
+  "judge_rapporteur": "МИЛЕН ИВАНОВ БОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0678e546-945a-4831-8412-a94ee714af41",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b10f2d900a3dd5edded672ecf5cc481ef8d7a458c91469f2056b010baea3f302",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
