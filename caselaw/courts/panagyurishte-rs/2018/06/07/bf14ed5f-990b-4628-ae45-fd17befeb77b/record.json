@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2018-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 949,
+  "case_year": 2017,
+  "judge_rapporteur": "ДИАНА СИМЕОНОВА СТАТЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bf14ed5f-990b-4628-ae45-fd17befeb77b",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "205f9e9551a0e13e7117507e9d31efb946488cb8e53f49ae2c7802c6bbb1fa27",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
