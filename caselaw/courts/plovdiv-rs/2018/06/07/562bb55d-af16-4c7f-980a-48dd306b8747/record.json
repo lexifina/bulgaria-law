@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7309,
+  "case_year": 2018,
+  "judge_rapporteur": "ЛИЛИЯ ИВАНОВА МИТЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=562bb55d-af16-4c7f-980a-48dd306b8747",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=27.05.2018&to=18.06.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9044febbd3b5367a0b6243bdb92f6322e8051fa3643b47dde6653342d1674a24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
