@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 148,
+  "case_year": 2018,
+  "judge_rapporteur": "СИЛВИЯ ЯЦОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=890d6635-a946-4c67-914c-535210da0c0f",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b095457bd54fea83cf2092971433bfa687ff240d9954b9ea89c4f4b10a71ea4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
