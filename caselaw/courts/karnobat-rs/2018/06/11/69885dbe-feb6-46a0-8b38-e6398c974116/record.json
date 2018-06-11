@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2018-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 537,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЕЛА АНАСТАСОВА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=69885dbe-feb6-46a0-8b38-e6398c974116",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "23894aa479724b3b5ccb6496ec82b08532949c11a3d6f707e221a6a82fa7a157",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
