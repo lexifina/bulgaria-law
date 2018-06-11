@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4999,
+  "case_year": 2017,
+  "judge_rapporteur": "БОГДАНА НИКОЛОВА ЖЕЛЯВСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1dc46633-f308-48fb-9ab2-2db165f73b81",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.06.2018&to=18.06.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a222e3a4d9a909ff94c1083b816ecd3eeb873b5ae2f54ce342b634e32b12ba24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
