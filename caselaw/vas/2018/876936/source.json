@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 205,
+  "case_year": 2018,
+  "decision_type": "Решение",
+  "decision_number": "7968",
+  "decision_date": "2018-06-13",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D876936%26code%3Dvas%26guid%3D1655712287",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=876936&code=vas&guid=1655712287",
+  "source_text_sha256": "09c0f9157865f1f34af90ec1b6e0a7f17bf6f6d45c27cf8a79ce4b8bdcc3a2cd",
+  "source_images": 0
+}
