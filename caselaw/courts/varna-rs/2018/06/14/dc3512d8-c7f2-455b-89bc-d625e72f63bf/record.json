@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2018-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2119,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЯ ИЛИЕВА ЦУЦАКОВА НАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dc3512d8-c7f2-455b-89bc-d625e72f63bf",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=04.05.2018&to=18.06.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eb9abd5aa04e6f777e4c818bed3e2b4984bd1cd2b6e5bea3268160587c1cb2cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
