@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2018-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 302,
+  "case_year": 2016,
+  "judge_rapporteur": "СПАСИМИР СПАСОВ ЗДРАВЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b878fbf-4db8-4cb0-8ac2-e5e16665c1c9",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "17405b3c4c455e0ae4a56fb8c314fea6d1ade06dbbc68a1a8eca38200ac2f6b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
