@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2018-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 338,
+  "case_year": 2017,
+  "judge_rapporteur": "СТОЙКА ГЕОРГИЕВА МАНОЛОВА СТОЙКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5af84c1e-33bb-4e58-b6e3-3271058facda",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f8dfb7d2242a46304b5b8b4a7e8e07b472976daf2f8e737a5d0bd2447309123",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
