@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2018-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1176,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЛАМЕН ТОДОРОВ ДОЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9c8b6876-cd42-4dac-b986-460ff8b72341",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "58f25cd5ff017463900d15d8720905eaf7ae2ec63147f720b13108300f7706a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
