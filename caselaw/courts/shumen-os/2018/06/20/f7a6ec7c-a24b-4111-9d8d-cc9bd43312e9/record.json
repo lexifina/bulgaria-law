@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2018-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 343,
+  "case_year": 2017,
+  "judge_rapporteur": "ЙОРДАН ВАСИЛЕВ ДИМОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f7a6ec7c-a24b-4111-9d8d-cc9bd43312e9",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81295819a665a292401a0542436a1b8f2f9fa52c62553c15184b94c91aa45ff1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
