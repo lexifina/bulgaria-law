@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2018-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 128,
+  "case_year": 2018,
+  "judge_rapporteur": "НИНА ДОНКОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7e77397e-fc4d-4ad9-9056-4ee45e0ad459",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "be50153d809220ebf89e1c90ab66801a8e78c3191d09f5f3b5dac9699ce76ed3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
