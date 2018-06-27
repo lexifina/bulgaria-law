@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2018-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 26,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЪЛКО ДРАГАНОВ ДРАГАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c090294b-e2bd-43e9-a370-a0824b83d038",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "199cedd84b5ccea74321e64bf30fa44b67423d1c6cbf9199c237b4a460d9a495",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
