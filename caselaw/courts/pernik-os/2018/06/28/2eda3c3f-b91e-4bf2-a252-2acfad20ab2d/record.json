@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 70,
+  "case_year": 2017,
+  "judge_rapporteur": "КАПКА ЕМИЛОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2eda3c3f-b91e-4bf2-a252-2acfad20ab2d",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06d819691f5e73859535bc1b4d70c8bcbb54f3a589a420bcb4e1bc2eb96a1051",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
