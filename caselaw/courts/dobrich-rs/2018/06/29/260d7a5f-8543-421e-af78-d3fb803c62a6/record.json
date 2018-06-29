@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2018-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 454,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИАНА МОМЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=260d7a5f-8543-421e-af78-d3fb803c62a6",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "805482523d8948494270eef848d16bffe9cea6e2bcc8619fe70152623df4dbbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
