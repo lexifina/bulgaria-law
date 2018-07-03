@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2018-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 144,
+  "case_year": 2018,
+  "judge_rapporteur": "АТАНАСКА СТОЯНОВА ПАВЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d1e1eb1-60aa-41c3-92fa-22a774662299",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "494f5735c471214049b2d5d872f59e77ddf04692aba7fb60de8f0e9a6835b733",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
