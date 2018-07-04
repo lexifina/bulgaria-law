@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2018-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 61,
+  "case_year": 2017,
+  "judge_rapporteur": "ТРИФОН ИВАНОВ МИНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b092945-6901-4794-a5d2-b2f2797b79a3",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b5609a5027083ac8dab27af6b0e8ed7872be537a5b9bf8935e8bb2950218380f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
