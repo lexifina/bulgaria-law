@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2018-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1276,
+  "case_year": 2017,
+  "judge_rapporteur": "ВАЛЕРИ ВЛАДИМИРОВ СЪБЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e86a447-cd98-4c42-b642-410897885254",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "998f523fda0d5b01a69c84e44a9867df8c75fb4027ce6717fd0848022a4607dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
