@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9637,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВАН ГЕОРГИЕВ ДЕЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f01e281c-fd75-4b1d-835f-54f55b115690",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=19.06.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8eadbd890f7a09844e0c06868f534a785957c9052e17feecd76af008533b55cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
