@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-07-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 348,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛИНА ПЕТКОВА МАГАРДИЧИЯН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=733cb77f-dc84-4e4f-9e78-ed6a2e8fe3d9",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b095457bd54fea83cf2092971433bfa687ff240d9954b9ea89c4f4b10a71ea4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
