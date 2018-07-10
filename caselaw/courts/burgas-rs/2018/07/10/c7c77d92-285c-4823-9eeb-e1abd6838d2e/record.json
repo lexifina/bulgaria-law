@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-07-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7699,
+  "case_year": 2016,
+  "judge_rapporteur": "КАЛИН СТЕФАНОВ КУНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7c77d92-285c-4823-9eeb-e1abd6838d2e",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=19.06.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8eadbd890f7a09844e0c06868f534a785957c9052e17feecd76af008533b55cc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
