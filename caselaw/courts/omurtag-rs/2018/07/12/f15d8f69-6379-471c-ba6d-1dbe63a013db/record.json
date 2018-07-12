@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2018-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 114,
+  "case_year": 2018,
+  "judge_rapporteur": "АНЕТА ИВАНОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f15d8f69-6379-471c-ba6d-1dbe63a013db",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aee41217c8e261473cec042a6c1b114bd26a381b2276b0611d637231a8c3db36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
