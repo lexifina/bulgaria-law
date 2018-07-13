@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8729,
+  "case_year": 2018,
+  "judge_rapporteur": "ВИОЛЕТА ИВАНОВА ЙОВЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb38f0f4-4d6b-4ba4-9a81-af0a80403919",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.07.2018&to=21.07.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29d07ed8cbc8ae0885ef48241e5220d2c77469bd715a60f37bfcc0a9dc6ce23d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
