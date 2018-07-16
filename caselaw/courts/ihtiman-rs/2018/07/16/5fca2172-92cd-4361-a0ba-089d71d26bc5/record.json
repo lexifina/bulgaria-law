@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2018-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 400,
+  "case_year": 2018,
+  "judge_rapporteur": "РАДОСЛАВА МАРИНОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5fca2172-92cd-4361-a0ba-089d71d26bc5",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ddb4384c1b0f004544c74d5a9025da4525a5cd5bbfaa578f26752c11a5fda51b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
