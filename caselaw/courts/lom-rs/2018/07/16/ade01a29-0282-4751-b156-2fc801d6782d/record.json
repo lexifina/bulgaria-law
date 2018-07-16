@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2018-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1074,
+  "case_year": 2018,
+  "judge_rapporteur": "БОРЯНА АЛЕКСАНДРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ade01a29-0282-4751-b156-2fc801d6782d",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a70a88e3dab31bc88f6e0462afc4d1986f76e9968cb799d0aad6febcb317093c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
