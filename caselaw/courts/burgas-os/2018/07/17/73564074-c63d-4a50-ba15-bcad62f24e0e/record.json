@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-07-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 365,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИЛЯНА НИКОЛОВА ЙОРДАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73564074-c63d-4a50-ba15-bcad62f24e0e",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3b595b794a52cf19931c467cafeddd6abb2d5cd7ff036695c5d0348166a4603",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
