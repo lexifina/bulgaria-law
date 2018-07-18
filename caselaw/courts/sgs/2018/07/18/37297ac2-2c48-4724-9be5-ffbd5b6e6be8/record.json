@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12399,
+  "case_year": 2015,
+  "judge_rapporteur": "КАЛИНА КРЪСТЕВА АНАСТАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37297ac2-2c48-4724-9be5-ffbd5b6e6be8",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.07.2018&to=21.07.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29d07ed8cbc8ae0885ef48241e5220d2c77469bd715a60f37bfcc0a9dc6ce23d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
