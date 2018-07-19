@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 3182,
+  "case_year": 2018,
+  "judge_rapporteur": "ДЕСИСЛАВ СВЕТОСЛАВОВ ЛЮБОМИРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=33c73cf4-05f7-4bff-b81b-7b63fd631405",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.07.2018&to=21.07.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29d07ed8cbc8ae0885ef48241e5220d2c77469bd715a60f37bfcc0a9dc6ce23d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
