@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 322,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИАН ГРИГОРОВ ВАСИЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e7712108-f4a3-4252-87a5-51b095945048",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24509436adc728e3b09c342a88b9bb6c35a1ead40c3632c33c23e9fe34cce887",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
