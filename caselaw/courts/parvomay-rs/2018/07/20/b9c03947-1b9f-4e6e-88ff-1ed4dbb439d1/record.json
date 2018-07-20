@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2018-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 231,
+  "case_year": 2018,
+  "judge_rapporteur": "СОФИЯ СОТИРОВА МОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9c03947-1b9f-4e6e-88ff-1ed4dbb439d1",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "17405b3c4c455e0ae4a56fb8c314fea6d1ade06dbbc68a1a8eca38200ac2f6b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
