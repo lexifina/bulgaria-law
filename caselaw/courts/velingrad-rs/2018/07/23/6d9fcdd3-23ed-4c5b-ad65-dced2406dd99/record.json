@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2018-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 327,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕСЕЛИН АНГЕЛОВ ПЕТРИЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d9fcdd3-23ed-4c5b-ad65-dced2406dd99",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "62d458343f5f4285dcc7083cc3cd97401a38e6b180c457ca8143804f5af0a6ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
