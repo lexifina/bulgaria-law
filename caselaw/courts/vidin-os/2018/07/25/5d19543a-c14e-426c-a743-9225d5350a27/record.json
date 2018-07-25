@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2018-07-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 94,
+  "case_year": 2018,
+  "judge_rapporteur": "АНЕТА МИЛЧЕВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d19543a-c14e-426c-a743-9225d5350a27",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4877693f377cfa89f8c8a9fd517110831f21010086e6c58d33647b0fd2f073da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
