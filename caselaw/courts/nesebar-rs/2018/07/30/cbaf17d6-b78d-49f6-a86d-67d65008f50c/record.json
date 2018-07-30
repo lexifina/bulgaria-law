@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2018-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 2774,
+  "case_year": 2017,
+  "judge_rapporteur": "ЙОРДАНКА ГЕОРГИЕВА МАЙСКА-ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cbaf17d6-b78d-49f6-a86d-67d65008f50c",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "998f523fda0d5b01a69c84e44a9867df8c75fb4027ce6717fd0848022a4607dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
