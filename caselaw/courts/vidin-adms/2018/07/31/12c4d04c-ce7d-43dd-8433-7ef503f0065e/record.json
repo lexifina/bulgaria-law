@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2018-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 191,
+  "case_year": 2018,
+  "judge_rapporteur": "АНТОНИЯ БЛАГОВЕСТОВА ГЕНАДИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=12c4d04c-ce7d-43dd-8433-7ef503f0065e",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "031fb107f0eb4ccac7343ab8a434c01b336d8ea49ebf192423124bb8d1d6d1c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
