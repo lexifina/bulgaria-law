@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2018-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4941,
+  "case_year": 2017,
+  "judge_rapporteur": "ИВАЙЛО ЙОСИФОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8a4ec42-b29f-43f2-b92a-993e5c3ffb03",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b10f2d900a3dd5edded672ecf5cc481ef8d7a458c91469f2056b010baea3f302",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
