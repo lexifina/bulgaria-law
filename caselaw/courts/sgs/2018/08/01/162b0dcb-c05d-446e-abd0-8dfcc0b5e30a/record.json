@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 176,
+  "case_year": 2018,
+  "judge_rapporteur": "АЛЕКСАНДРИНА ПЛАМЕНОВА ДОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=162b0dcb-c05d-446e-abd0-8dfcc0b5e30a",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.07.2018&to=01.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0fb407b93342fbdabae26ba167326eeb9bae0dceb8f4d8b81e21fdb56ece00e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
