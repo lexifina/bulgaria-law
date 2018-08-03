@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1329,
+  "case_year": 2017,
+  "judge_rapporteur": "СИЛВИЯ ИВАНОВА МИЧЕВА-АЛЕКСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1ea0fa72-8de7-4257-8230-8936d9695200",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6303f41b81d320b130fdc7f2c06e81078d0127a4db30a69b00f7e7c4c0de72d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
