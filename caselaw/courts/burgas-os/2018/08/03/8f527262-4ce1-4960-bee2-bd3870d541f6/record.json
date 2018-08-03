@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 252,
+  "case_year": 2018,
+  "judge_rapporteur": "ТАНЯ ТАШКОВА РУСЕВА-МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f527262-4ce1-4960-bee2-bd3870d541f6",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=04.05.2018&to=03.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3b595b794a52cf19931c467cafeddd6abb2d5cd7ff036695c5d0348166a4603",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
