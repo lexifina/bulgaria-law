@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-08-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1334,
+  "case_year": 2018,
+  "judge_rapporteur": "МАЯ АНДОНОВА МИЛЕНКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef4a36fc-e43e-4c25-a935-a4f0a8e345da",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "110f12e6c4d6dc2ac81ca7d425ecc4aed343ae8489542829241b285a097a4b2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
