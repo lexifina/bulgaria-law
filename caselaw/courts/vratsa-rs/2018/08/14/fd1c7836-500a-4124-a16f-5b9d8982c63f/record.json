@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2018-08-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1823,
+  "case_year": 2018,
+  "judge_rapporteur": "ИНА МИЛЧЕВА ГЕНЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fd1c7836-500a-4124-a16f-5b9d8982c63f",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e021b33140f16e46421a178603098259aa27d0311e9d04059d7b9cd4ff7de351",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
