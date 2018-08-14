@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-08-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1653,
+  "case_year": 2018,
+  "judge_rapporteur": "КИРИЛ СТАЙКОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c68a7365-62a9-46ca-8fc1-7ff2368cdf9e",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=04.08.2018&to=26.08.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6415991b3af7e3bde5172dc8eff22cfeddb25792bf8485f45ca3d19df644c395",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
