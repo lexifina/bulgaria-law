@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2018-08-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2098,
+  "case_year": 2018,
+  "judge_rapporteur": "ЗЛАТКО ДИМИТРОВ МАЗНИКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=227684bc-7ec5-4410-8f80-59de3005cc88",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cabc3afc24add0342dbecda658916c086067de58e15b5601544344399dda4210",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
