@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-08-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 380,
+  "case_year": 2018,
+  "judge_rapporteur": "СТЕФКА ТОДОРОВА МИХАЙЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=edff811f-bdfb-46c2-83a8-710f3ef7f09e",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "259b8838ee54477e332b63478e249c531574ca840bf0b0f86220f0641466124b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
