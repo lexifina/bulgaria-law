@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2018-08-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2074,
+  "case_year": 2018,
+  "judge_rapporteur": "ТЕОДОРА НАЧЕВА ПЕТКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f7bf06a6-1402-484e-bed7-ed3de8b5ca1b",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cafff83f4d389f0e61eeb1b009e607f6c345747625361405ccc37c61ee29504e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
