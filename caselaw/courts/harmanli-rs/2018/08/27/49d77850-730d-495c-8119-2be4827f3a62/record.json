@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2018-08-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 287,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49d77850-730d-495c-8119-2be4827f3a62",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3cfc3852e52e27f5aea65b0efa4ea116d9f6af977adccaddc6abf0657dc20810",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
