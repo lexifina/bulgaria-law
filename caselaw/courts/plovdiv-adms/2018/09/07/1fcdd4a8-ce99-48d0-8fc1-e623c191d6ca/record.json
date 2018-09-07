@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-09-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2457,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕОРГИ ХРИСТОВ ПАСКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1fcdd4a8-ce99-48d0-8fc1-e623c191d6ca",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06eb946190dc7bf54362e75a7047a5a3c5519203e32e5f402faa5c9fa49013e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
