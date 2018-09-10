@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2582,
+  "case_year": 2018,
+  "judge_rapporteur": "РАЙНА КИРОВА КИРЯКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=50d86834-36d5-4e84-a1b7-bba7b5966b88",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=04.08.2018&to=18.09.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d5303297fa740e1de8eb5cfc28bf432b8890938d3ca32a9771994ca0e474d9ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
