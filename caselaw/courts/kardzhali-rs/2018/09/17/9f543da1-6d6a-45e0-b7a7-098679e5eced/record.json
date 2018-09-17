@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2018-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1058,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕНТИН КОСТАДИНОВ СПАСОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f543da1-6d6a-45e0-b7a7-098679e5eced",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad0f63a26f9757f21fb3ce63603f109a1f6499e094ec341d1ec558fd8bc0baab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
