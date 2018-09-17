@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2018-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 256,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЕТА СПАСОВА СПАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef0d6d6c-9a00-49e3-9ea8-c1c51877d2e1",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "366e23fe4486d0601b653a70b7ce8bf9bd670dffe4b8536d99a762f2077f2279",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
