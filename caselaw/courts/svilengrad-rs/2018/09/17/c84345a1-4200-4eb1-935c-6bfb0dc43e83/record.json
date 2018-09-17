@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2018-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 310,
+  "case_year": 2017,
+  "judge_rapporteur": "ДЕСИСЛАВА ИВАНОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c84345a1-4200-4eb1-935c-6bfb0dc43e83",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4bbf1b74b843e946b34ab59435c1b04ead928c2b2422457552424624e2c8d87b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
