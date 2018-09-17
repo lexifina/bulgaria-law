@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2018-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 165,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИН ДИМИТРОВ МАРИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fde2fcce-5eee-4f81-9856-7026e0798dfe",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "02f03ee2d0ed103e1d1b7c3841d435ec472b591644f0cd77819396608ed31d58",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
