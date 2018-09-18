@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2018-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 343,
+  "case_year": 2018,
+  "judge_rapporteur": "НЕВЕНА ПЛАМЕНОВА ВЕЛИКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0ae7ff9-06ea-49c0-98d6-6a2f07392121",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "72c9390b9c985a25e4285ccae6de38ec0b84c1b3c2d58dffebb3064da2bbb5d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
