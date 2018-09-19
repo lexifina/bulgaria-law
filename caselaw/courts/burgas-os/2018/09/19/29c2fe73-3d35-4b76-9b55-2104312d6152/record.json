@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-09-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 653,
+  "case_year": 2017,
+  "judge_rapporteur": "СИМЕОН СИМЕОНОВ МИХОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29c2fe73-3d35-4b76-9b55-2104312d6152",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c0c532356a7490da5697fa29492eb5d4b937946769f287e868ec45afd36a801",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
