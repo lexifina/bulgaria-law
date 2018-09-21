@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 464,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРТИН ДАНЧЕВ ДАНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b111495b-d46b-405e-bc3d-7a758f7c80bc",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "259b8838ee54477e332b63478e249c531574ca840bf0b0f86220f0641466124b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
