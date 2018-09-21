@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2018-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 246,
+  "case_year": 2018,
+  "judge_rapporteur": "СНЕЖАНА ВАСИЛЕВА СТОЯНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0248cf2d-d547-457e-8730-b75f14379217",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7801a3da9a6a0ed7f161eff8ac8fe4abf658c13ce25fa6d57e27ab976b386bf0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
