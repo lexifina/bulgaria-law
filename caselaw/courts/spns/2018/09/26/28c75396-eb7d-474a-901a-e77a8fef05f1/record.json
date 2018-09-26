@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2018-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2550,
+  "case_year": 2017,
+  "judge_rapporteur": "БИЛЯНА МАРИН ВРАНЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28c75396-eb7d-474a-901a-e77a8fef05f1",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d67e279785627eaa87dade32c2d504f3ce24ed5f033d1a41f44cac45b7a4ac28",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
