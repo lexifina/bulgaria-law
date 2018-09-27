@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2018-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1141,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕМАНОЕЛ ВАРДАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39de5548-cd89-4b27-8e76-4bb339840053",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c1690e71796259040cf5e84022dd4aca563bba1c60c1b372841edd4cce20db15",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
