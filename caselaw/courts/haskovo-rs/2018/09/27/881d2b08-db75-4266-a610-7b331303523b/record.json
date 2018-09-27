@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2018-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1113,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРТИН ДИМИТРОВ КЮЧУКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=881d2b08-db75-4266-a610-7b331303523b",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "252e666c85d6c0d536022c861af08f40e68503eee934b26138ab83107d1c6a37",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
