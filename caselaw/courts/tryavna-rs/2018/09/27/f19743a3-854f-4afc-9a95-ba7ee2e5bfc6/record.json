@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2018-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 139,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЯРА АНГЕЛОВА ПЕТРАКИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f19743a3-854f-4afc-9a95-ba7ee2e5bfc6",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c521f8ad215da09289518b2f9f5734e70e53cc5f8165069933a4e993f1395ec1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
