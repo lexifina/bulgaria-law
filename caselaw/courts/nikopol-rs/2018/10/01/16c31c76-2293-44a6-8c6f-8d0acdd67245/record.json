@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2018-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 301,
+  "case_year": 2018,
+  "judge_rapporteur": "ТОДОР ИЛИЕВ ТИХОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16c31c76-2293-44a6-8c6f-8d0acdd67245",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed6ebc8221b1bb248f63449c4f0005d0288d1b4355c5575fd1b1cf357cf13d46",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
