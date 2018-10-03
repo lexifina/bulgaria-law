@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 86,
+  "case_year": 2016,
+  "judge_rapporteur": "ВАНЯ АНГЕЛОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=06e11b52-3cb0-4656-bc15-68be50b60bd0",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "259b8838ee54477e332b63478e249c531574ca840bf0b0f86220f0641466124b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
