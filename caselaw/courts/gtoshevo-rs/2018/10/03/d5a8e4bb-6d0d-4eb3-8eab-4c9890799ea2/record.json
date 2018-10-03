@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2018-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 435,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИНКО МИНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d5a8e4bb-6d0d-4eb3-8eab-4c9890799ea2",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd69fedf2d280c93fa6d0de0bd40846cf6e6d01c699c720bacadf5e380953956",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
