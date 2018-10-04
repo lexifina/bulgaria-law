@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2018-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 125,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕМИЛ ВАСИЛЕВ НИКОЛАЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d877ca56-c4a7-41d7-b796-5c07e31a1a2b",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "224c79bd7b5fb66b90d39c7da548afecc445abe3ade9a05f1d88cafb704f16fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
