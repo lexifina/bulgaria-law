@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2018-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 209,
+  "case_year": 2018,
+  "judge_rapporteur": "БОРИСЛАВА СЛАВЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=78c0d239-801d-40be-a870-2869eea3536a",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45050913647c1d750a839f1fdf02a2a7283681a38a6e4c90b39f3c456a89745a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
