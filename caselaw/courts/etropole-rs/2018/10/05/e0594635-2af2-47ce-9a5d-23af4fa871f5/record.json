@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Етрополе",
+  "jurisdiction": "BG",
+  "date": "2018-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 94,
+  "case_year": 2018,
+  "judge_rapporteur": "ЦВЕТОМИР ЦАКОВ ЦВЕТАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0594635-2af2-47ce-9a5d-23af4fa871f5",
+  "motives_file": null,
+  "source": "https://etropole-rs.justice.bg/bg/7015?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc2c25c1d5801761a71582436139d21e9fd1133d21baeb55d412b2be1f435661",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
