@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2018-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 265,
+  "case_year": 2018,
+  "judge_rapporteur": "ЗОРНИЦА МАРИНОВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8e59990d-aff6-4626-91fb-e0ac01ccd94e",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e938b454391b961398229ef4ac75b376d367639c4bd996dfecd7c79191d4b768",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
