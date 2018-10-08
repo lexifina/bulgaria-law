@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8999,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕЛЕНА ЕВГЕНИЕВА МАВРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=adf8c991-e709-4d06-8906-2b584fd0b10e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.10.2018&to=17.10.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9ac65de11e6b16b60cd9fac17203873226c8c44778010c933e2245de2d6a0e6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
