@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 514,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕНКА НИКОЛАЕВА БРАТАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d152789f-90b4-4ab4-a641-b1f77d36e552",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a3225d92540c265dbca329ca1352c5d63fc7f83cafc1b2a642d2f14386af816",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
