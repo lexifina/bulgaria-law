@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2018-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 215,
+  "case_year": 2017,
+  "judge_rapporteur": "ВИОЛЕТА АЛЕКСАНДРОВА АЛЕКСАНДРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25a6b68c-8af0-4024-b1f8-4749ee22afcc",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c40d441dfcee60823565fa344dc6d995730fee7bfc5fe9c26ccd848ed0d2952c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
