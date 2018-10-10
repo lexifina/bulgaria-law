@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 14659,
+  "case_year": 2017,
+  "judge_rapporteur": "ПЕТЯ ПЕТРОВА АЛЕКСИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92ad2238-8bf7-48ff-95cc-f07c730d4790",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.10.2018&to=17.10.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9ac65de11e6b16b60cd9fac17203873226c8c44778010c933e2245de2d6a0e6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
