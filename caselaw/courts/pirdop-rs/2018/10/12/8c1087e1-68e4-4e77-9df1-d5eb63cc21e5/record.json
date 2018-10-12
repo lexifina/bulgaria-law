@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2018-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 144,
+  "case_year": 2018,
+  "judge_rapporteur": "ДОНКА ИВАНОВА ПАРАЛЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c1087e1-68e4-4e77-9df1-d5eb63cc21e5",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c294873ebbb7690cb42ff73e921632b6d40088f5a0294631b7907881072e4557",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
