@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2018-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 737,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСИЦА СТОЯНОВА НЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f1056df-6e70-4829-84a9-76afcb03412d",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "99e838b932e607b081238fb545b371ff28a8bb530ab649c89ac8365e1fe97ff8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
