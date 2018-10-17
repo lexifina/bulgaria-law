@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-10-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1089,
+  "case_year": 2018,
+  "judge_rapporteur": "АНДРЕЙ НИКОЛОВ РАДЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c287d3ed-bf54-49b2-ac60-19cbd0d2fa20",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "110f12e6c4d6dc2ac81ca7d425ecc4aed343ae8489542829241b285a097a4b2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
