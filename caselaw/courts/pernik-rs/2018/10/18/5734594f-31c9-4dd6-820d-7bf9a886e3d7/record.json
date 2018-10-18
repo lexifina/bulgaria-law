@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 969,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕРИ МИТКОВ НЕНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5734594f-31c9-4dd6-820d-7bf9a886e3d7",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "adcacd5a848f634346beb603b62a6e49c15abb83918d1b032797d8ebe7bc3cce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
