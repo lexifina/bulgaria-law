@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2018-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 451,
+  "case_year": 2018,
+  "judge_rapporteur": "КРИСТИАН БОРИСЛАВОВ ГЮРЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=01d13646-6c44-4f67-8ca9-8e52b14b6774",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e938b454391b961398229ef4ac75b376d367639c4bd996dfecd7c79191d4b768",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
