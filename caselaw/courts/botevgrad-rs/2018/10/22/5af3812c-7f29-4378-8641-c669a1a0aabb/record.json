@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2018-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 586,
+  "case_year": 2014,
+  "judge_rapporteur": "ЦВЕТАНКА АТАНАСОВА ГРЕБЕНАРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5af3812c-7f29-4378-8641-c669a1a0aabb",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "448c6d4a97d1d75b89744702216b6b14e06e43073283bd628024d98150e15d36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
