@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2018-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 573,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕНКА ТОМОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a8d7821-79b9-4995-86d0-7bd9a062688c",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68dfbff040023876f5ba0a36411a00aebad6adb23cce0a27ee4202b51f237e74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
