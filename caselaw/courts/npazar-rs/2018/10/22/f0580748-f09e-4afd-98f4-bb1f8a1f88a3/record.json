@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2018-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 447,
+  "case_year": 2017,
+  "judge_rapporteur": "АТАНАСКА ДИМИТРОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0580748-f09e-4afd-98f4-bb1f8a1f88a3",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "717f198adb04557c0809618a24e1086955afcaa60384ba742525b80309165937",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
