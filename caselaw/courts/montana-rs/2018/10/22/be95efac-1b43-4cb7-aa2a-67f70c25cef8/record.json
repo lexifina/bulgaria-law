@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2018-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1545,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИМИТРИНА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=be95efac-1b43-4cb7-aa2a-67f70c25cef8",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f18164cda6d5f5530f758eabcfc00a0bd93a9096069aceae21d2d26a7a5084e2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
