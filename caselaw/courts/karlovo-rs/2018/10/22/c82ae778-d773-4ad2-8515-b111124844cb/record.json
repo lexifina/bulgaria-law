@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2018-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1399,
+  "case_year": 2016,
+  "judge_rapporteur": "ВЛАДИМИР СТОЯНОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c82ae778-d773-4ad2-8515-b111124844cb",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "22ac486a93e592a1c5e6a9dfd4c2f056b7776bc3bb0fa83c8b131f8b7384e573",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
