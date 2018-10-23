@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2018-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2241,
+  "case_year": 2018,
+  "judge_rapporteur": "ИРЕНА АСЕНОВА ПИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80bc9fe9-a2bd-4408-83f6-06544409e80f",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "550f4cddaa79b0a25516f2beff3545635ae5fbe4212d08051141124645f4f755",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
