@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2018-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1271,
+  "case_year": 2018,
+  "judge_rapporteur": "ЦАНКА ГЕОРГИЕВА НЕДЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=19d1fcab-ebd6-4fc2-a6a5-3b82ce767f6b",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd37e75076b0aefe7ada77d4d5bfc486176c960e3471aa098b9c0e7be107b85c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
