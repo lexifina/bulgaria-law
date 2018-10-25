@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1391,
+  "case_year": 2018,
+  "judge_rapporteur": "АНДРЕЙ КРАСИМИРОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0cccefca-d6c3-4dd1-8b00-955eadc7759d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.10.2018&to=28.10.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae8fe8e93e3e60a995c24d825e78d6ac72c197ba1ced8ead65b5d493a1fe60f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
