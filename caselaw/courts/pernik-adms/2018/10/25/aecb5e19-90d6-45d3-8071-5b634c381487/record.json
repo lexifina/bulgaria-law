@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 372,
+  "case_year": 2018,
+  "judge_rapporteur": "СЛАВА ДИМИТРОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aecb5e19-90d6-45d3-8071-5b634c381487",
+  "motives_file": null,
+  "source": "https://pernik-adms.justice.bg/bg/1135?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89946ebb96989a740d36b17be78c6a767bbfa613e317c74d65c3cd0711eaf279",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
