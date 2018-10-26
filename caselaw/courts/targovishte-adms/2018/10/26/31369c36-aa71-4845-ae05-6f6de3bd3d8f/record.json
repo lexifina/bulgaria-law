@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2018-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 149,
+  "case_year": 2018,
+  "judge_rapporteur": "КРАСИМИРА ТОДОРОВА ТОДОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31369c36-aa71-4845-ae05-6f6de3bd3d8f",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4fd3efe762c3c539d087e4321534746f5050ffe877b93458c02a026fc1afff6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
