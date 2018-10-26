@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2018-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 76,
+  "case_year": 2018,
+  "judge_rapporteur": "ЦВЕТЕЛИНА МАРИНОВА ЯНКУЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc467c7f-9fdc-4ce7-a3e1-3b29c3cb56c6",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73e03bf63a924719a5bd4d288349339ae952f5877a7053b012a435ccd3eb1a13",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
