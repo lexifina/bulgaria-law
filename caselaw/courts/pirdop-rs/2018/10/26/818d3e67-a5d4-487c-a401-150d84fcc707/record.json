@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2018-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 803,
+  "case_year": 2017,
+  "judge_rapporteur": "СИМЕОН ГОРАНОВ ГЮРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=818d3e67-a5d4-487c-a401-150d84fcc707",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c294873ebbb7690cb42ff73e921632b6d40088f5a0294631b7907881072e4557",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
