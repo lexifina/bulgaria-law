@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2018-10-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2515,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕСЕЛА КАЛЧЕВА СПАСОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=747e6e52-bb09-4ef3-b0d8-f09f13fa4bb5",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03da98a51f416f520562c2371a77b04af70c67f51d60ba101d89073d26204c2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
