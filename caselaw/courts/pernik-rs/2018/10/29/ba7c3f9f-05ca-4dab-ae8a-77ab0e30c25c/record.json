@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-10-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1012,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕТЪР ВЕСЕЛИНОВ БОСНЕШКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba7c3f9f-05ca-4dab-ae8a-77ab0e30c25c",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "adcacd5a848f634346beb603b62a6e49c15abb83918d1b032797d8ebe7bc3cce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
