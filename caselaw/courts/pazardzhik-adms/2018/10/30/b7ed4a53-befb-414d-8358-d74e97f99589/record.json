@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2018-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 106,
+  "case_year": 2018,
+  "judge_rapporteur": "ХРИСТИНА ПЕТКОВА ЮРУКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7ed4a53-befb-414d-8358-d74e97f99589",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "72b0e8177b626cf6b0f827290e25a5e1fa571517913dfa891ff64ca4297a50aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
