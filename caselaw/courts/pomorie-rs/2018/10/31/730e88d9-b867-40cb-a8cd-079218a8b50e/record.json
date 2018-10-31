@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2018-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 191,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИМИТЪР МАРИНОВ ДИМИТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=730e88d9-b867-40cb-a8cd-079218a8b50e",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "54ccb782be43bfab268244c3095b54df1f5df6b97ebf0c102418cff3526ac63b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
