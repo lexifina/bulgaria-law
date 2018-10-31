@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2018-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 360,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯНИКА ТЕНЕВА БОЗАДЖИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec54d7ef-92ae-4421-af70-eec87b86028f",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f9a33874bb30d7f5d8eadcb8382e473ec1fed317e9f234881dab1112e65045b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
