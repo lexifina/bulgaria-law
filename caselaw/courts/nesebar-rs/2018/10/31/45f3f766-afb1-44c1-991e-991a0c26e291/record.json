@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2018-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1914,
+  "case_year": 2018,
+  "judge_rapporteur": "ЙОРДАНКА ГЕОРГИЕВА МАЙСКА-ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45f3f766-afb1-44c1-991e-991a0c26e291",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=04.08.2018&to=03.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30b13764f22c5a142df3432f8e1fcdbab260e57c0bf6de56f7a7f561d3fe6775",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
