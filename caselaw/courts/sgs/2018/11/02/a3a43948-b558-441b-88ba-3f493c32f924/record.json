@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 2982,
+  "case_year": 2018,
+  "judge_rapporteur": "СТЕФАН НЕДЯЛКОВ КЮРКЧИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a3a43948-b558-441b-88ba-3f493c32f924",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=29.10.2018&to=02.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25c8669d8785a0e665f8abe263f566cd39f0eab358f4e606ba495d203d127cb1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
