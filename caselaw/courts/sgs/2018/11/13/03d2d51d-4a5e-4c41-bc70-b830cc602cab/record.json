@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13724,
+  "case_year": 2017,
+  "judge_rapporteur": "СИЛВАНА ИВАНОВА ГЪЛЪБОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03d2d51d-4a5e-4c41-bc70-b830cc602cab",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=13.11.2018&to=17.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "861a1b6280096e5cef10aa907f6081d6468e705101edbb198eb01679fdede2ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
