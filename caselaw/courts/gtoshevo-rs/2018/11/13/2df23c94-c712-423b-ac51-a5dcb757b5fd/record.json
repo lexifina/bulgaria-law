@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2018-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 10,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИНКО МИНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2df23c94-c712-423b-ac51-a5dcb757b5fd",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2ff0e9e42f3b3277b421e0ef3360faffe97212aabd9e30c04f05f862538061f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
