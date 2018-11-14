@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2018-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 220,
+  "case_year": 2018,
+  "judge_rapporteur": "НЕДЕЛИНА ТАНЧЕВА МИНЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a29370f-9ca3-4518-845e-984523c21d75",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "493d3861ab8f1231c3604566b35747dc6f643419a132446bc57612714968f376",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
