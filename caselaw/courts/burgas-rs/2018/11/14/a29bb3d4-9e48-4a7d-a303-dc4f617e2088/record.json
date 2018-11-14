@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2018-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4000,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЕТА ДИМИТРОВА БУШАНДРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a29bb3d4-9e48-4a7d-a303-dc4f617e2088",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=04.11.2018&to=26.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06dbcce304f91016d5c433a00d4d1b3245deab7163e4dd2514b2b7edc914b726",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
