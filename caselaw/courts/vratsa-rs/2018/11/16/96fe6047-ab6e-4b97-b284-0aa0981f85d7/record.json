@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2018-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1172,
+  "case_year": 2018,
+  "judge_rapporteur": "ИСКРА ПЕТЬОВА КАСАБОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=96fe6047-ab6e-4b97-b284-0aa0981f85d7",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b40489ebb35d5a23c821e9f68a4c2bb1355a9c18a5ced3deab666e4cec6c9302",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
