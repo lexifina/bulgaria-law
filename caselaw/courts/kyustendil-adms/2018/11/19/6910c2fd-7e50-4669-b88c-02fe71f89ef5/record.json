@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 395,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАН ХРИСТОВ ДЕМИРЕВСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6910c2fd-7e50-4669-b88c-02fe71f89ef5",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41449b8d2638bb7f505a61e0136a827dc6e6bc950680d95ec86fe905f9c66e2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
