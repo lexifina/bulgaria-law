@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2018-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1301,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕЛИ ГЕОРГИЕВА СКОКЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0b84bac-6738-4bdd-8cdd-ccb59e2d5518",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b4c76059407d358f14e3ab867a65f1e158c0c13af43a625cf935fcc62adc7f0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
