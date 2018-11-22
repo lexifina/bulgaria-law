@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2018-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 281,
+  "case_year": 2018,
+  "judge_rapporteur": "КАМЕН ГЕОРГИЕВ ГАТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0e33e7e-cb32-46e8-bc19-b2fc8db663e9",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "edf2e39acc8aa2de3a0e11e78ada61378f8b57bdfa2586ea936b8ef31385264f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
