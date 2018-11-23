@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4199,
+  "case_year": 2017,
+  "judge_rapporteur": "БОРЯНА ДИМЧЕВА ВОДЕНИЧАРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2b4ae83-a81c-4fdb-81ad-8064b6550669",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=23.11.2018&to=27.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f764602f52b521e972f15dd36f3141a975ca549eb3fe2d17464003077cd63e93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
