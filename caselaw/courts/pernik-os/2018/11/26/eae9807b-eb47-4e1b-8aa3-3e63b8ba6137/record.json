@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 649,
+  "case_year": 2018,
+  "judge_rapporteur": "МИЛЕНА РАНГЕЛОВА ДАСКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eae9807b-eb47-4e1b-8aa3-3e63b8ba6137",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1762d37a374f70c368dbd81e310d62ba4a63fec7d36a5676cdfa76276a9b3be4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
