@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2018-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1053,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСЕН ПЛАМЕНОВ АЛЕКСАНДРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03d5662b-1629-4b09-9cc2-c1f61c7401d0",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19f51336dc42854e474cfc09938a882046e158f65e66c56a2ca3759149def82c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
