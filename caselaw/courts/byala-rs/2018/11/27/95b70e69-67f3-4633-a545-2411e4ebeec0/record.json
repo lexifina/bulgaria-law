@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2018-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 396,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛЕНА ПЕТКОВА ДЯКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=95b70e69-67f3-4633-a545-2411e4ebeec0",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "160ee0d8735a34979072c27c8ebb067f4e3b40a8cf08d37185bb09f1043e3c07",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
