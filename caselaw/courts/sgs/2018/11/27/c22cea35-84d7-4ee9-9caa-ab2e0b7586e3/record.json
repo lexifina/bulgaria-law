@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1227,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕРИЯ ИВАНОВА БРАТОЕВА ДАМГОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c22cea35-84d7-4ee9-9caa-ab2e0b7586e3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=23.11.2018&to=27.11.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f764602f52b521e972f15dd36f3141a975ca549eb3fe2d17464003077cd63e93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
