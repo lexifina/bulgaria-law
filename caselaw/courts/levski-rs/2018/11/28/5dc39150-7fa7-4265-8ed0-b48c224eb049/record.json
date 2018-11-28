@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2018-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 404,
+  "case_year": 2018,
+  "judge_rapporteur": "ДЕСИСЛАВА КОНСТАНТИНОВА НИКОЛАЕВА-ГЕОРГИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5dc39150-7fa7-4265-8ed0-b48c224eb049",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "daf57815abfc11e0d04e0b8e91e8263ef270074e562e6ff009c95540464177ab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
