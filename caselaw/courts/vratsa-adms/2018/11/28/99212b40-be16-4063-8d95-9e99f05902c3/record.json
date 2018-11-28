@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2018-11-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 553,
+  "case_year": 2017,
+  "judge_rapporteur": "МИГЛЕНА РАДЕНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=99212b40-be16-4063-8d95-9e99f05902c3",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06a0028bc85002fdef27b02def890719ec0c6b8da6e396b0394b41556c400d70",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
