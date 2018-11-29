@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2018-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1321,
+  "case_year": 2015,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА КАВРАКОВА АРШЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bdb7029e-778d-4922-8d7f-6da6d25070f6",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf46f20dc8eeca9d81937ef475b027249d235b369dc845e3de8d1e2749ea6b48",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
