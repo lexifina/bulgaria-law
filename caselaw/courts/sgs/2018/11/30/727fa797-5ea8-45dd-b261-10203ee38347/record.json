@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 4997,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАН ДИМИТРОВ КОЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=727fa797-5ea8-45dd-b261-10203ee38347",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=28.11.2018&to=02.12.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f65be1edf08bcde00e96bcf923ca41a5447276c14b6a92fccbc8e3cfec252087",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
