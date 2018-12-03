@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1650,
+  "case_year": 2018,
+  "judge_rapporteur": "СВЕТОСЛАВ ЕМИЛОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f76b7a58-a412-4b00-b107-61676b78afff",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "174f026d81afefb87809f273806ef292fffee9bee88420528f0a61b10e8b62ca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
