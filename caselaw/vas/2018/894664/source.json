@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6207,
+  "case_year": 2018,
+  "decision_type": "Решение",
+  "decision_number": "15012",
+  "decision_date": "2018-12-05",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D894664%26code%3Dvas%26guid%3D1657476774",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=894664&code=vas&guid=1657476774",
+  "source_text_sha256": "fc2ad6c4201d61aba05f0040fa398f753a14ce0a6485a06bec11c87f07e16f62",
+  "source_images": 0
+}
