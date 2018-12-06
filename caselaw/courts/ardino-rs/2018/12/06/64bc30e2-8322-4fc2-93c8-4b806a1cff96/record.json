@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ардино",
+  "jurisdiction": "BG",
+  "date": "2018-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 71,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЕНТИН ПЕТРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64bc30e2-8322-4fc2-93c8-4b806a1cff96",
+  "motives_file": null,
+  "source": "https://ardino-rs.justice.bg/bg/4775?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24dabbf634afb78b6abd9e4a2275dc172c95e6ede064c0ca058bde7a55e0c0a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
