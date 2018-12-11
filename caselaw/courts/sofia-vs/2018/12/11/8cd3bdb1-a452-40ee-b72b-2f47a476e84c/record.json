@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2018-12-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 272,
+  "case_year": 2018,
+  "judge_rapporteur": "ЦАНКО ТАНЕВ ГРОЗЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8cd3bdb1-a452-40ee-b72b-2f47a476e84c",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "451c72f1068ffa13d86bef9a908ead2bd4724941dc83451740f76e68b281bce2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
