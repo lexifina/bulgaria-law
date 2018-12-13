@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2018-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5168,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВЕЛИНА ХРИСТОВА ХРИСТОВА-ЖЕЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1892087-7c71-4e40-bca4-0c09d9a8e6fb",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.12.2018&to=17.12.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6fbedce63529c67426fa871fd718fa48df40cfc6b33699539a1d188facbf1919",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
