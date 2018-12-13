@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2018-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 16,
+  "case_year": 2011,
+  "judge_rapporteur": "ЕЛЕОНОРА ПЕТРОВА СЕРАФИМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee393ca7-1f1e-45b4-a8fa-26dac22b166e",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64dd573eb7957fa1b698d51924b7fc69642d1762062745cc1661d940878f354a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
