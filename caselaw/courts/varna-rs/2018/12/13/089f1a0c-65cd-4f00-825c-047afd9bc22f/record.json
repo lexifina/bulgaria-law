@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2018-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9210,
+  "case_year": 2018,
+  "judge_rapporteur": "НИКОЛАЙ СВИЛЕНОВ СТОЯНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=089f1a0c-65cd-4f00-825c-047afd9bc22f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.12.2018&to=17.12.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6fbedce63529c67426fa871fd718fa48df40cfc6b33699539a1d188facbf1919",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
