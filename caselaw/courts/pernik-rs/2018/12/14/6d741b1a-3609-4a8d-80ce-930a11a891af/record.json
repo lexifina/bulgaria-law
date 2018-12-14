@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2018-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6535,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯНА МАРИО ФИЛИПОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d741b1a-3609-4a8d-80ce-930a11a891af",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=27.11.2018&to=19.12.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e432e8d61aa0da46f23d16d9bd050ee9a4eab21bd985382c1be597d3b8b9e83a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
