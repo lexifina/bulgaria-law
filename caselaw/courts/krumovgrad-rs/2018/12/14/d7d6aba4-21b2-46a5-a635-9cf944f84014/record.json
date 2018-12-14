@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2018-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 193,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАН ИЛИЕВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7d6aba4-21b2-46a5-a635-9cf944f84014",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1283d9d18c123950a188c4aa018e6d5d7ce86ee19bf2a732e8990fda7c3ab28a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
