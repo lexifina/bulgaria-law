@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2018-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 7355,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВА ЦВЕТОЗАРОВА НЕШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=14cd67b0-086a-4ba1-8d09-878fb25ee924",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.12.2018&to=22.12.2018&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e09fd9499d0063b0957283b9c9604a05c4c96d5f56bff251eda2594a6ef6541b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
