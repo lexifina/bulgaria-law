@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2018-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1051,
+  "case_year": 2018,
+  "judge_rapporteur": "КИРИЛ ХАДЖИТАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18b004f3-6fb6-46fe-a68c-d5d0fe1035dc",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6ee54ac2329bd4ebb4bb52883c075d9c5d90fe0394e5b737e2fb53186212de8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
