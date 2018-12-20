@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2018-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 100,
+  "case_year": 2018,
+  "judge_rapporteur": "ТАТЯНА ХРИСТОВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b70fe5d-03a3-47c2-b4de-b0eac97cc75f",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96a6eed38f59509e1845bdb0c98b002f57626c79d24e09794fdb713e2bbc68d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
