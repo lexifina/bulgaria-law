@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2018-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 726,
+  "case_year": 2018,
+  "judge_rapporteur": "НИКОЛАЙ БОРИСОВ БОРИСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc3c5265-b0de-40e0-a3e0-b36fbfa132f2",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f940508d720206f8b335fca95d0cde38c4e2b6451e67e8a029c98cd23cc5909d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
