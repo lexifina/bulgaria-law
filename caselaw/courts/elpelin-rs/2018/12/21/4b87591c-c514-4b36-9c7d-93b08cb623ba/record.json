@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елин Пелин",
+  "jurisdiction": "BG",
+  "date": "2018-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 228,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕТКО РУСЕВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b87591c-c514-4b36-9c7d-93b08cb623ba",
+  "motives_file": null,
+  "source": "https://elpelin-rs.justice.bg/bg/6875?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f21da1d6e4d0786c6c572b6d5d369be8a0b1b295ddf30257b8a1414ebe30247",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
