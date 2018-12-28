@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2018-12-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 115,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЛАМЕН НИКОЛАЕВ ПОПОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=56ff6f75-8dff-46e2-a7dc-ac0b603c91d7",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b73482d082523a91aec97fa08a0cd83e39af17bae218c885de43fad22e1440fc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
