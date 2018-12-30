@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2018-12-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 553,
+  "case_year": 2018,
+  "judge_rapporteur": "МИНКА ИВАНОВА КИТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c12c6705-5bd3-4957-a842-126a0ddab307",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "99a6ad3936c6ec5c3f28db04cd5c94293e0d0e425b92198419ac5a7168e78765",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
