@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-01-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 444,
+  "case_year": 2018,
+  "judge_rapporteur": "МИРОСЛАВ ГЕОРГИЕВ МАРИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b14f543-0558-44ac-a4f7-e522fdecd07b",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3623cf857cc9cfcc2d4855de71ae56a4b3fbe2266cb70cda063817249e69584",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
