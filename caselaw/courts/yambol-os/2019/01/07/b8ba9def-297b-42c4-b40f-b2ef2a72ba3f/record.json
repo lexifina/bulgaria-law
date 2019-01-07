@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2019-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 360,
+  "case_year": 2018,
+  "judge_rapporteur": "КАЛИНА ГЕОРГИЕВА ПЕЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8ba9def-297b-42c4-b40f-b2ef2a72ba3f",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "533729219b3305f49b159381ba840250b4bf027a3ad2e249a67963092327a373",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
