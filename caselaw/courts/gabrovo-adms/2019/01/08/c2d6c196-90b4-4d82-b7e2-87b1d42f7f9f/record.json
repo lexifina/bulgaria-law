@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2019-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛИН НИКОЛОВ КОСЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c2d6c196-90b4-4d82-b7e2-87b1d42f7f9f",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "661c0270d17eeb7ec1654215b662b13c7079d6c7735fb4d9fbb71056eb6c52c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
