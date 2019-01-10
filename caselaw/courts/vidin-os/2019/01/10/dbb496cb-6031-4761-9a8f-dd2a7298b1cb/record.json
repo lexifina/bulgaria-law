@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2019-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 367,
+  "case_year": 2018,
+  "judge_rapporteur": "ВАЛЯ ЙОРДАНОВА МЛАДЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dbb496cb-6031-4761-9a8f-dd2a7298b1cb",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ad52d5353935a944fd2ecfcffa48a1740ba9553b689c4470dd387056afcc38c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
