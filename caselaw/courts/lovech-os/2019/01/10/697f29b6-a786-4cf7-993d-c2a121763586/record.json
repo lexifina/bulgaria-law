@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2019-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 7,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАСИЛ АНАСТАСОВ АНАСТАСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=697f29b6-a786-4cf7-993d-c2a121763586",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8df72f7f9c9d1070c627e2d38f554b9f2950a0cd44bbf88d812533893592f4fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
