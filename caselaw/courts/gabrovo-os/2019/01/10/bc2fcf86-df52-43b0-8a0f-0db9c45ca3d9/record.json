@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2019-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10104,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛИНА КОСЕВА КОСЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc2fcf86-df52-43b0-8a0f-0db9c45ca3d9",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b73482d082523a91aec97fa08a0cd83e39af17bae218c885de43fad22e1440fc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
