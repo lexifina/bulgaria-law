@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2019-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 268,
+  "case_year": 2018,
+  "judge_rapporteur": "АНЕЛИЯ ДИМИТРОВА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=923a6cf6-9790-4134-a544-b706fd4e143e",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "900ac4d1aabcb9febefad29a0ee31981878b804f291f34041aca3ee76c711c73",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
