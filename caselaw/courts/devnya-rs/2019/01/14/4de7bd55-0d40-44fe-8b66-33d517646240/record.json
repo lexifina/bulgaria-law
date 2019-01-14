@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2019-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 704,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИМО ВЕНКОВ ЦОЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4de7bd55-0d40-44fe-8b66-33d517646240",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c730bb87106de4037342998b22cedc462066ee84955d705b34370c49ed3505b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
