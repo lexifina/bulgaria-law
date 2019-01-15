@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2019-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1007,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕНКА КОЛЕВА КОСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c36823a-3461-45c7-ab0f-e3c40afd8b44",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0111dcfa3ad6609c5d728f4b4ca17510c1ec70271a042a79f2ac2fe10fd77c80",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
