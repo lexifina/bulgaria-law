@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2019-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИН МИТКОВ ЧОРБАДЖИЙСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6206a458-9013-4a36-81fa-2976231a9793",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1283d9d18c123950a188c4aa018e6d5d7ce86ee19bf2a732e8990fda7c3ab28a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
