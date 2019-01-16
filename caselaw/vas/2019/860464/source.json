@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 9173,
+  "case_year": 2017,
+  "decision_type": "Решение",
+  "decision_number": "680",
+  "decision_date": "2019-01-16",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D860464%26code%3Dvas%26guid%3D1654585125",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=860464&code=vas&guid=1654585125",
+  "source_text_sha256": "9e034260b715bc3afb2e65c88ba208d4c83ef4a5ad3986a7427ede4ede57430b",
+  "source_images": 0
+}
