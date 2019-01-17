@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 5650,
+  "case_year": 2018,
+  "decision_type": "Решение",
+  "decision_number": "728",
+  "decision_date": "2019-01-17",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D893002%26code%3Dvas%26guid%3D1657440378",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=893002&code=vas&guid=1657440378",
+  "source_text_sha256": "b8b5907eaea633b7792b222e92e2aff9089366ff95afca518ea023846b713796",
+  "source_images": 0
+}
