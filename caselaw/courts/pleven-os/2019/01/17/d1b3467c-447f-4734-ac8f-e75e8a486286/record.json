@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 245,
+  "case_year": 2018,
+  "judge_rapporteur": "КРАСИМИР ИВАНОВ ПЕТРАКИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1b3467c-447f-4734-ac8f-e75e8a486286",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "10f2468d29d608fe26cf7f80df8bf3de0ad512aa78cadb944b5a8c2748d87605",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
