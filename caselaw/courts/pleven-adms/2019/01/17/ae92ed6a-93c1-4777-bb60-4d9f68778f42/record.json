@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 4,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ ЯНКОВ ГОСПОДИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ae92ed6a-93c1-4777-bb60-4d9f68778f42",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "190041d450127d5620bf6cc00915a51d112c7cc855914fe4232995a58e361b82",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
