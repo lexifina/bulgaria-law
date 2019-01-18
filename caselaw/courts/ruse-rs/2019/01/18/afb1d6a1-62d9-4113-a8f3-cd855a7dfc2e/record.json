@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1581,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАЙЛО ДИМИТРОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=afb1d6a1-62d9-4113-a8f3-cd855a7dfc2e",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=20.12.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b7707895a881ad80c4e57551cd8816cfcb050904e29fa9dcdca3ffbf0fc2f55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
