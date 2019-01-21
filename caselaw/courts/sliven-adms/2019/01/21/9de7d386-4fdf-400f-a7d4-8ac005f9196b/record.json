@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2019-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 15,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛЯ ПЕТКОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9de7d386-4fdf-400f-a7d4-8ac005f9196b",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "67454c36aab3323aae613b5d2fa4aee0f3dd88bc10c0213fd0f5fce55bcfbdb6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
