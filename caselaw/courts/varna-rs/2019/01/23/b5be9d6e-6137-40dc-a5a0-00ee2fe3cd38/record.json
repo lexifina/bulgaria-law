@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5532,
+  "case_year": 2018,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5be9d6e-6137-40dc-a5a0-00ee2fe3cd38",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=20.01.2019&to=30.01.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c2e958d50ee9b5eb5419b25a77a40a1d8f5bc33004bea1098cfe14829b9df8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
