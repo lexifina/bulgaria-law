@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 37,
+  "case_year": 2019,
+  "judge_rapporteur": "БИСТРА РАДКОВА БОЙН",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=596d39be-4f6a-410f-95ac-9d384c89d607",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d685c4e7cacce43b90792cf33dfcc9da8f45df58f529dcf85cf9e2fc756f27bc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
