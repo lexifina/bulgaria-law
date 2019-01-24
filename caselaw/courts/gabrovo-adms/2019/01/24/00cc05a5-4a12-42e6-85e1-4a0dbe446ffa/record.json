@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2019-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 13,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАНИЕЛА ИВАНЧЕВА ГИШИНА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=00cc05a5-4a12-42e6-85e1-4a0dbe446ffa",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "661c0270d17eeb7ec1654215b662b13c7079d6c7735fb4d9fbb71056eb6c52c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
