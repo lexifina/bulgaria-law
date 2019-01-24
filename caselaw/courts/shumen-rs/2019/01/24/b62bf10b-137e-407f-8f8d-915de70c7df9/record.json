@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 214,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР ПЕТКОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b62bf10b-137e-407f-8f8d-915de70c7df9",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c5a3496ea67fa67dd5e4c0a56593ad2baad7fc6e763c752917ceba6c41cc2e8b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
