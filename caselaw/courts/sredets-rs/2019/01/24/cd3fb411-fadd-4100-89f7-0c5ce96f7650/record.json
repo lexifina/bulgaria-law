@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2019-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 192,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЛАМЕН МАРИНОВ ДОЙКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd3fb411-fadd-4100-89f7-0c5ce96f7650",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1dd18c147c196cc8aab67935eebaeee3619b73d11873258983fe5efb68307faa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
