@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 15280,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСЕН БОРИСЛАВОВ ДИМИТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ee1a72c-d2b1-4f61-88a0-08245e7d56f4",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.01.2019&to=26.01.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5a27f33796320f2cf711f9e8f618e786968c318d9a3af7412e59a16ffc387515",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
