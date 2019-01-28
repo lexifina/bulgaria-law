@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 221,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТЛАНА НЕЙКОВА НЕЙЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=08b8ab78-14e2-4af5-bfc7-57f81e268512",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=20.12.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b7707895a881ad80c4e57551cd8816cfcb050904e29fa9dcdca3ffbf0fc2f55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
