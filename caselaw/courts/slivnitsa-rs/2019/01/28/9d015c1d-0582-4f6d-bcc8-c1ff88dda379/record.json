@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2019-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 790,
+  "case_year": 2018,
+  "judge_rapporteur": "НЕВЕНА ПЛАМЕНОВА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d015c1d-0582-4f6d-bcc8-c1ff88dda379",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f63cc5900d9eb6c27cbd8831f2effc68b3c04d194f718fbd252e4165aba695b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
