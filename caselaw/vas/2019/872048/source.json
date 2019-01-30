@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 13333,
+  "case_year": 2017,
+  "decision_type": "Решение",
+  "decision_number": "1285",
+  "decision_date": "2019-01-30",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D872048%26code%3Dvas%26guid%3D1655564326",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=872048&code=vas&guid=1655564326",
+  "source_text_sha256": "c04d5f3d5bd4a72797fce9377e2978ba864f9422ba1ba51f71e9e3d721db8a86",
+  "source_images": 0
+}
