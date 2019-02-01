@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2019-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 243,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИЯНА ИВАНОВА ДАМЯНОВА ЦАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ec30c91-a6a5-48e4-8371-03723bd1f178",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=04.11.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf01fb50c57758fd8016b4a3a24c1190e0868109028e860daf2f3e1ed738b50f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
