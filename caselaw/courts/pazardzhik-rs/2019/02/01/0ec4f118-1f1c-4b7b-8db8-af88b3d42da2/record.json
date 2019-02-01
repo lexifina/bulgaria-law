@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 196,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР БОРИСОВ БИШУРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ec4f118-1f1c-4b7b-8db8-af88b3d42da2",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=20.12.2018&to=03.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe1e8c0db0a9b49e2981c5fb4b9c15f3bbd8852509bfc1e62a988cb71c09e4f8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
