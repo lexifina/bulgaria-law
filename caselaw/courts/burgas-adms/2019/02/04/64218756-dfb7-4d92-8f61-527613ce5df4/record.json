@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 1988,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛИНА ГЕОРГИЕВА РАДИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64218756-dfb7-4d92-8f61-527613ce5df4",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8e02575debd3b41b89109b12c485a547ec9443bec816b9688cb270a8cd33e6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
