@@ -1,0 +1,21 @@
+{
+  "listing": "https://www.mlsp.government.bg/naredbi",
+  "label": "Наредба № 2 от 22.03.2004 г. за минималните изисквания за ЗБУТ при строителни и монтажни работи (PDF)",
+  "url": "https://www.mlsp.government.bg/uploads/37/politiki/trud/zakonodatelstvo/n2smr.pdf",
+  "title": "НАРЕДБА № 2 от 22.03.2004 г. за минималните изисквания за здравословни и безопасни условия на труд при извършване на строителни и монтажни работи",
+  "made": "2004-03-22",
+  "published": "2019-02-01",
+  "in_force": "2019-02-04",
+  "in_force_basis": "Official MLSP consolidation header: latest listed Gazette amendment ДВ, бр. 10 от 1.02.2019 г.; no special commencement found in the sampled header, so Constitution art. 5(5), three days after publication.",
+  "latest_gazette_issue": "10",
+  "sha256": "8e9913a04ee59617acf5456aea0e47a250a07a0df196112a6ad025546121ab34",
+  "path": "naredba/mlsp/2004/naredba-2-ot-22-03-2004-g-za-minimalnite-iziskvaniya-za-zdravoslovni-i-bezopasni-8e9913a0",
+  "checks": {
+    "pages": 46,
+    "source_images": 0,
+    "native_chars": 142632
+  },
+  "checked_on": "2026-11-15",
+  "representation": "official-mlsp-current-consolidation",
+  "first_law": null
+}
