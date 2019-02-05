@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4684,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЕТА ДИМИТРОВА БУШАНДРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6e23b91-4da4-4432-b963-fda2435cea7a",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=04.02.2019&to=26.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1f5c81eacdab74b645a692564fdf1dadbde0e1b4caa2fecca8423ff4bb68095b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
