@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2019-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 433,
+  "case_year": 2018,
+  "judge_rapporteur": "НАДЯ СТЕФАНОВА БАКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03c9dea6-5bf4-45d1-9663-2ed047d3809a",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c71e1bce1a460cfe1e03841cdebbdcbb6cfb6cf897b832d78ca710c5505ba04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
