@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 732,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЕСЕЛА ЛЮБОМИРОВА САХАТЧИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d204f8ec-d01b-4b42-8dba-048c14465f72",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e01e1e540c1a1eee1b9d431f22fba6c5be2877057912915f1340617f7a1c345e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
