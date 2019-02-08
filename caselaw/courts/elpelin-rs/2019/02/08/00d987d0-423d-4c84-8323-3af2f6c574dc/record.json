@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елин Пелин",
+  "jurisdiction": "BG",
+  "date": "2019-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1115,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСИЦА ГЕНАДИЕВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=00d987d0-423d-4c84-8323-3af2f6c574dc",
+  "motives_file": null,
+  "source": "https://elpelin-rs.justice.bg/bg/6875?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41fe2ba93923f826cd985016b1be3348238f1a2ec4bae18d69e15189dcd82da0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
