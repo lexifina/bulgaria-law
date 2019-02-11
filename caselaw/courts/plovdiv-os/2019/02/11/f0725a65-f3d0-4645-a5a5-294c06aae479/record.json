@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 411,
+  "case_year": 2016,
+  "judge_rapporteur": "АЛЕКСАНДЪР ЛАЗАРОВ СТОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f0725a65-f3d0-4645-a5a5-294c06aae479",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "817b7ae168d70e6a19e8c8bf79e223e33e20e9439473ec964e4d1db96f821fbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
