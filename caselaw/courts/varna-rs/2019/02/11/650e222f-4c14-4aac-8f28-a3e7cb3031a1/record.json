@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 488,
+  "case_year": 2019,
+  "judge_rapporteur": "ДЕНИЦА ДИМИТРОВА СЛАВОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=650e222f-4c14-4aac-8f28-a3e7cb3031a1",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=11.02.2019&to=21.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e93d7f51757d28d27b40b62817b552c5b58ef43c744c082f2ac168475ba41a21",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
