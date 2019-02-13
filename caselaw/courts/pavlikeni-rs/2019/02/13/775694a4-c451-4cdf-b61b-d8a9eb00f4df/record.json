@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2019-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 27,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТИНА МИТКОВА МИНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=775694a4-c451-4cdf-b61b-d8a9eb00f4df",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "52974a8a328ec2aea6fada521bc3a3a9d53e824c8f9ec6b0ab2bbe8124dbcd15",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
