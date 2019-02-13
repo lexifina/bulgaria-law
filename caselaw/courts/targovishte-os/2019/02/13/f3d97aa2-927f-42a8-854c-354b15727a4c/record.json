@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2019-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 62,
+  "case_year": 2019,
+  "judge_rapporteur": "СИЛВИЯ ПЕТРОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3d97aa2-927f-42a8-854c-354b15727a4c",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ea781fd3de367b3b7ed9182e868d7deda57aa26d459048795da7db2f5aac7b59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
