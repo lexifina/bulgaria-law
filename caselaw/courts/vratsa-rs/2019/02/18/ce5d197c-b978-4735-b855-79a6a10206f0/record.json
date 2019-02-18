@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2019-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3211,
+  "case_year": 2018,
+  "judge_rapporteur": "БИЛЯНА РОСАЛИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce5d197c-b978-4735-b855-79a6a10206f0",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4345ac55f5f6a929b7dd4025f35556731726a191be6c56e35179f99a0d060824",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
