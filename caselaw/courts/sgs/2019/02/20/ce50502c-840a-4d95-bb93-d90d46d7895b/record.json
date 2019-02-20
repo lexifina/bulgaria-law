@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4642,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАНКА КОЛЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce50502c-840a-4d95-bb93-d90d46d7895b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.02.2019&to=20.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe6b1a3fa4ce4a1eea532831a25d504539d33718c77d5928aebbb973b6a2b91a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
