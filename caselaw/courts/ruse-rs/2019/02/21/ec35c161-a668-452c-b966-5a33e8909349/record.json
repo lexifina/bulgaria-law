@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 112,
+  "case_year": 2019,
+  "judge_rapporteur": "АЛЕКСАНДЪР СИМЕОНОВ СТАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec35c161-a668-452c-b966-5a33e8909349",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=04.02.2019&to=21.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45a73c8697197a540be6c9c9792c1027375e080b6de76d761c0614e46572d056",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
