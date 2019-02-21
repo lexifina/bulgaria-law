@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 386,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР ХРИСТОФОРОВ КИРИЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d14dea-2a6b-4680-8c1b-cf3f2bc547f7",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=04.02.2019&to=26.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e31615dac86df77758f9d14c729ae0a38ccf34693c6d773b3a4d33177f34350d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
