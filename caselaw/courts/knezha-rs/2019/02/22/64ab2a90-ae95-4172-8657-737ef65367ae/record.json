@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2019-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 63,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕН ГЕОРГИЕВ ТОДОРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64ab2a90-ae95-4172-8657-737ef65367ae",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b813ad07fd0050e0f64cf0127ec1a48fe130a5159c1d54f33dc744d6fa128a86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
