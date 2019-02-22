@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 13104,
+  "case_year": 2018,
+  "judge_rapporteur": "ТАНЯ КАЛОЯНОВА ОРЕШАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4cd673b0-c6a9-4b18-9f4a-0205a1c8012d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.02.2019&to=25.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a28ff6d9880ffdbe2b6a3c85d42bc01b84eb4f6818244c06a62128ca4761c1e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
