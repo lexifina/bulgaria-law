@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2019-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛИНА ДИМИТРОВА ЖЕЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c9e02a7-c990-48e9-95c0-9d727b24fb06",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8496a734bd2468dc38684d5377d40ee8fdb3f577b4ba0aeb56674c5490ba584a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
