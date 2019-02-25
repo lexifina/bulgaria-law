@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1154,
+  "case_year": 2018,
+  "judge_rapporteur": "ГЕОРГИ ИВАНОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bae5df6d-ec6d-49ff-9152-3872d3499011",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.02.2019&to=25.02.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a28ff6d9880ffdbe2b6a3c85d42bc01b84eb4f6818244c06a62128ca4761c1e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
