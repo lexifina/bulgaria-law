@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1939,
+  "case_year": 2018,
+  "judge_rapporteur": "СТЕЛА ЙОРДАНОВА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40ffa831-1978-4349-ae30-5b4971e2be83",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=04.02.2019&to=21.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c06bfc2d8c731cb37a13738988ce450ff274869b4c3669b4b36fecc289381c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
