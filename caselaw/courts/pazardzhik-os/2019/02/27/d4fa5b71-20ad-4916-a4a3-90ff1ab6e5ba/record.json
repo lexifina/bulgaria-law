@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-02-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 205,
+  "case_year": 2013,
+  "judge_rapporteur": "ИЛИАНА ГЕОРГИЕВА ДИМИТРОВА ВАСЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4fa5b71-20ad-4916-a4a3-90ff1ab6e5ba",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c21ce916d5c38b7a25536cdd580b8887ce558a70e4ce891f83e0310365a560ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
