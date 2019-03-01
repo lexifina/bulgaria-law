@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1381,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТЯ РУДЕВА БОЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b07bd8bb-d7bb-48cc-a940-d30ac738f7f3",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.02.2019&to=04.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f8100c4c940af159b18bb944612cfdf20d629e0ff48a6ad3079554a46c533007",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
