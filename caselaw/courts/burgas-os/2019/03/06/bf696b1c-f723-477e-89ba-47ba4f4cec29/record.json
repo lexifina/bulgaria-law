@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 196,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИНА ИВАНОВА МАВРОДИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bf696b1c-f723-477e-89ba-47ba4f4cec29",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=04.02.2019&to=21.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c401a8aa43dfaa25c192bf810b03dec36feb69f359a9091fefe9bd51037b5511",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
