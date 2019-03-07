@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2019-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 145,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖИВКА ДИМИТРОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=340621ec-5634-4c97-8b27-78b3d846a96d",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "053e83138bff253573565a9507171596449ad59f3d02648ba2fdaef1598d31ab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
