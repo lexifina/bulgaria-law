@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2019-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3653,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯВОР ДАНАИЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5adefa9-8c98-474a-8d83-2bc7d1d9a1f3",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b49c74a8ab0ad7c96489450977180518f624934938437475fc9ec84652593f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
