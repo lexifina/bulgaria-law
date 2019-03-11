@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2019-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 961,
+  "case_year": 2006,
+  "judge_rapporteur": "РАДОСЛАВА СИМЕOНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1fd1e9c-158e-45f3-ad22-072702958e12",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0905700960171afb4a2ca61c72e7dff341472af5d29c653e2df1a68dd912706e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
