@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2019-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 284,
+  "case_year": 2018,
+  "judge_rapporteur": "БИЛЯНА СИЛВИОНОВА КИСЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e9b7a98-927c-410f-9267-f3c917fc68e1",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6029b73db7866f5d5be52d5337106a6c8c05da323f784e9ef87619bcee51bfa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
