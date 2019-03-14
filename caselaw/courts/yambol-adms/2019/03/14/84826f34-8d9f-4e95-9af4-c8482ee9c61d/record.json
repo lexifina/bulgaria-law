@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2019-03-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 18,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАНЯ СТОЯНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84826f34-8d9f-4e95-9af4-c8482ee9c61d",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd2a68a4b7c9132a1cef07b357472d1ed9b817a5ba4c3dec06e0d81f0060ab40",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
