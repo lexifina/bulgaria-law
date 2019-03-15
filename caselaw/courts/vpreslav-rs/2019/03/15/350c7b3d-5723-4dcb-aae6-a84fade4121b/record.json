@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2019-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 45,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИЯНА ДИМОВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=350c7b3d-5723-4dcb-aae6-a84fade4121b",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3321e31225969ca8ea5616629e8b79b92eed3e054245bbee6af66ef715970f19",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
