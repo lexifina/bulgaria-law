@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2019-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 2568,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЛАДИМИР КАЛОЯНОВ КРУМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=083aa238-4fea-481a-938c-6e2601a503ab",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "648b6263adca75047f268a6468f233e43aa14de651f40a022fd6d197386ad4cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
