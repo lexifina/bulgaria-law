@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 426,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЯ ЙОРДАНОВА КОТЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4183edb5-ecea-4ccd-9ec3-c9f7bd07ca38",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=27.02.2019&to=21.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8e51dc595af522ea743787a292cb1fe6495718eb22055844077dc3c5bce8182",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
