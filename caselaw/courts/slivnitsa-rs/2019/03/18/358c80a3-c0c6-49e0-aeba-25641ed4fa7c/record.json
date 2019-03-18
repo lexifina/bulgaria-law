@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2019-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 50,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИАНА МИТЕВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=358c80a3-c0c6-49e0-aeba-25641ed4fa7c",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1e573e2692ca586e52b6ebeecb98454ca9ef70a9dad6be35c83f7db85824b0de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
