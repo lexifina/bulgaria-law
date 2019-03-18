@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2019-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 65,
+  "case_year": 2019,
+  "judge_rapporteur": "НАТАША ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6f74e4f-ede9-47e9-a38f-f0aa8257e899",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "571eb061f1adc0b9dd6c66a2f7a7bbf202353f14ea07bc860714f1962defd8de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
