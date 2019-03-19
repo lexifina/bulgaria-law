@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1371,
+  "case_year": 2016,
+  "judge_rapporteur": "РАДОСТИНА КОСТОВА КАЛИМАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=de847a95-52f9-4481-9628-e9a20f4d94d3",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=04.02.2019&to=21.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c401a8aa43dfaa25c192bf810b03dec36feb69f359a9091fefe9bd51037b5511",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
