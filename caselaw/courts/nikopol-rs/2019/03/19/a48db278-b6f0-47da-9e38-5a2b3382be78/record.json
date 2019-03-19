@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2019-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 735,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛЯ ВЕЛИЧКОВА НАУМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a48db278-b6f0-47da-9e38-5a2b3382be78",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6029b73db7866f5d5be52d5337106a6c8c05da323f784e9ef87619bcee51bfa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
