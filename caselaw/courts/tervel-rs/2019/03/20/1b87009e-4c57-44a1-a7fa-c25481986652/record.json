@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2019-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 587,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАНЧО МАНЕВ ДРАГАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b87009e-4c57-44a1-a7fa-c25481986652",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2f506b12eeb049b3cc40ba6a3d442ee9e3697169b28a88c70065d2cb9ecd0c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
