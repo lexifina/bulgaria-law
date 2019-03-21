@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 9047,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛИНА ГЕОРГИЕВА ТАШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9cd08fbd-24bb-4315-ade2-7bc5a38bc73c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.03.2019&to=22.03.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "74cd8ac340ae1043219b833dfda7de479957ebe1d7ab9c16af9c3f5324a7d9f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
