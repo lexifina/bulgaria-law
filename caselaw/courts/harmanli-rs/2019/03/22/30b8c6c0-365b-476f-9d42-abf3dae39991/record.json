@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2019-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 676,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30b8c6c0-365b-476f-9d42-abf3dae39991",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "070004cbd0158792b4918db1a5f2c2bfae2e97e306fd46f2b3ea964dd6d8a18e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
