@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1455,
+  "case_year": 2019,
+  "judge_rapporteur": "СИЛВИЯ ДИМИТРОВА ОБРЕШКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8287b0d9-73fe-40dd-9581-6b7e274e478e",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.03.2019&to=06.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7e8ea771526ed974452db6470bc62f717c0e93dd5074bdec199f466aafb9c861",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
