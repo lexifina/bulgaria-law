@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2019-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 345,
+  "case_year": 2019,
+  "judge_rapporteur": "МИХАИЛ ГЕОРГИЕВ МИХАЙЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93a4b19e-827a-4606-942b-01d9087a69aa",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "977ca03d0ee320733f223efe3a38445317651afd59a95d662d7cd674f72e99a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
