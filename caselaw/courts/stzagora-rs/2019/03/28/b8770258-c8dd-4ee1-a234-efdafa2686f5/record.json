@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 678,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАНЯ ИЛКОВА ИЛИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8770258-c8dd-4ee1-a234-efdafa2686f5",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=22.03.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "be442c008bbf044628801099ea9db2d6261efe5b57a6fcce0a69d8d5c5f53ca2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
