@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-03-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 391,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСЕН ДИМИТРОВ ПАРАШКЕВОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cecfa524-2310-41cb-86ef-b056e2a5666a",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=22.03.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6611d6b21544d5051fd5767ec59ef06f6c4a8e6f415ba63e937db033f16a33f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
