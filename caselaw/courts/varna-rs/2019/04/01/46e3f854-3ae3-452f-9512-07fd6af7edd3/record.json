@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 282,
+  "case_year": 2019,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ШКОДРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46e3f854-3ae3-452f-9512-07fd6af7edd3",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.03.2019&to=06.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7e8ea771526ed974452db6470bc62f717c0e93dd5074bdec199f466aafb9c861",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
