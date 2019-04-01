@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2061,
+  "case_year": 2017,
+  "judge_rapporteur": "ТАТЯНА КОСТАДИНОВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6caefb3e-b38e-4483-831f-ef41fb92218d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=28.03.2019&to=01.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c388d6091765ebe34ff09475f30b1965dd6c6bd382cfbe62c42f963f1c65a983",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
