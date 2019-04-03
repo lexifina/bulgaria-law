@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2019-04-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 85,
+  "case_year": 2019,
+  "judge_rapporteur": "ТОДОР ИВАНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=278bacc2-2ee9-453b-913f-0036e22a1f94",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb54ae1ae0e6c1304b277b7106fc4abdb79ab20dba5ab7508fc8b3888447bb6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
