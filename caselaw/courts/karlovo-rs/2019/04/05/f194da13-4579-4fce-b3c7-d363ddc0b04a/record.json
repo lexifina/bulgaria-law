@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2019-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1815,
+  "case_year": 2018,
+  "judge_rapporteur": "АСИМА КОСТОВА ВАНГЕЛОВА-ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f194da13-4579-4fce-b3c7-d363ddc0b04a",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=22.03.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6bcb4ddc7759775e7334a68f111d06c4cb37d2209d81f3921aaba0d880d995b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
