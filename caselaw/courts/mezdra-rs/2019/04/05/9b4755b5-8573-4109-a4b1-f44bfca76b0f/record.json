@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2019-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 434,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАН БОРИСОВ ВЪТКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b4755b5-8573-4109-a4b1-f44bfca76b0f",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c9856bef6bb52c4697982a287f8ebc7193f6ffe8a6f2a818a6601d5150dd79d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
