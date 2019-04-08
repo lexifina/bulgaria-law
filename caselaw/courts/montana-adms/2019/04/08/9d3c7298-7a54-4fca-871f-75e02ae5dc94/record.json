@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2019-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 634,
+  "case_year": 2018,
+  "judge_rapporteur": "СОНЯ ДИМИТРОВА КАМАРАШКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9d3c7298-7a54-4fca-871f-75e02ae5dc94",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "203e472cabac0e66ffef2f3e0b60b391e6b35b6bb13448562cab9e937bcb8831",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
