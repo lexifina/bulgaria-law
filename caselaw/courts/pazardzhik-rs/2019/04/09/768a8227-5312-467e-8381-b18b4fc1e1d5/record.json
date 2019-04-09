@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 674,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАНЯ ПЕТКОВА ПЕТКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=768a8227-5312-467e-8381-b18b4fc1e1d5",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=22.03.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1791d1dafe413c5acdc0b90532f2c8271d9ddca05ae309a47097e4270eb5be2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
