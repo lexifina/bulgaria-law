@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2019-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 83,
+  "case_year": 2019,
+  "judge_rapporteur": "ХРИСИМИР МАКСИМОВ ПРОЙНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c9f70046-812c-4266-b3e6-9ec04700f030",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a553380e9906881ab8592419ade06ed574d7b296247e277f8dd39373c0efe77a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
