@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 364,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАСКО ДИМИТРОВ НАНЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a45785a-cb3c-4ae0-887d-f0ace3d62132",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "487d9cdc02e6e588b9b873036216717bf8d563da718b7740855a7b1de587d22f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
