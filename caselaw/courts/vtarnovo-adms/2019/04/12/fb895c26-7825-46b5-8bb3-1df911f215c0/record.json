@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2019-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 229,
+  "case_year": 2019,
+  "judge_rapporteur": "КОНСТАНТИН КАЛЧЕВ КАЛЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb895c26-7825-46b5-8bb3-1df911f215c0",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f94a4a38d0dcd594471b9cdd243d3980056a46ab518faf916adf064a82556285",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
