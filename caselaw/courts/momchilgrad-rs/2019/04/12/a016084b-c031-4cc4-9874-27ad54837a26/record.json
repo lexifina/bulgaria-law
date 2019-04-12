@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2019-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 284,
+  "case_year": 2018,
+  "judge_rapporteur": "ПОЛИНА ЛЮБОМИРОВА АМБАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a016084b-c031-4cc4-9874-27ad54837a26",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6147bf793969fe2e8e74d277474a2034caa536584066e12d28ab52093b1b64ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
