@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13943,
+  "case_year": 2018,
+  "judge_rapporteur": "РАЛИЦА КАМЕНОВА РАЙКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92c1da7b-7e9b-4b66-9bae-790cbca3766c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.04.2019&to=17.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85a914b0cef1228746da9d6dc57b719b5e6299911a59aec33e51dfe3658994a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
