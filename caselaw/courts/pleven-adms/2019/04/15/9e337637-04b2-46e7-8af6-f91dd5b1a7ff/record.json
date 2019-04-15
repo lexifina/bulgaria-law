@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 399,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТЯ ВЕСЕЛИНОВА АРАБАДЖИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e337637-04b2-46e7-8af6-f91dd5b1a7ff",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "878bf62b1ff056344e44a7daccfec06d1433f4626def6dee693af5a6bdd8abcd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
