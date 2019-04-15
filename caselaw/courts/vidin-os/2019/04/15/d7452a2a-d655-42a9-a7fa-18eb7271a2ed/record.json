@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2019-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно административно наказателно дело",
+  "case_number": 45,
+  "case_year": 2019,
+  "judge_rapporteur": "ЛЮЛИН ВЕНЕЛИНОВ ЛОЗАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7452a2a-d655-42a9-a7fa-18eb7271a2ed",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee546e577ccf07407311089b8510341ffdada7481a077be02e41bd6deb369579",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
