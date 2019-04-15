@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2019-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 391,
+  "case_year": 2018,
+  "judge_rapporteur": "ВИОЛЕТА ГРИГОРОВА НИКОЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d080b4e-d83c-486c-866f-807a151ff15f",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "894e2a37d1efab325211162ca1ed4e99042ee8e13e61b3922f3477bd9d4aefbd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
