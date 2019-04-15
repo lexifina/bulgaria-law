@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2118,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИЯ ЯНКОВА ВРАНЕСКУ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba9f9114-4ccd-400e-bbc1-1aee0df28eab",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.04.2019&to=16.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9fb56d8a066f3c9d87d137cf4534424de582d469078fb04efd05608dcabe46c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
