@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2019-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 454,
+  "case_year": 2019,
+  "judge_rapporteur": "АНДРЕЙ ГЕОРГИЕВ АНДРЕЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb507a8e-acab-4679-9ed3-277bbc191c16",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "62e83e5e9d3005ad961e751e8f2161779c7247806a2966153f3903083a85ddcd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
