@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2019-04-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 105,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=12a20e1f-2662-46aa-9eb5-07ee576a91d0",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94172254079efb3c885757d59a722ff57883c6661b63cd59c7a90ad2426b9af7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
