@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1506,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЕТА ДИМИТРОВА БУШАНДРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3e682a7-e2f6-40f6-92ff-ee748c010c24",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=14.04.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3a7037b35ca621451e44a3042c67a99ccb8144b7a0c20a0f4059567d2ec7543b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
