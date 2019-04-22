@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 259,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ ИВАНОВА РАЙКИНСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a6e67710-0ce7-4a17-b79a-9fd74c419a6e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.04.2019&to=26.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33cd89e188403d4e329fec79a8c0aa194ccd897554a892d894f52ce9e4af5735",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
