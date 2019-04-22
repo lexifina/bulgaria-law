@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 5198,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИАНА РАДЕВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cd261e66-1d91-457a-8343-39f57cd411a3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.04.2019&to=26.04.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33cd89e188403d4e329fec79a8c0aa194ccd897554a892d894f52ce9e4af5735",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
