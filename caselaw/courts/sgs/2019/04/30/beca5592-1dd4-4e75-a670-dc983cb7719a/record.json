@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1578,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕРА СТАНИСЛАВОВА ЧОЧКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=beca5592-1dd4-4e75-a670-dc983cb7719a",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.04.2019&to=01.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1744f343cfa0238d2c9ccf7f018d6e3668031c79dc831cceecf4fe9df50b52d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
