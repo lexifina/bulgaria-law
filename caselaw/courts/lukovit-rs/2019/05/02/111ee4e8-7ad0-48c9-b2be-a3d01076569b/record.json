@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2019-05-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 775,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЛАДИСЛАВА АЛЕКСАНДРОВА ЦАРИГРАДСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=111ee4e8-7ad0-48c9-b2be-a3d01076569b",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=04.02.2019&to=06.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "69faff7ecdd3c43e6e44a2bf84f087c00ee1e0da15b02a25492fae50bf6719c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
