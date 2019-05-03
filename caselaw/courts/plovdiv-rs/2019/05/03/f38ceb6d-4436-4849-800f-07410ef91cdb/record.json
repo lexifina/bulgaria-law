@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 18027,
+  "case_year": 2018,
+  "judge_rapporteur": "ДИЛЯНА ВАСИЛЕВА СЛАВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f38ceb6d-4436-4849-800f-07410ef91cdb",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=29.04.2019&to=03.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5eff1828f5907f37b4975e44be76381a7a9a9498d15f804dd63e1890606ecd8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
