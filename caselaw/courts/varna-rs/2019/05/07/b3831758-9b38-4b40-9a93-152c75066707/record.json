@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5861,
+  "case_year": 2018,
+  "judge_rapporteur": "СТОЯНА ИЛИЕВА ИЛИЕВА СТАНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3831758-9b38-4b40-9a93-152c75066707",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=29.04.2019&to=09.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "633537ceab1ad36ccb4745bf107ebc7aa6a3f4e613afb209f9bd99e6189dd696",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
