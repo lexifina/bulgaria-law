@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2019-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 113,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛИНКА ЛАЗАРОВА КРУМОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9dbf3452-230f-42f5-99c8-fa148ae29199",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9349b48b1745bf0d4e784ca0bd6e79733f0d3f1da229e0fd1021517b85bf5af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
