@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 54,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИНКО МИНЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=58fcd7f9-b612-46a1-b76e-e723cd017d44",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "128d01aa366826767c31bee6d58081cf04e74c7e5f0769b667b3938dad17751a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
