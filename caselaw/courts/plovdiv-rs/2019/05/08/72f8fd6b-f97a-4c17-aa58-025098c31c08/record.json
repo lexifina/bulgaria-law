@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2722,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ ДИЯНОВ ГОЛЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72f8fd6b-f97a-4c17-aa58-025098c31c08",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=04.05.2019&to=08.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43ae54e0fe1740fc83ae99a3a99b04677bb79c9226d89ce68e08751b144d95ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
