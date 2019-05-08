@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 238,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВ СТЕФАНОВ ХРИСТОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa34d321-24ef-4e7c-9770-58b644c1c26b",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1f41be95896ad4df6c93200b6b8710210c41eb688613e5929312a62faa48c570",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
