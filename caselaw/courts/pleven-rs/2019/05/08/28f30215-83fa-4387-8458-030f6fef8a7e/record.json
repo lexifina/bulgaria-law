@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6366,
+  "case_year": 2018,
+  "judge_rapporteur": "АНА ИВАНОВА ИЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=28f30215-83fa-4387-8458-030f6fef8a7e",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=07.05.2019&to=29.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2ac59cfae7bd3683386275cc89a68462ec74f9d813710e56edb38783c85e5d6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
