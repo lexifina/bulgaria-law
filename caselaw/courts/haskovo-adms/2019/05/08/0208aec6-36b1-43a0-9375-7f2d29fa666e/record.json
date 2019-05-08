@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 565,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСИЦА ВЕСЕЛИНОВА ЧИРКАЛЕВА-ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0208aec6-36b1-43a0-9375-7f2d29fa666e",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45478c8dd3c2834d9fa1d47e42911655ed6807a93fb920440ef001fbc5a68702",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
