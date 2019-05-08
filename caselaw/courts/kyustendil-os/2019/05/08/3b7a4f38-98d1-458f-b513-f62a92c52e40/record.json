@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2019-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 17,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛИНА ДРАГАНОВА МУХТИЙСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b7a4f38-98d1-458f-b513-f62a92c52e40",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b324acb780f835403dc03a9ca59cd6eb19bce055cbd09b1f6220d93d95663ff",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
