@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6267,
+  "case_year": 2019,
+  "judge_rapporteur": "АНДОН ВЪЛКОВ ВЪЛКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72ccb6e0-24e9-4500-8e5c-cdb7ba9acd48",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=29.04.2019&to=09.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "633537ceab1ad36ccb4745bf107ebc7aa6a3f4e613afb209f9bd99e6189dd696",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
