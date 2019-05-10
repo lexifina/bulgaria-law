@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2689,
+  "case_year": 2018,
+  "judge_rapporteur": "ГЕРГАНА ИВАНОВА КРАТУНКОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=709d4a10-d163-42ab-98a9-d3f9f1058adb",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=07.05.2019&to=29.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9c3d39fc82c0fa3d3dbccb8d009a03af92163906ccecaeeaa63b3faa8fc8402",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
