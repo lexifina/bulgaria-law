@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16485,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРТИН СТОЯНОВ СТАМАТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6533ad47-5543-46a8-8663-205200c5cc87",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.05.2019&to=20.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "78bd7feea28e11e6f0e305adf1456c51843ba84a939a834a04906fa221bf8477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
