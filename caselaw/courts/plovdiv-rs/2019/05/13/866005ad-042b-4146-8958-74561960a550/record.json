@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1035,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ ХРИСТОВ ИНГИЛИЗОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=866005ad-042b-4146-8958-74561960a550",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=09.05.2019&to=13.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "338e53d2c5798ba754003767cd2615ac73d11f0e6677a4de89b52e0218b7e9f8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
