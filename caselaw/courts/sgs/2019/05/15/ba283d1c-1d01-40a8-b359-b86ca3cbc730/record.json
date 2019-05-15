@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 3017,
+  "case_year": 2017,
+  "judge_rapporteur": "ЗОРНИЦА СТЕФАНОВА ГЛАДИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba283d1c-1d01-40a8-b359-b86ca3cbc730",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.05.2019&to=16.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa140820b710cee5399db9784dde3ea6170650664697b839f746c38f82c9fcee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
