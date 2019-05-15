@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2019-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 229,
+  "case_year": 2019,
+  "judge_rapporteur": "СИЛВИЯ АНДРЕЕВА ЖИТАРСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1b926c9-9a5e-4660-a7bf-d1e21d861d28",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c8a85f18c7b815d368f357f2a75b930afb76ec2d9d9d4f8a9adeedc0311258eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
