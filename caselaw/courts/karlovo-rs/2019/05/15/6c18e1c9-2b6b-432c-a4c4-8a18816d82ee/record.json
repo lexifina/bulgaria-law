@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2019-05-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 266,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЮРАЙ АЛИЕВ МУРАДОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c18e1c9-2b6b-432c-a4c4-8a18816d82ee",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=07.05.2019&to=21.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f4cdb29d2793c42523935c155cb3b2ebd721ac98216b987dfd11bb8f7fb3177",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
