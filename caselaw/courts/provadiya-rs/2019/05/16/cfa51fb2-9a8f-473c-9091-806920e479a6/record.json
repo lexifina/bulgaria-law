@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2019-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 524,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТЯ ГАНЕВА САВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cfa51fb2-9a8f-473c-9091-806920e479a6",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7348ed8d6911eec472ec29f47f54e4be931cb8c97dde1d4674999a5c82048f73",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
