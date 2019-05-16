@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2019-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 65,
+  "case_year": 2019,
+  "judge_rapporteur": "АНТОН РАНГЕЛОВ ИГНАТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af4b9952-c03c-4fdb-8a7b-d47a08e94ba3",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "76ec17ac2535a25d277eff29f1776bef09391c23c192484011a7d5068c1a2672",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
