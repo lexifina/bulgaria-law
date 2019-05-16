@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 119,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ МИНЧЕВА ВЕЛКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2166513a-5385-4c14-80c7-40a94f82308b",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25f356a255ed0c1a766db09936a35c785bbf90bc978434ccdc63d689401a731d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
