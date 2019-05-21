@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2019-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 98,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖИВКО ПАВЛОВ ГЕОРГИЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ad7155b-7e2b-464f-b830-50f11bcfe170",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "129f93c47e7d0da396d3549449a503c597e61a584070d21fd4e39c7252709428",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
