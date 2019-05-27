@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1739,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕНА НИКОЛОВА СЪБЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7d1f9c32-1f44-47d3-a50a-f3a8e59e8288",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=07.05.2019&to=29.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f395a1e4b07fddab3bde5cea40c36b0867489aa9e8b0e09dfb5c7efd30323955",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
