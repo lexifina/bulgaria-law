@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5537,
+  "case_year": 2018,
+  "judge_rapporteur": "ЗОРНИЦА ДИМИТРОВА БАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8cc7cf3-f078-4a8d-8228-b23fccee360e",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=07.05.2019&to=29.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2ac59cfae7bd3683386275cc89a68462ec74f9d813710e56edb38783c85e5d6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
