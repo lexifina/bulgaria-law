@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 2370,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛЕНА ИВАНОВА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d8443aa7-56e2-4e4d-864c-f96efd2d3901",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=21.05.2019&to=31.05.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "337e4a81b7a8b11f096272db91132ebcf73c966589e8848dfcd33e0608ce094d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
