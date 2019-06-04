@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-06-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16344,
+  "case_year": 2018,
+  "judge_rapporteur": "АНТОНИЯ СВЕТЛИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d32b42da-c118-4973-bb24-7f19796f91bb",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=01.06.2019&to=11.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c68b04bd7d8c9c71c26223c6123d07538cb2dafa06e74340d08f20b4bfe44761",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
