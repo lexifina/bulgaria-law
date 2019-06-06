@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10279,
+  "case_year": 2018,
+  "judge_rapporteur": "РАЙНА ПЕТРОВА МАРТИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73839043-983c-46d5-8095-2d83cd8a3c37",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.06.2019&to=10.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c434986a52f6faec805ada62c09a357861b10eaf6fbca3a656a54aa443951823",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
