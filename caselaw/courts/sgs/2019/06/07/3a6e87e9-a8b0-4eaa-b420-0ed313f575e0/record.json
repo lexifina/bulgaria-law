@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12887,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕРГАНА ХРИСТОВА ХРИСТОВА-КОЮМДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3a6e87e9-a8b0-4eaa-b420-0ed313f575e0",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.06.2019&to=10.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c434986a52f6faec805ada62c09a357861b10eaf6fbca3a656a54aa443951823",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
