@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2019-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 513,
+  "case_year": 2019,
+  "judge_rapporteur": "ТРИФОН ПЕНЧЕВ СЛАВКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8272fb48-ba94-4b2b-93c6-fee949f4c9b9",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1377c5cf5e62db9ffc6266a596d6e9bf6ab1c18ebe99caa42508b48cd946a980",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
