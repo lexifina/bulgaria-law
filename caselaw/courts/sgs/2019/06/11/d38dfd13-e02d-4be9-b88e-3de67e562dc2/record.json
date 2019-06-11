@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-06-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1700,
+  "case_year": 2019,
+  "judge_rapporteur": "МИЛЕН СТЕФКОВ МИХАЙЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d38dfd13-e02d-4be9-b88e-3de67e562dc2",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.06.2019&to=15.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3aaa2b142a8b68eb404292377f3ffd3cc327052b61a89df823bfd31745de49c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
