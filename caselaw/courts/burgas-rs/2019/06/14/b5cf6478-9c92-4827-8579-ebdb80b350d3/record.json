@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1407,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ ХРИСТОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5cf6478-9c92-4827-8579-ebdb80b350d3",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=30.05.2019&to=21.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30ffd371dd8c4f082f7832d94ff947c69dab828ff5baa781c4b23161214b0efd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
