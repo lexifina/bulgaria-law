@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 7769,
+  "case_year": 2019,
+  "judge_rapporteur": "МИЛЕН ПЕТКОВ ЕВТИМОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=65997e2a-ca01-4b3e-9631-ff457e6c5bcf",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.06.2019&to=20.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7595253e6ec773b8a0a6c346dec373d573d22d7e200dcce2882a28917fd1579a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
