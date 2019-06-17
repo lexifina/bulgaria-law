@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1498,
+  "case_year": 2019,
+  "judge_rapporteur": "ДЕСИСЛАВА ЧАВДАРОВА КАЦАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a96e770c-a140-4f0b-b1b3-4535a7742702",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.06.2019&to=17.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30d82f818c99990691ead5650c6222155e5e31a82e74bfdcfa49abb8c2bc116a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
