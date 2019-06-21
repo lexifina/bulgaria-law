@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-06-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 778,
+  "case_year": 2019,
+  "judge_rapporteur": "АННА ДИМИТРОВА ДЪБОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b1a3427-edc3-46a2-a71c-b8a8ae67a657",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.05.2019&to=21.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1154b394b75c2c4062ec62467054f873a9e08e64ea9fbbacc085d9019478cc41",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
