@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2019-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 278,
+  "case_year": 2017,
+  "judge_rapporteur": "АНЕТА ИВАНОВА ПЕТРОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80d677d3-a84b-47b6-bfbc-787ea2dfd9a4",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12e87be3d1b713b1d06680faef13d154f824c1fe8e5d567ea7860c9ba4a3e114",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
