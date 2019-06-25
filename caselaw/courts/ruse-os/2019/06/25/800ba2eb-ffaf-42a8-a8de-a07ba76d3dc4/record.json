@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-06-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 81,
+  "case_year": 2019,
+  "judge_rapporteur": "ЙОРДАН МИНКОВ ДАМАСКИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=800ba2eb-ffaf-42a8-a8de-a07ba76d3dc4",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "25f356a255ed0c1a766db09936a35c785bbf90bc978434ccdc63d689401a731d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
