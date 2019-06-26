@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2019-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 52,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЕТА СПАСОВА СПАСОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a8d48fb-cb63-4c81-82b5-3864a5a186c3",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30667ce9614937630c40046249743a204e354d58a2e91ea2f41cedeef1342eb0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
