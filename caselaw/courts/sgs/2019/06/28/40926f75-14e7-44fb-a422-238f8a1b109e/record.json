@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1198,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕНЕТА НИКОЛАЕВА ЦВЕТКОВА-КОМСАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40926f75-14e7-44fb-a422-238f8a1b109e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=26.06.2019&to=30.06.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "399c45941bd64ef4cf97c44b5db9a5333d2279861ebcb5a07704da1d7ebf3988",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
