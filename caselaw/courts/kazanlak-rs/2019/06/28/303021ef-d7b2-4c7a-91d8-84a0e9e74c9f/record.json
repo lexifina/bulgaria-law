@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2019-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 706,
+  "case_year": 2019,
+  "judge_rapporteur": "ТОДОР СТОЙКОВ ТОДОРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=303021ef-d7b2-4c7a-91d8-84a0e9e74c9f",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01405356c0f672953c83931ee4d4fabe5cbc8499aa510e5abfac80b2a369d223",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
