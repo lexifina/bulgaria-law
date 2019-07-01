@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4534,
+  "case_year": 2016,
+  "judge_rapporteur": "ТАНЯ ЯВОРОВА БУКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d9a4304-fb06-48cb-a7a7-47264e63cad3",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.06.2019&to=02.07.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7de1cc572deb0d48b2ba10213336a0f25cb02d1db985458d0bf5b176699f10f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
