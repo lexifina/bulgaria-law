@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2019-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1364,
+  "case_year": 2019,
+  "judge_rapporteur": "АНЕЛИЯ ЦЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7600a64a-8cda-40c3-a4db-58b3ca878192",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f2ce019b3d648806a5975a1a0b7c48f3725948a42401fca998e62627361e76ec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
