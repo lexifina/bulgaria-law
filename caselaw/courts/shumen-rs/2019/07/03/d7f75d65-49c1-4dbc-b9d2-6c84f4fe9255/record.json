@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-07-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 1910,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВ ЦВЕТАНОВ МАРКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7f75d65-49c1-4dbc-b9d2-6c84f4fe9255",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32f3e2013110f672883992b14e095ee2da87532973045bc4f1289120302fd1fc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
