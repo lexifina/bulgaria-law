@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2019-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 184,
+  "case_year": 2019,
+  "judge_rapporteur": "НАТАША ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac416ed5-9ec1-48cb-bd02-c9ca1d5823fc",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "103e7717a8633698f0740a843e1b6054e300c27db5c5372e5e04b3566f1f0a6c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
