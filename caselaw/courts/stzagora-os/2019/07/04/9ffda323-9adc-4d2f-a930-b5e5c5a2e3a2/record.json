@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 1267,
+  "case_year": 2018,
+  "judge_rapporteur": "КРАСИМИР РАЧЕВ РАЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ffda323-9adc-4d2f-a930-b5e5c5a2e3a2",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64c617a51e5926aab05c8b98f814fa82d3e481477433c1902420b51e835daf0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
