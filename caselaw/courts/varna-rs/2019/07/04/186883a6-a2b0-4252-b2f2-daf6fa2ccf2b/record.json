@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2962,
+  "case_year": 2019,
+  "judge_rapporteur": "ХРИСТО МИЛКОВ МИНЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=186883a6-a2b0-4252-b2f2-daf6fa2ccf2b",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=04.07.2019&to=14.07.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3ee6a9a81017645c31c17a56288fa014ecfb7d598878e545f5e530e22eea2b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
