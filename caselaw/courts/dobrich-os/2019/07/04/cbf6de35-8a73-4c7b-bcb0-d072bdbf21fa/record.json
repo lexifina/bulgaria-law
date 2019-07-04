@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2019-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 357,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИАНА ГЕОРГИЕВА ДЯКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cbf6de35-8a73-4c7b-bcb0-d072bdbf21fa",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "321672ea6e1a761decbf3de806b4c80a69d7cac595a58bef3f2eed4028467e3b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
