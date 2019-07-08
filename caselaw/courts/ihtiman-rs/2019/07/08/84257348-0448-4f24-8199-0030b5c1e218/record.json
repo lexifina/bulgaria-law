@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2019-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 480,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВАЙЛО ГЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84257348-0448-4f24-8199-0030b5c1e218",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dbc68811493839c72b4d6701580fec40ad0509dd1eccb2b060a77a82619a8e37",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
