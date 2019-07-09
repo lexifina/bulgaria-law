@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2019-07-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 760,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРГАРИТА ПЛАМЕНОВА АЛЕКСИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ed4c1e6b-be71-44a6-a2f6-6ef45f3b1b10",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a539b24df2999eeb7efe14e722635afdc012beb4fce7851e4fc146ca4696f568",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
