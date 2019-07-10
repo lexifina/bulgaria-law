@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2019-07-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 179,
+  "case_year": 2019,
+  "judge_rapporteur": "СИМЕОН СТЕФАНОВ СТОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=662d6dc5-c100-473d-814e-e5fe35cb47a6",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4451576e4e60438addcdbe2dd4d3ac274317b9e51a02d60c2d418a97d9897b6d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
