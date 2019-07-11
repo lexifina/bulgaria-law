@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 8952,
+  "case_year": 2017,
+  "decision_type": "Решение",
+  "decision_number": "10842",
+  "decision_date": "2019-07-11",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D859801%26code%3Dvas%26guid%3D1653932727",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=859801&code=vas&guid=1653932727",
+  "source_text_sha256": "8550ddf1a94dbc9a3602aca107cda4407917bc5dfa025403ee555148831ea9be",
+  "source_images": 0
+}
