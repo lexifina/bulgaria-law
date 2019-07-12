@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2019-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2223,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВА ИЛИЕВА СТОЙЧЕВА-КОДЖАБАШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=084ee6dd-b1b4-4ed1-8357-33343e13981b",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=22.06.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "de0a6f4ad1cd6d8853e1f9293ac3e6f06816559f5ccdb37ea0d2739613531bd7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
