@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2019-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 48,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕЙО ИВАНОВ ПРИХОДКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c2d86564-8506-4b02-9448-77dae7d30c7d",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9695bce4310d2515cc3518cfe856514c4ea132a78410a8d3117f24d690fe2afb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
