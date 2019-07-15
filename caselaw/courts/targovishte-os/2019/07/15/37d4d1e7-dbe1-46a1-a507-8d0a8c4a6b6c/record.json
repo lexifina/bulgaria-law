@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2019-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 112,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВ НИКОЛОВ МИТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37d4d1e7-dbe1-46a1-a507-8d0a8c4a6b6c",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2e832f0ae4b591255aef443134d3833347f99bc25fed2f6de1f0985759ea11f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
