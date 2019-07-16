@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2019-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 709,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕН СТОЯНОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d73a0d08-9c7a-40c9-b48a-0151363b6e7c",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f8df123da09b31d4b1fb9ed86995e1ba0a7866495f5e10367cf5f080c3538dc4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
