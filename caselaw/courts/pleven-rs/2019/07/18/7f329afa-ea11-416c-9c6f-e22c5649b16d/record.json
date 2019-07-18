@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2636,
+  "case_year": 2019,
+  "judge_rapporteur": "БИЛЯНА ВЕЛИКОВА ВИДОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7f329afa-ea11-416c-9c6f-e22c5649b16d",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=15.07.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "daceac851c2a3db899204f0291eea192ad89ca5f5ad23e288b169b6519bb389f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
