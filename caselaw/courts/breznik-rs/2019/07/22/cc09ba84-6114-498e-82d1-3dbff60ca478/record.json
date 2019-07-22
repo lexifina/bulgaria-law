@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2019-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 293,
+  "case_year": 2017,
+  "judge_rapporteur": "РОМАН ТОДОРОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc09ba84-6114-498e-82d1-3dbff60ca478",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "943a74b7c7d2572f285b265f518a117cc1cff811d9ab16209594cd681af48261",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
