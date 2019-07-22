@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 802,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ ГОСПОДИНОВ ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5767a64c-8469-4365-85ed-372b34cc51f4",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c7d090783cb662824bd3121b58f54f02b39ad7af63413645e4a29ca384dc64b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
