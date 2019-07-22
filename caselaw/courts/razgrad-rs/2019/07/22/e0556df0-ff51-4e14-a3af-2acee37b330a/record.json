@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2019-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 103,
+  "case_year": 2019,
+  "judge_rapporteur": "ДОРОТЕЯ ЕНЧЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e0556df0-ff51-4e14-a3af-2acee37b330a",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30c0aebeff694eeba936708da8a66b37e61f28446e896150cd03f9e655894a7f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
