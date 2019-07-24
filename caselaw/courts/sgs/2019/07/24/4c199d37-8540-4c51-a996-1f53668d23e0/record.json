@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 865,
+  "case_year": 2019,
+  "judge_rapporteur": "ПАВЕЛ ГЕОРГИЕВ ПАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c199d37-8540-4c51-a996-1f53668d23e0",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.07.2019&to=25.07.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0039ccaa758d3b89bc869e1483b9edac834fcc131b739884130fdb79ec294b54",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
