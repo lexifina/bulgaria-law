@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2019-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 449,
+  "case_year": 2019,
+  "judge_rapporteur": "АНЕЛИЯ МАРИНОВА ИГНАТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d2d934a-5683-43ae-8710-d88b90d470d4",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1615b967f872dd3b1f20abca91f5b583d04a984e4f7059e0f45b98dd0b20e37b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
