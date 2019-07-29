@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2019-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 837,
+  "case_year": 2019,
+  "judge_rapporteur": "СТРАХИЛ НИКОЛОВ ГОШЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9576e443-a225-4674-9c69-ae27acec4c48",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a539b24df2999eeb7efe14e722635afdc012beb4fce7851e4fc146ca4696f568",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
