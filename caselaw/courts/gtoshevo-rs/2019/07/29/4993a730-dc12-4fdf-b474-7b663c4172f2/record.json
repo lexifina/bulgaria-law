@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2019-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 89,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСЕН МИНКОВ СТОЯНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4993a730-dc12-4fdf-b474-7b663c4172f2",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "128d01aa366826767c31bee6d58081cf04e74c7e5f0769b667b3938dad17751a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
