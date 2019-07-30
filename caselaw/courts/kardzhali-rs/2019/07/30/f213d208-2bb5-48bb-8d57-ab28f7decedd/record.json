@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2019-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 681,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАЛЕНТИН КОСТАДИНОВ СПАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f213d208-2bb5-48bb-8d57-ab28f7decedd",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=07.05.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "194f315f2a56f82eb9f9bc715a9d0dffe117406f86ad65eb49054af1eb22ffae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
