@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3362,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛА ДИНКОВ КЪНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8bfa6c53-7fba-4252-9d62-08f2abb49db2",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=22.06.2019&to=06.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9811fd0d12054ec4d0cf69c144bf8b4756e8d0216e2fc2bacf1bd2ce432f6f29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
