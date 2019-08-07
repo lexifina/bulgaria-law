@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 1116,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТОСЛАВА ИВАНОВА АЛЕКСИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=092bb9c2-548b-4232-8cdc-b132207f5c14",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=07.08.2019&to=29.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "183849ca9c9f1014aec59dd7c5a0a2c6589d12398b204cabcbbc3d2e0acfd7a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
