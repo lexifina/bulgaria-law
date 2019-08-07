@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2019-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 124,
+  "case_year": 2019,
+  "judge_rapporteur": "МИЛЕНА ИВАНОВА СЕМЕРДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d84a0e73-fa8d-4aba-9f71-c35503b8bf04",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d2b12b91cbd92d061e67b0b49873b6a13a7cccc0a8e414f10f8ff4ac501764aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
