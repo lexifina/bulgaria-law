@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 432,
+  "case_year": 2018,
+  "judge_rapporteur": "АЛЕКСАНДЪР ЕМИЛОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e420a06-db24-4e34-a464-c1ae098d0b8c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.08.2019&to=14.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "029ba38ffac8c1a9a1cd8da4095d85689342c355bfeb77562ce17e84ac2af74a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
