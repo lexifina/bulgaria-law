@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2019-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 71,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕВГЕНИЯ ПАВЛОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=19d4f778-de6c-4857-8956-0f20ee5df77a",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f1a7cc2523f71bee7009354ee51270ea0941b6eadc543c9a4ae7ce30f8599f58",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
