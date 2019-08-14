@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-08-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 849,
+  "case_year": 2019,
+  "judge_rapporteur": "ЗАХАРИН ПАНАЙОТОВ ЗАХАРИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a671dca-cc5a-4474-972b-797a8c0639c8",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=07.08.2019&to=21.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "94b2979dcdff8b271573bb4e7614fb92794fcd0fce94891e3fc7a1cec92955c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
