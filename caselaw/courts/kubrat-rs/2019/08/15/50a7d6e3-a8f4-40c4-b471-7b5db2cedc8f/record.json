@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2019-08-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 426,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИАНА ПЕНЧЕВА ПЕТРОВА-ЕНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=50a7d6e3-a8f4-40c4-b471-7b5db2cedc8f",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ac0775e33cce84c8fb586e5134f40084e832c3357a574e3c9f65a69ace12efc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
