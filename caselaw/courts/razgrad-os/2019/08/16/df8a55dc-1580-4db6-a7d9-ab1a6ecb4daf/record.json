@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2019-08-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 31,
+  "case_year": 2016,
+  "judge_rapporteur": "АТАНАС ДЕЧКОВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=df8a55dc-1580-4db6-a7d9-ab1a6ecb4daf",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28b73cbda854d5aef68bf3bb314b4a6a8348816f12269e7f55f3f7e7ebdfcdbc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
