@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-08-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3061,
+  "case_year": 2019,
+  "judge_rapporteur": "АСЯ ТРИФОНОВА ШИРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc087208-ab85-4c70-968f-9212cada103f",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=07.08.2019&to=29.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0aae329c4873994c31a9ef4a0ef96fa6e9ab38f1e9f90717620a2a9b94080237",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
