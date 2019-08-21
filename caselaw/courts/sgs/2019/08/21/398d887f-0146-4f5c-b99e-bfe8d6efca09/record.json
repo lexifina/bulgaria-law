@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-08-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11964,
+  "case_year": 2018,
+  "judge_rapporteur": "ПЕТЪР ЛЮБОМИРОВ САНТИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=398d887f-0146-4f5c-b99e-bfe8d6efca09",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.08.2019&to=24.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "875eab2397c188928c9e82452563eac0d6cf0e33cfc5470e91104694b9a938f8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
