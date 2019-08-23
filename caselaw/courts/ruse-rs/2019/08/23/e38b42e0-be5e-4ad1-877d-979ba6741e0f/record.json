@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-08-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 1593,
+  "case_year": 2018,
+  "judge_rapporteur": "АЛЕКСАНДЪР СИМЕОНОВ СТАНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e38b42e0-be5e-4ad1-877d-979ba6741e0f",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=07.08.2019&to=21.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "60373da065e1a880bc23022fed5aac20c44ea42db39f563f1e118c314eae5f70",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
