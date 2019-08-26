@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-08-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 327,
+  "case_year": 2017,
+  "judge_rapporteur": "ХРИСТО ВАСИЛЕВ СИМИТЧИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=23749ffc-e546-4f96-b222-036f35aca41d",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ce574b1868d87279fdce6aa92371a11ca4365da42fb4d5cdcd433fe409185a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
