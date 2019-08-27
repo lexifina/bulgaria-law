@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2019-08-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 960,
+  "case_year": 2019,
+  "judge_rapporteur": "МАЯ ВАСИЛЕВА ГИЗДОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b3a740d-3e52-48c0-be81-14faae006293",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e34859ad89db92e89c603e7bc1da0531206149aa316cda36ef51eac27a3abff8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
