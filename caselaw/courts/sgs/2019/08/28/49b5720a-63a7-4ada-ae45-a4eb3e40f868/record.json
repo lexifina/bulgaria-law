@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-08-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1272,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВА НИКОЛАЕВА КАЦАРСКА-ПАНТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49b5720a-63a7-4ada-ae45-a4eb3e40f868",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=25.08.2019&to=29.08.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3dda8a6a208816bb8188e121b010019a7f6a7b277199fb9e342edf002de9a8b6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
