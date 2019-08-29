@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2019-08-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 303,
+  "case_year": 2019,
+  "judge_rapporteur": "ЛАЗАР ЙОРДАНОВ МИЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63dac3c7-d9c6-4270-a14d-de1d870a9140",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28b73cbda854d5aef68bf3bb314b4a6a8348816f12269e7f55f3f7e7ebdfcdbc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
