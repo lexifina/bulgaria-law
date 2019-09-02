@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-09-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 10988,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАЛЕРИЯ ИВАНОВА БРАТОЕВА ДАМГОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=42e4b34d-7a05-4932-9bf9-53752ca2807f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=30.08.2019&to=03.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "029f79af43197c425be11914870500bdc08b4886f3c0471387be592351d258af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
