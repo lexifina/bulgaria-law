@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2019-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10069,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВА СПАСОВА ДИМОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6e8ba0b-2d82-4aec-b392-ccc2af8c4e6f",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ad7d2296443d356b7e325ed6ee399d9edc7ead3760bee000f25f58b7fcbf47f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
