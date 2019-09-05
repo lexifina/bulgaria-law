@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2019-09-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 550,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ МАРКОВА БЕРБЕРОВА-ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe1f1609-1f30-4e92-861e-ea7aaf403e06",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b291b806b43cec34d88a88ef75b2535e00377577fd36ccb0ecb969c764a71683",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
