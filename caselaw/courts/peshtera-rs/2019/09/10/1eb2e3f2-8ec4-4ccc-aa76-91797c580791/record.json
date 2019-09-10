@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2019-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1399,
+  "case_year": 2018,
+  "judge_rapporteur": "КАМЕН ГЕОРГИЕВ ГАТЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1eb2e3f2-8ec4-4ccc-aa76-91797c580791",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49fff5a84b7155072502140e40bd2814087690c28ac4a9064b743ea7e774369d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
