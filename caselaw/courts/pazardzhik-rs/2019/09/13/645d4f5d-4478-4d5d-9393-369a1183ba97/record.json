@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-09-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3628,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ АНГЕЛОВА НЕНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=645d4f5d-4478-4d5d-9393-369a1183ba97",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.08.2019&to=21.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2bc30e593d80f25d3f8e68e832288f367d9a52f29901647e339cdf5ad3197642",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
