@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2019-09-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 658,
+  "case_year": 2012,
+  "judge_rapporteur": "ТИХОМИР ИВАНОВ ВЕЛЬОВСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3bafbc6f-f2e9-4cae-bdb8-0aa3dbe9979b",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b42b1c0dc8751551e5af01e23765269835c24d52c5c0e2fbe527d374289d3438",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
