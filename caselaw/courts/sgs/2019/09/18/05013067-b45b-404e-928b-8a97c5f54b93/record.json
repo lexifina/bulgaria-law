@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 7058,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ ВАСИЛЕВА КУЗМАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=05013067-b45b-404e-928b-8a97c5f54b93",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=14.09.2019&to=18.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f3d09919ea41f34bb921e0f54a281346a5d638cb0c1f3f0a128c3159ab184e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
