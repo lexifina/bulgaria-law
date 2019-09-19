@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2019-09-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 101,
+  "case_year": 2019,
+  "judge_rapporteur": "ХРИСТО АЛЕКСЕЕВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=735b2893-fa16-4799-9ce3-1010c4492a1a",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0466f8e01628c5fb3a1a315b46f01c67da9937b67117d7adf5dfa829d4ab8a44",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
