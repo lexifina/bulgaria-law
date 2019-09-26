@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-09-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 547,
+  "case_year": 2019,
+  "judge_rapporteur": "ВИЛИАНА СТЕФАНОВА ВЪРБАНОВА МАНОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3846ae8c-a181-4385-9f89-7f85641ea995",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "34d39031286ac11f3bbdeeae15c736c9ab2859fa8444e0244cf21f1377718dec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
