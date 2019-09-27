@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2019-09-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 292,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВЕТА ВЕНЦИСЛАВОВА КЪНЕВА-САНКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d3bd311d-cfc6-426d-9963-5a93fbd215b3",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7757cb98e4109f502f02b5b9a656b5d2ac940da90c0ac7c9d78f0b1ef351aec5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
