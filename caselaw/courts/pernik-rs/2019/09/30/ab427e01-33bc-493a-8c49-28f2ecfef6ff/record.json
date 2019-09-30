@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1308,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЯ ЙОРДАНОВА КОТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab427e01-33bc-493a-8c49-28f2ecfef6ff",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=22.09.2019&to=14.10.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e400554f22ac67bac9ddf09492092442b54eb78247d34161bb7ad89dc5526eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
