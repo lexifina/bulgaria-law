@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 427,
+  "case_year": 2019,
+  "judge_rapporteur": "СИЛВИЯ ИВАНОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c6fc304-57db-4833-9b19-2a8ee30cfeeb",
+  "motives_file": null,
+  "source": "https://pernik-adms.justice.bg/bg/1135?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0739221d30b495bc1bfe7215f19c417b4b28105193cc8ee2fd1387f27d7b287c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
