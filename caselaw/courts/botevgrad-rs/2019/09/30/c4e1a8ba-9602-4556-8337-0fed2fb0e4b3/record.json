@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2019-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 754,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТЕРИНА ВЪТКОВА НЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4e1a8ba-9602-4556-8337-0fed2fb0e4b3",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6ddecaa926ec02c533f41b25d1bdb28de21e9395308c7915b63ffe7464bc405c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
