@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1391,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ РОСЕНОВ ГЕТОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=34ba4a4a-69e4-4f88-ab06-985cfa992aaf",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=26.09.2019&to=30.09.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ffc129110006f5d05d333b053ad231f070b7568b5da5339261232ffb82e7a9d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
