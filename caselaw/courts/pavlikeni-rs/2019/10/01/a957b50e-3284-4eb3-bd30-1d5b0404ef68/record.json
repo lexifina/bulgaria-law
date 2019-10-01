@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2019-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 851,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕВЕЛИНА ПЕТКОВА КАРАГЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a957b50e-3284-4eb3-bd30-1d5b0404ef68",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6d8245f57f9b637e72b499b9a081952d0d4dfb770db25f9d6e5bc9623416cbc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
