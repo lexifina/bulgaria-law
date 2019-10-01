@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2019-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 202,
+  "case_year": 2019,
+  "judge_rapporteur": "ДОБРИНКА САВОВА СТОЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d46dfc5a-6a10-4165-b348-0e51d5af6e6a",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb0de4406764de261f17b5f7f496fa0926fbaf4b1a5f51e7d32c6cce3d92c866",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
