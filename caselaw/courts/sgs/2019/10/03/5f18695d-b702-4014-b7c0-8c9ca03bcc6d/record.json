@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10386,
+  "case_year": 2019,
+  "judge_rapporteur": "РАДОСТ КРАСИМИРОВА БОШНАКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f18695d-b702-4014-b7c0-8c9ca03bcc6d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=29.09.2019&to=03.10.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ad72682969df3ce242df2f1415492e58e1ad67cabe265489f937aba5c01c4a2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
