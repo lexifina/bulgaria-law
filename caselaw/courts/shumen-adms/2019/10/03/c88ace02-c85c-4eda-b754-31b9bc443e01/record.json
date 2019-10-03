@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 477,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРГАРИТА ЙОРДАНОВА СТЕРГИОВСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c88ace02-c85c-4eda-b754-31b9bc443e01",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4de496c014605c32b6c5411c81f4a30329760643d9b1fd9db9a811bdf7afcabc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
