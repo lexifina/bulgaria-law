@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2019-10-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 474,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЪР СЛАВОВ ПЕТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5554bb9-851b-4bec-90bb-3602a3c0b8c8",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b291b806b43cec34d88a88ef75b2535e00377577fd36ccb0ecb969c764a71683",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
