@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2019-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 397,
+  "case_year": 2019,
+  "judge_rapporteur": "ТЕОДОРА АНДОНОВА МИЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=50c407a4-b95c-432d-a620-49c2383f87c9",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "981cf7e6faec8c83122d87d1ca858e9dc1334591ce4cbc9bd6fbf9f6bd76a4fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
