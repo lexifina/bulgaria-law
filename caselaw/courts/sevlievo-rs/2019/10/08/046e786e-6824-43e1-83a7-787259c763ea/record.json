@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2019-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 313,
+  "case_year": 2019,
+  "judge_rapporteur": "СТАНИСЛАВ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=046e786e-6824-43e1-83a7-787259c763ea",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56be369adca0a9f9cc00afc5e9610a33276a45976ced6437b2fd951e4df39158",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
