@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2019-10-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1963,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7d35be6-223a-4dba-99c6-12370fce2286",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcdcc556d538b5c117f3809b22346c11a68ebb16356a11995b4c35bc618b9fbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
