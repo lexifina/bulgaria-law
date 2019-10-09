@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 12539,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТОСЛАВ ТИХОМИРОВ СПАСЕНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5bbcaa27-31b6-42b4-9942-ec50b9fc4d17",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=09.10.2019&to=13.10.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7344aa17a9935b463d618dfc8fc146180390de7b560ad5075cd07e83e4a79994",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
