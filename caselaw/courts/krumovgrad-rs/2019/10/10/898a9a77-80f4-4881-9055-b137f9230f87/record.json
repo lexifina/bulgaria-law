@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2019-10-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 258,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАН ИЛИЕВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=898a9a77-80f4-4881-9055-b137f9230f87",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88685ea720beca4516a749e375728b4526cc6120bf5005b16cb8e6050ef12b3b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
