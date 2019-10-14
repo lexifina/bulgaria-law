@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2019-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 413,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАТЯНА ЛЮБЕНОВА КОЦЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=93acf44f-a1cf-4449-b2ff-c976015dfaa5",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "acf99a04c18579de8c88238a4a90744da600be060712267fdbf344a09c81c733",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
