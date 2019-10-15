@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 336,
+  "case_year": 2017,
+  "judge_rapporteur": "РАДОСТИНА КОСТОВА КАЛИМАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=466e8a68-5a81-4081-b002-fd7d71d6b86f",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=22.09.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3421141c2dd2296e16661e326bac37d85f814dbfcdf213c36c5eb0cccea3dd3f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
