@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2019-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 409,
+  "case_year": 2019,
+  "judge_rapporteur": "МАЯ ЙОСИФОВА КИРЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee26ee0f-f668-4751-9843-b84bc791f6a6",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3dd674bbaaee7bc400b9829e02638d1630ec812e005cdc2ab7e0a3a2595f8c44",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
