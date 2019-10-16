@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2019-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1053,
+  "case_year": 2019,
+  "judge_rapporteur": "МИХАИЛ ГЕОРГИЕВ МИХАЙЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec28a539-31ef-4db3-91c8-73dca6173640",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c20a9ff1c406e5c0ab3318e0feff057ee39bf731729fd253e4db6becb228530e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
