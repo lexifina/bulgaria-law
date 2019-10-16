@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2019-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1894,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАН ЦВЕТОЗАРОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e2c99cf-ad1b-44ef-b9b6-a8a383f0d1c9",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "23359a749c400ba621564c073b43b5a69cc35fbfe0227577a01d5ac3819e2bec",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
