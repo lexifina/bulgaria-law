@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2019-10-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 399,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЪР ВЛАДИМИРОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3cb28202-c16f-4b3e-8c5a-a980107ffbaf",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ce3e6c2b668ba4c28e36b450748987c07c4bee59cb0d2554544ec358db4df16",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
