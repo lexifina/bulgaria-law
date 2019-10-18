@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2019-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 190,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРГАРИТА ЙОРДАНОВА СТЕРГИОВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=85d4d6b0-abd7-4644-bc0b-6e123d985d95",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4de496c014605c32b6c5411c81f4a30329760643d9b1fd9db9a811bdf7afcabc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
