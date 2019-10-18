@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2019-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 247,
+  "case_year": 2018,
+  "judge_rapporteur": "СТОЯН АНГЕЛОВ МОМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6a7484db-7c13-49b8-b46a-0089a8a6fe95",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c63c927973d7d4c54a2ee951304abcf6d4fe461f220e8e5f13c1afe6a884f9d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
