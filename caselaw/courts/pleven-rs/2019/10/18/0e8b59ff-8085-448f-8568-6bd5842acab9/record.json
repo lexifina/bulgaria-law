@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4180,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИАНА КОСТАДИНОВА ТОДОРОВА ДОСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e8b59ff-8085-448f-8568-6bd5842acab9",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=15.10.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "74015fe86dd018179f3994f879a4cbfa858292d253bf03ef833badcf1d0edfa3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
