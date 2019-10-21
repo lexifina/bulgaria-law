@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16238,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛА ДОЙЧИНОВ ДОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1630a8e-d425-4596-9058-9062a9ef8705",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=11.10.2019&to=21.10.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "854a61d12c3aad8056746fcb144c39edd44ba929baf5eed0850cf18ecd1c75cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
