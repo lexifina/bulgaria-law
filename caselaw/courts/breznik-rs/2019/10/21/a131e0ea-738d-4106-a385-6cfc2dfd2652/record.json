@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2019-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 197,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕСЕЛИН КИРИЛОВ ХАЙДУШКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a131e0ea-738d-4106-a385-6cfc2dfd2652",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50a1cd6a5c5491d4cec25ca83edb22254b624f6990b89afb663d8e4d87b8fa01",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
