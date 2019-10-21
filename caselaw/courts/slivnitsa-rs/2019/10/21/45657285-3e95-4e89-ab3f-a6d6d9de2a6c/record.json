@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2019-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 311,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРИАНА МИТЕВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45657285-3e95-4e89-ab3f-a6d6d9de2a6c",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a4ba258433bab594e12acc748c81ae6d6024eacea0955ea5e4356c8210c019b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
