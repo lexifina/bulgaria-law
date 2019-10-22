@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3274,
+  "case_year": 2019,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА КОВАЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=accaef99-40cf-4eda-8fbc-b6907545919a",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=15.10.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "714fd8c133f9f76e95afd64af1d0a0c5e4ca80136d09afde85b1eeeeadd5fc3d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
