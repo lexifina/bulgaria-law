@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2019-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 293,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАНИЕЛ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0084e60c-2ad8-42b7-9a6f-ebc6ea992df9",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d1be711316c7e5697c79be88a35d7833b9e101c4bacda7ef2c0666e28428cb9b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
