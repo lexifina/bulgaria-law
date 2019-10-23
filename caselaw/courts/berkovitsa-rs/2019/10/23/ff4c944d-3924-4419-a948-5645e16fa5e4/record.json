@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2019-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 356,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛЕОНОРА ЛЮБОМИРОВА ФИЛИПОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ff4c944d-3924-4419-a948-5645e16fa5e4",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f2df3b932f966c76aa87f3b829fe29bc30554b49e56544ce51679c7534830d14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
