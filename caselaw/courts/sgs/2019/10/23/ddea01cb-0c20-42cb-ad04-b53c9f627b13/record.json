@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 13210,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИАНА ВАСИЛЕВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ddea01cb-0c20-42cb-ad04-b53c9f627b13",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=19.10.2019&to=23.10.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6ec05dff64e607627e9082e1a169a04f3725423221055ce1d0c414008eb9908",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
