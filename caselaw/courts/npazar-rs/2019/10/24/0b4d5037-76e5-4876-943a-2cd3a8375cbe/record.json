@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2019-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 203,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b4d5037-76e5-4876-943a-2cd3a8375cbe",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "84441a8beccd0cf6a5ca754957665e159383a6dac7e5827b1ad69929c4ad1bd8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
