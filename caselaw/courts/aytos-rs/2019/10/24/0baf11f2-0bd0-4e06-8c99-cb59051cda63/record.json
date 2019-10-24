@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2019-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 916,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАНЯ СПАСОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0baf11f2-0bd0-4e06-8c99-cb59051cda63",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9298c9ad23a9a3f79fd3cf0111b50d0f7c43622796a89850e3543ecec95c04f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
