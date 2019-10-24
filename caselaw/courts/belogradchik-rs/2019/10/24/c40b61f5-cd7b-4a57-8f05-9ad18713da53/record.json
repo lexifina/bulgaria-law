@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2019-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 74,
+  "case_year": 2019,
+  "judge_rapporteur": "БОЖИДАРКА ДАНЧОВА ЙОСИФОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c40b61f5-cd7b-4a57-8f05-9ad18713da53",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5929169b3d4cc1506769b8a5825fb02620e23f918f920c84ded478b1e0fc7182",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
