@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2019-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 713,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕСЕЛИН ХРИСТОВ КОЛАРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18731b10-9d44-41f2-b8d8-c7308b3c2de0",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6ccc64ec72134f64b9bc865b718a26f50a268fb96114153ce5fd28c6b0d59de3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
