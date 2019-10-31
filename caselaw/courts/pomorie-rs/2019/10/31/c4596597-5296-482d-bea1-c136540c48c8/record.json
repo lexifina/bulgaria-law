@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2019-10-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 163,
+  "case_year": 2019,
+  "judge_rapporteur": "НАСЯ ИВАНОВА ЯПАДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4596597-5296-482d-bea1-c136540c48c8",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73ae6f1e25a9ba04dc63cf66dab84884165e8ebeca8a48b604c2df38367b8f44",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
