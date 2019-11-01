@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2019-11-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 819,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАТЯНА ИВАНОВА ТОДОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4eddbdb-c0aa-4d24-bdb1-692df0035178",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5410fce42804a3fdd9cfb2fb213593907e5ead176eb53c7470a8a45e948fac45",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
