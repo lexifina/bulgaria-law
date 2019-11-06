@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2019-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1904,
+  "case_year": 2019,
+  "judge_rapporteur": "КРАСИМИРА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc682b67-bbe5-4696-8929-4d7a6a65b749",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=07.08.2019&to=06.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f51d6bb98fadfe48c5c1430d2355e855312faa29d8195122acfc8f47a032041",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
