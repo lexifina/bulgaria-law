@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2019-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 2428,
+  "case_year": 2019,
+  "judge_rapporteur": "НЕЛИ ДЕЛЧЕВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2544ebe-2958-4cc0-93db-4ffae05c6c30",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f0d0bb4ccc0e04ec16f3d21d5249bfdf021a88f058f1524395ee750a3a3208aa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
