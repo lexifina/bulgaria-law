@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2019-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 194,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51ae9b86-2528-4634-9aa8-27255f28d99b",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "65ee03768cdb7b877905a4ad47b9e471126a92e4ae135c8c3b1a1c723669ee12",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
