@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2019-11-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 248,
+  "case_year": 2019,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bea31f06-5f1b-42d8-aaa4-0a61d2f4d6a1",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4042094f20b457459608e36534772271df7b2748b83a785f2410f85d8541417e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
