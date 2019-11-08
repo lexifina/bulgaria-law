@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 106,
+  "case_year": 2019,
+  "judge_rapporteur": "АСЕН НАЙДЕНОВ ШОПОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d35f263c-1743-43c9-a00e-d23fe8a7cc40",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "619bf9ca900c1dad7331da85e0cc94067efddaafbe715e5341e4a7f758baecea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
