@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2019-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 309,
+  "case_year": 2019,
+  "judge_rapporteur": "НЕНКА ЦВЕТАНКОВА-ТАШЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f624571-dfc6-47d5-8c71-154d9524c7ed",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dbc37d00cc3eab861ecc708bab6f3a7ca3f4bab9726cfe126072032a3ad7c584",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
