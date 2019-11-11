@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2019-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 422,
+  "case_year": 2019,
+  "judge_rapporteur": "АДРИАНА ГЕОРГИЕВА ДОБРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48fd5f38-ce8f-48d4-9e0b-9d8cf47bd6ac",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "023af5f8fa19de695ec6b13f44eeefd7251917defb50916f10243af1a5ccb644",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
