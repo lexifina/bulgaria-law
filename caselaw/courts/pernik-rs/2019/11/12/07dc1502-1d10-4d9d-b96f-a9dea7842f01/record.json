@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1871,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТОСЛАВА ИВАНОВА АЛЕКСИЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=07dc1502-1d10-4d9d-b96f-a9dea7842f01",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=07.11.2019&to=29.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5367538a2913d3e8c171f2a0db332ee4ca70a3eede4fb94818943a3e0abcd616",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
