@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2019-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2093,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛИСАВЕТА ЙОРДАНОВА РАДИНА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=788d42e6-009f-4369-99ee-7200571751c2",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15527580f5e730f15449eec4743a0f08e86980947590cbd2d5cd4d38452c38c4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
