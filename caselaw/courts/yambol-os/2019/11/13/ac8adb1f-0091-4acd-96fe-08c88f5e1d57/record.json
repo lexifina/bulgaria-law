@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2019-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 146,
+  "case_year": 2018,
+  "judge_rapporteur": "МАРТИНА ИВАНОВА КИРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac8adb1f-0091-4acd-96fe-08c88f5e1d57",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "144366b1b6640ce718783900b269d90cacbac1a12186724545888a7d08247934",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
