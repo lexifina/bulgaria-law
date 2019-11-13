@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2019-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 54,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕСЕЛА КАЛЧЕВА СПАСОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80e27cd3-5511-4bae-9b56-5cbae60d675e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "144366b1b6640ce718783900b269d90cacbac1a12186724545888a7d08247934",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
