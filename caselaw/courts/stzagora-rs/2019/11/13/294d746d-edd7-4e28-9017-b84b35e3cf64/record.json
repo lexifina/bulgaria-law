@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4571,
+  "case_year": 2018,
+  "judge_rapporteur": "АЛЕКСАНДЪР ДИМОВ ГЕОРГИЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=294d746d-edd7-4e28-9017-b84b35e3cf64",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=07.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "587bf7ac8a29a4b9f160f37760a46a4cf4018f3ab94d0eb7998e2a91d2dc67ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
