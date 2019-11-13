@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4473,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАНИЕЛА МАРИНОВА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6a42c150-7a2e-4248-a144-d723ad428ef2",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=13.11.2019&to=23.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4dd2040012fb24d6f1923d6374085eba4ee114f7356e826ca59567360581fe5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
