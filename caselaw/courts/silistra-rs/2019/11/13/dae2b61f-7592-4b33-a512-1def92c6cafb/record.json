@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2019-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 658,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛИНА ДИМИТРОВА ВАСИЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dae2b61f-7592-4b33-a512-1def92c6cafb",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9f18dd8c8d275692bb1cb4d2272ad1f7927bf8985fc26a863cecff20bb7c670",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
