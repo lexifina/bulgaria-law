@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 5791,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ РОСЕНОВ ГЕТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ebf2687-1c72-4374-b1d4-5447a8dd76cc",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=10.11.2019&to=14.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f3d813ce4b59c96dab098a1006b893f4ae7f2adadcbdcac35764843e5e43477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
