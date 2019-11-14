@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2019-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 449,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВ ВЪЛКОВ ВЪЛКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72d1e770-973a-4e84-84b0-5995dea2cb93",
+  "motives_file": null,
+  "source": "https://lovech-adms.justice.bg/bg/925?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9eb370ff1880689fb72c7cd14dd131cd578613979aa6a05e01ba20cd92a6e5a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
