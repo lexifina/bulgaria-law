@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5810,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛЕНА ДИМИТРОВА ГЕРЦОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb466774-20c1-4c6c-bc8a-d70fbd5c1bb2",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=15.11.2019&to=19.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5df9ec5bdabfb1060c1f2fbca8c77d3b3a7db5b3e7e7b184013aff4b9bf6871b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
