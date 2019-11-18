@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2019-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1882,
+  "case_year": 2019,
+  "judge_rapporteur": "ЧАВДАР ИВАНОВ ПОПОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d87db0d1-0fbf-4194-9219-b501a1a31ffd",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=07.11.2019&to=29.11.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf8609cf0dcaf2a0ba0a1d2ef9f4ac4d55a1d1b07cc4df8171ef931418266819",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
