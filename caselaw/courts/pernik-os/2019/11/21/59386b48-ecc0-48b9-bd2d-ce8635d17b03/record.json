@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-11-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 70,
+  "case_year": 2017,
+  "judge_rapporteur": "РОМАН ТОДОРОВ НИКОЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59386b48-ecc0-48b9-bd2d-ce8635d17b03",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "865b3df0baa1afd3d43e6f3a06009cd9c89f164b5c03ac6bd96c5372b4e797bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
