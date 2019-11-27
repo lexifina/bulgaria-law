@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-11-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 14495,
+  "case_year": 2019,
+  "judge_rapporteur": "МИРОСЛАВА ИВАНОВА ДАНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1bf45c32-443c-4869-bcfb-6c8f51018bf8",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.11.2019&to=04.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64c2ee2baa50ba0d86661ea5918d7350dd03a5c3d5f2baabff6c3de79dde51cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
