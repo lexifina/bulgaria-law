@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16120,
+  "case_year": 2019,
+  "judge_rapporteur": "ВИОЛЕТА ТОДОРОВА КОЖУХАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6ec7d713-248d-42b6-a47c-41f09172af26",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.11.2019&to=04.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64c2ee2baa50ba0d86661ea5918d7350dd03a5c3d5f2baabff6c3de79dde51cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
