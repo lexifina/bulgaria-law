@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2019-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 267,
+  "case_year": 2019,
+  "judge_rapporteur": "ВИОЛЕТА ГРИГОРОВА НИКОЛОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39c5f7a8-5fcf-41bb-bab0-6bae7bee52ac",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d11211bd70e07a8ab188af97be4c172e69d1ce7f94c1fc56d1bba6f0a4d4d628",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
