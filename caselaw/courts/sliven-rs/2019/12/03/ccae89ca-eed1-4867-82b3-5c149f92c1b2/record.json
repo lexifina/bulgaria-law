@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2019-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5793,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖИВКА КИРИЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccae89ca-eed1-4867-82b3-5c149f92c1b2",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=07.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a31fe81d1699418b6c514867983f4d4c6c77d16c252fac6f46caa91a127b8d7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
