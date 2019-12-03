@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 567,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛИНА ГРОЗЕВА АРНАУДОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c5ac765-fb7f-4e04-864a-3b354970477f",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7cdde46284a21602bb9e5744fd4efe5f5b829005bb2dfa0b2525eb41d4044a59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
