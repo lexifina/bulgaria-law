@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2019-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 479,
+  "case_year": 2019,
+  "judge_rapporteur": "КРЕМЕНА ДИМОВА КОСТОВА ГРОЗЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b73f3f3-6692-41bb-a707-b5b449e089d9",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e496d166b0dbc15111779261c2e33df9f0ef34784ebe1ae2ad94c3b2e2b5642",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
