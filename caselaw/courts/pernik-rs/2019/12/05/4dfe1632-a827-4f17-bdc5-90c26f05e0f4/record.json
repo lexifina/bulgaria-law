@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2019-12-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1891,
+  "case_year": 2019,
+  "judge_rapporteur": "БОГДАН ЗДРАВКОВ ВЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4dfe1632-a827-4f17-bdc5-90c26f05e0f4",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=30.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8446f6064efcd21a94eb21e39577a5ee80e0c3d4de3fdcba61c12faa57b599e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
