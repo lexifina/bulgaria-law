@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 2970,
+  "case_year": 2019,
+  "judge_rapporteur": "СНЕЖИНА КОЛЕВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c263fc3-50b3-418b-9e53-03171103513c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.12.2019&to=07.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6601313e1bce82cce03ffeac372f3d0857ff8a297261c52597a42c0d2546307c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
