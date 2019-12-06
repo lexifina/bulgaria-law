@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2019-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2806,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ ГЕЦОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=537a6ae2-bcd2-425f-92d8-c903e70db81f",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=07.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03ff04c7ec8a1e934e73e232a24af834b1c365bce9c1af84f41ca91fcae135be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
