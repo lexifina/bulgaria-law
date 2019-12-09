@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2019-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 329,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАЛЕНТИНА ЙОРДАНОВА ГЕНЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6ba5c6a8-eacc-40c2-8e27-e038f7fc5014",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f80b55b693d3a65c085f0f8a45418c7d0d2ff8029b4ae71035fdffd84593d16c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
