@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2019-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 4157,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ СТОИМЕНОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eac1a877-73e9-4544-b34d-5a299d1f5162",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.12.2019&to=12.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "646603b986cf4ca211d5a26221f67abd8af87b6cdebfb98325b089e7da3c6ff7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
