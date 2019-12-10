@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2019-12-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1528,
+  "case_year": 2019,
+  "judge_rapporteur": "АНДРЕЙ ЖИВКОВ ДЕЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a315b973-f5b0-4ea5-b626-0db8c0b6b280",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43cc0433000daf5a97c885610a95e9bae7881e334cb1825829e69e8268266d02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
