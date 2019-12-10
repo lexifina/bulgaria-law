@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2019-12-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1134,
+  "case_year": 2019,
+  "judge_rapporteur": "РУМЯНА МИХАЙЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb829ae0-4674-46c7-93f4-ddc9a0afa4b8",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86410701cc368e91db87768982d3bbf84fc70027d3583afbeaae7bb47349ac11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
