@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2019-12-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1292,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖАКЛИН ГЕОРГИЕВА ДИМИТРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81543ade-ebe0-4d7c-a58f-a8919f6c1c72",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "023af5f8fa19de695ec6b13f44eeefd7251917defb50916f10243af1a5ccb644",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
