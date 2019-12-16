@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11392,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАФИНА НИКОЛАЕВА АРАБАДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f93cb575-888e-4a5b-96f0-583e25a306f8",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=15.12.2019&to=19.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "84a0dd885ce322e042971fd83f305fb271273b618c9a43e6f99deeecc564dfb3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
