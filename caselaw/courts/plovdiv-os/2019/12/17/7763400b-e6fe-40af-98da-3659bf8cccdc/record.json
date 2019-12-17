@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2019-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 888,
+  "case_year": 2019,
+  "judge_rapporteur": "ЦВЕТЕЛИНА ЕВГЕНИЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7763400b-e6fe-40af-98da-3659bf8cccdc",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=30.11.2019&to=22.12.2019&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b23d9f28764370677ded3aef045bbccddc9ee5d6cc73a8b54d5aada588ea6d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
