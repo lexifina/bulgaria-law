@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2019-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 390,
+  "case_year": 2019,
+  "judge_rapporteur": "ЮЛИЯН ЖИВКОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37b950f4-80ca-4248-839b-065c728ee6fb",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05edd9327c555a05efaee4370141389928e378b402a27a774998bbd1c7797c5c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
