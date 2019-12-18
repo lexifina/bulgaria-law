@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2019-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 775,
+  "case_year": 2019,
+  "judge_rapporteur": "ИРЕНА СЛАВОВА АВРАМОВА СМИТ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e540c26-257a-4c67-b4c4-c7b331a1de3c",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59cac11fb4d41e606fd0c843618fa2ad37b724a298f0ddb97913756ca3243315",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
