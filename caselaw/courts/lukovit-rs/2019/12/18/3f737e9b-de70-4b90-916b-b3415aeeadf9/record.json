@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2019-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 225,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕНЦИСЛАВ СТЕФАНОВ ВЪЛЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f737e9b-de70-4b90-916b-b3415aeeadf9",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df2e58351a139708edf40a3393569f0c0b1820a564b5dc7177d18efeceba19ed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
