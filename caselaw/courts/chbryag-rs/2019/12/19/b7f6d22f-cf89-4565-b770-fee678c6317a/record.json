@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2019-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1214,
+  "case_year": 2017,
+  "judge_rapporteur": "ВИОЛЕТА ГРИГОРОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7f6d22f-cf89-4565-b770-fee678c6317a",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d11211bd70e07a8ab188af97be4c172e69d1ce7f94c1fc56d1bba6f0a4d4d628",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
