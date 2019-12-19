@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2019-12-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 585,
+  "case_year": 2019,
+  "judge_rapporteur": "ЦВЕТАН ХРИСТОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9bda71e-ebf3-486d-b758-fe8e03ceb495",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2778f42d9538dea401c93db2f83f3310d6fd3074ea622246016dfee58807e968",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
