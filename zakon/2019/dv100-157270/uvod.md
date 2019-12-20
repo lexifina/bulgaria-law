@@ -1,0 +1,1 @@
+за ратифициране на международен договор (LOA) BU-B-UCB, "Материали, доставка на оборудване, софтуерни актуализации, услуги и обучение за поддръжка на Комплектомобилна производствена линия за метални конструкции (Material, Supply Equipment, Software Updates, Services and Training to support the Ultimate Building Machine)"
