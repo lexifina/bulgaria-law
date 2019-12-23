@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2019-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 150,
+  "case_year": 2018,
+  "judge_rapporteur": "РОСИЦА БОГДАНОВА САВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f5314ffa-9da3-49bc-bc36-554855d268b7",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15ae897816eb148a631205d007b5d9dd0bd1b6245bade3c4ee6ebd1a93d39f38",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
