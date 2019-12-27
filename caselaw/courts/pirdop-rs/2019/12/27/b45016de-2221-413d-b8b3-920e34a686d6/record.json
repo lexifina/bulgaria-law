@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2019-12-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 215,
+  "case_year": 2019,
+  "judge_rapporteur": "СИМЕОН ГОРАНОВ ГЮРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b45016de-2221-413d-b8b3-920e34a686d6",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6cf018c5d77e1219a17731e1b9cf6adb393e81d9ca71d7a85530692ec9504253",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
