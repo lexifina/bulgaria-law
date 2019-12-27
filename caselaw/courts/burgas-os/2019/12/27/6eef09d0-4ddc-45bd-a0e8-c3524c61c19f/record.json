@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2019-12-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1485,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВО ВАСИЛЕВ ДОБРЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6eef09d0-4ddc-45bd-a0e8-c3524c61c19f",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=23.12.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9f21bd05a474067cde0b3f07f96933b2584631dfd01733ef178e3f691f6a183",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
