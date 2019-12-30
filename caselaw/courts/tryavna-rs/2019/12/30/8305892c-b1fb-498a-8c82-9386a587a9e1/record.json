@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2019-12-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 99,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЯРА АНГЕЛОВА ПЕТРАКИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8305892c-b1fb-498a-8c82-9386a587a9e1",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f42f979de2fecaa37c2c1a9f84c6f453d92c5ac656768f1681fb1ef4f0a06c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
