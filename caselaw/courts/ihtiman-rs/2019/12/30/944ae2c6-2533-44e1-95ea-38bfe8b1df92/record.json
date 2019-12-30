@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2019-12-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 473,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР ГЕОРГИЕВ ЦОНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=944ae2c6-2533-44e1-95ea-38bfe8b1df92",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed03805a556fa266b4e66686e986191f9f81fd66fe4e578a6e07c9a02e679a18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
