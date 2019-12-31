@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2019-12-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 159,
+  "case_year": 2017,
+  "judge_rapporteur": "ГЕРГАНА ДИМИТРОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=387ff7fb-626b-4748-b0d8-087f7b82442e",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=23.12.2019&to=14.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2d40b9382bf16e453c4985c751163f30a88bbc32985b80638e6b3e28010bf005",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
