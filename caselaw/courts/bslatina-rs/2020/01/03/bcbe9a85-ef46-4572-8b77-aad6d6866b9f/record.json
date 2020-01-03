@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2020-01-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 516,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАЙЛО ПАРАСКЕВОВ ШАБАНСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bcbe9a85-ef46-4572-8b77-aad6d6866b9f",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f87b9b225761e98b9a5f1122e02b75d153e4bb7a10238a41179150457ab357d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
