@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 391,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИАНКА ДЕНЕВА ДАБКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=804f78dc-5fde-41a8-869b-366b59040454",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae29aa706851f40dfe80b5a8d002818bd47ff86ec5da14dce14cca0606cc209a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
