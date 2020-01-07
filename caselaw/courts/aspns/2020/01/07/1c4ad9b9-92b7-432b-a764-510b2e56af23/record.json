@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 661,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕСЕЛИНА ПЕТКОВА ВЪЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c4ad9b9-92b7-432b-a764-510b2e56af23",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad9fd8962b36fd88ecc4f9ba199673da7bd87cfbe45f0fb1808e39a0370c9311",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
