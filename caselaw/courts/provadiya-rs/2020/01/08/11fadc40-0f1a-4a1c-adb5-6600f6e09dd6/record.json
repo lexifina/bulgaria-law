@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2020-01-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 388,
+  "case_year": 2019,
+  "judge_rapporteur": "КАТЯ ГАНЕВА САВОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=11fadc40-0f1a-4a1c-adb5-6600f6e09dd6",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0a2200a4038cc9d84dd5f14c938d09eeda980ac80cf4249c0b2db31181976d7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
