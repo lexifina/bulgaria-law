@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-01-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4660,
+  "case_year": 2019,
+  "judge_rapporteur": "СТАНИМИРА АНГЕЛОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c5d4391-d32c-47f5-957a-3edbb480acb4",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=23.12.2019&to=14.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a54db82431a685a1ed6bf473c08c73c7c78c8626a8ea8bec66ca790618b678e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
