@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 387,
+  "case_year": 2019,
+  "judge_rapporteur": "ЗАРА ЕХИЯ ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20e8cfde-e714-4afb-9d9e-c28f05ceeb7c",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d3447f7ae7a6772edd4105c033861a736489ebf816e4129141dd55d1794e80e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
