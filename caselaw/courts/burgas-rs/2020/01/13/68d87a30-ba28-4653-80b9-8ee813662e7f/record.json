@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-01-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3760,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕНА НИКОЛОВА СЪБЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68d87a30-ba28-4653-80b9-8ee813662e7f",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=23.12.2019&to=14.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a54db82431a685a1ed6bf473c08c73c7c78c8626a8ea8bec66ca790618b678e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
