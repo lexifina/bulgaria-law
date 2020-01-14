@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2020-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 442,
+  "case_year": 2019,
+  "judge_rapporteur": "СЛАВ ИВАНОВ БАКАЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=878d18c4-5b10-43c1-a6a5-aed2f0f87c4c",
+  "motives_file": null,
+  "source": "https://sliven-adms.justice.bg/bg/1555?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b7ee106724bb2bbef113dd4655973b031adbd88396d89eef67ee40f6e9279dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
