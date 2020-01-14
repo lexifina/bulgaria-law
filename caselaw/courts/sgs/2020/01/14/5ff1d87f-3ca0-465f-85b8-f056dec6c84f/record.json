@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2361,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖАКЛИН ДИМИТРОВА КОМИТОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5ff1d87f-3ca0-465f-85b8-f056dec6c84f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.01.2020&to=16.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e100ada1cac402b5a2233a12335eebd58d602bcc3ff5d4268bae71187019a8f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
