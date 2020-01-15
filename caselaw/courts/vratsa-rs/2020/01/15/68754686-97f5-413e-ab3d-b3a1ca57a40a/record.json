@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2020-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1231,
+  "case_year": 2019,
+  "judge_rapporteur": "КРАСИМИР ТОМОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68754686-97f5-413e-ab3d-b3a1ca57a40a",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c2d93b0233ce3692c8a0eeb448f81f9b8221ac39315bb8b97dbb9a21992263c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
