@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-01-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5503,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСИЦА ГЕОРГИЕВА ШКОДРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0dc4aa6-9b4f-4de1-aaf5-141d1d882951",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.01.2020&to=17.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86b28add04488f84e91ea6c1024714a8339aa91b963cdde5b8ea1640d3f69b3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
