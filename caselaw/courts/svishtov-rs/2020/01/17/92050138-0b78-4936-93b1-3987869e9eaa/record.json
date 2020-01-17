@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2020-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 11,
+  "case_year": 2020,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92050138-0b78-4936-93b1-3987869e9eaa",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf94641f8b8548e9ea92fb0a66eeefc992be3625288fdd6555405359331adcd5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
