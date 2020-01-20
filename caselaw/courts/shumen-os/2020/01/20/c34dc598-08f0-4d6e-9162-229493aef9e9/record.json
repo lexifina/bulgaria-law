@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 155,
+  "case_year": 2018,
+  "judge_rapporteur": "КОНСТАНТИН ГЕОРГИЕВ МОЛЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c34dc598-08f0-4d6e-9162-229493aef9e9",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d3447f7ae7a6772edd4105c033861a736489ebf816e4129141dd55d1794e80e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
