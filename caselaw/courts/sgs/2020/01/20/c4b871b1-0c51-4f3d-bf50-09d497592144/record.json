@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4871,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАНИЕЛА ГЕОРГИЕВА ТАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4b871b1-0c51-4f3d-bf50-09d497592144",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=17.01.2020&to=21.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6402212d08c5d141fd973c0af032575bfc952854f36ba6fec69f0848b4fe7a91",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
