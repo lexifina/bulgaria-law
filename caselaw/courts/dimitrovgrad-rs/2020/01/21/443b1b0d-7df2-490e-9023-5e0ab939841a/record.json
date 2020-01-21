@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2020-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 514,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЪР ВЛАДИМИРОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=443b1b0d-7df2-490e-9023-5e0ab939841a",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a7911324910c09bd06814cccb05353848c6249b2767513d031a89cdf184fd199",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
