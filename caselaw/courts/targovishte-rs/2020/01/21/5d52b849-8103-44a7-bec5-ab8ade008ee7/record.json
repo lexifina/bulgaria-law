@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2020-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1028,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕН МИТКОВ ДРАГАНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d52b849-8103-44a7-bec5-ab8ade008ee7",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a80b14000e682272eb26e6d02ed84412e5f5caf25ef5c8547e86fca089fd15f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
