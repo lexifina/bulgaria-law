@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2020-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1018,
+  "case_year": 2018,
+  "judge_rapporteur": "ИВА ТОДОРОВА ГОГОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4ccf5932-03b5-4ae8-a4db-dd549f4453d5",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59cac11fb4d41e606fd0c843618fa2ad37b724a298f0ddb97913756ca3243315",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
