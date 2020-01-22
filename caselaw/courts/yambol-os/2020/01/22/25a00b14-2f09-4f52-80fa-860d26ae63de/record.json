@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2020-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 264,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ ЕНЧЕВ ИВАНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25a00b14-2f09-4f52-80fa-860d26ae63de",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "144366b1b6640ce718783900b269d90cacbac1a12186724545888a7d08247934",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
