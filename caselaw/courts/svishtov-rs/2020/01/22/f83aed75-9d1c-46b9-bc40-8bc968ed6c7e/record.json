@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2020-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 358,
+  "case_year": 2019,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f83aed75-9d1c-46b9-bc40-8bc968ed6c7e",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf94641f8b8548e9ea92fb0a66eeefc992be3625288fdd6555405359331adcd5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
