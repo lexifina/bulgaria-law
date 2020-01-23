@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-01-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 20731,
+  "case_year": 2019,
+  "judge_rapporteur": "ПАВЕЛ ТОДОРОВ ПАВЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c22297f4-4d52-4b17-a90a-82dc02bf6f76",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=19.01.2020&to=23.01.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2f4e5ce4c8a8cb542e12a1be4d7c9655bb2b06e9dae795df30930c8518d8957f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
