@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2020-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 21,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2679ef4-53d0-419f-a8fb-fba160361688",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4042094f20b457459608e36534772271df7b2748b83a785f2410f85d8541417e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
