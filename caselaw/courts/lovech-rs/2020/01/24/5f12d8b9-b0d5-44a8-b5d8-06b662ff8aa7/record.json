@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2020-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 801,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ БОЙЧЕВ ХРИСТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f12d8b9-b0d5-44a8-b5d8-06b662ff8aa7",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1582ed10dd562f5a08bcecdf229c7573dee40705626730c10c354ade21050b5d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
