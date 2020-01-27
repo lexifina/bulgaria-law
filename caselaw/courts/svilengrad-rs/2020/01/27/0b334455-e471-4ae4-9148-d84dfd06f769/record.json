@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2020-01-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1126,
+  "case_year": 2019,
+  "judge_rapporteur": "ДОБРИНКА ДИМЧЕВА КИРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b334455-e471-4ae4-9148-d84dfd06f769",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f3268e7e9e0993209cb27a7193c10236c3b6202ca4a68ba32d24558cc9551f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
