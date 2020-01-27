@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-01-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 811,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛИЦА СИМЕОНОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=014b35c1-c755-4ac8-b768-bab3ec806c08",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2546d9916cd476d07075877ab167ab7bdf12f63901aaf24dff03c7aa83f3d0c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
