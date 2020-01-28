@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно частно наказателно дело",
+  "case_number": 440,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСИЦА АНТОНОВА ТОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa28bf7e-bf16-450d-8b5e-e6fe2665cae5",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "02dce3f1532aeaff5777cbc80d695c8447849aff9ba3ffa201f8bbb8096e4e3c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
