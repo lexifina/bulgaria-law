@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2020-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1146,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА ТЕРЗИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6759cf66-b227-4c94-9101-58d393cc4c20",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90ed660f890a363349a98c6de710bf080a76e78750a1d137e277b7157fa76861",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
