@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2020-01-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 25,
+  "case_year": 2020,
+  "judge_rapporteur": "ДАНИЕЛА ЙОРДАНОВА ИГНАТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=01800bbf-9e81-4356-90a5-96361ab75bda",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2e02d8e46a13faac4073a6b5c890307c6bc443d9de01ae0d2ef1ba89d10125c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
