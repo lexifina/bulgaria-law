@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-01-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 202,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАЙЛО ЕМИЛОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0f05a92-270f-410a-84ef-a86fff56ec53",
+  "motives_file": null,
+  "source": "https://pernik-adms.justice.bg/bg/1135?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5900d053410725eb6c9a579460eb7f706563bf1a7378c963a47c7805d6d87cfd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
