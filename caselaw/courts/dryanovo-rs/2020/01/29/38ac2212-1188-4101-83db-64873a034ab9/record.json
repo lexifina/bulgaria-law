@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2020-01-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 14,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛИЯ ХРИСТОВА ДИШЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38ac2212-1188-4101-83db-64873a034ab9",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9138063b6719fd79a66c7af51ba0b414de323c6078ec5fec8206fb1cdc973b74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
