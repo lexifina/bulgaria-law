@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2020-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 14,
+  "case_year": 2020,
+  "judge_rapporteur": "БИСЕРА МАКСИМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6520b100-0548-4fe3-a05e-c0033129a149",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6901b4507190ea7f2b9469cd47e349edca1a50cd790e824045c5655270939fcf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
