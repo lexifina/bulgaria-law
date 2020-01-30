@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 59,
+  "case_year": 2020,
+  "judge_rapporteur": "СИЛВИЯ МИНКОВА САНДЕВА-ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ab522cc-d0a5-4e85-bf18-2b0b4a9ee9b7",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c7125951300452455971b659f8f2483b62554da96c745d2fa5f11ba6ede04054",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
