@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2020-01-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно търговско дело",
+  "case_number": 11,
+  "case_year": 2020,
+  "judge_rapporteur": "КРЕМЕНА ИВАНОВА КРАЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1b28d6f-1da0-4722-b27f-d6f529e1bb95",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c92ab73c7ea1ace6336a6f1af135d22671d2803b68fbab004991ffba0b652b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
