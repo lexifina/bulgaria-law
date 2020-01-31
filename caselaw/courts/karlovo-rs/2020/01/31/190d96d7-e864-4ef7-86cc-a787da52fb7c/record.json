@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2020-01-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 46,
+  "case_year": 2020,
+  "judge_rapporteur": "ГЮРАЙ АЛИЕВ МУРАДОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=190d96d7-e864-4ef7-86cc-a787da52fb7c",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=23.12.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c5f609d8da4161e8b5c588912b985e4e85d864d23d2dfa60dc7b38b0f1cbab28",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
