@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-01-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 6498,
+  "case_year": 2019,
+  "judge_rapporteur": "ВИОЛЕТА ВЕСЕЛИНОВА НИЗАМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8a11f76-7521-4e10-93e8-b9dcd10d5575",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=29.01.2020&to=02.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91d83815dbd2c16cd284073044c23cd3a3c8b3706635e3d9c1e023a9d1a685c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
