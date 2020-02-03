@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-02-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7489,
+  "case_year": 2019,
+  "judge_rapporteur": "МАГДАЛЕНА КОЛЕВА ДАВИДОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bded8bb3-f3f8-449c-9972-8f6742379d12",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=29.01.2020&to=08.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "094d831e71abc3de407dd1cf6f18df3cb7fc13dcd1988eb614072ec33427d6a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
