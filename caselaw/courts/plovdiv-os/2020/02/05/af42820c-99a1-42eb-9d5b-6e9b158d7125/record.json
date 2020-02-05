@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 41,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТЛАНА ИВАНОВА ИЗЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af42820c-99a1-42eb-9d5b-6e9b158d7125",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=15.01.2020&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9739fea02f643cb81e0edaedffba04dc79a267d47fd34e0b158a553b62ef84c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
