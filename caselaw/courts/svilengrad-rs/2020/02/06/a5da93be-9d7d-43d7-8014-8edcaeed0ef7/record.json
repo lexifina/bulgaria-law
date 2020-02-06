@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2020-02-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 97,
+  "case_year": 2020,
+  "judge_rapporteur": "КРЕМЕНА ТОДОРОВА СТАМБОЛИЕВА БАЙНОВА",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5da93be-9d7d-43d7-8014-8edcaeed0ef7",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=07.11.2019&to=06.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f3268e7e9e0993209cb27a7193c10236c3b6202ca4a68ba32d24558cc9551f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
