@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2020-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8,
+  "case_year": 2020,
+  "judge_rapporteur": "ЦОНКА ТОДОРОВА МИТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2a36cce-1662-4989-ab27-723cd7815dbe",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b222ceb7398ecfd9d49a87c0fde50db874855b49c9eacdf29e120df4438d21d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
