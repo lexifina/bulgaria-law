@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2020-02-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 227,
+  "case_year": 2019,
+  "judge_rapporteur": "СНЕЖАНА ВАСИЛЕВА СТОЯНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d39f9eca-b4a0-44c7-aa5e-d0caf7ad662e",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8fc5d803b31bdbc6fbfaa5d4c2dab719a7630eb2ba8f1ff6144c467b1f1eca6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
