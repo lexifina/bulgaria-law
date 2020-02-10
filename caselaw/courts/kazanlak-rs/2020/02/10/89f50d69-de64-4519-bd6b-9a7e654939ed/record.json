@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2020-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1866,
+  "case_year": 2019,
+  "judge_rapporteur": "КЕТИ КОСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89f50d69-de64-4519-bd6b-9a7e654939ed",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4cb3c0d55d1a5b90a06fe47fbea6cc5c37e827798644a514c21dd31b88b48b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
