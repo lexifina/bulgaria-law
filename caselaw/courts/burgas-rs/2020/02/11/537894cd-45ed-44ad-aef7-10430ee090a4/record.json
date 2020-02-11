@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4408,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ НИКОЛОВ ГРЪНЧЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=537894cd-45ed-44ad-aef7-10430ee090a4",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=07.02.2020&to=29.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7a23f14d91e9273f3a8416d925bd7b6ac51f2c1cb839a448a7cea71e9787983",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
