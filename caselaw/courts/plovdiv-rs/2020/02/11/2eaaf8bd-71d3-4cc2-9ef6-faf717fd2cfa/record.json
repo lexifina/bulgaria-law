@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 105,
+  "case_year": 2020,
+  "judge_rapporteur": "ТЕОФАНА БОЖИДАРОВА СПАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2eaaf8bd-71d3-4cc2-9ef6-faf717fd2cfa",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=08.02.2020&to=12.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f19ee35a23ee314cb04161703dbf001028726700d492b6fc69dcd01d002836be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
