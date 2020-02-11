@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2020-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 394,
+  "case_year": 2019,
+  "judge_rapporteur": "ЯНА ВЪЛКОВА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4f47597-2350-4cba-8102-e3b215018631",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1df4f18387715174f4825abbc8eb7c167d77786b954b48beda46852e3601380",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
