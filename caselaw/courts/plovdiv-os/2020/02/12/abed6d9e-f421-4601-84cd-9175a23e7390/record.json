@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 57,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ГЕОРГИЕВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=abed6d9e-f421-4601-84cd-9175a23e7390",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.02.2020&to=29.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "763c1df427d62bba3bf49b6c7ebc9c383d04decf98ed247d9f16b5bf42d39bf7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
