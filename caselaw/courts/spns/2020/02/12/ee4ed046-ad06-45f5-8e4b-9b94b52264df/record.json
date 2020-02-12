@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1194,
+  "case_year": 2019,
+  "judge_rapporteur": "ЦВЕТАН ИВАНОВ КОЛЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee4ed046-ad06-45f5-8e4b-9b94b52264df",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3175160bc6c1a1f5d9e0bdbc81552d48579141f4100c9884e668beaa8247f8ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
