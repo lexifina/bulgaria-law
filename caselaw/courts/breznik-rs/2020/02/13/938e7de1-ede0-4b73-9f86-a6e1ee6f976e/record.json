@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2020-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1,
+  "case_year": 2020,
+  "judge_rapporteur": "БИСЕР ЦВЕТАНОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=938e7de1-ede0-4b73-9f86-a6e1ee6f976e",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ec84cf5c4b2111552f47c3c450673295053f41af59d2ab2ca820e20ab93ab99",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
