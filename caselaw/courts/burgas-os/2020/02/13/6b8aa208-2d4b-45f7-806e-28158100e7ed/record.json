@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-02-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 424,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ВАСИЛЕВА БЕЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b8aa208-2d4b-45f7-806e-28158100e7ed",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=07.02.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4526944f34b59876b0eae01c4cb0d121065067ec9d8dc163524bfd1da79bc6a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
