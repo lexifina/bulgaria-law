@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2003,
+  "case_year": 2019,
+  "judge_rapporteur": "МЛАДЕН ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=392ca786-dc46-4896-ab28-bee8ee3865fe",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9fc68f190aae7f60a16d7f03a3c80b0c528a628292583790551f9294f44a6505",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
