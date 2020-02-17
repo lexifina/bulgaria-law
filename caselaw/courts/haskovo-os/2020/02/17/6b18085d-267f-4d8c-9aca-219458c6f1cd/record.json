@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2020-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 254,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕНА ДЕЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b18085d-267f-4d8c-9aca-219458c6f1cd",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91c5108e8fc69a408934a14ffa318fdc0e598bb085d65093546f6ebece1c86d7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
