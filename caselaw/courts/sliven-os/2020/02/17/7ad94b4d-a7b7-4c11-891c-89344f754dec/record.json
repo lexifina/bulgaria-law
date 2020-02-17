@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2020-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 25,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТОСЛАВА БОРИСОВА КОСТОВА ГОСПОДИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ad94b4d-a7b7-4c11-891c-89344f754dec",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9ef335d9c0d06e839ec80407dc8482d0f8f70892f51f1ae8aea925ec777fc55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
