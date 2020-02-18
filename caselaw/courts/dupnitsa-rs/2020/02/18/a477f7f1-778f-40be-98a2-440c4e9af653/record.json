@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2020-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1167,
+  "case_year": 2019,
+  "judge_rapporteur": "МИГЛЕНА СЕВЕРИНОВА КАВАЛОВА ШЕКИРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a477f7f1-778f-40be-98a2-440c4e9af653",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf7bbadf6996d93a82434d5a8281b18a387059f6bd2242964e1d23b8fa75ed4f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
