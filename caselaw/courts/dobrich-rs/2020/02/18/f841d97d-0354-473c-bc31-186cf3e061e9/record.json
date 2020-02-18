@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 821,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛЯ ИВАНОВА МИТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f841d97d-0354-473c-bc31-186cf3e061e9",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=07.02.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c38372429dbddda3c7707af356c60ba9bf26d4620dd1773e5073e806b1ff2b95",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
