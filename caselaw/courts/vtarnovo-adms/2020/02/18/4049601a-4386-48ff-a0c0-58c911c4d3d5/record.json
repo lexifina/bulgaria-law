@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 111,
+  "case_year": 2020,
+  "judge_rapporteur": "ПАВЛИНА ТОНЕВА БОРИСОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4049601a-4386-48ff-a0c0-58c911c4d3d5",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e30a6439923d5cceb7c75535196b94ab935806956ebf970de3a3fbb51eb85c4e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
