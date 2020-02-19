@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-02-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 481,
+  "case_year": 2019,
+  "judge_rapporteur": "РАЛИЦА ИВАНОВА ХАДЖИИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55dd616c-1d0d-482d-bbf9-44ba3b892605",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a875d7c678b3de6d39cce260d4bdb4cdd4c46116483e128759e9ef8040c8b7a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
