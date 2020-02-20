@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2020-02-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 582,
+  "case_year": 2019,
+  "judge_rapporteur": "СВИЛЕН ИВАНОВ ЖЕКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6f16702-ab92-49f9-a6f9-ed8a5ca98d27",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d1593b9920e02464b1de376f680c79047d17c9c445c5b9354f04e4ec7ca76668",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
