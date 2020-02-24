@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2020-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 83,
+  "case_year": 2020,
+  "judge_rapporteur": "ИРЕНА ИЛКОВА ЯНКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8794b791-8777-4619-8835-5df495670e59",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d55157e6514001ffef438e2f9aa9929529f254987f477988960996cde67377b8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
