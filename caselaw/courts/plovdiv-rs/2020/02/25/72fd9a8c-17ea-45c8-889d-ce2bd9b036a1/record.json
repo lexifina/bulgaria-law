@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 6889,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАСИЛ АЛЕКСАНДРОВ ТАСЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72fd9a8c-17ea-45c8-889d-ce2bd9b036a1",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.02.2020&to=27.02.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "13a43fcb13194770ed5f12afbb0bcb41d8c2edf139a9c8489d61439ab02c2d4e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
