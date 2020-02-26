@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 709,
+  "case_year": 2020,
+  "judge_rapporteur": "КАМЕЛИЯ ДИЯНОВА ВАСИЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3aeebed9-11ca-42bb-a830-bdbe3945b883",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=20.02.2020&to=01.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0301a9835bd0c39565ffddfa4bccc55832c01a45853d72914094799459579f24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
