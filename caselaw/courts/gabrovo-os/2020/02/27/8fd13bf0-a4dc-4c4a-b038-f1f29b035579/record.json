@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2020-02-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 414,
+  "case_year": 2019,
+  "judge_rapporteur": "СИМОНА ДИМИТРОВА МИЛАНЕЗИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8fd13bf0-a4dc-4c4a-b038-f1f29b035579",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a6123d534280a327d418ac7ebb6f8c59f4a53e274d1da86f8f5d641e054d8455",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
