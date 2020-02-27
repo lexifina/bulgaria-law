@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2020-02-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3687,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕН СТОЯНОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c619ff8-b399-4944-93ac-8c841c8b48da",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "10e0c8a72ba7a5015e4dc7dbf5f5035be8dc47cbe3bb9d17f253ad9793fbbabf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
