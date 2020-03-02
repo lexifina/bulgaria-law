@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2020-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 65,
+  "case_year": 2020,
+  "judge_rapporteur": "ДАНИЕЛА НЕДКОВА РАДЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9aab3790-33ad-4924-97a5-a7deb7d4c755",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dee4b06f6b427fd6e9b2010026e395e09a3dca09f1783df50c562c2d9bddaa7b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
