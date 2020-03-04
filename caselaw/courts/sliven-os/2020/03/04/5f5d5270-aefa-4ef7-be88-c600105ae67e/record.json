@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 130,
+  "case_year": 2020,
+  "judge_rapporteur": "СИЛВИЯ ЛЪЧЕЗАРОВА АЛЕКСИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f5d5270-aefa-4ef7-be88-c600105ae67e",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9ef335d9c0d06e839ec80407dc8482d0f8f70892f51f1ae8aea925ec777fc55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
