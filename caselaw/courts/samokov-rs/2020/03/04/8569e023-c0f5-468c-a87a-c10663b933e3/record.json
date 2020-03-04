@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 548,
+  "case_year": 2019,
+  "judge_rapporteur": "КИРИЛ ДАВИДОВ ПАВЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8569e023-c0f5-468c-a87a-c10663b933e3",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae2407659f58d6e3409fe8b4234a5ad2db20726144b57e3282ef131b441bdb78",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
