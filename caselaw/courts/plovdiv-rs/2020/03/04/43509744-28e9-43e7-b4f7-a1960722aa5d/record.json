@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 6629,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВАН ГЕОРГИЕВ БЕКЯРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43509744-28e9-43e7-b4f7-a1960722aa5d",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=04.03.2020&to=08.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "812557c2052b67f9760e653a8454d61f2deb03d9698dee5405eda47ae2f719a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
