@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 384,
+  "case_year": 2019,
+  "judge_rapporteur": "АЙГЮЛ АПТУЛА ШЕФКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7b48f11-0562-4ef6-9055-76747d08d360",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c99dcf2348a7c6933b89acf2e2253f95a14c2a4e159ca84a83123bf3c1e713c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
