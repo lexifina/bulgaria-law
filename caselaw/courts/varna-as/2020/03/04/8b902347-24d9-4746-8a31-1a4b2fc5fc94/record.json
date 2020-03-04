@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 8,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА СТЕФАНОВА САПУНДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b902347-24d9-4746-8a31-1a4b2fc5fc94",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9335cb06995e2681956db129a8aabbad94c9d202df2eaecc5be2ee089fd330c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
