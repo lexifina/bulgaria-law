@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 75,
+  "case_year": 2020,
+  "judge_rapporteur": "АННА ГЕОРГИЕВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b44d386-c501-4945-80df-e456f6c4edfc",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=07.02.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b0598f152cd574c5eb07c3b2f6123f1695a22f0ce605a111e897832f210c385c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
