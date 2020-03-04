@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2020-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 389,
+  "case_year": 2019,
+  "judge_rapporteur": "ЮЛИЯНА ВАСИЛЕВА ЦОНЕВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5990f20-25be-4815-8b83-b504b33b7357",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "289cfc00f29296de58c97a8f25b09708a1644d1eb8e4c2766c2602ae967f7362",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
