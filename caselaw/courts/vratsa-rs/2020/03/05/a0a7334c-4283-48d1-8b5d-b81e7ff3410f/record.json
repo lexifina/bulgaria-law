@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2020-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 249,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕРОНИКА АНТОНОВА БОЗОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0a7334c-4283-48d1-8b5d-b81e7ff3410f",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49df1e0e6acf83531788f76c42bc20b42373dd4abe7c5f7faa1098e1a151e9ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
