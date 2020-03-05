@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 546,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕНКА НИКОЛАЕВА БРАТАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=19ccf9f7-8bfb-4959-8862-8e9ced17c097",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c1ce6628bafac28a8f9b85186819dfd1660c74dd82911ca16c468c2d812bac1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
