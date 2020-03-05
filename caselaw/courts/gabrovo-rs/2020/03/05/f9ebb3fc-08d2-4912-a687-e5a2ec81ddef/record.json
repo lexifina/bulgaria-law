@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2020-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 216,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИАНА АНГЕЛОВА ПЕТРАКИЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f9ebb3fc-08d2-4912-a687-e5a2ec81ddef",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2986498763bf6eb274072ebf4f6c4609b66cac5224af7ea68be621e7eed5cbc3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
