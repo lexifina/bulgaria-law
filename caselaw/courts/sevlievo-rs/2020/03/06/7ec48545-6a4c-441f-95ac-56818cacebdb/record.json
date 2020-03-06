@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2020-03-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1296,
+  "case_year": 2019,
+  "judge_rapporteur": "СТАНИСЛАВ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ec48545-6a4c-441f-95ac-56818cacebdb",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a893cf4b1a9f5058c5db77d5a859423a7ea80ea16349722c87809e09809d0a47",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
