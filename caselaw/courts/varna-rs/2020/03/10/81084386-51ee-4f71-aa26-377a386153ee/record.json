@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4826,
+  "case_year": 2019,
+  "judge_rapporteur": "ТЕОДОРА ПЛАМЕНОВА ШИШКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81084386-51ee-4f71-aa26-377a386153ee",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=02.03.2020&to=12.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a63adae62e04c8ee8f369e411c2ef081d36385ca62155c53a45b281cfc7a499",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
