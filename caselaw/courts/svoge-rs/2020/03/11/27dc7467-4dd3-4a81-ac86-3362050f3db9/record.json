@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2020-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 44,
+  "case_year": 2020,
+  "judge_rapporteur": "ЦВЕТАН ХРИСТОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27dc7467-4dd3-4a81-ac86-3362050f3db9",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df7bbc70a45f97896b578337fe32061656f2241d54b2c5b19f122ddf964f7092",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
