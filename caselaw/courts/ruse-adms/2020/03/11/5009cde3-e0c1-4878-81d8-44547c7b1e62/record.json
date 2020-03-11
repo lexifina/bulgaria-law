@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 5,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАЙЛО ЙОСИФОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5009cde3-e0c1-4878-81d8-44547c7b1e62",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a844b8fcae157346896a8e523cd56d8a7a8e846548e4e044f13f83e7cba88b49",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
