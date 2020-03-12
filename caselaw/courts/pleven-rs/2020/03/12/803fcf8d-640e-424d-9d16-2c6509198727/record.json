@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1118,
+  "case_year": 2020,
+  "judge_rapporteur": "АНА ИВАНОВА ИЛИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=803fcf8d-640e-424d-9d16-2c6509198727",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=01.03.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5d432410e625d943025738bf200f2761ef9d36dc44832432f07d8c472d2b552",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
