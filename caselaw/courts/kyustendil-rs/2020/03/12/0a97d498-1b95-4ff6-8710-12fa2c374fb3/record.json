@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 368,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТОСЛАВ ЕМИЛОВ ПЕТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0a97d498-1b95-4ff6-8710-12fa2c374fb3",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ca8ec1a50de7b971bb71432720312eae2152d925a2637a21abfa88afbe7e0063",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
