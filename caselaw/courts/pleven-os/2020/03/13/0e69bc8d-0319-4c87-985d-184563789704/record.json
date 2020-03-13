@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 972,
+  "case_year": 2019,
+  "judge_rapporteur": "АЛЕКСАНДЪР ЛЮДМИЛОВ ГРИГОРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e69bc8d-0319-4c87-985d-184563789704",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "734ecb5d19d21b03838a49ea920c137d31eb6ed5ba6ea5c6dd0690a0af44418a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
