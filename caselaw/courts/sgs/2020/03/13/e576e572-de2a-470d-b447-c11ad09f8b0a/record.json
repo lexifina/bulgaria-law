@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-03-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 16160,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛЕНА НИКОЛАЕВА АНДРЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e576e572-de2a-470d-b447-c11ad09f8b0a",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.03.2020&to=16.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29232666d2faa463c5c703c5000036c572765b8965c1bbb4cf7598fdc1b9b37c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
