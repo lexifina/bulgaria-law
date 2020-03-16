@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 104,
+  "case_year": 2020,
+  "judge_rapporteur": "КРАСИМИР МАРИНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35fdc26d-7652-4ffa-b88e-eb86f7ab4cae",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=01.03.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5d432410e625d943025738bf200f2761ef9d36dc44832432f07d8c472d2b552",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
