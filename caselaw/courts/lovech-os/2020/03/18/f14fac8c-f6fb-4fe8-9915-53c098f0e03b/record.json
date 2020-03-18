@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2020-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 119,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН НАЧЕВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f14fac8c-f6fb-4fe8-9915-53c098f0e03b",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab550b933818dd56bbc9c22a9563ae442e7684cb1d769d4bac8317b19554dcc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
