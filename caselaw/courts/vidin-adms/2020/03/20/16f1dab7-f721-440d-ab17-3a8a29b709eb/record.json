@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 38,
+  "case_year": 2020,
+  "judge_rapporteur": "НИКОЛАЙ ПЕТРОВ ВИТКОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16f1dab7-f721-440d-ab17-3a8a29b709eb",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a8b0847ada473354075ebe7af0c666bc772f17c1a782667d870ea0eb40e65c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
