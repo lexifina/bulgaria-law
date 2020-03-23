@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 7358,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАСИЛ АЛЕКСАНДРОВ ТАСЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43be1ac0-b17c-463f-ad69-f571da0d3635",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=19.03.2020&to=23.03.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1af6f1536e13b116c7faa87e602290fb315c0ce2ebcd24dc3284aa15f21b95bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
