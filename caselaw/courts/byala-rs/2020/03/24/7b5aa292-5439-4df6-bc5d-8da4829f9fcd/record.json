@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2020-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 859,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВЕЛИНА ИЛИЕВА БОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b5aa292-5439-4df6-bc5d-8da4829f9fcd",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce8f5c3abadddd4165871f9efd7b5edd146b6ff55a5384ca4cd228ac34c203cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
