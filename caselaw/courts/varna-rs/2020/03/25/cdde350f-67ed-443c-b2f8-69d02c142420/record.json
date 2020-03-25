@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 15885,
+  "case_year": 2019,
+  "judge_rapporteur": "НЕЛА КРЪСТЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdde350f-67ed-443c-b2f8-69d02c142420",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.03.2020&to=03.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a047788fbd4634987676e18b7f1b896e5f2fb6beec92b060f6846c6fa7c9d176",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
