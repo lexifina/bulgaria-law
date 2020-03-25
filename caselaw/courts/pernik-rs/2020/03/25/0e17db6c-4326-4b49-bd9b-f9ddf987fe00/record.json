@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1392,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ВЕНЦИСЛАВОВА МИЛУШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e17db6c-4326-4b49-bd9b-f9ddf987fe00",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=24.03.2020&to=15.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f801b3abca8cac52dc66552a816b98211bb46619afb701b977f6533bf047bf8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
