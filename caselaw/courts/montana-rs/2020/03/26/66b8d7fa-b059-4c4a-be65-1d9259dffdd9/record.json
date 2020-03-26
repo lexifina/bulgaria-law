@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2020-03-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 99,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА ЦВЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66b8d7fa-b059-4c4a-be65-1d9259dffdd9",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "befb31f9d1b5fd5856806eb48891d604bfb9e2c29ad081607319fb639ba18115",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
