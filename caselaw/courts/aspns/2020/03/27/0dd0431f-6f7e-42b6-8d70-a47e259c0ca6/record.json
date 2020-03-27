@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-03-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 146,
+  "case_year": 2020,
+  "judge_rapporteur": "КРАСИМИРА ХРИСТОВА РАЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dd0431f-6f7e-42b6-8d70-a47e259c0ca6",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb65f8286b713987d3e35220c690e8a671a3c254c141b83d4a8774e3e7c4c2a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
