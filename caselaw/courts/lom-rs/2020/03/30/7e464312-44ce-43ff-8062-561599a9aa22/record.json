@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2020-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 38,
+  "case_year": 2019,
+  "judge_rapporteur": "АЛБЕНА ГЕОРГИЕВА МИРОНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7e464312-44ce-43ff-8062-561599a9aa22",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6ae84936e0b9867f2f253c421922b72f4ba6980d4599ed8ab42faed62acacdd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
