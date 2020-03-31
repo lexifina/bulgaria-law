@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2020-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 13,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЯРА АТАНАСОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=221b3da9-f5ae-4212-a710-9a6441fd5567",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a16995e3adac0c8c199cc27b8cf3a44742f6cd00504fb18e3cb2851cc86e4a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
