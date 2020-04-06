@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 21,
+  "case_year": 2020,
+  "judge_rapporteur": "МИРОСЛАВ АРХАНГЕЛОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=197e54f3-3322-4979-8d4b-e177ec5e0dd6",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=24.03.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2753d597aa0cb1ad64c17857a6d5d1c8b53775b1e94afc63593afc683d4fe8ce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
