@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 215,
+  "case_year": 2020,
+  "judge_rapporteur": "БРАНИМИР ВЕСЕЛИНОВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=453c0f8f-552d-4af3-bb85-a28dd1389761",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.03.2020&to=15.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4a38c4ac5ae3d07d455c55867c9445359507871463c6dd7f7d04e18d8089845b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
