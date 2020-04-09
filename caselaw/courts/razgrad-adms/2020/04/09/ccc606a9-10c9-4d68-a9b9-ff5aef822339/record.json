@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2020-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 26,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТЛА ПЕТКОВА РОБЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ccc606a9-10c9-4d68-a9b9-ff5aef822339",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6380cded42186a81feb7d96c48691241fe6313ab159476efb8c32506bbd8d23f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
