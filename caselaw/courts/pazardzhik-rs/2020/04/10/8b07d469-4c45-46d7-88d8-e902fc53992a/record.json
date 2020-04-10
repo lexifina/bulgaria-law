@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2020-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1022,
+  "case_year": 2019,
+  "judge_rapporteur": "КАМЕН ГЕОРГИЕВ ГАТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b07d469-4c45-46d7-88d8-e902fc53992a",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=24.03.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9416c6764492847500f8a5882fe71296e36cd8fa0c5701e92688ac0be6ecd276",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
