@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11449,
+  "case_year": 2019,
+  "judge_rapporteur": "ТОСКО ПЕТКОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a6869ca-9231-4b34-8414-f5a016cb5d6e",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=03.04.2020&to=22.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6cf3eb58085cd4ef6fdfc2e60626df12197544cb838c2acf7f5de099b45ddde5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
