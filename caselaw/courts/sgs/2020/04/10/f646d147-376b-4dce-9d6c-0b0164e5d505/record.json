@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4560,
+  "case_year": 2019,
+  "judge_rapporteur": "ЦВЕТОМИРА ПЕТКОВА КОРДОЛОВСКА ДАЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f646d147-376b-4dce-9d6c-0b0164e5d505",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=01.04.2020&to=10.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af0e554691fc91c2e7639ad749adb6d359a6c823aff164d973504401e856aae3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
