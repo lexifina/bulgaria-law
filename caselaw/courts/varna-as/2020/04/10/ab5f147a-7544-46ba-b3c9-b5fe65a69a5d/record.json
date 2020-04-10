@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 98,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛИНА ЙОРГАКИЕВА ЛАЗАРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab5f147a-7544-46ba-b3c9-b5fe65a69a5d",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9335cb06995e2681956db129a8aabbad94c9d202df2eaecc5be2ee089fd330c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
