@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2020-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 37,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЛАМЕН ИВАНОВ ПЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2853ab2-7002-494a-93bd-e8e4eb85b6a3",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab550b933818dd56bbc9c22a9563ae442e7684cb1d769d4bac8317b19554dcc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
