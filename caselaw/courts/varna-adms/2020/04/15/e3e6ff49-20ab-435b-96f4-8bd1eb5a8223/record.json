@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 335,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВЕТА ЖИКОВА ПЕКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e3e6ff49-20ab-435b-96f4-8bd1eb5a8223",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=24.03.2020&to=15.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a33dea285c1c3d08adb3a813afce9543eb28dd1208c6f5a6450bfee27063fc18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
