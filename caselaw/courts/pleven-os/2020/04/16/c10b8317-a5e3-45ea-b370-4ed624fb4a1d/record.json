@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 207,
+  "case_year": 2020,
+  "judge_rapporteur": "КРИСТИНА АНТОНОВА ЛАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c10b8317-a5e3-45ea-b370-4ed624fb4a1d",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "734ecb5d19d21b03838a49ea920c137d31eb6ed5ba6ea5c6dd0690a0af44418a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
