@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2020-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 268,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ МАРКОВА БЕРБЕРОВА-ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f2ad526-3a8b-4cbc-83ef-4d196fd5cef9",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb34e752d3048ca60ac29464b5e49b97bda7d15bbf4981963865702b17f3db14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
