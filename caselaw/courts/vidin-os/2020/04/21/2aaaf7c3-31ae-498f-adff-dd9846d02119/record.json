@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИАНА БОРИСОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2aaaf7c3-31ae-498f-adff-dd9846d02119",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a18f5fb0e1bae70583208b94f1d2c0b58d3dc52cf73d2dbe2b8e51e528e0dc66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
