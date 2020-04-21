@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 5510,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЕТЪР ЛЮБОМИРОВ САНТИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7664af4c-d250-49ee-83b6-045fb14a9b96",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.04.2020&to=30.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b4b7b14cf1a3ace6deeda47df2a120fad2a169a3ec4fb7a02f5eec1f56d198c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
