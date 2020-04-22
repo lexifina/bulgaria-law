@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3868,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙОАНА НИКОЛАЕВА ВАНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a69c54e-b84d-4920-8eac-052001725ac4",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=15.04.2020&to=25.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c96ed4b5b4e9b3e508d19cb7e86dc7a96b654a4e36e08197c96e95fe9eb45254",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
