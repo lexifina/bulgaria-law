@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 53,
+  "case_year": 2020,
+  "judge_rapporteur": "ТАТЯНА ГЕОРГИЕВА ЧЕРКЕЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b5878c2e-c342-4e7c-8a6a-5ad4276d32e3",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2209cc22a24f826c00744f24a9dbe7d8351ff32f29453ffba1d5bb60fa342c5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
