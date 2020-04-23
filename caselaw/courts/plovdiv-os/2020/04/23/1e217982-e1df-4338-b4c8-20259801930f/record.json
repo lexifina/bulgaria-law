@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 584,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕКАТЕРИНА СТЕФАНОВА РОГЛЕКОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e217982-e1df-4338-b4c8-20259801930f",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=16.04.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55af9c3f2f0875bad6813414afe9d6c1502d5a6c691ff2b12fadba42bf9d508a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
