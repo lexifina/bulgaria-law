@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8594,
+  "case_year": 2019,
+  "judge_rapporteur": "РУМЯНА ДИМОВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b7b00ff-7a8b-46f9-bb06-dbf6b130e65c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=15.04.2020&to=25.04.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c96ed4b5b4e9b3e508d19cb7e86dc7a96b654a4e36e08197c96e95fe9eb45254",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
