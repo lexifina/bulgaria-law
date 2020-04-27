@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2020-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 892,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИАНА ДИМЧЕВА СТАНКЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e83e37c6-228d-4c77-ab93-d5f0d4647e9e",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a59423c63d0b275530985fa17ac4a09b170cb66244450056dc0d3beeeefbb15a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
