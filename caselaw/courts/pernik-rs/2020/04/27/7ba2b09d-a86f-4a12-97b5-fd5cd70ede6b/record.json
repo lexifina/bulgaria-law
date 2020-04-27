@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 593,
+  "case_year": 2020,
+  "judge_rapporteur": "БОГДАН ЗДРАВКОВ ВЕЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7ba2b09d-a86f-4a12-97b5-fd5cd70ede6b",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=16.04.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5cd43b4f3958f6a0b645398003a7a2b4d5757ff904512bd0ee63a4f833c5ab79",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
