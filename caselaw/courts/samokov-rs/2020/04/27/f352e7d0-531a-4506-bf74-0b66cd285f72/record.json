@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2020-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1384,
+  "case_year": 2018,
+  "judge_rapporteur": "ЯНКО ВЕНЦИСЛАВОВ ЧАВЕЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f352e7d0-531a-4506-bf74-0b66cd285f72",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ae2407659f58d6e3409fe8b4234a5ad2db20726144b57e3282ef131b441bdb78",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
