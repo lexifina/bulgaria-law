@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2020-04-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 102,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕНКА БОРИСОВА ЙОРДАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66062d2b-d9cf-4924-bf37-5b936f0d39d0",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33dd768f8710bb04141545677572781581a60627aa7fe749c9cc5b0d90f9e4a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
