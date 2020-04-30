@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1654,
+  "case_year": 2020,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ШКОДРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5dcae58-9b21-45fa-ab6f-c5ea4d7b5a1d",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=26.04.2020&to=06.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c32264dfc19e55a0026de6595136619045289891e03f9e7b948d720b7d1dcd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
