@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 11,
+  "case_year": 2020,
+  "judge_rapporteur": "АНТОАНЕТА ДРАГАНОВА АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b0fa8c4-c0d9-4b7a-a659-0bbbdf998a77",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.03.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7e7d40917f771f87cc73a6f5c0c38a64703b73d09b4dd86de60c556cd39d270",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
