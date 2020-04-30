@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-04-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7796,
+  "case_year": 2019,
+  "judge_rapporteur": "ЛЮБОМИР СИМЕОНОВ НИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c272436c-0e47-41ed-b573-0f4b979a3826",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=26.04.2020&to=06.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c32264dfc19e55a0026de6595136619045289891e03f9e7b948d720b7d1dcd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
