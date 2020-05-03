@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2020-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 458,
+  "case_year": 2019,
+  "judge_rapporteur": "ИРИНА РУМЕНОВА СЛАВЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4075b74-03aa-49f0-af17-83f93ebdab18",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b27800ee9ce3c3e87ff2e0eb18364b0d02c04e4d7f836be9fa9f3bf177361d8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
