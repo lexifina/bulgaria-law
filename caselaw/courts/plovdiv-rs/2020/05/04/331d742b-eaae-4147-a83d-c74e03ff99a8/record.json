@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8711,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЛАДИМИР РУМЕНОВ РУМЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=331d742b-eaae-4147-a83d-c74e03ff99a8",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.04.2020&to=12.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "804a98b4c79c8de86a5cf4ae7fa307db54267e84adbac8b7d9f5271822baca0f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
