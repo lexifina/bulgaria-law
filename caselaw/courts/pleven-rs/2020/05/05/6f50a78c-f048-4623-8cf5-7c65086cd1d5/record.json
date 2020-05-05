@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2487,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИЯНА АТАНАСОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f50a78c-f048-4623-8cf5-7c65086cd1d5",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=16.04.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9bec1795f55b398dd4b4addd6dfd1c74910b0e7a336ea128e49e916294466ba2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
