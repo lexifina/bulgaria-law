@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2020-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 209,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ВАСИЛЕВА ПЕТРЕШКОВА-СТАВАРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=87f57ac6-0d87-4faf-8156-c025db844f77",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f0866aef2fd788d186969f93a2ea6e7ec67e0ff425a6f22ff0e77a8c397ddbca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
