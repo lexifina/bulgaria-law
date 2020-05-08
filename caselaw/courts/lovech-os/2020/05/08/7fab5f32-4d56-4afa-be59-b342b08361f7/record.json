@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2020-05-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 47,
+  "case_year": 2020,
+  "judge_rapporteur": "ТАТЯНА ГЕНОВА МИТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7fab5f32-4d56-4afa-be59-b342b08361f7",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=07.02.2020&to=08.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ab550b933818dd56bbc9c22a9563ae442e7684cb1d769d4bac8317b19554dcc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
