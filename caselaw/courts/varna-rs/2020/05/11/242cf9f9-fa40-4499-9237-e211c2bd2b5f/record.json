@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4893,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАЛЕНТИН ТОДОРОВ ПУШЕВСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=242cf9f9-fa40-4499-9237-e211c2bd2b5f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.05.2020&to=17.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f57ea230751f07ae3f1b6c4c2d69282fb26fb9be538c72ab70cc71a53ca60e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
