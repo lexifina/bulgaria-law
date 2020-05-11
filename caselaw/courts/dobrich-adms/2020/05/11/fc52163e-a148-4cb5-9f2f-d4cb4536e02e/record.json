@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 201,
+  "case_year": 2020,
+  "judge_rapporteur": "ТЕОДОРА АНДОНОВА МИЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc52163e-a148-4cb5-9f2f-d4cb4536e02e",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46827626c9890dcc2d5f17c50e11b53607e2bee3da4ff4ae718a68c18e578ddf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
