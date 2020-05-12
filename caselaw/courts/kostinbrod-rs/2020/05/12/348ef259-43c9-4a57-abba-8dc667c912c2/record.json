@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2020-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 64,
+  "case_year": 2020,
+  "judge_rapporteur": "СТЕФАН МАРКОВ СТОЙКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=348ef259-43c9-4a57-abba-8dc667c912c2",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c030e5e3e2a26e4b01b3e1fee58f0b096fc8c2ad88bd9c5c452e6632c914a93f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
