@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2020-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1383,
+  "case_year": 2020,
+  "judge_rapporteur": "АНТОНИЯ ИВАНОВА ТОНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=76d7019b-490d-496c-a08e-4e9817526e5c",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=09.05.2020&to=23.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "238daae8f55ba71b85afbb7a41f1db2dd319dc775e3d0ea05ffab2a1c59573b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
