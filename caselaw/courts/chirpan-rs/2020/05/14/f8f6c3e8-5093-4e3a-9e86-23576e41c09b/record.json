@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2020-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 804,
+  "case_year": 2019,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ДИНКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8f6c3e8-5093-4e3a-9e86-23576e41c09b",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "534c00dcaca54df7bb62ebb5710f915ab1364a0fed53ef0c7b7b81c2b3b09c58",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
