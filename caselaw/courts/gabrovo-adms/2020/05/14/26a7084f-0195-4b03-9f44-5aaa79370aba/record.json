@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2020-05-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 168,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛИЯ КИРИЛОВА КИРОВА ТОДОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26a7084f-0195-4b03-9f44-5aaa79370aba",
+  "motives_file": null,
+  "source": "https://gabrovo-adms.justice.bg/bg/645?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "54d175a28f136c1e60c7c72ec982de60f78a67e5d1b33497c71741600c99eb31",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
