@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2020-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 498,
+  "case_year": 2018,
+  "judge_rapporteur": "НЕДЯЛКА НИКОЛОВА НИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40581b90-1b06-47d3-a355-6b320d4b40d0",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ec351ab0c5333950ef34f56273fb0793e1a9d097c3ca967319e88ca4cf6df3e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
