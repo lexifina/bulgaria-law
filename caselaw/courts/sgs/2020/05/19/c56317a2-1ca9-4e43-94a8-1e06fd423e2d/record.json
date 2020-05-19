@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 3625,
+  "case_year": 2020,
+  "judge_rapporteur": "ТЕМЕНУЖКА ЕВГЕНИЕВА СИМЕОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c56317a2-1ca9-4e43-94a8-1e06fd423e2d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.05.2020&to=20.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "460379bffe7fdd4cf8e1f155dd9beccea02bd36ca8aa74ec2ae6c10dd5156aad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
