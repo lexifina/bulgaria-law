@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 94,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТОСЛАВА НИКОЛАЕВА КОЛЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bbfce486-57c4-4485-b552-39c9c6e5b60b",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6a5e779ecf16972fea99a9af906fd0fc86d3a4dfccb27259ef7d0778081fd59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
