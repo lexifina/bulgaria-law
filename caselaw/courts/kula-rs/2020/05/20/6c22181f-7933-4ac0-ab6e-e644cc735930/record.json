@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2020-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 27,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИЯНА ИВАНОВА ДАМЯНОВА ЦАНКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c22181f-7933-4ac0-ab6e-e644cc735930",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b1c6edf37c4de40c1cbdf1458ae7fb72eba66fd5e5c0645376e6fdc413cc02b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
