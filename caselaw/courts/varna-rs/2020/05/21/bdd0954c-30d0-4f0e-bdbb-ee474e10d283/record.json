@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 20804,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕНОВЕВА ПЛАМЕНОВА ИЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bdd0954c-30d0-4f0e-bdbb-ee474e10d283",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.05.2020&to=28.05.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6170c35a556e0325d3967d06c4045a055de504ec64cc0ae3a9faabc688ad3f4a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
