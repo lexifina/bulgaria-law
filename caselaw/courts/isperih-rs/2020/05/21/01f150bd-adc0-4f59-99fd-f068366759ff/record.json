@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2020-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 59,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛ ПЕТРОВ ТАШЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=01f150bd-adc0-4f59-99fd-f068366759ff",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1720c00134dd84c54b070c56a07d45181a709e404f86fca047c1d4d02b10b7ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
