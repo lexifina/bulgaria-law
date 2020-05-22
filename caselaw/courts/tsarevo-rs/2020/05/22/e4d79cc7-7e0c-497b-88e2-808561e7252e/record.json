@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2020-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 285,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА МОСКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d79cc7-7e0c-497b-88e2-808561e7252e",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57127e9ccfc6bf9d44fa0a7b2de53573459256e0c1cefa41ada8dbeaa3ed6eee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
