@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-05-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 360,
+  "case_year": 2019,
+  "judge_rapporteur": "ХРИСТИНКА ДАНЧЕВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cce0f84c-8540-4632-842e-e59b9dbe36e2",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a14a3ce89ae5726dfb6cbde1e2218e058161fef869d47309fd236debbbbff4f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
