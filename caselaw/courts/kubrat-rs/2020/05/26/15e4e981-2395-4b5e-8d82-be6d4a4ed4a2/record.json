@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2020-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 64,
+  "case_year": 2019,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=15e4e981-2395-4b5e-8d82-be6d4a4ed4a2",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "11ba08bbe99c7be2bf30f269e36987af289d6ed51c4ca42f05c10a90c77f03cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
