@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2060,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСИЦА ЖЕЛЯЗКОВА ТЕМЕЛКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b6b3e194-1516-4a09-ad65-6d8cb0ea37fe",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=09.05.2020&to=23.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6662805c7051d6eaa33f19ace3ead69f29c89d35ab757cae1d3682f345727bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
