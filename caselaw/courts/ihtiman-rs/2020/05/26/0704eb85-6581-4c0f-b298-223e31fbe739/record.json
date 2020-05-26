@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2020-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 668,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТОЗАР ЛЮБОМИРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0704eb85-6581-4c0f-b298-223e31fbe739",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bd18b3468670a06832c561471c209be78f0a30244701a79590f370e76af65d08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
