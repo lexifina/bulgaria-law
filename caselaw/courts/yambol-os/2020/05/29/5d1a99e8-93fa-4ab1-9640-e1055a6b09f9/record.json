@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2020-05-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11,
+  "case_year": 2020,
+  "judge_rapporteur": "КРАСИМИРА ВЕСЕЛИНОВА ТАГАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d1a99e8-93fa-4ab1-9640-e1055a6b09f9",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9192e841f7bf668da01e18032138818bce8c5701a7648ddc9939ca60c9413fac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
