@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2020-05-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1356,
+  "case_year": 2019,
+  "judge_rapporteur": "КРАСИМИР ВИКТОРОВ СОТИРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c56edd6c-69d9-481f-93f1-8ebd17ebeebb",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a6ee62b54bccf64720a0161cf2db71a134d1bd13f37a99bf1a942124e00bc60",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
