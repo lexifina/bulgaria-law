@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 153,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСЕН ПЕТКОВ БУЮКЛИЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6129db1e-087a-4877-960c-0b1380771f70",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b578f2e19b1f541f143d42d3fd483df60a06bf4025bd5832e4e1de8efe95b70d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
