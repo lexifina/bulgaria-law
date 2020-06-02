@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2020-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 432,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=564961c5-5a47-43a5-881b-3dd7e9f78aca",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9603380561f9569fab2b47b25a2abb3eb8409e3e239a2528fca37ff3bae7579d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
