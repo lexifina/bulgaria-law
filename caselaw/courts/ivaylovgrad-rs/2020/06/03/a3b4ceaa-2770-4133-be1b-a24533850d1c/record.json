@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2020-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 20,
+  "case_year": 2020,
+  "judge_rapporteur": "ЖИВКО ДЕЛЧЕВ ЯНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a3b4ceaa-2770-4133-be1b-a24533850d1c",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e9a64570d753d4b296145af71d6799de2b87f3568e2256ade3a72c93151dd4eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
