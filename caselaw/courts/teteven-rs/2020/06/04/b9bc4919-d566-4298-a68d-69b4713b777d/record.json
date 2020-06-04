@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2020-06-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 145,
+  "case_year": 2020,
+  "judge_rapporteur": "НАНКО СЪБОВ МАРИНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b9bc4919-d566-4298-a68d-69b4713b777d",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8342e873031e2ea1288e3f7c41e2abf2540e0813f632bec4d77919c80722535e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
