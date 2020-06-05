@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-06-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2051,
+  "case_year": 2020,
+  "judge_rapporteur": "НИКОЛАЙ ЗАХАРИЕВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f61ab4c-2bdb-4dee-994d-27ef752d4e9e",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=02.06.2020&to=06.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e42cfb9d82bb46db643a7fe105a5d350fb199ca1e9cf67aafde354d0250f9bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
