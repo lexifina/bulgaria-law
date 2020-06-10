@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2020-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 103,
+  "case_year": 2020,
+  "judge_rapporteur": "АТАНАС ВАСИЛЕВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=12a7ae5d-e92a-4ee6-945f-e204882c90c6",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70840abc60fcfbb004fbbef46b70aefcf223cb7df7f86adf5e087c2a025def6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
