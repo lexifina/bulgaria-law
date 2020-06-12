@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2020-06-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 228,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕДКО ЦОЛОВ ПЕТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f5fd0868-7e22-44c7-a5c9-667c837e8ea5",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0eaea1e72a50940fbdf4855099743e3d48335f6e6544a79520debe2ef8c9cb55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
