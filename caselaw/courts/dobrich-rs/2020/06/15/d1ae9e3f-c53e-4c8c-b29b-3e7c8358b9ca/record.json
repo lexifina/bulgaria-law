@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 605,
+  "case_year": 2018,
+  "judge_rapporteur": "МИНКА КИРЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1ae9e3f-c53e-4c8c-b29b-3e7c8358b9ca",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=09.05.2020&to=23.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "34191e7fd7f31b7b631c4d08ce40c83c8f9b0429ada12dec222fef600ee8915c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
