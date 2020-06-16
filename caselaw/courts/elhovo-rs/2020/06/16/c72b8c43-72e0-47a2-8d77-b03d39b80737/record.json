@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2020-06-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 162,
+  "case_year": 2020,
+  "judge_rapporteur": "ДОРОТЕЯ ПЕТКОВА ЯНКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c72b8c43-72e0-47a2-8d77-b03d39b80737",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc69c434e9a8712ea3a30d02d1c383ee246008c2858bdd2be4edfa2a1202b3ff",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
