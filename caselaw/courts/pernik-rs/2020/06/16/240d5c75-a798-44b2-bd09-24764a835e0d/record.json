@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-06-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 611,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАЛЕРИ МИТКОВ НЕНКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=240d5c75-a798-44b2-bd09-24764a835e0d",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=01.06.2020&to=23.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c79f419d1a4bc81911a111c1d6fcae448cb867cd40311402219531644d95514f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
