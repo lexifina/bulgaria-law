@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2020-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 1048,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИСТО ВАСИЛЕВ СИМИТЧИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e167e901-d693-45cc-996c-f42e79530a9c",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4aa4a71e5c346f8a295ba6a1af29f994041a93168a165db0fd2f549544d9ca34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
