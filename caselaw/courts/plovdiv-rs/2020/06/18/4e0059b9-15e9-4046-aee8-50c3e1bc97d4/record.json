@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3285,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН МИНЧЕВ МИНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e0059b9-15e9-4046-aee8-50c3e1bc97d4",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.06.2020&to=21.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b76cde6ff76ea141e73629cd6e32c707a59edc192ef52411e5c0e43108f7ba1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
