@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-06-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1305,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕНА СВЕТЛОЗАРОВА ТОМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ac181ec-29da-46e0-948d-20abf42dea48",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=01.06.2020&to=23.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90eea2456dad1c072383edbd811f2adcabb1d3fc73809b13121c055e4f669b11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
