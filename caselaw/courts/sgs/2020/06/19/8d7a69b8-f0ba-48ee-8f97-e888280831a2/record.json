@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-06-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 546,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИПСИМЕ КИРКОР МЪГЪРДИЧЯН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d7a69b8-f0ba-48ee-8f97-e888280831a2",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=15.06.2020&to=19.06.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "017b30c4a8903b2bfb23ad859c804f2939990e47f892659783858bb66dcbea08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
