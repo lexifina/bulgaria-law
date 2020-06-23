@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2020-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 143,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙОРДАН ИВАНОВ ГЕРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c37dbb3-699e-4ce5-bcf5-2acf6c97f0b9",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "67f17866b35db96b789d8a6badeda3ff68a57f7e663a934aa16bcbc86fc13e72",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
