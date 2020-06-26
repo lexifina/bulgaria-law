@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 570,
+  "case_year": 2020,
+  "judge_rapporteur": "НАДЕЖДА ДИМИТРОВА КИРИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=65efe093-3c8f-4916-b39f-f7eefe97a223",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8c50d7364c6fb0a60cabb3cc8d93dc091dbc11946b726c91cdba929fdb71b608",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
