@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-06-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 901,
+  "case_year": 2020,
+  "judge_rapporteur": "НИНА ИВАНОВА КУЗМАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8e18c49e-d17a-4a41-94ae-57e35a9b3f8e",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.06.2020&to=16.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df3b09a602ed61a05af999d87193ecc42486974515a232111d83d9857251548c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
