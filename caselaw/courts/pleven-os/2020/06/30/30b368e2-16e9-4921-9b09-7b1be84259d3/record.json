@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 381,
+  "case_year": 2020,
+  "judge_rapporteur": "СТЕФАН АСЕНОВ ДАНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30b368e2-16e9-4921-9b09-7b1be84259d3",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a469bb0277c6affd7e0abe4d8de1c44e308e0aa267d042da6dd776381fa6ec80",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
