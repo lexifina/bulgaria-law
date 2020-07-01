@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2020-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 202,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАСКО ДИМИТРОВ НАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e53b55f7-3f8c-4492-a18a-05b873033558",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f0b84884622acd24930955ef3f193585fa14de77b21246157148799c8833c9b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
