@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 314,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ИВАНОВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2b1ee246-5ac7-4bf8-8d40-90ec31598318",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81d63501496a4c015916b1b565ee5364723a955814af8cbae46f5896da61d16e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
