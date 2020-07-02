@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2020-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 48,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛ МАВРЕВ МОМЧИЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7ed5b18-33ac-48d7-8977-5a15a80fd32d",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2cbfd1e777181ff1fbe2f905d97b2f6efe368991b1b86672c3b716c122fef59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
