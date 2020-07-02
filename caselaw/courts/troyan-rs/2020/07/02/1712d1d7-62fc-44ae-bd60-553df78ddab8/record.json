@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2020-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 97,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТЯ НИКОЛОВА ГАТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1712d1d7-62fc-44ae-bd60-553df78ddab8",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "506df17f9ef926c8469d929358de97422c5c76db8ab5a70a5e03f6eb4afa5be1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
