@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 781,
+  "case_year": 2019,
+  "judge_rapporteur": "РОСИЦА ТОДОРОВА КЮРТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=431f50d5-15f5-4b16-9777-5e24b699c29a",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.06.2020&to=16.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df3b09a602ed61a05af999d87193ecc42486974515a232111d83d9857251548c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
