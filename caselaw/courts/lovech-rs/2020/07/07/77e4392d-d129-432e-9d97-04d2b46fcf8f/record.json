@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2020-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2060,
+  "case_year": 2019,
+  "judge_rapporteur": "ИРЕНА ВАСИЛЕВА РАБАДЖИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=77e4392d-d129-432e-9d97-04d2b46fcf8f",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c1040a442561c14c1ee49c5b52c4101501f9d260a894a3185397806a65a5b0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
