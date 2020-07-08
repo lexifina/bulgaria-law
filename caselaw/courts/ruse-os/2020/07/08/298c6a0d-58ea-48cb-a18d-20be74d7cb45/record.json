@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 123,
+  "case_year": 2020,
+  "judge_rapporteur": "АНЕТА ЦВЕТАНОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=298c6a0d-58ea-48cb-a18d-20be74d7cb45",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7975994b7677d6b098b6fb6ab8db12de6680a80f8488c4ed9168fca25a80f72",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
