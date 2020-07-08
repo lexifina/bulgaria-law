@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 968,
+  "case_year": 2020,
+  "decision_type": "Решение",
+  "decision_number": "9121",
+  "decision_date": "2020-07-08",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1093849%26code%3Dvas%26guid%3D1966423070",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1093849&code=vas&guid=1966423070",
+  "source_text_sha256": "a872765cf495e77505ba9f08ed28d80a26387b31fac98c6f94e494542c37ecaf",
+  "source_images": 0
+}
