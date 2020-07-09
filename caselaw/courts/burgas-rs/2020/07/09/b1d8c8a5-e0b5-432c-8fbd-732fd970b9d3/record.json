@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-07-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1747,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВЕЛИНА ЛЕНКОВА МАВРОДИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1d8c8a5-e0b5-432c-8fbd-732fd970b9d3",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=24.06.2020&to=16.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eb74aa2ab33858dbe21f7dfba0eb9ce58eeadb7e80a7d305c027f07321b81f34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
