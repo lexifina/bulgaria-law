@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2020-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 253,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТРИНКА ХРИСТОВА СТАМАТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7a4e0ee6-a2ea-4bb7-b237-d9c75487c2ac",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01204ff803d7b63faa801e3fc133a2cc6dc522acd18124893d6299b887604896",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
