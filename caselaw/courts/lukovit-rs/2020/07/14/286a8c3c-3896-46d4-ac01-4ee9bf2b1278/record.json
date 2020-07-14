@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2020-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 140,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЯ ЙОСИФОВА КИРЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=286a8c3c-3896-46d4-ac01-4ee9bf2b1278",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "643d35ad50996fc12eef741347de5405509e2fdea9d176b8dcd826debfba2a05",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
