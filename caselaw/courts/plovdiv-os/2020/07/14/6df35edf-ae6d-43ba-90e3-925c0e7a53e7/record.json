@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1374,
+  "case_year": 2020,
+  "judge_rapporteur": "ВИДЕЛИНА СТОЯНОВА КУРШУМОВА СТОЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6df35edf-ae6d-43ba-90e3-925c0e7a53e7",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=24.06.2020&to=16.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df3b09a602ed61a05af999d87193ecc42486974515a232111d83d9857251548c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
