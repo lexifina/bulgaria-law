@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2020-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 229,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСТИН СТОЯНОВ РАДИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=17d5fc2e-016f-4f24-976e-2898d60492d2",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b35a92c9cd9b2b7ab06081f1c1a7e8719065c3ba30260fe70fec5ee6337a704c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
