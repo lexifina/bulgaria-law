@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2020-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 274,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН СТАТЕВ МАРИНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec501081-e073-46e0-868f-59f13e41b6ca",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "52907231457a23d672ea9786da601c3a9cfd684554f4708a6e4e589d2d86a087",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
