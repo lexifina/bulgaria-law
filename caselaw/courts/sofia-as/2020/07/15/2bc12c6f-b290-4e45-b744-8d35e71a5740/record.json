@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2020-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 718,
+  "case_year": 2020,
+  "judge_rapporteur": "Виолета Магдалинчева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2bc12c6f-b290-4e45-b744-8d35e71a5740",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "97aec1f1abbdf0a582fc198205df1f33d41385b4a2965e31f418f19f64d4d271",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
