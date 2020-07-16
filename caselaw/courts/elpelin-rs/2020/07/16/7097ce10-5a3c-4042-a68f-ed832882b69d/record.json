@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елин Пелин",
+  "jurisdiction": "BG",
+  "date": "2020-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 377,
+  "case_year": 2020,
+  "judge_rapporteur": "БОРИСЛАВ ЛЮБОМИРОВ ЧЕРНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7097ce10-5a3c-4042-a68f-ed832882b69d",
+  "motives_file": null,
+  "source": "https://elpelin-rs.justice.bg/bg/6875?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1149b69f89b900f6fd973c6c5a40480f12ce6123df7e65897fc5eabed7682db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
