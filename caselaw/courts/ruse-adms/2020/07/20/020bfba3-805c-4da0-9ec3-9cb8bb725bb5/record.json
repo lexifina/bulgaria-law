@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 240,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИАН ГРИГОРОВ ВАСИЛЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=020bfba3-805c-4da0-9ec3-9cb8bb725bb5",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a519cd3dd2d7f484e8aa4f846f4626a2bffceb27a8562d0195bfb2aad0006ac3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
