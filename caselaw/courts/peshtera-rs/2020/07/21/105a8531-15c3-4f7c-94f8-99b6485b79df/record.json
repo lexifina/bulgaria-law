@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2020-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 738,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕЛИНА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=105a8531-15c3-4f7c-94f8-99b6485b79df",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf72d76a57e9e9f425a1e2df60ea6d8f5a37c38add0ef3958a48c6808b1179b2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
