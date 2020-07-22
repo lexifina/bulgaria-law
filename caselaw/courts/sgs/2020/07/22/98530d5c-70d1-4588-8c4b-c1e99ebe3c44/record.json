@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 5513,
+  "case_year": 2019,
+  "judge_rapporteur": "РЕНИ ХРИСТОВА КОДЖАБАШЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98530d5c-70d1-4588-8c4b-c1e99ebe3c44",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.07.2020&to=24.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f6c55bad68bca297a7c4a82d3d2023da946c00a188413c7d0e7e94ba9734dc9d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
