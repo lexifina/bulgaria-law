@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2020-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 195,
+  "case_year": 2020,
+  "judge_rapporteur": "СТАНИСЛАВ ИВАНОВ ЦВЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef06fa9f-1122-41e5-87ac-788baa4d1034",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2507f83e00c3169dac45b9a16d9742b7fac43fb111661edf555d523b4543b338",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
