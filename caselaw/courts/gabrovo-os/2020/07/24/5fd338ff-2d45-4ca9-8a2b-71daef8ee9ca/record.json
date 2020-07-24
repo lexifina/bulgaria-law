@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2020-07-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 10080,
+  "case_year": 2019,
+  "judge_rapporteur": "СИМОНА ДИМИТРОВА МИЛАНЕЗИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5fd338ff-2d45-4ca9-8a2b-71daef8ee9ca",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33bcd374d97bb5149ed5dae0c32f15ff2b643b64790fd2ca85be6c478cef00d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
