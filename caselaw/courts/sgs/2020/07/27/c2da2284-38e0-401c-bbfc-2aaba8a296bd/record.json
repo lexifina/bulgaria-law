@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 7153,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТЯ ПЕТРОВА АЛЕКСИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c2da2284-38e0-401c-bbfc-2aaba8a296bd",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=25.07.2020&to=29.07.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "142dac6de3e3d01fe51ca1707b138206e3a60b3069bf6bb37c40c90bfe417bf9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
