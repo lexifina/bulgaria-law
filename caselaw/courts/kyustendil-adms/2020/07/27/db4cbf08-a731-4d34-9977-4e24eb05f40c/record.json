@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 128,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН ХРИСТОВ ДЕМИРЕВСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=db4cbf08-a731-4d34-9977-4e24eb05f40c",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "04972f855c633abc75a14e8c6654b8765568addc8719e721ff48361c501ff558",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
