@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 244,
+  "case_year": 2019,
+  "judge_rapporteur": "ЦВЕТЕЛИНА АЛЕКСАНДРОВА КЪНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0df54b1f-de6e-4ced-8800-1899da38e1db",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4142409c0a10dda6b0c04def393affc1e0b48e18cf9c3191060cfa277cf74437",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
