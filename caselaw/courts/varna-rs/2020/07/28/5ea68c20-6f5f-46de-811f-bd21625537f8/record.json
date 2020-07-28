@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16410,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАНЯ КУНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5ea68c20-6f5f-46de-811f-bd21625537f8",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=23.07.2020&to=02.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd909d0182eaa5ea001eeb8256551a989be09fc8ce6ef16002f99acd103e407f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
