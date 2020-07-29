@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2020-07-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 77,
+  "case_year": 2020,
+  "judge_rapporteur": "МАГДАЛЕНА ГЕОРГИЕВА ТАТАРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3df1427b-4b4d-440d-9b8c-dc8989a99dcb",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "107cb1294d9950c718d96ed6c88c9f93bf47ae9c6ae29ba7621ad2a34ccd46e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
