@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2484,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТЛАНА НЕЙКОВА НЕЙЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1462be40-ef1d-40e3-b89d-27e088ae6273",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=24.06.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cdec8b976b736acbb13e2fcdc3a97cb90adfcf0d806d45d348305b6a82c5e66d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
