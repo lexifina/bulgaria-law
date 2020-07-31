@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-07-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1771,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЙЯ ЙОНЧЕВА ЙОНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f6ffaf76-121e-4794-bb68-2019a7d0ea9f",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=24.06.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cdec8b976b736acbb13e2fcdc3a97cb90adfcf0d806d45d348305b6a82c5e66d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
