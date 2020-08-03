@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 468,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕСЕЛА ИВАНОВА ГЪЛЪБОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f05018b4-8117-4eb8-8cd2-b1a45a62c088",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=03.08.2020&to=13.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79646b7ebe959f69ad6b6b0dce35539171b058a7602e8c7f467819531f9f8a33",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
