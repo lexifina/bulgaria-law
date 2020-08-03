@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2727,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВЕЛИНА ХРИСТОВА ХРИСТОВА-ЖЕЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a8d689fa-d1ae-4609-9c4d-ad63ca6665e7",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=03.08.2020&to=13.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "79646b7ebe959f69ad6b6b0dce35539171b058a7602e8c7f467819531f9f8a33",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
