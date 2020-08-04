@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2020-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 634,
+  "case_year": 2019,
+  "judge_rapporteur": "СНЕЖАНА ВАСИЛЕВА СТОЯНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3c9012d2-7144-4b63-a12d-8310c9f35841",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "107cb1294d9950c718d96ed6c88c9f93bf47ae9c6ae29ba7621ad2a34ccd46e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
