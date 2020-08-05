@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2020-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 190,
+  "case_year": 2020,
+  "judge_rapporteur": "ЪШЪЛ ЛЮТФИ ИРИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9dffec49-ca1c-44d6-bd5e-f6fd1c9a1c2b",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70840abc60fcfbb004fbbef46b70aefcf223cb7df7f86adf5e087c2a025def6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
