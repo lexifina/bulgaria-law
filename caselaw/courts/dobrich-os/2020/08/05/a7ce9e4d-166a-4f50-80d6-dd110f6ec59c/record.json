@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 15,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ МЕТОДИЕВ ПАВЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7ce9e4d-166a-4f50-80d6-dd110f6ec59c",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19e99f8e2eb7368754d5bcef2246f86fe6a85fd2d37c2001c2ceae14f1fd40e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
