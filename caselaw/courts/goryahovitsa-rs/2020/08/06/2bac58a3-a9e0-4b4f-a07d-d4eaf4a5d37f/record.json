@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2020-08-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 218,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕНА КАРАГЬОЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2bac58a3-a9e0-4b4f-a07d-d4eaf4a5d37f",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a445537bd86aac78e06700e57cf033469e06adb986c1579ceb2883ecb18e202",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
