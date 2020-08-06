@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2020-08-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 88,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ КИРИЛОВА БОЖКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb6fe43f-1551-4b64-8c53-1c15d28b2f4b",
+  "motives_file": null,
+  "source": "https://kardzhali-adms.justice.bg/bg/785?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2cbfd1e777181ff1fbe2f905d97b2f6efe368991b1b86672c3b716c122fef59",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
