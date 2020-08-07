@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 174,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМАНУИЛ ЕРЕМИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b6667e64-e5c2-406f-a687-a92499c038ca",
+  "motives_file": null,
+  "source": "https://vtarnovo-as.justice.bg/bg/2395?from=09.05.2020&to=08.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "35009d41dd68fde482c2e3e04c23356568280c72136c6dbcdc11f0c5ec3c016d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
