@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 447,
+  "case_year": 2020,
+  "judge_rapporteur": "Николинка Георгиева Чокоева Милева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0a14875a-d07b-423e-85da-30c6b01f09a8",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0615e71e205dc55586a08297fd954629ec5b615dabaf0b2c3797fc80027d88e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
