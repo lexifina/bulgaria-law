@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2020-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 318,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИАНА ИЛИЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a6e95d37-58c8-4f0f-b8e5-e710e2897307",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0846df0ad3c2c26fef499265b1f5f46d7c3c0525e35f852e86bf2aa1a67737d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
