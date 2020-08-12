@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2020-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 339,
+  "case_year": 2020,
+  "judge_rapporteur": "Боряна Красимирова Иванова Гащарова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89e8bf4b-43d0-4921-9230-76c5bbbfba68",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "16be311d87368264541996107db9d5dfd375d77f1f8194100805bdd0d1c6dcd0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
