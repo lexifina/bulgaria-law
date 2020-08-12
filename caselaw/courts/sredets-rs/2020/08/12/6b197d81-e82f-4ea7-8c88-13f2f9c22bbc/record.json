@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2020-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 299,
+  "case_year": 2020,
+  "judge_rapporteur": "КРАСИМИРА ТОНЧЕВА ДОНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b197d81-e82f-4ea7-8c88-13f2f9c22bbc",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05f69712f9016c0a02832052ddb1233b01cf49292ced67803637e2ad4a8188a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
