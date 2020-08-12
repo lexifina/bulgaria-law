@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2020-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 339,
+  "case_year": 2020,
+  "judge_rapporteur": "ФИЛИП ФИЛИПОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac50fe81-5892-4757-9123-59450da37d5a",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f3aa68fecc881a9c47f9944bc5b9ee9066025463555399057f556bd5f20088cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
