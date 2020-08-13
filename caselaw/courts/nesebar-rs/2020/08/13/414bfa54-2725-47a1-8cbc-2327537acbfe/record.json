@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2020-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 608,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ МАРКОВА БЕРБЕРОВА-ГЕОРГИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=414bfa54-2725-47a1-8cbc-2327537acbfe",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0351fd98e9b817aa0112824e97b94699097e7d7a56eca0d5cddb99a65b65656c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
