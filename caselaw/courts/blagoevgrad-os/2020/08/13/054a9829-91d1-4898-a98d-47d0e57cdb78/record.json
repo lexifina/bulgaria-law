@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2020-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 903,
+  "case_year": 2020,
+  "judge_rapporteur": "Лилия Масева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=054a9829-91d1-4898-a98d-47d0e57cdb78",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=18.06.2020&to=17.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "254202dd706642320adb551314046cae427a4dadd8e2b16a015969a5cc53aae7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
