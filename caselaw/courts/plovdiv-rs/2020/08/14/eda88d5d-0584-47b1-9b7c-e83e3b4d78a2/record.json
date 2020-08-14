@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-08-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15001,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖИВКО СТОЯНОВ ЖЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eda88d5d-0584-47b1-9b7c-e83e3b4d78a2",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=11.08.2020&to=15.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3d3353265117ce048ded76e2398a1db8122183b15af2fb06e2198370d2b7be8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
