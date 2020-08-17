@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 996,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕНЦИСЛАВ ДИМИТРОВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=900d1617-4a41-4c70-9991-376b49d58fe4",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=09.08.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3bde972488a1df6f86e6c6c21ce361ae80253533fb0a4c60238d721697ee62f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
