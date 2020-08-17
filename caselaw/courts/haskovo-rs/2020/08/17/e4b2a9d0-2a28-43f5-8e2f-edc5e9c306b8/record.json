@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2020-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 770,
+  "case_year": 2020,
+  "judge_rapporteur": "Мартин Димитров Кючуков",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4b2a9d0-2a28-43f5-8e2f-edc5e9c306b8",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ca5566811d044e6e36f5b26f6eecd753b2c622dd24c3db2a37e56907e08e198",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
