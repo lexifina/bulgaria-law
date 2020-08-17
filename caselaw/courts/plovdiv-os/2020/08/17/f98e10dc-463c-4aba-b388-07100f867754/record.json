@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1573,
+  "case_year": 2020,
+  "judge_rapporteur": "СИЛВИЯ ЛЮБЕНОВА АЛЕКСОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f98e10dc-463c-4aba-b388-07100f867754",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=09.08.2020&to=31.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee034e707021ef14cff560b88753b279ec03aac127d84a983447d520a955ed8e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
