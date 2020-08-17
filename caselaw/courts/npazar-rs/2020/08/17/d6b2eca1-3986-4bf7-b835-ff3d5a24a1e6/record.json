@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2020-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 54,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d6b2eca1-3986-4bf7-b835-ff3d5a24a1e6",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "131abf34eb1dd85a97512ea5f09eeffa8496e8773de7e77ac218544304b75974",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
