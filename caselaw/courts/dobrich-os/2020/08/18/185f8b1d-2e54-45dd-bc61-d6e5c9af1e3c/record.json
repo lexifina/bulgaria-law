@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-08-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 90,
+  "case_year": 2020,
+  "judge_rapporteur": "ТЕМЕНУГА ИВАНОВА СТОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=185f8b1d-2e54-45dd-bc61-d6e5c9af1e3c",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "021843479e22460714999071a285747da5875e92b11cb5f706113d064e51ed8f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
