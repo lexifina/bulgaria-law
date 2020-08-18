@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-08-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 130,
+  "case_year": 2020,
+  "judge_rapporteur": "АНЕТА ЦВЕТАНОВА ГЕОРГИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=afcad852-24b5-4cf4-8a9e-83518f565afd",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0615e71e205dc55586a08297fd954629ec5b615dabaf0b2c3797fc80027d88e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
