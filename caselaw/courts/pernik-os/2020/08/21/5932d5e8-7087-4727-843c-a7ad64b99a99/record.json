@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-08-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 425,
+  "case_year": 2020,
+  "judge_rapporteur": "Милена Даскалова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5932d5e8-7087-4727-843c-a7ad64b99a99",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4688bc4f89e95c661d9d238004b2e765f2e8dd0dcb0c5af10bf3501281e8064c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
