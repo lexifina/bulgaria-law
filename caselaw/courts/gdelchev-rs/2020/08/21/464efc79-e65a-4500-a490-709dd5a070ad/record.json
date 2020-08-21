@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гоце Делчев",
+  "jurisdiction": "BG",
+  "date": "2020-08-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 342,
+  "case_year": 2020,
+  "judge_rapporteur": "Стефан Илиев Шарланджиев",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=464efc79-e65a-4500-a490-709dd5a070ad",
+  "motives_file": null,
+  "source": "https://gdelchev-rs.justice.bg/bg/6175?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4e65e3a112c5b590bfad85167fb2e5be4760a726bb0a9771bc4dbe6cf292335",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
