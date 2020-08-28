@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-08-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 162,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИАНА ИВАНОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7a9092d9-7931-4ae2-b69d-4c80bdfd4657",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2653f9e5e12a3bdfe2f6877736b4f0ae9393515016b89d29cae7c7c790c1e468",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
