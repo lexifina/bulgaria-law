@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2020-08-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 794,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c0d0202f-7784-456d-a930-e3d218cda5be",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55a7b8246c91fdf90b3ff31cedf6f67a4928f53e23ec5f2bf548d278dfba2def",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
