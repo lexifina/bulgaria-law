@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-08-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5249,
+  "case_year": 2020,
+  "judge_rapporteur": "Зорница Николова Тухчиева Вангелова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=718f4df6-e5c2-4110-83cf-9228f7c2a1e1",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=26.08.2020&to=30.08.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "545ecaab0f5024238bf67eb771bbf3ff844836e9d146847ab2872af527028007",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
