@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2020-09-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 78,
+  "case_year": 2020,
+  "judge_rapporteur": "ТАНЯ ДИМОВА ДАМЯНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=caebcb36-0f4b-4c99-8df8-241e4709236f",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcca643079918028b47751c30d968acd8ecada85d1e11f9e57805f132060da5c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
