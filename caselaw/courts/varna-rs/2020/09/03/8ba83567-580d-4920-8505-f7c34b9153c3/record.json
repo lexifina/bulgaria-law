@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2151,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕНА НИКОЛОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ba83567-580d-4920-8505-f7c34b9153c3",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=25.08.2020&to=04.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a943c7f5a9b1c7a430793b5f69df2daffed360153590742a9163d717f6d1a25e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
