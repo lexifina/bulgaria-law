@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2020-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4048,
+  "case_year": 2019,
+  "judge_rapporteur": "ПЛАМЕН ИВАНОВ ШУМКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=655f229a-9bbc-40f3-b252-e7aadf6f6a02",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "205a46271094930a0a3fbfcd55e9c553c8361c2d6f8f93a8bbaa22678c23d3ed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
