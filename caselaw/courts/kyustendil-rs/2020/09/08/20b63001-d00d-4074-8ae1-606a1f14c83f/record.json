@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-09-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1747,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ АЛЕКСАНДРОВ НИКОЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20b63001-d00d-4074-8ae1-606a1f14c83f",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5eff409a0b22b0ed715aad01facbfd354276270a1729ffeb0f80549c8a516a3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
