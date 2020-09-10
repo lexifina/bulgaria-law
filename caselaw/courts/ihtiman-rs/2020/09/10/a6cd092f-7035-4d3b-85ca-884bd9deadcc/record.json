@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2020-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1256,
+  "case_year": 2018,
+  "judge_rapporteur": "СВЕТОЗАР ЛЮБОМИРОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a6cd092f-7035-4d3b-85ca-884bd9deadcc",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f0d1b28132a24661b5ed6d8061b2b2c6103d652ceccecdef386a6893c6797774",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
