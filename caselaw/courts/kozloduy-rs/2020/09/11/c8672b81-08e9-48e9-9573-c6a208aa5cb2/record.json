@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2020-09-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 210,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ВАСИЛЕВА ПЕТРЕШКОВА-СТАВАРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8672b81-08e9-48e9-9573-c6a208aa5cb2",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b20f77a2fda3aaa132b31d2c5bdffbf64ed6b63bb163e79a3dee47fda45e4565",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
