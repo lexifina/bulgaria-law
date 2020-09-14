@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2020-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 240,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИСТО ВИТКОВ ПЪРВАНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc29400c-592c-4909-a09c-d190a66522bd",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28934b8532c4e4876eca4096df9c2dab6d5071cf3c4f5d00bf83a2a629e05bfb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
