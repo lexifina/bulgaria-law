@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2619,
+  "case_year": 2020,
+  "judge_rapporteur": "АНАТОЛИ ЙОРДАНОВ БОБОКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa3da91e-0c96-4212-8c2d-db6241a47dae",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=01.09.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c1c2ea87d72abb00ba436af80a1414612acd0bae7ec13e6c8ea545c7c88472e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
