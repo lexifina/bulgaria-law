@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2020-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 640,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛ ПЕТРОВ ТАШЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38d78730-d6d8-462d-8b06-f4399ca3cbc2",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=09.08.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "49e6cf5f3f419b90abb4bd4a951c447da1e1857def8e905812daa5d79240caf7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
