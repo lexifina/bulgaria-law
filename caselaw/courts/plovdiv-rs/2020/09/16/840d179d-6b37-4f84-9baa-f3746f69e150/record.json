@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-09-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2605,
+  "case_year": 2019,
+  "judge_rapporteur": "ХРИСТО ГЕОРГИЕВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=840d179d-6b37-4f84-9baa-f3746f69e150",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=15.09.2020&to=19.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "98e4ae6e13cc3511260d596e812714510ed5635fd1e8f721df2a893c5ab8dbef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
