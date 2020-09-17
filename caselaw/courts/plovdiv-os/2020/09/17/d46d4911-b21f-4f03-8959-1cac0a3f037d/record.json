@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1601,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН АЛЕКСАНДРОВ АНАСТАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d46d4911-b21f-4f03-8959-1cac0a3f037d",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=01.09.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41c389fbb75a2e1bfd8b81adc7777017daaa74dc8124401f1e591ba70f6bf505",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
