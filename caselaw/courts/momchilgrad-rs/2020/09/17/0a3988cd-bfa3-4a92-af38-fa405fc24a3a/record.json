@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2020-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 353,
+  "case_year": 2020,
+  "judge_rapporteur": "Сунай Юсеин Осман",
+  "act_kind": "Заповед",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0a3988cd-bfa3-4a92-af38-fa405fc24a3a",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "10138d100b7f92f6642429ba91e4cb422266cb539c97d15c7916978432f4160c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
