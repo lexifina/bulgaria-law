@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 400,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕСЕЛИН СТЕФАНОВ МОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc0762c6-4a3f-4b22-9a6b-3969fe29ba51",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=09.08.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b6cd9781bf60b81d09e7e8f1110e8c5e75c3c4f6cad92e7aaf096b1d005252d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
