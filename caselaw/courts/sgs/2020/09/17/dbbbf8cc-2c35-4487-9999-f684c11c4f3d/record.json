@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9736,
+  "case_year": 2020,
+  "judge_rapporteur": "Вергиния Христова Мичева Русева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dbbbf8cc-2c35-4487-9999-f684c11c4f3d",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=13.09.2020&to=17.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d32fad4cf08fdaf1b4abc6653d159b47eefca68c260b324bbcc8fa7436bf1d5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
