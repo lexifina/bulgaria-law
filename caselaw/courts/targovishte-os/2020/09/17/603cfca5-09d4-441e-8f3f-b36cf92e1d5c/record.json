@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2020-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 142,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕН ИВАНОВ СТОЙЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=603cfca5-09d4-441e-8f3f-b36cf92e1d5c",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e41b839a5826134a9714a08ebae05c63a2bd66902a2f66c286caa8066c6c7c0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
