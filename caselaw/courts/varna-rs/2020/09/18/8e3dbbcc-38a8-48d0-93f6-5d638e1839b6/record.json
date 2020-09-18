@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11811,
+  "case_year": 2019,
+  "judge_rapporteur": "ДЕНИЦА ДОБРЕВА ДОБРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8e3dbbcc-38a8-48d0-93f6-5d638e1839b6",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=16.09.2020&to=26.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9f15d0f600b46bd2d1644adc142bd5d66599fd844b774d54913fa5cf255b582",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
