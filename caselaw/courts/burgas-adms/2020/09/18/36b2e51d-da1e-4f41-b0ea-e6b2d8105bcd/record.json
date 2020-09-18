@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно частно административно дело",
+  "case_number": 459,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИНА ХРИСТОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36b2e51d-da1e-4f41-b0ea-e6b2d8105bcd",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "93310455ab6fff89bda18b02f0c9824628053424d265ae369aa57e55a4eb7b53",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
