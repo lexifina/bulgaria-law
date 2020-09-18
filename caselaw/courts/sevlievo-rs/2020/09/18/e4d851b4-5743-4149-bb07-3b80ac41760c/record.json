@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Севлиево",
+  "jurisdiction": "BG",
+  "date": "2020-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 93,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСВЕТА ДОБРЕВА СТАНИМИРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d851b4-5743-4149-bb07-3b80ac41760c",
+  "motives_file": null,
+  "source": "https://sevlievo-rs.justice.bg/bg/10935?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42a43b98820fa9b46add7259c007fff1bc10ef21120f1bfb4861db5081ee0f66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
