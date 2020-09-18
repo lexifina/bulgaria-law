@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2020-09-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 373,
+  "case_year": 2020,
+  "judge_rapporteur": "Ива Тодорова Гогова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4d301db-36f3-4c66-b596-3350b8bc613d",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3358912ab197ad1417243c83317dd1ea7dca83050b38be92e82676e3d7882dc6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
