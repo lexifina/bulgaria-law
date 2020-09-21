@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2020-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 374,
+  "case_year": 2019,
+  "judge_rapporteur": "СТЕФАН МАРКОВ СТОЙКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=014a0927-92c6-4e4f-b622-a4d1ab93cebe",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "036f775bc89c708236357c1a6a16b1b7f492359065114b724fe400f366763fbd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
