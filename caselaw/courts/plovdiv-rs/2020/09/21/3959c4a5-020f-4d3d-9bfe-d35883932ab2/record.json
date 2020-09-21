@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-09-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2220,
+  "case_year": 2020,
+  "judge_rapporteur": "МИЛЕНА АТАНАСОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3959c4a5-020f-4d3d-9bfe-d35883932ab2",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=20.09.2020&to=24.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1fec5eb6928574270dcfbb2d31747c36bdcf829acbbf96797e1396630137a268",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
