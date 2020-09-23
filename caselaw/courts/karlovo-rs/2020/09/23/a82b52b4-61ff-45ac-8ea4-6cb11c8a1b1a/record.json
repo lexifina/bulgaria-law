@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2020-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 408,
+  "case_year": 2020,
+  "judge_rapporteur": "АННА ПЕТКОВА ДОНКОВА КУТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a82b52b4-61ff-45ac-8ea4-6cb11c8a1b1a",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=09.08.2020&to=23.09.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12e0c5b005d058da18fa3dc4d6157c513ffa2e8cce35e8fe2d4ffff5b3c6f253",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
