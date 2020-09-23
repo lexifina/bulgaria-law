@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2020-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 503,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЛАМЕН МАРИНОВ ДОЙКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d88c2593-b608-4c18-93ae-81809d3d7407",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a76cb8e4ae6dfbab82c2cb6823843007000454137f80aebc72202291064bed1d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
