@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2103,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ДИМИТРОВА ИВАНОВА ДАСКАЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=650fb770-6ee0-48e3-8cbf-e63f53783659",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=24.09.2020&to=16.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3b212eb51c18100084b2aa620c7de2c3e1283f5d1614d15a26624701cf42d7bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
