@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2020-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 189,
+  "case_year": 2020,
+  "judge_rapporteur": "Христина Вълчанова Димитрова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71781527-a459-43db-ae8d-f47c80aaec7b",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7dab49d6433deb63772a5a4b7f4c54f88eb332a99f05f0e055cfc5a65c2b4bd7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
