@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 379,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ИВАНОВА МИТЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39d84daa-a52f-4964-86a1-d1b8383175ef",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=24.09.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d16240f614481f0b97d4533479b1d3b9d5a932a735c3eb015d514933e4841ffe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
