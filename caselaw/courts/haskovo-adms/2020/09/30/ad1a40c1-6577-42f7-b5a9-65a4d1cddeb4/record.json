@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2020-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 467,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАСИЛКА ЖЕЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ad1a40c1-6577-42f7-b5a9-65a4d1cddeb4",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b70e89a35c3fc7e94b1cad66903eac1b4fdd4beef8612705e31999ba080a1143",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
