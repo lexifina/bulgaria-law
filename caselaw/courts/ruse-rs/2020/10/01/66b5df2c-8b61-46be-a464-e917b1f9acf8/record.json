@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1211,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЕНА ПЕТКОВА ДЯКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66b5df2c-8b61-46be-a464-e917b1f9acf8",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=24.09.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "68af1b65f0560a84e623d2dbf41fdc5d281a55e46707407c1b1e1c3cf3a98d90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
