@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2337,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА ДИНКОВА ДИНКОВА ЩЕРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6a2db8d9-e656-43f3-a10a-0671d83923ef",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=24.09.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3b54ab5492b614e1cb629ea3b0453c478765d6161cddb9b407683d524c798a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
