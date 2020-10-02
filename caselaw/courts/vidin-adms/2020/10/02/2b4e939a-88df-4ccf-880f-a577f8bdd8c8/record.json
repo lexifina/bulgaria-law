@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-10-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 130,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕЛИ СТЕФАНОВА ДОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2b4e939a-88df-4ccf-880f-a577f8bdd8c8",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b852350ce700627ca74259e0be2485b45dd22301bb53eaac7281f2a29af5fd3d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
