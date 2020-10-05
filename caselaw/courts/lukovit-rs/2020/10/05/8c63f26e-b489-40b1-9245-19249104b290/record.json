@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2020-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 246,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕНЦИСЛАВ СТЕФАНОВ ВЪЛЧЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c63f26e-b489-40b1-9245-19249104b290",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d27955ff76c8162aa1848923c6bdcb025a7fd60ba783b61852baa7a8c10425d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
