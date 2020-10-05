@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2020-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 502,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР ТОДОРОВ МАРИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2f7cd33a-b373-43ce-a971-f8042639e078",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a76cb8e4ae6dfbab82c2cb6823843007000454137f80aebc72202291064bed1d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
