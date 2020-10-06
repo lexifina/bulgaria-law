@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-10-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2292,
+  "case_year": 2019,
+  "judge_rapporteur": "МАРИЯ ГЕОРГИЕВА БОЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8cbe531-5e77-4e1a-ab24-73e4655aac81",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.10.2020&to=07.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c33d539cb8d6c6860f08d83155a056a0630c6403c07a3656e5e6ec97b1361890",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
