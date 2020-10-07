@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2020-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 201,
+  "case_year": 2017,
+  "judge_rapporteur": "РАДИНА ВАСИЛЕВА ХАДЖИКИРЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e85329f3-4b44-49ce-adda-03e6b31d7e37",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bccb149b86ee871af0202aac5e2662c77151918f539dc08ce68f75320c1a0f26",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
