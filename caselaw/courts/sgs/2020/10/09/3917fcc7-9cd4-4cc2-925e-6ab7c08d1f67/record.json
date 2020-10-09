@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 44,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН ДИМИТРОВ КОЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3917fcc7-9cd4-4cc2-925e-6ab7c08d1f67",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.10.2020&to=12.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f24c41e713e1478678b1e161260e8e5d9efce30a78033f0db31de113ec3734da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
