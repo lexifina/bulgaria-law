@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2020-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 137,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАНКО ДИМИТРОВ АНГЕЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f4079fb-f076-4bbd-bfe6-15518b14bdea",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2c143155482a39ad2021f80917903beb1b09a9e0459dcdf69419e4e90f86c477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
