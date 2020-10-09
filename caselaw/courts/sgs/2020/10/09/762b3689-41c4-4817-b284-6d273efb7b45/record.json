@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-10-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2837,
+  "case_year": 2020,
+  "judge_rapporteur": "ТОНИ ПЕТКОВ ГЕТОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=762b3689-41c4-4817-b284-6d273efb7b45",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.10.2020&to=12.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f24c41e713e1478678b1e161260e8e5d9efce30a78033f0db31de113ec3734da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
