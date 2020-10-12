@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чепеларе",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 136,
+  "case_year": 2020,
+  "judge_rapporteur": "Славка Иванова Кабасанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6548842d-8ddc-45e8-bbf8-2b6b63bbd050",
+  "motives_file": null,
+  "source": "https://chepelare-rs.justice.bg/bg/12195?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89ef2289b4b84dc0b3ee15a127cbe479654792a034a4f68113942545628ca26f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
