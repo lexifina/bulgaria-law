@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 516,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙОХАН МИРОСЛАВОВ ДЖЕНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=100a1dd3-fea0-4bad-b64a-4e4abef44a20",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28934b8532c4e4876eca4096df9c2dab6d5071cf3c4f5d00bf83a2a629e05bfb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
