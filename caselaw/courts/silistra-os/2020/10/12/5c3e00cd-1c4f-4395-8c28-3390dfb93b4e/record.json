@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 328,
+  "case_year": 2020,
+  "judge_rapporteur": "Пламен Неделчев Димитров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c3e00cd-1c4f-4395-8c28-3390dfb93b4e",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "48521f6e9cf0fa61059f105930a7276665e11dc9f32e05abc581bb1ac4c16268",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
