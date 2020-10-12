@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 668,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСТИНА ТАШЕВА ГЕРГИЧАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31e2e3d5-86f0-426c-a755-d546ca04738c",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=24.09.2020&to=16.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbf41fe67be2fccc22308a6df918429e12438b50df5979725bfab7110bfb771d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
