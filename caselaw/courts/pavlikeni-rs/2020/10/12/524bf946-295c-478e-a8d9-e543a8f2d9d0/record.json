@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 322,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕВЕЛИНА ПЕТКОВА КАРАГЕНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=524bf946-295c-478e-a8d9-e543a8f2d9d0",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd9f30cf596262ed2e178231faa51b33f3d6edd3eb7f0592d5e0df7b549d24fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
