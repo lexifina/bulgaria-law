@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10227,
+  "case_year": 2019,
+  "judge_rapporteur": "АЛБЕНА МАРЧЕВА БОТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=573d4541-f1b1-4212-bdd2-167f8402185b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.10.2020&to=12.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f24c41e713e1478678b1e161260e8e5d9efce30a78033f0db31de113ec3734da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
