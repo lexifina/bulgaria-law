@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 399,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ИЛИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60bbb54a-8a86-4860-8db8-1738cfc80cd4",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=24.09.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e54af5884f6fc2f8c66cb69d5b5ca4e211da3513cb2414d3644dd27b5574a2b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
