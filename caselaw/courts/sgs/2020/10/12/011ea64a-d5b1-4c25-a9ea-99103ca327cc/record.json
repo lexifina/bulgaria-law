@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9732,
+  "case_year": 2020,
+  "judge_rapporteur": "Невена Борисова Чеуз",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=011ea64a-d5b1-4c25-a9ea-99103ca327cc",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.10.2020&to=12.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f24c41e713e1478678b1e161260e8e5d9efce30a78033f0db31de113ec3734da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
