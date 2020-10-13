@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2020-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4459,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАЙЛО ЮЛИЯНОВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a07a9730-218f-4832-a5ff-3e8f60afec93",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=24.09.2020&to=16.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "14bda96c917241f195d8f71cbec4ddf4d54844ad4f1992229815653c5adb0136",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
