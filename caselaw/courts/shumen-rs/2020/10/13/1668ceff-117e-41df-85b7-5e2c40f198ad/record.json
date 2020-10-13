@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2020-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1770,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛИЯН КИРИЛОВ АНГЕЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1668ceff-117e-41df-85b7-5e2c40f198ad",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4bc4cbf6ff243cf165522c1f4245b3143f641bf82597cff9fd58d2a15ecf20d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
