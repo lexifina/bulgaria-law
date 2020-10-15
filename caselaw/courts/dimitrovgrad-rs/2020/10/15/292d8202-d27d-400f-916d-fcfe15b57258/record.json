@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2020-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 504,
+  "case_year": 2020,
+  "judge_rapporteur": "ОГНЯН ХРИСТОВ ГЪЛЪБОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=292d8202-d27d-400f-916d-fcfe15b57258",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1241ca009a1f1d6bd1ca8ddca88f0f2289e0956ef456f85957c6ca02b0cb4ac8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
