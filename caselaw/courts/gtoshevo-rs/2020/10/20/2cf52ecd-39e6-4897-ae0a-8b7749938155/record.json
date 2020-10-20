@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2020-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 283,
+  "case_year": 2020,
+  "judge_rapporteur": "РОСЕН МИНКОВ СТОЯНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2cf52ecd-39e6-4897-ae0a-8b7749938155",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "121aed18e3bd382550d07d512c0cfdf94edccfa24c3ff9b1c2f1c7da8d76df08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
