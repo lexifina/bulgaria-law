@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11833,
+  "case_year": 2020,
+  "judge_rapporteur": "Диана Илиева Костадинова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3683bac8-ea5f-480a-90f3-c1da7ed8e042",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=20.10.2020&to=24.10.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64b47e982cbcd147e9e008955c6cacc63b5a0cf63d0f9ff25001b613782e68d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
