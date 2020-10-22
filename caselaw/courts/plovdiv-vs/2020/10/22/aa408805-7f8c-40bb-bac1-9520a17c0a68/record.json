@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 113,
+  "case_year": 2020,
+  "judge_rapporteur": "АСЕН НАЙДЕНОВ ШОПОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa408805-7f8c-40bb-bac1-9520a17c0a68",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6008680e5d1b0779bc2b03bedf934118834465443e8e2ea3d1a1e39d481a16b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
