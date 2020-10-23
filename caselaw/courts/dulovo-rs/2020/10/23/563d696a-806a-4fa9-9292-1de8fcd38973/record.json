@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2020-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 485,
+  "case_year": 2020,
+  "judge_rapporteur": "Николай Костадинов Кънчев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=563d696a-806a-4fa9-9292-1de8fcd38973",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fdb25bdea68046b5759ba4bc92ff995c9829b7301db2607d8ed2716c3e99aebe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
