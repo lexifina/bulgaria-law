@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2020-10-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 216,
+  "case_year": 2020,
+  "judge_rapporteur": "Веселина Атанасова Кашикова Иванова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=54395901-340a-4705-bd71-3f355c1d59b3",
+  "motives_file": null,
+  "source": "https://kardzhali-os.justice.bg/bg/3445?from=11.08.2020&to=10.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29270aafcee964d03364b440daaf447c19bd21adb5c81e70ba9d59ad083ee15e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
