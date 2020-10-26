@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2020-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 91,
+  "case_year": 2020,
+  "judge_rapporteur": "Марин Митков Чорбаджийски",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec4098bb-ec34-4e5b-b576-5a188375d033",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "126fc9849e3aae0e97b0305d6c84f343fe7a74ad5e45bc444e6e562da5338150",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
