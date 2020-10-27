@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2020-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1956,
+  "case_year": 2020,
+  "judge_rapporteur": "АНЕЛИЯ ЦЕКОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5910e72a-fcef-4081-bc8a-3a4a76b4415a",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "721466d57569b9a91857dcb83d363fcd3f9f863c208dc431d71e3f927c54d52a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
