@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елхово",
+  "jurisdiction": "BG",
+  "date": "2020-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 288,
+  "case_year": 2020,
+  "judge_rapporteur": "Яна Вълкова Ангелова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39d62327-02fd-449b-8d9a-6b324bf0ee39",
+  "motives_file": null,
+  "source": "https://elhovo-rs.justice.bg/bg/6945?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "63b9e77fdee9f0f07b767eec938162941f9b4a0e657fca98d471633792ba948a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
