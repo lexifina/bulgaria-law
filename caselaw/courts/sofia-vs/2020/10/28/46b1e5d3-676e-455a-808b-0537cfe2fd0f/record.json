@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2020-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 151,
+  "case_year": 2020,
+  "judge_rapporteur": "полк.МАДЛЕН ГЕОРГИЕВА ДИМИТРОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46b1e5d3-676e-455a-808b-0537cfe2fd0f",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2c143155482a39ad2021f80917903beb1b09a9e0459dcdf69419e4e90f86c477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
