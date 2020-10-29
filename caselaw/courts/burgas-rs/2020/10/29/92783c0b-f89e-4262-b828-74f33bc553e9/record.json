@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-10-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4184,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРТИН РАЧКОВ БАЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92783c0b-f89e-4262-b828-74f33bc553e9",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=17.10.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "24333973d18bcfc228d51a2755b0339abe373bc825419ab1a881544456505965",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
