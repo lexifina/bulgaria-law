@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2020-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 559,
+  "case_year": 2020,
+  "judge_rapporteur": "КОНСТАНТИН ПЕТРОВ КОСЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5fe84cc-70ce-4ca6-b7e9-fa98db3ee115",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42ffda949a217b6f0f32877c7e662eec2a612993ba5ca3cfc7036de0fcba4c09",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
