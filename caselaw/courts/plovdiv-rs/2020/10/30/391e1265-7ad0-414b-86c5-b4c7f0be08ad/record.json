@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-10-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4193,
+  "case_year": 2019,
+  "judge_rapporteur": "НАДЕЖДА ГЕОРГИЕВА СЛАВЧЕВА-АНДОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=391e1265-7ad0-414b-86c5-b4c7f0be08ad",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=30.10.2020&to=03.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f904659242be2aeaf8a328656b883fcf225048abd0a62c6bd812ab683b969c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
