@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2020-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 673,
+  "case_year": 2020,
+  "judge_rapporteur": "Стефка Томова Пашова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38fe7a0f-3c98-427d-b86b-16a730d50c1c",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50ae00e18235116fc1d1e9f21f07e025d692ad2bdd6454e1491e2bdda0244b85",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
