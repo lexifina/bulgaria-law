@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 149,
+  "case_year": 2020,
+  "judge_rapporteur": "Ирена Колева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5ef556b1-ad79-4ba3-bb1a-92894e79e665",
+  "motives_file": null,
+  "source": "https://vtarnovo-os.justice.bg/bg/3095?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee5adf1a5cdc43bede0da483c488f8a9d608e376ef0aead54d954cdbcce2e463",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
