@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 2214,
+  "case_year": 2020,
+  "judge_rapporteur": "ЗДРАВКА ГЕОРГИЕВА ДИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b04b547-ad2f-4ca6-a9da-fb4a1ecb27fd",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=24.09.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6dfe05e74e8d0a656b266978ab770c75809972e91e52a3930d57d1b575dac7b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
