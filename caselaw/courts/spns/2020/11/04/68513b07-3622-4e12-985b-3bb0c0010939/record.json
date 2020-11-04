@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд - СНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 3157,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛИНА ГЕРГИНОВА ГЕРГИНСКА-ЙОРДЖЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68513b07-3622-4e12-985b-3bb0c0010939",
+  "motives_file": null,
+  "source": "https://spns.justice.bg/bg/12755?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "954d571e20b08693e9ea872bec0b318fbec5d33eaa5a5168c4d17e3edc010c7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
