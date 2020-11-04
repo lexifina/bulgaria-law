@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2020-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 3524,
+  "case_year": 2020,
+  "judge_rapporteur": "Атанас Кеманов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a662c87-2685-4c20-b950-8cda7d1e55cc",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "691dfe808ac5116462356e31c3ba25d310d7622b97420c041ec3b2e8d2fa2986",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
