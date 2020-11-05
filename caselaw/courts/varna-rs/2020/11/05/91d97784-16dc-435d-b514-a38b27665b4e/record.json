@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10186,
+  "case_year": 2020,
+  "judge_rapporteur": "Филип Стоянов Радинов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91d97784-16dc-435d-b514-a38b27665b4e",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=30.10.2020&to=09.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a83fd92804430120aec26200be28ca2ab1fd95185810f9aa4ad390da4ef36782",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
