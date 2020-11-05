@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2020-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 239,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙОХАН МИРОСЛАВОВ ДЖЕНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f7811885-d382-48d2-8a3c-4aef4d9c275d",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28934b8532c4e4876eca4096df9c2dab6d5071cf3c4f5d00bf83a2a629e05bfb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
