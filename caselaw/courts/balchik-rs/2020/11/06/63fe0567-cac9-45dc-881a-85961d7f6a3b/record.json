@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2020-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 648,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВЕЛИНА ДИМИТРОВА ВЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63fe0567-cac9-45dc-881a-85961d7f6a3b",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86a1464f9922e7bd5433562a2941c933871138ae23ec6a3be08857dc6bfcccc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
