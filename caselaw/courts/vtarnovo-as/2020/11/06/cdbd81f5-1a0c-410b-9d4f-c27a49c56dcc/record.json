@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2020-11-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 192,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЯ ПЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdbd81f5-1a0c-410b-9d4f-c27a49c56dcc",
+  "motives_file": null,
+  "source": "https://vtarnovo-as.justice.bg/bg/2395?from=09.08.2020&to=08.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "103f3df90c2dc0274a6c25f6afc63d2123b00087904c9656f68a20243d1f89fe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
