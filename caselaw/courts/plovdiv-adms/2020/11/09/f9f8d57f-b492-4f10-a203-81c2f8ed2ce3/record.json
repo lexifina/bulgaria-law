@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-11-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно частно административно наказателно дело",
+  "case_number": 2856,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ИЛИЕВА ЗЛАТАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f9f8d57f-b492-4f10-a203-81c2f8ed2ce3",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=09.11.2020&to=24.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c58ce5f87589725bd3f4a78e78cd260c79fcabe1abab9d855cad105e94ad387a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
