@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2445,
+  "case_year": 2018,
+  "judge_rapporteur": "ВЛАДИМИР ГРИГОРОВ ВЪЛКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2261c2df-39dd-4186-ab3d-f4fa1b55a7e9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.11.2020&to=11.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9852b5efeebdf122b44499f2d9bd9dcbc8cac7287e734f312047c0d27a39ffe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
