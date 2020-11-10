@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мадан",
+  "jurisdiction": "BG",
+  "date": "2020-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 244,
+  "case_year": 2020,
+  "judge_rapporteur": "Володя Янков Янков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dd14efb4-0c16-4ce3-8774-0ea41999b189",
+  "motives_file": null,
+  "source": "https://madan-rs.justice.bg/bg/8555?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "727797913e1ffa9aa1a592559d23bc99df4fb851e16f5845f08b6cd319319523",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
