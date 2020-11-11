@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2020-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 680,
+  "case_year": 2020,
+  "judge_rapporteur": "ПАЛМИРА ДИМИТРОВА АТАНАСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b6b904d-7dd1-495a-bfb0-4df286180b17",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba47b214f3194a9976706d121a4e80c408d3e56380af87964ac1b69f0040042d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
