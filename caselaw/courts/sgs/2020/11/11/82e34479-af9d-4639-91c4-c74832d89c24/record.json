@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4878,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕРГИНИЯ ХРИСТОВА МИЧЕВА РУСЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82e34479-af9d-4639-91c4-c74832d89c24",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.11.2020&to=11.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9852b5efeebdf122b44499f2d9bd9dcbc8cac7287e734f312047c0d27a39ffe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
