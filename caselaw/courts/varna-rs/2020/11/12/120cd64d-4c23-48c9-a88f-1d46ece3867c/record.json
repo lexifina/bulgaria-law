@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 19695,
+  "case_year": 2019,
+  "judge_rapporteur": "ГАЛЯ ДИМИТРОВА АЛЕКСИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=120cd64d-4c23-48c9-a88f-1d46ece3867c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.11.2020&to=20.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "604c2d4ded45e988b9da9df33e9d4ef5116d8b9a87d48ca0b86cbe7258180887",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
