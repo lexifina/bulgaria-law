@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2020-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 339,
+  "case_year": 2020,
+  "judge_rapporteur": "АНЕЛИЯ АНГЕЛОВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3220017d-a34d-4c5f-8b71-82256357638a",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6fc230603fe49e5eec10536c729b6ea1ec897fb96a500f4d729640bdf726e312",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
