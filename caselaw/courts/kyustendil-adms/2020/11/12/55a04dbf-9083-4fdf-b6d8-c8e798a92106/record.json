@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 224,
+  "case_year": 2020,
+  "judge_rapporteur": "АСЯ ТОДОРОВА СТОИМЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55a04dbf-9083-4fdf-b6d8-c8e798a92106",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f743c5f2b57f99e1b48edc09d188b49f7ed2999934a9514396e8fd45f3521a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
