@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 387,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИАНА ВЪЛЕВА ДЖАМБАЗОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a252ebf8-c9a3-4432-ba17-02f0c85b0e46",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8aa6478db7bf983ba49b1ec4e80f2c2cd2d85713f251c908b9adb94ebba15dc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
