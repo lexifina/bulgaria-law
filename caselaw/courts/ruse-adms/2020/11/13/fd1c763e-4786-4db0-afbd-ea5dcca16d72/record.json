@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-11-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 463,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙЪЛДЪЗ САБРИЕВА АГУШ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fd1c763e-4786-4db0-afbd-ea5dcca16d72",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "604b9776e09c20cc475d76e86e21c5b42ad494adbf0caaebd62552084a3379a5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
