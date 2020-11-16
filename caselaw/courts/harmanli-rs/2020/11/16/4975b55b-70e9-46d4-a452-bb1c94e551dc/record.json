@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Харманли",
+  "jurisdiction": "BG",
+  "date": "2020-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 498,
+  "case_year": 2020,
+  "judge_rapporteur": "МИНКА ИВАНОВА КИТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4975b55b-70e9-46d4-a452-bb1c94e551dc",
+  "motives_file": null,
+  "source": "https://harmanli-rs.justice.bg/bg/11985?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6713e74a7c41d52dc4031f0fd899ea73a4d4646747c90f5b99f896aa10590ef5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
