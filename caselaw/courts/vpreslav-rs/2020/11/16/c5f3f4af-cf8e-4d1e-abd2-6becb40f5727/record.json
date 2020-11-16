@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2020-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 17,
+  "case_year": 2017,
+  "judge_rapporteur": "ТЕОДОРА РУМЕНОВА ЙОРДАНОВА-МОМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5f3f4af-cf8e-4d1e-abd2-6becb40f5727",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "38064342e59563e0eedfee5788e69a6b6ded26f42a2d6f1d7fb916a14a647227",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
