@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2020-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 690,
+  "case_year": 2020,
+  "judge_rapporteur": "ДАНЧО ЙОРДАНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2913c39c-ad34-4444-87d3-696a487b0711",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=09.11.2020&to=24.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c54b92b9b500f2e68b475b97ff9a80466e1d51b78a8caa91403b1bdba35894d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
