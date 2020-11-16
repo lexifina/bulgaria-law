@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2020-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 95,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИН ДИМИТРОВ МАРИНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab8d45ff-d4e8-4147-a543-9d70bb9ba754",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b65adc25997f762779945c89903deb6f96977ccd8b73d5e1a2a667bd4f7904d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
