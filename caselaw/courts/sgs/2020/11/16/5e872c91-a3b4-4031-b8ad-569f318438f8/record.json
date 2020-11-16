@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-11-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 4063,
+  "case_year": 2020,
+  "judge_rapporteur": "СТЕФАН ЕМИЛОВ МИЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e872c91-a3b4-4031-b8ad-569f318438f8",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.11.2020&to=16.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6355df7038c5f279196544b5a0031b67422e2efd2244789c569082fb981d92e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
