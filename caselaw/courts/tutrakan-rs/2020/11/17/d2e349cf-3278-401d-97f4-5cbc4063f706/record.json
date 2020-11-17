@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2020-11-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 187,
+  "case_year": 2020,
+  "judge_rapporteur": "СПАС МАРИНОВ СТЕФАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2e349cf-3278-401d-97f4-5cbc4063f706",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "95b7fb591dc0c2d23f0982c2d4997cf6d39826b58832f2a072b7b22e750b56c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
