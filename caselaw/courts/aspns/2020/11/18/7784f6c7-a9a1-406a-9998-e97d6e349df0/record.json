@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2020-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 236,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЕТА НЕДЕЛЧЕВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7784f6c7-a9a1-406a-9998-e97d6e349df0",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "491841a404902c5a4aafdd095c7f5442adafb93d018acff0e35bbe8c931ec62c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
