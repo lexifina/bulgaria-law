@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2020-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 91,
+  "case_year": 2020,
+  "judge_rapporteur": "Милена Иванова Семерджиева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=804393bc-08ca-4e5e-8f5e-4feeb3050fc1",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b814f3f1b2db9f660429a04cf7e6d95e10ab6b5847521e9df394f4ebbe877461",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
