@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6055,
+  "case_year": 2020,
+  "judge_rapporteur": "СИЛВИЯ ВЛАДИМИРОВА ПЕТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9dae1efb-748d-40d2-9d8b-95694a4094fd",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=09.11.2020&to=01.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c17083c32779630fbffc39bd668e7b990290020a009c1502e38b814534c019ca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
