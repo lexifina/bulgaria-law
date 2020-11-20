@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2020-11-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 691,
+  "case_year": 2020,
+  "judge_rapporteur": "АНИ БОРИСОВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1a73408-ddb5-4c67-91f9-90fec2df4701",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03d3cd572c20fd363a8eeba2f1923aed10b8d34eb95ed8cb0850ea7cddc35e52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
