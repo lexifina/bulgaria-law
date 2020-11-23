@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2020-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 416,
+  "case_year": 2020,
+  "judge_rapporteur": "Татяна Христова Костадинова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=23002433-db0e-4f05-ab4a-a3bc998d2e36",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "286f420f6751f7fbd6e393111e1b4fbac279bf25f69602574c3101adb92a7538",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
