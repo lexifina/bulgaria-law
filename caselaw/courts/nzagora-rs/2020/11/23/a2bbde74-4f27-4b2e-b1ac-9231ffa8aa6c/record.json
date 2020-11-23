@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2020-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 438,
+  "case_year": 2020,
+  "judge_rapporteur": "РОСИЦА СТОЯНОВА НЕНОВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2bbde74-4f27-4b2e-b1ac-9231ffa8aa6c",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "840cc3e13a505368b5d8dc289b2dff76813c3c552e2075ba845a3bbba5902759",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
