@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 6463,
+  "case_year": 2020,
+  "decision_type": "Решение",
+  "decision_number": "14504",
+  "decision_date": "2020-11-24",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1206599%26code%3Dvas%26guid%3D2015456328",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1206599&code=vas&guid=2015456328",
+  "source_text_sha256": "5165fb5638d454c083bc3237f7f8df24b1686266db510c57c2fee06d6b5d07a1",
+  "source_images": 0
+}
