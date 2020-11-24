@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2020-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 188,
+  "case_year": 2020,
+  "judge_rapporteur": "ЙОВКА ЖЕЛЯЗКОВА БЪЧВАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5572535-2678-4f02-8e24-5a803ebe3281",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4468e2d6b260c3e0c9245416a4121b5836a649fdeb6978e3913e7d66fc29cfa3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
