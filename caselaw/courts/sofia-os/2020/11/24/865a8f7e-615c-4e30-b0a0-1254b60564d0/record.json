@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2020-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 218,
+  "case_year": 2019,
+  "judge_rapporteur": "ЛИЛИЯ МАРКОВА РУНЕВСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=865a8f7e-615c-4e30-b0a0-1254b60564d0",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "233533bb518741e4d91170c4b3070cbf0ed7fe8b5081ffea3a57b5cfa168e19c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
