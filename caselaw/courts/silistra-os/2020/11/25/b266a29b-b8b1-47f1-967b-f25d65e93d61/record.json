@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2020-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 63,
+  "case_year": 2020,
+  "judge_rapporteur": "Пламен Неделчев Димитров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b266a29b-b8b1-47f1-967b-f25d65e93d61",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "608844bd2a0ce79d5fe2b33ad0e4cf9815cdfd2b7ee574a0d1ed5f9626b146b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
