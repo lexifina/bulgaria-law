@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 309,
+  "case_year": 2020,
+  "judge_rapporteur": "АНЕТА МИЛЧЕВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7d10e5f-f20d-454c-9dcf-e87e5cff0432",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d96116508efcd6c5da5f5e6a02bf349ea3745d811b449d1cc61d0d373c2db278",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
