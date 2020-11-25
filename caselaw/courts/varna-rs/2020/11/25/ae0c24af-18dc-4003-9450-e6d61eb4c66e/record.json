@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4223,
+  "case_year": 2020,
+  "judge_rapporteur": "АЛБЕНА СЛАВОВА НЕДЕЛЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ae0c24af-18dc-4003-9450-e6d61eb4c66e",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=21.11.2020&to=01.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19c2f703ad5ad2565e24c8aca43c13e40a6f7fbf93a3874da2f526890ce8cdbb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
