@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 12480,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВЕЛИНА МАРИНОВА СИМЕОНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7316a1ae-dfc4-4d16-9ce0-16e359d7e0ea",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.11.2020&to=26.11.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7b8ce6e2cc66c420070f9dae63e5ca38840c902bd2b05f3cf5337b7c9174ee32",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
