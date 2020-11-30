@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2020-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1029,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСЛАВА МАЖДРАКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec5667e2-4a6f-43b8-9c0b-f825277a14c2",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd39709c758f25e2a99e6b7ac5d223653848cb022a8f57d0f349794d52afd39f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
