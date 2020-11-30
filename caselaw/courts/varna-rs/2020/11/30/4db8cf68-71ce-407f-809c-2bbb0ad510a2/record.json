@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2020-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3616,
+  "case_year": 2020,
+  "judge_rapporteur": "КРИСТИАНА СТОЯНОВА КРЪСТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4db8cf68-71ce-407f-809c-2bbb0ad510a2",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=21.11.2020&to=01.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19c2f703ad5ad2565e24c8aca43c13e40a6f7fbf93a3874da2f526890ce8cdbb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
