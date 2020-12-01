@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-12-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4311,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИМИТРИНКА ИВАНОВА КОСТАДИНОВА- МЛАДЕНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c92c67f7-80a4-4e0f-ba88-aecc3767df79",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.11.2020&to=01.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90d60c841fcab7b8469e532e6ef5227c79a469c6b4d88b17e48476551d4d371f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
