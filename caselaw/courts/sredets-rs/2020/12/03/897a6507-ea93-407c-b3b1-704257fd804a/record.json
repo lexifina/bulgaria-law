@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2020-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 186,
+  "case_year": 2020,
+  "judge_rapporteur": "СИРАНУШ САХАК АРТИНЯН",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=897a6507-ea93-407c-b3b1-704257fd804a",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9e001ad4d97dc7364e3f71d29907d64c0305c8146639498804a0044aeb843c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
