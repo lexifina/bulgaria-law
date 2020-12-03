@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2020-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 420,
+  "case_year": 2020,
+  "judge_rapporteur": "АТАНАС ТОДОРОВ ДИНКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36c37496-119d-4727-a036-ed6bc0649aa3",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5feb05356d8b390b6f0472a318fa1884573acff0146570ce8834addf125e3d92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
