@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2020-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 38,
+  "case_year": 2020,
+  "judge_rapporteur": "РАЛИЦА АНГЕЛОВА МАРИНСКА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f65bdc8a-8a87-4a50-bc5a-15f2198efe83",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "808bb8841ae397c3a8cdf90ad71ec2216919786fa901d5da5317232856b2af68",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
