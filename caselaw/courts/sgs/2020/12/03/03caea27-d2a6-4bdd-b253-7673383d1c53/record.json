@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 15486,
+  "case_year": 2019,
+  "judge_rapporteur": "СТАНИМИРА СТЕФАНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03caea27-d2a6-4bdd-b253-7673383d1c53",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=02.12.2020&to=06.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "53eba11b067a6d73ac211d52baeb518893ee2058a07cd8ade16d510425c411de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
