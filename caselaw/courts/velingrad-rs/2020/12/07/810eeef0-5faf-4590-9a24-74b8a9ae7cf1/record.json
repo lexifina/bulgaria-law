@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2020-12-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1158,
+  "case_year": 2019,
+  "judge_rapporteur": "ЛИЛИЯ ГЕОРГИЕВА ТЕРЗИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=810eeef0-5faf-4590-9a24-74b8a9ae7cf1",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45175fc5e066ddb2f61c348809524ce8c2fd10e17a631d9adcd160237c008c80",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
