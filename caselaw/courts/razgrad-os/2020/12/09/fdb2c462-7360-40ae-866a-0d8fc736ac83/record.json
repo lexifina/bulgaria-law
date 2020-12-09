@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2020-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 260,
+  "case_year": 2020,
+  "judge_rapporteur": "Ирина Миткова Ганева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fdb2c462-7360-40ae-866a-0d8fc736ac83",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c2abba3c4dfa65b1bbd7d3d03b20478f6c0c1ffe91d51f191e0f1bb5599354e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
