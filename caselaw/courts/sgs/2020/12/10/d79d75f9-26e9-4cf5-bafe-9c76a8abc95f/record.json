@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2020-12-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10481,
+  "case_year": 2018,
+  "judge_rapporteur": "ГАЛЯ ГОРАНОВА ВЪЛКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d79d75f9-26e9-4cf5-bafe-9c76a8abc95f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.12.2020&to=11.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "673036517f0bba59a2ea70435c3ef7e122adca6143e12ac37fdef9d462179591",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
