@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2020-12-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 372,
+  "case_year": 2020,
+  "judge_rapporteur": "Райна Русева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8ce53e9-e3bf-4c82-b9fa-e516fd04d05c",
+  "motives_file": null,
+  "source": "https://smolyan-rs.justice.bg/bg/11215?from=10.10.2020&to=09.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19270f4ce739ab005c67f2ea25e44025ad700b3567fbb2fc6452df6c0ca05ecc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
