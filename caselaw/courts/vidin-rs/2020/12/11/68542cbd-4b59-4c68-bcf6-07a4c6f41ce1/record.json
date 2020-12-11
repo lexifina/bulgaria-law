@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-12-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3453,
+  "case_year": 2019,
+  "judge_rapporteur": "ДАНИЕЛ НИНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68542cbd-4b59-4c68-bcf6-07a4c6f41ce1",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcec9ae8c77b6aea3d6e1160fe8283b67a5600937cefb7a9ccc725ec1dfe380f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
