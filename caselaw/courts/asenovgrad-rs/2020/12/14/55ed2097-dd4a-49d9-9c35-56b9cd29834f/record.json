@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2020-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 506,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕЛЕНА ЗАХАРИЕВА КАЛПАЧКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55ed2097-dd4a-49d9-9c35-56b9cd29834f",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3db10ff5a75f9191dddba0303211d86641f38907b63488728071a7866a6e0750",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
