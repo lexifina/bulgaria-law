@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 9535,
+  "case_year": 2020,
+  "decision_type": "Решение",
+  "decision_number": "15483",
+  "decision_date": "2020-12-14",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1246595%26code%3Dvas%26guid%3D2019150387",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1246595&code=vas&guid=2019150387",
+  "source_text_sha256": "558c31489c664de80de28466383a34726b53f96486db8d1379ac7b6b39b1e829",
+  "source_images": 0
+}
