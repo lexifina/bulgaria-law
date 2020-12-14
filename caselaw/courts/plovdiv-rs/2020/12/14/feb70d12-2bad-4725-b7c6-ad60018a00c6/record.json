@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2020-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5773,
+  "case_year": 2020,
+  "judge_rapporteur": "НИКОЛАЙ КОЛЕВ СТОЯНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=feb70d12-2bad-4725-b7c6-ad60018a00c6",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=14.12.2020&to=18.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "535fcbb65362d6041e39835eb8fd51f1031b9499107d0b981271850c83a07337",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
