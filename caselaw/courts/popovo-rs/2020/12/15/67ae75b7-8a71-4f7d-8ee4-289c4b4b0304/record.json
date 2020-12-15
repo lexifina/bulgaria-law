@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2020-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 23,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИСИМИР МАКСИМОВ ПРОЙНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=67ae75b7-8a71-4f7d-8ee4-289c4b4b0304",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b4787e05b3370f4ff43df87db8a0d072cf256ef0ecdf244f70b0ca7a85491380",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
