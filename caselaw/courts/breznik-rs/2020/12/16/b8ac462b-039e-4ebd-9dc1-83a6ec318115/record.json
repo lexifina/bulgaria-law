@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Брезник",
+  "jurisdiction": "BG",
+  "date": "2020-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 104,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЕСЕЛИН КИРИЛОВ ХАЙДУШКИ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8ac462b-039e-4ebd-9dc1-83a6ec318115",
+  "motives_file": null,
+  "source": "https://breznik-rs.justice.bg/bg/5265?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ab38f5752337d0ec9fdf9de01fc11f140a4c96ff03056dbb079149017dfa742",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
