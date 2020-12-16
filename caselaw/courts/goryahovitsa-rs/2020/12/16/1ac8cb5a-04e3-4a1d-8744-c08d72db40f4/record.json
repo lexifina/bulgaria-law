@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2020-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 799,
+  "case_year": 2020,
+  "judge_rapporteur": "Милена Асенова Карагьозова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1ac8cb5a-04e3-4a1d-8744-c08d72db40f4",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc274e6046d648f02e0099801105db7e6d51dac420934b40118d1435f2fdd9f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
