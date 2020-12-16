@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2020-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 192,
+  "case_year": 2020,
+  "judge_rapporteur": "Донка Иванова Паралеева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1d4849a-7413-4602-b715-da195d6635e8",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2effa7f67dfb85e9dec1d7cd82309d7167bc163acfefd35e0a2191b661125faa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
