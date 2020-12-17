@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2020-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 938,
+  "case_year": 2020,
+  "judge_rapporteur": "ГЕОРГИ ТОДОРОВ ДОБРЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2950157d-1df0-4121-a80c-3ae60e698d81",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0edfe40e53fc13051d01dc652e6cf9ccebaa13844a85316c02fa5a49fb17e428",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
