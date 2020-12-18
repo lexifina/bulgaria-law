@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2020-12-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 471,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЯ ПАВЛОВА КОНЧАРСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1599b145-031e-43a1-b407-86baa1ca229b",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d34d761b86e7a88ca05db03de6859952cc99cd67c52a68c332cd68b63df956a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
