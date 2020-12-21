@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2020-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4992,
+  "case_year": 2020,
+  "judge_rapporteur": "НИКОЛАЙ СИМЕОНОВ ГЕМЕДЖИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef8bf17f-0350-4274-a68f-d9ea92310cf3",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=02.12.2020&to=24.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "08eb7c5c05c4404cc30669f135aada3a453bfb4f38356ccbb95e0c8421a7741c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
