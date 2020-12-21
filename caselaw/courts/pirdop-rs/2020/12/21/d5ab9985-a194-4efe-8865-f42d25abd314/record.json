@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2020-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 363,
+  "case_year": 2020,
+  "judge_rapporteur": "Донка Иванова Паралеева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d5ab9985-a194-4efe-8865-f42d25abd314",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2effa7f67dfb85e9dec1d7cd82309d7167bc163acfefd35e0a2191b661125faa",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
