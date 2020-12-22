@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2020-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4892,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ СТЕФАНОВ СТЕФАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0018c80f-3139-45b2-b46d-030785e1b72f",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=09.11.2020&to=24.12.2020&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fce49bfe98ab28d6dde14968f968f62de800b00ab5a15b6cfb023a9e982d0209",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
