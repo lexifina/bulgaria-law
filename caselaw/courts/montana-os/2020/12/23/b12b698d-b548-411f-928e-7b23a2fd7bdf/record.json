@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2020-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 196,
+  "case_year": 2020,
+  "judge_rapporteur": "Людмила Драгомирова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b12b698d-b548-411f-928e-7b23a2fd7bdf",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "509df24035124b359bdbdef80f31dd67906d962b69f640833669c3143f7c9bf0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
