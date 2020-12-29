@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2020-12-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1402,
+  "case_year": 2019,
+  "judge_rapporteur": "ВЛАДИМИР КАЛОЯНОВ КРУМОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c253f3a4-fed0-405c-a4fb-8e49006a8c56",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcec9ae8c77b6aea3d6e1160fe8283b67a5600937cefb7a9ccc725ec1dfe380f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
