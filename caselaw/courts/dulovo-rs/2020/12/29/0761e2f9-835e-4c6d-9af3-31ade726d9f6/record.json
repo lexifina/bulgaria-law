@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2020-12-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 64,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛ ВАСИЛЕВ НИКОЛАЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0761e2f9-835e-4c6d-9af3-31ade726d9f6",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf357c3e1e5e6f304203a197859e8bd323b847d978ca79bee7ab750e729d4c6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
