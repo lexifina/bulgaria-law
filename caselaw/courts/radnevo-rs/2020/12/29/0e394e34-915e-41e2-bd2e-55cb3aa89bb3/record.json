@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2020-12-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 770,
+  "case_year": 2020,
+  "judge_rapporteur": "АСЕН ЦВЕТАНОВ ЦВЕТАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e394e34-915e-41e2-bd2e-55cb3aa89bb3",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05d90b1ba9781c4260e4db18cb28eb3fee2aa70e1028e5f2bfad6d1ea7c48f54",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
