@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-01-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 513,
+  "case_year": 2019,
+  "judge_rapporteur": "РАДКА ДИМОВА ЧОЛАКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=070c231f-bb13-4855-8cf8-38f5a4c57c37",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d01b0dc4b244e13312d81f712ba41e64895ea5980a924e5f0e73ffea0687ea6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
