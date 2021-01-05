@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 2336,
+  "case_year": 2020,
+  "judge_rapporteur": "ДОРОТЕЯ ИВАНОВА МИШКОВА-КЕХАЙОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f9f84768-3fc9-4e10-9a4a-7d4e549ecdef",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=01.01.2021&to=05.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7222d2a82fcb6fd3244cf89edee9d21d1a85c74f6ab9e0f13a3e4d8169df69da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
