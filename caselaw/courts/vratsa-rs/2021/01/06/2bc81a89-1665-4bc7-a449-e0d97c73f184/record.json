@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 917,
+  "case_year": 2020,
+  "judge_rapporteur": "Росица Иванова Ангелова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2bc81a89-1665-4bc7-a449-e0d97c73f184",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a6d4d5a86e3fb36023eae823095dca78d6ee38a81f8eef58742a60819320bbf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
