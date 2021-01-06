@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1368,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕСЕЛИН ИВАНОВ НИКОЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71c3924f-e9f7-4222-878c-3202cf9d719b",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "623462ab35c97d2eb59b74ba93594af145e341df64955dc37d01dc34a930a261",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
