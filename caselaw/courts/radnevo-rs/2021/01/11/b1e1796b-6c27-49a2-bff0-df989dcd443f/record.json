@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2021-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 215,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИСТИНА ВЪЛЧАНОВА ДИМИТРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1e1796b-6c27-49a2-bff0-df989dcd443f",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "05d90b1ba9781c4260e4db18cb28eb3fee2aa70e1028e5f2bfad6d1ea7c48f54",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
