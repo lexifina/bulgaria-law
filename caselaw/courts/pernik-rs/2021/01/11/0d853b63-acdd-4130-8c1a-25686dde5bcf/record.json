@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1518,
+  "case_year": 2020,
+  "judge_rapporteur": "Христина Христова Ангелова",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d853b63-acdd-4130-8c1a-25686dde5bcf",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=25.12.2020&to=16.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd3bc51e1cf5e41d51d46eb80a7c26036325d5e0f5f71a6b55d7465f6327b883",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
