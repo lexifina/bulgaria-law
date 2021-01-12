@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-01-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 7,
+  "case_year": 2021,
+  "judge_rapporteur": "ТЕОДОРА АНДОНОВА МИЛЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=acb7cb82-5cd6-424c-82e3-d0042d8b48e1",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5e46ce1eab7fc24dc5c63011e2ef69d318ae4408ebf5f6cc3152cddb43802652",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
