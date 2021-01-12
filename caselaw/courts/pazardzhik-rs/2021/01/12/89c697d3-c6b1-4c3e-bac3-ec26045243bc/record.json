@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-01-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1552,
+  "case_year": 2020,
+  "judge_rapporteur": "Таня Петкова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=89c697d3-c6b1-4c3e-bac3-ec26045243bc",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "526d922ffd27dbdd2938f4adcc8a82a9768e20d00e4189625331228760696711",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
