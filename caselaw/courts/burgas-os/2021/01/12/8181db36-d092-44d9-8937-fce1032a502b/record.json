@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-01-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 421,
+  "case_year": 2020,
+  "judge_rapporteur": "КАТЯ ЙОРДАНОВА ГОСПОДИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8181db36-d092-44d9-8937-fce1032a502b",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "47d41eb69e24630923c785f63f44908351289094cf88d69264ed443d1325efed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
