@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-01-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 1772,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕНЦИСЛАВ ДИМИТРОВ ВАСИЛЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ceede4b2-ee27-4401-92bc-0cfa25d163dc",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cea08e6cafa4867554f92d345337eb3f85e26fca1390be8f1c21a8fdd73b414d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
