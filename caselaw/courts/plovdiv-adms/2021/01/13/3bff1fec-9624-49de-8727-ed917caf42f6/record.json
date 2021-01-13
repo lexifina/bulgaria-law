@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-01-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 115,
+  "case_year": 2021,
+  "judge_rapporteur": "ЛЮБОМИРА КИРИЛОВА НЕСТОРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3bff1fec-9624-49de-8727-ed917caf42f6",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "995a1306276c7f7f4693e7a29d77fa2cec555d704ae9f2b0a30390b767a58720",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
