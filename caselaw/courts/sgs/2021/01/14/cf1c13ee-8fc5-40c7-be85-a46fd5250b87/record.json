@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8602,
+  "case_year": 2019,
+  "judge_rapporteur": "КРИСТИНА ЕВГЕНИЕВА ГЮРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf1c13ee-8fc5-40c7-be85-a46fd5250b87",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.01.2021&to=15.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "40a1c49bf48f5922c1e000c973004bc2896e71aa57d2814b2b2974e38dd57d2e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
