@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4261,
+  "case_year": 2020,
+  "judge_rapporteur": "ОРЛИН РУМЕНОВ ЧАРАКЧИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9677ded5-7bef-4373-8db8-c4f7d2f5dde2",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=04.01.2021&to=14.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ca3d9b920f5bab5d544f40f4f1d20c63746f1cfa8a4801f968fc73bd45543632",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
