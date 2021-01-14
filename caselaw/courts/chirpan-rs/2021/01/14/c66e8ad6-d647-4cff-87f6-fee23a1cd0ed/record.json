@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2021-01-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 434,
+  "case_year": 2020,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c66e8ad6-d647-4cff-87f6-fee23a1cd0ed",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5feb05356d8b390b6f0472a318fa1884573acff0146570ce8834addf125e3d92",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
