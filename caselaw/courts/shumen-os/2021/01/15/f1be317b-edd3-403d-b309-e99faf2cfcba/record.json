@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2021-01-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 406,
+  "case_year": 2020,
+  "judge_rapporteur": "СОНЯ АНГЕЛОВА СТЕФАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f1be317b-edd3-403d-b309-e99faf2cfcba",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6081bb9529ee0c27f92677745f9163d02e9582d52eb9b2ce907d8444f8a4a80a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
