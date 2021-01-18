@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2757,
+  "case_year": 2020,
+  "judge_rapporteur": "СТОИЛ ДЕЛЕВ БОТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ef8fb662-7365-470c-b70f-603630330e36",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "995a1306276c7f7f4693e7a29d77fa2cec555d704ae9f2b0a30390b767a58720",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
