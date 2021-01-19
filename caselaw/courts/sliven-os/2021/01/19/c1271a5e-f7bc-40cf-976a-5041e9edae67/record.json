@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 773,
+  "case_year": 2020,
+  "judge_rapporteur": "СНЕЖАНА ДИМИТРОВА БАКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c1271a5e-f7bc-40cf-976a-5041e9edae67",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a52d6461ea8deaa642e22464d6298fd1df098dfa18efe7f98bc7e645a5d73533",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
