@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9863,
+  "case_year": 2020,
+  "judge_rapporteur": "Елена Евгениева Маврова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=39044487-58b4-4acc-bd53-5ca832a5c8d9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=16.01.2021&to=20.01.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f57e998459a68cc5e78527ef700dc7abab9b18fdd12ce4359006d396b568311",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
