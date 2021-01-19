@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 2248,
+  "case_year": 2020,
+  "judge_rapporteur": "ИСКРЕНА ИЛИЙЧЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1d9e05b-0ae7-4c58-bf9d-cb7af18765da",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=17.01.2021&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c2a74850b3b29572b56952ec963db62875999a46052c71868bbf4f5cbf2e7a2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
