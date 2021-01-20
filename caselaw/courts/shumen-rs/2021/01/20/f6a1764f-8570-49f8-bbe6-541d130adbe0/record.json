@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2021-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3868,
+  "case_year": 2019,
+  "judge_rapporteur": "ЖАНЕТ МАРЧЕВА ХРИСТОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f6a1764f-8570-49f8-bbe6-541d130adbe0",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c8290c31a508e976d34cca8709fedb12a1315cac4fbc681649c59bd3dfe7d58b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
