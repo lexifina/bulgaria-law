@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1824,
+  "case_year": 2020,
+  "judge_rapporteur": "ХРИСТИНА ХРИСТОВА АНГЕЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c11f41f2-eab1-42af-ac5f-488092813898",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=17.01.2021&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9c955bc270fd67333090c4ffb7e80c4b7ee34e2662e16be271354c0097aad36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
