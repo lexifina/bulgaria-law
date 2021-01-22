@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 211,
+  "case_year": 2020,
+  "judge_rapporteur": "КАЛИН КИРИЛОВ БАТАЛСКИ",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1e4c87e-0a18-425e-83bc-66e3b6084f68",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d9204539ff192de210f42f415e3de39273b87b1cb195cfd9ff4de2afaa732dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
