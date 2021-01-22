@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1769,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТЪР ГЕОРГИЕВ КАСАБОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6d99cd6-2f08-488d-9436-a1f3ba9c60cb",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "995a1306276c7f7f4693e7a29d77fa2cec555d704ae9f2b0a30390b767a58720",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
