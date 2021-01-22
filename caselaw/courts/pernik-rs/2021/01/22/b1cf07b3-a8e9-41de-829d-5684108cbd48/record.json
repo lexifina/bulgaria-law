@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-01-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 771,
+  "case_year": 2020,
+  "judge_rapporteur": "БОРИСЛАВА ПЕТРОВА БОРИСОВА-ЗДРАВКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1cf07b3-a8e9-41de-829d-5684108cbd48",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=17.01.2021&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9c955bc270fd67333090c4ffb7e80c4b7ee34e2662e16be271354c0097aad36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
