@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 984,
+  "case_year": 2020,
+  "judge_rapporteur": "КРИСТИНА АНТОНОВА ЛАЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc4b7653-e5cc-49c8-b489-3f33edfc777a",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f1f998a2e1b5c4e754f6965c938aa60854cea588509b54dd0631787a47d7f11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
