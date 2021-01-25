@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 10,
+  "case_year": 2021,
+  "judge_rapporteur": "ЯНИЦА СЪБЧЕВА СЪБЕВА ЧЕНАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee5d8980-d24a-425d-80b1-f60704f0c4d4",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a52d6461ea8deaa642e22464d6298fd1df098dfa18efe7f98bc7e645a5d73533",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
