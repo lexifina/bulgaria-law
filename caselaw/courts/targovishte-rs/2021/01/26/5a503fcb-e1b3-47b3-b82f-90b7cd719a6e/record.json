@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2021-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 140,
+  "case_year": 2020,
+  "judge_rapporteur": "БОРЯНА СТОЙЧЕВА ПЕТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a503fcb-e1b3-47b3-b82f-90b7cd719a6e",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af7a973c021313e67aeb38847968ff40d268f5e34b531dc43c36152b013a54bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
