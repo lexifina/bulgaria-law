@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Златоград",
+  "jurisdiction": "BG",
+  "date": "2021-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 121,
+  "case_year": 2020,
+  "judge_rapporteur": "Динко Карамфилов Хаджиев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7283f65-2b56-42e4-8d6e-35aefd23cea8",
+  "motives_file": null,
+  "source": "https://zlatograd-rs.justice.bg/bg/7085?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "907a33c9f19ec867373c7ec0afc0e3e5ca1f37cfc750ea68c17ebf9fc9ca331e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
