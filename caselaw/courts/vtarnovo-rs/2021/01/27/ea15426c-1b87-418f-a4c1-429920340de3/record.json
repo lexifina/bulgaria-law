@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-01-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2324,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЛАДИМИР БАЛДЖИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ea15426c-1b87-418f-a4c1-429920340de3",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=25.12.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9f2fcafc3c7341bd0fd1e62684b3212adf54dbae69361f3b51eb62d7483d162",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
