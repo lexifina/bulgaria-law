@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2021-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 189,
+  "case_year": 2020,
+  "judge_rapporteur": "ЖИВКО ПАВЛОВ ГЕОРГИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27ed192f-b072-46a9-9963-8141dc70d95a",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bd70c86f2906239445cca52df451236f5f6005951beeaedd8640e809e68fd292",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
