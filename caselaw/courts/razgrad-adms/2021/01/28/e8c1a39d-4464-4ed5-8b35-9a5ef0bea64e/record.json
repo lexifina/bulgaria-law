@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2021-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 30,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВА СТАНЧЕВА КОВАЛАКОВА-СТОЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8c1a39d-4464-4ed5-8b35-9a5ef0bea64e",
+  "motives_file": null,
+  "source": "https://razgrad-adms.justice.bg/bg/1345?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b65adc25997f762779945c89903deb6f96977ccd8b73d5e1a2a667bd4f7904d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
