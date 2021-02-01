@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 338,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВЕЛИНА АПОСТОЛОВА ДИМОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5617611b-510a-4173-84de-bf5b8abb3a4c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=26.01.2021&to=05.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "386611f7d45fb64c754a9597b98b8d293cfdebdefbaed899bfc090082deb32db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
