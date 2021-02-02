@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2021-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 176,
+  "case_year": 2020,
+  "judge_rapporteur": "Емил Василев Николаев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c9a0c96a-d9a2-4a40-a670-93fab3b01710",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf357c3e1e5e6f304203a197859e8bd323b847d978ca79bee7ab750e729d4c6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
