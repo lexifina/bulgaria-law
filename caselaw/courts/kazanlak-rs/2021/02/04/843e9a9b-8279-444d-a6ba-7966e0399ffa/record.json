@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2021-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2354,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕЙКО НЕЙКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=843e9a9b-8279-444d-a6ba-7966e0399ffa",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd39709c758f25e2a99e6b7ac5d223653848cb022a8f57d0f349794d52afd39f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
