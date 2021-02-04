@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2021-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 21,
+  "case_year": 2021,
+  "judge_rapporteur": "Анелия Маринова Йорданова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16c1262a-1f51-4bf8-8429-12d916ba544c",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c2abba3c4dfa65b1bbd7d3d03b20478f6c0c1ffe91d51f191e0f1bb5599354e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
