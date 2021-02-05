@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 37,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВАН ЛАТИНОВ МАРИНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1481e5b3-aafa-44ef-81c6-7fb2370195e1",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64181fe3fcb7ff2770e853980352c16ba5d4486fd707259627a7719778a77660",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
