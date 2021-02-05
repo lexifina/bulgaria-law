@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-02-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 597,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ЯНЕВА БЛЕЦОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91df1677-edc0-47e5-aa5c-6f583e03d767",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a52d6461ea8deaa642e22464d6298fd1df098dfa18efe7f98bc7e645a5d73533",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
