@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 31,
+  "case_year": 2021,
+  "judge_rapporteur": "Ива Димова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c155a33-89f3-4965-a26f-81a17acf6dbe",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=09.11.2020&to=08.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cdb7add9ef702896f2dad097640b31aae99b4cecf1cdadd7ad3ed64b172d6522",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
