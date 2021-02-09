@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 508,
+  "case_year": 2020,
+  "judge_rapporteur": "СЕВДАЛИНА ВАСИЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bc9655cc-a6f4-4a1e-9056-c793ba766d07",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81e49931c8a0004b0964a3a47af3ed3e19973845ed75f5caa47599ba685d0c54",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
