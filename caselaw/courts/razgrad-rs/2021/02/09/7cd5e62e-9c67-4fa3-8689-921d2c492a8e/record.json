@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2021-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1249,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТЛАНА КЪНЧЕВА ЧОЛАКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7cd5e62e-9c67-4fa3-8689-921d2c492a8e",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba18a947d4ebe1d10ae1c72f55e9693edc0e72e7d3f57868253f3aca74cc61d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
