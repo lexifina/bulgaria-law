@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Айтос",
+  "jurisdiction": "BG",
+  "date": "2021-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 466,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ДУЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c237e00e-237b-4c51-a37f-6e9cf861feb1",
+  "motives_file": null,
+  "source": "https://aytos-rs.justice.bg/bg/4705?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46a2f8bb55908204453dd21b00d79b4b8f5b24ecb498464157cf3a2cedf4fcc4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
