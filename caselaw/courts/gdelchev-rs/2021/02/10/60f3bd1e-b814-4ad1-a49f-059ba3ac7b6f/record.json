@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гоце Делчев",
+  "jurisdiction": "BG",
+  "date": "2021-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 753,
+  "case_year": 2020,
+  "judge_rapporteur": "Магдалена Атанасова Жбантова Стефанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60f3bd1e-b814-4ad1-a49f-059ba3ac7b6f",
+  "motives_file": null,
+  "source": "https://gdelchev-rs.justice.bg/bg/6175?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70cc713ab04391b4e3808af2a03747bdcd85b4d4992e30f6b4562dabde8dc934",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
