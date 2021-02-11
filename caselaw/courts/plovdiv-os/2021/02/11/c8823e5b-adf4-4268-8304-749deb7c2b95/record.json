@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 3219,
+  "case_year": 2020,
+  "judge_rapporteur": "РУМЯНА ИВАНОВА АНДРЕЕВА АТАНАСОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8823e5b-adf4-4268-8304-749deb7c2b95",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=09.02.2021&to=03.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fbd5c0d7e5ffdc149a52ac51ebd42ada3c6631d699d87d2f76bbe91516a05305",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
