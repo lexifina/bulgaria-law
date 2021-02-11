@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2021-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 63,
+  "case_year": 2021,
+  "judge_rapporteur": "АННА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=841ef9a8-a968-4f0a-9ff7-0c8dd518e5f9",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad3b9153273acae96752b32c35ea497829bb11e2ed352e813c3d29c028b9f06e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
