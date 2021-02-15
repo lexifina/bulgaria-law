@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 658,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЕНА ПЕТКОВА ЧЕШМЕДЖИЕВА ДЯКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8da5b45-97aa-4875-8fa2-392947ec7ee2",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "be0c30897c2e811129527d4952013b2d60e9a9d0cf45d77b772b4ca72a5d0572",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
