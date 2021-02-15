@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2021-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 29,
+  "case_year": 2021,
+  "judge_rapporteur": "ЙОРДАН ПАВЛОВ ИВАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b5d691b-8098-4869-8e2b-3b4c3f332af7",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1dde1be94417cd83e66adbc7d8ef0479dddbd7c98c2a204dbf5d5c87a8ece736",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
