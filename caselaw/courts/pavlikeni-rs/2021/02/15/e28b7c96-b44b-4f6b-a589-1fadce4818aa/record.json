@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2021-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 414,
+  "case_year": 2020,
+  "judge_rapporteur": "Евелина Петкова Карагенова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e28b7c96-b44b-4f6b-a589-1fadce4818aa",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e743278681f433bf6602db903564a90389a5ee59c0f3065e96d3e2ca24878c23",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
