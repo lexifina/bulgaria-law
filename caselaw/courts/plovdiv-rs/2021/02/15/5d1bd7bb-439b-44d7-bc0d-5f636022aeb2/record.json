@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 6991,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИМИТЪР ВАСИЛЕВ КАЦАРЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d1bd7bb-439b-44d7-bc0d-5f636022aeb2",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=12.02.2021&to=16.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7b3e9ea974c247194bdeb7c64d9210f02f9c92c7591155fbc8b3298a5279171",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
