@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 522,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЛАМЕН ПАНТЕВ ДЕНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=055c3ef9-4cff-4101-aada-3e07eed24b22",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e1c9c7a4a2631c2d0c9610fb28e2455e062f30de11455ff177e94b13398cac6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
