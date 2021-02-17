@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7707,
+  "case_year": 2020,
+  "judge_rapporteur": "ЛЮДМИЛА ЛЮДМИЛОВА МИТРЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=471a661c-0809-4af7-bd90-5f6712fa4dbd",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.02.2021&to=21.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c388eeeba9dd06eb1dfeb54788b2f47be9c6c58187bf0a47b81287e8497c4af1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
