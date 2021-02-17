@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2021-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2176,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЛАМЕНА КОЛЕВА НЕДЯЛКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9fb5df74-0eb9-4de5-a383-c75b920831b9",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ccff998ee361f623da37362c56a1e3a94568d233ad2cadd1e502c050c870cd08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
