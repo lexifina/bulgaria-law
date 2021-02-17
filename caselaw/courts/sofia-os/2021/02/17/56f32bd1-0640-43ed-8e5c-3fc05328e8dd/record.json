@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2021-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 46,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДИ ИВАНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=56f32bd1-0640-43ed-8e5c-3fc05328e8dd",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3ad2e7ff46a2adcace1668b1289bb0614c3cdb1556637834885adbfa2e1bbe20",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
