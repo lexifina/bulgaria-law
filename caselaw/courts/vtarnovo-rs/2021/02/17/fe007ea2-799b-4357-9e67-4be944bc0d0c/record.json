@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 504,
+  "case_year": 2021,
+  "judge_rapporteur": "МЛАДЕН ДИМИТРОВ",
+  "act_kind": "Заповед",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe007ea2-799b-4357-9e67-4be944bc0d0c",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b55ba45d863b6ad55875d4e5c7d5af7cfbab424587237f0edbe08bb65f13a3d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
