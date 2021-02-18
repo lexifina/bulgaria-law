@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2021-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 50,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯ АТАНАСОВА МОСКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=41756e9e-742b-40c7-854e-6bb9a01f8fcb",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6d521b43ea4a6bc6549e870e90624c5dbc6651ee33f693896be91dd2be89bc9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
