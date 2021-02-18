@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-02-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 76,
+  "case_year": 2021,
+  "judge_rapporteur": "АНТОНИЯ АТАНАСОВА АТАНАСОВА-АЛЕКСОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8805697d-a802-4962-9a3b-f89f2a3a0897",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "20b075880619cc363fe865e534afd4f4cf35b5dd1a68ca11d2bfed2a4b740877",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
