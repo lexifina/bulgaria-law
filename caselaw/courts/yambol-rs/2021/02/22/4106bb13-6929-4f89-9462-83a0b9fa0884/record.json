@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2021-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 629,
+  "case_year": 2020,
+  "judge_rapporteur": "ГЕОРГИ СТОЯНОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4106bb13-6929-4f89-9462-83a0b9fa0884",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12255bad32eab72bdcf2cfd91d50c7cc5de28ceed36c7bc494e9cd9059080efb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
