@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2021-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 38,
+  "case_year": 2021,
+  "judge_rapporteur": "Невяна Пейчева Захариева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a32b06f1-e163-46d0-aaa8-b188519100cf",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e9bd9da0f6326101a377c377a226089a22a8920f26a9b968ae18166ffe5dd0a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
