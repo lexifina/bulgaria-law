@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 80,
+  "case_year": 2021,
+  "judge_rapporteur": "НЕЛИ ИВАНОВА КАМЕНСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e3f5cf53-5589-4dcd-8bd5-233436875faa",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36aad870db81ccdea3feabab676810249553953e8a1542b5e072bf13dc090e39",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
