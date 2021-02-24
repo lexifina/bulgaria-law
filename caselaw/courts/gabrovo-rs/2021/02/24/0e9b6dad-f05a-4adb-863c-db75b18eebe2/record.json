@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1180,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАСИЛ ВЕНЕЛИНОВ СТАВРЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e9b6dad-f05a-4adb-863c-db75b18eebe2",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e1c9c7a4a2631c2d0c9610fb28e2455e062f30de11455ff177e94b13398cac6e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
