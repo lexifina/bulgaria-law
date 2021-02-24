@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2021-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 58,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=859eab1a-46c8-4ceb-8ced-e1ed9135d3f4",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc40ecba9eb91c178b37d8c3ee200578f50d2c957cda45bcb6fd094a051ee492",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
