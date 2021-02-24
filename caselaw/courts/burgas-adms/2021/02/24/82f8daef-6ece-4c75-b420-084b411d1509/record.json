@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2406,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕСЕЛИН ГЕОРГИЕВ БЕЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82f8daef-6ece-4c75-b420-084b411d1509",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "20a0b3783ec2a876a1e4e11c404b5a47060e881b730581e5c36cff9806e89c6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
