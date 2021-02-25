@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 646,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕСЕЛА ИВАНОВА ГЪЛЪБОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8913fb54-7ce0-484f-adbf-9f1aaa8207b3",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=17.02.2021&to=27.02.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9d1e6db27b28b4da11031142e9a9d080b87b570dc9859619baa911800dd9afe1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
