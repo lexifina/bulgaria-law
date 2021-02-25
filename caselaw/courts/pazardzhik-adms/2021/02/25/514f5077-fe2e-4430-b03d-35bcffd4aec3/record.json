@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 59,
+  "case_year": 2021,
+  "judge_rapporteur": "СВЕТОМИР ВИТКОВ БАБАКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=514f5077-fe2e-4430-b03d-35bcffd4aec3",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3810d6fc721e26413792bcb22b2b5a26b608a1e8e1f59f1c6de4b0b21810303b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
