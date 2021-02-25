@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 9,
+  "case_year": 2021,
+  "judge_rapporteur": "Дафинка Тодорова Чакърова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e68fe9c4-b7a3-4b65-bffc-c53e6ef00752",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4171c60e8bfdccbec6a42037b61add2c1915c0af43d64c6901dab0cada7b49c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
