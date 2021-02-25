@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1224,
+  "case_year": 2020,
+  "judge_rapporteur": "Красимира Иванова Колева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=27ac57f0-a31f-4aec-8e39-4f2c9e3289eb",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eda53047296b1ca5d6d3bfd89c04491266301b71622d10d1065ad01b4318abc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
