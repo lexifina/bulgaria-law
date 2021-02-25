@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 108,
+  "case_year": 2020,
+  "judge_rapporteur": "ВОЛЯ ПЕТРОВ КЪНЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=673482a2-5920-461a-b489-2d8a9e6f5241",
+  "motives_file": null,
+  "source": "https://sliven-vs.justice.bg/bg/2675?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a7c9919d94690d094c22e0ab2aa5eaf9d7c8656a5d47eab76f6a449c7eb8326",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
