@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 285,
+  "case_year": 2021,
+  "judge_rapporteur": "РУМЕН НИКОЛОВ ЙОСИФОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7dd62e73-d9d4-4561-bc39-39b0b70adc63",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "20a0b3783ec2a876a1e4e11c404b5a47060e881b730581e5c36cff9806e89c6f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
