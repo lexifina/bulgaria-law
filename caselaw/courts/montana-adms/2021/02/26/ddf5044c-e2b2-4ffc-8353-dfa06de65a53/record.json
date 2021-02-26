@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2021-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 519,
+  "case_year": 2020,
+  "judge_rapporteur": "РЕНИ ЦВЕТАНОВА СЛАВКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ddf5044c-e2b2-4ffc-8353-dfa06de65a53",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7ae0f69a94a18e1b57e41dda1653565c3da0353bcf8c567bc18aaeb60458788d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
