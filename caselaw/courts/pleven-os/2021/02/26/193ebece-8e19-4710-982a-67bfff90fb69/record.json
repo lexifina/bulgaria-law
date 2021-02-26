@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-02-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 840,
+  "case_year": 2020,
+  "judge_rapporteur": "ЦВЕТЕЛИНА МАРИНОВА ЯНКУЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=193ebece-8e19-4710-982a-67bfff90fb69",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f6475a5f13fd66b6af95bf07577fff036f886c3d72c0ed8a88d37982704c808",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
