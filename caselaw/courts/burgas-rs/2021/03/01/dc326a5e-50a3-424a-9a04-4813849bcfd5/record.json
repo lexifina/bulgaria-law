@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6265,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕВЕНА ИВАНОВА КОВАЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dc326a5e-50a3-424a-9a04-4813849bcfd5",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=09.02.2021&to=03.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a98d48b7ba5af9d5b334f1e26259b29a5f0545da22f6a3b85eed81adb2a8813",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
