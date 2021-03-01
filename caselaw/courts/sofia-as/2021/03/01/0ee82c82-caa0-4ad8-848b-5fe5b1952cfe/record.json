@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 38,
+  "case_year": 2021,
+  "judge_rapporteur": "Светла Станимирова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ee82c82-caa0-4ad8-848b-5fe5b1952cfe",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b76476164420c74baf5f7d28f33ebd03431c0eb4aad03ad95ad8263a35c266ee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
