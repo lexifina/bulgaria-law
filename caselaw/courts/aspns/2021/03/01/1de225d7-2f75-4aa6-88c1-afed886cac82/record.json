@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2021-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 76,
+  "case_year": 2021,
+  "judge_rapporteur": "НИКОЛАЙ ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1de225d7-2f75-4aa6-88c1-afed886cac82",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "acc0bb3507601b99f4e45a425eff7f9cd9220e14ff91f2504f926df444518267",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
