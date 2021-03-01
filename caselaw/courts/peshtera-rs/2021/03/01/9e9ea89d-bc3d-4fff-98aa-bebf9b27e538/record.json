@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2021-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 351,
+  "case_year": 2020,
+  "judge_rapporteur": "АТАНАСКА СТОЯНОВА ПАВЛОВА-СТОИМЕНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9e9ea89d-bc3d-4fff-98aa-bebf9b27e538",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "76ea2b542e934bc36109a7f4acc715d1ca2e61e2081fe74fb68d2872b50d28de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
