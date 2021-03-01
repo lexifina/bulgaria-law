@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 13089,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАЛЕНТИНА ВЕРГИЛОВА АНГЕЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7fed9044-7fb5-4337-955b-7c0397e1ea72",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=25.02.2021&to=01.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3967d40c1edc9ab87bd05e236e1e379237d568a89fe8529c555ca2ab10a4e960",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
