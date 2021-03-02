@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4186,
+  "case_year": 2020,
+  "judge_rapporteur": "БОЯН ДИМИТРОВ КЮРТОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52a1c073-4ade-4f82-8176-fdcb91cf8999",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=27.02.2021&to=03.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9a48599d8d826432e658835782b67f063593309ecd4bfd9cbf4c812f12693605",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
