@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2021-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 405,
+  "case_year": 2019,
+  "judge_rapporteur": "ДИМИТЪР СТЕФАНОВ МИХАЙЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dff1f5d1-73b0-47f6-8568-3ccd76109c94",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b95cbb168100f2325b12708dd936d9b23206566a99444a77e84bb404f1f95dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
