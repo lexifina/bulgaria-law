@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 697,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕМИЛ КРЪСТЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dab33a5b-ba6c-4399-82a7-e5704c9a08f8",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b0f8ac95cd216ba5ad842ffec92e30c17ad8919b9e26f0d1a9b3821091e9a16f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
