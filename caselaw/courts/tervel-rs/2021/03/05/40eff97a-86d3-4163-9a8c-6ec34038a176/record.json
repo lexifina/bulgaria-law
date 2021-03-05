@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2021-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 24,
+  "case_year": 2021,
+  "judge_rapporteur": "Росен Иванов Балкански",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40eff97a-86d3-4163-9a8c-6ec34038a176",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39055d66ac6601cca86a7a38dcd084e17471dd610b09093d47ed9089328092ab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
