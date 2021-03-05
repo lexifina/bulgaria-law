@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3731,
+  "case_year": 2020,
+  "judge_rapporteur": "АЛБЕНА ПЕТРОВА КОЛЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=148c4c8e-e377-4689-a7e9-018e55a55174",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "51ff695b35ece57470d255313d243d0cbd8b2f5dfcd4db20da17f3b7adfec7ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
