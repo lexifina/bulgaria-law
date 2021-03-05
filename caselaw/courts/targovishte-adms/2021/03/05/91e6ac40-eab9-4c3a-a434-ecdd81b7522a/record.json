@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2021-03-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 33,
+  "case_year": 2021,
+  "judge_rapporteur": "АЛБЕНА СТЕФАНОВА СТЕФАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=91e6ac40-eab9-4c3a-a434-ecdd81b7522a",
+  "motives_file": null,
+  "source": "https://targovishte-adms.justice.bg/bg/1905?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e708318e67a9a4524702dc79bd8822a056d5b120d3fc0c5ddf7ac90dd6057945",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
