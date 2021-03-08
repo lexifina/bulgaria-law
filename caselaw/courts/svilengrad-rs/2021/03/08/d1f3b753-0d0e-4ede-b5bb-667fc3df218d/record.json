@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2021-03-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 835,
+  "case_year": 2020,
+  "judge_rapporteur": "КРЕМЕНА ТОДОРОВА СТАМБОЛИЕВА БАЙНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1f3b753-0d0e-4ede-b5bb-667fc3df218d",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bfc56242da251d7e5113e1113f3f4a6d76f32f3a52aa3d9d696137ed67820a3b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
