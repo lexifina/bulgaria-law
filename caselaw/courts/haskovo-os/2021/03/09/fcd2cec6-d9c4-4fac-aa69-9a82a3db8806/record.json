@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2021-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 8,
+  "case_year": 2021,
+  "judge_rapporteur": "ГЕОРГИ ГОЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fcd2cec6-d9c4-4fac-aa69-9a82a3db8806",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad3b9153273acae96752b32c35ea497829bb11e2ed352e813c3d29c028b9f06e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
