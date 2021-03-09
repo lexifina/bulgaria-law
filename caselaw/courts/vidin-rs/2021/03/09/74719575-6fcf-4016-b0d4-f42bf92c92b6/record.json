@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2021-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 17,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕРОНИКА ВЕСЕЛИНОВА СТАНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=74719575-6fcf-4016-b0d4-f42bf92c92b6",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "be3ae705d6aa5bbbc0e339b56367fa97e04c2e936b277daf931a513751404fc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
