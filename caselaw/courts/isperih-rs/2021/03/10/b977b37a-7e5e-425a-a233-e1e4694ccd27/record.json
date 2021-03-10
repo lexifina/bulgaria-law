@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2021-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 290,
+  "case_year": 2018,
+  "judge_rapporteur": "ЕЛИЦА ДЕНЧЕВА БОЯДЖИЕВА ГЕОРГИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b977b37a-7e5e-425a-a233-e1e4694ccd27",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "35d199788c8b5dbc927401e4a8d28a7b0d821f58dcbadf5543c88a13f1c8d048",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
