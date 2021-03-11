@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-03-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 114,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕСЕЛИН ГАНЧЕВ ГАНЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7d1853a-4dce-4e32-8d80-b5d0e4db14bd",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc6a30d4e437fa83d67f002912e818159ff71b692491285933c1857637dc85f0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
