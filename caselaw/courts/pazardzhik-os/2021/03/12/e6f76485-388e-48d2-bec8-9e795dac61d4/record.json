@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 147,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕНЦИСЛАВ СТОЯНОВ МАРАТИЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6f76485-388e-48d2-bec8-9e795dac61d4",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "35d242ce3ef22ab36d0f715c068fad3acb814149d856b44c78f5d306a50c7448",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
