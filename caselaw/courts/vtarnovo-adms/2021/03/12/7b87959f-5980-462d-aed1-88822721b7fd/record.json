@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-03-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 10153,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ ДОБРЕВА ВАСИЛЕВА ДАНАИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b87959f-5980-462d-aed1-88822721b7fd",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f037b567570ff18044e5702164f1381af1223dcbf990b6b71a45a68b0023576b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
