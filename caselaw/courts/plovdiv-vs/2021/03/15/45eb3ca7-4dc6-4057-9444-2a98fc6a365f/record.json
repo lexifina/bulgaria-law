@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 29,
+  "case_year": 2021,
+  "judge_rapporteur": "полк. Асен Найденов Шопов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45eb3ca7-4dc6-4057-9444-2a98fc6a365f",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28c59a8ab201c5ccfc3c3ac896b0cd15ce661729daa12c1a251ee98226161903",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
