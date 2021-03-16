@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2521,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН БОНЕВ БОНЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a550cd56-92b6-4513-9c6b-10d32264a7c6",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=04.03.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "307c54c6d7284e7b3183ef3f78dba1b73599c15d6c48f2492eec75c9d5f1b6f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
