@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 383,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛИНА ВАСКОВА ГЕРАСИМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af6a3ce0-b539-48de-8c18-a52ace51ebe3",
+  "motives_file": null,
+  "source": "https://vratsa-adms.justice.bg/bg/575?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81e49931c8a0004b0964a3a47af3ed3e19973845ed75f5caa47599ba685d0c54",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
