@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1816,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВО ВАСИЛЕВ ДОБРЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cda9886d-737f-4298-8e45-ee611f51970d",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=09.02.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd0cf0aff9531460e798aba54b398e28c14132b555f0a96b290af363b86d1573",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
