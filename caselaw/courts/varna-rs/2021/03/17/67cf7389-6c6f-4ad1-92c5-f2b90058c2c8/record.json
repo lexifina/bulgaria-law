@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1901,
+  "case_year": 2021,
+  "judge_rapporteur": "НЕДЕЛИНА ЕВГЕНИЕВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=67cf7389-6c6f-4ad1-92c5-f2b90058c2c8",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=11.03.2021&to=21.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5cb683fe171d6d6521a4621aff6209aec6728b94fe4ca36e8f64560d5a48c67b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
