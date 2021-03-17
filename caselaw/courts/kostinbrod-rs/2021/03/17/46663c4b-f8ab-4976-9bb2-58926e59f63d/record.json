@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2021-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 111,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивайло  Христов Родопски",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46663c4b-f8ab-4976-9bb2-58926e59f63d",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "52f99310f2a76ca49fad4f64703e3ab192cea2f43f73c028eae2f6da9770ff7b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
