@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2021-03-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 47,
+  "case_year": 2021,
+  "judge_rapporteur": "ТАТЯНА ДИМИТРОВА ДАСКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=020e9dc0-b004-49b4-b674-acc2599f05f7",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1dde1be94417cd83e66adbc7d8ef0479dddbd7c98c2a204dbf5d5c87a8ece736",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
