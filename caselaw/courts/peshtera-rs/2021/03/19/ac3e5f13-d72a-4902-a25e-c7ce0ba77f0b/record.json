@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2021-03-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 336,
+  "case_year": 2021,
+  "judge_rapporteur": "АТАНАСКА СТОЯНОВА ПАВЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac3e5f13-d72a-4902-a25e-c7ce0ba77f0b",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "76ea2b542e934bc36109a7f4acc715d1ca2e61e2081fe74fb68d2872b50d28de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
