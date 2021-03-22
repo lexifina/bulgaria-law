@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 99,
+  "case_year": 2021,
+  "judge_rapporteur": "полк.ВАНКО ДИМИТРОВ АНГЕЛОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3814a444-043b-45ee-9774-a9097d523c55",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "52f07a48db04b65249f9d6f290787c73d3e9ed8dcfec4136a5d7f75e94228913",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
