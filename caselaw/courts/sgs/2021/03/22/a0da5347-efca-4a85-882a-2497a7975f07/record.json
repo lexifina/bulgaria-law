@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1071,
+  "case_year": 2021,
+  "judge_rapporteur": "АНДРЕЙ АНГЕЛОВ АНГЕЛОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0da5347-efca-4a85-882a-2497a7975f07",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.03.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5a790111562d90420c55c76bbc96573c1f207727701ac25c012227e80b36705d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
