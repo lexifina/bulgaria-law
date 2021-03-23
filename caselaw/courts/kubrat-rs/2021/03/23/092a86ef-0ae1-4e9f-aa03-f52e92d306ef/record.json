@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2021-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 595,
+  "case_year": 2020,
+  "judge_rapporteur": "АЛБЕНА ДЯКОВА ВЕЛИКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=092a86ef-0ae1-4e9f-aa03-f52e92d306ef",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "04b1d4e8ed0a1446f0dcbb09f402e428ac496fbbb9976250949ba64431860cde",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
