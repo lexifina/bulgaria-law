@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 188,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАНЕЛА АТАНАСОВА КАРАДЖОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=70b68db8-d8e2-46cd-bfa1-4df8d7300304",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "293f5f529573013a7d7a353c14dfba6076266af5a351bdce76129918be6faeca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
