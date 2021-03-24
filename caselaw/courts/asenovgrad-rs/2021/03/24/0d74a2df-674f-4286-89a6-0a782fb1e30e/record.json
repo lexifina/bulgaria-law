@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2021-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1302,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИЯ МАКСИМОВА КАРАДЖОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d74a2df-674f-4286-89a6-0a782fb1e30e",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "568af93637d3bb4f50978439a7fc6f2b62dc3042af745055a272cc1a74ffd11b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
