@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-03-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 1117,
+  "case_year": 2021,
+  "judge_rapporteur": "АНИ ЗАХАРИЕВА ЗАХАРИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c91b5b5-376a-4581-a99c-b79edec7fcd9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=22.03.2021&to=26.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5a790111562d90420c55c76bbc96573c1f207727701ac25c012227e80b36705d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
