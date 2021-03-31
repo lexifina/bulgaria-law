@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 3855,
+  "case_year": 2021,
+  "judge_rapporteur": "СТЕЛА БОРИСОВА КАЦАРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb7379f4-70de-4342-b2e3-9b4d75c441da",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.03.2021&to=31.03.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d8b1ac26b665b1287d95d8d7d04794472961fb8a3eac4364811cffbce98e548",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
