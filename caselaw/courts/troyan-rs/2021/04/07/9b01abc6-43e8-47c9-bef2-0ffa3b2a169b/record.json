@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2021-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 191,
+  "case_year": 2021,
+  "judge_rapporteur": "Даниела Недкова Радева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9b01abc6-43e8-47c9-bef2-0ffa3b2a169b",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f7f8ba7f203c4cec3c190ed356d0815cb78e68000cecb777c6f2387081913f11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
