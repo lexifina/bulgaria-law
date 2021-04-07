@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 259,
+  "case_year": 2021,
+  "judge_rapporteur": "Димитър Пандалиев Бозаджиев",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6607735-ebb3-4af6-bcb3-5ad33b14a4c0",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "35d242ce3ef22ab36d0f715c068fad3acb814149d856b44c78f5d306a50c7448",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
