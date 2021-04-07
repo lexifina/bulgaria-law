@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1321,
+  "case_year": 2021,
+  "judge_rapporteur": "Милен Павлов Петров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5dcecf6d-f786-42d9-9071-0ca79236d287",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=27.03.2021&to=18.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1fff3c906eaa2c1528af1e874c84498b66d102515e204019d6733a0710501eb0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
