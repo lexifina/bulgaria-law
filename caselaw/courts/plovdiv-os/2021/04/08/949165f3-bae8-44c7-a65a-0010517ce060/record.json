@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 593,
+  "case_year": 2021,
+  "judge_rapporteur": "РАДОСТИНА АНГЕЛОВА СТЕФАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=949165f3-bae8-44c7-a65a-0010517ce060",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=27.03.2021&to=18.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4c0f0dd4a5e18ed907ec3a5342e0288adeb490a519328e74e36ba38a98a8664",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
