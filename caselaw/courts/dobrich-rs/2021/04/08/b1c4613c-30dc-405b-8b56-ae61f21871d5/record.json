@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3816,
+  "case_year": 2019,
+  "judge_rapporteur": "СТАНИМИР ТОДОРОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1c4613c-30dc-405b-8b56-ae61f21871d5",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=27.03.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01853333ca61586b7deea6efca25db02d2f6adb9701448e2a67d67169b628b73",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
