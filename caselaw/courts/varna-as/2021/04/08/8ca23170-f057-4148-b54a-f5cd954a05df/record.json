@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-04-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 87,
+  "case_year": 2021,
+  "judge_rapporteur": "ВИЛИЯН ГЕОРГИЕВ ПЕТРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ca23170-f057-4148-b54a-f5cd954a05df",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7dc6539338cc00f61f7398359d6b2721cc84466f80eb07c138ec4df59b35798b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
