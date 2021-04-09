@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2021-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 33,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЛАДИСЛАВА АЛЕКСАНДРОВА ЦАРИГРАДСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d8e9efe0-0af8-4470-ad54-eee713b8bf08",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf708d4e167fef2b9808decaec8b61479848f858048d58063653dfd7f67cfbf6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
