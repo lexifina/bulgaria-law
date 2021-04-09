@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2021-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 600,
+  "case_year": 2020,
+  "judge_rapporteur": "Николай Светлинов Василев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c884b8fc-08cd-4c75-8e8d-fc4d9581f5e4",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36161f7ad634ec29641e7a8ff9d32969723cd483e43c15d960b7a379bcde2cc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
