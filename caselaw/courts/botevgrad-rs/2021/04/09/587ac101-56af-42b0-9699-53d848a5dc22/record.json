@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2021-04-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 331,
+  "case_year": 2020,
+  "judge_rapporteur": "Цветан Христов Петков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=587ac101-56af-42b0-9699-53d848a5dc22",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85174025f2e4773137b0e347debb7365be23c0bb401bc632ed753c2b4422a2a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
