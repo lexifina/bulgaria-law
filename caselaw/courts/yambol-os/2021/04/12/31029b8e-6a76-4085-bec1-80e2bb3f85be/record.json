@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2021-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 43,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛИНА ИВАНОВА ВЪЛЧАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=31029b8e-6a76-4085-bec1-80e2bb3f85be",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e8f826d1765537e9567d0feb911b07574d57c77ed7b9ae51b2d760e231d3680a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
