@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2021-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 72,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕНЦИСЛАВ СТЕФАНОВ ВЪЛЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d61d8be-2a4f-4510-87f0-26602c440a89",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf708d4e167fef2b9808decaec8b61479848f858048d58063653dfd7f67cfbf6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
