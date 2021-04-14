@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1398,
+  "case_year": 2017,
+  "judge_rapporteur": "ВЕСЕЛИН ПЛАМЕНОВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eace9fc9-b9bd-4ce7-97a3-29cb6b6c8690",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.04.2021&to=17.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a549d58797479806dcdf1f46f0c71a49a69c50bd3e04ee28097abb319acbcfce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
