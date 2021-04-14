@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2021-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 442,
+  "case_year": 2020,
+  "judge_rapporteur": "Ангелина Гергинова Гергинска",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c18bb517-dc17-40b4-ae4c-13d4aeaa7447",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36161f7ad634ec29641e7a8ff9d32969723cd483e43c15d960b7a379bcde2cc1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
