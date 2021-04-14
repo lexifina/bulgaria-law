@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16477,
+  "case_year": 2019,
+  "judge_rapporteur": "ЕЛИЦА ЙОРДАНОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d32d04d-d62a-4b90-9366-748d0cf1b0f2",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.04.2021&to=15.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91e88cace357a8b2389b9e9c6d91aff86d3a6d1ca4a83ae9e4a52ce6e317db0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
