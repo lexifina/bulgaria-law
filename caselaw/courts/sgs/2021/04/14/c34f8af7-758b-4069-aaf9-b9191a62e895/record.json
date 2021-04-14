@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 449,
+  "case_year": 2021,
+  "judge_rapporteur": "НИКОЛА ПЕТРОВ ЧОМПАЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c34f8af7-758b-4069-aaf9-b9191a62e895",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.04.2021&to=15.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "91e88cace357a8b2389b9e9c6d91aff86d3a6d1ca4a83ae9e4a52ce6e317db0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
