@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 84,
+  "case_year": 2021,
+  "judge_rapporteur": "КАМЕЛИЯ ПЛАМЕНОВА КОЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb51498f-e445-49e2-a25b-288b728f4b42",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fa623a553fab34c3cf7c4955e1af8d721fb8b9fb5d383ff92d828a86fbb62cda",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
