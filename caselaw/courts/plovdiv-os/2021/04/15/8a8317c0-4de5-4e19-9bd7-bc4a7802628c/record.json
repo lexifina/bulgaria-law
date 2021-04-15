@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 151,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕЛЕНА ЙОРДАНОВА ЗАХОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a8317c0-4de5-4e19-9bd7-bc4a7802628c",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=27.03.2021&to=18.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4c0f0dd4a5e18ed907ec3a5342e0288adeb490a519328e74e36ba38a98a8664",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
