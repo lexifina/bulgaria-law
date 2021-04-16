@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5392,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИАНА МЛАДЕНОВА МАТЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a554279f-4b57-4202-9f15-e6f048984a26",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=27.03.2021&to=18.04.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b1f37d68130d75c4802ddee6f821c946e28e6cf0fcda1cb776f6a1e3410247b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
