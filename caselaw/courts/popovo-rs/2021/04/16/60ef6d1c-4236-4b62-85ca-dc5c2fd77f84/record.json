@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2021-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИНЕЛА ГЕОРГИЕВА СТЕФАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60ef6d1c-4236-4b62-85ca-dc5c2fd77f84",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ecb734a8936a97312988e21105b5399f843f66a02a0c2228cebf15cffd459f30",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
