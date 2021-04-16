@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 1736,
+  "case_year": 2021,
+  "judge_rapporteur": "Велина Пенева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b3b2f6b6-0fa7-47d8-ae62-129fd99996b4",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=27.03.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2c713a598ed80f89a3c3445619672882fe16d3c3d927faa27622df81515a967",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
