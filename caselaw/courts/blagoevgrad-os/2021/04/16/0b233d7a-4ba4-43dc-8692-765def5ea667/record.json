@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2021-04-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 308,
+  "case_year": 2021,
+  "judge_rapporteur": "Ангелина Бисеркова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b233d7a-4ba4-43dc-8692-765def5ea667",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=21.03.2021&to=20.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f076622814f997345f8652a1e2fac36561bb5cd9e4df400287c44d130ce113f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
