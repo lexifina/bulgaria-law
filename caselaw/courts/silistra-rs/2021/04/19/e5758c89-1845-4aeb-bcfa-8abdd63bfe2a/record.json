@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1451,
+  "case_year": 2020,
+  "judge_rapporteur": "Жанет Иванова Борова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e5758c89-1845-4aeb-bcfa-8abdd63bfe2a",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "faadd3ee01ebbcaf5b2827daf5988d0a09ac11b2146b84d001f9d9dfdb13e523",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
