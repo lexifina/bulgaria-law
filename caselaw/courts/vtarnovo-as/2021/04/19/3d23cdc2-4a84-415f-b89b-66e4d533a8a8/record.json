@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 161,
+  "case_year": 2021,
+  "judge_rapporteur": "ГАЛЯ МАРИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3d23cdc2-4a84-415f-b89b-66e4d533a8a8",
+  "motives_file": null,
+  "source": "https://vtarnovo-as.justice.bg/bg/2395?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6efb9ce46ac2efaa22c95c713e50e8871a44c721352c0352670b0b8ecb3222de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
