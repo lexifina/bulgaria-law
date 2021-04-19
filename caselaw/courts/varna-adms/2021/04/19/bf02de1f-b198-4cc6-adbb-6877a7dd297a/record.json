@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-04-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2791,
+  "case_year": 2020,
+  "judge_rapporteur": "РАЛИЦА ДОБРЕВА АНДОНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bf02de1f-b198-4cc6-adbb-6877a7dd297a",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=19.04.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b800a232308364ac79d4f4d5b1ad6247bba168432db53708c35679b42ef835e0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
