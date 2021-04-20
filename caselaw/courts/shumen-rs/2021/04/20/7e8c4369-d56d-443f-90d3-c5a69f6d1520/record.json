@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2021-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 165,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕМИЛИЯН КИРИЛОВ АНГЕЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7e8c4369-d56d-443f-90d3-c5a69f6d1520",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=27.03.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d38a1d68d08775296b3b1c4b262e420de3ec885e4217362906f4724e892cbf9f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
