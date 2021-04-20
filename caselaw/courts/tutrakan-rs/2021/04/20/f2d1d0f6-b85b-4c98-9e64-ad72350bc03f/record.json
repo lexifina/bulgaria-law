@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2021-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 552,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕОРГИ МАНОЛОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2d1d0f6-b85b-4c98-9e64-ad72350bc03f",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "840b48e93b9eae419ae14293afe3bf1583d8bce7315ca7557ad51ad39871beba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
