@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 445,
+  "case_year": 2020,
+  "judge_rapporteur": "АНГЕЛ ПЕТРОВ ТАШЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48153166-9896-47b7-a2c9-be2725342c66",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=19.04.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8c07844459edf4d111e790a9c80a3cb84d2e1267996ce0f1cd5867fd95295751",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
