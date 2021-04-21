@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2021-04-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 85,
+  "case_year": 2021,
+  "judge_rapporteur": "БОРИС ОГНЯНОВ БОРИСОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee7d7a4a-268f-4222-b607-60ffbf24dda5",
+  "motives_file": null,
+  "source": "https://vidin-adms.justice.bg/bg/505?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "583ab7ac7b408c2c61d471030e39cf20c914ff7d34385fda781996679965aae2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
