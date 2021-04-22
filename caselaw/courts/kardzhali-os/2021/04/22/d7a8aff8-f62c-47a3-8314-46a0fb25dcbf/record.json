@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2021-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 73,
+  "case_year": 2021,
+  "judge_rapporteur": "Георги Стоянов Милушев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7a8aff8-f62c-47a3-8314-46a0fb25dcbf",
+  "motives_file": null,
+  "source": "https://kardzhali-os.justice.bg/bg/3445?from=11.02.2021&to=13.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "213df4d2e19a73430d8c5975f57afa92eea7707253164b05b7a9b3f24296f42f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
