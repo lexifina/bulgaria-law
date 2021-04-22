@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2021-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 46,
+  "case_year": 2021,
+  "judge_rapporteur": "Спас Маринов Стефанов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e012b6cc-6e39-47d9-9042-de80cf05968a",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "840b48e93b9eae419ae14293afe3bf1583d8bce7315ca7557ad51ad39871beba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
