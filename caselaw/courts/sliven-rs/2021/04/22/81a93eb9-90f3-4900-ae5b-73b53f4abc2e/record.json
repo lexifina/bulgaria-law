@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-04-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1238,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Димитрова Каранашева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81a93eb9-90f3-4900-ae5b-73b53f4abc2e",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=27.03.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb56439151f202370e17409cad147df183f48eaa3ad6e8c7302c46ebefb77856",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
