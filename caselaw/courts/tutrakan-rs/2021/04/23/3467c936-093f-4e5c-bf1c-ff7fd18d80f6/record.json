@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2021-04-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 53,
+  "case_year": 2021,
+  "judge_rapporteur": "Спас Маринов Стефанов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3467c936-093f-4e5c-bf1c-ff7fd18d80f6",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "840b48e93b9eae419ae14293afe3bf1583d8bce7315ca7557ad51ad39871beba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
