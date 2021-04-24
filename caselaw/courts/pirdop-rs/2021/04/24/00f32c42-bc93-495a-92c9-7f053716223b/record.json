@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2021-04-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 191,
+  "case_year": 2019,
+  "judge_rapporteur": "СИМЕОН ГОРАНОВ ГЮРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=00f32c42-bc93-495a-92c9-7f053716223b",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "56aaabdeb45fe10866b4a8d664e4ee1fe5e04c044349478fb82f869789685ba3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
