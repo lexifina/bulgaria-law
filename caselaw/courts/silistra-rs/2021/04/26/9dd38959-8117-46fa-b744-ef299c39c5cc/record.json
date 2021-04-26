@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 227,
+  "case_year": 2021,
+  "judge_rapporteur": "Мирослав Стефанов Христов",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9dd38959-8117-46fa-b744-ef299c39c5cc",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "faadd3ee01ebbcaf5b2827daf5988d0a09ac11b2146b84d001f9d9dfdb13e523",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
