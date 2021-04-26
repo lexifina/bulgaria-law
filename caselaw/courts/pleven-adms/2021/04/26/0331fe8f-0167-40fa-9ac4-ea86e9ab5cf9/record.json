@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-04-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1067,
+  "case_year": 2020,
+  "judge_rapporteur": "СНЕЖИНА МОЙНОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0331fe8f-0167-40fa-9ac4-ea86e9ab5cf9",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32f003322520f000cb6e9b701df14046bc4c087e95c576b26ceac8937f2ca143",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
