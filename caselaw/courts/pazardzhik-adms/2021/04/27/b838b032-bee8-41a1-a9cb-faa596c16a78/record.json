@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 190,
+  "case_year": 2021,
+  "judge_rapporteur": "НИКОЛАЙ ХРИСТОВ ИНГИЛИЗОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b838b032-bee8-41a1-a9cb-faa596c16a78",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3810d6fc721e26413792bcb22b2b5a26b608a1e8e1f59f1c6de4b0b21810303b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
