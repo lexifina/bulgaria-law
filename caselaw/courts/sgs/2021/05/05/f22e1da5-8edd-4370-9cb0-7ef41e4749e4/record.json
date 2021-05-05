@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 4583,
+  "case_year": 2020,
+  "judge_rapporteur": "ДАНИЕЛА ВЕЛИНОВА БОРИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f22e1da5-8edd-4370-9cb0-7ef41e4749e4",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=01.05.2021&to=05.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "245ac25710cf8a975e40665baec001d47133be06a41dca0fdcb6e42703205609",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
