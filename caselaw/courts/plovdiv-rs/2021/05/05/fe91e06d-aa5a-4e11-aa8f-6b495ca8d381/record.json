@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1913,
+  "case_year": 2021,
+  "judge_rapporteur": "Поля Петрова Сакутова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe91e06d-aa5a-4e11-aa8f-6b495ca8d381",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=03.05.2021&to=07.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7066dacba155749896d107156ddb984744fb490f95be032285ae7af19679884c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
