@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-05-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 1005,
+  "case_year": 2021,
+  "judge_rapporteur": "РУМЯНА БОНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=db5b7431-97eb-4308-85c6-5eef87c50c2c",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "293f5f529573013a7d7a353c14dfba6076266af5a351bdce76129918be6faeca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
