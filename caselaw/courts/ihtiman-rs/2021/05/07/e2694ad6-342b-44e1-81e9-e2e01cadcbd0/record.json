@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2021-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1040,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСЛАВА МАРИНОВА ЙОРДАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2694ad6-342b-44e1-81e9-e2e01cadcbd0",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "44df60651635108a47db5da9978a226637214b996c7382ebde900daab6fa8baf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
