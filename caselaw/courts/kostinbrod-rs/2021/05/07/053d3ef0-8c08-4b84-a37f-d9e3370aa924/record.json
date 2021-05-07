@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2021-05-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 58,
+  "case_year": 2021,
+  "judge_rapporteur": "Аксиния Борисова Атанасова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=053d3ef0-8c08-4b84-a37f-d9e3370aa924",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "52f99310f2a76ca49fad4f64703e3ab192cea2f43f73c028eae2f6da9770ff7b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
