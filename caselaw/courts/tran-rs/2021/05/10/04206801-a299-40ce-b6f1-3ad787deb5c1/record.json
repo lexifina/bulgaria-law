@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2021-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 9,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТЪР СИМЕОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04206801-a299-40ce-b6f1-3ad787deb5c1",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32bf57030d1b2288b039c1166c199156654783700c2a1c61ac1a26945ffb1da8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
