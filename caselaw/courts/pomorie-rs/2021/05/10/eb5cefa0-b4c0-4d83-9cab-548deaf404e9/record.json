@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2021-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 482,
+  "case_year": 2020,
+  "judge_rapporteur": "Димитър Маринов Димитров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb5cefa0-b4c0-4d83-9cab-548deaf404e9",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=09.02.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a32533011f1425f3604c43d1ac328628d01947219951fb20b0d5162a28bf3dce",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
