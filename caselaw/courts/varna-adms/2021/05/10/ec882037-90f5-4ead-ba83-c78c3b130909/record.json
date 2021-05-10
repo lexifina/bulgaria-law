@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 574,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯНА ПЕНЧЕВА БАХЧЕВАН",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ec882037-90f5-4ead-ba83-c78c3b130909",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=19.04.2021&to=11.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b800a232308364ac79d4f4d5b1ad6247bba168432db53708c35679b42ef835e0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
