@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 327,
+  "case_year": 2021,
+  "judge_rapporteur": "Радка Димова Чолакова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=072d4dbe-c199-4856-989e-b20fb237c6b8",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ed4a7ebeb8a4a1793de0662396f70f539ab3a049eadc525a5a1aee66689a45b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
