@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2021-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2,
+  "case_year": 2021,
+  "judge_rapporteur": "Владимир Стоянов Иванов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3fe05c28-fa5a-41f3-a300-5682f3e64ce4",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "396e3feb16a0845381523f74ccb11583edcd96bbbbf89af0d0f3ec1b0a18c97f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
