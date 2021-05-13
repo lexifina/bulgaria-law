@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2021-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 92,
+  "case_year": 2021,
+  "judge_rapporteur": "Ъшъл Лютфи Ириева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53231462-88b8-4abe-abd8-af20eedfdd61",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6ba0c15a2f50dd0f3a8e939541e86c9f15d6f9405ee475c8f5c9f0072fba05b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
