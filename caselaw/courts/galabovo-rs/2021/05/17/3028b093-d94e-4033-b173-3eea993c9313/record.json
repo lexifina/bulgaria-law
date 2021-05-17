@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2021-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 84,
+  "case_year": 2021,
+  "judge_rapporteur": "Христо Ангелов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3028b093-d94e-4033-b173-3eea993c9313",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dfc641dc0ca44f2f4d1b05bf737ff12419d53de16fcb41d8a799276b24d98eb9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
