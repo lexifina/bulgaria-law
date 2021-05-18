@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 965,
+  "case_year": 2021,
+  "judge_rapporteur": "Мира Мирчева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c616b3aa-34d1-4881-ae8c-a2ddb0b2076b",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=12.05.2021&to=03.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d6cd183b718013f1afe3670e7b1fb38e83f99f8c780123c0eaaf094c61232cf4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
