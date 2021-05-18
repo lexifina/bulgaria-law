@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 260,
+  "case_year": 2021,
+  "judge_rapporteur": "Христо Иванов Крачолов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5f8102ff-4ede-4312-bfb6-b712414bdfc8",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ed4a7ebeb8a4a1793de0662396f70f539ab3a049eadc525a5a1aee66689a45b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
