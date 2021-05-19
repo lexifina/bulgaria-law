@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 984,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Николова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98174061-cf16-424d-a060-f113067b61ea",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.05.2021&to=22.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0d8a4b4095ec0e649b12f55f34994f1468a06dd11e7e0881eee31e3d9debe341",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
