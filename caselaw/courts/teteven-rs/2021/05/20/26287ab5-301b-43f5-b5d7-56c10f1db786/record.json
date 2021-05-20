@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2021-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 368,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИО ДИМИТРОВ СТОЯНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=26287ab5-301b-43f5-b5d7-56c10f1db786",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "eff88811e42f8451cc3ae3d24576de408f858a7cdfbcb70a10c8e431f6e6cf38",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
