@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2021-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 49,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Кирилова Дановска",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2daf24e0-4ebd-4269-af31-b05ee886d6f1",
+  "motives_file": null,
+  "source": "https://kardzhali-os.justice.bg/bg/3445?from=14.05.2021&to=13.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f43e597ca9a577786114ca53ce8c0212406738b951d666481cf179ad73c0d96",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
