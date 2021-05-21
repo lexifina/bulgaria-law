@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2269,
+  "case_year": 2020,
+  "judge_rapporteur": "СВЕТОСЛАВ ВАСИЛЕВ ВАСИЛЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a3f85cbe-344b-4f50-a472-5df730f140fd",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.05.2021&to=25.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42ad92af36da385bb7a8962cd3308c53f9aa35c7ffe1c3711ac357f7246458d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
