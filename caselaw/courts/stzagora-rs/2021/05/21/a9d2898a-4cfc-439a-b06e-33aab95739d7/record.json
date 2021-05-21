@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1065,
+  "case_year": 2021,
+  "judge_rapporteur": "НЕДЕЛИНА ТАНЧЕВА МИНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a9d2898a-4cfc-439a-b06e-33aab95739d7",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=12.05.2021&to=03.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d09508440ce55123b2f936653319ec3a9d3eb322ef5ea1a9d84588b870a31dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
