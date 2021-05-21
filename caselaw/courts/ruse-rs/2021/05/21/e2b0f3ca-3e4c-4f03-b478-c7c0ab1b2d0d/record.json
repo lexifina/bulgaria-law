@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 947,
+  "case_year": 2021,
+  "judge_rapporteur": "Кристиан Бориславов Гюрчев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2b0f3ca-3e4c-4f03-b478-c7c0ab1b2d0d",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=12.05.2021&to=03.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "646beaf40ee955d043ec662994572928c8101d3e4aeb1683c8cea0a1bab88338",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
