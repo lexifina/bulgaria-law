@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Петрич",
+  "jurisdiction": "BG",
+  "date": "2021-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 386,
+  "case_year": 2021,
+  "judge_rapporteur": "Божана Цветанова Манасиева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5677b8d3-abb7-46f7-8eaa-95d8d225befb",
+  "motives_file": null,
+  "source": "https://petrich-rs.justice.bg/bg/9605?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5ad1998b60cb82a4b3cde636cc286ad9f4296d67aa9bdd19e69dee99bd1b7972",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
