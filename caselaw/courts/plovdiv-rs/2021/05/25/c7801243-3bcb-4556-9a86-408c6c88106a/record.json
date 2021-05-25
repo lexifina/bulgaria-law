@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 3316,
+  "case_year": 2021,
+  "judge_rapporteur": "Боян Димитров Кюртов",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c7801243-3bcb-4556-9a86-408c6c88106a",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.05.2021&to=27.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bab5e4020019ce84cb9966c8fae94bf5392ee4360c164c486f2c17dbf967d339",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
