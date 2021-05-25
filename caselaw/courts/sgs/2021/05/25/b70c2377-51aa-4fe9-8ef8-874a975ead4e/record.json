@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1859,
+  "case_year": 2021,
+  "judge_rapporteur": "Ралица Велимирова Симеонова Манолова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b70c2377-51aa-4fe9-8ef8-874a975ead4e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.05.2021&to=25.05.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "42ad92af36da385bb7a8962cd3308c53f9aa35c7ffe1c3711ac357f7246458d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
