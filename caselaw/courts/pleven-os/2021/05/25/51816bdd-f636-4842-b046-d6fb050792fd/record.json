@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 338,
+  "case_year": 2021,
+  "judge_rapporteur": "Екатерина Тихомирова Георгиева Панова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51816bdd-f636-4842-b046-d6fb050792fd",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "086bbdc678e20f07f0754295246a909694ce9d8b717f7f481301840ddfee5a01",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
