@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 194,
+  "case_year": 2021,
+  "judge_rapporteur": "полк.ВАНКО ДИМИТРОВ АНГЕЛОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7481e7f8-8b76-462d-802d-ba620a918d0d",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57afcd9e5e1954c86b36272306eee0d9ee471f383eb64b06a889532d0079ba62",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
