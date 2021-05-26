@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трявна",
+  "jurisdiction": "BG",
+  "date": "2021-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 124,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЯРА ПЕТРАКИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e32d6817-373a-4446-b3d5-bfdc8c292cf1",
+  "motives_file": null,
+  "source": "https://tryavna-rs.justice.bg/bg/11775?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aaa6aef22da9953f9a1e1ed15221859054101eaf078784969059ca000493a470",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
