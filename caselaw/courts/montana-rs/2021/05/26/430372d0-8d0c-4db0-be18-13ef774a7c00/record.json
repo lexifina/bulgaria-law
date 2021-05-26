@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2021-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 358,
+  "case_year": 2021,
+  "judge_rapporteur": "ДИМИТРИНА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=430372d0-8d0c-4db0-be18-13ef774a7c00",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c1c5613d953740bc9cddd7cda119ffbdcb8763a682b59ef5424cf1eb9459c45",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
