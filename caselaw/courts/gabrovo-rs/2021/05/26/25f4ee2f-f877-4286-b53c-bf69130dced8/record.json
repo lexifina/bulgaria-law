@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1911,
+  "case_year": 2020,
+  "judge_rapporteur": "РАДОСВЕТА ДОБРЕВА СТАНИМИРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25f4ee2f-f877-4286-b53c-bf69130dced8",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75900eef5ada52cd0f75fe3a3f60c780599d35657e69e9df6ca5abd09c31ee6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
