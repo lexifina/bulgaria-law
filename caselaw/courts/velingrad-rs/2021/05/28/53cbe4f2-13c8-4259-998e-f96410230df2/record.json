@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2021-05-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 195,
+  "case_year": 2020,
+  "judge_rapporteur": "ВАЛЕНТИНА ДРАГИЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53cbe4f2-13c8-4259-998e-f96410230df2",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aba53197fff7f4db19795be8fb6746a4f9f03b65706bc3cd486270ec59df9475",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
