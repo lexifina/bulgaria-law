@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6573,
+  "case_year": 2020,
+  "judge_rapporteur": "ЯВОР ПЕТРОВ ДЖАМАЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=107a735a-b653-4c7e-b93d-68d06723a10f",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=12.05.2021&to=03.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "573aebb7ce28043d30dbb488a27799e2e07417db18a0515b43f53e4b29afe4bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
