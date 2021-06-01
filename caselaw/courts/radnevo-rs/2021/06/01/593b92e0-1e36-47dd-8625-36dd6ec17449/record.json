@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2021-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 129,
+  "case_year": 2021,
+  "judge_rapporteur": "Христина Вълчанова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=593b92e0-1e36-47dd-8625-36dd6ec17449",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9375f020eb4ad85524650d4dac33ddd4384c292504711c0a857c5afa6c84f809",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
