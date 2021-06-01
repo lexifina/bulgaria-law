@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 63,
+  "case_year": 2021,
+  "judge_rapporteur": "МАЯ ПЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e2a5820-e8c2-4f6c-92e8-df984f43ff4c",
+  "motives_file": null,
+  "source": "https://vtarnovo-as.justice.bg/bg/2395?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb884c13713ece5c8fd52ba254581fbb62ee545a3d56c220d7360b44c9a5d233",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
