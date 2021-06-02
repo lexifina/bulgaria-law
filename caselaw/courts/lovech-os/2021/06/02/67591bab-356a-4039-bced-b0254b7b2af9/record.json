@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2021-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 203,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕМИЛ ДАВИДОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=67591bab-356a-4039-bced-b0254b7b2af9",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7c02537e2cdb607bf0238821c258c4d117b7fe018906cc21a8512895afe8459a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
