@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 21321,
+  "case_year": 2019,
+  "judge_rapporteur": "НЕДЯЛКА НИКОЛОВА ВЪЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=77679a2b-09d6-44a9-bd36-983b22f3bfb6",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=02.06.2021&to=06.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "676375b43f5a3d23e306ab4cf049789888e19c9aae451c50663ee836d17bf23c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
