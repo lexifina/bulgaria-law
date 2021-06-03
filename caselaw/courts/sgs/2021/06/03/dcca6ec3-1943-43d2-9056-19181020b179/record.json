@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2921,
+  "case_year": 2021,
+  "judge_rapporteur": "ЛЮБОМИР ИЛИЕВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dcca6ec3-1943-43d2-9056-19181020b179",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=31.05.2021&to=04.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a64851330bf5319f504d5a56cf588173161326a89959b779ea8995c9a09913b1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
