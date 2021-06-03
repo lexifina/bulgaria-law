@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2021-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 348,
+  "case_year": 2021,
+  "judge_rapporteur": "Васил Александров Василев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40a3ab6d-f5ec-442a-b1db-af84fdf70b4e",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c113f127350dd46f1b700e7224b54213d1b085471ee38f58df3db05172e8295",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
