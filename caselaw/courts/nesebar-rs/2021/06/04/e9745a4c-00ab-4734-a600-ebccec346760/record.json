@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2021-06-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 412,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТЪР СЛАВОВ ПЕТРОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9745a4c-00ab-4734-a600-ebccec346760",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2750f5f294485e41e23fbe44d25c5ced677fa93d1d34b547018c7bd57a4b6df3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
