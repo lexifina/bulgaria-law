@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1460,
+  "case_year": 2021,
+  "judge_rapporteur": "Тодор Тодоров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=90cdd261-a0f3-40d4-9fca-cbe0c35a16f2",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee7eeeba661d808642fef1f5e2fd9ae0ce8051d15327866ca0a4cd529b0d2561",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
