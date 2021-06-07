@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2021-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5,
+  "case_year": 2021,
+  "judge_rapporteur": "Трифон Пенчев Славков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=597afab9-3eeb-4ea1-9c41-c8ab94dc7f9b",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85aaa5e15fd71da10658cde7c9b9587af0a3f88a69e15fb425cbc4fefd722815",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
