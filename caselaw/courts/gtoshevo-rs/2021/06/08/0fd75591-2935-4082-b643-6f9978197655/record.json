@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2021-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 77,
+  "case_year": 2021,
+  "judge_rapporteur": "Росен Минков Стоянов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0fd75591-2935-4082-b643-6f9978197655",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "299517e59c07df23b30758c1c4820c207ed5ab14b9750d08afa2958119ffbb75",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
