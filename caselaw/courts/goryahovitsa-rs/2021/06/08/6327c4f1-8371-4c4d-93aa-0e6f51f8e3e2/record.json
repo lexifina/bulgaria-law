@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2021-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 255,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Асенова Карагьозова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6327c4f1-8371-4c4d-93aa-0e6f51f8e3e2",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85aaa5e15fd71da10658cde7c9b9587af0a3f88a69e15fb425cbc4fefd722815",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
