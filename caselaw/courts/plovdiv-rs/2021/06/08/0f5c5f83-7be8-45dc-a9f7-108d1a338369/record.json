@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15033,
+  "case_year": 2020,
+  "judge_rapporteur": "АЛЕКСАНДЪР ВЕНКОВ ТОЧЕВСКИ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f5c5f83-7be8-45dc-a9f7-108d1a338369",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=07.06.2021&to=11.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "971ade299d3114e57a834c69a5c6e94ffef9b63a80e769d3a2072f371e12b9d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
