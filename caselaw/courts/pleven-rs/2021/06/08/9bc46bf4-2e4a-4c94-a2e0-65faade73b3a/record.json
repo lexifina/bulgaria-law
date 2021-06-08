@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6647,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТЛА ИЛМЕНОВА ЗАМФИРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9bc46bf4-2e4a-4c94-a2e0-65faade73b3a",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=04.06.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba27e40a4c440a58ba78d137828f511c44b26c6b47143206f7c45fb555c3abe4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
