@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 10101,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВЕЛИНА КАРЧЕВА ЯНЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55e13bd9-feb5-41e9-819f-e94c0981a23a",
+  "motives_file": null,
+  "source": "https://vtarnovo-adms.justice.bg/bg/435?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50b510ef868710c3db3505b2024b9d85591705a335fcbb7f1565d0bc07f93d02",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
