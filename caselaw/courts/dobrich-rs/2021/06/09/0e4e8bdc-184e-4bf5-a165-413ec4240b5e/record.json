@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1171,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕСЕЛИН ИВАНОВ НИКОЛОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0e4e8bdc-184e-4bf5-a165-413ec4240b5e",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e4c9512e400f5b4705e90df56550331fac0901d8c56c3b0c1aa93d4b6fcc4a66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
