@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3305,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕВГЕНИ МИРОСЛАВОВ УЗУНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3482cdcf-48d3-4c3e-a48b-ee9dc95228aa",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=03.06.2021&to=13.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "590212d1ab1ab81f66dd74b7e88f69a731528d830490f16ed4900848371b56cd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
