@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2021-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 63,
+  "case_year": 2021,
+  "judge_rapporteur": "Пламен Ангелов Станчев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=99edc99c-87bf-4b66-a2e8-5d22e44caae6",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=12.05.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85aaa5e15fd71da10658cde7c9b9587af0a3f88a69e15fb425cbc4fefd722815",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
