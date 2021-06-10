@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военно-апелативен съд",
+  "jurisdiction": "BG",
+  "date": "2021-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 32,
+  "case_year": 2021,
+  "judge_rapporteur": "полк. РУМЕН ЛЮБЕНОВ ПЕТКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=499b1910-8409-402d-b642-b320f8c0fc01",
+  "motives_file": null,
+  "source": "https://voas.justice.bg/bg/2815?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0d6f7dcfefb288618eea266e202ac753f54c3ffa46b474174315068096227259",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
