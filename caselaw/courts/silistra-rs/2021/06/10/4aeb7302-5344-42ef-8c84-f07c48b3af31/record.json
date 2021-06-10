@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1541,
+  "case_year": 2020,
+  "judge_rapporteur": "Мария Николаева Петрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4aeb7302-5344-42ef-8c84-f07c48b3af31",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d45714cf767b1c819911ac3b54efa8b7e4057634357497fffa845cccc920323",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
