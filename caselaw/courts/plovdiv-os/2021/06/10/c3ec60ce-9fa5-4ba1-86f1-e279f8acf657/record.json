@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 845,
+  "case_year": 2021,
+  "judge_rapporteur": "Силвия Александрова Цанкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3ec60ce-9fa5-4ba1-86f1-e279f8acf657",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=04.06.2021&to=26.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c92b3518e522dfcb3d85988137b1a531e0bc25fd28a51b3c09d9f1f64443526",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
