@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3786,
+  "case_year": 2020,
+  "judge_rapporteur": "ГЕОРГИ ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c1c6c04-4604-492c-8d5d-693ac0f18423",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=12.06.2021&to=16.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6ec670335c2ec168a3bff5194c31ddf7722b372ba71824b97514486e92709d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
