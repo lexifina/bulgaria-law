@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2021-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 898,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИМИТЪР МАРИНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6884425e-01fc-4827-8e1d-c430d1752add",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "704b9c38ddc85a4ff9e7a8a1fc341802e0885e50607d7b28f63004c4ad667cd8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
