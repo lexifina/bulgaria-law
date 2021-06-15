@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-06-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3797,
+  "case_year": 2021,
+  "judge_rapporteur": "Боян Димитров Кюртов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aab4c943-da9e-4ab4-8636-800c7c5ed42a",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=12.06.2021&to=16.06.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6ec670335c2ec168a3bff5194c31ddf7722b372ba71824b97514486e92709d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
