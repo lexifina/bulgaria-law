@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Никопол",
+  "jurisdiction": "BG",
+  "date": "2021-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 242,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛЯ ВЕЛИЧКОВА НАУМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=df75a000-f0f3-4c01-ab97-d4ed09fea7c8",
+  "motives_file": null,
+  "source": "https://nikopol-rs.justice.bg/bg/8975?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9a7793ed7a5c74dd07960ba9404710f040b06dc8d0b4c51635eafa3daee3a9c7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
