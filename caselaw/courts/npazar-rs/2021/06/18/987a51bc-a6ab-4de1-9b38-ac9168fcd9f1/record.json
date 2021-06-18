@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2021-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 382,
+  "case_year": 2020,
+  "judge_rapporteur": "АТАНАСКА ДИМИТРОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=987a51bc-a6ab-4de1-9b38-ac9168fcd9f1",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e8bc70a675e5cff89e116a7371367bfa206540377d3314537283f2800982271",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
