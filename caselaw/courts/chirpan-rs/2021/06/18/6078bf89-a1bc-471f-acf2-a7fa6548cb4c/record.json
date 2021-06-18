@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2021-06-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 794,
+  "case_year": 2020,
+  "judge_rapporteur": "ТИХОМИР КОЛЕВ КОЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6078bf89-a1bc-471f-acf2-a7fa6548cb4c",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc1f92f07589d6a8a3c5e892775c4238af0623bfbe15a58a56c116a5c906b90b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
