@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2021-06-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 322,
+  "case_year": 2021,
+  "judge_rapporteur": "Кремена Тодорова Стамболиева Байнова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ebb916ef-3c83-4890-8bad-7fd1f9ffcae4",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "299b6f4174b6bfc01196b04dd643ddddbfdc4c62bad5096be18e6e3925ea4219",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
