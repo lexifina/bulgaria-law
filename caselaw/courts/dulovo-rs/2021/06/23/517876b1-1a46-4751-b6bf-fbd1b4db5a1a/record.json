@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 106,
+  "case_year": 2021,
+  "judge_rapporteur": "Емил Василев Николаев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=517876b1-1a46-4751-b6bf-fbd1b4db5a1a",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f5212e7b7799185116c89af73d92228ab55dc806d37401c2ed50e24080691df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
