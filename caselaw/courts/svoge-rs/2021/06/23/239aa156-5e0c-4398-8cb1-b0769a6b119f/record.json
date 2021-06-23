@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 176,
+  "case_year": 2020,
+  "judge_rapporteur": "РУМЕН АТАНАСОВ СТОЙНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=239aa156-5e0c-4398-8cb1-b0769a6b119f",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96a4a1321d1e93c473e22216058cd1c0fc4158cd29ded0e75055dabe719e1c6c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
