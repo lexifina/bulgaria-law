@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 79,
+  "case_year": 2021,
+  "judge_rapporteur": "Диана Ангелова Петракиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=776dcb5b-ee0d-4adf-8dd3-1d725c784483",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75900eef5ada52cd0f75fe3a3f60c780599d35657e69e9df6ca5abd09c31ee6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
