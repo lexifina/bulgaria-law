@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 152,
+  "case_year": 2021,
+  "judge_rapporteur": "Петър Валентинов Живков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=14efa993-b413-46aa-8a34-5d86a5def3fb",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "889b6638b3d649a9ca2d5291adae379a470ca0e5bd9edfdae13235f936bd0306",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
