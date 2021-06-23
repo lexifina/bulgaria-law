@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 469,
+  "case_year": 2021,
+  "judge_rapporteur": "Кремена Тодорова Стамболиева Байнова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=925237c6-c45e-43b3-b85c-00c2a91fadca",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "299b6f4174b6bfc01196b04dd643ddddbfdc4c62bad5096be18e6e3925ea4219",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
