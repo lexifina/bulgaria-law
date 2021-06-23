@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2021-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 42,
+  "case_year": 2020,
+  "judge_rapporteur": "Любен Димитров Хаджииванов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5838b7bb-ba76-4113-b7d0-887393769146",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b24b7bd0fc29e2207a98bacea41a63ea24f5ddd8bfce0b23c6b232a6218cdf34",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
