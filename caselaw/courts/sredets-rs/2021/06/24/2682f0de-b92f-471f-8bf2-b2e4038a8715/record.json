@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2021-06-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 22,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕНЕТА ДИМИТРОВА СТЕФАНОВА-ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2682f0de-b92f-471f-8bf2-b2e4038a8715",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ff17315c5cf272fc9aed3b0937b58d7d66dfbcaed5b17491a1a6aa4950e6757",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
