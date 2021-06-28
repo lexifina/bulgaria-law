@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 99,
+  "case_year": 2021,
+  "judge_rapporteur": "Десислава Ангелова Ралинова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cfcf658b-2734-41dd-96f0-2e1500ec815a",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1371dd84597710f52d5e2e6a018b4772c1c9ba4b033bf6f88a81b5b75429225",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
