@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2584,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЯРА ИВАНОВА КАМБУРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8860c90-72f6-4de1-99e2-42c106c7061e",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c47749943ff40d9ae9519bf8110a7099d0d657d4665f142f2f3f707903007c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
