@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2021-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 54,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА КОНСТАНТИНОВА НИКОЛАЕВА-ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d1a13468-93e4-403a-a330-a8be7e44d29b",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50114df96835a7133dd975737d029a22a6ca4ea34fa1c8a16f3bfbc73b70eb93",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
