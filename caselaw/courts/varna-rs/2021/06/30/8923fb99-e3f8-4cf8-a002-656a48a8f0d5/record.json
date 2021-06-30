@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2509,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕЛЕНА ИВАНОВА НИКОЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8923fb99-e3f8-4cf8-a002-656a48a8f0d5",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.06.2021&to=01.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b22ee7b31f4228c0f05a8425638dd0964931c7a8fb015c1476a45ec7f4113081",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
