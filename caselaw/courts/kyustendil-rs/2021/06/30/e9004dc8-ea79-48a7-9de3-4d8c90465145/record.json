@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2021-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 437,
+  "case_year": 2021,
+  "judge_rapporteur": "СВЕТОСЛАВ ЕМИЛОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9004dc8-ea79-48a7-9de3-4d8c90465145",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3df7061b1da32435836d646b776d9c5794aee9efdf4d4572ee3365cb3c02065",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
