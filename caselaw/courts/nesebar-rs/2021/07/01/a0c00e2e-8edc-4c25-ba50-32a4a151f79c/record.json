@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2021-07-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 554,
+  "case_year": 2020,
+  "judge_rapporteur": "НИНА РУСЕВА МОЛЛОВА-БЕЛЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0c00e2e-8edc-4c25-ba50-32a4a151f79c",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2750f5f294485e41e23fbe44d25c5ced677fa93d1d34b547018c7bd57a4b6df3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
