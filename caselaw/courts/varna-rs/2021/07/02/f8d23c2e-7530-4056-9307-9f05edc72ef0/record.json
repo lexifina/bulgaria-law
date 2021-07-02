@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1848,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивелина Христова - Желева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8d23c2e-7530-4056-9307-9f05edc72ef0",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=02.07.2021&to=06.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba2822e6abd0aa68c0fb27ff9082bc397f9710d53b49f1bd710e46bbef534958",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
