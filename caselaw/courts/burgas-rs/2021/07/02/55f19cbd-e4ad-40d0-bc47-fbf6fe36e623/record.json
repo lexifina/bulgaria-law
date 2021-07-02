@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-07-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4626,
+  "case_year": 2020,
+  "judge_rapporteur": "МОНИКА ГАРАБЕД ЯХАНАДЖИЯН",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=55f19cbd-e4ad-40d0-bc47-fbf6fe36e623",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=25.06.2021&to=05.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2aa1bef6db5cb3ee7f9b856f4ad323b40414b0fa919db18ee487ca698da67f17",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
