@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2021-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 126,
+  "case_year": 2021,
+  "judge_rapporteur": "МАЯ АНДОНОВА МИЛЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3e9ca48c-23f3-4b40-b126-0a4a1870d0d2",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3df7061b1da32435836d646b776d9c5794aee9efdf4d4572ee3365cb3c02065",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
