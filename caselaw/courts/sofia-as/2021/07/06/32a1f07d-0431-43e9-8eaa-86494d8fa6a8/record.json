@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 704,
+  "case_year": 2021,
+  "judge_rapporteur": "Вера Цветкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=32a1f07d-0431-43e9-8eaa-86494d8fa6a8",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "574c5311034edba8f2a3836e81adcefcd8315cccceed62e33fce9c96fc112d86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
