@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1084,
+  "case_year": 2021,
+  "judge_rapporteur": "Радостина Ташева Гергичанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c4318dd-f652-44d3-a2a4-4ccbf6bdb5f2",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=27.06.2021&to=19.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4fed14ae5ad9c96a750815c4d281e96e228d22e8f234397f119e16c2fe6dd302",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
