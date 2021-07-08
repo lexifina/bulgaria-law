@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2021-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 141,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕЛИ ДЕЛЧЕВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7085ea9b-59a6-43d2-96be-01cd03cf3ae9",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "13549cd949bb92e051540ab1d823c53d18691a013615d99b50fe95fbddae4957",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
