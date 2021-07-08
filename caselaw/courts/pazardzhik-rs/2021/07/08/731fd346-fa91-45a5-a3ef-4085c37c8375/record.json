@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 876,
+  "case_year": 2021,
+  "judge_rapporteur": "Цветанка Вълчева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=731fd346-fa91-45a5-a3ef-4085c37c8375",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=27.06.2021&to=19.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36260fb603377e1d733875c7f3acd02f27d0809701d00bbf12c0e9a8a8ef8a08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
