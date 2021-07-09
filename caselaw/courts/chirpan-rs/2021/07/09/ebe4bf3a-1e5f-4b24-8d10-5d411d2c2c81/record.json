@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чирпан",
+  "jurisdiction": "BG",
+  "date": "2021-07-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 336,
+  "case_year": 2021,
+  "judge_rapporteur": "Атанас Тодоров Динков",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ebe4bf3a-1e5f-4b24-8d10-5d411d2c2c81",
+  "motives_file": null,
+  "source": "https://chirpan-rs.justice.bg/bg/12335?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc1f92f07589d6a8a3c5e892775c4238af0623bfbe15a58a56c116a5c906b90b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
