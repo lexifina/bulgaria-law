@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 310,
+  "case_year": 2021,
+  "judge_rapporteur": "Аглика Гавраилова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1558efc-27ee-4486-8ffc-c2e560cd2b88",
+  "motives_file": null,
+  "source": "https://ruse-os.justice.bg/bg/4075?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f7606c7da8ca9447cb565061d70f26033de5c97d941c518e49adc885e0477e1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
