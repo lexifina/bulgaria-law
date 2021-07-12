@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-07-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 787,
+  "case_year": 2021,
+  "judge_rapporteur": "Диана Коледжикова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66918254-dd8b-429d-9c11-d0c929db20b6",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "574c5311034edba8f2a3836e81adcefcd8315cccceed62e33fce9c96fc112d86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
