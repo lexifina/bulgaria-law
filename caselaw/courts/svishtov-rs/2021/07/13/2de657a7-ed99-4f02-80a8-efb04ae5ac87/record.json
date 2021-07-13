@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свищов",
+  "jurisdiction": "BG",
+  "date": "2021-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1080,
+  "case_year": 2019,
+  "judge_rapporteur": "ТЕОДОРА БОГОМИЛОВА СТОЯНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2de657a7-ed99-4f02-80a8-efb04ae5ac87",
+  "motives_file": null,
+  "source": "https://svishtov-rs.justice.bg/bg/10795?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "03d051183c7efda5789eb7ce067fbaebd0e0cd68298e4c1603ff0c9bf82e7907",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
