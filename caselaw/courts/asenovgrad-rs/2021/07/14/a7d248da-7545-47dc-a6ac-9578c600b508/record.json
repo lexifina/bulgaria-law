@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Асеновград",
+  "jurisdiction": "BG",
+  "date": "2021-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 275,
+  "case_year": 2019,
+  "judge_rapporteur": "СТЕФКА ТОМОВА ПАШОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a7d248da-7545-47dc-a6ac-9578c600b508",
+  "motives_file": null,
+  "source": "https://asenovgrad-rs.justice.bg/bg/4845?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dcfabd2f98c0f42844bbdd68744c09cb7663d16e88423054b0e1c44e041de38f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
