@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2021-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 915,
+  "case_year": 2021,
+  "judge_rapporteur": "Мирослав Архангелов Йорданов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9549f995-e55f-4fb0-8ee4-f82eb26c05bd",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=27.06.2021&to=19.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0e40a06e78918f35cf8136f441125572177c868f9574f8593fab9374436d87e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
