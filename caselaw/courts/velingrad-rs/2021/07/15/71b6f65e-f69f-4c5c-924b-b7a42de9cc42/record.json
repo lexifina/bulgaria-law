@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велинград",
+  "jurisdiction": "BG",
+  "date": "2021-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 276,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВАНКА НИКОЛОВА ПЕНЧЕВА",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71b6f65e-f69f-4c5c-924b-b7a42de9cc42",
+  "motives_file": null,
+  "source": "https://velingrad-rs.justice.bg/bg/5755?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aba53197fff7f4db19795be8fb6746a4f9f03b65706bc3cd486270ec59df9475",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
