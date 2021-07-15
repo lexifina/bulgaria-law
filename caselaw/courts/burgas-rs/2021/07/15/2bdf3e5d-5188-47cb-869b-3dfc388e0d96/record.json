@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1696,
+  "case_year": 2021,
+  "judge_rapporteur": "МАГДАЛЕНА СТОЯНОВА МАРИНОВА",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2bdf3e5d-5188-47cb-869b-3dfc388e0d96",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=06.07.2021&to=16.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0a9d469d7dc9912467913aba675ff3b43eec3ff407fe2f496402225d59ff2cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
