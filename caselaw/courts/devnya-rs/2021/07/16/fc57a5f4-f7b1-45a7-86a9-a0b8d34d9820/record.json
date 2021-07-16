@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2021-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 124,
+  "case_year": 2021,
+  "judge_rapporteur": "АНТОНИ ИВАНОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fc57a5f4-f7b1-45a7-86a9-a0b8d34d9820",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "faf2eaf6c27c42125952f16559fa92b81168bfeb9e5dbfa59d42abe51e3a48b4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
