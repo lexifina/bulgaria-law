@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 1976,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Коев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3e087f8-f552-43f1-b4b4-9f982ee21a99",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=15.07.2021&to=19.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2f78c616d8687abb609049fa86bc837a36bcbdeb6dd98987d6a1904e65d6241",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
