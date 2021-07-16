@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 409,
+  "case_year": 2021,
+  "judge_rapporteur": "ДАРИНА СЛАВЧЕВА ДРАГНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8bbed7b-0f4c-40e5-a4f0-846f517fafa1",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "10ca9366e95e4fa59ea3ce37c898e2bf894ae3a8cf268f762cfed848936cfe76",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
