@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 509,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВО ВАСИЛЕВ ДОБРЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ddfeb87d-d957-4b69-ac74-a14aca3ba52d",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c47749943ff40d9ae9519bf8110a7099d0d657d4665f142f2f3f707903007c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
