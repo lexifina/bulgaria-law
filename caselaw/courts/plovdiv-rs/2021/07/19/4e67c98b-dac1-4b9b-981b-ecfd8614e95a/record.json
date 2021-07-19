@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2529,
+  "case_year": 2021,
+  "judge_rapporteur": "Анна Димитрова Дъбова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4e67c98b-dac1-4b9b-981b-ecfd8614e95a",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.07.2021&to=21.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39569ad64b58c184b8c47c3ee2d2f252b2255162156ed76dbbbb869cb4dca336",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
