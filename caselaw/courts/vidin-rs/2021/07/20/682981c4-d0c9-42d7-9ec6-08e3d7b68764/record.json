@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2021-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1309,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Стоянова Стоянова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=682981c4-d0c9-42d7-9ec6-08e3d7b68764",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "70e9cb22a61a59d22acbf560dd85f1e796f22d1f649ce4a5ca8c5ad1219a8eb6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
