@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-07-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4516,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛИЯ КОЛЕВА ЕНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8dc9da6e-93e7-462e-b940-fc1c9274949b",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=20.07.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c38cfc3e0044ac3ff80749de02165ffa3ea428c5dcac1e01adb65fad611e9d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
