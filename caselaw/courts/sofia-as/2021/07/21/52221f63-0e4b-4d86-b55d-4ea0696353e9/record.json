@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 2635,
+  "case_year": 2020,
+  "judge_rapporteur": "Анелия Цанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52221f63-0e4b-4d86-b55d-4ea0696353e9",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "574c5311034edba8f2a3836e81adcefcd8315cccceed62e33fce9c96fc112d86",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
