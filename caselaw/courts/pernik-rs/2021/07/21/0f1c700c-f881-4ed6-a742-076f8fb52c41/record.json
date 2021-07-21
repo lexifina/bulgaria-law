@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3309,
+  "case_year": 2021,
+  "judge_rapporteur": "Явор Петров Джамалов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0f1c700c-f881-4ed6-a742-076f8fb52c41",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=20.07.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "177a3468291b96ad704215113c2c88dddab3aa63c2b8c1d05b5114d6105d8a9e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
