@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тополовград",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 94,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Христов Христов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20b9dbc8-083e-4cd1-9011-ad35886f7745",
+  "motives_file": null,
+  "source": "https://topolovgrad-rs.justice.bg/bg/11565?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "021e15a5c31272d58807b0952f7b3aebca871d1377a10b66f5232ab6b650a4e8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
