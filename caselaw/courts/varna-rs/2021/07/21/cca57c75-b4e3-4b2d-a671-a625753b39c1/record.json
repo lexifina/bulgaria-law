@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7938,
+  "case_year": 2021,
+  "judge_rapporteur": "Неделина Маринова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cca57c75-b4e3-4b2d-a671-a625753b39c1",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=17.07.2021&to=21.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf7f690e1f586ac8e9bf573bb846c5c0ffaa25a21f409562eae26b5616ab626e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
