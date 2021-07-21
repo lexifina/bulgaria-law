@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 122,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Цветанова Бранкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=618d1757-3713-4bcc-93bf-4adab174e6e4",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "888d7d038f257eb3fb3dbfda6a82d54c39f6743def279ab66fccb7c8e3b2e2a9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
