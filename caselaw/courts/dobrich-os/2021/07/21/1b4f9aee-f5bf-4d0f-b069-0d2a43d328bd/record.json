@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 435,
+  "case_year": 2021,
+  "judge_rapporteur": "Галина  Димитрова Жечева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b4f9aee-f5bf-4d0f-b069-0d2a43d328bd",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb9a454cbe03824c30904b1e4d154c3098e74fe44ba54533aa5c38cfc8a4cac3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
