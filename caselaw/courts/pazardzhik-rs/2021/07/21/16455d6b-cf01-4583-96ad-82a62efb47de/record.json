@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-07-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 668,
+  "case_year": 2021,
+  "judge_rapporteur": "Камен Гатев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=16455d6b-cf01-4583-96ad-82a62efb47de",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=20.07.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "915ea407709e2adac4eb52341ac39efd6b682daa1de81781539fc184eccaca3f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
