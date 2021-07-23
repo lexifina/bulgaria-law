@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-07-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1161,
+  "case_year": 2021,
+  "judge_rapporteur": "Диляна Господинова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1c4c9bcf-1e0e-4434-a361-ef8b16dd748e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.07.2021&to=24.07.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c3ccf0e72d999d48bedd402cfd1526b83600ad7454b8ab087012ea40f4953d8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
