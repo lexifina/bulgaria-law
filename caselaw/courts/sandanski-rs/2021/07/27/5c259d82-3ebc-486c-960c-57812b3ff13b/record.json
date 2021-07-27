@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сандански",
+  "jurisdiction": "BG",
+  "date": "2021-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 264,
+  "case_year": 2021,
+  "judge_rapporteur": "Рая Димитрова Манолева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c259d82-3ebc-486c-960c-57812b3ff13b",
+  "motives_file": null,
+  "source": "https://sandanski-rs.justice.bg/bg/10655?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b369c755361f0feff1f0341de965f066d4dfb7fecfa9e61a31d85e2f7f241072",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
