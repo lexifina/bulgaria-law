@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2021-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 184,
+  "case_year": 2021,
+  "judge_rapporteur": "Петя Николова Гатева",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f64abd58-04aa-4ee1-b086-194f10749f89",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d9f06ef564ad37ee5830d577d126fb33898d3b77b3cf652da7674761b6cbb195",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
