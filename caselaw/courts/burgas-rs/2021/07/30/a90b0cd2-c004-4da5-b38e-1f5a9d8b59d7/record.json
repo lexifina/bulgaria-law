@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-07-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2265,
+  "case_year": 2021,
+  "judge_rapporteur": "Станимира Ангелова Иванова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a90b0cd2-c004-4da5-b38e-1f5a9d8b59d7",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=28.07.2021&to=07.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "837512d2b0bcff6e7cb26f4d8bab75f0c7c4f20f83d3e698c20bfdcf6eee20e3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
