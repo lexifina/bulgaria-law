@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16445,
+  "case_year": 2019,
+  "judge_rapporteur": "АННА ДИМИТРОВА ДЪБОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2687b6c2-8781-4bda-940d-b8d8f6538e85",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=01.08.2021&to=05.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cba1962e0857da4352e081e4b36f4b9878177514661e470722caccbaee2207ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
