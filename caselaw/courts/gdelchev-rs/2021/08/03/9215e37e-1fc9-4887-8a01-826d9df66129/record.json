@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гоце Делчев",
+  "jurisdiction": "BG",
+  "date": "2021-08-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 407,
+  "case_year": 2021,
+  "judge_rapporteur": "Васко Петров Петров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9215e37e-1fc9-4887-8a01-826d9df66129",
+  "motives_file": null,
+  "source": "https://gdelchev-rs.justice.bg/bg/6175?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c0246050b294d69f6fee2c5ce750d927d8e089a346c2e90a18cf054612bc0eed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
