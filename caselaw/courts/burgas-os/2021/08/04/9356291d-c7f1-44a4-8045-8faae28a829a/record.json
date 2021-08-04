@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1108,
+  "case_year": 2021,
+  "judge_rapporteur": "Недялка  Пенева Пенева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9356291d-c7f1-44a4-8045-8faae28a829a",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c47749943ff40d9ae9519bf8110a7099d0d657d4665f142f2f3f707903007c2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
