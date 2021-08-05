@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 293,
+  "case_year": 2020,
+  "judge_rapporteur": "ТАТЯНА АНДОНОВА ЛЕФТЕРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=85c6deb7-9072-4655-9c27-a931a6513dbc",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=01.08.2021&to=05.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f150dec43a4fc5310e60de0db25d37dca4941f46c06160cb2e0ce395e2aef057",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
