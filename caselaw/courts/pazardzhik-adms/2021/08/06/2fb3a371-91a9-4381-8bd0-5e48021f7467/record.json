@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-08-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно дело",
+  "case_number": 542,
+  "case_year": 2021,
+  "judge_rapporteur": "ХРИСТИНА ПЕТКОВА ЮРУКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2fb3a371-91a9-4381-8bd0-5e48021f7467",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30a457be89608548c89654b5c6bd156c0d2fa4effe66faeed15122e52241c39b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
