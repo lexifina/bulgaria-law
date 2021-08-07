@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2021-08-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 327,
+  "case_year": 2021,
+  "judge_rapporteur": "Минчо Танев Танев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=47583278-5412-45d6-a6ba-3bbe342e5c6f",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f7637896f774bc23f46ae2f48752d636aea9bac763dd1f9b42e2a7eea1c7728",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
