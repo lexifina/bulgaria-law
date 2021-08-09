@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-08-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7609,
+  "case_year": 2021,
+  "judge_rapporteur": "Стилияна Григорова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fee98b8f-5ed6-446e-8797-bbc5eb1af4d9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=09.08.2021&to=13.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da380f6abe7188195119378f59758f62c3903e06ddb922dbb80bd52a9d7eaafb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
