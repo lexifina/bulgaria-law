@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-08-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 351,
+  "case_year": 2021,
+  "judge_rapporteur": "Снежана Бакалова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bea45e4a-716a-4f5c-b363-b2445ccf43bd",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46ab62aa7bda1bc0293a4c25aa855b2b97d7e277d50ec684ff414c212858fad3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
