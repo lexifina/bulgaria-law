@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2021-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 319,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Статев Маринов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7dd1c9c5-d002-42a1-a19b-4351c86d1148",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "88b19c536fbb528567f8cfd3a5ce17559a29ee50ed021b933bdfab06a8908752",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
