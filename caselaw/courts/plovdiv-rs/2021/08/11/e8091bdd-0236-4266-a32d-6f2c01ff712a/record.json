@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 10490,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Димитрова Личева Гургова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e8091bdd-0236-4266-a32d-6f2c01ff712a",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=11.08.2021&to=15.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c0f3a6920967a8e286a2c91c6cba9af4d61a05f641af0c298ecb7fa20fbbcb76",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
