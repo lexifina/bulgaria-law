@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 3412,
+  "case_year": 2020,
+  "judge_rapporteur": "Валентин Пушевски",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e230cf58-cf9f-4e02-bfb9-ccd13a5c4c16",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=11.08.2021&to=15.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c38dfeb3f1c643e1ab73506a7587ceda16a1e17cb2983e9ea53b221652069531",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
