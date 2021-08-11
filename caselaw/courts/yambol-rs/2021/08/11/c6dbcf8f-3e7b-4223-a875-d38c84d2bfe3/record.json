@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2021-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 412,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИНА ХРИСТОВА ХРИСТОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6dbcf8f-3e7b-4223-a875-d38c84d2bfe3",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=27.06.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f54f742e7602f09f28f8e7be42ce349e0b8294faaaeb413fc257d70318a5e533",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
