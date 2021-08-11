@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2021-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 80,
+  "case_year": 2019,
+  "judge_rapporteur": "КАЛИНА ГЕОРГИЕВА ПЕЙЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=892a331d-73c4-44de-95f4-a56dff57dc55",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=12.05.2021&to=11.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1d1232b0dab74844e74d2a654183020eb25ae7a5641486935c6b3a5be3b31309",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
