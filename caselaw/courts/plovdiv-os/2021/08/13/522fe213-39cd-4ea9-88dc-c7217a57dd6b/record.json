@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 224,
+  "case_year": 2021,
+  "judge_rapporteur": "ГРЕТА ИЛИЕВА ЧАКАЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=522fe213-39cd-4ea9-88dc-c7217a57dd6b",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=12.08.2021&to=03.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "376fd3d97820e2a80d7efff0fa8fdbb8d8353324754259539b0b704b4967682e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
