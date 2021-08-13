@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2021-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 146,
+  "case_year": 2021,
+  "judge_rapporteur": "НАДЯ СПАСОВА ГЕОРГИЕВА САВОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9ec9e2be-a407-4f4c-839b-d114312fe5ad",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36dcf38a38be9740a1eab736113165b774e7d8181d7d9052f9533f6cd4a88dbd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
