@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2021-08-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 348,
+  "case_year": 2021,
+  "judge_rapporteur": "Владимир Страхилов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49a4e079-da0e-4978-8f80-79a1826505cb",
+  "motives_file": null,
+  "source": "https://vtarnovo-os.justice.bg/bg/3095?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55cfa3e8d9e0ffc4c34885683cb7663fdcf2c4972fd67677b53d3a82ea4703af",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
