@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 945,
+  "case_year": 2021,
+  "judge_rapporteur": "НЕДЕЛИНА ЕВГЕНИЕВА МАРИНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=417052d3-fc0f-4b7c-b107-4a71650c105b",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=16.08.2021&to=20.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "71390a4ee544e7f37d889e72658bfca10e63f7135868312ac1255ee15c1e94a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
