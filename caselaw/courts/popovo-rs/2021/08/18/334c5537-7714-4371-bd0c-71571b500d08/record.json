@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2021-08-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 130,
+  "case_year": 2021,
+  "judge_rapporteur": "Явор Пламенов Томов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=334c5537-7714-4371-bd0c-71571b500d08",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6e287651f2ca48d09f045ba755230f5444864b875cd954a9c724ad063cb3ff04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
