@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2021-08-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 175,
+  "case_year": 2021,
+  "judge_rapporteur": "АНДРЕЙ ВЯЧЕСЛАВОВИЧ ЧЕКУНОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=628433ea-4344-44fd-ac0a-47da2bde0af1",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "43fa7543ab72610c6baae5fbb1d510e128e6fd7fc7e0f70cee99d11cc14e6385",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
