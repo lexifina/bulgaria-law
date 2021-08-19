@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2021-08-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 192,
+  "case_year": 2021,
+  "judge_rapporteur": "ГЕРГАНА ТОЧЕВА СТОЯНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72a54a3d-5655-4c9b-a2e4-5d09ad144004",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6206b89e2f6a47d147ec035972aaca4bacc2d89fe4252147dc4aacd1cededb29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
