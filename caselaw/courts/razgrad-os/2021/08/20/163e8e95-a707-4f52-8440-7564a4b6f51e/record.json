@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2021-08-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 235,
+  "case_year": 2021,
+  "judge_rapporteur": "Лазар Йорданов Мичев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=163e8e95-a707-4f52-8440-7564a4b6f51e",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce5b1b81f588015cab46b2ddcdde41f70143820950b600b8355b47d260e1bb0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
