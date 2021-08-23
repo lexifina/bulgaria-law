@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2021-08-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 99,
+  "case_year": 2021,
+  "judge_rapporteur": "Динко Минчев Динков",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60b3993f-31f6-4b6d-921f-880af8685948",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d0860ece3bc640647835931ca9297a602f859a632b52649ec41db95f31e60cae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
