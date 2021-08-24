@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 421,
+  "case_year": 2021,
+  "judge_rapporteur": "Румяна Иванова Панайотова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af6eaf3c-d584-4a39-a16d-880a7f5748f7",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "195ab248196383814c81590a618bae74f71fc75f79659b8e35d62b92b8beac48",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
