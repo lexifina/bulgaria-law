@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12353,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЛАМЕН ПЕТЕВ ТАНЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49dc2ad0-853f-4d65-bccf-a6ff59c618bb",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=21.08.2021&to=25.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "33a4076396766035fa195233562c40ca1c14f4f758105be385696f63c5125d17",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
