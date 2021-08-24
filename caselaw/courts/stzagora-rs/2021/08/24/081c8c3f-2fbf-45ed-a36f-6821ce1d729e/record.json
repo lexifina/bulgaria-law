@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-08-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2187,
+  "case_year": 2021,
+  "judge_rapporteur": "Росен Чиликов",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=081c8c3f-2fbf-45ed-a36f-6821ce1d729e",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=12.08.2021&to=03.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8267c47f9c635959e8964025837dc19f72c8cf08f690670bf846f26690f4434",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
