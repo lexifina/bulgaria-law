@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 76,
+  "case_year": 2021,
+  "judge_rapporteur": "майор ДАНИЕЛ АТАНАСОВ ЛУКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2375cbf-854e-4d3b-bae1-2ccfc381c746",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f2b49dc289b8c20c38ccca416337cff5d4bcd336e6a0536c5b94fd85309f07c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
