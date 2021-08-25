@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-08-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 776,
+  "case_year": 2021,
+  "judge_rapporteur": "Мариана Костадинова Тодорова Досева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ee9105ee-0fd0-416b-90c2-51048dafc3c3",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=12.08.2021&to=03.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9e9107ccbd7398337ef25ef6a54e197498514e08ec6f36590f5d81f66699eb8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
