@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2123,
+  "case_year": 2021,
+  "judge_rapporteur": "МИЛЕНА МАРИНОВА ДИЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43dc2e93-2aca-42fe-b843-8d6a33d010cc",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=12.08.2021&to=26.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "598e1cbc12194511b7e1e5c8fc9876a72f13a62835d2c8c2b40791e1ed29ae5e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
