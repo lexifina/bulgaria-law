@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 198,
+  "case_year": 2021,
+  "judge_rapporteur": "Магдалена Кръстева Недева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25e28b86-0236-4104-bf7e-410681d6f276",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d6f07af0d3ebbd92b437d50251f920e95021bd53cd463fa50daedb1be227f42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
