@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-08-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11050,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕВЕЛИНА ОГНЯНОВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63bbbe51-3c9d-4710-ae9e-8c940ce89851",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=24.08.2021&to=28.08.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f2e3de50ab7a82053dbb5062a4d898439215bc446e0851446dc6c1ad7ac04a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
