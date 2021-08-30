@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 234,
+  "case_year": 2020,
+  "judge_rapporteur": "РОСИЦА АНТОНОВА ТОНЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9f4a713-205e-4f73-821e-9b736b5963cd",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d6f07af0d3ebbd92b437d50251f920e95021bd53cd463fa50daedb1be227f42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
