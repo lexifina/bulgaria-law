@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2021-08-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 651,
+  "case_year": 2021,
+  "judge_rapporteur": "Маргарита Пламенова Алексиева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=68170f61-0f1c-45eb-8ce1-0d6b42fba7d4",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=21.06.2021&to=20.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3be2eea89c8bc42ad9a708d32bc1b71ed4a4bd6b612da929b3e430e556b818b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
