@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5137,
+  "case_year": 2021,
+  "judge_rapporteur": "Георги Росенов Гетов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45704332-2d77-424c-8ab1-ec899060b499",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=31.08.2021&to=04.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b7b53bc330e1f1a77eda7c684bacd90fbc178ffce54aa8df8ade462380bb079a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
