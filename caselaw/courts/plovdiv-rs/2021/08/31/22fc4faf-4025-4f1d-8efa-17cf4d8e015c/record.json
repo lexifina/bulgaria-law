@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 7157,
+  "case_year": 2020,
+  "judge_rapporteur": "МЕТОДИ НЕДЕЛЧЕВ АНТОНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22fc4faf-4025-4f1d-8efa-17cf4d8e015c",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=31.08.2021&to=04.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b7b53bc330e1f1a77eda7c684bacd90fbc178ffce54aa8df8ade462380bb079a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
