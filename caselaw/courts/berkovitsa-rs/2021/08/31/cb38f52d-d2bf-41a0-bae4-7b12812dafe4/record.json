@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2021-08-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 166,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕЛЕОНОРА ЛЮБОМИРОВА ФИЛИПОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb38f52d-d2bf-41a0-bae4-7b12812dafe4",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4ca4138c1e35091517405ddd87407da4994c7f6eeab353c8abb4c747c1f5d2c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
