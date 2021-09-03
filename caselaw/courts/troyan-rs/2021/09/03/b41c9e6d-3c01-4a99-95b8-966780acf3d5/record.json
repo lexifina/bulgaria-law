@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2021-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 507,
+  "case_year": 2019,
+  "judge_rapporteur": "СВЕТЛА ИВАНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b41c9e6d-3c01-4a99-95b8-966780acf3d5",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "13980522a9a0c692d3eea3e525295697190802214612ea7ddae7a6bff2d9d8ad",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
