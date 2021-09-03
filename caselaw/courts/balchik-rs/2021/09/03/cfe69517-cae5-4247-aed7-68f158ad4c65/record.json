@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Балчик",
+  "jurisdiction": "BG",
+  "date": "2021-09-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 195,
+  "case_year": 2020,
+  "judge_rapporteur": "ГАЛИН ХРИСТОВ ГЕОРГИЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cfe69517-cae5-4247-aed7-68f158ad4c65",
+  "motives_file": null,
+  "source": "https://balchik-rs.justice.bg/bg/4915?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f23eec1e4a575fcb33c92e0561dac1f171f4d948d28de4c6b4a71f4e9290b345",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
