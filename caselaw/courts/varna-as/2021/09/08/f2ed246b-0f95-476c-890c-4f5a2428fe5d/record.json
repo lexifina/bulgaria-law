@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-09-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 90,
+  "case_year": 2021,
+  "judge_rapporteur": "АНЕТА НИКОЛОВА БРАТАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2ed246b-0f95-476c-890c-4f5a2428fe5d",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7d6f07af0d3ebbd92b437d50251f920e95021bd53cd463fa50daedb1be227f42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
