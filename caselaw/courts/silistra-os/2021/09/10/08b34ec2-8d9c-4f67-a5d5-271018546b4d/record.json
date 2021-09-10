@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 281,
+  "case_year": 2021,
+  "judge_rapporteur": "Кремена Иванова Краева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=08b34ec2-8d9c-4f67-a5d5-271018546b4d",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1d153c91543e4bb17370355a42a906e4d6942b5a09aee1cb00881dd5c292477",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
