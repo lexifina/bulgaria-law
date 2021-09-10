@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-09-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16207,
+  "case_year": 2017,
+  "judge_rapporteur": "СВЕТОСЛАВ НЕДЕЛЧЕВ ТОДОРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61efc924-0ffd-4403-9f6a-87c747c84db1",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.09.2021&to=14.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "377056f7c2abfcc5c6ef5a87023df8da730d1bcf41a839431f157b00e6c7c419",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
