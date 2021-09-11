@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-09-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11240,
+  "case_year": 2020,
+  "judge_rapporteur": "Тоско Петков Ангелов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=785f1167-5e1d-481b-b7e5-e58b67219e15",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=10.09.2021&to=14.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28b90ff555aedacb180402be99df8a3259d880c4ed4a1e722ab3701c6f129205",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
