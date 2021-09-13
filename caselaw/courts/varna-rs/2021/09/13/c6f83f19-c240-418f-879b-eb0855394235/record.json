@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-09-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13298,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРТИН СТОЯНОВ СТАМАТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c6f83f19-c240-418f-879b-eb0855394235",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.09.2021&to=14.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "377056f7c2abfcc5c6ef5a87023df8da730d1bcf41a839431f157b00e6c7c419",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
