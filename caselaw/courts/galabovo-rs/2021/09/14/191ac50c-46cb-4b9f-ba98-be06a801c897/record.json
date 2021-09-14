@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2021-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВАН ХРИСТОВ РЕЖЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=191ac50c-46cb-4b9f-ba98-be06a801c897",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "84e054f2fa3d0470fc73c9f38ec2999d33f1043b321bb8357d25b4da1127c291",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
