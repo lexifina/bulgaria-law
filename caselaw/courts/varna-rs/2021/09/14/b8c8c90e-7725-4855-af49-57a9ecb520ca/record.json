@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9245,
+  "case_year": 2020,
+  "judge_rapporteur": "ДИМИТЪР ИЛИЕВ ДИМИТРОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8c8c90e-7725-4855-af49-57a9ecb520ca",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.09.2021&to=14.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "377056f7c2abfcc5c6ef5a87023df8da730d1bcf41a839431f157b00e6c7c419",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
