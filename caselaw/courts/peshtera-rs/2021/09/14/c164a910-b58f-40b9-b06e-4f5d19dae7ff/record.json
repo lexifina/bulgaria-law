@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2021-09-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 188,
+  "case_year": 2021,
+  "judge_rapporteur": "Милуш Руменов Цветанов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c164a910-b58f-40b9-b06e-4f5d19dae7ff",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2b697cdc73c83fe3a908456ae67dd079d3e44f543baf0333608d87a85c12b247",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
