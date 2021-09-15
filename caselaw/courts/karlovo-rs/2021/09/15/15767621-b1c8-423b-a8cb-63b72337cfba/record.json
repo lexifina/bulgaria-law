@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2021-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 333,
+  "case_year": 2021,
+  "judge_rapporteur": "Асима Костова Вангелова-Петрова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=15767621-b1c8-423b-a8cb-63b72337cfba",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=12.08.2021&to=26.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c0719f7d4b629e70338ca80b9c09b1bd006158ee664175b7f5297c1c01b49ba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
