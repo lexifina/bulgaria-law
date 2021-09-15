@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2021-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 92,
+  "case_year": 2021,
+  "judge_rapporteur": "Пейо Иванов Приходков",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=205e7806-e3e4-4657-80dd-c6fbbcbbf222",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d538535ac57f4c0986add52aa49180b5ab1784332d6f2cdb428c46b7d19f9d14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
