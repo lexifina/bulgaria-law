@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3846,
+  "case_year": 2021,
+  "judge_rapporteur": "Нина Методиева Коритарова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=18d86c8a-f98b-436e-840f-bde30457a7fd",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=04.09.2021&to=26.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ea55a6aa38bcdc32bcd01ec44f592be1f5ebf22139109df59f51e2dc15346756",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
