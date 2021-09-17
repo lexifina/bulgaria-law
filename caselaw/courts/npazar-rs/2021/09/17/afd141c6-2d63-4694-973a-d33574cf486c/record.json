@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2021-09-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 268,
+  "case_year": 2021,
+  "judge_rapporteur": "Светла Радева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=afd141c6-2d63-4694-973a-d33574cf486c",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28f9ffb5d0ebb202abaa8b834f4a4d350ace20ee99842a27d2440f6ffc9aa2e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
