@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-09-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1589,
+  "case_year": 2021,
+  "judge_rapporteur": "Жаклин Комитова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce4ab4f1-8bf0-4156-9072-abfb9c65cb27",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.09.2021&to=22.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "00949fa188b8eed60374959c6462e0ead8082ba9418e9b0824af0c03ff530d2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
