@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2021-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 418,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивайло Параскевов Шабански",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b9e9371-ec97-4591-8385-ee90217fe08e",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9a5c9fd995cb91eb70d93d2ed2bdf1446cd31de7bf3afc7b9ed6b1353c5a648",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
