@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2021-09-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 245,
+  "case_year": 2021,
+  "judge_rapporteur": "Николинка Лазарова Крумова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4677aea0-b48d-44d6-a190-655613d551b1",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a42e3e061e9a2f8dd7a8521b827c3d1d2334228ea24409696ae7c863a877cecd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
