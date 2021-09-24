@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2021-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 187,
+  "case_year": 2021,
+  "judge_rapporteur": "Тодорка Стоянова Цончева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f96b8bdd-aa62-4748-a5a8-73b2c92cd7e0",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "432b5b1fdb75367b9fee5a6daac5354b0375bc46ccf43d723fe57abfd093a277",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
