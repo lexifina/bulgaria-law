@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 573,
+  "case_year": 2021,
+  "judge_rapporteur": "КРЕМЕНА ДИМОВА КОСТОВА ГРОЗЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e422c7b8-a70d-4822-aa94-cef32c6090c6",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ffc20f44ac74184185f27078dff7646930830a554f73070d06a1628a31a70348",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
