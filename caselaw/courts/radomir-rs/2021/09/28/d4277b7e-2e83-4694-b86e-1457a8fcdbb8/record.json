@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Радомир",
+  "jurisdiction": "BG",
+  "date": "2021-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 114,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВЕТА ПАВЛОВА ТАКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4277b7e-2e83-4694-b86e-1457a8fcdbb8",
+  "motives_file": null,
+  "source": "https://radomir-rs.justice.bg/bg/10305?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a11936acd5fbca801b1dab77c9152f2939b80415884db65cf633bf67fdf2ead2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
