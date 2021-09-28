@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-09-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8335,
+  "case_year": 2020,
+  "judge_rapporteur": "МИРОСЛАВА ИВАНОВА ДАНЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0c45ee64-9b6f-420e-9ef5-6c8d6d9a4577",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=25.09.2021&to=29.09.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "80ac97bffd9f0eddd271c16526338974d0b09d33f281baf58d9d5fb5f811b4f6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
