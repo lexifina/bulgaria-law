@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-09-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1860,
+  "case_year": 2021,
+  "judge_rapporteur": "Неделин Йорданов Захариев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29a5c7cd-badb-4549-b9ef-fdf38dc17e64",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3bf4d6cba6214d16186e33237fd4ebb87c9dbe92336e57bb0adbc7e56168b14f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
