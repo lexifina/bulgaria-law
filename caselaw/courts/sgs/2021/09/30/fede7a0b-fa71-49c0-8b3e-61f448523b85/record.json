@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-09-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2119,
+  "case_year": 2020,
+  "judge_rapporteur": "ЦВЕТАНКА ТОДОРОВА БЕНИНА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fede7a0b-fa71-49c0-8b3e-61f448523b85",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=28.09.2021&to=02.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a98be9da21b49ec68b8a9c2503437fba7a3f4828cc29efd37f1e396fc2b6b2f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
