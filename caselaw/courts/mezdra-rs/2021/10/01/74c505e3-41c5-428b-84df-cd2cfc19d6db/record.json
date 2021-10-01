@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2021-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 748,
+  "case_year": 2021,
+  "judge_rapporteur": "Пенка Петкова Петрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=74c505e3-41c5-428b-84df-cd2cfc19d6db",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f9ca87d90e3fd88c609b8def1a819a61810285eaaf439ec0b7ace300239db367",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
