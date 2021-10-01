@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2021-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 347,
+  "case_year": 2021,
+  "judge_rapporteur": "Пенка Томова  Петрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=38f9ef1b-22e3-4f85-9430-e9242d639ac0",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39c64368fbe3460c34f744ba99c7cf0153c0d1e0d52ea9926a83057fdb760ec6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
