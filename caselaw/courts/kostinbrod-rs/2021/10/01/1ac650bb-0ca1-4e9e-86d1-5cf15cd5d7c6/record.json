@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Костинброд",
+  "jurisdiction": "BG",
+  "date": "2021-10-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 920,
+  "case_year": 2020,
+  "judge_rapporteur": "Аксиния Борисова Атанасова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1ac650bb-0ca1-4e9e-86d1-5cf15cd5d7c6",
+  "motives_file": null,
+  "source": "https://kostinbrod-rs.justice.bg/bg/7785?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6527dd5e8d534d4f782bdcae3b4297132d6ca9b716dd6f61df186b14e3bd8c7e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
