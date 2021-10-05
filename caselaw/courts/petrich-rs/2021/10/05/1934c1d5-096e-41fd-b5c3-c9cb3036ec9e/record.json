@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Петрич",
+  "jurisdiction": "BG",
+  "date": "2021-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 784,
+  "case_year": 2021,
+  "judge_rapporteur": "Андрей Иванов Николов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1934c1d5-096e-41fd-b5c3-c9cb3036ec9e",
+  "motives_file": null,
+  "source": "https://petrich-rs.justice.bg/bg/9605?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe0fb4a8a50ecb7d4ebfb8b931643d62092d8d9a6d198441621f267f5c71a406",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
