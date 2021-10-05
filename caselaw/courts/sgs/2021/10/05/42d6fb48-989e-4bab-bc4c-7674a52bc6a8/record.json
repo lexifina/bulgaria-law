@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 406,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕЛИЧКА ВЕЛЕВА МАРИНКОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=42d6fb48-989e-4bab-bc4c-7674a52bc6a8",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=03.10.2021&to=07.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ecc5e89145bc0f35073e7dddfed11cef05b9acbbb10369f4a702fce23e470b0e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
