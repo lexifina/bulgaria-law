@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-10-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 1400,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕСЕЛИН ВАЛЕНТИНОВ ЕНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5065e74a-be98-405b-a548-359b74ddc464",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a00aa818ad4f0f2151564ca97592966591608fd0060b4601061e9bd008222f12",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
