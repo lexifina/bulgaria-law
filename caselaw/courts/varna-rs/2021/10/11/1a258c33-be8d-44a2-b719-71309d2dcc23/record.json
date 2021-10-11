@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8139,
+  "case_year": 2021,
+  "judge_rapporteur": "Весела Гълъбова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a258c33-be8d-44a2-b719-71309d2dcc23",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=10.10.2021&to=14.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c56cfad5599ef2c021223c67821588ef76ac63d2ca65804d53a075368f89a9f4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
