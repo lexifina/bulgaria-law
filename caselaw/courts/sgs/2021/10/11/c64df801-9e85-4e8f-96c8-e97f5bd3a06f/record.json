@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8668,
+  "case_year": 2021,
+  "judge_rapporteur": "Петър Любомиров Сантиров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c64df801-9e85-4e8f-96c8-e97f5bd3a06f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=08.10.2021&to=12.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f748afe6ff39276dcb8a78afad6af5cade3fadff97ee504aa362e031a2a36e9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
