@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2021-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1517,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Божиков Димитров",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=35b1d4e6-cc95-4337-a7e0-189a86cc15cf",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2d8945c19a54ed6179f97e810be6a00f339bd53b9e68b79c0260b2a8296903e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
