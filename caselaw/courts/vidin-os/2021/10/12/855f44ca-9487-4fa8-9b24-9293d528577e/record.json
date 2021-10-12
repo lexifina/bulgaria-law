@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2021-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 206,
+  "case_year": 2021,
+  "judge_rapporteur": "ГАБРИЕЛ ПЕТКОВ ЙОНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=855f44ca-9487-4fa8-9b24-9293d528577e",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6b1c452bb962ad06d7f70f708c038368c448cde574fa61a3dbed0719cc89ae25",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
