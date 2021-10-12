@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2021-10-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 115,
+  "case_year": 2019,
+  "judge_rapporteur": "ТОДОРКА СТОЯНОВА ЦОНЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c6f72a9-fa26-4af1-98ab-8fd5a2ecc936",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "432b5b1fdb75367b9fee5a6daac5354b0375bc46ccf43d723fe57abfd093a277",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
