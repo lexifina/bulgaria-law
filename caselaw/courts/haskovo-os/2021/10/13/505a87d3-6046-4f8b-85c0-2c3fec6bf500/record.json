@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2021-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 450,
+  "case_year": 2021,
+  "judge_rapporteur": "ФИЛИП ЖЕЛЯЗКОВ ФИЛИПОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=505a87d3-6046-4f8b-85c0-2c3fec6bf500",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d1ee8cad37d71629b827ba160927f2b2f6b5fe224a18e9c4b3ff37fa1af6ad8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
