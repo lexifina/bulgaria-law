@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дупница",
+  "jurisdiction": "BG",
+  "date": "2021-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 707,
+  "case_year": 2020,
+  "judge_rapporteur": "МАЯ ВАСИЛЕВА ГИЗДОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f6d2bc90-f968-4df6-97ed-79e9e87879a5",
+  "motives_file": null,
+  "source": "https://dupnitsa-rs.justice.bg/bg/6735?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a2d8945c19a54ed6179f97e810be6a00f339bd53b9e68b79c0260b2a8296903e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
