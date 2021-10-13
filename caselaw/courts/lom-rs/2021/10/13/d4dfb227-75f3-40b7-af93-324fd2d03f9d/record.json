@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2021-10-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 633,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕЛИЦА ЮЛИЯНОВА ОРМАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4dfb227-75f3-40b7-af93-324fd2d03f9d",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbfc1e1fa1b7434666869b88acd889d60be64be9460c0f67648af50ead3f1c5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
