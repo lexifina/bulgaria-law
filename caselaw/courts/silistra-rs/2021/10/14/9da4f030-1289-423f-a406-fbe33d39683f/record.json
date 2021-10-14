@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-10-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 598,
+  "case_year": 2020,
+  "judge_rapporteur": "Стоян Иванов Стоянов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9da4f030-1289-423f-a406-fbe33d39683f",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "118f3eb07ff860d167dba47a3aceed1fb32fe0a23fcba549ef3ccd2f0a8ced61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
