@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2021-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 296,
+  "case_year": 2021,
+  "judge_rapporteur": "Борислав Методиев Методиев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d743dbf-e00d-4e2c-b8ae-d63da298f544",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "105ebcce7442052f9b2119836dbf68b786245303c9899d21e3948acaf5b033b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
