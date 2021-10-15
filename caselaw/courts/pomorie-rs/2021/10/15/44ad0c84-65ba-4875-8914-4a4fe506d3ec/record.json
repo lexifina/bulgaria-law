@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2021-10-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 313,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивайло Йорданов Бъчваров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44ad0c84-65ba-4875-8914-4a4fe506d3ec",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46aa308052b5e0cdbd336c003922ac60a7446a2b7a153534cc8c462ce5448b47",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
