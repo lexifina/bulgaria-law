@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 4590,
+  "case_year": 2021,
+  "judge_rapporteur": "АНДОН ВЪЛКОВ ВЪЛКОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52a9b7c6-5f54-4f44-9c43-e0927f1b7f3e",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=13.10.2021&to=23.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce470c0322b1550235afec0b2b0dac78f3d996e9e16399c14b00f720e517df74",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
