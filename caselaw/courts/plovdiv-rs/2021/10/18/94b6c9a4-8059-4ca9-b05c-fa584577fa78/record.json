@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3478,
+  "case_year": 2021,
+  "judge_rapporteur": "Живко Стоянов Желев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=94b6c9a4-8059-4ca9-b05c-fa584577fa78",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=15.10.2021&to=19.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "efe2875da8aeee79754542d2508a5a2fb16f7b8a3bc11b594c73ccad0b14d4da",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
