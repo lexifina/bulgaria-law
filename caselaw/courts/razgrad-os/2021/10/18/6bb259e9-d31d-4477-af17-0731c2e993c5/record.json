@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2021-10-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 44,
+  "case_year": 2020,
+  "judge_rapporteur": "РАЯ ПЕТКОВА ЙОНЧЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6bb259e9-d31d-4477-af17-0731c2e993c5",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce5b1b81f588015cab46b2ddcdde41f70143820950b600b8355b47d260e1bb0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
