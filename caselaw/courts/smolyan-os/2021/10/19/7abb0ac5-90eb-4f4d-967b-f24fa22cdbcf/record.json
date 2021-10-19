@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2021-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 226,
+  "case_year": 2021,
+  "judge_rapporteur": "Зоя Стоилова Шопова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7abb0ac5-90eb-4f4d-967b-f24fa22cdbcf",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d7155171ac335294dfe65eaceeb855487cc5d06aa12af78b5846f24c11ee5d94",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
