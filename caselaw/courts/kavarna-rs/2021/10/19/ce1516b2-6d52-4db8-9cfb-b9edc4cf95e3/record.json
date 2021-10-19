@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Каварна",
+  "jurisdiction": "BG",
+  "date": "2021-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 384,
+  "case_year": 2021,
+  "judge_rapporteur": "Веселина Михайлова Узунова Панчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ce1516b2-6d52-4db8-9cfb-b9edc4cf95e3",
+  "motives_file": null,
+  "source": "https://kavarna-rs.justice.bg/bg/7365?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d763e8fd16e5ffb40ba0a691ab763d3790e38b22080171412f7991dd15a53c66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
