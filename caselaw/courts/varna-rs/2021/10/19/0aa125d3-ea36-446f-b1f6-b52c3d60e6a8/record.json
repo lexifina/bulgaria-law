@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-10-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 10620,
+  "case_year": 2021,
+  "judge_rapporteur": "Десислава Йорданова Йорданова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0aa125d3-ea36-446f-b1f6-b52c3d60e6a8",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=15.10.2021&to=19.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "21da9698492e40260e2e11fce337897dd7b86862ac0cab812f46d3046409f49c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
