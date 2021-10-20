@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2021-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 829,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯ ДИМОВА ШОЛЕКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dd478af2-5207-4e9e-ac3b-f6c9110007db",
+  "motives_file": null,
+  "source": "https://lovech-rs.justice.bg/bg/8345?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "06b00de1e6cd13a8d72be8d10eae9aab7b49f4f70f3beaf2741737b18e15c561",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
