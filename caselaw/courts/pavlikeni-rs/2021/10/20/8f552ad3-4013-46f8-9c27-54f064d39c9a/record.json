@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2021-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9,
+  "case_year": 2021,
+  "judge_rapporteur": "Евелина Петкова Карагенова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8f552ad3-4013-46f8-9c27-54f064d39c9a",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c54ae7438b1b6efad16f9969fc842485a334037e10246d6c82fd137ba34e9fd7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
