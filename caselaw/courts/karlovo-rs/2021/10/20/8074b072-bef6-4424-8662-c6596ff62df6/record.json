@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2021-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 486,
+  "case_year": 2021,
+  "judge_rapporteur": "Гюрай Алиев Мурадов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8074b072-bef6-4424-8662-c6596ff62df6",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "df6816125d37ca9b3aba12b4aa02fb0dcf4d3407df467173b38ce97a05940a3e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
