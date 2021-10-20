@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1771,
+  "case_year": 2020,
+  "judge_rapporteur": "Анна Ненова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb72d75b-7cbc-42b5-a037-13070717eec5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.10.2021&to=22.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86f136cb072eba050370e794de84243189bf34e4d5d80f3173c2a2c7ae5a242c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
