@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 2632,
+  "case_year": 2021,
+  "judge_rapporteur": "Мирослав Георгиев Георгиев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a0e29c68-2682-46f7-b98c-fbdf89f250a2",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=18.10.2021&to=22.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "86f136cb072eba050370e794de84243189bf34e4d5d80f3173c2a2c7ae5a242c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
