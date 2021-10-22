@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1398,
+  "case_year": 2020,
+  "judge_rapporteur": "ДАНИЕЛА СТАНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=13a03c2a-24f1-4a56-937f-eb4f13d48d4e",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=20.10.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ed92859675d0940b616c19d173bd077cc2872368272f8a5b0ea4d87a0bb4f74b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
