@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-10-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16978,
+  "case_year": 2020,
+  "judge_rapporteur": "Недялка Николова Вълчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29062a6e-b497-4ec9-b71f-b570e92b583c",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=20.10.2021&to=24.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a35f9df66dccc061f6445e216f52bc4990cf9e78848f580ddd04ca37bac6286e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
