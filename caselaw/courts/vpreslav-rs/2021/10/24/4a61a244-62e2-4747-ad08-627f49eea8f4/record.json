@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2021-10-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 173,
+  "case_year": 2021,
+  "judge_rapporteur": "Елена Симеонова Геренска",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a61a244-62e2-4747-ad08-627f49eea8f4",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f10fcad05fc31bde242885d9c845d3187df597c0005cebc57dac2389cf619ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
