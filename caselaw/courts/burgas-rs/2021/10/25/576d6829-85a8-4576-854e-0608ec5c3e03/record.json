@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-10-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2248,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТЯ КРЪСТЕВА ГЕОРГИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=576d6829-85a8-4576-854e-0608ec5c3e03",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=24.10.2021&to=03.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3242d89469a6406158de88f895c57334124df6a0b64204c9303094411efc13d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
