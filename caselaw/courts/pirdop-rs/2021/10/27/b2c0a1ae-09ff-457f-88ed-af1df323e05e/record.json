@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пирдоп",
+  "jurisdiction": "BG",
+  "date": "2021-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 636,
+  "case_year": 2016,
+  "judge_rapporteur": "ДОНКА ИВАНОВА ПАРАЛЕЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b2c0a1ae-09ff-457f-88ed-af1df323e05e",
+  "motives_file": null,
+  "source": "https://pirdop-rs.justice.bg/bg/9745?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e0875b640d3baac1c58b774b1b7bf7830244d94f70e1f299465082b23636e4e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
