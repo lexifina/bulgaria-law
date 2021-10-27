@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 3052,
+  "case_year": 2021,
+  "judge_rapporteur": "Христинка Колева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a1d2639-df37-4b55-8f9c-528a21ad8be6",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=23.10.2021&to=27.10.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e7ce7fccb1e7baf15102a0c1cf4e1ded209a547773e58735e3fbb52d26250b20",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
