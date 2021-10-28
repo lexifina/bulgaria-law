@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12027,
+  "case_year": 2020,
+  "judge_rapporteur": "МАРИАНА РАДЕВА ХРИСТОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7310d99b-a16d-4c7c-a977-dae4e7b0c365",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=28.10.2021&to=01.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3619481f160ef9718e38ce4ff906cbee98c520f9e030a3207cd4856c92da31cb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
