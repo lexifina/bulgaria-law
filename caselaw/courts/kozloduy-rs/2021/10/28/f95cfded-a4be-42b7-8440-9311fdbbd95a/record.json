@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2021-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 878,
+  "case_year": 2020,
+  "judge_rapporteur": "ЖАКЛИН ГЕОРГИЕВА ДИМИТРОВА-АЛЕКСИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f95cfded-a4be-42b7-8440-9311fdbbd95a",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "105ebcce7442052f9b2119836dbf68b786245303c9899d21e3948acaf5b033b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
