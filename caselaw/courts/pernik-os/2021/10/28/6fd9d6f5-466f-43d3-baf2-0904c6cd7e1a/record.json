@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2021-10-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 323,
+  "case_year": 2021,
+  "judge_rapporteur": "ВИКТОР БОГДАНОВ ГЕОРГИЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6fd9d6f5-466f-43d3-baf2-0904c6cd7e1a",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41730f7aec80f4af8311aa482af9e8bfd99e9f0f86cebb4c7de58d9b23a28d67",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
