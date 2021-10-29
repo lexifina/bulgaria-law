@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2021-10-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 713,
+  "case_year": 2021,
+  "judge_rapporteur": "Нася Иванова Япаджиева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=02959ae3-aeb8-424b-a9b1-de8ef8b585c8",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "46aa308052b5e0cdbd336c003922ac60a7446a2b7a153534cc8c462ce5448b47",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
