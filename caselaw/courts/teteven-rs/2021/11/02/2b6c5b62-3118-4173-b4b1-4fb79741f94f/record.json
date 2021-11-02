@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2021-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 872,
+  "case_year": 2021,
+  "judge_rapporteur": "Марио Димитров Стоянов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2b6c5b62-3118-4173-b4b1-4fb79741f94f",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6622aca01b812416f3e7061cbbe7750096eb5eb9085b6584cac53097de4695b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
