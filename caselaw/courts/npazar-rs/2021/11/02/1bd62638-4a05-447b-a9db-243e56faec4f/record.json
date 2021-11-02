@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2021-11-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 60,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТИНА КРЪСТЕВА НИКОЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1bd62638-4a05-447b-a9db-243e56faec4f",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28f9ffb5d0ebb202abaa8b834f4a4d350ace20ee99842a27d2440f6ffc9aa2e6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
