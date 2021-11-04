@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2021-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 441,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТЪР НАЙДЕНОВ ВУНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca301109-705e-4aa0-bdf4-0715988db92e",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6c38ff27880ae8baed2bece394f6218c3efa08dfb6218a01b52dba626aa49ae7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
