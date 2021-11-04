@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-11-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 839,
+  "case_year": 2021,
+  "judge_rapporteur": "ДАНИЕЛА ВАСИЛЕВА ДИЛОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e6470de4-452a-4535-b0bf-d7800a6095fe",
+  "motives_file": null,
+  "source": "https://pleven-adms.justice.bg/bg/1205?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d8ed08d01d74b19acd957ffd19b07713028938da0c3ec88864c633bf1ef49da0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
