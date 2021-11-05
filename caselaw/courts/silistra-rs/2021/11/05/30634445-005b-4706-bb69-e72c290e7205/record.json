@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2021-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1388,
+  "case_year": 2021,
+  "judge_rapporteur": "Люба Стоянова Стоилкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=30634445-005b-4706-bb69-e72c290e7205",
+  "motives_file": null,
+  "source": "https://silistra-rs.justice.bg/bg/11005?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "118f3eb07ff860d167dba47a3aceed1fb32fe0a23fcba549ef3ccd2f0a8ced61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
