@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-11-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 179,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАЛЕНТИНА ЖЕКОВА КЪРПИЧЕВА ЦИНЦАРСКА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4160dc43-e0d2-483a-abcd-12dce40faaf3",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ffbc8325e6c110c7bb302ffb4fcc5cffd5b77a1d55358ddaedb0b9fea09abfd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
