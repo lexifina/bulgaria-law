@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-11-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2026,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Богданова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=919b560c-5fb3-4b3a-b90f-74f8b396f07f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.11.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b04e7366d09f4f4e545523ce11a5c8db7524a1a08d1b1763dceb8b3e6a686c91",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
