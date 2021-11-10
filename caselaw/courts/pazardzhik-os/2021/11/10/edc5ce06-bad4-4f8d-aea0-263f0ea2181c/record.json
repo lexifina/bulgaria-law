@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 281,
+  "case_year": 2021,
+  "judge_rapporteur": "Венцислав Стоянов Маратилов",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=edc5ce06-bad4-4f8d-aea0-263f0ea2181c",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=12.08.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12a285e2d26e300e4d35ad1b887195ccd179d0ac1190f08546963d92eb9bb7ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
