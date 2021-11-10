@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1879,
+  "case_year": 2021,
+  "judge_rapporteur": "Вяра  Иванова Камбурова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5601d111-421a-44ec-88ed-60a516eb74c1",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=27.09.2021&to=11.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ffbc8325e6c110c7bb302ffb4fcc5cffd5b77a1d55358ddaedb0b9fea09abfd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
