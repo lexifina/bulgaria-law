@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13100,
+  "case_year": 2020,
+  "judge_rapporteur": "НАСУФ ИСМАЛ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=56d8bc94-ed2a-4dce-9077-8d08dc73854f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=09.11.2021&to=13.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4b47f205bb33ef1196f944fb0f936d98bf3d7943c5f33860cddcc21bc94955a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
