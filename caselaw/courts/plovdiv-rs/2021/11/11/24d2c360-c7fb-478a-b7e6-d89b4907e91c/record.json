@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-11-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 3649,
+  "case_year": 2021,
+  "judge_rapporteur": "Милена Атанасова Георгиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=24d2c360-c7fb-478a-b7e6-d89b4907e91c",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=09.11.2021&to=13.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8950b89a76bd8ce5482aa2d1d7afa2f2dd0060953f0209445ca6d0f9bb1610c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
