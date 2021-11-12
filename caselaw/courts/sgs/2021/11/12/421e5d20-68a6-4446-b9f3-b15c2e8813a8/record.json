@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-11-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9532,
+  "case_year": 2018,
+  "judge_rapporteur": "НЕЛИ САВЧЕВА МАРИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=421e5d20-68a6-4446-b9f3-b15c2e8813a8",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.11.2021&to=16.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "67b5fdd2a8591d7bfdbb96e218b4a4919198da4cc2324d8225e91ecd4aa52d2b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
