@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 6195,
+  "case_year": 2021,
+  "judge_rapporteur": "Нела Кръстева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=598d1ab5-fc81-4065-84fb-030323cf320a",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=14.11.2021&to=18.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "821edebc265baa7d0577424564a7cd96800cf9c44167fa03afa80df625a36847",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
