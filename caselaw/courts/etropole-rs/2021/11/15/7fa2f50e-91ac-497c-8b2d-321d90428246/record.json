@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Етрополе",
+  "jurisdiction": "BG",
+  "date": "2021-11-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 146,
+  "case_year": 2021,
+  "judge_rapporteur": "Цветомир Цаков Цветанов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7fa2f50e-91ac-497c-8b2d-321d90428246",
+  "motives_file": null,
+  "source": "https://etropole-rs.justice.bg/bg/7015?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6b3643661be09ec3a99d5a02cdc6fe53005bf7241c5d343c70eb676ece055c1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
