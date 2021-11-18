@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 12541,
+  "case_year": 2021,
+  "judge_rapporteur": "Нели Савчева Маринова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6932a093-d5cb-4a4c-9ce3-d009e5969d65",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=17.11.2021&to=21.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c8d3930e808084e173fef500f1371f81fce3a3eab7a541f38dafd2dd030c30e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
