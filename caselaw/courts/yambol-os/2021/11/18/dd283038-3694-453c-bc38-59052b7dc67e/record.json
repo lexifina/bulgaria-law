@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2021-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 313,
+  "case_year": 2021,
+  "judge_rapporteur": "Галина Иванова Вълчанова Люцканова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dd283038-3694-453c-bc38-59052b7dc67e",
+  "motives_file": null,
+  "source": "https://yambol-os.justice.bg/bg/4635?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c6e3b5e34608ad25d129ad92e947e9e27fec80136b8695bf9c115a5b50147fa9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
