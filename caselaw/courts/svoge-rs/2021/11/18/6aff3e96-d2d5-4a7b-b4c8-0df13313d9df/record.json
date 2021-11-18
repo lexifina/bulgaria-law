@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2021-11-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 455,
+  "case_year": 2020,
+  "judge_rapporteur": "АНДРЕЙ ВЯЧЕСЛАВОВИЧ ЧЕКУНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6aff3e96-d2d5-4a7b-b4c8-0df13313d9df",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a5e914028149472a4b71cf8de8a8cc9d49a2715352eb54ef5e3fc574b248e27",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
