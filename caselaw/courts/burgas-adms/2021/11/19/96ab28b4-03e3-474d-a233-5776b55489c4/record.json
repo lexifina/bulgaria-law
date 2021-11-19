@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 2540,
+  "case_year": 2021,
+  "judge_rapporteur": "ХРИСТО ЙОРДАНОВ ХРИСТОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=96ab28b4-03e3-474d-a233-5776b55489c4",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=12.11.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e4b432a881de34368caf179abe80e7dab15bb3c625a72538b8903e9591437712",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
