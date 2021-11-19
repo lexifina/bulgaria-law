@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2021-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 137,
+  "case_year": 2021,
+  "judge_rapporteur": "Емилия Дишева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=09fec12f-1bfe-45cc-8653-681f64c48f1c",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "45d2235c59f589106110e02e68919b24f4fb1a628a07ed5b0271f4e3528e4971",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
