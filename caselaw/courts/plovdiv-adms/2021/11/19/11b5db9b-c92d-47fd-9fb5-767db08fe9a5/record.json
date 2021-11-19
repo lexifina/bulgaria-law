@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-11-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 1934,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЕТЪР ГЕОРГИЕВ КАСАБОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=11b5db9b-c92d-47fd-9fb5-767db08fe9a5",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=12.11.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "99608108c53a8e8aca7fdf47a938280fb030c8d90294dcc27645c765d457a214",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
