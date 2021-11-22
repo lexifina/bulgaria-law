@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военно-апелативен съд",
+  "jurisdiction": "BG",
+  "date": "2021-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 61,
+  "case_year": 2021,
+  "judge_rapporteur": "полк. ГЕНКО ДРАГИЕВ ДРАГИЕВ",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d470a506-2949-46c5-8124-514efb6b7cf5",
+  "motives_file": null,
+  "source": "https://voas.justice.bg/bg/2815?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b64f3123856bc39997113a65357e361fb296ee7e5e40fb08ce9280c9a6b36511",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
