@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Средец",
+  "jurisdiction": "BG",
+  "date": "2021-11-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 194,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕНЕТА ДИМИТРОВА СТЕФАНОВА ИВАНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca4bd494-2e83-48fd-94ee-15af40754c0c",
+  "motives_file": null,
+  "source": "https://sredets-rs.justice.bg/bg/11285?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9b201ed451757d6cdcfdeeae93ba1fd96643f27ca4ba20690405e2b4f9d2945",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
