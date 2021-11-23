@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2302,
+  "case_year": 2021,
+  "judge_rapporteur": "Радослав Петков Радев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=079ea4ae-5583-4ed9-a608-bca68ab3014b",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=12.11.2021&to=04.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d44ef6e63acf2ba19d9618bbc95845d1d913c9867f8031081c8ae824ab0a854",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
