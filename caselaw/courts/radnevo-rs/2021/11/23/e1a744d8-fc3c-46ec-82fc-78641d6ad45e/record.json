@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Раднево",
+  "jurisdiction": "BG",
+  "date": "2021-11-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 302,
+  "case_year": 2021,
+  "judge_rapporteur": "Христина Вълчанова",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1a744d8-fc3c-46ec-82fc-78641d6ad45e",
+  "motives_file": null,
+  "source": "https://radnevo-rs.justice.bg/bg/10235?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dd84d860bb1e99ac21b5f9d8b44bbf0434e4e8c045c27f7753454d8cfbceecb0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
