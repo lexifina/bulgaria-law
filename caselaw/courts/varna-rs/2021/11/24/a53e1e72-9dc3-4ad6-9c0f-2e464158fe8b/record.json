@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-11-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 8196,
+  "case_year": 2021,
+  "judge_rapporteur": "Моника Жекова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a53e1e72-9dc3-4ad6-9c0f-2e464158fe8b",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.11.2021&to=28.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29c9134af600b0929f05fb5d17b4bdec60aa05c781a6d75306c5be698f25dab4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
