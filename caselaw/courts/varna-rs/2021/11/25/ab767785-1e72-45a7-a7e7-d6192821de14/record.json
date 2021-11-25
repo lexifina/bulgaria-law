@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-11-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1544,
+  "case_year": 2021,
+  "judge_rapporteur": "Стояна Илиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab767785-1e72-45a7-a7e7-d6192821de14",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.11.2021&to=28.11.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "29c9134af600b0929f05fb5d17b4bdec60aa05c781a6d75306c5be698f25dab4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
