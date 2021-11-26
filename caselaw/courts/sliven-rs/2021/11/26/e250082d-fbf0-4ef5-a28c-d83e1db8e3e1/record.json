@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-11-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1009,
+  "case_year": 2021,
+  "judge_rapporteur": "Свилена Стоянова Давчева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e250082d-fbf0-4ef5-a28c-d83e1db8e3e1",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=12.11.2021&to=04.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9594357521e08cf9a0f2fe9bdb60c7f584f3c523e11b6edda5f46db7cbbd8369",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
