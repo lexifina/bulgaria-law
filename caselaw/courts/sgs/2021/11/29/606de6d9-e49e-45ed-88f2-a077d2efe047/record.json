@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-11-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 11828,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА СТИЛИЯНОВА ЧЕРНЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=606de6d9-e49e-45ed-88f2-a077d2efe047",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.11.2021&to=01.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5199aef78e40448034f65e4411cd0792efc0ab227e97372ce69c65d3eeffaab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
