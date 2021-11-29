@@ -1,0 +1,21 @@
+{
+  "listing": "https://www.mlsp.government.bg/naredbi",
+  "label": "Наредба № 3 от 19.04.2001 г. за минималните изисквания за безопасност при използване на ЛПС (PDF)",
+  "url": "https://www.mlsp.government.bg/uploads/37/politiki/trud/zakonodatelstvo/n3lps21.pdf",
+  "title": "НАРЕДБА № 3 от 19.04.2001 г. за минималните изисквания за безопасност и опазване на здравето на работещите при използване на лични предпазни средства на работното място",
+  "made": "2001-04-19",
+  "published": "2021-11-26",
+  "in_force": "2021-11-29",
+  "in_force_basis": "Official MLSP consolidation header: latest listed Gazette amendment ДВ, бр. 99 от 26.11.2021 г.; no special commencement found in the sampled header, so Constitution art. 5(5), three days after publication.",
+  "latest_gazette_issue": "99",
+  "sha256": "3468c7d230fd81e28628836b8b76b33849b5113eb93afa7ab014acd425b07bd3",
+  "path": "naredba/mlsp/2001/naredba-3-ot-19-04-2001-g-za-minimalnite-iziskvaniya-za-bezopasnost-i-opazvane-n-3468c7d2",
+  "checks": {
+    "pages": 23,
+    "source_images": 16,
+    "native_chars": 19273
+  },
+  "checked_on": "2026-11-15",
+  "representation": "official-mlsp-current-consolidation",
+  "first_law": null
+}
