@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2021-11-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 162,
+  "case_year": 2021,
+  "judge_rapporteur": "Елисавета Радина",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2d1b91a-c21f-4cac-bcb9-2305eb5bdccf",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f4c34bd55abd9794ba771fac9415eeb66b63bb20548c4a39d7aa249e281075a7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
