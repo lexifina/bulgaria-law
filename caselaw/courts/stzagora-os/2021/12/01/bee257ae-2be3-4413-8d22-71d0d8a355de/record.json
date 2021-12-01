@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-12-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1325,
+  "case_year": 2020,
+  "judge_rapporteur": "ТРИФОН ИВАНОВ МИНЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bee257ae-2be3-4413-8d22-71d0d8a355de",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "398c595b523432c99ba695b96cb4e20cc090f553d756b0418da6aaff23f9ccc7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
