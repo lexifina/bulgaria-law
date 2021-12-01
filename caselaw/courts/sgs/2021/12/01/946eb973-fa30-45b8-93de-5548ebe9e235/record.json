@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2021-12-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2584,
+  "case_year": 2021,
+  "judge_rapporteur": "Вера Чочкова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=946eb973-fa30-45b8-93de-5548ebe9e235",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.11.2021&to=01.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5199aef78e40448034f65e4411cd0792efc0ab227e97372ce69c65d3eeffaab",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
