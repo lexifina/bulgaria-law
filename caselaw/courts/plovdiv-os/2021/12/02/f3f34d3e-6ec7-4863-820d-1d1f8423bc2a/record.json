@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 276,
+  "case_year": 2020,
+  "judge_rapporteur": "МИГЛЕНА ИЛИЕВА ПЛОЩАКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f3f34d3e-6ec7-4863-820d-1d1f8423bc2a",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=12.11.2021&to=04.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d44ef6e63acf2ba19d9618bbc95845d1d913c9867f8031081c8ae824ab0a854",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
