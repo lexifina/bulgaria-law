@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2021-12-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 281,
+  "case_year": 2021,
+  "judge_rapporteur": "Дияна Димова Петрова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6edc3a5a-0672-4363-b252-a0ee3b86b2fa",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "504bca7fc0020b36438c16ad9fbe0da191c10ffb8958813783cbf2fb5112c674",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
