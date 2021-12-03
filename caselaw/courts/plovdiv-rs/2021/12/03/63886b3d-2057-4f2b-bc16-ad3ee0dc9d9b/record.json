@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-12-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 14050,
+  "case_year": 2021,
+  "judge_rapporteur": "Георги Димитров Димитров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63886b3d-2057-4f2b-bc16-ad3ee0dc9d9b",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=29.11.2021&to=03.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "edbe80c5028390e7a3808312cd232813af7a97956f40ba0114e55ed3def7bf9e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
