@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2021-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 10079,
+  "case_year": 2019,
+  "judge_rapporteur": "ИВА СПАСОВА ДИМОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=833a9ae1-b5c8-46d2-a605-0b142802f84c",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9fc8232a48955c0bda7cc26c0329e780d9336729196eaff4a8b5d63190669174",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
