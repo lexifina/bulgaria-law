@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9964,
+  "case_year": 2021,
+  "judge_rapporteur": "Татяна Иванова Маслинкова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1f14a59-1ae9-4e96-a192-2984ff2f37ee",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=04.12.2021&to=08.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b26f87bf86b500520edb94684109db2a157c4e6f3b80c3585ea7d42c0681bcdc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
