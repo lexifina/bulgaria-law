@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-12-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16349,
+  "case_year": 2021,
+  "judge_rapporteur": "Таня Кунева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a06a56f1-2221-440d-bdf7-1ead22a11681",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=04.12.2021&to=08.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0a00926b17ee7932336669e6b66b95ce70a47b346b915b61d68de052beff3a96",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
