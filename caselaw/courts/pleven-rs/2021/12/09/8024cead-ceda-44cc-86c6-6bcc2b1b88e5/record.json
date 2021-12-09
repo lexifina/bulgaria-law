@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2021-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 941,
+  "case_year": 2021,
+  "judge_rapporteur": "Вера Светославова Найденова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8024cead-ceda-44cc-86c6-6bcc2b1b88e5",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=05.12.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0da71b89e606ac49f68bcba44c21e1c4ecbc27fb51589b2cb39ecee3f86a1c47",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
