@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Троян",
+  "jurisdiction": "BG",
+  "date": "2021-12-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 225,
+  "case_year": 2021,
+  "judge_rapporteur": "Светла Иванова Иванова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b513cf3c-bfe4-41cf-89a6-26f18edbed03",
+  "motives_file": null,
+  "source": "https://troyan-rs.justice.bg/bg/11635?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "55181c5950cfe9859451d719b9a6ed4f8c45ee027cc392bb9592d0a9f9ed7eac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
