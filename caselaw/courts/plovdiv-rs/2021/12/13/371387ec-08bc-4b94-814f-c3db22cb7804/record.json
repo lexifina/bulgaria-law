@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2021-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 7273,
+  "case_year": 2021,
+  "judge_rapporteur": "Божидар Иванов Кърпачев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=371387ec-08bc-4b94-814f-c3db22cb7804",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=09.12.2021&to=13.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aea7442e2faed6e9fd907c9eb62b0d7a93b9896e40914194dbd5a5b0289f3193",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
