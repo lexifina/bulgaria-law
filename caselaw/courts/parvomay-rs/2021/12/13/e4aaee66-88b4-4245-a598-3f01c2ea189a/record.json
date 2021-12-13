@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2021-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 214,
+  "case_year": 2021,
+  "judge_rapporteur": "Спасимир Спасов Здравчев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e4aaee66-88b4-4245-a598-3f01c2ea189a",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5d0247302ef78de63cdce5ad0d4611c8cfe4cdb068b4c95467cb5c31826f403d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
