@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2021-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 270,
+  "case_year": 2021,
+  "judge_rapporteur": "РОСИЦА КАРОВА ЦВЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb09272f-6eaf-4562-9389-ac7cf234fc88",
+  "motives_file": null,
+  "source": "https://shumen-adms.justice.bg/bg/2045?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "65863a81e48f5bf0c0aa54b80d3db624b02804ce16e49938288c5bf0d6217311",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
