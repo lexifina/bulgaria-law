@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2021-12-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 482,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯ НИКОЛАЕВНА НИЦОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=53a656ab-77b3-4192-b8a4-6b856c7814b7",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "767c51aa132bef4ac9f3fa954e7a4755eb7d24577d098f19c6515c6f578cd924",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
