@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1168,
+  "case_year": 2021,
+  "judge_rapporteur": "Анна Костадинова Димитрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=956fa245-0aab-4d80-86e4-6a2d4eb052dd",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=05.12.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e186876519ab6e21183519c55236a3aafb3b848b1816fd4394ce0c8548fbc553",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
