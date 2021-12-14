@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2021-12-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 757,
+  "case_year": 2021,
+  "judge_rapporteur": "Невена Калинова Калинова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4bd53860-c86f-4ce6-a459-954d15e5fd41",
+  "motives_file": null,
+  "source": "https://kardzhali-rs.justice.bg/bg/8135?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85e643f6d4ce7eae2a0636a72500f9cac4752bce137edf262526821196477b87",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
