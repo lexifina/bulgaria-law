@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2021-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 2306,
+  "case_year": 2021,
+  "judge_rapporteur": "Мариана Димова Христакева Панова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b6e58fec-6128-4e74-b865-508e758b0106",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "398c595b523432c99ba695b96cb4e20cc090f553d756b0418da6aaff23f9ccc7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
