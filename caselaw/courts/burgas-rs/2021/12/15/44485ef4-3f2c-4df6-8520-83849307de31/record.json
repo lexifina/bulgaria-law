@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-12-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 4653,
+  "case_year": 2021,
+  "judge_rapporteur": "НИКОЛАЙ СИМЕОНОВ ГЕМЕДЖИЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=44485ef4-3f2c-4df6-8520-83849307de31",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=07.12.2021&to=17.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "220e476d0386f05a36241e5bc57d31e46b51c3d5b4198f1e6853b27f951149eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
