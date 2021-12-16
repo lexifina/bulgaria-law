@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Котел",
+  "jurisdiction": "BG",
+  "date": "2021-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 565,
+  "case_year": 2021,
+  "judge_rapporteur": "Йовка Желязкова Бъчварова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f4e7af5-8172-4a95-9484-293d82e208b3",
+  "motives_file": null,
+  "source": "https://kotel-rs.justice.bg/bg/7855?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d7406b8ccecba47676df5f54d701fee990ef32b19226bd3f60c875b70f1994f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
