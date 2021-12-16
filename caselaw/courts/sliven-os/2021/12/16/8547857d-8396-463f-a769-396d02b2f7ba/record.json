@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2021-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 379,
+  "case_year": 2021,
+  "judge_rapporteur": "Ваня Ангелова Маркова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8547857d-8396-463f-a769-396d02b2f7ba",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "69dd4a2edaef4e35edb2da753ea356f803ae8e5358b862bf4403fa316a702b19",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
