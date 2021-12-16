@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1642,
+  "case_year": 2021,
+  "judge_rapporteur": "Таня Димитрова Евтимова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=25f2193e-2451-4869-8064-0eac9b574169",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=12.11.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "defaf35e41aed6b9481696da04be7e03e1cb86e2f786cb34a28141a18a6147ca",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
