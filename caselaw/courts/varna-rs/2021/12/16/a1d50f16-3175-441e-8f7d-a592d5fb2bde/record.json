@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2021-12-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3019,
+  "case_year": 2021,
+  "judge_rapporteur": "Любомир Нинов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1d50f16-3175-441e-8f7d-a592d5fb2bde",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=14.12.2021&to=18.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e953e0d02352e2e8be32204c2ba63e27985b8557e89fc76e13fff7a8094d4c29",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
