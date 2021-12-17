@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2021-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 103,
+  "case_year": 2021,
+  "judge_rapporteur": "Велина Иванова Ангелова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a496b074-a5b7-4173-a0a1-66a53f1bccaa",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ad7110a5f48daa025e5b9ebf49ea2b1bf5ee398bd6b82c70e296081bc62f4d8b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
