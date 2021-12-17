@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2021-12-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 22,
+  "case_year": 2019,
+  "judge_rapporteur": "БОРИСЛАВА СЛАВЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1ccdbc0-d031-4a7a-8df5-b36cf3f03025",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "27535e3a8e0cc8038e5fc90e4e5c24707cb65481ab63812343c448799f8f0491",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
