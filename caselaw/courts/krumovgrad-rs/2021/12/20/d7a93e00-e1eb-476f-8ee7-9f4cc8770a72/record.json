@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Крумовград",
+  "jurisdiction": "BG",
+  "date": "2021-12-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 223,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Илиев Йорданов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7a93e00-e1eb-476f-8ee7-9f4cc8770a72",
+  "motives_file": null,
+  "source": "https://krumovgrad-rs.justice.bg/bg/7925?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6350ebe249506bd6c23d747e26e4fcd2bb2034619c646929e4c3f661fc89e66a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
