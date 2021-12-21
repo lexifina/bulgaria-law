@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тервел",
+  "jurisdiction": "BG",
+  "date": "2021-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 389,
+  "case_year": 2021,
+  "judge_rapporteur": "Ганчо Манев Драганов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fe601a2c-5c2d-4df4-a232-d3a560f192bc",
+  "motives_file": null,
+  "source": "https://tervel-rs.justice.bg/bg/11425?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9f14510b11dac73598c0368921ff7bc5306bf6b30a68ccdb165306d1e4ab86d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
