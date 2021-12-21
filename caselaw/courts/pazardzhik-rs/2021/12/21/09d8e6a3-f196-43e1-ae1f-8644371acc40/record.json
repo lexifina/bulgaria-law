@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2021-12-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 132,
+  "case_year": 2021,
+  "judge_rapporteur": "Димитър Бишуров",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=09d8e6a3-f196-43e1-ae1f-8644371acc40",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=05.12.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "98beb3e09165a530b8f5c5015ba88249dbedcaaccd364d7e732dee2350b175ee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
