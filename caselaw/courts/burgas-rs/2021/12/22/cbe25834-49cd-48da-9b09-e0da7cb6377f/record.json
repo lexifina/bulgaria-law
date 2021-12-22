@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2021-12-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4007,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИНА ИВАНОВА МАВРОДИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cbe25834-49cd-48da-9b09-e0da7cb6377f",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=18.12.2021&to=28.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bd3c774bdc64d6fd3c5b2fbe59a30edb7b0db72e55fc236d2a552c5e0019a0f7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
