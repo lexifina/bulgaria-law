@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2021-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1595,
+  "case_year": 2021,
+  "judge_rapporteur": "Андрей Живков Дечев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba006738-bcb5-4f2f-8340-f1ad641a7af7",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ba407e112de252f2d7d613244eeaae6beef81f1dde3e8f38be859a293ea9145a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
