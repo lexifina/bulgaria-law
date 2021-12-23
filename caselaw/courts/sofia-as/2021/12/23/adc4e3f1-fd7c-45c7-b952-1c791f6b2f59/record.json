@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2021-12-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 2459,
+  "case_year": 2021,
+  "judge_rapporteur": "Красимир Маринов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=adc4e3f1-fd7c-45c7-b952-1c791f6b2f59",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=05.12.2021&to=27.12.2021&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d2f2ef248524eeb26cf7e0d24db2bff25dd22910d7873559f214a95cc67428f2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
