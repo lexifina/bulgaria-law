@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елин Пелин",
+  "jurisdiction": "BG",
+  "date": "2021-12-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 165,
+  "case_year": 2021,
+  "judge_rapporteur": "Петко Русев Георгиев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=13f32566-f916-4e34-aaac-2b43c3969be6",
+  "motives_file": null,
+  "source": "https://elpelin-rs.justice.bg/bg/6875?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c05ee5c3f73c01466fc6dab37ec5d65a0453772bfa9aba6f8410c5676e828ac1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
