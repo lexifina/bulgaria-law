@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2021-12-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 701,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Атанасова Москова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9338b43-b909-4de5-8f8f-e1853327816f",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7e59584acea6228fec977c7335523e15e020c7e61c70defad647fe36d41b516f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
