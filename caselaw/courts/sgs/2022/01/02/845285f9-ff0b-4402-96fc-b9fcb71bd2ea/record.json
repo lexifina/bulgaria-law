@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-01-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4478,
+  "case_year": 2017,
+  "judge_rapporteur": "БИЛЯНА МАГДЕЛИНОВА СЛАВЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=845285f9-ff0b-4402-96fc-b9fcb71bd2ea",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=01.01.2022&to=05.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e27a95e8fab56a95b1aa57c779beea21f9b357ae7cf9cabd5b8333688801a0fd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
