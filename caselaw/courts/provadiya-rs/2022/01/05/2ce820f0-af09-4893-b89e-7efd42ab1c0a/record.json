@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2022-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 409,
+  "case_year": 2021,
+  "judge_rapporteur": "Димитър Стефанов Михайлов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2ce820f0-af09-4893-b89e-7efd42ab1c0a",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c27f1bf88ea58dcd14ec7715f6562b51493b941f872208cdbc8f4a48116dd8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
