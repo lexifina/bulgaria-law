@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2022-01-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 84,
+  "case_year": 2021,
+  "judge_rapporteur": "ЖИВКО ДЕЛЧЕВ ЯНКОВ",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fd6260b4-e4c6-4d84-b169-8b3e5d15b79d",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "484edee09ac2686dcd9afa5dc557a0c4800bf655281a27c6de0d907da3bd63eb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
