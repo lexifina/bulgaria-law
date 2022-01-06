@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2022-01-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1867,
+  "case_year": 2021,
+  "judge_rapporteur": "Светлана Кънчева Чолакова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=faabad3d-1be5-47b2-a3c7-5f81d1acc8e1",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c2b4bd4d277084f287a6717ff6c920ed5f02956572a5d376137f500e762ab50a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
