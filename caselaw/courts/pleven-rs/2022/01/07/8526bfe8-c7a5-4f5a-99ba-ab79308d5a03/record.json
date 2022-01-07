@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2022-01-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2314,
+  "case_year": 2021,
+  "judge_rapporteur": "Дария Иванова Митева Маринова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8526bfe8-c7a5-4f5a-99ba-ab79308d5a03",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=28.12.2021&to=19.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6eb4e7632323e07f62e9b5832824cd30800a1c1f9d64686aab2c57674ad538b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
