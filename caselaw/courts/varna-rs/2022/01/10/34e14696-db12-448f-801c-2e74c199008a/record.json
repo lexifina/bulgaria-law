@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-01-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6086,
+  "case_year": 2021,
+  "judge_rapporteur": "Румяна Христова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=34e14696-db12-448f-801c-2e74c199008a",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=08.01.2022&to=17.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "237f3e0da417218d194c6dc9cf981123856d9f08b5dcf85008d0fc730c1fc531",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
