@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3917,
+  "case_year": 2020,
+  "judge_rapporteur": "ДОБРИНА ИВАНЧЕВА ПЕТРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4caa01a9-3180-432d-8c6e-c1cc7ccf9e0f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=08.01.2022&to=17.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "237f3e0da417218d194c6dc9cf981123856d9f08b5dcf85008d0fc730c1fc531",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
