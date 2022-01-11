@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2210,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕЛЕНА ИВАНОВА БАЛДЖИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7c90bb2b-48ac-440c-9398-cc67eac2e54f",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=28.12.2021&to=19.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c9002c9c6b6bd1c639877f16298b1b23db038c3f16ed4c01841a432a3c67ac66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
