@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2022-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 840,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивайло Петров Георгиев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a2bf5f1-9d42-4712-9c38-22a5b46b3ae1",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a9c27ebdefd5f1e789c161c175afd0ed96928c2f642269ae196a821948f6ab2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
