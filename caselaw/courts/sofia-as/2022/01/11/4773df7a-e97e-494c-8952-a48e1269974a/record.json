@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-01-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 3910,
+  "case_year": 2020,
+  "judge_rapporteur": "Мария Георгиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4773df7a-e97e-494c-8952-a48e1269974a",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=28.12.2021&to=19.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c0f777378b913bab5fbe66ece3df767259b816ed30038d7e0dead55e9152e53",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
