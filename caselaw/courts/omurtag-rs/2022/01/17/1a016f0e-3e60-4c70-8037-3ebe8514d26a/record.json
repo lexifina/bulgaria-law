@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2022-01-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 53,
+  "case_year": 2020,
+  "judge_rapporteur": "НЕВЯНА ПЕЙЧЕВА ЗАХАРИЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1a016f0e-3e60-4c70-8037-3ebe8514d26a",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dbaffbb609a3173e87acc6283bebad104888194b47dc489300296204af31cf26",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
