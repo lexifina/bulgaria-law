@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла Слатина",
+  "jurisdiction": "BG",
+  "date": "2022-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАЙЛО ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ea9a24bc-37ad-42ea-8122-6b20f7526cd6",
+  "motives_file": null,
+  "source": "https://bslatina-rs.justice.bg/bg/5405?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c1ad1778680d7e1b9d74fc357cce89458a6664c86ba38ac0b87e0c3c67d474f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
