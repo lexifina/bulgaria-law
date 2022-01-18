@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-01-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 33,
+  "case_year": 2022,
+  "judge_rapporteur": "Светослав Емилов Петров",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c9b048e6-1cfe-4706-a1b6-2bbda0be7580",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6b67a19aeb7dd336cd90164d20dd97fe016e018360b2696512b83f88271b992",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
