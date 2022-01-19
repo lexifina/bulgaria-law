@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-01-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 400,
+  "case_year": 2021,
+  "judge_rapporteur": "Радка Димитрова Дражева Първанова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d091b74d-742e-4be0-8b8c-d8b793bc890d",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "69dd4a2edaef4e35edb2da753ea356f803ae8e5358b862bf4403fa316a702b19",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
