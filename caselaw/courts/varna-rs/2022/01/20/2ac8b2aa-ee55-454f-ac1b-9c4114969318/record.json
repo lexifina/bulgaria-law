@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11026,
+  "case_year": 2021,
+  "judge_rapporteur": "Геновева Илиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2ac8b2aa-ee55-454f-ac1b-9c4114969318",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.01.2022&to=22.01.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "247d82f412379f4f528b0dfacd93083ac505aa20ee63147e3b545210113fb75f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
