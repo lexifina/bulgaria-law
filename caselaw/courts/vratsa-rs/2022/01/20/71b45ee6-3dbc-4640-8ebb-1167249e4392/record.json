@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2707,
+  "case_year": 2021,
+  "judge_rapporteur": "Биляна Росалинова Скорчовска Петкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=71b45ee6-3dbc-4640-8ebb-1167249e4392",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "36b9e9bf05e4fc1d45d691dc911c122c7c7cec511b603f9b3cf2676951b6d2a0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
