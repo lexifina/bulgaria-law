@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-01-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 45,
+  "case_year": 2021,
+  "judge_rapporteur": "Елеонора Петрова Серафимова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a673d0e8-83b4-43e1-b4c8-8a1c0d3fd4c8",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8381fe491d3033f7e5bb08bd6fb5651933056e67a632152dc52706d5e864aa8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
