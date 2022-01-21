@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-01-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1996,
+  "case_year": 2021,
+  "judge_rapporteur": "Калин Кирилов Василев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f8f189f3-5d75-46d4-937d-e5e5be8ac32a",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b6b67a19aeb7dd336cd90164d20dd97fe016e018360b2696512b83f88271b992",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
