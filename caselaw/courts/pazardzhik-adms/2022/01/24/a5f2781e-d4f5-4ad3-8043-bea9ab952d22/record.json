@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1134,
+  "case_year": 2021,
+  "judge_rapporteur": "КРАСИМИР ДИМИТРОВ ЛЕСЕНСКИ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5f2781e-d4f5-4ad3-8043-bea9ab952d22",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f4cb9b44a6419b128b5901f74c4639700488f7132ef6a5a1956edca785a83a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
