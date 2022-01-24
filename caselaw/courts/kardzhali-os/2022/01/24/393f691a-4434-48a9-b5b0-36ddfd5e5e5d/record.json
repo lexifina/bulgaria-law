@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кърджали",
+  "jurisdiction": "BG",
+  "date": "2022-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 11,
+  "case_year": 2022,
+  "judge_rapporteur": "Деян Георгиев Събев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=393f691a-4434-48a9-b5b0-36ddfd5e5e5d",
+  "motives_file": null,
+  "source": "https://kardzhali-os.justice.bg/bg/3445?from=14.11.2021&to=13.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c1edff53d8606509ce3cbb5fbd2fbb42c91c1ed882e5bf9dff9aa38abeb727b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
