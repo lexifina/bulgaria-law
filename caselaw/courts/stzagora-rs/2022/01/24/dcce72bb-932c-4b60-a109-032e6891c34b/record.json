@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2022-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4309,
+  "case_year": 2021,
+  "judge_rapporteur": "Иван Режев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dcce72bb-932c-4b60-a109-032e6891c34b",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bff0fe7256ab1d033339ca55267c2a89f3812e6346c2efc2a5150a539424e998",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
