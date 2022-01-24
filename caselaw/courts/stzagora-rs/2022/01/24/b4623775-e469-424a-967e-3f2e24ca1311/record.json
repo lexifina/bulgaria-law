@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2022-01-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 657,
+  "case_year": 2020,
+  "judge_rapporteur": "СВИЛЕН ИВАНОВ ЖЕКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b4623775-e469-424a-967e-3f2e24ca1311",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bff0fe7256ab1d033339ca55267c2a89f3812e6346c2efc2a5150a539424e998",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
