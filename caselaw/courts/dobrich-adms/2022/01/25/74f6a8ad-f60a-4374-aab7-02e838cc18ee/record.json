@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-01-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 35,
+  "case_year": 2022,
+  "judge_rapporteur": "КРАСИМИРА КЕРАНОВА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=74f6a8ad-f60a-4374-aab7-02e838cc18ee",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9d94d494ad9d1f56608fdc98dbc70dce527cb021acabfe655a4bb1f6ff44f6ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
