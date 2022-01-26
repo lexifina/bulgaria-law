@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2022-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 21,
+  "case_year": 2022,
+  "judge_rapporteur": "Мариета Неделчева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dda7e605-1932-4b58-af75-88b3e438567a",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d9b3abc249a35e69827f1b83313d4bcf3b71e5032f1b457ac66c715d2519f7f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
