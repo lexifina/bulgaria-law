@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-01-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 75,
+  "case_year": 2022,
+  "judge_rapporteur": "Петя Венциславова Петрова - Светиева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=92efb2d2-b87a-4552-8ea8-53951fadb169",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a81192b096d8281fb6e27f6ca9766c4bf86e07a67fbd55f8ff8de903afabe8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
