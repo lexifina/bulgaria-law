@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4363,
+  "case_year": 2021,
+  "judge_rapporteur": "Красимира Делчева Кондова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af22ac08-91f7-42e9-9542-130ecb5aed39",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a81192b096d8281fb6e27f6ca9766c4bf86e07a67fbd55f8ff8de903afabe8a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
