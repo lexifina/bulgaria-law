@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 787,
+  "case_year": 2021,
+  "judge_rapporteur": "Светослав Николаев Узунов",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dbdf5833-2612-4e03-b165-e96f1cc4633b",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.01.2022&to=01.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f36382e298e042eeaaa5b76617001a9d012299b44193dce143bea511d9a1f55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
