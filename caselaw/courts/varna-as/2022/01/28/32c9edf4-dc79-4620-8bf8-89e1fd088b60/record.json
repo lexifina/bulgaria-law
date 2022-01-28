@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-01-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 574,
+  "case_year": 2021,
+  "judge_rapporteur": "Магдалена Кръстева Недева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=32c9edf4-dc79-4620-8bf8-89e1fd088b60",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb51255e04ced2c43f3a75fc31ea89f51ef613429f4cab2578b1663bb5f18c41",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
