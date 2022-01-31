@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2022-01-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 325,
+  "case_year": 2021,
+  "judge_rapporteur": "ГЕОРГИ ЛЮБЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=42e5a33a-017d-4067-979b-14231b3ad0f6",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a5ad0d191213a26d91dbbbc6c982fb2ccec7465e93efe41360b1a91e939b26f1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
