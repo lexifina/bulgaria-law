@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Омуртаг",
+  "jurisdiction": "BG",
+  "date": "2022-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 8,
+  "case_year": 2022,
+  "judge_rapporteur": "Невяна Пейчева Захариева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0bdf16bf-2586-4d15-bc88-47d028202e8c",
+  "motives_file": null,
+  "source": "https://omurtag-rs.justice.bg/bg/9185?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dbaffbb609a3173e87acc6283bebad104888194b47dc489300296204af31cf26",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
