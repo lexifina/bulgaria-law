@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-02-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 8425,
+  "case_year": 2021,
+  "judge_rapporteur": "Николай Захариев Петров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eecb02ef-d685-4137-bc86-29d999855437",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.01.2022&to=01.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f36382e298e042eeaaa5b76617001a9d012299b44193dce143bea511d9a1f55",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
