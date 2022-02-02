@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Петрич",
+  "jurisdiction": "BG",
+  "date": "2022-02-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1172,
+  "case_year": 2021,
+  "judge_rapporteur": "Атанас Кобуров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e9455ef-349b-47f4-9b77-d27f34e95250",
+  "motives_file": null,
+  "source": "https://petrich-rs.justice.bg/bg/9605?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "015dd8eb15d55ea4fd141c2955899111fa6bdc8d65faa4441aca6f98c311c19a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
