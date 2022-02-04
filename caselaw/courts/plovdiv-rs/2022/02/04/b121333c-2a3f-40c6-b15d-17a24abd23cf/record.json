@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 18753,
+  "case_year": 2021,
+  "judge_rapporteur": "Таня Аспарухова Георгиева - Точевска",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b121333c-2a3f-40c6-b15d-17a24abd23cf",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=02.02.2022&to=06.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd5b7c1c96686127f329e33a112f845bf1b25fdbd3402749c0b2920fe08261a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
