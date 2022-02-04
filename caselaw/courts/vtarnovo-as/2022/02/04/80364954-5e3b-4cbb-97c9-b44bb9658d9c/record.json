@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-02-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 11,
+  "case_year": 2022,
+  "judge_rapporteur": "ЯНКО ЯНЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80364954-5e3b-4cbb-97c9-b44bb9658d9c",
+  "motives_file": null,
+  "source": "https://vtarnovo-as.justice.bg/bg/2395?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8d0b904b25c24eee07c72605f598682b870655aca87268129513802c2201580b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
