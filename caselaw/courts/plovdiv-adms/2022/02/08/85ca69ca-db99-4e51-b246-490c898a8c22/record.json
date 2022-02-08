@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 322,
+  "case_year": 2022,
+  "judge_rapporteur": "ЗДРАВКА ГЕОРГИЕВА ДИЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=85ca69ca-db99-4e51-b246-490c898a8c22",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e347c518a5001ce45dff59b9b39b87bbfe25a9fbf3d73cb6b90254db23710d40",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
