@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 3886,
+  "case_year": 2021,
+  "judge_rapporteur": "Камелия Първанова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f508c822-0b77-4538-b1e4-de5c727036c2",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f4084bd2d73ed1952eed3d7898df50c9497cfbc253b28d14ed7978de1bdc41a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
