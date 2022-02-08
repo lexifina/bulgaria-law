@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-02-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5584,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЕТА ДИМИТРОВА БУШАНДРОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b66949b-e345-4a8b-ae71-4a47dc1e2b63",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=31.01.2022&to=10.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01e220489a8133c0456676a2b03a41aea72fa634a7a1f8b775c8a03087539af3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
