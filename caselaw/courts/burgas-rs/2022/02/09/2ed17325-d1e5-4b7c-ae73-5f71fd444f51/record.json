@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 298,
+  "case_year": 2022,
+  "judge_rapporteur": "НИКОЛАЙ СИМЕОНОВ ГЕМЕДЖИЕВ",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2ed17325-d1e5-4b7c-ae73-5f71fd444f51",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=31.01.2022&to=10.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01e220489a8133c0456676a2b03a41aea72fa634a7a1f8b775c8a03087539af3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
