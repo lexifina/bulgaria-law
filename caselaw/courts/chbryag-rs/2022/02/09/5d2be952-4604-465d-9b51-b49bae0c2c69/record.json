@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2022-02-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 129,
+  "case_year": 2022,
+  "judge_rapporteur": "Йохан Мирославов Дженов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5d2be952-4604-465d-9b51-b49bae0c2c69",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "558efe31dcb873acda304d3eb2e3f4576a8fd7a4d39c4b950c4cf6c6e8fd94a8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
