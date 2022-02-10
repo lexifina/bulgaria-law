@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2022-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 34,
+  "case_year": 2022,
+  "judge_rapporteur": "ГАБРИЕЛ ПЕТКОВ ЙОНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3ba639df-83c5-4a78-82d0-fe9e8685d49a",
+  "motives_file": null,
+  "source": "https://vidin-os.justice.bg/bg/3165?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa16f5bfbb54984b07355287b186c94771f3dc559ebf03867ca147be3761d2d3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
