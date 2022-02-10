@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1020,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Янкова Иванова Вранеску",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c8e5f71-ed0d-4a73-847b-240a8d080cca",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.02.2022&to=14.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41531bdf09cf8179d296e0854ef33d2dd39eef72c45a17c0e4db906cf9dab776",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
