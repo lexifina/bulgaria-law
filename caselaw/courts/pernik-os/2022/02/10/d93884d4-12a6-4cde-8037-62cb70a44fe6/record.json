@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-02-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 436,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯ ВЕНЦИСЛАВОВА МИЛУШЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d93884d4-12a6-4cde-8037-62cb70a44fe6",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=12.11.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "07409af3efe992692b12c1aa04eaf6f33466f7046d62ed5462e40194cafe7976",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
