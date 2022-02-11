@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 711,
+  "case_year": 2021,
+  "judge_rapporteur": "МИХАИЛ АНГЕЛОВ АЛЕКСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=64a17cee-8de7-41df-b8a5-394fc896ff45",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=20.01.2022&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "745d0849b3e947ee3a7ed8330fdc1b1fbfa518f3a077094f48a7c58b4796c5c7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
