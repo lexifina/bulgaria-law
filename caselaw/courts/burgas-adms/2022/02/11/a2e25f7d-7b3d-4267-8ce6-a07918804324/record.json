@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 29,
+  "case_year": 2022,
+  "judge_rapporteur": "МАРИНА ХРИСТОВА НИКОЛОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a2e25f7d-7b3d-4267-8ce6-a07918804324",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=28.12.2021&to=11.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b04f9303af8005c6c4fa69114315e738e81da525f923f4218a816f3b2398f00c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
