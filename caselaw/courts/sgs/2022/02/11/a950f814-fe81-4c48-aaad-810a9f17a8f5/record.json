@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-02-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 992,
+  "case_year": 2022,
+  "judge_rapporteur": "Милен Евтимов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a950f814-fe81-4c48-aaad-810a9f17a8f5",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.02.2022&to=14.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "41531bdf09cf8179d296e0854ef33d2dd39eef72c45a17c0e4db906cf9dab776",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
