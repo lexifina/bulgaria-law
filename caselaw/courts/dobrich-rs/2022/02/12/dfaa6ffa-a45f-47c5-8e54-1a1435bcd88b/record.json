@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-02-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1022,
+  "case_year": 2021,
+  "judge_rapporteur": "Минка Кирчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dfaa6ffa-a45f-47c5-8e54-1a1435bcd88b",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cf54c4fa430571b18298e686f1082877a488b1833b4324034e5a87893fb35729",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
