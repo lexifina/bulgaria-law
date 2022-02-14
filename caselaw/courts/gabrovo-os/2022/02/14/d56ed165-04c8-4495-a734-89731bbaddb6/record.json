@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 16,
+  "case_year": 2022,
+  "judge_rapporteur": "Павел Неделчев",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d56ed165-04c8-4495-a734-89731bbaddb6",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81209e92f4c4e6928fd75ec16371dc7605bd12c39ed4c55994c6b3a72f79440f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
