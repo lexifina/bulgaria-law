@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2022-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 23,
+  "case_year": 2022,
+  "judge_rapporteur": "Йордан Иванов Геров",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d90dec25-4800-4623-8d02-66e60c8bed5e",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d95ef34736140747fe4dfe6937a799ac45d3fe072c907e3e705212d7247b9b61",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
