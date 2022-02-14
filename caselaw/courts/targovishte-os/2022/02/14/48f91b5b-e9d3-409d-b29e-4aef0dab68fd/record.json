@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2022-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 287,
+  "case_year": 2021,
+  "judge_rapporteur": "МИРОСЛАВ НИКОЛОВ МИТЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=48f91b5b-e9d3-409d-b29e-4aef0dab68fd",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59ae971ebe6e7b80145b80345e3540166e962c6e463b7885545413160e9735fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
