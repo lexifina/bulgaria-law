@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2022-02-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 62,
+  "case_year": 2021,
+  "judge_rapporteur": "Зара Ехия Иванова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7337407-9062-482b-8283-c95399da3d42",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ebd0868d931ce24922ab733b235554f3e836021c2c7639db4acc761ac2e0e633",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
