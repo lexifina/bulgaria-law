@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2022-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 74,
+  "case_year": 2021,
+  "judge_rapporteur": "МИЛЕН ИВАНОВ СТОЙЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f07fb42-f15f-47c0-80c8-d64c836a691d",
+  "motives_file": null,
+  "source": "https://targovishte-os.justice.bg/bg/4425?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "59ae971ebe6e7b80145b80345e3540166e962c6e463b7885545413160e9735fb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
