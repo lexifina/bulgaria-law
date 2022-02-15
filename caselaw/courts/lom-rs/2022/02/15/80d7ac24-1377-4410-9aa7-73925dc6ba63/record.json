@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2022-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 208,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВАН ПЛАМЕНОВ ЙОРДАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=80d7ac24-1377-4410-9aa7-73925dc6ba63",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc21ab440ad59544dd86bcae198e5eec5ad4923871143ac4f47c6f67ad25f30a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
