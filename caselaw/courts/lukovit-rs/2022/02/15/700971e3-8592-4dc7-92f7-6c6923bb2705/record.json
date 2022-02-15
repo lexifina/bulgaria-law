@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Луковит",
+  "jurisdiction": "BG",
+  "date": "2022-02-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 569,
+  "case_year": 2021,
+  "judge_rapporteur": "ВЕНЦИСЛАВ СТЕФАНОВ ВЪЛЧЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=700971e3-8592-4dc7-92f7-6c6923bb2705",
+  "motives_file": null,
+  "source": "https://lukovit-rs.justice.bg/bg/8485?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f380f3ad69c01237e4fb6ae4aa5d501e3626587d24265438b9776b92893fde08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
