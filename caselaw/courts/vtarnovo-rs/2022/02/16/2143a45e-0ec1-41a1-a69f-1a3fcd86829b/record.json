@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 98,
+  "case_year": 2022,
+  "judge_rapporteur": "ДАНИЕЛ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2143a45e-0ec1-41a1-a69f-1a3fcd86829b",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0029f2bde0b6e0799d39d614aa31ba99f23d64002c51affd83cdda53cf13a69f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
