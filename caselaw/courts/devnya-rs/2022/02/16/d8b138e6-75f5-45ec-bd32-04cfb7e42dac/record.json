@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2022-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 796,
+  "case_year": 2021,
+  "judge_rapporteur": "ЮЛИЯН ЖИВКОВ НИКОЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d8b138e6-75f5-45ec-bd32-04cfb7e42dac",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "628c3dca195abfa37ebf46d421a776da530d44333e0ab0de2f1e2debf07c3345",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
