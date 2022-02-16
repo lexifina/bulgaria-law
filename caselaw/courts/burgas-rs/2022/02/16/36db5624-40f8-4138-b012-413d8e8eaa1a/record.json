@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-02-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9092,
+  "case_year": 2021,
+  "judge_rapporteur": "АСЕН ТОТЕВ РАДЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36db5624-40f8-4138-b012-413d8e8eaa1a",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=11.02.2022&to=21.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e27424d8b0bbb8c97aebc2ac36b99230ba88a8e70d6256d534d9de49352a0c3a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
