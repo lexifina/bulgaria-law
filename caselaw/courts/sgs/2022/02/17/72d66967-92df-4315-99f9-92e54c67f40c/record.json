@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 108,
+  "case_year": 2022,
+  "judge_rapporteur": "Мирослав Стоянов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=72d66967-92df-4315-99f9-92e54c67f40c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=15.02.2022&to=19.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ffcd609ff6dd6df62195d6b7a18f29c544018aa90c96aa2b828c1964da77fe31",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
