@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разлог",
+  "jurisdiction": "BG",
+  "date": "2022-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1435,
+  "case_year": 2021,
+  "judge_rapporteur": "Велина Иванова Полежанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=37b19681-965d-408d-b788-586cfc4e2687",
+  "motives_file": null,
+  "source": "https://razlog-rs.justice.bg/bg/10445?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "389bb7b96e5853fe1f6c96c25b34b66ac79b357d3acc6f8c2905eb82f913b4de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
