@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2,
+  "case_year": 2022,
+  "judge_rapporteur": "Кремена Големанова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=04fe41cd-3f24-4bad-a236-3c65c6973244",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81209e92f4c4e6928fd75ec16371dc7605bd12c39ed4c55994c6b3a72f79440f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
