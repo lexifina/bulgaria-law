@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-02-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 784,
+  "case_year": 2022,
+  "judge_rapporteur": "Иван Георгиев Бекяров",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=491d8c25-ad77-42a9-8089-ecc4f6a7bb36",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=17.02.2022&to=21.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "adb06d968252dda6190e653d2c3c72b6a0ab30e220522ac6b9299775d99fc4b0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
