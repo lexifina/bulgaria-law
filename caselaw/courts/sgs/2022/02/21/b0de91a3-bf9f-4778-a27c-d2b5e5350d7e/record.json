@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 8001,
+  "case_year": 2021,
+  "judge_rapporteur": "Мая Михайлова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0de91a3-bf9f-4778-a27c-d2b5e5350d7e",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.02.2022&to=24.02.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0124a5c252de3bbdb241889b34df5f0ffde3ad034ad787a1694305ec93fb7023",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
