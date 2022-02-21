@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 79,
+  "case_year": 2012,
+  "judge_rapporteur": "ЕВГЕНИЯ ХРИСТОВА СТАМОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3262ad6-8560-425f-9802-911ce434b210",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32420ec34363fe6a9e1742b49aed86c76c761e6f9b2251456044324b823730f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
