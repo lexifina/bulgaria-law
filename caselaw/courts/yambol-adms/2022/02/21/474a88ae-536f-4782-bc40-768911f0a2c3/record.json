@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2022-02-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 40,
+  "case_year": 2022,
+  "judge_rapporteur": "СТОЯН ГОНЧЕВ ВЪЛЧЕВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=474a88ae-536f-4782-bc40-768911f0a2c3",
+  "motives_file": null,
+  "source": "https://yambol-adms.justice.bg/bg/2115?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0f86bc4208051cee6f8c7d9a362cc1a0699e87c86e7dfc3099ae9e89b604744c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
