@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно частно административно наказателно дело",
+  "case_number": 53,
+  "case_year": 2022,
+  "judge_rapporteur": "ГАЛИНА АТАНАСОВА СТОЙЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=99922ed2-25fb-4d59-8689-95357a5e2ee1",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b19557fdb1156c7fd7f358b1498d5ee1a03ff13ef95e7fc85ec27567099f9ce7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
