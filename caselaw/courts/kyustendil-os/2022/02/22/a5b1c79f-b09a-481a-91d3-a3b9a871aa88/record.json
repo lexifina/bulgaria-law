@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-02-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 387,
+  "case_year": 2019,
+  "judge_rapporteur": "ВАНЯ ДРАГАНОВА БОГОЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a5b1c79f-b09a-481a-91d3-a3b9a871aa88",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32420ec34363fe6a9e1742b49aed86c76c761e6f9b2251456044324b823730f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
