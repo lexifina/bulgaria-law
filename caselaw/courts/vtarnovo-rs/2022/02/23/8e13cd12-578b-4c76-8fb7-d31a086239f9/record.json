@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1728,
+  "case_year": 2020,
+  "judge_rapporteur": "Димо Колев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8e13cd12-578b-4c76-8fb7-d31a086239f9",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0029f2bde0b6e0799d39d614aa31ba99f23d64002c51affd83cdda53cf13a69f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
