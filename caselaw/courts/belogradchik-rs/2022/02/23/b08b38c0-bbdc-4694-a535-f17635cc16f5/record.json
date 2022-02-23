@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2022-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 199,
+  "case_year": 2021,
+  "judge_rapporteur": "Анна Иванова Кайтазка",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b08b38c0-bbdc-4694-a535-f17635cc16f5",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d72287b561964aa99233f433de9130573cc6de7f03b5cce972d998eacd2ede14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
