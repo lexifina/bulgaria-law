@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 658,
+  "case_year": 2021,
+  "judge_rapporteur": "Станислав Стефански",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cfa836cc-1160-4cf8-9201-7fc00d984a9e",
+  "motives_file": null,
+  "source": "https://vtarnovo-os.justice.bg/bg/3095?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "31c13fe6fd2351d419d68ff70e3469cdda55c4cfc1ae7067ce52a4aedabcf0d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
