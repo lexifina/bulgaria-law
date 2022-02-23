@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2022-02-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 2112,
+  "case_year": 2021,
+  "judge_rapporteur": "Красимир Маринов Кръстев",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1882ab70-412c-4364-a409-8f9d7cbe1dd5",
+  "motives_file": null,
+  "source": "https://shumen-rs.justice.bg/bg/12405?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a79440386b1e157553075e3017eab27fe980449d05ba469079f9eb0413cba1c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
