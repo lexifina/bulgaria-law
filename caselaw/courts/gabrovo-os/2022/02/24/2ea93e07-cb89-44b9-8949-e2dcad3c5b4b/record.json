@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 14,
+  "case_year": 2022,
+  "judge_rapporteur": "Пламен Попов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2ea93e07-cb89-44b9-8949-e2dcad3c5b4b",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81209e92f4c4e6928fd75ec16371dc7605bd12c39ed4c55994c6b3a72f79440f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
