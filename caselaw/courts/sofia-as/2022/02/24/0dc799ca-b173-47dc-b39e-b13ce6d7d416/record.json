@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 190,
+  "case_year": 2022,
+  "judge_rapporteur": "Капка Павлова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0dc799ca-b173-47dc-b39e-b13ce6d7d416",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=12.02.2022&to=06.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "793d30f9fb1ff1884303e3324c9496815c993c5676de844b1c98e4017ace6770",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
