@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тетевен",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 387,
+  "case_year": 2019,
+  "judge_rapporteur": "АНИ БОРИСОВА ГЕОРГИЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=269a307f-23f3-4869-8be5-de6eafd02c80",
+  "motives_file": null,
+  "source": "https://teteven-rs.justice.bg/bg/11495?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "73249f721a53f1c07d11b6ad10a7c1b67f7c80dde94de3ee7bd7c7ef7fc35b67",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
