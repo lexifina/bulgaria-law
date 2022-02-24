@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 55,
+  "case_year": 2022,
+  "judge_rapporteur": "Мая Андонова Миленкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2a457db0-fa77-4fb3-9ac6-c78f463d8e4c",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8609ceb54329da89a65b5c8e68f81022c5becfc1b388c9a13d09ef07e0075605",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
