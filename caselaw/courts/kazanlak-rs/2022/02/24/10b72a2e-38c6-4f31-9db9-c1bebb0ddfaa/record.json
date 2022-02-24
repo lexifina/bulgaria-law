@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Казанлък",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 141,
+  "case_year": 2022,
+  "judge_rapporteur": "МИХАИЛ ГЕОРГИЕВ МИХАЙЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=10b72a2e-38c6-4f31-9db9-c1bebb0ddfaa",
+  "motives_file": null,
+  "source": "https://kazanlak-rs.justice.bg/bg/7435?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c7f39c3ce16c8854f89f82f19c9c3ef03793b3314a9ce32524cf37750ae12849",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
