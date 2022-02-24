@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Чепеларе",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 138,
+  "case_year": 2020,
+  "judge_rapporteur": "Десислава Георгиева  Петрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f40f0f7-11b6-4a45-972d-31a4b5785d71",
+  "motives_file": null,
+  "source": "https://chepelare-rs.justice.bg/bg/12195?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6318f411ba5449cffc6f43dc0afd1e6c441940f8d1a3f207871eefc70605efba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
