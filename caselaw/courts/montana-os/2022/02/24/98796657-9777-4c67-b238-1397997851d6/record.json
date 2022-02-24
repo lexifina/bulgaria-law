@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-02-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 14,
+  "case_year": 2022,
+  "judge_rapporteur": "Таня Живкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=98796657-9777-4c67-b238-1397997851d6",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f52afd1525fc139aca52f101d87d419223e90d70cbf9c8616e326bbbf4c96afd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
