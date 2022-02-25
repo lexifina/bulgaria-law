@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4494,
+  "case_year": 2021,
+  "judge_rapporteur": "Христо Георгиев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c172aa0-4208-4c3b-b6f8-42d089a78f99",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=12.02.2022&to=06.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a446466fd451995f8f6aecd6729c9ace82fdb5a8511c30ca2c0051bccf347ee6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
