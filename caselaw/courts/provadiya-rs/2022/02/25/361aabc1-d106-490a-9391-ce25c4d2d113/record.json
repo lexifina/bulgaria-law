@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2022-02-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1775,
+  "case_year": 2021,
+  "judge_rapporteur": "Никола Дойчинов Дойчев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=361aabc1-d106-490a-9391-ce25c4d2d113",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "955105fe3db23470843ec42459693991fef5ed1ea6b09848a99d38950e7cd750",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
