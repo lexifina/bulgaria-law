@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Димитровград",
+  "jurisdiction": "BG",
+  "date": "2022-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1295,
+  "case_year": 2021,
+  "judge_rapporteur": "Гергана Точева Стоянова Денчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2ef91b4-bcef-4ce7-aa4b-54666d5e2f63",
+  "motives_file": null,
+  "source": "https://dimitrovgrad-rs.justice.bg/bg/6455?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee315672cafba7024a456579170dbdf5c9ffa37e9afb62d8cc0ececf67a74cdd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
