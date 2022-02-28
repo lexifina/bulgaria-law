@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2022-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4618,
+  "case_year": 2019,
+  "judge_rapporteur": "ГЕНЧО КОЛЕВ АТАНАСОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cdafa740-4733-484b-ab21-0c91894b03a5",
+  "motives_file": null,
+  "source": "https://stzagora-rs.justice.bg/bg/11355?from=12.02.2022&to=06.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "616ae96a88f986f5d7cd60eacef7fd3459ea737958ac0a344e28b56af6056d73",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
