@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-02-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1354,
+  "case_year": 2021,
+  "judge_rapporteur": "Никола Георгиев Маринов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7536c3b-1be9-47e4-91db-9fbe67e36fc1",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=12.02.2022&to=06.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3922b0e618f616fd0281bb761b0381e2d3889ebcbdeb32023902a890773b2f60",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
