@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2022-03-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 124,
+  "case_year": 2022,
+  "judge_rapporteur": "Атанас Маскръчки",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c7ef389-e578-4a07-a6c3-15d63b7afa94",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=22.12.2021&to=23.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1e6817e6545fc7078c0bfb970b1df073d0a48ce54adb50841ba73fd2e7abea9f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
