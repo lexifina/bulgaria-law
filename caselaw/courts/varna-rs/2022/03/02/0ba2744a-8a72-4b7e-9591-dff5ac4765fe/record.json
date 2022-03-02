@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 14216,
+  "case_year": 2021,
+  "judge_rapporteur": "Михаил Михайлов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ba2744a-8a72-4b7e-9591-dff5ac4765fe",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.02.2022&to=03.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7eda5f5343d052288717f42134eda8a3aa00c42dd8b8f029946e3a0ab0d39536",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
