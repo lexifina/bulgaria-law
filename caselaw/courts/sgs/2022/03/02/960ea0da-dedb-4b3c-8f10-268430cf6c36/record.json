@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 935,
+  "case_year": 2022,
+  "judge_rapporteur": "Райна Мартинова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=960ea0da-dedb-4b3c-8f10-268430cf6c36",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=02.03.2022&to=06.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "813320bd677bc4fc56b87eeab0ec3e1bddad97fc6e9c2d2e82e5b39a157ae59b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
