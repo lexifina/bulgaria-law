@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Провадия",
+  "jurisdiction": "BG",
+  "date": "2022-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 360,
+  "case_year": 2020,
+  "judge_rapporteur": "ДЕСИСЛАВА ГЕОРГИЕВА ПЕТРОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=51f37320-22af-4c9f-b162-9762f930e97a",
+  "motives_file": null,
+  "source": "https://provadiya-rs.justice.bg/bg/10095?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "955105fe3db23470843ec42459693991fef5ed1ea6b09848a99d38950e7cd750",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
