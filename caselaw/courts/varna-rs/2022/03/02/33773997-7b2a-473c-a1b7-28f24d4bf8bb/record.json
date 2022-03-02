@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 5338,
+  "case_year": 2021,
+  "judge_rapporteur": "Росица Шкодрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=33773997-7b2a-473c-a1b7-28f24d4bf8bb",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=27.02.2022&to=03.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7eda5f5343d052288717f42134eda8a3aa00c42dd8b8f029946e3a0ab0d39536",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
