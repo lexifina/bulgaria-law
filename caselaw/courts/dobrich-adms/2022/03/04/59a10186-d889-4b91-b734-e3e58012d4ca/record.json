@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно административно дело",
+  "case_number": 137,
+  "case_year": 2022,
+  "judge_rapporteur": "КРАСИМИРА КЕРАНОВА ИВАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=59a10186-d889-4b91-b734-e3e58012d4ca",
+  "motives_file": null,
+  "source": "https://dobrich-adms.justice.bg/bg/715?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28a1d66d43552d233d828301064165e725507d96950070ba969fe947433181e5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
