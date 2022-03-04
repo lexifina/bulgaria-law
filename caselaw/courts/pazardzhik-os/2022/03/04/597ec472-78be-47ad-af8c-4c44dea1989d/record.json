@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 748,
+  "case_year": 2021,
+  "judge_rapporteur": "Иванка Георгиева Илинова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=597ec472-78be-47ad-af8c-4c44dea1989d",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1c98494f9f1467a1fd65935a71a6cd3760a8402a9d4ee8f1de039d75b6ee5c40",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
