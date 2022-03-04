@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2022-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 39,
+  "case_year": 2022,
+  "judge_rapporteur": "Стойка Георгиева Манолова Стойкова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=814b1c36-4ac2-487f-9f53-3e7312c63299",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "379c89797a276776fbc069e0b9ec4ca5dbdd69bde92bf935426e9308d9443802",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
