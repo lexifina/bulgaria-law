@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 583,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Кръстева Маринова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=47f48013-06c7-4e7c-a51a-6832263b3007",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cbc78d7ac6640573da3124177568afeabb12c8355d0b39916858e1c1068b0790",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
