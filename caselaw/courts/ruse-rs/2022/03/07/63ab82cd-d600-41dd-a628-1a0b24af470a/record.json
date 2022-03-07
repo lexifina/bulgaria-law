@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 2415,
+  "case_year": 2021,
+  "judge_rapporteur": "Явор Димов Влахов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=63ab82cd-d600-41dd-a628-1a0b24af470a",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=07.03.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af683eedf87d65eeb21a7f09771705e14c613e80e8bd74990bca4189e8019003",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
