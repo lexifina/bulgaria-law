@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-03-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1013,
+  "case_year": 2022,
+  "judge_rapporteur": "ПАНАЙОТ СТОЯНОВ АТАНАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1b879208-bbd9-4a7c-af60-d6ab7f4393d1",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=05.03.2022&to=15.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc7d7a130fc99475f00b1ffdb314fedb7902187323ccf639a74f2d05da08c25d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
