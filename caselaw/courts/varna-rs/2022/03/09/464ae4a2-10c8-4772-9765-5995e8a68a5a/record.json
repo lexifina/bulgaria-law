@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 339,
+  "case_year": 2022,
+  "judge_rapporteur": "Димо Цолов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=464ae4a2-10c8-4772-9765-5995e8a68a5a",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=09.03.2022&to=13.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9c057674f0378190d7be7dddf5d98b30274862ae283c19ee6cd91f62282f3b9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
