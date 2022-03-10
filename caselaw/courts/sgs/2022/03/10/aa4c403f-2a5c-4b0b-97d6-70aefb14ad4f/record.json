@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2183,
+  "case_year": 2020,
+  "judge_rapporteur": "АННА ВЛАДИМИРОВА НЕНОВА ВЪЛКАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa4c403f-2a5c-4b0b-97d6-70aefb14ad4f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=07.03.2022&to=11.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "380320e67deb95ac04b143636fac5094aebf13631ff5a620302ee4a43eb30ba9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
