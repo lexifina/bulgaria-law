@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кула",
+  "jurisdiction": "BG",
+  "date": "2022-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 13,
+  "case_year": 2022,
+  "judge_rapporteur": "Петър Валентинов Живков",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=22f87b7d-8852-4d53-bb3c-fd905efe1612",
+  "motives_file": null,
+  "source": "https://kula-rs.justice.bg/bg/8065?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f88d8aa84ad62b73192b63fee536713cdc53cb78f87d7231bcc0b848a849b8de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
