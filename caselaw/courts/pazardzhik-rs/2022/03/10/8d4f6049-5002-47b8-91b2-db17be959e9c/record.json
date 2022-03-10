@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-03-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 138,
+  "case_year": 2022,
+  "judge_rapporteur": "Веселка Златева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d4f6049-5002-47b8-91b2-db17be959e9c",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=07.03.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9cb70f389b4f957480e5014d223223ea431ae0317c7f1effd7b1732d50d8e706",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
