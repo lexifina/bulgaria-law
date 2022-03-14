@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2022-03-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 81,
+  "case_year": 2022,
+  "judge_rapporteur": "Цветомил Борисов Горчев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=482ffd92-fecb-4a39-9525-425724ca2a4d",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "650a9ad89c543cf0d307da2fe1d1664d49f0d7054b00b9f1f3ff51353307daf1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
