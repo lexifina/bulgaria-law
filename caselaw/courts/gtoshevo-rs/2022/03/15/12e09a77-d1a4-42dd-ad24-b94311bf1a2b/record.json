@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2022-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 24,
+  "case_year": 2022,
+  "judge_rapporteur": "Динко Минчев Динков",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=12e09a77-d1a4-42dd-ad24-b94311bf1a2b",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d1e494cddf9977abcf97624a6d4e928f2e5083b1ffb36a2f8ef8257abab410e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
