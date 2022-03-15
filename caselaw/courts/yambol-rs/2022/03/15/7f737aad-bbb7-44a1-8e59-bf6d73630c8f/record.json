@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2022-03-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1809,
+  "case_year": 2021,
+  "judge_rapporteur": "Светла Рускова Димитрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7f737aad-bbb7-44a1-8e59-bf6d73630c8f",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0033851c3de9eb4a19db1f04b77b6e8f753a74c6f1e8b959f7246c3ca6862250",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
