@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2750,
+  "case_year": 2021,
+  "judge_rapporteur": "Венета Цветкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0727962b-d3ad-4367-bc3a-cc96c935f31f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=12.03.2022&to=16.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83a4fce050a22c546d870a032249f26c43540464ff7b1ce7ac981e79de149c15",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
