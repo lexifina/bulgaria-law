@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2022-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 846,
+  "case_year": 2021,
+  "judge_rapporteur": "Златина Пламенова Личева-Денева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b31bf61-df00-41e8-b8fb-c48faf3164eb",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fded1bd7a8d334128d5b0bfdc97c4e58032920454ebc7afa1830ea0ae1bf6deb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
