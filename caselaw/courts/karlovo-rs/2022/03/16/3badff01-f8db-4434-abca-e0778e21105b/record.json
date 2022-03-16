@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2022-03-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 24,
+  "case_year": 2022,
+  "judge_rapporteur": "Анна Георгиева Георгиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3badff01-f8db-4434-abca-e0778e21105b",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3bdafe60a3a25da35298184ab8c25d56375da57144d787a946fc4b6e23c1fffe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
