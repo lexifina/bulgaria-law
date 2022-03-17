@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Трън",
+  "jurisdiction": "BG",
+  "date": "2022-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 16,
+  "case_year": 2022,
+  "judge_rapporteur": "ПЕТЪР СИМЕОНОВ ПЕТРОВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2e789294-60d2-40d1-85af-625d95e214fc",
+  "motives_file": null,
+  "source": "https://tran-rs.justice.bg/bg/11705?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7eb2799a78d67b7881dc4b822c47220811b06f885d181d974a7c5d68661dfa77",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
