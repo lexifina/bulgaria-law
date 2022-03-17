@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 268,
+  "case_year": 2020,
+  "judge_rapporteur": "ВЕРА ИВАНОВА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6fb93ab8-7e95-4671-9aa9-fd7230f82f85",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ebd1ee404e2ec8fb86c7b9bddfed84762846c46f74d39c1f32caa96543ab564b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
