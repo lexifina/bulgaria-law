@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2022-03-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 11,
+  "case_year": 2022,
+  "judge_rapporteur": "Рая Петкова Йончева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=40bc811a-d1cc-49e9-9b08-68d25c54a8e7",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a4206edf38f176f3c09974d34ac102c82e7b6b0ab82fcba5fcc38bcec0051fac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
