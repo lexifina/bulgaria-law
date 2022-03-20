@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15020,
+  "case_year": 2021,
+  "judge_rapporteur": "Елена Николова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d7b3f299-aec6-4bc1-929f-684d5a9b0e9b",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=19.03.2022&to=23.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c693c1926f61d3a37c51eadf54897eaf56e2d899269eb9a7e1bad803c2599ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
