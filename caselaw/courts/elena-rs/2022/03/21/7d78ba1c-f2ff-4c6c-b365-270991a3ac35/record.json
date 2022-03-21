@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2022-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 26,
+  "case_year": 2022,
+  "judge_rapporteur": "ЕМИЛ БОБЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7d78ba1c-f2ff-4c6c-b365-270991a3ac35",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e8ebb74c7033c4ff9372bf0436d4bc669cbd636ba4977141a7ab9811b7e4c664",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
