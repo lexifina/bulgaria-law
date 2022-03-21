@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Тутракан",
+  "jurisdiction": "BG",
+  "date": "2022-03-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 115,
+  "case_year": 2022,
+  "judge_rapporteur": "Огнян Кирилов Маладжиков",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8083bb86-6a7f-4bf6-82fa-f3b05e012625",
+  "motives_file": null,
+  "source": "https://tutrakan-rs.justice.bg/bg/11845?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f228d335c5bb68e99b2818292fabd1c1f125c9e74f347d9fe2b424e78ccf53e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
