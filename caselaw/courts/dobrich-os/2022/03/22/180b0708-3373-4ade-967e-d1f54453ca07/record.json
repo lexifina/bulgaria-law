@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 74,
+  "case_year": 2022,
+  "judge_rapporteur": "Калиптен Ибрям  Алид",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=180b0708-3373-4ade-967e-d1f54453ca07",
+  "motives_file": null,
+  "source": "https://dobrich-os.justice.bg/bg/3375?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1ea6c3a9b2edaa4bdec9796ee64d8f63c8ff885bd2a6e9d338af9a55308a27a6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
