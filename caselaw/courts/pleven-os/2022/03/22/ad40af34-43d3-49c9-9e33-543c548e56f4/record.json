@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2022-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 974,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕМИЛИЯ АТАНАСОВА КУНЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ad40af34-43d3-49c9-9e33-543c548e56f4",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12c3b27d62fbee3679fc9334703c9f65d7c881560bd4cbaee5331a05653599de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
