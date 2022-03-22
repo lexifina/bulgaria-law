@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-03-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 123,
+  "case_year": 2022,
+  "judge_rapporteur": "Галина Христова Нейчева",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dfbffcf0-06a0-44b6-b9cb-53e564b2a22b",
+  "motives_file": null,
+  "source": "https://sliven-os.justice.bg/bg/4215?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "39aaad9f71b76f7467afe5f05db0daa578e15b74df3cd3f9c75e23fd44e63dba",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
