@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 637,
+  "case_year": 2022,
+  "judge_rapporteur": "Татяна Лефтерова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4b0dd00d-e33f-4477-907b-446a7d3cb68c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=19.03.2022&to=23.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c693c1926f61d3a37c51eadf54897eaf56e2d899269eb9a7e1bad803c2599ea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
