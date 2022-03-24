@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мадан",
+  "jurisdiction": "BG",
+  "date": "2022-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 67,
+  "case_year": 2022,
+  "judge_rapporteur": "Володя Янков Янков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6bb617b2-cdac-49f7-b721-0db19d7425bc",
+  "motives_file": null,
+  "source": "https://madan-rs.justice.bg/bg/8555?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b0df96e5d0cfbd6fa28b40daafd4ac20ef23777fa04d9ce58ec689402d42cd3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
