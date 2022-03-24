@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-03-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2596,
+  "case_year": 2021,
+  "judge_rapporteur": "Калина Христова Христова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ccc615a-753f-4857-a2db-e09ae1b3d3c6",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=12.02.2022&to=29.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "506352266f82d69553bd91b500bc2aac558937e086ba9d4c1da8fe28cc9d1d66",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
