@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16482,
+  "case_year": 2021,
+  "judge_rapporteur": "Деница Добрева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=175f66cc-12ac-48b8-b63b-8ccf5d0266bc",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=24.03.2022&to=28.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ef4db773bcb4692bc4a682cf3483bfa12d0c63ab851063810a3b2a4966599bd7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
