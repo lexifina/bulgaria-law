@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-03-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 210,
+  "case_year": 2022,
+  "judge_rapporteur": "Зорница Валентинова Петрова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e1861f5c-798e-4d34-a0cc-9a1ee9647dc2",
+  "motives_file": null,
+  "source": "https://gabrovo-rs.justice.bg/bg/5965?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b8ae2ad0d45ad2a86b3f6d9e25aee80c2d74c34c29076e90e2049a98d8db30d5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
