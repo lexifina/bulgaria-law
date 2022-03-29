@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дулово",
+  "jurisdiction": "BG",
+  "date": "2022-03-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15,
+  "case_year": 2022,
+  "judge_rapporteur": "Николай Костадинов Кънчев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a1a86b38-fedf-47b5-b071-a7f85fc053ca",
+  "motives_file": null,
+  "source": "https://dulovo-rs.justice.bg/bg/6665?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a0ea94cf7567e60897d28a4cef0aa739c98903415706ecfd570ea331b5908c8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
