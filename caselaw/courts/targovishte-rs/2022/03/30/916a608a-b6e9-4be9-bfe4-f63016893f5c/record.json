@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Търговище",
+  "jurisdiction": "BG",
+  "date": "2022-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 136,
+  "case_year": 2022,
+  "judge_rapporteur": "Зорница Донкова Павлова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=916a608a-b6e9-4be9-bfe4-f63016893f5c",
+  "motives_file": null,
+  "source": "https://targovishte-rs.justice.bg/bg/11915?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c497a23eeecb16e2e2ef904b27f5e5b44cf9fafd82bdcaa0eb3f9d714c06ba31",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
