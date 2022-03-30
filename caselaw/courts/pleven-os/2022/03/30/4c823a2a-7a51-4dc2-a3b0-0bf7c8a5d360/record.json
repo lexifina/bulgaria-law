@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2022-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от частен характер",
+  "case_number": 79,
+  "case_year": 2022,
+  "judge_rapporteur": "ЕКАТЕРИНА ТИХОМИРОВА ГЕОРГИЕВА-ПАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c823a2a-7a51-4dc2-a3b0-0bf7c8a5d360",
+  "motives_file": null,
+  "source": "https://pleven-os.justice.bg/bg/3865?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "12c3b27d62fbee3679fc9334703c9f65d7c881560bd4cbaee5331a05653599de",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
