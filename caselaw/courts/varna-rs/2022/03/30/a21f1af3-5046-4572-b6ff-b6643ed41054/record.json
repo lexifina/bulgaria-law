@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-03-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6182,
+  "case_year": 2020,
+  "judge_rapporteur": "ИВАН СТОЙНОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a21f1af3-5046-4572-b6ff-b6643ed41054",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=29.03.2022&to=02.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "480fbcdc50b3a2133b3ced68439468d7704d9cbc9e271d67c418d4960b68a916",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
