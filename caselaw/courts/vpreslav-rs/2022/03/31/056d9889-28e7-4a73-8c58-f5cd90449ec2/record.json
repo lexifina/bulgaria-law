@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велики Преслав",
+  "jurisdiction": "BG",
+  "date": "2022-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 70,
+  "case_year": 2022,
+  "judge_rapporteur": "Соня Ангелова Стефанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=056d9889-28e7-4a73-8c58-f5cd90449ec2",
+  "motives_file": null,
+  "source": "https://vpreslav-rs.justice.bg/bg/5615?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "93e03f0103b339ccfd585ceffdebc8dd6958f475ca53e3cc85ee0768b0d27f11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
