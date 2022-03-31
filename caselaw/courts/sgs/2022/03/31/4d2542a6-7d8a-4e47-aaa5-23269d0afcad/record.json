@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-03-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1755,
+  "case_year": 2021,
+  "judge_rapporteur": "СИЛВИЯ ВЕНЦИСЛАВОВА ТАЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4d2542a6-7d8a-4e47-aaa5-23269d0afcad",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=27.03.2022&to=31.03.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2ca016d678a23e1372a6082eaeb2d31f071a4addab85f9da16f0d368161e91e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
