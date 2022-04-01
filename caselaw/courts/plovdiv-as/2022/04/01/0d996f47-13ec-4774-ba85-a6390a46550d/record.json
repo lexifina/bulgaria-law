@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 905,
+  "case_year": 2021,
+  "judge_rapporteur": "Катя Стоянова Пенчева",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d996f47-13ec-4774-ba85-a6390a46550d",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ebd1ee404e2ec8fb86c7b9bddfed84762846c46f74d39c1f32caa96543ab564b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
