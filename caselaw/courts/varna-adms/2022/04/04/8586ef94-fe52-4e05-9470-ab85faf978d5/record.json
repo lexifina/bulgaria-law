@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 519,
+  "case_year": 2022,
+  "judge_rapporteur": "КРАСИМИР РУСЕВ КИПРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8586ef94-fe52-4e05-9470-ab85faf978d5",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=30.03.2022&to=21.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a069fde0b2e4c8f448a923c8681e5e88f25981104d8845513b35812b9e6daac4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
