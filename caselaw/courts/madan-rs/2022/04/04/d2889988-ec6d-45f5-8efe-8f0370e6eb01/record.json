@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мадан",
+  "jurisdiction": "BG",
+  "date": "2022-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 192,
+  "case_year": 2021,
+  "judge_rapporteur": "СЛАВЧО АСЕНОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2889988-ec6d-45f5-8efe-8f0370e6eb01",
+  "motives_file": null,
+  "source": "https://madan-rs.justice.bg/bg/8555?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8b0df96e5d0cfbd6fa28b40daafd4ac20ef23777fa04d9ce58ec689402d42cd3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
