@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2022-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 119,
+  "case_year": 2021,
+  "judge_rapporteur": "ПЛАМЕНА САШЕВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a8c0497-3b28-4389-8de6-48b65c70cb45",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da2690c7862877784d1422f9753c17f20c1e16576dedb9f2085bfb00641dafaf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
