@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 59,
+  "case_year": 2020,
+  "judge_rapporteur": "РОСИЦА ИВАНОВА МАРКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=66bf8582-a57a-4687-9e44-34f00914648c",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5071221d028929901265b70272a6008d7b4d3e686ed497ca4d08437a8d29f4db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
