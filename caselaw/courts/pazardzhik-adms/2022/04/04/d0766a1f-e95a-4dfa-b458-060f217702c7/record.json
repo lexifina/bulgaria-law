@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-04-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1035,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИЯ БЕЛЕВА ХУБЧЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d0766a1f-e95a-4dfa-b458-060f217702c7",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "17b7c530b5f48771fef2773b64913a6883fe9276cb6c8837bd92fb4feed21375",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
