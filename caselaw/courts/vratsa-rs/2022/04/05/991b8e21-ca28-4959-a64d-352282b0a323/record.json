@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2336,
+  "case_year": 2021,
+  "judge_rapporteur": "Магдалена Бориславова Младенова-Стоева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=991b8e21-ca28-4959-a64d-352282b0a323",
+  "motives_file": null,
+  "source": "https://vratsa-rs.justice.bg/bg/5895?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6a198a18942a5358d6e50a000edc5f7fa471d5001319b9d88b0c12854b15ab0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
