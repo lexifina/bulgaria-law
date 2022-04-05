@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 385,
+  "case_year": 2022,
+  "judge_rapporteur": "ДИМИТЪР КРЪСТЕВ",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=536c2cb5-9a23-4e09-94c1-834a3e4dadcd",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a9fc3873abed34640160d349f0adf4469493c086248706e9c7fba5c5a8fb1350",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
