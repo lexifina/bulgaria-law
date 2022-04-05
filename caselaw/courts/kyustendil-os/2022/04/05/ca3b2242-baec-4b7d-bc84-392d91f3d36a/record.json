@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-04-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 97,
+  "case_year": 2022,
+  "judge_rapporteur": "Мария Стоянова Танева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ca3b2242-baec-4b7d-bc84-392d91f3d36a",
+  "motives_file": null,
+  "source": "https://kyustendil-os.justice.bg/bg/3515?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "32420ec34363fe6a9e1742b49aed86c76c761e6f9b2251456044324b823730f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
