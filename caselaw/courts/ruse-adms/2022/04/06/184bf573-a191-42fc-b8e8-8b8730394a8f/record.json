@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 38,
+  "case_year": 2022,
+  "judge_rapporteur": "ДИАНА БОРИСОВА КАЛОЯНОВА ХРИСТОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=184bf573-a191-42fc-b8e8-8b8730394a8f",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c72e0ef4ce0e018d28ded59c8631afc1e5063feb80e407a976fb1ea42941f3c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
