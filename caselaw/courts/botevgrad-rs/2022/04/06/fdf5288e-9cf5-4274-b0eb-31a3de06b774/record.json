@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2022-04-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 570,
+  "case_year": 2021,
+  "judge_rapporteur": "НАТАЛИЯ ПЕТКОВА ПЕТКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fdf5288e-9cf5-4274-b0eb-31a3de06b774",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75205f4c02f5cbf6978892d8a063229db71df303f99d6206eb49bed1eb08efa1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
