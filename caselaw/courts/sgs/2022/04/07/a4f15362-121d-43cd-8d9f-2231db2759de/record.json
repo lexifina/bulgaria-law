@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8211,
+  "case_year": 2021,
+  "judge_rapporteur": "Мария Малоселска",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a4f15362-121d-43cd-8d9f-2231db2759de",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.04.2022&to=10.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2cfa54ff438beb941ce10efbf5e0e82736570c61089e6ae4a96b686b36a4fc3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
