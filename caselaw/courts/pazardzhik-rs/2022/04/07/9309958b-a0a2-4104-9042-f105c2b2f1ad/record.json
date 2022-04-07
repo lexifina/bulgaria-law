@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 367,
+  "case_year": 2022,
+  "judge_rapporteur": "Красимир Лесенски",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9309958b-a0a2-4104-9042-f105c2b2f1ad",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=30.03.2022&to=21.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e5a55aef2dd8fbe3ec4edbede752919712a75ff1a1ef4a92b317017b01d189a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
