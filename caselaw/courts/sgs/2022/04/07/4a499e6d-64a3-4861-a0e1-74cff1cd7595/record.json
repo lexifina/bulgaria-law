@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1851,
+  "case_year": 2022,
+  "judge_rapporteur": "Силвана Гълъбова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a499e6d-64a3-4861-a0e1-74cff1cd7595",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.04.2022&to=10.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2cfa54ff438beb941ce10efbf5e0e82736570c61089e6ae4a96b686b36a4fc3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
