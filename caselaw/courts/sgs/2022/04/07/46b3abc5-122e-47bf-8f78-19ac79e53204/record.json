@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2591,
+  "case_year": 2019,
+  "judge_rapporteur": "РУМЯНА АНТОНОВА СПАСОВА-КЕЖОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=46b3abc5-122e-47bf-8f78-19ac79e53204",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.04.2022&to=10.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b2cfa54ff438beb941ce10efbf5e0e82736570c61089e6ae4a96b686b36a4fc3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
