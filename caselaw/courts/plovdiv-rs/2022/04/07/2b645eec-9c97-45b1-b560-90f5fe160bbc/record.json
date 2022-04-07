@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 9561,
+  "case_year": 2021,
+  "judge_rapporteur": "Вихра Милкова Къдринска",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2b645eec-9c97-45b1-b560-90f5fe160bbc",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=03.04.2022&to=07.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1db8a52071bac700002d1fe119b387b81dfc8dbed23d332f266e235b30b0fb4a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
