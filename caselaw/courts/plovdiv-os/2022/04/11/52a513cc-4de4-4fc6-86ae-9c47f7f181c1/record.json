@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 67,
+  "case_year": 2022,
+  "judge_rapporteur": "Недялка Димитрова Свиркова Петкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=52a513cc-4de4-4fc6-86ae-9c47f7f181c1",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=30.03.2022&to=21.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc2bcc67e01986c970ffa5145e824b5924147407a8657f3d691d6471e3992f83",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
