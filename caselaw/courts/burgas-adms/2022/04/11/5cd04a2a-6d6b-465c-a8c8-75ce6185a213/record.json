@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 368,
+  "case_year": 2022,
+  "judge_rapporteur": "ЧАВДАР ДИМИТРОВ ДИМИТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5cd04a2a-6d6b-465c-a8c8-75ce6185a213",
+  "motives_file": null,
+  "source": "https://burgas-adms.justice.bg/bg/295?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "102e8c7732f233246cc67768771e8330f14ce309eadd27d37ee439945d269155",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
