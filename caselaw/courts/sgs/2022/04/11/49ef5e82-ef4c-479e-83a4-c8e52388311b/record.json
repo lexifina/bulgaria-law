@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 3148,
+  "case_year": 2021,
+  "judge_rapporteur": "Ралица Манолова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=49ef5e82-ef4c-479e-83a4-c8e52388311b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.04.2022&to=15.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ddee8b0942d6a93cf29a1d0a726bd6346012c8b8c5c060f8d237da84fc2df90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
