@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 12672,
+  "case_year": 2021,
+  "judge_rapporteur": "Деница Славова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8a6fa556-0121-43cd-9c22-b214fe2e0f68",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=08.04.2022&to=12.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8651d9b80fec7c93dfc8ca9213372e4d631b4ae019f29e4ce8133b6ccc9bc1f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
