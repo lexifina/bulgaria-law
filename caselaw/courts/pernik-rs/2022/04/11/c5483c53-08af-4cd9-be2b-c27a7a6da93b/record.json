@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-04-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 970,
+  "case_year": 2022,
+  "judge_rapporteur": "Кристина Николаева Костадинова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5483c53-08af-4cd9-be2b-c27a7a6da93b",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=09.04.2022&to=19.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1859e259dac01e14a0c6eebf51a16d7bf1d93b63bc2edc50f9b660540a161917",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
