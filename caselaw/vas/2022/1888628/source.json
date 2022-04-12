@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 7605,
+  "case_year": 2021,
+  "decision_type": "Решение",
+  "decision_number": "3463",
+  "decision_date": "2022-04-12",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D1888628%26code%3Dvas%26guid%3D2100288241",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=1888628&code=vas&guid=2100288241",
+  "source_text_sha256": "fc7ef9b2f901ff2838520a41cce416ed2b18e8fff053217bfa8913193858271f",
+  "source_images": 0
+}
