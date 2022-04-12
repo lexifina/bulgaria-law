@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 4824,
+  "case_year": 2021,
+  "judge_rapporteur": "Атанас Стоилов Атанасов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1985a82e-346d-4f2e-8032-52a6106039be",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.04.2022&to=15.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ddee8b0942d6a93cf29a1d0a726bd6346012c8b8c5c060f8d237da84fc2df90",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
