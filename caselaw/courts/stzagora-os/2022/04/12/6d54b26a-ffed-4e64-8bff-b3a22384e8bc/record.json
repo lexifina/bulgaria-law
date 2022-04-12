@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2022-04-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 194,
+  "case_year": 2022,
+  "judge_rapporteur": "Спасена Венелинова Драготинова Русенова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6d54b26a-ffed-4e64-8bff-b3a22384e8bc",
+  "motives_file": null,
+  "source": "https://stzagora-os.justice.bg/bg/4355?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1fd8ffdbf3dc309ca581f46a12210214c0aa39c46b1afceb3ea879f077bb691d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
