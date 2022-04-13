@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2144,
+  "case_year": 2022,
+  "judge_rapporteur": "Поля Петрова Сакутова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e55926cc-4f82-4b9b-9c94-57053b439d3f",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=13.04.2022&to=17.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f00d2653543b676fbf2a7a4bf6228ed5202b25de5e3e20dbc3f3e65768504b4d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
