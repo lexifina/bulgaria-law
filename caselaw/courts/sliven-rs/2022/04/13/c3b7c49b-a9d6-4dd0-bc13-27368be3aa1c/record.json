@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливен",
+  "jurisdiction": "BG",
+  "date": "2022-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 378,
+  "case_year": 2022,
+  "judge_rapporteur": "Анна Костадинова Димитрова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c3b7c49b-a9d6-4dd0-bc13-27368be3aa1c",
+  "motives_file": null,
+  "source": "https://sliven-rs.justice.bg/bg/11075?from=30.03.2022&to=21.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b3fb2ec0e24aaed8566518d013fbd46353f19735437e5549cc1556b01979bfc5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
