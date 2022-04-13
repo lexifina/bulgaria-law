@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 444,
+  "case_year": 2022,
+  "judge_rapporteur": "Николай Александров Николов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0cd0dac4-f077-45e1-854f-228206b5a3e5",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4f1b8014e0473f9b5065b0600bcfe8fcae1b31738ebba379eefba431a464cbe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
