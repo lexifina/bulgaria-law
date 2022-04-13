@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-04-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 1815,
+  "case_year": 2021,
+  "judge_rapporteur": "Радостина Петкова Иванова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f51a0ce8-07cf-4ad2-a2b4-8c6e78dce498",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "106f411e19d41f257b88d83b0d326573b041ef5a5fd16c4abec17ecc9f6af810",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
