@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 16069,
+  "case_year": 2021,
+  "judge_rapporteur": "Деница Славова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=95c930e0-af89-44f2-bfd5-c7874770db71",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=13.04.2022&to=17.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "30e5a4531580935c8f29c6c112ef053189cd4ca45e59bc4089184757c630346f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
