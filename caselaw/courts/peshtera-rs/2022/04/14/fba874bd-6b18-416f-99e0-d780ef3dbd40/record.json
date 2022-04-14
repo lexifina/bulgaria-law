@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2022-04-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 501,
+  "case_year": 2021,
+  "judge_rapporteur": "Атанаска Стоянова Павлова-Стоименова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fba874bd-6b18-416f-99e0-d780ef3dbd40",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4f09bc2675b9928cc794cf06a4599b56e24fc3cf12305ef09c6001420f8e0e18",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
