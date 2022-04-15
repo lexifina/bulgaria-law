@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1313,
+  "case_year": 2021,
+  "judge_rapporteur": "Светослав Емилов Петров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7e1a0cc5-b5a0-45e8-b8c4-27023f71b262",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4f1b8014e0473f9b5065b0600bcfe8fcae1b31738ebba379eefba431a464cbe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
