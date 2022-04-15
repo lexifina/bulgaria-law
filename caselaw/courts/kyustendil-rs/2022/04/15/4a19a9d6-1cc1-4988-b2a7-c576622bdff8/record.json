@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2601,
+  "case_year": 2021,
+  "judge_rapporteur": "Елисавета Георгиева Деянчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4a19a9d6-1cc1-4988-b2a7-c576622bdff8",
+  "motives_file": null,
+  "source": "https://kyustendil-rs.justice.bg/bg/8205?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d4f1b8014e0473f9b5065b0600bcfe8fcae1b31738ebba379eefba431a464cbe",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
