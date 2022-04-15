@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-04-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно гражданско дело",
+  "case_number": 865,
+  "case_year": 2010,
+  "judge_rapporteur": "АННА ИВАНОВА ЩЕРЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=78da61da-777d-4177-8c19-2f3e27655618",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "106f411e19d41f257b88d83b0d326573b041ef5a5fd16c4abec17ecc9f6af810",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
