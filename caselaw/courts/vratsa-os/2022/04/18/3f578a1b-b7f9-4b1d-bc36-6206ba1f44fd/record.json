@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 31,
+  "case_year": 2022,
+  "judge_rapporteur": "Росица Иванова Маркова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3f578a1b-b7f9-4b1d-bc36-6206ba1f44fd",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5071221d028929901265b70272a6008d7b4d3e686ed497ca4d08437a8d29f4db",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
