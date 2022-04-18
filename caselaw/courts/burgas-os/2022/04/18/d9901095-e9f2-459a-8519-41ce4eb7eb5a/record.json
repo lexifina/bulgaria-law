@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 2235,
+  "case_year": 2020,
+  "judge_rapporteur": "Даниела  Дончева Михова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d9901095-e9f2-459a-8519-41ce4eb7eb5a",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "106f411e19d41f257b88d83b0d326573b041ef5a5fd16c4abec17ecc9f6af810",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
