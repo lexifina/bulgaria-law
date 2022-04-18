@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Петрич",
+  "jurisdiction": "BG",
+  "date": "2022-04-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 880,
+  "case_year": 2021,
+  "judge_rapporteur": "Андроника Илиева Ризова - Ръжданова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=73755477-48a7-4e27-913c-de1248c6a90a",
+  "motives_file": null,
+  "source": "https://petrich-rs.justice.bg/bg/9605?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0b89c3df9411a6850a2cbc5ab7fb8473f6b97d47218246fbaa243d29b272a441",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
