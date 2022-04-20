@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4047,
+  "case_year": 2019,
+  "judge_rapporteur": "ТАТЯНА ИВАНОВА МАСЛИНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7ee01e4-7f03-45fd-953e-73bc41d5d5ce",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=18.04.2022&to=22.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "461f1c2a82052999224407ffc7d669ff9ba02bede132b78c982019417816205b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
