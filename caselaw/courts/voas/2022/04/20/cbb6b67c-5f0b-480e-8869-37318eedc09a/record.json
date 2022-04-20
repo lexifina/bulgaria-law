@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военно-апелативен съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 28,
+  "case_year": 2022,
+  "judge_rapporteur": "полк. СВИЛЕН РУСЕВ АЛЕКСАНДРОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cbb6b67c-5f0b-480e-8869-37318eedc09a",
+  "motives_file": null,
+  "source": "https://voas.justice.bg/bg/2815?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bcd50e6da6c2b7a48f5e29506cb446c1e36e1f1d434adc751c5f801e34ea7dd4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
