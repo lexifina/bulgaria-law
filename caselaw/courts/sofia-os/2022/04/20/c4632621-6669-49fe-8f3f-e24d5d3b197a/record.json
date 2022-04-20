@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски окръжен съд",
+  "jurisdiction": "BG",
+  "date": "2022-04-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 161,
+  "case_year": 2022,
+  "judge_rapporteur": "Пламен Димитров Петков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4632621-6669-49fe-8f3f-e24d5d3b197a",
+  "motives_file": null,
+  "source": "https://sofia-os.justice.bg/bg/12615?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c616c167cbead794bcdb7b1a544bf83922e67b6dcd36ed27e218818f81e50cea",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
