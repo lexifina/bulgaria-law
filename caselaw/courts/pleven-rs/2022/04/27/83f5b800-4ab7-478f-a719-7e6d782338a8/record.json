@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2022-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 503,
+  "case_year": 2022,
+  "judge_rapporteur": "Радостина Ташева Гергичанова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=83f5b800-4ab7-478f-a719-7e6d782338a8",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=22.04.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "74ad9c03dbbdecb33439fdbc019f61721012bca151a5bec436748d6a15f4fb39",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
