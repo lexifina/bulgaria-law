@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-04-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 63,
+  "case_year": 2022,
+  "judge_rapporteur": "Петя Йорданова Котева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=21cf0fa0-0ccf-4ecf-b5d6-2f86bb8c1e38",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=20.04.2022&to=30.04.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bf60a741b680ba670425cb648ed7e884082df6eeabf44165efe9487885a605d9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
