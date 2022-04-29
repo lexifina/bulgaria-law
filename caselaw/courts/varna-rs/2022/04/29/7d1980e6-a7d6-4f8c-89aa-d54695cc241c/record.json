@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-04-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1453,
+  "case_year": 2021,
+  "judge_rapporteur": "ДЕСИСЛАВА ЙОРДАНОВА ЙОРДАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7d1980e6-a7d6-4f8c-89aa-d54695cc241c",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=28.04.2022&to=02.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "443a9f98f6e48d7695b257d09eadb8942fdc833f1f4cf8006d41141b2be4f1f5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
