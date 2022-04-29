@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 18150,
+  "case_year": 2019,
+  "judge_rapporteur": "КОСТАДИН БОЖИДАРОВ ИВАНОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eb665091-9d8a-4fc3-bf29-243c5822590d",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.04.2022&to=02.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b1f5258193208754e0967a5445b4b077940822db24497ab679c8fcaa6feb432",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
