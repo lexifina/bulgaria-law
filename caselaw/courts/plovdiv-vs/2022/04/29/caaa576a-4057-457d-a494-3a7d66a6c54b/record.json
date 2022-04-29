@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-04-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 58,
+  "case_year": 2021,
+  "judge_rapporteur": "полк. Величка Захариева Влашева",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=caaa576a-4057-457d-a494-3a7d66a6c54b",
+  "motives_file": null,
+  "source": "https://plovdiv-vs.justice.bg/bg/2605?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8ddb4024eac14e707d5ed36cc21b0362d2680ca6d1cd70a5237f7e672db463d0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
