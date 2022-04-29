@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2022-04-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 114,
+  "case_year": 2022,
+  "judge_rapporteur": "Павлина Тонева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b38325d-8b7e-492c-a2a3-19b2a9d2cb65",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=30.03.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1426ead75a1a0e38059f60cb3c2200512f3b53ea2b623647af6080b1f89b156c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
