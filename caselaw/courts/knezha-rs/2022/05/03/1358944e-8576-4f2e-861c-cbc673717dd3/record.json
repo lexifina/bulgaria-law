@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кнежа",
+  "jurisdiction": "BG",
+  "date": "2022-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 609,
+  "case_year": 2021,
+  "judge_rapporteur": "Пламен Георгиев Тодоров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1358944e-8576-4f2e-861c-cbc673717dd3",
+  "motives_file": null,
+  "source": "https://knezha-rs.justice.bg/bg/7645?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cb13a1a46a4774902a5181ebdaaca2273be4814327074bfc1642eb4855fdf544",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
