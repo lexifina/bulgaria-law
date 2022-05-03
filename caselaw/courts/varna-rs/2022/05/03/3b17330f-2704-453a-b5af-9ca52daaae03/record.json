@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-05-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 4249,
+  "case_year": 2021,
+  "judge_rapporteur": "Валя Цуцакова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b17330f-2704-453a-b5af-9ca52daaae03",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=03.05.2022&to=07.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0a661508d29f5e4e20746c3deeae5203a7be3720a52e67c4bc16a38a7aff240",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
