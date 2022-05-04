@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2022-05-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 93,
+  "case_year": 2022,
+  "judge_rapporteur": "Ивета Венциславова Кънева-Санкова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43e71caf-ea41-4ff4-955f-0a401393d192",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dbe9ab7b4d0774053f6d24cdfd52eafba198457ceefe8fec2f50a8b31b4f6a7f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
