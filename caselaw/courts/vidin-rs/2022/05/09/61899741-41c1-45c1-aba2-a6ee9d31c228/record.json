@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2022-05-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 122,
+  "case_year": 2022,
+  "judge_rapporteur": "Андрей Живков Дечев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61899741-41c1-45c1-aba2-a6ee9d31c228",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b0edea6bd0140cd9a3f2bd95c6855cae945378efeb0eb9240b7ef98b5eaa134f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
