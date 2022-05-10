@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 4041,
+  "case_year": 2022,
+  "judge_rapporteur": "Вергиния Мичева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eda391b2-276f-4fe8-87fc-2218c4e513db",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.05.2022&to=10.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e28210040fb2e26b3853a872af287c122d6fedbd5e370c5b95750848b252f1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
