@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2025,
+  "case_year": 2020,
+  "judge_rapporteur": "ЦВЕТА СТОЯНОВА ЖЕЛЯЗКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cb1d80a1-85a8-445f-bc20-3a04723c881f",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=06.05.2022&to=10.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e28210040fb2e26b3853a872af287c122d6fedbd5e370c5b95750848b252f1e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
