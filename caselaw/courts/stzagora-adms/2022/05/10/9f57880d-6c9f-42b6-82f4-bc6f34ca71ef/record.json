@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Стара Загора",
+  "jurisdiction": "BG",
+  "date": "2022-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 172,
+  "case_year": 2022,
+  "judge_rapporteur": "ЯНИЦА СЪБЧЕВА СЪБЕВА ЧЕНАЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9f57880d-6c9f-42b6-82f4-bc6f34ca71ef",
+  "motives_file": null,
+  "source": "https://stzagora-adms.justice.bg/bg/1835?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90ce8688edf803f2fa7c4a6e112558e25efbdf5d8ca8ff85df607a66c83d3430",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
