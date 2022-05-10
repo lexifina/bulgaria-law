@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2022-05-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 112,
+  "case_year": 2022,
+  "judge_rapporteur": "Недко Цолов Петров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=edbb4cd7-01a5-427d-8637-65f515ae6dd1",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75205f4c02f5cbf6978892d8a063229db71df303f99d6206eb49bed1eb08efa1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
