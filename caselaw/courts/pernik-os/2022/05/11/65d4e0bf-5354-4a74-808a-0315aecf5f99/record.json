@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 243,
+  "case_year": 2020,
+  "judge_rapporteur": "КРИСТИАН БОЖИДАРОВ ПЕТРОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=65d4e0bf-5354-4a74-808a-0315aecf5f99",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8e3f89da4c2e914724a6194ab46f98e23206c21fea826b18b87acf164bb12c84",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
