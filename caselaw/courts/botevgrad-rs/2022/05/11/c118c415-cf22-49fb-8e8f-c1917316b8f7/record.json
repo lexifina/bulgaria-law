@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ботевград",
+  "jurisdiction": "BG",
+  "date": "2022-05-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2085,
+  "case_year": 2021,
+  "judge_rapporteur": "Илияна Цветкова Тодорова Аловска",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c118c415-cf22-49fb-8e8f-c1917316b8f7",
+  "motives_file": null,
+  "source": "https://botevgrad-rs.justice.bg/bg/5195?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "75205f4c02f5cbf6978892d8a063229db71df303f99d6206eb49bed1eb08efa1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
