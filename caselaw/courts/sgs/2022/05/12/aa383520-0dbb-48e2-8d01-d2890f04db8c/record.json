@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-05-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 1607,
+  "case_year": 2022,
+  "judge_rapporteur": "Мирослава Тодорова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aa383520-0dbb-48e2-8d01-d2890f04db8c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=11.05.2022&to=15.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3d048ac90b73dfda59a1d839d7bb7e17275362b10319c9f27921977656eb9ee",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
