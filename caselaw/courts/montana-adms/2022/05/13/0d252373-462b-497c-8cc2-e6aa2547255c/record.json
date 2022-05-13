@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 157,
+  "case_year": 2022,
+  "judge_rapporteur": "СОНЯ ДИМИТРОВА КАМАРАШКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0d252373-462b-497c-8cc2-e6aa2547255c",
+  "motives_file": null,
+  "source": "https://montana-adms.justice.bg/bg/995?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5895b8659a1e39820fd317080887a31e1704a2796f96644ccf706f5ff143be6d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
