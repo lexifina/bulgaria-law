@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2022-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 25,
+  "case_year": 2022,
+  "judge_rapporteur": "Николай Светлинов Василев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d8abe38-95fc-45c3-b6e0-0d6038902c6c",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "67d86749e00d653f6742c17720329e25932c908408de2a2c8854f4375309e749",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
