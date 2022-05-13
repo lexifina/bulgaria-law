@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5905,
+  "case_year": 2021,
+  "judge_rapporteur": "Насуф Исмал",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e54b04b5-559c-4a84-a48d-9a69e660b46f",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=13.05.2022&to=17.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6925af25688bc22d50b598f618a88e7d05966c926b2391239e220c096f0c792b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
