@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-05-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 241,
+  "case_year": 2021,
+  "judge_rapporteur": "Велина Емануилова Антонова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=79d2e947-65c2-49e4-a32f-dbf11a3b1306",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=12.02.2022&to=14.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ebd1ee404e2ec8fb86c7b9bddfed84762846c46f74d39c1f32caa96543ab564b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
