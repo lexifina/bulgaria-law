@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2022-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 937,
+  "case_year": 2021,
+  "judge_rapporteur": "Лилия Методиева Ненова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d24f8d23-f12a-42f0-b57c-07757c8555ad",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6dcf80a1a4bdf477315b847d2d50812f38fafa6618094c93e6c4a9c01ab93b52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
