@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Шумен",
+  "jurisdiction": "BG",
+  "date": "2022-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 115,
+  "case_year": 2021,
+  "judge_rapporteur": "Йордан Василев Димов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=392ed278-b008-4da9-8889-06cb29d342c2",
+  "motives_file": null,
+  "source": "https://shumen-os.justice.bg/bg/4565?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b347cf7d4a671e7eec37712d93748a8349b045b5c324ab866009835d84b9b1bb",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
