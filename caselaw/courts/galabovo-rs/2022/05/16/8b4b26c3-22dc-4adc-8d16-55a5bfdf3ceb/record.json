@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Гълъбово",
+  "jurisdiction": "BG",
+  "date": "2022-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 40,
+  "case_year": 2022,
+  "judge_rapporteur": "Христо Ангелов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b4b26c3-22dc-4adc-8d16-55a5bfdf3ceb",
+  "motives_file": null,
+  "source": "https://galabovo-rs.justice.bg/bg/6245?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "57b76c4e873c4258812eb875d2d2c593f16d0b69fa87153542c5832d05ae197b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
