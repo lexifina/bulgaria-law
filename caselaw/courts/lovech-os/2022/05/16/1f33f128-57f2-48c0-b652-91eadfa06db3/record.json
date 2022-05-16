@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2022-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 13,
+  "case_year": 2021,
+  "judge_rapporteur": "ЗОРНИЦА АНГЕЛОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1f33f128-57f2-48c0-b652-91eadfa06db3",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96ea54a40b9fdefecf63cdeabb445c8e32c86ac343abc435a45ad83123ac7a5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
