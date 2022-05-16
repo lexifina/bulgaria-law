@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-05-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 10060,
+  "case_year": 2018,
+  "judge_rapporteur": "КРЕМЕНА НИКОЛАЕВА ГОЛЕМАНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5b3ade4c-2ae6-4b61-825d-e156490a181c",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b821cee73f54a462e975d429e0a4612a0607c619f10a248cf49308c60b15ccc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
