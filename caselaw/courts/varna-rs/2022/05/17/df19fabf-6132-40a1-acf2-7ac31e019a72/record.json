@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3407,
+  "case_year": 2002,
+  "judge_rapporteur": "ХРИСТИНА ВАЛЕНТИНОВА КОЛЕВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=df19fabf-6132-40a1-acf2-7ac31e019a72",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=13.05.2022&to=17.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6925af25688bc22d50b598f618a88e7d05966c926b2391239e220c096f0c792b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
