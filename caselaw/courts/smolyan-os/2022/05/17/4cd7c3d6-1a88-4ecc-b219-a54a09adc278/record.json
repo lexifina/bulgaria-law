@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2022-05-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 168,
+  "case_year": 2022,
+  "judge_rapporteur": "Росица Николова Кокудева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4cd7c3d6-1a88-4ecc-b219-a54a09adc278",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ac434680cceea127568db4a05ede2c9db9a1266cf2412dba9ca36f83f2d6c14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
