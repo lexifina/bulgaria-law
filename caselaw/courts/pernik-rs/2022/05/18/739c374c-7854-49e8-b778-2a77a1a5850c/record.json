@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2093,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИНЕЛА КРАСИМИРОВА МАРИНОВА-СТОЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=739c374c-7854-49e8-b778-2a77a1a5850c",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=12.05.2022&to=22.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "da9a36ac30f6178e251751297a5c8347a4356170196042e85314bc8658a38c4a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
