@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-05-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7238,
+  "case_year": 2021,
+  "judge_rapporteur": "Десислава Йорданова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=36078259-ef0e-4025-ba8c-f2069e5e91f0",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=18.05.2022&to=22.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9c0d7804733d58d9031de91812398c47b5556ebb0ac78a20b884bc89a6e7d586",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
