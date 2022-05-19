@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2022-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1207,
+  "case_year": 2021,
+  "judge_rapporteur": "Димитър Тодоров Маринов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2327953-1b2f-43c6-9e4f-c26b37fb909c",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89dc5751367079cf3735615e2a918c1d86f6bf83656157ff17a74b4f559ad00b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
