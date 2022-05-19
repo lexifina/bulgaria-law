@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ямбол",
+  "jurisdiction": "BG",
+  "date": "2022-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 4015,
+  "case_year": 2021,
+  "judge_rapporteur": "Димчо Генев Димов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=dd9d4535-a4a8-40f3-aa47-ef9fef54daa4",
+  "motives_file": null,
+  "source": "https://yambol-rs.justice.bg/bg/12475?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4843b5db61ff04679ecf204667a682e9d7e5e3d03004c1caa7d04f3842e3007f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
