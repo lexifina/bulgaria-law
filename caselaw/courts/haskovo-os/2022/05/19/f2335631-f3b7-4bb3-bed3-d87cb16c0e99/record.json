@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2022-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 112,
+  "case_year": 2016,
+  "judge_rapporteur": "ТОШКА ИВАНОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f2335631-f3b7-4bb3-bed3-d87cb16c0e99",
+  "motives_file": null,
+  "source": "https://haskovo-os.justice.bg/bg/4495?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cd0e3257afdeba1fcca99f7b1e77113ac71b726ac2b3108167764abd47b194b5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
