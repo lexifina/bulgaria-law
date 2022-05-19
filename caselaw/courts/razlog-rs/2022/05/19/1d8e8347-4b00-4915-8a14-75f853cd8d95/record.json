@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разлог",
+  "jurisdiction": "BG",
+  "date": "2022-05-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 358,
+  "case_year": 2021,
+  "judge_rapporteur": "Александър Костадинов Трионджиев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d8e8347-4b00-4915-8a14-75f853cd8d95",
+  "motives_file": null,
+  "source": "https://razlog-rs.justice.bg/bg/10445?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aa4a62f5bbe512ebc2941a19dfe54a3e79e0000b12f63b635d928e57b97b9a67",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
