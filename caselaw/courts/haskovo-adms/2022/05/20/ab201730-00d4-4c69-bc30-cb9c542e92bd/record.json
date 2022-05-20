@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2022-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно административно дело",
+  "case_number": 446,
+  "case_year": 2022,
+  "judge_rapporteur": "АНТОАНЕТА ВЪЛЧЕВА МИТРУШЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ab201730-00d4-4c69-bc30-cb9c542e92bd",
+  "motives_file": null,
+  "source": "https://haskovo-adms.justice.bg/bg/1975?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "87ae179d01af7b49a2ae8552663090195442fe29edfe9bf556664622fcd50b08",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
