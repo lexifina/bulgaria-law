@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нова Загора",
+  "jurisdiction": "BG",
+  "date": "2022-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 530,
+  "case_year": 2022,
+  "judge_rapporteur": "ГЕОРГИ ЛЮБЕНОВ ЙОРДАНОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b58d8745-a357-40ac-98eb-7525d3bc7b8d",
+  "motives_file": null,
+  "source": "https://nzagora-rs.justice.bg/bg/9045?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e3646ecf1e37f4b0d171cae65910f890f06ff4c334a70630404d301b259bf3dc",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
