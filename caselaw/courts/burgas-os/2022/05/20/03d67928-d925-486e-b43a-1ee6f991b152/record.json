@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-05-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 649,
+  "case_year": 2022,
+  "judge_rapporteur": "Албена Янчева Зъбова Кочовска",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=03d67928-d925-486e-b43a-1ee6f991b152",
+  "motives_file": null,
+  "source": "https://burgas-os.justice.bg/bg/2955?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "862b37baa11a0300d1e5da5d5a39ff23066a6747eb5d9f32a5dbcc20e72431be",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
