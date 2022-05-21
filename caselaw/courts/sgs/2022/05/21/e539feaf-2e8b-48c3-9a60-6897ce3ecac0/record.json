@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-05-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 2870,
+  "case_year": 2021,
+  "judge_rapporteur": "Никола Чомпалов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e539feaf-2e8b-48c3-9a60-6897ce3ecac0",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=21.05.2022&to=25.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b7b0f82cddc6149b86d661b1248853840e07a9649026ce880c7e1fddff4f096",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
