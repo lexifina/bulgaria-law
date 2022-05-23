@@ -1,0 +1,1 @@
+за ратифициране на Договора (Писмо за предлагане и приемане на оферта/Letter of Offer and Acceptance - LOA) за допълнение и изменение № 1 (Amendment № 1) към Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services)
