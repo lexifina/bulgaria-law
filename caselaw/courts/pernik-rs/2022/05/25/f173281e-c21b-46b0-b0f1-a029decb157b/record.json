@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 725,
+  "case_year": 2022,
+  "judge_rapporteur": "КАМЕЛИЯ ГЕОРГИЕВА НЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f173281e-c21b-46b0-b0f1-a029decb157b",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=23.05.2022&to=02.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c8c0faa79d22f88b64aea024948fc91efdd5951b025a23bc3c0ea6e136043e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
