@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-05-25",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 2792,
+  "case_year": 2022,
+  "judge_rapporteur": "Доника Илиева Тарева Пехливанова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b275b59-680e-41ed-90b6-c481404f68d4",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=23.05.2022&to=27.05.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d49dffd1a0ddecf2adeff06ffa4b6295331212c0698d339b4d463c4b4c6106a3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
