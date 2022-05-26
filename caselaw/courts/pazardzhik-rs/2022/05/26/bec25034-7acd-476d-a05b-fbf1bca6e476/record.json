@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1154,
+  "case_year": 2022,
+  "judge_rapporteur": "Ани Харизанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bec25034-7acd-476d-a05b-fbf1bca6e476",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=15.05.2022&to=06.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3f1b3681fbee2fbc79bfe72839c1c8e90278237553fa19ce140c3edbe92cdc50",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
