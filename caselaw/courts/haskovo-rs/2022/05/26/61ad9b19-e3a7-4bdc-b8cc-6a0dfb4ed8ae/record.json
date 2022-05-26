@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2022-05-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1284,
+  "case_year": 2021,
+  "judge_rapporteur": "Нели Делчева Иванова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61ad9b19-e3a7-4bdc-b8cc-6a0dfb4ed8ae",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6cb00e742d1fd2818038d245c8a4fce8df60f24d7a270b799409639dbbdac5a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
