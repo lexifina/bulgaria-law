@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2022-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 190,
+  "case_year": 2021,
+  "judge_rapporteur": "Христо Витков Първанов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf303cdb-a2e1-41e8-a83f-c334bb60c4dd",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0df6bdf67f9ed6e916f7f3eae695eeb92c301b6fa085639487ec47857b803c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
