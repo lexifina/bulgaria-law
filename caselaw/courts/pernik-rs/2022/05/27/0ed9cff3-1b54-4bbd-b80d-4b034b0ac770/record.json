@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-05-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5578,
+  "case_year": 2021,
+  "judge_rapporteur": "Ивайло Юлианов Колев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0ed9cff3-1b54-4bbd-b80d-4b034b0ac770",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=23.05.2022&to=02.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c8c0faa79d22f88b64aea024948fc91efdd5951b025a23bc3c0ea6e136043e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
