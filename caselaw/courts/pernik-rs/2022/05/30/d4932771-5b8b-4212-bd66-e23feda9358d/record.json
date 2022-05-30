@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-05-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 88,
+  "case_year": 2022,
+  "judge_rapporteur": "Диана Младенова Матеева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d4932771-5b8b-4212-bd66-e23feda9358d",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=23.05.2022&to=02.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3c8c0faa79d22f88b64aea024948fc91efdd5951b025a23bc3c0ea6e136043e7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
