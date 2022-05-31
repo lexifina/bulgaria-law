@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Малко Търново",
+  "jurisdiction": "BG",
+  "date": "2022-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 189,
+  "case_year": 2021,
+  "judge_rapporteur": "ЧАНКО ПЕТКОВ ПЕТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b8525cb8-a980-44a9-92c6-f7400a7760bd",
+  "motives_file": null,
+  "source": "https://mtarnovo-rs.justice.bg/bg/8625?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "907278207623529863216c3be395f6b8254f4c26702e1ab1f0d4e615eef41023",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
