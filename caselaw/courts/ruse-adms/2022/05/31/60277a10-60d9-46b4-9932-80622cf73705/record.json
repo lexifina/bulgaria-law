@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 90,
+  "case_year": 2022,
+  "judge_rapporteur": "СПАС КОСТОВ СПАСОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60277a10-60d9-46b4-9932-80622cf73705",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3302e4cc9cc9efd279a9659e2c6bcf41bb633cbb083bd77306451656940fb52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
