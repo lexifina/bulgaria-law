@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-05-31",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1408,
+  "case_year": 2022,
+  "judge_rapporteur": "Димитър Василев Кацарев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d2388dbb-9bba-4a0b-8648-5eaa93778a9b",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=28.05.2022&to=01.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "19b30d58ce02189d1fad0fd2fdf047a117042a8c34d884fe3b89cc4afaeaa074",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
