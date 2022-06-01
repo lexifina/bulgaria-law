@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 19,
+  "case_year": 2022,
+  "judge_rapporteur": "полк.ВАНКО ДИМИТРОВ АНГЕЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=29dcec1b-1873-4cad-8c18-da57302c642e",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3be8bfec264fb9e56ac1de153b4d0dbe8a40037f2cdd6f76bb446b2ed958a04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
