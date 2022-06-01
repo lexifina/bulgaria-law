@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2022-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 17,
+  "case_year": 2022,
+  "judge_rapporteur": "Цветомил Борисов Горчев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=141a4426-d3f5-4756-a9b9-0bb406626bfe",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "673036fa3cc2e464f727daa5a7a2d27c6333aa842094f3836579151d400db630",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
