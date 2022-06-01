@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Първомай",
+  "jurisdiction": "BG",
+  "date": "2022-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 203,
+  "case_year": 2021,
+  "judge_rapporteur": "София Сотирова Монева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20352f8d-ec57-42c5-aec8-1c5046da4463",
+  "motives_file": null,
+  "source": "https://parvomay-rs.justice.bg/bg/10165?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f5afc66cdd3446c18cece3180d9bf9b8d342d412cffe19242d8fffa071a466c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
