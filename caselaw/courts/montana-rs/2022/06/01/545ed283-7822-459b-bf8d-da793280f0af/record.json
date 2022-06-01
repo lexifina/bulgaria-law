@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-06-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 183,
+  "case_year": 2022,
+  "judge_rapporteur": "РУМЯНА МИХАЙЛОВА",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=545ed283-7822-459b-bf8d-da793280f0af",
+  "motives_file": null,
+  "source": "https://montana-rs.justice.bg/bg/8835?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e86673db2a1bb111da10728210f1c4014ca7a4c104ca773e70ad2f82c99ef98",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
