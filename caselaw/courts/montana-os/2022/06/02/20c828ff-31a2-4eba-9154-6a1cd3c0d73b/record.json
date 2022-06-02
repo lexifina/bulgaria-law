@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-06-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 22,
+  "case_year": 2022,
+  "judge_rapporteur": "Аделина Троева",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=20c828ff-31a2-4eba-9154-6a1cd3c0d73b",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f1c422b45c57eae3bc5fcf521ec35ddd2778188fde75fd31919737b516961ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
