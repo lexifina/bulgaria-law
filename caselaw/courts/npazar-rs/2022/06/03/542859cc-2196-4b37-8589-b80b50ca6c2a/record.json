@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Нови пазар",
+  "jurisdiction": "BG",
+  "date": "2022-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 158,
+  "case_year": 2022,
+  "judge_rapporteur": "Галина Николова",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=542859cc-2196-4b37-8589-b80b50ca6c2a",
+  "motives_file": null,
+  "source": "https://npazar-rs.justice.bg/bg/9115?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0c17676928e21b8f77e9c9019a0b78ec7654ea9a0a32e543878d8bf21e3bd2f3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
