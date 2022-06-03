@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Самоков",
+  "jurisdiction": "BG",
+  "date": "2022-06-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 97,
+  "case_year": 2022,
+  "judge_rapporteur": "Марина Трифонова Цветкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=79d9c903-15c3-4607-9325-a88482d8071c",
+  "motives_file": null,
+  "source": "https://samokov-rs.justice.bg/bg/10585?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6d665481fc497857a1cd41591b2688ac27a7516cc1a7d6a860a0822f3f375361",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
