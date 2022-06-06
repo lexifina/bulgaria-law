@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Несебър",
+  "jurisdiction": "BG",
+  "date": "2022-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 720,
+  "case_year": 2021,
+  "judge_rapporteur": "Петър Славов Петров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a49e9db3-6c42-4a5b-931b-1727b485b5a5",
+  "motives_file": null,
+  "source": "https://nesebar-rs.justice.bg/bg/8905?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2737d28bf816584c02cdb2b70afa429fbf267778834bea77824360cbee0a1a0d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
