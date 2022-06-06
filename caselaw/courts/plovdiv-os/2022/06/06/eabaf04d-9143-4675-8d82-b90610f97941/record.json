@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 144,
+  "case_year": 2021,
+  "judge_rapporteur": "МАРИАНА ИЛИЕВА ДИМИТРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=eabaf04d-9143-4675-8d82-b90610f97941",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=15.05.2022&to=06.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "09f33ee5ea511d31d2182c88d26f7815264178fe8a2165125708e1733fdd3331",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
