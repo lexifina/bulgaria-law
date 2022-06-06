@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3655,
+  "case_year": 2019,
+  "judge_rapporteur": "СОНЯ ТОДОРОВА ДЖЕНКОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c5887e0f-451a-4c5d-99be-9ca2645f42d3",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=15.05.2022&to=06.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ee31e07e4f26ff85e7fea2aecc953465c9f4dcecd78b916954e9677f78e4f92a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
