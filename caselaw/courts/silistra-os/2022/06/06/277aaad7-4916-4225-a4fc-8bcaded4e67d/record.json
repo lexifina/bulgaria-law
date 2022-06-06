@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Силистра",
+  "jurisdiction": "BG",
+  "date": "2022-06-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 131,
+  "case_year": 2022,
+  "judge_rapporteur": "Ана Аврамова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=277aaad7-4916-4225-a4fc-8bcaded4e67d",
+  "motives_file": null,
+  "source": "https://silistra-os.justice.bg/bg/4145?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2a53300a300af272e7689d54500a1c95f8a9cce598df2bbdf735e0511f0a75c6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
