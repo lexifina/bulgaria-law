@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2005,
+  "case_year": 2021,
+  "judge_rapporteur": "Мариета Благоева Бедросян",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=75c96619-20f3-420c-89ad-23af38d7b11d",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bbc4ff2e4bcba463bae80f514418366b2190846bddd2f64cb2eec7d8eb69f310",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
