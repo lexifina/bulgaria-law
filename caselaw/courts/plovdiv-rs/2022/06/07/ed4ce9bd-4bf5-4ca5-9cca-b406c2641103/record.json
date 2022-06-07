@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 3198,
+  "case_year": 2022,
+  "judge_rapporteur": "Георги Росенов Гетов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ed4ce9bd-4bf5-4ca5-9cca-b406c2641103",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=07.06.2022&to=11.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4d8680737421445d1defbd0c80efa7f6459f0924094f2e8ac1b195aa5b7150ae",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
