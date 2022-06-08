@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 91,
+  "case_year": 2022,
+  "judge_rapporteur": "Таня Живкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5eec4e8d-0830-487b-b103-f77ef67bf6d4",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f1c422b45c57eae3bc5fcf521ec35ddd2778188fde75fd31919737b516961ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
