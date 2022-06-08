@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Поморие",
+  "jurisdiction": "BG",
+  "date": "2022-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 13,
+  "case_year": 2022,
+  "judge_rapporteur": "Ивайло Йорданов Бъчваров",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8b049806-aa24-4b97-b8a1-b59d2da30f51",
+  "motives_file": null,
+  "source": "https://pomorie-rs.justice.bg/bg/9955?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7453eb5253fc3a979eb0180a9dfe683d546fe0ce6af331b380008e28adf1fb42",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
