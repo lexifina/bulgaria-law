@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2022-06-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 349,
+  "case_year": 2022,
+  "judge_rapporteur": "ЦВЕТАЛИНА МИХОВА ДОЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4815092d-f5ed-4b84-b613-5965f32ba38c",
+  "motives_file": null,
+  "source": "https://razgrad-rs.justice.bg/bg/10375?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a28d685ae3581a703c38b142f7e8b48a4ac78225c44ffffc484bb6266f67ed97",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
