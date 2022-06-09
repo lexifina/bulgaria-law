@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 15741,
+  "case_year": 2021,
+  "judge_rapporteur": "Виолета Кожухарова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=723472cc-679a-4792-9df8-53a9dce3be93",
+  "motives_file": null,
+  "source": "https://varna-rs.justice.bg/bg/5545?from=07.06.2022&to=11.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7f6586d9206c80f8443abca92f9c11837a2774bd6f3df74510cab3a0c4eb804f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
