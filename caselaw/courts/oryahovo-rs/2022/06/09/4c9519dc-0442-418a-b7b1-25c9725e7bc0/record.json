@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Оряхово",
+  "jurisdiction": "BG",
+  "date": "2022-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 681,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛИНКА ЛАЗАРОВА КРУМОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4c9519dc-0442-418a-b7b1-25c9725e7bc0",
+  "motives_file": null,
+  "source": "https://oryahovo-rs.justice.bg/bg/9255?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "d30d6d6a06d33e78bcb254f04495785f766adc597344ffe1ce2ed20898b6384b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
