@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-06-09",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1063,
+  "case_year": 2022,
+  "judge_rapporteur": "МАРИЯНА ДИМИТРОВА ШИРВАНЯН",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e2db4f98-6e2c-4f87-a5a0-9abfa642bcf3",
+  "motives_file": null,
+  "source": "https://varna-adms.justice.bg/bg/365?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1b188dd093820d8eff730ff634c4d8352a94d54912486e2576776c6defac949c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
