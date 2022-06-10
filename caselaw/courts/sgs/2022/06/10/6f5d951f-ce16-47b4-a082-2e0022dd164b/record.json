@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1991,
+  "case_year": 2021,
+  "judge_rapporteur": "Светослав Василев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f5d951f-ce16-47b4-a082-2e0022dd164b",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.06.2022&to=14.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "26bf5ba4cff0d3ae85f25ea10c2ba313b3bffef0e700c34765f092a3993c63d4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
