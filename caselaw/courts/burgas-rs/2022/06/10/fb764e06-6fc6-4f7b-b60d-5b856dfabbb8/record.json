@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бургас",
+  "jurisdiction": "BG",
+  "date": "2022-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1108,
+  "case_year": 2022,
+  "judge_rapporteur": "МАРТИН РАЧКОВ БАЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fb764e06-6fc6-4f7b-b60d-5b856dfabbb8",
+  "motives_file": null,
+  "source": "https://burgas-rs.justice.bg/bg/5335?from=01.06.2022&to=11.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fe0904ee072f18067b8e92505bbbfc8f31224760ec32bac1afa07171661e8747",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
