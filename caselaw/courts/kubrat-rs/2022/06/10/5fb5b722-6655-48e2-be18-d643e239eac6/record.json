@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Кубрат",
+  "jurisdiction": "BG",
+  "date": "2022-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 146,
+  "case_year": 2022,
+  "judge_rapporteur": "Диана Пенчева Петрова Енева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5fb5b722-6655-48e2-be18-d643e239eac6",
+  "motives_file": null,
+  "source": "https://kubrat-rs.justice.bg/bg/7995?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "f2d78e98e62296a3903b4d82c5bc86d109bea08b065671852c1ee33e514ba036",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
