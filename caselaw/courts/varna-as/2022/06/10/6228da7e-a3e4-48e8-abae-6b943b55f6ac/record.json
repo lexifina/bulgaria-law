@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-06-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 213,
+  "case_year": 2022,
+  "judge_rapporteur": "Николина Петрова Дамянова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6228da7e-a3e4-48e8-abae-6b943b55f6ac",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc6b205fb386ba4c640616d528324baeca2ccfa151ffed41aa30da36e608568e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
