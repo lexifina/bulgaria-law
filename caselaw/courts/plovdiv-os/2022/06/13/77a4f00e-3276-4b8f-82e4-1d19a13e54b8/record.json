@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1397,
+  "case_year": 2022,
+  "judge_rapporteur": "Виделина Стоянова Куршумова Стойчева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=77a4f00e-3276-4b8f-82e4-1d19a13e54b8",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bbc4ff2e4bcba463bae80f514418366b2190846bddd2f64cb2eec7d8eb69f310",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
