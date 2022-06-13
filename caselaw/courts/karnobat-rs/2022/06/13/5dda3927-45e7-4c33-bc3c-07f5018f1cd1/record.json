@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карнобат",
+  "jurisdiction": "BG",
+  "date": "2022-06-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 109,
+  "case_year": 2022,
+  "judge_rapporteur": "Татяна Станчева Станчева Иванова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5dda3927-45e7-4c33-bc3c-07f5018f1cd1",
+  "motives_file": null,
+  "source": "https://karnobat-rs.justice.bg/bg/7575?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "89dc5751367079cf3735615e2a918c1d86f6bf83656157ff17a74b4f559ad00b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
