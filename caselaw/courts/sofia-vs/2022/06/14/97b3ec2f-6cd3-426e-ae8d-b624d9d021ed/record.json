@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 73,
+  "case_year": 2022,
+  "judge_rapporteur": "полк. ЦАНКО ТАНЕВ ГРОЗЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=97b3ec2f-6cd3-426e-ae8d-b624d9d021ed",
+  "motives_file": null,
+  "source": "https://sofia-vs.justice.bg/bg/2745?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "c3be8bfec264fb9e56ac1de153b4d0dbe8a40037f2cdd6f76bb446b2ed958a04",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
