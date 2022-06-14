@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 670,
+  "case_year": 2021,
+  "judge_rapporteur": "Георги Драгoстинов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=19bcf922-dfa2-4fc1-b367-6a97eda1c4b3",
+  "motives_file": null,
+  "source": "https://vtarnovo-os.justice.bg/bg/3095?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2fed1526c02f9ff5824a0e519eced69ff9d2c49bb32b2e6e0bde2dddfe3f89ac",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
