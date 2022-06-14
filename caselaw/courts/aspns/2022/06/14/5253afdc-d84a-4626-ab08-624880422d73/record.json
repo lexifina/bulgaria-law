@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2022-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 130,
+  "case_year": 2022,
+  "judge_rapporteur": "Красимира Христова Райчева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5253afdc-d84a-4626-ab08-624880422d73",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64d1c624556ac40b08f7d928e7577bbc554f63fc382acc763315c2c1bf7cceb6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
