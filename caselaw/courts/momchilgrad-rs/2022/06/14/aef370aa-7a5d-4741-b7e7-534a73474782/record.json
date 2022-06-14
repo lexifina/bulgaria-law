@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Момчилград",
+  "jurisdiction": "BG",
+  "date": "2022-06-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 167,
+  "case_year": 2022,
+  "judge_rapporteur": "Сунай Юсеин Осман",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aef370aa-7a5d-4741-b7e7-534a73474782",
+  "motives_file": null,
+  "source": "https://momchilgrad-rs.justice.bg/bg/8765?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ce25ef05ef0fb324b1772c77fa829cd63e31e62520dd07099545ccb70a02a3e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
