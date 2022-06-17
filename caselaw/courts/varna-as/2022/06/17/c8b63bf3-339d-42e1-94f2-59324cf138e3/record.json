@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Варна",
+  "jurisdiction": "BG",
+  "date": "2022-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 404,
+  "case_year": 2021,
+  "judge_rapporteur": "Анета Николова Братанова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c8b63bf3-339d-42e1-94f2-59324cf138e3",
+  "motives_file": null,
+  "source": "https://varna-as.justice.bg/bg/2325?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cc6b205fb386ba4c640616d528324baeca2ccfa151ffed41aa30da36e608568e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
