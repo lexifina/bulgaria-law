@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ихтиман",
+  "jurisdiction": "BG",
+  "date": "2022-06-17",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 126,
+  "case_year": 2022,
+  "judge_rapporteur": "Радослава Маринова Йорданова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=81def65f-e9d4-483a-8ca6-3d0937364070",
+  "motives_file": null,
+  "source": "https://ihtiman-rs.justice.bg/bg/7295?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1aec0d31e880158d5fb7f231e602634cb1e465670e76dd2ffe0c714a4ce9fe3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
