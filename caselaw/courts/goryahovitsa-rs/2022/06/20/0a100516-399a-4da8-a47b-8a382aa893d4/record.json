@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2022-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 894,
+  "case_year": 2022,
+  "judge_rapporteur": "Еманоел Василев Вардаров",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0a100516-399a-4da8-a47b-8a382aa893d4",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8f812a4bfd722fbcedfd71f1115113c219cd98ec5c43495b0378ea49a39c5841",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
