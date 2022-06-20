@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Кюстендил",
+  "jurisdiction": "BG",
+  "date": "2022-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 87,
+  "case_year": 2022,
+  "judge_rapporteur": "ДЕСИСЛАВА БЛАГОЕВА ТАБАКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=34d0ef61-a2ee-4c87-88c7-2a4e6804c15a",
+  "motives_file": null,
+  "source": "https://kyustendil-adms.justice.bg/bg/855?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fb5ae446ffb66bbd0217a7cadce0f19d904dff060770ce37a83bf81745bfdeb9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
