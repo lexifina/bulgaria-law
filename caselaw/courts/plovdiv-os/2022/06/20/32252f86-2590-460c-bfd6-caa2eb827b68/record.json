@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-20",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1077,
+  "case_year": 2022,
+  "judge_rapporteur": "Петко Иванов Минев",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=32252f86-2590-460c-bfd6-caa2eb827b68",
+  "motives_file": null,
+  "source": "https://plovdiv-os.justice.bg/bg/3935?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bbc4ff2e4bcba463bae80f514418366b2190846bddd2f64cb2eec7d8eb69f310",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
