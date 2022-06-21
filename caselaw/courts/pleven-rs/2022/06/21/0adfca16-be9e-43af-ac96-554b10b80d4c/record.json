@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Плевен",
+  "jurisdiction": "BG",
+  "date": "2022-06-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1686,
+  "case_year": 2021,
+  "judge_rapporteur": "Светослава  Михайлова Цонева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0adfca16-be9e-43af-ac96-554b10b80d4c",
+  "motives_file": null,
+  "source": "https://pleven-rs.justice.bg/bg/9815?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "aaf6fcd11cc080ef38eda25f928cf4c6046435e8a280b44fddf4e88bf0fb4df5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
