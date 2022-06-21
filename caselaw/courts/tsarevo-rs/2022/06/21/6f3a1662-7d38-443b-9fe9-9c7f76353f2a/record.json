@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Царево",
+  "jurisdiction": "BG",
+  "date": "2022-06-21",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 178,
+  "case_year": 2022,
+  "judge_rapporteur": "Мария Атанасова Москова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f3a1662-7d38-443b-9fe9-9c7f76353f2a",
+  "motives_file": null,
+  "source": "https://tsarevo-rs.justice.bg/bg/12125?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ec9628ff053288294cb0aebf007f5c70ff9512a66b008754a32c3281c21a3886",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
