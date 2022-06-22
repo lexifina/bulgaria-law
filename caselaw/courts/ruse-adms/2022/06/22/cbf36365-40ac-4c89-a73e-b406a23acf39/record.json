@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-06-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 244,
+  "case_year": 2022,
+  "judge_rapporteur": "ЙЪЛДЪЗ САБРИЕВА АГУШ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cbf36365-40ac-4c89-a73e-b406a23acf39",
+  "motives_file": null,
+  "source": "https://ruse-adms.justice.bg/bg/1415?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a3302e4cc9cc9efd279a9659e2c6bcf41bb633cbb083bd77306451656940fb52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
