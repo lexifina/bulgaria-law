@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ивайловград",
+  "jurisdiction": "BG",
+  "date": "2022-06-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 9,
+  "case_year": 2022,
+  "judge_rapporteur": "ЖИВКО ДЕЛЧЕВ ЯНКОВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=10a24c06-19bf-4ff3-a7a2-6f6ac826d155",
+  "motives_file": null,
+  "source": "https://ivaylovgrad-rs.justice.bg/bg/7155?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "58d8661530c2717460447122b2cebca52da4a9f7b9fd99fb74c7cc5cb8251e94",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
