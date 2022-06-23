@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Благоевград",
+  "jurisdiction": "BG",
+  "date": "2022-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 443,
+  "case_year": 2022,
+  "judge_rapporteur": "Моника Христова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf185d78-bc1c-417b-bab1-b291d5bd33b0",
+  "motives_file": null,
+  "source": "https://blagoevgrad-os.justice.bg/bg/2885?from=24.03.2022&to=23.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5c5ee0b63a56af78692402a94f7d551b9d7df59d033b52e1a63bfa40130d72df",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
