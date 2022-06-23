@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Монтана",
+  "jurisdiction": "BG",
+  "date": "2022-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 145,
+  "case_year": 2021,
+  "judge_rapporteur": "Аделина Тушева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f6e28a6c-58ab-4cc3-885c-ec0aeee5e8af",
+  "motives_file": null,
+  "source": "https://montana-os.justice.bg/bg/3655?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6f1c422b45c57eae3bc5fcf521ec35ddd2778188fde75fd31919737b516961ef",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
