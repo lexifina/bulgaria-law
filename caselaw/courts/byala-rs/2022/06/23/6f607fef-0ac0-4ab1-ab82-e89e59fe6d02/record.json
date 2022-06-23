@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2022-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 142,
+  "case_year": 2022,
+  "judge_rapporteur": "Ъшъл Лютфи Ириева",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6f607fef-0ac0-4ab1-ab82-e89e59fe6d02",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6dcf80a1a4bdf477315b847d2d50812f38fafa6618094c93e6c4a9c01ab93b52",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
