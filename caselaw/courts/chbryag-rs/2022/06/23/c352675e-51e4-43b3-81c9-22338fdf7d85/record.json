@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Червен бряг",
+  "jurisdiction": "BG",
+  "date": "2022-06-23",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 175,
+  "case_year": 2022,
+  "judge_rapporteur": "Йохан Мирославов Дженов",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c352675e-51e4-43b3-81c9-22338fdf7d85",
+  "motives_file": null,
+  "source": "https://chbryag-rs.justice.bg/bg/12265?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a0df6bdf67f9ed6e916f7f3eae695eeb92c301b6fa085639487ec47857b803c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
