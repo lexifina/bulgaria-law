@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Русе",
+  "jurisdiction": "BG",
+  "date": "2022-06-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 495,
+  "case_year": 2022,
+  "judge_rapporteur": "Пламен Георгиев Ченджиев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8c10a76c-0940-4189-9bee-0c7181a5b3b7",
+  "motives_file": null,
+  "source": "https://ruse-rs.justice.bg/bg/10515?from=07.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "af666c2eb69f9dc564cb3e59cad015f8571cb99aea1f31043cf71fb3aa0fee77",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
