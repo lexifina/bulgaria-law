@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 208,
+  "case_year": 2022,
+  "judge_rapporteur": "Елисавета Радина",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c73d833a-f037-44c6-9c5b-5cbfdd5dafc4",
+  "motives_file": null,
+  "source": "https://pazardzhik-os.justice.bg/bg/3725?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8880c013d35cbe09b37ba02ae9d9436ec4de94586ec462c650bc0e903b78e892",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
