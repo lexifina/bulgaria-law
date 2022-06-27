@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 2305,
+  "case_year": 2022,
+  "judge_rapporteur": "Ани Захариева",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=60eab016-d0f8-4aee-9ebf-f96fa68a86c4",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=25.06.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "7a696da61df850ee03ebd6e3a29cc423bf559d3d113c6dfe074af6939a5469a4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
