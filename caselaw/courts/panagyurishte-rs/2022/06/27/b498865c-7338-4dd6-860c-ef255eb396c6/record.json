@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 194,
+  "case_year": 2021,
+  "judge_rapporteur": "ЕМИЛИАН БЛАГОВ ВЕНЧЕВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b498865c-7338-4dd6-860c-ef255eb396c6",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b739dd7cbae8fc7284fa86b204e1cd084898bc0120a42e79c2bc00323a76098a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
