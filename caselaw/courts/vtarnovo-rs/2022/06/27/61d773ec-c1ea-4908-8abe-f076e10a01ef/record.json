@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Велико Търново",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 1905,
+  "case_year": 2020,
+  "judge_rapporteur": "ЕМИЛ БОБЕВ",
+  "act_kind": "Присъда",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=61d773ec-c1ea-4908-8abe-f076e10a01ef",
+  "motives_file": null,
+  "source": "https://vtarnovo-rs.justice.bg/bg/5685?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "0aed8249e360a1e879578461853f62d1ee54d678979ace46d28d701835043b0b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
