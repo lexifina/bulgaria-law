@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 467,
+  "case_year": 2022,
+  "judge_rapporteur": "ХРИСТИНА ЗАПРЯНОВА ЖИСОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1d34508e-c50a-4674-b795-dfd0195c81f8",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=15.05.2022&to=29.06.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6cb00e742d1fd2818038d245c8a4fce8df60f24d7a270b799409639dbbdac5a1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
