@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-06-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2384,
+  "case_year": 2020,
+  "judge_rapporteur": "ТАТЯНА ИВАНОВА ТОДОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=1e025e5d-82ab-48d9-80ff-18d9408e60a3",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=25.06.2022&to=05.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28670463d79450efce6d1d8e72ce142a2f4975a9d4e74332110c65a1b12be88e",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
