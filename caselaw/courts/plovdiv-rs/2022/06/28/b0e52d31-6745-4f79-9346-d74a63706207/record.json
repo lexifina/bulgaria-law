@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 19847,
+  "case_year": 2021,
+  "judge_rapporteur": "Катя Рудева Боева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0e52d31-6745-4f79-9346-d74a63706207",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=27.06.2022&to=01.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6820bb6fc79188d65f05ed2ea637b474096477253fc5bffa9e1a7e04b5dae539",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
