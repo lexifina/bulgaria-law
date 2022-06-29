@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 115,
+  "case_year": 2022,
+  "judge_rapporteur": "Диана Василева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=571bd8c8-6f46-4e7d-ac02-f14650764f79",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b821cee73f54a462e975d429e0a4612a0607c619f10a248cf49308c60b15ccc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
