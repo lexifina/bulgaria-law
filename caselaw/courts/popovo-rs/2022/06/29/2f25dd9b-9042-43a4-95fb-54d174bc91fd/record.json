@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Попово",
+  "jurisdiction": "BG",
+  "date": "2022-06-29",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 100,
+  "case_year": 2022,
+  "judge_rapporteur": "Явор Пламенов Томов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2f25dd9b-9042-43a4-95fb-54d174bc91fd",
+  "motives_file": null,
+  "source": "https://popovo-rs.justice.bg/bg/10025?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1810e49fffd58e6ffbf5e6b8786f17c536392d527a6284cc65dc68d9d6b3ae1c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
