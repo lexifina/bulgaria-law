@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Ловеч",
+  "jurisdiction": "BG",
+  "date": "2022-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 272,
+  "case_year": 2022,
+  "judge_rapporteur": "ИВАНИЧКА КОНСТАНТИНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=4eb5b73c-b915-471e-874e-865dab299e6a",
+  "motives_file": null,
+  "source": "https://lovech-os.justice.bg/bg/3585?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96ea54a40b9fdefecf63cdeabb445c8e32c86ac343abc435a45ad83123ac7a5f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
