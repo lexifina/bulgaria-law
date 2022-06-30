@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно търговско дело",
+  "case_number": 324,
+  "case_year": 2022,
+  "judge_rapporteur": "Емил Любомиров Митев",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=201725fc-cd3c-4907-aa04-8d7994509e60",
+  "motives_file": null,
+  "source": "https://plovdiv-as.justice.bg/bg/2465?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e6f5ee6c25543bd1d5730cb0076fad4c57982ec5fedf290d7299887e3aaff240",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
