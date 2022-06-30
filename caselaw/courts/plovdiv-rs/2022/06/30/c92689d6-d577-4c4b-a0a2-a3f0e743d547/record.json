@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-06-30",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 1417,
+  "case_year": 2022,
+  "judge_rapporteur": "Васил Александров Тасев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c92689d6-d577-4c4b-a0a2-a3f0e743d547",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=27.06.2022&to=01.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "6820bb6fc79188d65f05ed2ea637b474096477253fc5bffa9e1a7e04b5dae539",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
