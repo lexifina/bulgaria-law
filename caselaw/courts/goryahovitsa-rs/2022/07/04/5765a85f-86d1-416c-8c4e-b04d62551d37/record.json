@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Горна Оряховица",
+  "jurisdiction": "BG",
+  "date": "2022-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 326,
+  "case_year": 2022,
+  "judge_rapporteur": "Павлина Тонева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5765a85f-86d1-416c-8c4e-b04d62551d37",
+  "motives_file": null,
+  "source": "https://goryahovitsa-rs.justice.bg/bg/6105?from=30.06.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9e78ef3657b58862a130b0b937f5714abb767a795db44c6f10b38aa4cbafcff6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
