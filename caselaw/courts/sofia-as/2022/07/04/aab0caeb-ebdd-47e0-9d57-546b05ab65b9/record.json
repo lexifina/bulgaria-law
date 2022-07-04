@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно гражданско дело",
+  "case_number": 1818,
+  "case_year": 2022,
+  "judge_rapporteur": "Цветко Лазаров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=aab0caeb-ebdd-47e0-9d57-546b05ab65b9",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=30.06.2022&to=22.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "a1a15dfd850f740dc99d77246be828b2ccb4d183527c98576689d93986750c2d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
