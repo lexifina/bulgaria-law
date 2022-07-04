@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-07-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 1222,
+  "case_year": 2021,
+  "judge_rapporteur": "ДИЯНА БОЖИДАРОВА ЗЛАТЕВА-НАЙДЕНОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0883766d-dc7a-4496-b8c3-bbecb22fd4a7",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "48ba4a32a2ffc3b5e50d5d33a1ca96dfa90619cc93adbeb299049433d5b3b93c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
