@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 13000,
+  "case_year": 2021,
+  "judge_rapporteur": "Анета Александрова Трайкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c9e55c34-741d-48c4-8dd3-d5fa157a282d",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=02.07.2022&to=06.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5e5d0759794ea4980d8bb2098900236d95abb0aa6e64aeb99b5521012b2357bf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
