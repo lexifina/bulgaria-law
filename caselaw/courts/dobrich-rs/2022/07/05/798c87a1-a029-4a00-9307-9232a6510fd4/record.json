@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Добрич",
+  "jurisdiction": "BG",
+  "date": "2022-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 3890,
+  "case_year": 2020,
+  "judge_rapporteur": "МИРОСЛАВА РАЙЧЕВА НЕДЕЛЧЕВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=798c87a1-a029-4a00-9307-9232a6510fd4",
+  "motives_file": null,
+  "source": "https://dobrich-rs.justice.bg/bg/6525?from=30.06.2022&to=22.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bb5e395b6a735c6fd8c695b0e466279161a56e37dcad6ac6e96171b5006b8000",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
