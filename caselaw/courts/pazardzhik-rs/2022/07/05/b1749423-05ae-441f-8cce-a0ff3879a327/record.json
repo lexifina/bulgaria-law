@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-07-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 884,
+  "case_year": 2022,
+  "judge_rapporteur": "Таня Петкова",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b1749423-05ae-441f-8cce-a0ff3879a327",
+  "motives_file": null,
+  "source": "https://pazardzhik-rs.justice.bg/bg/9395?from=30.06.2022&to=22.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "90e64118890147e185db9b57739716162c5d4743975275e7ba7b507fc298b54d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
