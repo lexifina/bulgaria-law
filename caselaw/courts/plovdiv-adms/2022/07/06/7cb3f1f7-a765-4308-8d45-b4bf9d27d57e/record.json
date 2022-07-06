@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно дело",
+  "case_number": 364,
+  "case_year": 2021,
+  "judge_rapporteur": "ЯНКО АНГЕЛОВ АНГЕЛОВ",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7cb3f1f7-a765-4308-8d45-b4bf9d27d57e",
+  "motives_file": null,
+  "source": "https://plovdiv-adms.justice.bg/bg/1275?from=30.06.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "3222222fbce983bf1315899dbf636c50de11f4817774eeeff64e19b80380ffd9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
