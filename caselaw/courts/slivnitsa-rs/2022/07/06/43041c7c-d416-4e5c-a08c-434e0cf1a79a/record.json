@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сливница",
+  "jurisdiction": "BG",
+  "date": "2022-07-06",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 774,
+  "case_year": 2019,
+  "judge_rapporteur": "НИКОЛАЙ СВЕТЛИНОВ ВАСИЛЕВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=43041c7c-d416-4e5c-a08c-434e0cf1a79a",
+  "motives_file": null,
+  "source": "https://slivnitsa-rs.justice.bg/bg/11145?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2f3c2e1d9b1ef2b304a0cf14fc5da5957df8ce0c1b4a44c701e682e0d1d3e846",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
