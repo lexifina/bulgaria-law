@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Административен съд - Пазарджик",
+  "jurisdiction": "BG",
+  "date": "2022-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Касационно административно наказателно дело",
+  "case_number": 290,
+  "case_year": 2022,
+  "judge_rapporteur": "МАРИАНА ДИМИТРОВА ШОТЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb37c7fa-f373-4f9f-a308-9fa17956d596",
+  "motives_file": null,
+  "source": "https://pazardzhik-adms.justice.bg/bg/1065?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "48ba4a32a2ffc3b5e50d5d33a1ca96dfa90619cc93adbeb299049433d5b3b93c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
