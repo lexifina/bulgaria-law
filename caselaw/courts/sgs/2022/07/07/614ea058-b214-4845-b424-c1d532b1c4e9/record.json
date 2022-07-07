@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-07",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 5576,
+  "case_year": 2021,
+  "judge_rapporteur": "СТИЛИЯНА КРАСИМИРОВА ГРИГОРОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=614ea058-b214-4845-b424-c1d532b1c4e9",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=05.07.2022&to=09.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "cece28c4e36236087222fedbe5f6869f573709ac46d9f2d5bf6b174f9bf89e2f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
