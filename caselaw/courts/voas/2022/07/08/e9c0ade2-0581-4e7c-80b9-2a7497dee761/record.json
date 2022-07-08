@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Военно-апелативен съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-08",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 40,
+  "case_year": 2022,
+  "judge_rapporteur": "полк. ПЕТЬО СЛАВОВ ПЕТКОВ",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=e9c0ade2-0581-4e7c-80b9-2a7497dee761",
+  "motives_file": null,
+  "source": "https://voas.justice.bg/bg/2815?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fd7d2ff390594aecb3d80602925e3c82ab7253d1656854882a1c9a9920f1130d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
