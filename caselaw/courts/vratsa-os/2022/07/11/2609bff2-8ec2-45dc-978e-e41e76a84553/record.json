@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Враца",
+  "jurisdiction": "BG",
+  "date": "2022-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 100,
+  "case_year": 2022,
+  "judge_rapporteur": "Пенка Петкова Петрова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=2609bff2-8ec2-45dc-978e-e41e76a84553",
+  "motives_file": null,
+  "source": "https://vratsa-os.justice.bg/bg/3235?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fc4ff4d764bb1859b4dc2c68127705cd34d675d1f6f26cbe7deecc278ff8f4d1",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
