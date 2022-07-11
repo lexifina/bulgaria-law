@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Елена",
+  "jurisdiction": "BG",
+  "date": "2022-07-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 97,
+  "case_year": 2022,
+  "judge_rapporteur": "Трифон Пенчев Славков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5a9f52f7-9030-411f-aa42-ae234594309b",
+  "motives_file": null,
+  "source": "https://elena-rs.justice.bg/bg/6805?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c357524bd7c8a66d4e0718b2d2125ac4754ae12c81a40a2d23df1992633e121",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
