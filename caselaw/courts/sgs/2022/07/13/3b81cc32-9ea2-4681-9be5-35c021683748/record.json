@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 477,
+  "case_year": 2022,
+  "judge_rapporteur": "Цвета Желязкова",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=3b81cc32-9ea2-4681-9be5-35c021683748",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.07.2022&to=14.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "557fdaba986960f76ea3c202ed91b4e7e200321adf93ccaeae6c0d239b15dfa9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
