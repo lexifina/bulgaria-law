@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-13",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 8283,
+  "case_year": 2020,
+  "judge_rapporteur": "КАТЯ АНГЕЛОВА ХАСЪМСКА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=127caf61-e02e-4384-b82e-1f49dae151f6",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=10.07.2022&to=14.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "557fdaba986960f76ea3c202ed91b4e7e200321adf93ccaeae6c0d239b15dfa9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
