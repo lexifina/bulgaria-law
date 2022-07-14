@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2022-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 16,
+  "case_year": 2022,
+  "judge_rapporteur": "Меденка Минчева Недкова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8ecc29fc-6639-429c-a154-297265e1712c",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ac434680cceea127568db4a05ede2c9db9a1266cf2412dba9ca36f83f2d6c14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
