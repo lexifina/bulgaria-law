@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Габрово",
+  "jurisdiction": "BG",
+  "date": "2022-07-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно наказателно дело",
+  "case_number": 110,
+  "case_year": 2022,
+  "judge_rapporteur": "Благовеста Костова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=367e035d-1c36-4a25-b774-16a077efdec9",
+  "motives_file": null,
+  "source": "https://gabrovo-os.justice.bg/bg/3305?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b821cee73f54a462e975d429e0a4612a0607c619f10a248cf49308c60b15ccc0",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
