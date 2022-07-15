@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Лом",
+  "jurisdiction": "BG",
+  "date": "2022-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 521,
+  "case_year": 2021,
+  "judge_rapporteur": "Борислава Славчева Борисова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cc86b0e9-9030-4e6f-9e14-a4b0aceb7136",
+  "motives_file": null,
+  "source": "https://lom-rs.justice.bg/bg/8415?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "01b3646e52384ba5032cd3e2c9590efca303210d595f61effe897d662a87c63c",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
