@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пловдив",
+  "jurisdiction": "BG",
+  "date": "2022-07-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 7172,
+  "case_year": 2022,
+  "judge_rapporteur": "Диляна Василева Славова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=84cc8d32-7701-469e-8b4a-5d449bc496cc",
+  "motives_file": null,
+  "source": "https://plovdiv-rs.justice.bg/bg/9885?from=12.07.2022&to=16.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "bc74308b41f6c3767ee613d08ae6b7ef95d6fdf1a899141a9035219fac5080d2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
