@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-16",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 631,
+  "case_year": 2022,
+  "judge_rapporteur": "Пламен Колев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b7471785-0e58-4d4e-aef8-a9683b459b9c",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=15.07.2022&to=19.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "664d40dfabd11c3753a1fc2ba8289a2885ce9f8b52afbcbdadebaab2524c2e5d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
