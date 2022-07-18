@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Своге",
+  "jurisdiction": "BG",
+  "date": "2022-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 315,
+  "case_year": 2022,
+  "judge_rapporteur": "Румен Атанасов Стойнов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=281b201c-1cba-4f35-b567-398c09951078",
+  "motives_file": null,
+  "source": "https://svoge-rs.justice.bg/bg/10865?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4e7566b2bfd63b79e7b99effc986a5d40f57fdc0b25c574fddb2306a8fc4dcf8",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
