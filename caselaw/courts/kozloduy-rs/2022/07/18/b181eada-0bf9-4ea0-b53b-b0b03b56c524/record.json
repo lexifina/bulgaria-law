@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Козлодуй",
+  "jurisdiction": "BG",
+  "date": "2022-07-18",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1399,
+  "case_year": 2021,
+  "judge_rapporteur": "Жаклин Георгиева Димитрова Алексиева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b181eada-0bf9-4ea0-b53b-b0b03b56c524",
+  "motives_file": null,
+  "source": "https://kozloduy-rs.justice.bg/bg/7715?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "fedf1bbb44455ac6ec5f1519d9e40a92b3d9363cc9ed438cecd3791c9a7591cf",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
