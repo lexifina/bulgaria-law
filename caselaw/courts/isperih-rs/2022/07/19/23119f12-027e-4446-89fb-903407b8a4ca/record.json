@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Исперих",
+  "jurisdiction": "BG",
+  "date": "2022-07-19",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 127,
+  "case_year": 2022,
+  "judge_rapporteur": "Димитринка Емилова Купринджийска",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=23119f12-027e-4446-89fb-903407b8a4ca",
+  "motives_file": null,
+  "source": "https://isperih-rs.justice.bg/bg/7225?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5b16cedfdb3cb39ac34a9313b64755698a68b21c09c5f463cedec0375f1fe4dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
