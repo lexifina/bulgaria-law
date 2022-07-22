@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 325,
+  "case_year": 2022,
+  "judge_rapporteur": "Нели Савчева Маринова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6c0d26c9-1125-4d63-9474-05ddead8e0f3",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.07.2022&to=24.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f88838b8db210665df014ccd9d10482694c67a4914fe1a75924c7ae8044b6c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
