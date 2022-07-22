@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 7027,
+  "case_year": 2021,
+  "judge_rapporteur": "Пепа Маринова-Тонева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=af0ed1e2-913a-4144-9a70-2e3e372917d1",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=20.07.2022&to=24.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "5f88838b8db210665df014ccd9d10482694c67a4914fe1a75924c7ae8044b6c9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
