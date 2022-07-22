@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Карлово",
+  "jurisdiction": "BG",
+  "date": "2022-07-22",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно от частен характер дело",
+  "case_number": 135,
+  "case_year": 2022,
+  "judge_rapporteur": "Гюрай Алиев Мурадов",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=7b5db21b-1e53-4245-b9df-4ae36266752e",
+  "motives_file": null,
+  "source": "https://karlovo-rs.justice.bg/bg/7505?from=30.06.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b03278feab58f98ae832a7092b8149a74378c451a5c8e1e6b48e17284d402603",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
