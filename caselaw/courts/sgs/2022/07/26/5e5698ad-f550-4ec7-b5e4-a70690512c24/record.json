@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-07-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 1231,
+  "case_year": 2022,
+  "judge_rapporteur": "Нели Алексиева",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5e5698ad-f550-4ec7-b5e4-a70690512c24",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=25.07.2022&to=29.07.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "81d4091c005e3bf126ebbfd9488b8fa5cda65a523173f04fb318de5f6b3ac0b7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
