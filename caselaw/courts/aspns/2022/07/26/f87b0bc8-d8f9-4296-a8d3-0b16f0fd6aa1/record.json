@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София - АСНС закрит",
+  "jurisdiction": "BG",
+  "date": "2022-07-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно наказателно дело от общ характер",
+  "case_number": 284,
+  "case_year": 2021,
+  "judge_rapporteur": "Стоян Людмилов Тонев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=f87b0bc8-d8f9-4296-a8d3-0b16f0fd6aa1",
+  "motives_file": null,
+  "source": "https://aspns.justice.bg/bg/2185?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "64d1c624556ac40b08f7d928e7577bbc554f63fc382acc763315c2c1bf7cceb6",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
