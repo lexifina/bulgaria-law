@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Павликени",
+  "jurisdiction": "BG",
+  "date": "2022-07-27",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 824,
+  "case_year": 2021,
+  "judge_rapporteur": "Цветомил Борисов Горчев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=cf1afe12-a2e9-4527-b9b0-067e189fa907",
+  "motives_file": null,
+  "source": "https://pavlikeni-rs.justice.bg/bg/9325?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "673036fa3cc2e464f727daa5a7a2d27c6333aa842094f3836579151d400db630",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
