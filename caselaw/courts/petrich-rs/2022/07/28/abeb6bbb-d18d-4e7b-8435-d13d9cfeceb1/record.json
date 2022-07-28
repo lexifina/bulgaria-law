@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Петрич",
+  "jurisdiction": "BG",
+  "date": "2022-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 915,
+  "case_year": 2021,
+  "judge_rapporteur": "Мая Банчева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=abeb6bbb-d18d-4e7b-8435-d13d9cfeceb1",
+  "motives_file": null,
+  "source": "https://petrich-rs.justice.bg/bg/9605?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2203284bcb3e2a14fabf97e696dd54195e688b6a05d853d77805e6feaa6ae7dd",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
