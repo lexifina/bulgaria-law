@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Свиленград",
+  "jurisdiction": "BG",
+  "date": "2022-07-28",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 438,
+  "case_year": 2022,
+  "judge_rapporteur": "Кремена Тодорова Стамболиева Байнова",
+  "act_kind": "Протокол",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9001ec95-d720-49d6-9aa4-6fb0174d3e89",
+  "motives_file": null,
+  "source": "https://svilengrad-rs.justice.bg/bg/10725?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "96601c6d98d39fb76a03219e26305aa33cc0b74d4c604161280fdad36fc13f8d",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
