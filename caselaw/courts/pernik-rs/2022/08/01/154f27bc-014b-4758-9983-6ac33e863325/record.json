@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 2915,
+  "case_year": 2022,
+  "judge_rapporteur": "МАРИЕТА СТОЯНОВА ДИНЕВА-ПАЛАЗОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=154f27bc-014b-4758-9983-6ac33e863325",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=28.07.2022&to=07.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9f40dedc89f6902ba83903e7a39a643d66a1d34fbc7280cd2e421cb0454f54f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
