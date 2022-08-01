@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Софийски градски съд",
+  "jurisdiction": "BG",
+  "date": "2022-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 10431,
+  "case_year": 2020,
+  "judge_rapporteur": "КРАСИМИР НЕДЯЛКОВ МАЗГАЛОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5ea42622-d466-4478-8f63-fca20e141b43",
+  "motives_file": null,
+  "source": "https://sgs.justice.bg/bg/12543?from=30.07.2022&to=03.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "e8787a97d1b28b612ee5e14cf8ae18696a33fe36c59615daba45a6f2ca0d0a6b",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
