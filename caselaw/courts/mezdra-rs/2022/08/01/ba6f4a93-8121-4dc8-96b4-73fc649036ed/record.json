@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Мездра",
+  "jurisdiction": "BG",
+  "date": "2022-08-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 134,
+  "case_year": 2021,
+  "judge_rapporteur": "ИВАН БОРИСОВ ВЪТКОВ",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ba6f4a93-8121-4dc8-96b4-73fc649036ed",
+  "motives_file": null,
+  "source": "https://mezdra-rs.justice.bg/bg/8695?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "9164666054499eb32441f30ba595ceedcdea5be47cc6173903e2c943300610c3",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
