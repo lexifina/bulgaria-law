@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Сандански",
+  "jurisdiction": "BG",
+  "date": "2022-08-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 748,
+  "case_year": 2022,
+  "judge_rapporteur": "Бисерка Николова Бакалова Тилева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=c4617834-3986-4ee2-81c1-9a77e3446640",
+  "motives_file": null,
+  "source": "https://sandanski-rs.justice.bg/bg/10655?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "1a352917f663369dae64985ea534894c2d19afcee2a73fc891614598c9e306e2",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
