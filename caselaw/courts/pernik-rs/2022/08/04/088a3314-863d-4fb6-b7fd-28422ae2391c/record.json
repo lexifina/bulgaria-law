@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-08-04",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 6521,
+  "case_year": 2020,
+  "judge_rapporteur": "КРИСТИНА НИКОЛАЕВА КОСТАДИНОВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=088a3314-863d-4fb6-b7fd-28422ae2391c",
+  "motives_file": null,
+  "source": "https://pernik-rs.justice.bg/bg/9535?from=28.07.2022&to=07.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b9f40dedc89f6902ba83903e7a39a643d66a1d34fbc7280cd2e421cb0454f54f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
