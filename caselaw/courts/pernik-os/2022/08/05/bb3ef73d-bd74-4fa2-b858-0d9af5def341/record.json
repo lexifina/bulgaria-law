@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Перник",
+  "jurisdiction": "BG",
+  "date": "2022-08-05",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Търговско дело",
+  "case_number": 31,
+  "case_year": 2019,
+  "judge_rapporteur": "КАМЕЛИЯ ГЕОРГИЕВА НЕНКОВА",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bb3ef73d-bd74-4fa2-b858-0d9af5def341",
+  "motives_file": null,
+  "source": "https://pernik-os.justice.bg/bg/3795?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "28bdf85618975167987faca838e358e41720a180930ed0133dbe8aee6b3d6bf7",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
