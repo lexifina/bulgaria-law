@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Апелативен съд - София",
+  "jurisdiction": "BG",
+  "date": "2022-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно частно търговско дело",
+  "case_number": 669,
+  "case_year": 2022,
+  "judge_rapporteur": "Христо Лазаров",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=bd00f588-6b5f-4b0a-9589-634da388086a",
+  "motives_file": null,
+  "source": "https://sofia-as.justice.bg/bg/18975?from=23.07.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ccc6f79318e5aec8165858dd53c28bda703217df6a80632c8b4c2380ccf463e4",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
