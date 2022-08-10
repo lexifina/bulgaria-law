@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Хасково",
+  "jurisdiction": "BG",
+  "date": "2022-08-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 614,
+  "case_year": 2022,
+  "judge_rapporteur": "Гроздан Бончев Грозев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=82d305a8-02cf-413a-96a0-521ac65a169d",
+  "motives_file": null,
+  "source": "https://haskovo-rs.justice.bg/bg/12055?from=30.06.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "dc2dcf2a2bf69425e8667fcec74431283d25743d4f5300616ed9c094e423ae24",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
