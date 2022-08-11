@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Разград",
+  "jurisdiction": "BG",
+  "date": "2022-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 158,
+  "case_year": 2022,
+  "judge_rapporteur": "Петър Милков Милев",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b50ed629-8136-474a-8ee6-8f1da6ff40be",
+  "motives_file": null,
+  "source": "https://razgrad-os.justice.bg/bg/4005?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "ea7df272af11a8b22cf43dd7a1f1cc55f6918627703d40beca33e60403c93bed",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
