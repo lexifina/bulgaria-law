@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Пещера",
+  "jurisdiction": "BG",
+  "date": "2022-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 59,
+  "case_year": 2022,
+  "judge_rapporteur": "Милуш Руменов Цветанов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=a451b7cc-5b02-43de-8fc7-c5e92381b938",
+  "motives_file": null,
+  "source": "https://peshtera-rs.justice.bg/bg/16120?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "4c02d4492a0a39f9e948a6c0384fd898cc48b661dd0db9356c8a54c552db7f99",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
