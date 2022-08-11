@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Окръжен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2022-08-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Въззивно гражданско дело",
+  "case_number": 272,
+  "case_year": 2022,
+  "judge_rapporteur": "Петранка Райчева Прахова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=45196229-e5ff-41b7-94fe-8d383dd4751c",
+  "motives_file": null,
+  "source": "https://smolyan-os.justice.bg/bg/20237?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "2ac434680cceea127568db4a05ede2c9db9a1266cf2412dba9ca36f83f2d6c14",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
