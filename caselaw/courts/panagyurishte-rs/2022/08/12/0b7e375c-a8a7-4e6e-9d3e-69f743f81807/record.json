@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Панагюрище",
+  "jurisdiction": "BG",
+  "date": "2022-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Наказателно дело от общ характер",
+  "case_number": 111,
+  "case_year": 2022,
+  "judge_rapporteur": "Емилиан Благов Венчев",
+  "act_kind": "Споразумение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=0b7e375c-a8a7-4e6e-9d3e-69f743f81807",
+  "motives_file": null,
+  "source": "https://panagyurishte-rs.justice.bg/bg/9465?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "b739dd7cbae8fc7284fa86b204e1cd084898bc0120a42e79c2bc00323a76098a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
