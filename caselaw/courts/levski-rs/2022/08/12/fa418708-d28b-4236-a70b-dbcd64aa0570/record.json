@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Левски",
+  "jurisdiction": "BG",
+  "date": "2022-08-12",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 210,
+  "case_year": 2022,
+  "judge_rapporteur": "Стойка Георгиева Манолова Стойкова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=fa418708-d28b-4236-a70b-dbcd64aa0570",
+  "motives_file": null,
+  "source": "https://levski-rs.justice.bg/bg/8275?from=15.05.2022&to=14.08.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "149cb1faeef6e19eb3b26a21e7f734a8105b822661a1a74003dc8ad982a37aa5",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
