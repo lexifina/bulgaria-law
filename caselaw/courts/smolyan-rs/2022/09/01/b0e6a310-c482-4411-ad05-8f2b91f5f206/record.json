@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Смолян",
+  "jurisdiction": "BG",
+  "date": "2022-09-01",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Частно наказателно дело",
+  "case_number": 347,
+  "case_year": 2022,
+  "judge_rapporteur": "Славка Кабасанова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=b0e6a310-c482-4411-ad05-8f2b91f5f206",
+  "motives_file": null,
+  "source": "https://smolyan-rs.justice.bg/bg/11215?from=16.07.2022&to=15.10.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "77e325bc4136b8cc68d0e8d02b65fd5972679af561c1f13e1e16349af6d33b36",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
