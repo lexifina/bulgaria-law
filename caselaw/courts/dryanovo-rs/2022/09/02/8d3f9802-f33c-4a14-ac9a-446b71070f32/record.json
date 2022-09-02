@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Дряново",
+  "jurisdiction": "BG",
+  "date": "2022-09-02",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 267,
+  "case_year": 2022,
+  "judge_rapporteur": "Емилия Дишева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=8d3f9802-f33c-4a14-ac9a-446b71070f32",
+  "motives_file": null,
+  "source": "https://dryanovo-rs.justice.bg/bg/6595?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "831a0f146bfa23541655f3b29bbd1fbdf0483b25f6f7a87a8537f859a6c8ac07",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
