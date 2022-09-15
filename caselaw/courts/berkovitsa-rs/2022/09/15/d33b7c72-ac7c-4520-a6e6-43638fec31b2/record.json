@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Берковица",
+  "jurisdiction": "BG",
+  "date": "2022-09-15",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 297,
+  "case_year": 2020,
+  "judge_rapporteur": "ПЕТЯ ИВАНОВА ЗДРАВКОВА",
+  "act_kind": "Разпореждане",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=d33b7c72-ac7c-4520-a6e6-43638fec31b2",
+  "motives_file": null,
+  "source": "https://berkovitsa-rs.justice.bg/bg/5055?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "85381609cb27c7a0f55b23e6d3ce67daea291985b570571d45c8ba91d41a14f9",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
