@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2022-09-24",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 201,
+  "case_year": 2022,
+  "judge_rapporteur": "Владимир Калоянов Крумов",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5158191f-963e-43a6-bac1-b2978538a7cd",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83cd57255ca17ceb490547cf062a406d53d15878e22b050640d89729497b6f45",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
