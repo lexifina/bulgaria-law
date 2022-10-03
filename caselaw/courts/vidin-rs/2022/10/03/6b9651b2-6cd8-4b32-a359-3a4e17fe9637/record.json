@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Видин",
+  "jurisdiction": "BG",
+  "date": "2022-10-03",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1665,
+  "case_year": 2021,
+  "judge_rapporteur": "Пламен Тошев Петков",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6b9651b2-6cd8-4b32-a359-3a4e17fe9637",
+  "motives_file": null,
+  "source": "https://vidin-rs.justice.bg/bg/5825?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "83cd57255ca17ceb490547cf062a406d53d15878e22b050640d89729497b6f45",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
