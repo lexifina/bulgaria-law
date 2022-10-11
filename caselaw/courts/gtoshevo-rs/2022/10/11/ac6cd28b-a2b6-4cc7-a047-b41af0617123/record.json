@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Ген. Тошево",
+  "jurisdiction": "BG",
+  "date": "2022-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 246,
+  "case_year": 2022,
+  "judge_rapporteur": "Росен Минков Стоянов",
+  "act_kind": "Определение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=ac6cd28b-a2b6-4cc7-a047-b41af0617123",
+  "motives_file": null,
+  "source": "https://gtoshevo-rs.justice.bg/bg/6035?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "50649775f4f659102407cbea3c2b416b17d05a855a7d66b6fe1e054dffa43d7a",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
