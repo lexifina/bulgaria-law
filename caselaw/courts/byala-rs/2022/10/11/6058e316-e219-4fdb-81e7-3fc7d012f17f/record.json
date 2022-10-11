@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Бяла",
+  "jurisdiction": "BG",
+  "date": "2022-10-11",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 179,
+  "case_year": 2022,
+  "judge_rapporteur": "Ъшъл Лютфи Ириева",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=6058e316-e219-4fdb-81e7-3fc7d012f17f",
+  "motives_file": null,
+  "source": "https://byala-rs.justice.bg/bg/5475?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "8a9fd1dd00aaa45fb4b9ef0a962c0cf97cac1fc36f84dc915293e4dee3e51123",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
