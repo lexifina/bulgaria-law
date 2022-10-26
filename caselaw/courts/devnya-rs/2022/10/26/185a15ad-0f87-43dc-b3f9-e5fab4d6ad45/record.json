@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2022-10-26",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Гражданско дело",
+  "case_number": 1441,
+  "case_year": 2021,
+  "judge_rapporteur": "ДАНИЕЛА ХРИСТОВА ВЪЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=185a15ad-0f87-43dc-b3f9-e5fab4d6ad45",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15b3e013bab8304a50c63fc6ee485efbf303e7a911a94e7ac645f2cec4664a11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
