@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Девня",
+  "jurisdiction": "BG",
+  "date": "2022-11-10",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 225,
+  "case_year": 2022,
+  "judge_rapporteur": "ДАНИЕЛА ХРИСТОВА ВЪЛЕВА",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=5c67dfcf-5670-4199-abd9-5aa8ade15465",
+  "motives_file": null,
+  "source": "https://devnya-rs.justice.bg/bg/6385?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "15b3e013bab8304a50c63fc6ee485efbf303e7a911a94e7ac645f2cec4664a11",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
