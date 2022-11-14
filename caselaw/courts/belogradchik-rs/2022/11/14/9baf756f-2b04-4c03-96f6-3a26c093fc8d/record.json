@@ -1,0 +1,17 @@
+{
+  "record_type": "case-law",
+  "court": "Районен съд - Белоградчик",
+  "jurisdiction": "BG",
+  "date": "2022-11-14",
+  "date_basis": "Official court act register, column Дата (act date).",
+  "case_kind": "Административно наказателно дело",
+  "case_number": 243,
+  "case_year": 2022,
+  "judge_rapporteur": "Божидарка Данчова Йосифова",
+  "act_kind": "Решение",
+  "act_file": "https://ecase.justice.bg/act/getactpublicfile?guid=9baf756f-2b04-4c03-96f6-3a26c093fc8d",
+  "motives_file": null,
+  "source": "https://belogradchik-rs.justice.bg/bg/4985?from=15.08.2022&to=14.11.2022&actkindcode=&casenumber=&caseyear=&casetype=",
+  "source_sha256": "987b589152c40cd42cdd1bfca0d49eee83d17c4072d1f5337503464d5f025d3f",
+  "text_status": "metadata-only; official act file link retained for later text import; party names not copied"
+}
