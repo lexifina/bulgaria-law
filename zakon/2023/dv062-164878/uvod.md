@@ -1,0 +1,1 @@
+за ратифициране на международен договор (Писмо за предлагане и приемане на офертата (Letter of Offer and Acceptance - LOA) BU-P-LAY "Придобиване на Мултифункционална система за обмен на информация Multifunctional Information Distribution System/MIDS Joint Tactical Radio System (JTRS), MIDS Low Volume Terminal (LVT) Block Upgrade 2/BU2) и необходимата поддръжка"
