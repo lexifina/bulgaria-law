@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 4626,
+  "case_year": 2024,
+  "decision_type": "Определение",
+  "decision_number": "6372",
+  "decision_date": "2024-05-23",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2342960%26code%3Dvas%26guid%3D1359779314",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2342960&code=vas&guid=1359779314",
+  "source_text_sha256": "3499404b7a375c0adbcca1cad12d6a8ae7a65b3d6d53332b23a29c8c05f944a0",
+  "source_images": 0
+}
