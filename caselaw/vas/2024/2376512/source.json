@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 8600,
+  "case_year": 2024,
+  "decision_type": "Определение",
+  "decision_number": "9998",
+  "decision_date": "2024-09-25",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2376512%26code%3Dvas%26guid%3D1356914416",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2376512&code=vas&guid=1356914416",
+  "source_text_sha256": "3cbbec8b74a69877dff593293e6a7dfb7f236559ff37da693959b0159ed9abbc",
+  "source_images": 0
+}
