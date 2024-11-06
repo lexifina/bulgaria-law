@@ -1,0 +1,12 @@
+{
+  "court": "Върховен административен съд",
+  "case_number": 10115,
+  "case_year": 2024,
+  "decision_type": "Определение",
+  "decision_number": "11962",
+  "decision_date": "2024-11-06",
+  "official_api_url": "https://sac.justice.bg/wp-json/vas/v1/edis/document?url=https%3A%2F%2Finfo-adc.justice.bg%2Fcourts%2Fportal%2Fedis.nsf%2Fe_act.xsp%3Fid%3D2392901%26code%3Dvas%26guid%3D1355182726",
+  "official_document_url": "https://info-adc.justice.bg/courts/portal/edis.nsf/e_act.xsp?id=2392901&code=vas&guid=1355182726",
+  "source_text_sha256": "1ea70bf1ac219224d415083c9a496444d103d68dee51176f4c71c11015837a47",
+  "source_images": 0
+}
