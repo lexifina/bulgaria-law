@@ -1,15 +1,13 @@
 # Закон за филмовата индустрия
 
-Consolidated text of the Закон за филмовата индустрия as published by Министерство на културата (mc.government.bg): https://mc.government.bg/wp-content/uploads/2025/08/80510_78_ZFI.docx
+Official text as published in the State Gazette (ДВ, бр. 105 от 2003 г.), one full-material text file, including the printed title and signatures. No consolidation.
 
-This commit replaces the code's text as enacted (Обн. ДВ. бр.105 от 2 Декември 2003) with its current consolidated text. The amending acts between the two are not each built here; `git log` on this folder shows the ones that are.
+The Gazette printed part of this act (an annex) only in the issue's PDF facsimile; its note: "Виж приложенията в PDF-а на броя". That part is not carried here.
 
-The text includes the host's notes on each change ("(Изм. - ДВ, бр. ...)") as published there. It is the text after the newest amendment it names, ДВ бр. 45 от 2025 г.
+Source: https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123297
 
-In force: 2025-06-06
+Published: 2003-12-02
 
-In-force basis: Закон за изменение на Закона за филмовата индустрия (ДВ, бр. 45 от 2025 г.): Constitution art. 5(5): three days after its Gazette publication 2025-06-03; no own commencement clause.
+In force: 2003-12-05
 
-Cross-check:
-
-- none: a single official copy; no second copy available
+In-force basis: Constitution art. 5(5): a normative act takes effect three days after its State Gazette publication (2003-12-02); the act names no other day.
