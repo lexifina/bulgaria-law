@@ -1,0 +1,1 @@
+за ратифициране на Изменение и допълнение № 2 (Amendment 2) на Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services)
