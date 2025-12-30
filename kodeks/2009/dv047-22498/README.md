@@ -1,13 +1,15 @@
 # Семеен кодекс
 
-The code as enacted: the official text printed in the State Gazette (Държавен вестник, бр. 47 от 2009 г.), one full-material text file, including the printed title, the promulgating decree and the signatures. This is the start of this code's record here; later amending acts follow as their own commits. No consolidation.
+Consolidated text of the Семеен кодекс as published by Министерство на правосъдието (mjs.bg): https://mjs.bg/home/normdoc/2135637484
 
-Source: https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22498
+This commit replaces the code's text as enacted (ДВ, бр. 47 от 23 юни 2009 г., в сила от 1 октомври 2009 г.) with its current consolidated text. The amending acts between the two are not each built here; `git log` on this folder shows the ones that are.
 
-Published: 2009-06-23
+The text includes the host's notes on each change ("(Изм. - ДВ, бр. ...)") as published there. It is the text after the newest amendment it names, ДВ бр. 115 от 2025 г.
 
-In force: 2009-10-01
+In force: 2025-12-30
 
-In-force basis: Own commencement clause: § 18. Този кодекс влиза в сила от 1 октомври 2009 г.
+In-force basis: Закон за изменение и допълнение на Семейния кодекс (ДВ, бр. 115 от 2025 г.): Own commencement clause of the amending act: § 13. Този закон влиза в сила от деня на обнародването му в „Държавен вестник“.
 
-Source images: 0; referenced: 0; omitted: 0.
+Cross-check:
+
+- lex.bg (private publisher; a check only, not an official copy), https://lex.bg/laws/ldoc/2135637484 (text up to ДВ бр. 115/2025): 182 articles equal letter for letter, 0 changed only by later amendments, 0 split differently between two adjacent articles, 0 differ; whole text line by line: equal letter for letter
