@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/168573",
+  "subject": "ЗА ОТМЕНЯНЕ НА РЕШЕНИЕ № 232 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2020 Г. ЗА ПРИВАТИЗАЦИЯ НА ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ",
+  "title": "Актове на Министерския съвет",
+  "number": "49",
+  "year": "2026",
+  "issued": "2026-01-21",
+  "published": "2026-01-22",
+  "source_sha256": "2e7be705a935caa2c0b82e46ccba446163aed29e6efe20c81bbe6bad3a977dad",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/49",
+  "downloads": [
+    "https://www.strategy.bg/download/1316666"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-01-21; date of metadata record only, not a legal commencement assertion.",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-01-21"
+}
