@@ -1,0 +1,9 @@
+# Актове на Министерския съвет
+
+ЗА ПРЕДЛОЖЕНИЕ ДО ПРЕЗИДЕНТА НА РЕПУБЛИКА БЪЛГАРИЯ ЗА ИЗДАВАНЕ НА УКАЗ ЗА НАЗНАЧАВАНЕ НА ДЛЪЖНОСТ И ЗА УДОСТОЯВАНЕ С ВИСШЕ ОФИЦЕРСКО ЗВАНИЕ НА ВОЕННОСЛУЖЕЩ / полковник АТАНАС СПАСОВ ГЕОРГИЕВ.
+
+Metadata and official link only: individual appointment or award. No decision text or annex is reproduced; no legal commencement is asserted.
+
+Source: https://www.strategy.bg/bg/pris/legal-information/reseniia/169313
+
+Source issue date: 2026-03-23.
