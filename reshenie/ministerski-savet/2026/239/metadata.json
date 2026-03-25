@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169336",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ВЪТРЕШНИТЕ РАБОТИ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "239",
+  "year": "2026",
+  "issued": "2026-03-25",
+  "published": "2026-03-26",
+  "source_sha256": "3c5d852ccef7714fa144aa6c99ef4cd62168d30a50e1e42115112decf43eb132",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/239",
+  "downloads": [
+    "https://www.strategy.bg/download/1319159"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-03-25; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-03-25"
+}
