@@ -1,0 +1,25 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169350",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСКИЯ СЪВЕТ И НА МИНИСТЕРСТВОТО НА КУЛТУРАТА И ЗА ФИНАНСИРАНЕ НА ТРАНСФЕРИ ЗА ОБЩИНИТЕ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "250",
+  "year": "2026",
+  "issued": "2026-03-27",
+  "published": "2026-03-27",
+  "source_sha256": "119cba2d40397d51dba7e83408e33f0f3e7bfeb94987b80f427b6baf141a8423",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/250",
+  "downloads": [
+    "https://www.strategy.bg/download/1319210",
+    "https://www.strategy.bg/download/1319211"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-03-27; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-03-27"
+}
