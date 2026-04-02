@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169393",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ЕЛЕКТРОННОТО УПРАВЛЕНИЕ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "266",
+  "year": "2026",
+  "issued": "2026-04-02",
+  "published": "2026-04-02",
+  "source_sha256": "2555186b16fd12eff4e92055403073f5148d87f13a09db689b4d81cf008367c1",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/266",
+  "downloads": [
+    "https://www.strategy.bg/download/1319442"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-02; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-02"
+}
