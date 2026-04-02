@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169385",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСКИЯ СЪВЕТ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "255",
+  "year": "2026",
+  "issued": "2026-04-02",
+  "published": "2026-04-02",
+  "source_sha256": "49d39b3523adf746e0b17e69dcc7fd23f8591fd9b5902b9640c02cd5bfd8ad59",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/255",
+  "downloads": [
+    "https://www.strategy.bg/download/1319434"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-02; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-02"
+}
