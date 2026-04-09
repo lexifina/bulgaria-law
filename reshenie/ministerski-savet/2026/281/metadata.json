@@ -1,0 +1,25 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169420",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА ТРАНСФЕРИ ЗА ОБЩИНИ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "281",
+  "year": "2026",
+  "issued": "2026-04-09",
+  "published": "2026-04-14",
+  "source_sha256": "7f92658c6fef00a7ebaaac06cee8f1c2bc328ae582a88c55634c409c24c24933",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/281",
+  "downloads": [
+    "https://www.strategy.bg/download/1319754",
+    "https://www.strategy.bg/download/1319755"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-09; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-09"
+}
