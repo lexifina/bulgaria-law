@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169412",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕХВЪРЛЯНЕ ПРАВОТО НА СОБСТВЕНОСТ ВЪРХУ ИМОТИ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, НА ОБЩИНА СУХИНДОЛ, ОБЛАСТ ВЕЛИКО ТЪРНОВО",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "273",
+  "year": "2026",
+  "issued": "2026-04-09",
+  "published": "2026-04-14",
+  "source_sha256": "7871a63ec1c868e2a22e059d94aacf1235a07a10ad41cca6f66f23073ee43d05",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/273",
+  "downloads": [
+    "https://www.strategy.bg/download/1319745"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-09; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-09"
+}
