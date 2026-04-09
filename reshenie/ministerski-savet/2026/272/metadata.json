@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169411",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕХВЪРЛЯНЕ ПРАВОТО НА СОБСТВЕНОСТ ВЪРХУ ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, НА ОБЩИНА ДРАГОМАН, СОФИЙСКА ОБЛАСТ",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "272",
+  "year": "2026",
+  "issued": "2026-04-09",
+  "published": "2026-04-14",
+  "source_sha256": "36088d922e3462ecd567f4c5c50c844b5e2f023f8c198148d1ba03c41624c0d4",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/272",
+  "downloads": [
+    "https://www.strategy.bg/download/1319744"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-09; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-09"
+}
