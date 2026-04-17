@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169465",
+  "subject": "ЗА ОБЯВЯВАНЕ НА ИМОТИ – ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, ЗА ИМОТИ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, И ЗА БЕЗВЪЗМЕЗДНОТО ИМ ПРЕХВЪРЛЯНЕ В СОБСТВЕНОСТ НА ОБЩИНА БУРГАС, ОБЛАСТ БУРГАС",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "295",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "584d094670b359543ea4a5003bfddd3bcc5f7d2b3907b6be5f614588aaf64f69",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/295",
+  "downloads": [
+    "https://www.strategy.bg/download/1319999"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
