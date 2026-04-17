@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169458",
+  "subject": "ЗА ИЗМЕНЕНИЕ НА РЕШЕНИЕ № 936 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2023 Г. ЗА ОТКРИВАНЕ НА КОНСУЛСТВО НА РЕПУБЛИКА БЪЛГАРИЯ В РЕПУБЛИКА ТУРЦИЯ, РЪКОВОДЕНО ОТ ПОЧЕТНО (НЕЩАТНО) КОНСУЛСКО ДЛЪЖНОСТНО ЛИЦЕ, СЪС СЕДАЛИЩЕ В ГР. ИСТАНБУЛ И С КОНСУЛСКИ ОКРЪГ, ОБХВАЩАЩ ТЕРИТОРИЯТА НА РАЙОНИТЕ ИЗМИР, САКАРИЯ, БИЛЕДЖИК, ЕСКИШЕХИР, КОДЖАЕЛИ И КЮТАХИЯ, И ЗА НАЗНАЧАВАНЕ НА ХАСАН АКГЮН - ТУРСКИ ГРАЖДАНИН, ЗА ПОЧЕТНО (НЕЩАТНО) КОНСУЛСКО ДЛЪЖНОСТНО ЛИЦЕ НА РЕПУБЛИКА БЪЛГАРИЯ В РЕПУБЛИКА ТУРЦИЯ, СЪС СЕДАЛИЩЕ В ГР. ИСТАНБУЛ И С КОНСУЛСКИ ОКРЪГ, ОБХВАЩАЩ РАЙОНИТЕ ИЗМИР, САКАРИЯ, БИЛЕДЖИК, ЕСКИШЕХИР, КОДЖАЕЛИ И КЮТАХИЯ",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "291",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "3b3ee59ece53fd423c4c22e7b87afe77be9a923292157ee295c1bdc04ce7c74a",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/291",
+  "downloads": [
+    "https://www.strategy.bg/download/1319987"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
