@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169469",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕДОСТАВЯНЕ НА ЧАСТ ОТ ИМОТ – ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, ЗА УПРАВЛЕНИЕ НА МИНИСТЕРСТВОТО НА ОТБРАНАТА ЗА НУЖДИТЕ НА ЦЕНТРАЛНОТО ВОЕННО ОКРЪЖИЕ – ВОЕННО ОКРЪЖИЕ II СТЕПЕН – БЛАГОЕВГРАД",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "298",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "a3eaca5c3d71cf39709e4633e532ce06d1d8a1f21bc2849150dd4259fd2084fa",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/298",
+  "downloads": [
+    "https://www.strategy.bg/download/1320004"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
