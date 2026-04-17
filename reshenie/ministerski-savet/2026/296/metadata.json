@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169467",
+  "subject": "ЗА ОБЯВЯВАНЕ НА ИМОТ – ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, ЗА ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, И ЗА БЕЗВЪЗМЕЗДНОТО МУ ПРЕХВЪРЛЯНЕ В СОБСТВЕНОСТ НА ОБЩИНА ВАРНА, ОБЛАСТ ВАРНА",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "296",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "42988ca5dfb63569512dd0b74c85b9a7a8a9759ebe3d2c12ab622cb3722fd9a0",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/296",
+  "downloads": [
+    "https://www.strategy.bg/download/1320002"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
