@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169464",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕДОСТАВЯНЕ ЗА УПРАВЛЕНИЕ НА ИМОТИ – ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, НА МИНИСТЕРСТВОТО НА ВЪТРЕШНИТЕ РАБОТИ / Столична община, район „Надежда“, гр. София, ул. „Дравски бой\" № 6 /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "294",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "43a139fcc8cf00fa812c525ec8462b25692da254d299143c609828c1cacfe299",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/294",
+  "downloads": [
+    "https://www.strategy.bg/download/1319998"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
