@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169468",
+  "subject": "ЗА ОБЯВЯВАНЕ НА ЧАСТ ОТ ИМОТ - ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, ЗА ИМОТ - ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "297",
+  "year": "2026",
+  "issued": "2026-04-17",
+  "published": "2026-04-20",
+  "source_sha256": "8cf6339db8f441f32b1fe8e405c7f773b6eb5406d50685927d9ee14fe4a31343",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/297",
+  "downloads": [
+    "https://www.strategy.bg/download/1320003"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-17"
+}
