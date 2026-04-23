@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169497",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ЕНЕРГЕТИКАТА ЗА 2026 Г. / Дело С-206/23 /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "310",
+  "year": "2026",
+  "issued": "2026-04-23",
+  "published": "2026-04-23",
+  "source_sha256": "3fcf530f548a1f434d95c7fb96223f0f5b738c7bdbd50a420dbeb9e5d6b5c466",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/310",
+  "downloads": [
+    "https://www.strategy.bg/download/1320184"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-23; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-23"
+}
