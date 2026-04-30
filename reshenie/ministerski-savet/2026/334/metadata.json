@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169536",
+  "subject": "ЗА ОТТЕГЛЯНЕ НА ПРЕДЛОЖЕНИЕТО ДО НАРОДНОТО СЪБРАНИЕ НА РЕПУБЛИКА БЪЛГАРИЯ ЗА ОДОБРЯВАНЕ НА ПРОГРАМАТА ЗА УПРАЖНЯВАНЕ ПРАВАТА ВЪРХУ ИМОТИ – ДЪРЖАВНА СОБСТВЕНОСТ, И ВЪРХУ ИМОТИ – СОБСТВЕНОСТ НА ДЪРЖАВНИ ПУБЛИЧНИ ПРЕДПРИЯТИЯ, И ЗА ОТМЕНЯНЕ НА РЕШЕНИЯ НА МИНИСТЕРСКИЯ СЪВЕТ",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "334",
+  "year": "2026",
+  "issued": "2026-04-30",
+  "published": "2026-05-04",
+  "source_sha256": "63c770427afe6b00886de19aef79147d870471617ebd7bed51f498ee245fda9b",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/334",
+  "downloads": [
+    "https://www.strategy.bg/download/1320486"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-30; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-30"
+}
