@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169577",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕДОСТАВЯНЕ ЗА УПРАВЛЕНИЕ НА ИМОТ - ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, НА МИНИСТЕРСТВОТО НА ЗДРАВЕОПАЗВАНЕТО",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "355",
+  "year": "2026",
+  "issued": "2026-04-30",
+  "published": "2026-05-07",
+  "source_sha256": "49f65cd4736571f7dc0ccb0cb7ad2f38355470aa198614bdd112838dbf798d35",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/355",
+  "downloads": [
+    "https://www.strategy.bg/download/1320602"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-30; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-30"
+}
