@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169541",
+  "subject": "ЗА ПОПРАВКА НА ОЧЕВИДНА ФАКТИЧЕСКА ГРЕШКА В РЕШЕНИЕ № 244 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2026 Г. ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ТУРИЗМА ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "339",
+  "year": "2026",
+  "issued": "2026-04-30",
+  "published": "2026-05-04",
+  "source_sha256": "abc9cb68e0230c65e3657eb835cf8d69cd3efb96f02f9ca888cd16b164bbaf39",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/339",
+  "downloads": [
+    "https://www.strategy.bg/download/1320494"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-04-30; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-04-30"
+}
