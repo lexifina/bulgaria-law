@@ -1,0 +1,25 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169580",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ ЗА МИНИСТЕРСТВОТО НА ТРАНСПОРТА И СЪОБЩЕНИЯТА И ЗА ФИНАНСИРАНЕ НА ТРАНСФЕРИ ЗА ОБЩИНИ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "359",
+  "year": "2026",
+  "issued": "2026-05-04",
+  "published": "2026-05-08",
+  "source_sha256": "e46c8ffa12eeebe480344728d6a302f518e6f0a2796939dcae3e4ba6b6856bd4",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/359",
+  "downloads": [
+    "https://www.strategy.bg/download/1320642",
+    "https://www.strategy.bg/download/1320643"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-04; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-04"
+}
