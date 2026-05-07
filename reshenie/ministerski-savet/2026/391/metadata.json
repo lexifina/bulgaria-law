@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169694",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ВЪНШНИТЕ РАБОТИ И НА МИНИСТЕРСТВОТО НА ТУРИЗМА ЗА 2026 Г. ЗА ОКАЗВАНЕ НА СЪДЕЙСТВИЕ ПРИ ЕВАКУАЦИЯТА ОТ ЗАСЕГНАТИ ДЪРЖАВИ В РЕГИОНА НА БЛИЗКИЯ ИЗТОК",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "391",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "9cf842cc5d4d325fadefd81016073802c0c2c170a5082574219917cf93b86487",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/391",
+  "downloads": [
+    "https://www.strategy.bg/download/1320979"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
