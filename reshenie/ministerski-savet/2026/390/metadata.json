@@ -1,0 +1,25 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169684",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА КУЛТУРАТА ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "390",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "0e07a9ed22d572bb7154fcea54e4a543bce3e2fd44c8346602e0937a7a3b16f5",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/390",
+  "downloads": [
+    "https://www.strategy.bg/download/1320964",
+    "https://www.strategy.bg/download/1320965"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
