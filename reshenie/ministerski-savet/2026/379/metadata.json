@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169653",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ЗДРАВЕОПАЗВАНЕТО ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "379",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "661f67d62a5f4597643691c27cf1fc49a38ae42b44a12c4fd55a2bebc792f391",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/379",
+  "downloads": [
+    "https://www.strategy.bg/download/1320831"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
