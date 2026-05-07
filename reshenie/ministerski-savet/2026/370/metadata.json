@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169646",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕДОСТАВЯНЕ ЗА УПРАВЛЕНИЕ НА ЧАСТ ОТ ИМОТ - ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, НА МИНИСТЕРСТВОТО НА ИКОНОМИКАТА И ИНДУСТРИЯТА",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "370",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "a1e9c361f034f1823c301c8b2941eae419e95009e7ca52cdfbef2b368010b804",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/370",
+  "downloads": [
+    "https://www.strategy.bg/download/1320807"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
