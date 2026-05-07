@@ -1,0 +1,25 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169700",
+  "subject": "ЗА ОТЧУЖДАВАНЕ НА ЧАСТИ ОТ ИМОТИ – ЧАСТНА СОБСТВЕНОСТ, ЗА ДЪРЖАВНА НУЖДА ЗА ИЗГРАЖДАНЕ НА ТЕХНОЛОГИЧНА ПЛОЩАДКА НА АВТОМАТИЧНА ГАЗОРЕГУЛИРАЩА СТАНЦИЯ „РАДОМИР“ И НА ОБСЛУЖВАЩА ТЕХНИЧЕСКА ИНФРАСТРУКТУРА – ПЪТ ЗА ДОСТЪП ДО АВТОМАТИЧНА ГАЗОРЕГУЛИРАЩА СТАНЦИЯ „РАДОМИР“, НА ОБЕКТ „ПРЕНОСЕН ГАЗОПРОВОД ОТ ПИПЕРЕВО ДО ПЕРНИК“ НА ТЕРИТОРИЯТА НА ОБЛАСТ ПЕРНИК",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "398",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "89ed613f4b3a688705fa102953219040126a8413cbaeca396d4277700200cf09",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/398",
+  "downloads": [
+    "https://www.strategy.bg/download/1320994",
+    "https://www.strategy.bg/download/1320995"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
