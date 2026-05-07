@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169649",
+  "subject": "ЗА ОБЯВЯВАНЕ НА ИМОТ – ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, ЗА ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, И ЗА БЕЗВЪЗМЕЗДНОТО МУ ПРЕХВЪРЛЯНЕ В СОБСТВЕНОСТ НА ОБЩИНА ПЛЕВЕН, ОБЛАСТ ПЛЕВЕН",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "373",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "b7c7469fc6ee7fec9130218b2934d60c3d4ddb6f7d2c02e8d72bb5fd9bdbbab7",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/373",
+  "downloads": [
+    "https://www.strategy.bg/download/1320819"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
