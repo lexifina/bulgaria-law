@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169701",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕДОСТАВЯНЕ ЗА УПРАВЛЕНИЕ НА ИМОТИ - ПУБЛИЧНА ДЪРЖАВНА СОБСТВЕНОСТ, НА СТОЛИЧНА ОБЩИНА / Парк „Врана“ /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "399",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-11",
+  "source_sha256": "8a9ec01b933718271d170e4457e9442d568c98bc34bdfb472e8abdc6007583ed",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/399",
+  "downloads": [
+    "https://www.strategy.bg/download/1320996"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
