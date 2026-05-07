@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169692",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕХВЪРЛЯНЕ ПРАВОТО НА СОБСТВЕНОСТ ВЪРХУ ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, НА ОБЩИНА ВЕЛИКО ТЪРНОВО, ОБЛАСТ ВЕЛИКО ТЪРНОВО",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "388",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "e5fb58aefd2d12fdcc3906cf30b91ff6f02070848191193e5088250cab8ee4e7",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/388",
+  "downloads": [
+    "https://www.strategy.bg/download/1320977"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
