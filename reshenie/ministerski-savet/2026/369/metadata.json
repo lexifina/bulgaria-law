@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169645",
+  "subject": "ЗА БЕЗВЪЗМЕЗДНО ПРЕХВЪРЛЯНЕ ПРАВОТО НА СОБСТВЕНОСТ ВЪРХУ ИМОТ – ЧАСТНА ДЪРЖАВНА СОБСТВЕНОСТ, НА ОБЩИНА СЛИВЕН, ОБЛАСТ СЛИВЕН",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "369",
+  "year": "2026",
+  "issued": "2026-05-07",
+  "published": "2026-05-08",
+  "source_sha256": "fb0acfbed3eb7bd5096536bcd11e628f67edbdbd725bf324c632b0539e123402",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/369",
+  "downloads": [
+    "https://www.strategy.bg/download/1320797"
+  ],
+  "classification": "individual property grant, transfer, concession or permit",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-07; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-07"
+}
