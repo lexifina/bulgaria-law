@@ -1,0 +1,9 @@
+# Решение № 4856-НС от 8 май 2026 г. относно обявяване на Васка Александрова Милушева за народен представител в Тринадесети изборен район – Пазарджишки, в 52-рото Народно събрание
+
+Official issuer: Централна избирателна комисия.
+
+Source: <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243349>. Published in ДВ 43/2026, 2026-05-12.
+
+Metadata and official link only. The official decision may identify private persons; its text is not reproduced.
+
+Official record date: 2026-05-08. This date does not assert commencement.
