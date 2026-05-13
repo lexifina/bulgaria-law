@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169772",
+  "subject": "ЗА ОТМЕНЯНЕ НА РЕШЕНИЕ № 401 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2026 Г. ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА МИНИСТЕРСТВОТО НА ЗЕМЕДЕЛИЕТО И ХРАНИТЕ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "407",
+  "year": "2026",
+  "issued": "2026-05-13",
+  "published": "2026-05-13",
+  "source_sha256": "ff32f6bd12a663f1535e5b98f698395cc2f4fb2b486da72badfd19129dcea59e",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/407",
+  "downloads": [
+    "https://www.strategy.bg/download/1321162"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-13; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-13"
+}
