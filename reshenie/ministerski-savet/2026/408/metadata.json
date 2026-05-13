@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169774",
+  "subject": "ЗА ПРЕДЛОЖЕНИЕ ДО ПРЕЗИДЕНТА НА РЕПУБЛИКА БЪЛГАРИЯ ЗА ИЗДАВАНЕ НА УКАЗ ЗА ОСВОБОЖДАВАНЕ ОТ ДЛЪЖНОСТ И ОТ ВОЕННА СЛУЖБА НА ОФИЦЕР ОТ ВИСШИЯ КОМАНДЕН СЪСТАВ / бригаден генерал ЛЮБОМИР БОГДАНОВ МОНОВ /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "408",
+  "year": "2026",
+  "issued": "2026-05-13",
+  "published": "2026-05-14",
+  "source_sha256": "f8f4d8479faa61ac604e63844410b3b2c7b6fbb37418388f334483e40a49fdcd",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/408",
+  "downloads": [
+    "https://www.strategy.bg/download/1321166"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-13; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-13"
+}
