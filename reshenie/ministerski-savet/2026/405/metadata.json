@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169769",
+  "subject": "ЗА ОСВОБОЖДАВАНЕ И ЗА НАЗНАЧАВАНЕ НА ОБЛАСТНИ УПРАВИТЕЛИ",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "405",
+  "year": "2026",
+  "issued": "2026-05-13",
+  "published": "2026-05-13",
+  "source_sha256": "70ec32236f34aa58333e50fd039e14f2b7e101a341e392fbaffe430081f5533c",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/405",
+  "downloads": [
+    "https://www.strategy.bg/download/1321159"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-13; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-13"
+}
