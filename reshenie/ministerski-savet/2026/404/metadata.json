@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/169766",
+  "subject": "ЗА ОПРЕДЕЛЯНЕ НА ПРЕДСТАВИТЕЛИТЕ НА МИНИСТЕРСКИЯ СЪВЕТ В НАЦИОНАЛНИЯ СЪВЕТ ЗА ТРИСТРАННО СЪТРУДНИЧЕСТВО",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "404",
+  "year": "2026",
+  "issued": "2026-05-13",
+  "published": "2026-05-13",
+  "source_sha256": "ff2295575e47051864b60855bede002e17c8307c8263e2763ab1721c424b0dab",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/404",
+  "downloads": [
+    "https://www.strategy.bg/download/1321156"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-13; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-13"
+}
