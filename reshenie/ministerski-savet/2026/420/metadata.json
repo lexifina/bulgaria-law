@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/170133",
+  "subject": "ЗА ИЗМЕНЕНИЕ НА РЕШЕНИЕ № 86 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2025 Г. ЗА ОПРЕДЕЛЯНЕ НА ПРЕДСТАВИТЕЛИ НА ДЪРЖАВАТА В НАДЗОРНИЯ СЪВЕТ НА НАЦИОНАЛНАТА ЗДРАВНООСИГУРИТЕЛНА КАСА, ИЗМЕНЕНО С РЕШЕНИЕ № 215 НА МИНИСТЕРСКИЯ СЪВЕТ ОТ 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "420",
+  "year": "2026",
+  "issued": "2026-05-29",
+  "published": "2026-06-01",
+  "source_sha256": "749ea963faa3eab056998bd382b0429055ee4a89aa60183c7957ade4535e72e3",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/420",
+  "downloads": [
+    "https://www.strategy.bg/download/1321799"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-05-29; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-05-29"
+}
