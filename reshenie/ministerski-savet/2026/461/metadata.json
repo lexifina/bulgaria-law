@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/170265",
+  "subject": "ЗА НАЗНАЧАВАНЕ НА ЗАМЕСТНИК-ПРЕДСЕДАТЕЛ НА ДЪРЖАВНА АГЕНЦИЯ „РАЗУЗНАВАНЕ” / НИКОЛАЙ ГЕОРГИЕВ НИКОЛОВ /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "461",
+  "year": "2026",
+  "issued": "2026-06-17",
+  "published": "2026-06-18",
+  "source_sha256": "fa905d0bc1202db7fba3da139b6791af8e4d3df31a85e45ce85c2dd554e9d7ea",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/461",
+  "downloads": [
+    "https://www.strategy.bg/download/1322649"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-06-17; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-06-17"
+}
