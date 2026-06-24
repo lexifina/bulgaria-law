@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/170334",
+  "subject": "ЗА ПРЕДЛОЖЕНИЕ ДО ПРЕЗИДЕНТА НА РЕПУБЛИКА БЪЛГАРИЯ ЗА ИЗДАВАНЕ НА УКАЗ ЗА ПРЕНАЗНАЧАВАНЕ НА ДЛЪЖНОСТ НА ОФИЦЕР ОТ ВИСШИЯ КОМАНДЕН СЪСТАВ / бригаден генерал ВЕНЕЛИН ЛЮБОМИРОВ ВЕНЕВ /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "477",
+  "year": "2026",
+  "issued": "2026-06-24",
+  "published": "2026-06-24",
+  "source_sha256": "d7783701632adedefc9566f3df227ddad535d15d1d3d91c75bd80a2f13485653",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/477",
+  "downloads": [
+    "https://www.strategy.bg/download/1322896"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-06-24; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-06-24"
+}
