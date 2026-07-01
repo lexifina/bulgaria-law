@@ -1,13 +1,30 @@
 # Административнопроцесуален кодекс
 
-The code as enacted: the official text printed in the State Gazette (Държавен вестник, бр. 30 от 2006 г.), one full-material text file, including the printed title, the promulgating decree and the signatures. This is the start of this code's record here; later amending acts follow as their own commits. No consolidation.
+Consolidated text of the Административнопроцесуален кодекс as published by Министерство на правосъдието (mjs.bg): https://mjs.bg/home/normdoc/2135521015
 
-Source: https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655
+This commit replaces the code's text as enacted (ДВ, бр. 30 от 11 април 2006 г., в сила от 12 юли 2006 г.) with its current consolidated text. The amending acts between the two are not each built here; `git log` on this folder shows the ones that are.
 
-Published: 2006-04-11
+The text includes the host's notes on each change ("(Изм. - ДВ, бр. ...)") as published there. It is the text after the newest amendment it names, ДВ бр. 17 от 2026 г.
 
-In force: 2006-07-12
+In force: 2026-07-01
 
-In-force basis: Own commencement clause: § 142. Кодексът влиза в сила три месеца след обнародването му в "Държавен вестник", с изключение на: 1. дял трети, § 2, т. 1 и § 2, т. 2 - относно отмяната на глава трета, раздел II "Обжалване по съдебен ред", § 9, т. 1 и 2, § 11, т. 1 и 2, § 15, § 44, т. 1 и 2, § 51, т. 1, § 53, т. 1, § 61, т. 1, § 66, т. 3, § 76, т. 1 - 3, § 78, § 79, § 83, т. 1, § 84, т. 1 и 2, § 89, т. 1 - 4, § 101, т. 1, § 102, т. 1, § 107, § 117, т. 1 и 2, § 125, § 128, т. 1 и 2, § 132, т. 2 и § 136, т. 1, както и § 34, § 35, т. 2, § 43, т. 2, § 62, т. 1, § 66, т. 2 и 4, § 97, т. 2 и § 125, т. 1 - относно замяната на думата "окръжния" с "административния" и замяната на думите "Софийския градски съд" с "Административния съд - град София", които влизат в сила от 1 март 2007 г.; 2. параграф 120, който влиза в сила от 1 януари 2007 г.; 3. параграф 3, който влиза в сила от деня на обнародването на кодекса в "Държавен вестник". (the commit is dated by the main commencement day; the provisions excepted above took effect as stated)
+In-force basis: Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2026 г.) § 26: Constitution art. 5(5): three days after its Gazette publication 2026-02-13; no own commencement clause. A provision the text marks "в сила от 01.07.2026" takes effect later, so the text is dated that day.
 
-Source images: 0; referenced: 0; omitted: 0.
+Cross-check:
+
+- lex.bg (private publisher; a check only, not an official copy), https://lex.bg/laws/ldoc/2135521015 (text up to ДВ бр. 17/2026): 344 articles equal letter for letter, 0 changed only by later amendments, 0 split differently between two adjacent articles, 0 differ; whole text line by line: 4 lines differ (listed in the README)
+
+## Unverified: two copies differ
+
+The articles below read differently in the copy named and no amendment note explains it. Both readings (the words that differ, in context):
+
+lex.bg (private publisher; a check only, not an official copy):
+
+
+Lines present in only one copy (letters compared, publisher notes removed):
+
+- the second copy: Глава трета.
+- the second copy: СТРАНИ И ПРЕДСТАВИТЕЛСТВО
+- the second copy: Преходни и Заключителни разпоредби
+- the second copy: КЪМ ЗАКОН ЗА ИЗМЕНЕНИЕ И ДОПЪЛНЕНИЕ НА ЗАКОНА ЗА ОТГОВОРНОСТТА НА ДЪРЖАВАТА И ОБЩИНИТЕ ЗА ВРЕДИ
+
