@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/170381",
+  "subject": "ЗА ОДОБРЯВАНЕ НА ФИНАНСИРАНЕ НА ДЪРЖАВНА АГЕНЦИЯ „ТЕХНИЧЕСКИ ОПЕРАЦИИ“ ЗА 2026 Г.",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "486",
+  "year": "2026",
+  "issued": "2026-07-01",
+  "published": "2026-07-02",
+  "source_sha256": "d6ed25548de2c9afd6bda1c6d891f84d4a80ee0c8f256abfb334d972d2a68bf8",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/486",
+  "downloads": [
+    "https://www.strategy.bg/download/1323151"
+  ],
+  "classification": "individual grant or financing decision",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-07-01; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-07-01"
+}
