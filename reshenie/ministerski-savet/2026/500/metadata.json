@@ -1,0 +1,24 @@
+{
+  "url": "https://www.strategy.bg/bg/pris/legal-information/reseniia/170426",
+  "subject": "ЗА ПРЕДЛОЖЕНИЕ ДО ПРЕЗИДЕНТА НА РЕПУБЛИКА БЪЛГАРИЯ ЗА НАГРАЖДАВАНЕ С ОРДЕН „СТАРА ПЛАНИНА” ПЪРВА СТЕПЕН / академик ЮЛИАН ПЕТРОВ РЕВАЛСКИ /",
+  "title": "Актове на Министерския съвет",
+  "issuer": "Министерски съвет",
+  "source_category": "Решения",
+  "number": "500",
+  "year": "2026",
+  "issued": "2026-07-03",
+  "published": "2026-07-03",
+  "source_sha256": "4a5d5a59be7ad17e8b447ab1e409fca961b1d7d97f9b3eff72e9ae5e767fa9ca",
+  "kind": "reshenie",
+  "path": "reshenie/ministerski-savet/2026/500",
+  "downloads": [
+    "https://www.strategy.bg/download/1323217"
+  ],
+  "classification": "individual appointment or award",
+  "commit_kind": "metadata",
+  "in_force": null,
+  "in_force_basis": "Official PRIS \"Дата на издаване\": 2026-07-03; date of metadata record only, not a legal commencement assertion.",
+  "first_law": null,
+  "representation": "metadata-only",
+  "record_date": "2026-07-03"
+}
