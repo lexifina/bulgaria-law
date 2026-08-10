@@ -1,0 +1,15 @@
+# Закон за Комисията за финансов надзор
+
+Consolidated text of the Закон за Комисията за финансов надзор as published by Комисия за финансов надзор (fsc.bg): https://www.fsc.bg/wp-content/uploads/2026/08/zkfn_dv_71_2026.pdf
+
+Record starts at this consolidated text; earlier history not available from an official free source. The act was enacted in бр. 8 от 28.01.2003; the State Gazette's online text archive begins in 2003, so its original text and earlier versions are not online from an official source.
+
+The text includes the host's notes on each change ("(Изм. - ДВ, бр. ...)") as published there. It is the text after the newest amendment it names, ДВ бр. 71 от 2026 г.
+
+In force: 2026-08-10
+
+In-force basis: Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.) § 66: Constitution art. 5(5): three days after its Gazette publication 2026-08-07; no own commencement clause.
+
+Cross-check:
+
+- none: a single official copy; no second copy available
