@@ -1,13 +1,15 @@
 # Данъчно-осигурителен процесуален кодекс
 
-The code as enacted: the official text printed in the State Gazette (Държавен вестник, бр. 105 от 2005 г.), one full-material text file, including the printed title, the promulgating decree and the signatures. This is the start of this code's record here; later amending acts follow as their own commits. No consolidation.
+Consolidated text of the Данъчно-осигурителен процесуален кодекс as published by Национална агенция за приходите (nra.bg): https://nra.bg/wps/wcm/connect/nra.bg25863/bdd29916-eb66-4b0d-a99b-0f4f94365a5b/%D0%94%D0%9E%D0%9F%D0%9A-2026.docx?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_PPGAHG8009LJC0QTR5C2HH30I6-bdd29916-eb66-4b0d-a99b-0f4f94365a5b-p.M7.R4
 
-Source: https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225
+This commit replaces the code's text as enacted (ДВ, бр. 105 от 29 декември 2005 г., в сила от 1 януари 2006 г.) with its current consolidated text. The amending acts between the two are not each built here; `git log` on this folder shows the ones that are.
 
-Published: 2005-12-29
+The text includes the host's notes on each change ("(Изм. - ДВ, бр. ...)") as published there. It is the text after the newest amendment it names, ДВ бр. 69 от 2026 г.
 
-In force: 2006-01-01
+In force: 2026-09-01
 
-In-force basis: Own commencement clause: § 88. Кодексът влиза в сила от 1 януари 2006 г., с изключение на чл. 179, ал. 3, чл. 183, ал. 9, § 10, т. 1, буква "д" и т. 4, буква "в", § 11, т. 1, буква "б" и § 14, т. 12 от преходните и заключителните разпоредби, които влизат в сила от деня на обнародването на кодекса в "Държавен вестник". (the commit is dated by the main commencement day; the provisions excepted above took effect as stated)
+In-force basis: ДВ бр. 69 от 2026-07-31: a page of this State Gazette issue did not answer (site not responding), so the amending act's own commencement clause was not read; dated three days after publication (Constitution art. 5(5)). A provision the text marks "в сила от 01.09.2026" takes effect later, so the text is dated that day.
 
-Source images: 0; referenced: 0; omitted: 0.
+Cross-check:
+
+- lex.bg (private publisher; a check only, not an official copy), https://lex.bg/laws/ldoc/2135514513 (text up to ДВ бр. 85/2026): 416 articles equal letter for letter, 17 changed only by later amendments, 0 split differently between two adjacent articles, 0 differ; whole text line by line: not compared (the copies are of different dates)
