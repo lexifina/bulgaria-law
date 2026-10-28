@@ -1,0 +1,19 @@
+{
+ "country": "BG",
+ "acts": [
+  {
+   "slug": "konstitutsiya",
+   "short": "КРБ",
+   "title": "Конституция на Република България",
+   "url": "https://www.parliament.bg/bg/const",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 192,
+     "source_url": "https://www.parliament.bg/api/v1/nav/bg/const",
+     "sha256": "0547082a0b2159e287e5dd3bdb80346081f5a5badda3b81c1be76e5ea32a1198"
+    }
+   ]
+  }
+ ]
+}
