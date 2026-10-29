@@ -1,0 +1,37 @@
+{
+ "country": "BG",
+ "acts": [
+  {
+   "slug": "konstitutsiya",
+   "short": "КРБ",
+   "title": "Конституция на Република България",
+   "url": "https://www.parliament.bg/bg/const",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 187,
+     "source_url": "https://web.archive.org/web/20101222212318id_/http://parliament.bg/bg/const/",
+     "sha256": "d7e6d6a1d28f7c14ef479877917959956002dccc1c2b84b1f5cf48c0fe313f2c"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 190,
+     "source_url": "https://web.archive.org/web/20160125101631id_/http://www.parliament.bg/bg/const/",
+     "sha256": "475075245b7c8b4bba9a3413af1f1a0ff76b79d84a31ef8e20d6db2288e7f76b"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 192,
+     "source_url": "https://www.parliament.bg/api/v1/nav/bg/const",
+     "sha256": "0547082a0b2159e287e5dd3bdb80346081f5a5badda3b81c1be76e5ea32a1198"
+    },
+    {
+     "from": "2024-08-09",
+     "units": 192,
+     "source_url": "https://www.parliament.bg/api/v1/nav/bg/const",
+     "sha256": "0547082a0b2159e287e5dd3bdb80346081f5a5badda3b81c1be76e5ea32a1198"
+    }
+   ]
+  }
+ ]
+}
