@@ -1,0 +1,403 @@
+{
+ "listing": "https://web.archive.org/cdx/search/cdx?url=parliament.bg/bg/const&output=json&matchType=prefix&fl=timestamp,original,mimetype,statuscode,digest,length&filter=statuscode:200&collapse=digest",
+ "html_captures": 314,
+ "read": 48,
+ "captures": [
+  {
+   "timestamp": "20101222212318",
+   "url": "http://parliament.bg/bg/const/",
+   "bytes": 156514,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "d7e6d6a1d28f7c14ef479877917959956002dccc1c2b84b1f5cf48c0fe313f2c"
+  },
+  {
+   "timestamp": "20110416024704",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 157761,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "6533e94f5a0beba335ad09cae79be4092c2af2740b5aec96d91a76d03f101b26"
+  },
+  {
+   "timestamp": "20110711060054",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 158030,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "dae9baa5851c2eccc3cb7896b8791908dab5a4f3ee2bc8d6d82d30fceadcd7b9"
+  },
+  {
+   "timestamp": "20111005220349",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 158176,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "e8fd87b8bda4086d831acdb031f7bca802b1302db7c985a70091d079b23e0518"
+  },
+  {
+   "timestamp": "20120105114313",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 158425,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "c27f86c4617a4124fe9647048f43737ba16b6b4227328237467f1450156b75bd"
+  },
+  {
+   "timestamp": "20120414160245",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 158297,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "27d66af8544b3b8023034e6471ead00663f5a02d2a98cc67d46ee42cb17c7cef"
+  },
+  {
+   "timestamp": "20120710090334",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 158178,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "aeb96fe86c4da8dc39ef8d836690afdd4063fe3428ee4ddef035a08eb95d9e7e"
+  },
+  {
+   "timestamp": "20121001042230",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 158142,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "614fc780297b4a6488629e5d820796b2829cdfd8c949b89ebc6669e791a5f524"
+  },
+  {
+   "timestamp": "20130115194406",
+   "url": "http://www.parliament.bg/bg/const",
+   "bytes": 158604,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "2abd53d5bb5227702a200c918cd3e81f472697f4f4caccdd33ad92a96516f04c"
+  },
+  {
+   "timestamp": "20130413093146",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 157972,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "5da476a2bb4f60b59d638556088eb5bc4bac57252822057dbe1e63e87570e53e"
+  },
+  {
+   "timestamp": "20130730124002",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 158492,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "bd16386ade2eaf8ea355ec5a26fb883451de16f75668f4db9e26c5ead08eea55"
+  },
+  {
+   "timestamp": "20131005091649",
+   "url": "http://www.parliament.bg/bg/const",
+   "bytes": 159047,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "a96e8ed3d5487686378f8eca5468083aba162efdc76f3a91e9929ad49404eea3"
+  },
+  {
+   "timestamp": "20140207234321",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 157353,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "9f11a374bea289eaee4ab7cfd1e1fee90b102d71678e2e94ef0eb0a8ed6105ba"
+  },
+  {
+   "timestamp": "20140625112439",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 157399,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "17b57be4adce1fd846371edb8856973dccfbf02fa4e43cb269c202576bf4a9ea"
+  },
+  {
+   "timestamp": "20140819230956",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 157355,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "2f9e501a2584a1e72879ab22ac67b1b43f5d1b8377ac16830baf7edd382e9352"
+  },
+  {
+   "timestamp": "20141023105410",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 156371,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "cce491e21dbdc0ab7f5dca35e7872b0318db6c5e88e4fd32214159c728cb6be4"
+  },
+  {
+   "timestamp": "20150206154005",
+   "url": "http://parliament.bg:80/bg/const",
+   "bytes": 157257,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "2e10d694bee83bd193994c8be49fc2d6e9ab22ed61090210d73eb229235a6871"
+  },
+  {
+   "timestamp": "20150404013931",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 157656,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "3d5e88ee0ba17e91d64e53369f8a19bd904ec35c7c1672ad914fd52ba458f6c0"
+  },
+  {
+   "timestamp": "20150702043158",
+   "url": "http://www.parliament.bg/bg/const",
+   "bytes": 157532,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "99e627aa37cd8211c43d0abf0636766ee6666362dfb36dc627ffa7e7321f258e"
+  },
+  {
+   "timestamp": "20151005080551",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 158091,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "2a2238b817dae2d2fc4449408dc42ccc20169757666b1ef6206680067c7ba187"
+  },
+  {
+   "timestamp": "20160116213227",
+   "url": "http://www.parliament.bg/bg/const",
+   "bytes": 158407,
+   "complete": true,
+   "text": "617b88c82579d013",
+   "sha256": "4d21f92f1050f964379f976dab1853e6d7b999c6c2f8dcd31a856c4dac3c65ba"
+  },
+  {
+   "timestamp": "20160125101631",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 165957,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "475075245b7c8b4bba9a3413af1f1a0ff76b79d84a31ef8e20d6db2288e7f76b"
+  },
+  {
+   "timestamp": "20160210221148",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 165957,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "6ecae4b6ee8d143404d8669a82715e2a93d283e3bbdc023eef9fc4f484dea0d0"
+  },
+  {
+   "timestamp": "20160304053612",
+   "url": "http://www.parliament.bg/bg/const",
+   "bytes": 165772,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "1329a52a6b4af9fe45bc992c16ce9d830c6ac5d3fc9afbb38e3ced8945467913"
+  },
+  {
+   "timestamp": "20160401114657",
+   "url": "http://parliament.bg/bg/const/",
+   "bytes": 165724,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "90a81039c9d90a0f5d01f460fed5d97965fb45b59eafd0fe56bdf31d241aeb7e"
+  },
+  {
+   "timestamp": "20160710164722",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 165394,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "c041935e33452e6ba0c55a0e866d4716efe87f6269f4bd2bdf3144c6c08ab3c1"
+  },
+  {
+   "timestamp": "20161010211858",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 165026,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "ffe174bd3e860723c9419330deb998b5efa2703f2b54ae33adc53436a46dd8af"
+  },
+  {
+   "timestamp": "20170107012726",
+   "url": "http://parliament.bg:80/bg/const",
+   "bytes": 164974,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "6f6b68044dd84ca2eb53113854e932ea2f487fc8feb027f818453292597ba76c"
+  },
+  {
+   "timestamp": "20170507191409",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 164504,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "f1be56f7c0bf56cca1fda2658077df2fc8c7672b954bb7ff5ab8147578b205af"
+  },
+  {
+   "timestamp": "20170708120710",
+   "url": "http://www.parliament.bg:80/bg/const/",
+   "bytes": 167951,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "c844e6adc6472b0e3d888ef388ee2724868c75f9e76998cebd8a5715a9804820"
+  },
+  {
+   "timestamp": "20171005235620",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 168239,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "01be24088315ff421f4c574161e73eb9d1708358417ccf99b4b5048623f433c3"
+  },
+  {
+   "timestamp": "20180116134503",
+   "url": "http://parliament.bg:80/bg/const",
+   "bytes": 167405,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "e726861a4f5b611115bd53b32469c55dddd9d59f2243c0208df15ff00157ce4d"
+  },
+  {
+   "timestamp": "20180401065826",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 168044,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "1f232d05e2caa3904f335674a37df78fefba7bdab14832e341102e3a3cbbcc45"
+  },
+  {
+   "timestamp": "20180709033713",
+   "url": "http://parliament.bg:80/bg/const",
+   "bytes": 167906,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "6122d74f6cb8bd7ad3f0c940b0f7037f6be7c765a242f338e9ae2e9949f36ddc"
+  },
+  {
+   "timestamp": "20181006235354",
+   "url": "http://www.parliament.bg/bg/const/",
+   "bytes": 167925,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "e419fc064609bf8dc40fca7bb1aec1e6cef73254b4578916f8be03ba9617561a"
+  },
+  {
+   "timestamp": "20190323000929",
+   "url": "https://www.parliament.bg/bg/const/",
+   "bytes": 168340,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "9580c4f8d9175d2d3e62a93fbe72d5f0909e64f1c9d1f84ec9d634d4d5bb0301"
+  },
+  {
+   "timestamp": "20190413124657",
+   "url": "http://parliament.bg/bg/const",
+   "bytes": 167969,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "9ddc6dc433e1510f7dba32fe4178af3240fb23764fab2bbd4fb708ccd00ade2b"
+  },
+  {
+   "timestamp": "20190722083236",
+   "url": "https://www.parliament.bg/bg/const/",
+   "bytes": 168223,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "22dd802a47a4aef4b90a6f76cfe10b7b648b01355d422ae4d0bad2e56a775b4c"
+  },
+  {
+   "timestamp": "20191007041807",
+   "url": "http://www.parliament.bg:80/bg/const",
+   "bytes": 168322,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "b5d1d2ebac9507e5a7ec6d09b9e77727dc78d78efbbd6e56c18a83c558607776"
+  },
+  {
+   "timestamp": "20200120131020",
+   "url": "https://www.parliament.bg/bg/const",
+   "bytes": 169710,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "382d64d705918992dafa85b0a0abbcd8277064fc5035f745fee32978937d1d94"
+  },
+  {
+   "timestamp": "20200403045305",
+   "url": "https://www.parliament.bg/bg/const",
+   "bytes": 169683,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "a96ee7fed2ff06a8df4cdb43bafee7e9eacab0272f2483f71e5c3e90e3d25183"
+  },
+  {
+   "timestamp": "20200805222842",
+   "url": "https://www.parliament.bg/bg/const",
+   "bytes": 170779,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "d66f89f4b61255fbb6ddc474be95e81a3e9b7a7a79ee3646fc7b506d9d102847"
+  },
+  {
+   "timestamp": "20201101020039",
+   "url": "https://www.parliament.bg/bg/const",
+   "bytes": 170453,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "6639a8721ab29661a91813728ceff42468609d6937d03f2e60951cac8bf3997f"
+  },
+  {
+   "timestamp": "20210120074943",
+   "url": "https://parliament.bg/bg/const/",
+   "bytes": 170957,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "5095d124d69c97ebcaa2eed3252daeeab69b0cbba3ffa1f0c4ed93a67e9f6884"
+  },
+  {
+   "timestamp": "20210411042537",
+   "url": "https://www.parliament.bg/bg/const/",
+   "bytes": 170294,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "b743f4b586bee43b95d7f55fe9b18acbbfb49e65fdf293d447bf60d477f7bee0"
+  },
+  {
+   "timestamp": "20210506181858",
+   "url": "https://www.parliament.bg/bg/const/",
+   "bytes": 169274,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "sha256": "5d80965be9cc780cd1ce4951f47b00e90b810458e1de4981f3c74cfc8616cdeb"
+  },
+  {
+   "timestamp": "20210629185623",
+   "url": "https://www.parliament.bg/api/v1/nav/bg/const",
+   "bytes": 394232,
+   "complete": true,
+   "text": "404e4dde939fbfe0",
+   "api": true,
+   "sha256": "11613461645c74fe81d58de88b73dfc3fb21866745135a355995144034f7cbf7"
+  },
+  {
+   "timestamp": "20250820045413",
+   "url": "https://www.parliament.bg/api/v1/nav/bg/const",
+   "bytes": 412532,
+   "complete": true,
+   "text": "005b69e2c2ec3784",
+   "api": true,
+   "sha256": "0547082a0b2159e287e5dd3bdb80346081f5a5badda3b81c1be76e5ea32a1198"
+  }
+ ],
+ "picks": [
+  [
+   "20101222212318",
+   "http://parliament.bg/bg/const/"
+  ],
+  [
+   "20160125101631",
+   "http://www.parliament.bg/bg/const/"
+  ]
+ ]
+}

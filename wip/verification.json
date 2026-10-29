@@ -7,6 +7,13 @@
   "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
-  "versions": 1
+  "versions": 4
+ },
+ "rebuild": {
+  "commits": 5,
+  "history_tip": "7373266390da7711cca7619f012faa29f5dfc566",
+  "identical": true,
+  "main_identical": true,
+  "tags": 7
  }
 }

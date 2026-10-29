@@ -1,0 +1,20 @@
+The legal text in this repository is the official text of the Конституция на Република България (Constitution of
+the Republic of Bulgaria), as published by the Народно събрание на Република България (National Assembly of the
+Republic of Bulgaria) in its consolidated text at https://www.parliament.bg/bg/const. Source of the text and of
+every date and reference: the National Assembly of the Republic of Bulgaria and the Държавен вестник (State Gazette).
+
+Official legal texts are not subject to copyright in Bulgaria (Закон за авторското право и сродните му права,
+чл. 4, т. 1). Lexifina makes no claim to the legal text.
+
+Changes made by Lexifina: the text was split into one Markdown file per provision, one paragraph per line; HTML
+markup was removed and spacing, quotes and dashes were normalised. The wording of the law and the National
+Assembly's amendment notes were not changed. The National Assembly does not endorse this repository.
+
+This repository is not an official publication. Only the texts published by the National Assembly and in the State
+Gazette are authoritative.
+
+Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+To the extent possible under law, Lexifina has waived all copyright and related or neighbouring rights to this work.

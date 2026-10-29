@@ -4,7 +4,7 @@
   "name": "Bulgaria",
   "level": "country",
   "repo": "https://github.com/lexifina/bulgaria-law",
-  "build": "current-text",
+  "build": "built: Конституция 2008-2024 (4 versions: oldest available 2008-01-01 from a 2010 Internet Archive capture, ДВ бр. 100/2015, бр. 106/2023, КС Решение № 13/2024)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
