@@ -26,7 +26,107 @@
    "notes": "Header of the text: (Обн., ДВ, бр. 56 от 13.07.1991 г., в сила от 13.07.1991 г., изм. и доп., бр. 85 от 26.09.2003 г., изм. и доп., бр.18 от 25.02.2005 г., изм. и доп., бр. 27 от 31.03.2006 г., бр.78 от 26.09.2006 г. - Решение № 7 на Конституционния съд от 2006 г., изм. и доп. бр. 12 от 6.02.2007 г., изм. и доп. бр.100 от 18 .12.2015 г, изм. и доп. бр. 106 от 22.12.2023 г., бр.66 от 06.08.2024 г. - Решение № 13 на Конституционния съд от 2024 г.)"
   }
  ],
- "laws": {},
+ "laws": {
+  "dv-1991-56": {
+   "label": "ДВ бр. 56/1991",
+   "title": "Конституция на Република България",
+   "kind": "law",
+   "enacted": null,
+   "published": "1991-07-13",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2003-85": {
+   "label": "ДВ бр. 85/2003",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2003-09-26",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2005-18": {
+   "label": "ДВ бр. 18/2005",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2005-02-25",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2006-27": {
+   "label": "ДВ бр. 27/2006",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2006-03-31",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2006-78": {
+   "label": "ДВ бр. 78/2006",
+   "title": "Решение № 7 на КС от 2006 г.",
+   "kind": "court",
+   "enacted": null,
+   "published": "2006-09-26",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2007-12": {
+   "label": "ДВ бр. 12/2007",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2007-02-06",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2015-100": {
+   "label": "ДВ бр. 100/2015",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2015-12-18",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2023-106": {
+   "label": "ДВ бр. 106/2023",
+   "title": "ЗИД на Конституцията",
+   "kind": "law",
+   "enacted": null,
+   "published": "2023-12-22",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "dv-2024-66": {
+   "label": "ДВ бр. 66/2024",
+   "title": "Решение № 13 на КС от 2024 г.",
+   "kind": "court",
+   "enacted": null,
+   "published": "2024-08-06",
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
  "acts": [
   {
    "slug": "konstitutsiya",
@@ -35,15 +135,15 @@
    "url": "https://www.parliament.bg/bg/const",
    "first_law": null,
    "earlier_laws": [
-    "ДВ бр. 56/1991 (обнародване)",
-    "ДВ бр. 85/2003",
-    "ДВ бр. 18/2005",
-    "ДВ бр. 27/2006",
-    "ДВ бр. 78/2006 (Решение № 7 на КС)",
-    "ДВ бр. 12/2007",
-    "ДВ бр. 100/2015",
-    "ДВ бр. 106/2023",
-    "ДВ бр. 66/2024 (Решение № 13 на КС)"
+    "dv-1991-56",
+    "dv-2003-85",
+    "dv-2005-18",
+    "dv-2006-27",
+    "dv-2006-78",
+    "dv-2007-12",
+    "dv-2015-100",
+    "dv-2023-106",
+    "dv-2024-66"
    ],
    "versions": [
     {
