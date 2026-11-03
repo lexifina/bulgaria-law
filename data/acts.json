@@ -5935,23 +5935,6 @@
 "portal": "https://www.parliament.bg/bg/laws/ID/14088"
 },
 {
-"slug": "zakon-2012-dv102-14103",
-"path": "zakon/2012/dv102-14103",
-"kind": "zakon",
-"year": "2012",
-"number": "dv102-14103",
-"withdrawn_by": null,
-"reason": null,
-"title": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
-"short": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2012-12-24",
-"latest": "2012-12-24",
-"portal": "https://www.parliament.bg/bg/laws/ID/14103"
-},
-{
 "slug": "zakon-2012-dv102-14173",
 "path": "zakon/2012/dv102-14173",
 "kind": "zakon",
@@ -6171,6 +6154,23 @@
 "from": "2013-01-01",
 "latest": "2013-01-01",
 "portal": "https://www.parliament.bg/bg/laws/ID/14170"
+},
+{
+"slug": "zakon-2012-dv102-14103",
+"path": "zakon/2012/dv102-14103",
+"kind": "zakon",
+"year": "2012",
+"number": "dv102-14103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
+"short": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2012-12-24",
+"latest": "2012-12-24",
+"portal": "https://www.parliament.bg/bg/laws/ID/14103"
 },
 {
 "slug": "zakon-2013-dv014-14229",
@@ -9862,23 +9862,6 @@
 "portal": "https://www.parliament.bg/bg/laws/ID/15425"
 },
 {
-"slug": "zakon-2015-dv101-15447",
-"path": "zakon/2015/dv101-15447",
-"kind": "zakon",
-"year": "2015",
-"number": "dv101-15447",
-"withdrawn_by": null,
-"reason": null,
-"title": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
-"short": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2015-12-22",
-"latest": "2015-12-22",
-"portal": "https://www.parliament.bg/bg/laws/ID/15447"
-},
-{
 "slug": "zakon-2015-dv101-15453",
 "path": "zakon/2015/dv101-15453",
 "kind": "zakon",
@@ -9962,6 +9945,23 @@
 "from": "2015-08-10",
 "latest": "2015-08-10",
 "portal": "https://www.parliament.bg/bg/laws/ID/15410"
+},
+{
+"slug": "zakon-2015-dv101-15447",
+"path": "zakon/2015/dv101-15447",
+"kind": "zakon",
+"year": "2015",
+"number": "dv101-15447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
+"short": "Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2015-12-22",
+"latest": "2015-12-22",
+"portal": "https://www.parliament.bg/bg/laws/ID/15447"
 },
 {
 "slug": "zakon-2016-dv008-15427",
@@ -11475,6 +11475,23 @@
 "from": "2016-09-30",
 "latest": "2016-09-30",
 "portal": "https://www.parliament.bg/bg/laws/ID/52981"
+},
+{
+"slug": "zakon-2016-dv076-60316",
+"path": "zakon/2016/dv076-60316",
+"kind": "zakon",
+"year": "2016",
+"number": "dv076-60316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за предоставяне на помощ за изплащане на задължения на \"Национална електрическа компания\" - ЕАД",
+"short": "Закон за предоставяне на помощ за изплащане на задължения на \"Национална електрическа компания\" - ЕАД",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-10-03",
+"latest": "2016-10-03",
+"portal": "https://www.parliament.bg/bg/laws/ID/60316"
 },
 {
 "slug": "zakon-2016-dv079-42663",
