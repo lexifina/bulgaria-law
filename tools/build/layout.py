@@ -19,8 +19,8 @@ KIND_NAMES = {'konstitutsiya': 'Конституция (Constitution)', 'kodeks'
 KIND_ORDER = list(KIND_NAMES)
 SLUG_RE = re.compile(r'^(kodeks|zakon|reshenie|deklaratsiya)-(\d{4})-dv(\d{3})-(\d+)$')
 FIXED = {'konstitutsiya': 'konstitutsiya'}
-AMENDING = re.compile(r'за\s+(?:изменение|допълнение|отмяна)', re.I)
-CODE_NAME = re.compile(r'^(Кодекс.*|.*кодекс)$', re.I)
+AMENDING = re.compile(r'\bза\s+(?:изменение|допълнение|отмяна)\b', re.I)
+CODE_NAME = re.compile(r'^(Кодекс\b.*|.*\bкодекс)$', re.I)
 
 
 def act_path(slug: str, title: str = '') -> str:
