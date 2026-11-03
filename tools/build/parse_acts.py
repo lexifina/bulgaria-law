@@ -30,6 +30,7 @@ import html
 import json
 import re
 import sys
+import time
 from collections import defaultdict
 from datetime import date, timedelta
 from pathlib import Path
@@ -321,6 +322,7 @@ def main():
     ap.add_argument("--retrieved", required=True, help="the day the inputs were retrieved (YYYY-MM-DD)")
     ap.add_argument("--contested", help="the Constitutional Court's list of contested acts (constcourt.bg/bg/contested-acts)")
     ap.add_argument("--eurlex", help="CSV num,date,name: Gazette issue dates from the EU's national-measures records")
+    ap.add_argument("--cache", help="file caching each input file's citations by size and mtime (speeds up re-runs)")
     ap.add_argument("--rejects", help="JSON {act id: reason}: acts held back by hand or by a failed read-back check")
     a = ap.parse_args()
     src = Path(a.src)
@@ -347,8 +349,30 @@ def main():
     for i, r in laws.items():
         per_issue[(int(r["L_Act_dv_iss"]), int(r["L_Act_dv_year"]))] += 1
 
-    def note_cites(text: str, own: tuple[int, int], who: str):
-        for subj, n, y in citations(text):
+    # The citations found in each input file are cached by the file's size and modification time (--cache): a run
+    # then reads only files that are new or changed. The cache holds only what citations() returns for the file.
+    cache_path = Path(a.cache) if a.cache else None
+    cache: dict = {}
+    if cache_path and cache_path.exists():
+        try:
+            cache = json.loads(cache_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            cache = {}
+    fresh: dict = {}
+
+    def cites_of(f: Path, read_text) -> set:
+        st = f.stat()
+        sig = f"{st.st_size}:{st.st_mtime_ns}"
+        hit = cache.get(str(f))
+        if hit and hit[0] == sig:
+            fresh[str(f)] = hit
+            return {tuple(x) for x in hit[1]}
+        found = citations(read_text())
+        fresh[str(f)] = [sig, sorted(list(x) for x in found)]
+        return found
+
+    def note_cites(found: set, own: tuple[int, int], who: str):
+        for subj, n, y in found:
             if (n, y) != own:
                 cited_by[(n, y)][subj].add(who)
 
@@ -356,14 +380,19 @@ def main():
         if not (r.get("final_len") and r.get("L_Act_dv_iss") and str(r["L_Act_dv_iss"]).isdigit()):
             continue
         own = (int(r["L_Act_dv_iss"]), int(r["L_Act_dv_year"]))
-        _, d = body(i)
-        note_cites(norm(re.sub(r"<[^>]+>", " ", d.get("L_ActL_final_body") or "")), own, f"na:{i}")
+        f = src / "raw" / str(i // 1000) / f"{i}.json.gz"
+        note_cites(cites_of(f, lambda: norm(re.sub(r"<[^>]+>", " ", body(i)[1].get("L_ActL_final_body") or ""))),
+                   own, f"na:{i}")
         m = TARGET.search(norm(r.get("L_ActL_final") or ""))
         if m:
             titles_named[subj_norm(m.group(1))].add(i)
     for own, f in dv_texts:
-        t = norm(re.sub(r"<[^>]+>", " ", gzip.decompress(f.read_bytes()).decode("utf-8", "replace")))
-        note_cites(t, own, f"dv:{f.name.split('.')[0]}")
+        note_cites(cites_of(f, lambda: norm(re.sub(r"<[^>]+>", " ", gzip.decompress(f.read_bytes()).decode("utf-8", "replace")))),
+                   own, f"dv:{f.name.split('.')[0]}")
+    if cache_path:
+        tmp = cache_path.with_suffix(".tmp")
+        tmp.write_text(json.dumps(fresh, ensure_ascii=False), encoding="utf-8")
+        tmp.replace(cache_path)
 
     parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
@@ -445,9 +474,25 @@ def main():
             "it as amended or repealed; the others are held back until their later versions are built."]
         p["ai_use"] = ["none"]
         f = PARTS / f"40-zakoni-{year}.json"
-        tmp = f.with_suffix(".tmp")
-        tmp.write_text(json.dumps(p, ensure_ascii=False, indent=1, sort_keys=False) + "\n", encoding="utf-8", newline="\n")
-        tmp.replace(f)
+        data = (json.dumps(p, ensure_ascii=False, indent=1, sort_keys=False) + "\n").encode("utf-8")
+        # Rewrite a part only when it changed (readers may hold it open; Windows refuses to replace an open file).
+        if not (f.exists() and f.read_bytes() == data):
+            tmp = f.with_suffix(".tmp")
+            tmp.write_bytes(data)
+            for attempt in range(10):
+                try:
+                    tmp.replace(f)
+                    break
+                except PermissionError:
+                    if attempt == 9:
+                        raise
+                    time.sleep(1)
+        # Every part this parser writes has passed its checks: mark it for publishing.
+        pub = f.with_suffix(".PUBLISH")
+        if not pub.exists():
+            pub.write_text("Parsed by parse_acts.py from the National Assembly's final adopted text; one version, as "
+                           "published; acts cited by a later text or named as amended are held back.\n",
+                           encoding="utf-8", newline="\n")
         written.append((f.name, len(p["acts"])))
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
