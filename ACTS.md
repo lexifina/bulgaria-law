@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1327 acts, 1,330 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1328 acts, 1,331 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -14,7 +14,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Конституция на Република България | [`konstitutsiya/`](konstitutsiya/) | in force | 4 | 2008-01-01 | 2024-08-09 |
 
-## zakon (1326, of which 904 amending acts)
+## zakon (1327, of which 905 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -697,6 +697,7 @@
 | Закон за ратифициране на Споразумението за нивото на обслужване между Европейската комисия, представена от генералния директор на Генерална дирекция "Здравеопазване и безопасност на храните" Ксавие Пратс Монне, от една страна, и Република България, представена от директора на Института по тютюна и тютюневите изделия Мария Къшева, от друга страна, за съхранение на данни за тютюневите изделия, нови тютюневи изделия и растителни изделия за пушене и на Споразумението за нивото на обслужване между Европейската комисия, представена от генералния директор на Генерална дирекция "Здравеопазване и безопасност на храните" Ксавие Пратс Монне, от една страна, и Република България, представена от министъра на икономиката Божидар Лукарски, от друга страна, за съхранение на данни за електронните цигари и контейнерите за многократно пълнене | [`zakon/2016/dv079-47392/`](zakon/2016/dv079-47392/) | in force | 1 | 2016-10-10 | 2016-10-10 |
 | Закон за ограничаване носенето на облекло, прикриващо или скриващо лицето | [`zakon/2016/dv080-42106/`](zakon/2016/dv080-42106/) | in force | 1 | 2016-10-14 | 2016-10-14 |
 | Закон за изменение и допълнение на Закона за военната полиция | [`zakon/2016/dv086-42240/`](zakon/2016/dv086-42240/) | amending act | 1 | 2016-11-04 | 2016-11-04 |
+| Закон за ратифициране на Споразумението от Париж към Рамковата конвенция на Обединените нации по изменение на климата и за приемане на декларация по чл. 9, параграф 1 от споразумението | [`zakon/2016/dv086-62040/`](zakon/2016/dv086-62040/) | amending act | 1 | 2016-11-04 | 2016-11-04 |
 | Закон за изменение и допълнение на Закона за данък върху добавената стойност | [`zakon/2016/dv088-42082/`](zakon/2016/dv088-42082/) | amending act | 1 | 2016-11-11 | 2016-11-11 |
 | Закон за изменение и допълнение на Закона за насърчаване на заетостта | [`zakon/2016/dv088-42659/`](zakon/2016/dv088-42659/) | amending act | 1 | 2016-11-11 | 2016-11-11 |
 | Закон за изменение и допълнение на Закона за отнемане в полза на държавата на незаконно придобито имущество | [`zakon/2016/dv103-15412/`](zakon/2016/dv103-15412/) | amending act | 1 | 2016-12-30 | 2016-12-30 |
