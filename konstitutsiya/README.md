@@ -196,3 +196,5 @@
 | ЗАКОН ЗА ИЗМЕНЕНИЕ И ДОПЪЛНЕНИЕ НА КОНСТИТУЦИЯТА НА РЕПУБЛИКА БЪЛГАРИЯ | [prehodni-04.md](prehodni-04.md) | 0 |  |
 | ЗАКОН ЗА ИЗМЕНЕНИЕ И ДОПЪЛНЕНИЕ НА КОНСТИТУЦИЯТА НА РЕПУБЛИКА БЪЛГАРИЯ | [prehodni-05.md](prehodni-05.md) | 1 | 2015-12-21 |
 | ЗАКОН ЗА ИЗМЕНЕНИЕ И ДОПЪЛНЕНИЕ НА КОНСТИТУЦИЯТА НА РЕПУБЛИКА БЪЛГАРИЯ | [prehodni-06.md](prehodni-06.md) | 1 | 2023-12-25 |
+
+Act id: `konstitutsiya` (tags `konstitutsiya/<day>`; `python tools/on.py <day> konstitutsiya`).

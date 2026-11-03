@@ -3,6 +3,19 @@
 "since": "2026-11-03",
 "note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
 "paths": {
-"konstitutsiya": "konstitutsiya"
+"konstitutsiya": "konstitutsiya",
+"zakon-2026-dv069-167459": "zakon/2026/dv069-167459",
+"zakon-2026-dv070-167196": "zakon/2026/dv070-167196",
+"zakon-2026-dv071-167202": "zakon/2026/dv071-167202",
+"zakon-2026-dv071-167207": "zakon/2026/dv071-167207",
+"zakon-2026-dv071-167208": "zakon/2026/dv071-167208",
+"zakon-2026-dv085-167468": "zakon/2026/dv085-167468",
+"zakon-2026-dv085-167512": "zakon/2026/dv085-167512",
+"zakon-2026-dv088-167516": "zakon/2026/dv088-167516",
+"zakon-2026-dv088-167520": "zakon/2026/dv088-167520",
+"zakon-2026-dv092-167503": "zakon/2026/dv092-167503",
+"zakon-2026-dv092-167518": "zakon/2026/dv092-167518",
+"zakon-2026-dv092-167535": "zakon/2026/dv092-167535",
+"zakon-2026-dv092-167549": "zakon/2026/dv092-167549"
 }
 }

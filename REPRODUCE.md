@@ -1,13 +1,15 @@
 # How this repository was made (Bulgaria)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Народно събрание: Конституция на Република България (consolidated text, API) | <https://www.parliament.bg/api/v1/nav/bg/const> | 2026-10-29 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Internet Archive (Wayback Machine): captures of parliament.bg/bg/const | <https://web.archive.org/web/*/parliament.bg/bg/const*> | 2026-10-29 | The captured pages are the National Assembly's official text (not subject to copyright, ЗАПСП чл. 4, т. 1). |
+| Internet Archive (Wayback Machine): captures of parliament.bg/bg/const | <https://web.archive.org/web/*/parliament.bg/bg/const*> | 2026-10-29 | The captured pages are the National Assembly's official text (not subject to copyright, ЗАПСП чл. 4, т. 1) |
+| Народно събрание: приети закони (parliament.bg, окончателен текст) | <https://www.parliament.bg/bg/laws> | 2026-11-03 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive) | <https://dv.parliament.bg/DVWeb/> | 2026-11-03 | Official publication |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -15,21 +17,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `konstitutsiya` | Конституция на Република България | 4 | 2008-01-01 to 2024-08-09 |
+| 14 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 17 | |
 
-The build made 5 commits:
+The build made 18 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1 | first version of an act |
+| 14 | first version of an act |
 | 3 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `badeshte`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `badeshte`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 9 laws in the record.
-- 7 tags.
+- 22 laws in the record.
+- 33 tags.
 
 ## Dates
 
@@ -39,45 +41,21 @@ When a law gives no date of its own, the default rule applies: Конститу�
 
 ## How the history is built
 
-`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+`tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `7fc2e0ee790874cd8728d5249d98deb0323b6ee53d7d90d3e367b18c94e41715` (624309 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `8e57c7cdc76ad850ffe5c72b439bcc846c76536038c47a9c4f71f5f48ff23f58` (782010 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-4 versions of 1 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Constitution: built from the National Assembly's own consolidated text: today's from parliament.bg, earlier ones from Internet Archive captures of the old parliament.bg/bg/const page (2010 to May 2021), one capture per distinct text. lex.bg is a private service, so it was not used.
-- Every source is read the same way, so a site redesign that changes no words gives identical provisions.
-- No capture is older than 2010-12-22, so the 1991 text and the versions of 2003-2007 are not built: the oldest version is credited to the publisher as the oldest version available and names the earlier events.
-- In-force days: promulgation in the Държавен вестник + 3 days (Constitution чл. 5, ал. 5; for Constitutional Court decisions чл. 151, ал. 2), unless the event sets its own day: dv-1991-56: 1991-07-13 (the header: "в сила от 13.07.1991 г."; § 9 of the Constitution: in force from the day of its promulgation); dv-2003-85: 2004-01-01 (§ 7 of the 2003 law: "Параграф 1, т. 3 влиза в сила от 1 януари 2004 г." (the note on чл. 129: "в сила от 01.01.2004 г.")); dv-2005-18: 2007-01-01 (§ 7 of the 2005 law: § 2 in force from the entry into force of the EU Accession Treaty (the note on чл. 22: "в сила от 01.01.2007 г.")); dv-2007-12: 2008-01-01 (§ 13 of the 2007 law: "Параграфи 1 и 2 влизат в сила от 1 януари 2008 г." (the notes on чл. 9 and чл. 59: "в сила от 01.01.2008 г.")).
-- A version holding an event with later-starting parts is dated by the last of those days (the oldest version: 2008-01-01, ДВ бр. 12/2007 § 13).
-- Credits: a changed provision is credited to a new event only where its own amendment note names that event's gazette issue ("бр. N от YYYY"); any other change is committed by the publisher as unexplained.
-- The Internet Archive holds no copy of the text between the 2023 amendment (ДВ бр. 106/2023, in force 2023-12-25) and Constitutional Court Decision № 13/2024 (ДВ бр. 66/2024, in force 2024-08-09): the old page ends in May 2021 and the current page was captured only on 2021-06-29 and 2025-08-20. The 2023-12-25 version is today's text with the text-before-its-law rule applied to the provisions whose notes name the 2024 decision.
-- Five provisions differ between the 2016-2021 text and today's in ways no note explains (чл. 9 and 59: "в сила от 1 януари 2008 г." now "01.01.2008 г."; чл. 85, т. 8: "." now ";"; чл. 91а: the note joined to ал. 1; чл. 158, т. 5: "гл." now "глава"). The publisher made them after 2021-06-29 (the API captured then still has the old wording) and by 2025-08-20; they are committed as unexplained in the version of 2023-12-25, the first version built from today's text.
-- The source types the dash in some amendment notes as a stray control character (U+001F in the current text, U+00AD in the old page: чл. 22, 25, 150); it is read as "-".
-- Inline amendment notes such as '(Нова - ДВ, бр. 18 от 2005 г.)' are kept in the text as the source prints them.
-- Chapter and section headings are their own units, keyed just before the first article they precede.
-- Text before its law: in the version of 2023-12-25, art-023 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-084 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-091-02 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-099 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-110 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-126 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-129 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-130 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-130-01 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-130-02 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-130-03 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-132-01 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-133 reads the placeholder (its note names a later event); its wording arrives with that event.
-- Text before its law: in the version of 2023-12-25, art-150 reads the placeholder (its note names a later event); its wording arrives with that event.
+- Every act's decisions made by hand (29 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -88,4 +66,5 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none: the text is parsed by deterministic code; no model output is used as text or data.
+- none: Lexifina's code is deterministic code; no model output is used as text or data.
+- none
