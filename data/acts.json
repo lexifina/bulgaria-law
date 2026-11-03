@@ -12548,6 +12548,40 @@
 "portal": "https://www.parliament.bg/bg/laws/ID/67041"
 },
 {
+"slug": "zakon-2017-dv063-75326",
+"path": "zakon/2017/dv063-75326",
+"kind": "zakon",
+"year": "2017",
+"number": "dv063-75326",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Наказателно-процесуалния кодекс",
+"short": "Закон за изменение и допълнение на Наказателно-процесуалния кодекс",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-08-07",
+"latest": "2017-08-07",
+"portal": "https://www.parliament.bg/bg/laws/ID/75326"
+},
+{
+"slug": "zakon-2017-dv065-74902",
+"path": "zakon/2017/dv065-74902",
+"kind": "zakon",
+"year": "2017",
+"number": "dv065-74902",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Закона за съдебната власт",
+"short": "Закон за изменение и допълнение на Закона за съдебната власт",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-08-14",
+"latest": "2017-08-14",
+"portal": "https://www.parliament.bg/bg/laws/ID/74902"
+},
+{
 "slug": "zakon-2017-dv075-72721",
 "path": "zakon/2017/dv075-72721",
 "kind": "zakon",
@@ -12563,6 +12597,23 @@
 "from": "2017-09-15",
 "latest": "2017-09-15",
 "portal": "https://www.parliament.bg/bg/laws/ID/72721"
+},
+{
+"slug": "zakon-2017-dv075-75882",
+"path": "zakon/2017/dv075-75882",
+"kind": "zakon",
+"year": "2017",
+"number": "dv075-75882",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение на Закона за радиото и телевизията",
+"short": "Закон за изменение на Закона за радиото и телевизията",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-09-18",
+"latest": "2017-09-18",
+"portal": "https://www.parliament.bg/bg/laws/ID/75882"
 },
 {
 "slug": "zakon-2017-dv085-69685",
@@ -12597,6 +12648,23 @@
 "from": "2017-10-27",
 "latest": "2017-10-27",
 "portal": "https://www.parliament.bg/bg/laws/ID/71846"
+},
+{
+"slug": "zakon-2017-dv102-75410",
+"path": "zakon/2017/dv102-75410",
+"kind": "zakon",
+"year": "2017",
+"number": "dv102-75410",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Кодекса на труда",
+"short": "Закон за изменение и допълнение на Кодекса на труда",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-12-22",
+"latest": "2017-12-22",
+"portal": "https://www.parliament.bg/bg/laws/ID/75410"
 },
 {
 "slug": "zakon-2018-dv008-69571",
