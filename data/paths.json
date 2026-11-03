@@ -4,6 +4,10 @@
 "note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
 "paths": {
 "konstitutsiya": "konstitutsiya",
+"zakon-2026-dv067-167132": "zakon/2026/dv067-167132",
+"zakon-2026-dv067-167133": "zakon/2026/dv067-167133",
+"zakon-2026-dv068-167155": "zakon/2026/dv068-167155",
+"zakon-2026-dv068-167156": "zakon/2026/dv068-167156",
 "zakon-2026-dv069-167459": "zakon/2026/dv069-167459",
 "zakon-2026-dv070-167196": "zakon/2026/dv070-167196",
 "zakon-2026-dv071-167202": "zakon/2026/dv071-167202",
@@ -11,6 +15,7 @@
 "zakon-2026-dv071-167208": "zakon/2026/dv071-167208",
 "zakon-2026-dv085-167468": "zakon/2026/dv085-167468",
 "zakon-2026-dv085-167512": "zakon/2026/dv085-167512",
+"zakon-2026-dv088-167131": "zakon/2026/dv088-167131",
 "zakon-2026-dv088-167516": "zakon/2026/dv088-167516",
 "zakon-2026-dv088-167520": "zakon/2026/dv088-167520",
 "zakon-2026-dv092-167503": "zakon/2026/dv092-167503",
