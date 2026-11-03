@@ -22,6 +22,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive) | <https://dv.parliament.bg/DVWeb/> | 2026-11-03 | Official publication |
 | Народно събрание: приети закони (parliament.bg, окончателен текст) | <https://www.parliament.bg/bg/laws> | 2026-11-03 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 | Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive) | <https://dv.parliament.bg/DVWeb/> | 2026-11-03 | Official publication |
+| Народно събрание: приети закони (parliament.bg, окончателен текст) | <https://www.parliament.bg/bg/laws> | 2026-11-03 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive) | <https://dv.parliament.bg/DVWeb/> | 2026-11-03 | Official publication |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -29,21 +31,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 513 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 516 | |
+| 632 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 635 | |
 
-The build made 520 commits:
+The build made 639 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 516 | first version of an act |
+| 635 | first version of an act |
 | 3 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `badeshte`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 521 laws in the record.
-- 1037 tags.
+- 640 laws in the record.
+- 1275 tags.
 
 ## Dates
 
@@ -55,7 +57,7 @@ When a law gives no date of its own, the default rule applies: Конститу�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `08beafbea22596f0f4877466911d95a5d24b2b3a95273fa632322ea43c5b0b5a` (17244659 bytes).
+- Corpus: sha256 `528ebc2480a005377b3841fd9a698536b60d971bb87eee34b9ee94d0ad86fe90` (20384991 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -67,7 +69,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (53 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (57 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -79,6 +81,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: Lexifina's code is deterministic code; no model output is used as text or data.
+- none
 - none
 - none
 - none
