@@ -37,6 +37,10 @@ import build as B  # noqa: E402
 import check_repo as K  # noqa: E402
 import layout as L  # noqa: E402
 
+# Foreign-repo mode: a repository first built by another builder keeps its own README, REPRODUCE.md and tools;
+# this builder's documentation, indexes and tools then live under this prefix (e.g. 'registry/').
+DP = os.environ.get('GITLAW_DOCS_PREFIX', '')
+
 
 def git(repo: Path, *args: str) -> str:
     return B.git(repo, *args)
@@ -116,7 +120,7 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     """Acts main holds that this publish's corpus does not: withdrawn ones (a "Withdraws: <id>" trailer) and ones whose
     part is held back this cycle. Returns (index entries, their versions.json rows, recovered {id: folder})."""
     def versions_at(ref: str) -> dict[str, dict]:
-        out = subprocess.run(['git', 'show', f'{ref}:data/versions.json'], cwd=repo, capture_output=True, text=True,
+        out = subprocess.run(['git', 'show', f'{ref}:{DP}data/versions.json'], cwd=repo, capture_output=True, text=True,
                              encoding='utf-8')
         try:
             return {a['slug']: a for a in json.loads(out.stdout).get('acts', [])} if not out.returncode else {}
@@ -175,7 +179,7 @@ CREDIT_COLUMNS = ['act', 'in_force', 'provision', 'law', 'was_law', 'was_commit'
 
 def credit_ledger(repo: Path, ref: str) -> list[dict]:
     """data/credits.csv on ref: every credit corrected so far, oldest first ([] before the first)."""
-    out = subprocess.run(['git', 'show', f'{ref}:data/credits.csv'], cwd=repo, capture_output=True, text=True,
+    out = subprocess.run(['git', 'show', f'{ref}:{DP}data/credits.csv'], cwd=repo, capture_output=True, text=True,
                          encoding='utf-8')
     return list(csv.DictReader(io.StringIO(out.stdout))) if not out.returncode and out.stdout else []
 
@@ -327,7 +331,8 @@ def to_append(c: dict, state: dict[str, str], docs_date: str) -> tuple[dict, set
 
 
 def published_log(repo: Path) -> list[dict]:
-    text = git(repo, 'show', 'main:data/commits.csv')
+    text = subprocess.run(['git', 'show', f'main:{DP}data/commits.csv'], cwd=repo, capture_output=True, text=True,
+                          encoding='utf-8').stdout
     log = []
     for r in csv.DictReader(io.StringIO(text)):
         log.append({'day': r['day'], 'kind': r['kind'], 'law': r['law'] or None, 'acts': r['acts'].split(),
@@ -337,9 +342,9 @@ def published_log(repo: Path) -> list[dict]:
 
 def acts_index(c: dict) -> str:
     """ACTS.md: every act in the corpus, grouped by kind, with its version count and span (generated each publish)."""
-    groups = [('Конституция и кодекси (Constitution and codes)', lambda s: s.startswith(('konstitutsiya', 'kodeks-'))),
-              ('Закони (laws)', lambda s: s.startswith('zakon-')),
-              ('Решения на Народното събрание (decisions)', lambda s: s.startswith('reshenie-'))]
+    import os as _os
+    kinds = [k for k in _os.environ.get('GITLAW_LAYOUT_KINDS', '').split(',') if k]
+    groups = [(k, (lambda kk: (lambda s: s.startswith(kk + '-')))(k)) for k in kinds]
     acts = sorted(c['acts'], key=lambda a: a['slug'])
     seen: set[str] = set()
     out = ['# Every act in this repository', '',
@@ -414,9 +419,15 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     c['_docs_date'] = docs_date
     # After the layout move (data/paths.json on main), every act lives in its official-identifier folder; new acts
     # get theirs from the same rule. Before it, folders are slugs (act['path'] unset).
-    known_paths = L.paths_at(repo, 'main')
-    if known_paths:
+    if DP:
+        _pj = subprocess.run(['git', 'show', f'main:{DP}data/paths.json'], cwd=repo, capture_output=True, text=True,
+                             encoding='utf-8')
+        known_paths = json.loads(_pj.stdout).get('paths', {}) if not _pj.returncode and _pj.stdout else {}
         L.assign(c, known_paths)
+    else:
+        known_paths = L.paths_at(repo, 'main')
+        if known_paths:
+            L.assign(c, known_paths)
     if git(repo, 'status', '--porcelain', '--untracked-files=no').strip():
         raise B.CorpusError(f'{repo} has uncommitted changes; refusing')
     head = git(repo, 'rev-parse', 'main').strip()
@@ -508,7 +519,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         wr.writeheader()
         wr.writerows(ledger_rows)
         readme = f'{act.get("path") or s}/README.md'
-        files = {'data/credits.csv': buf.getvalue(), readme: B.tables({**c, 'acts': [act]}, [])[readme]}
+        files = {f'{DP}data/credits.csv': buf.getvalue(), readme: B.tables({**c, 'acts': [act]}, [])[readme]}
         lines = [f'- In force {r["in_force"]}, {r["provision"]}: {law_name(r["law"])} (was {law_name(r["was_law"])}).'
                  for r in rows_s]
         reason = B.public_note(approved[s]) or ''
@@ -580,8 +591,10 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     vj = json.loads(docs['data/versions.json'])
     vj['acts'] += [rows_for[a['slug']] for a in extra]  # kept, so the next publish still knows them
     docs['data/versions.json'] = json.dumps(vj, ensure_ascii=False, indent=1) + '\n'
-    if known_paths:
-        since = json.loads(git(repo, 'show', 'main:data/paths.json')).get('since', docs_date)
+    if known_paths or DP:
+        _sp = subprocess.run(['git', 'show', f'main:{DP}data/paths.json'], cwd=repo, capture_output=True, text=True,
+                             encoding='utf-8')
+        since = json.loads(_sp.stdout).get('since', docs_date) if not _sp.returncode and _sp.stdout else docs_date
         pj = json.loads(L.paths_json(index, since))
         # paths.json never drops a folder: an entry main has stays, whatever this corpus holds.
         for s, p in {**known_paths, **path_for}.items():
@@ -590,15 +603,19 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         pj['paths'] = dict(sorted(pj['paths'].items()))
         docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
     # Tools that moved or are no longer shipped (the old flat tools/ layout, tools/acts/) are removed, not left stale.
-    shipped_tools = {p for p in git(repo, 'ls-tree', '-r', '--name-only', 'main', 'tools/').splitlines() if p}
+    if DP:  # everything but the acts' own READMEs goes under the prefix; nothing outside it is touched
+        act_dirs = {(a.get('path') or a['slug']) for a in index['acts']}
+        docs = {(k if (k.endswith('/README.md') and k.rsplit('/', 1)[0] in act_dirs) else DP + k): v
+                for k, v in docs.items()}
+    shipped_tools = {p for p in git(repo, 'ls-tree', '-r', '--name-only', 'main', f'{DP}tools/').splitlines() if p}
     for p in shipped_tools - set(docs):
         docs[p] = None
     # One row per append batch: which head it started from, its first committer time, its commit count and its acts.
-    prev_log = subprocess.run(['git', 'show', f'{head}:data/appends.csv'], cwd=repo, capture_output=True,
+    prev_log = subprocess.run(['git', 'show', f'{head}:{DP}data/appends.csv'], cwd=repo, capture_output=True,
                               text=True, encoding='utf-8').stdout or 'batch,base,committer_start,commits,acts\n'
     n_batch = max(len(prev_log.strip().splitlines()) - 1, 0) + 1
     new_acts = ' '.join(sorted({a['slug'] for a in sub['acts']}))
-    docs['data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1}{f'..{committer_time}' if committer_time else ''},{len(log) + 1},{new_acts}\n'
+    docs[f'{DP}data/appends.csv'] = prev_log + f'{n_batch},{head},{start_ct + 1}{f'..{committer_time}' if committer_time else ''},{len(log) + 1},{new_acts}\n'
     # The documentation commit is ours, made at publish time: its author date is the publish time too (the host shows
     # the head commit's author date as "updated N minutes ago"). Law commits keep their in-force day as author date.
     docs_when = f'{max(w.ct, min(w.ct + 1, committer_time))} +0000' if committer_time else clock.stamp(docs_date)

@@ -13,24 +13,24 @@ import subprocess
 import sys
 from pathlib import Path
 
-KIND_NAMES = {'konstitutsiya': 'Конституция (Constitution)', 'kodeks': 'Кодекси (codes)', 'zakon': 'Закони (laws)',
-              'reshenie': 'Решения на Народното събрание (National Assembly decisions)',
-              'deklaratsiya': 'Декларации и обръщения (declarations)', 'alte': 'Other acts'}
-KIND_ORDER = list(KIND_NAMES)
-SLUG_RE = re.compile(r'^(kodeks|zakon|reshenie|deklaratsiya)-(\d{4})-dv(\d{3})-(\d+)$')
-FIXED = {'konstitutsiya': 'konstitutsiya'}
-AMENDING = re.compile(r'\bза\s+(?:изменение|допълнение|отмяна)\b', re.I)
-CODE_NAME = re.compile(r'^(Кодекс\b.*|.*\bкодекс)$', re.I)
+KIND_NAMES: dict = {}
+KIND_ORDER: list = []
+import os as _os
+_KINDS = [k for k in _os.environ.get('GITLAW_LAYOUT_KINDS', '').split(',') if k]
+SLUG_RE = re.compile(r'^(' + '|'.join(map(re.escape, _KINDS or ['zzznone'])) + r')-(\d{4})-([a-z0-9][a-z0-9-]*)$')
+FIXED: dict = {}
+AMENDING = re.compile(r'\b(?:amend|izmen|ndryshim|τροποπο|измен|dopun|spremem)', re.I)
+CODE_NAME = re.compile(r'^$a')
 
 
 def act_path(slug: str, title: str = '') -> str:
+    """<kind>/<year>/<id> for new acts named <kind>-<year>-<id>; any other slug keeps its own folder."""
     if slug in FIXED:
         return FIXED[slug]
     m = SLUG_RE.match(slug)
     if m:
-        return f'{m.group(1)}/{m.group(2)}/dv{m.group(3)}-{m.group(4)}'
-    print(f'layout: no identifier for act {slug!r}; filed under alte/{slug}', file=sys.stderr)
-    return f'alte/{slug}'
+        return f'{m.group(1)}/{m.group(2)}/{m.group(3)}'
+    return slug
 
 
 def parts_of(path: str) -> tuple[str, str, str]:
@@ -161,20 +161,21 @@ def move(repo: Path, when: int) -> str:
     vj = json.loads(git('show', 'main:data/versions.json'))
     top = set(git('ls-tree', '--name-only', 'main').split())
     # Only acts whose folder is on main move; an act whose folder a correction removed (withdrawn) gets no path.
-    c = {'country': {'code': vj.get('country', 'BG')}, 'acts': [a for a in vj['acts'] if a['slug'] in top]}
-    assign(c, {})
+    c = {'country': {'code': vj.get('country', '')}, 'acts': [a for a in vj['acts'] if a['slug'] in top]}
+    for a in c['acts']:
+        a['path'] = a['slug']
     head = git('rev-parse', 'main').strip()
     ct = max(int(git('log', '-1', '--format=%ct', 'main').strip()), when)
     moves = [(a["slug"], a["path"]) for a in c["acts"] if a["slug"] in top and a["slug"] != a["path"]]
     since = __import__('datetime').datetime.fromtimestamp(ct, __import__('datetime').timezone.utc).strftime('%Y-%m-%d')
-    msg = (f'Layout: every act in a folder named by its official identifier\n\n'
+    msg = (f'Layout: record every act folder (data/paths.json)\n\n'
            f'Each act moves from a folder named by its id to <kind>/<year>/dv<issue>-<id>/.\n'
            f'No text changes. Act ids, tags and history are unchanged; before this commit the folders have their old\n'
            f'names (git log --follow, or tools/on.py, which reads both). data/paths.json maps every id to its folder.\n\n'
            f'Kind: layout\nMoved: {len(moves)} acts\nPaths: data/paths.json\n')
     pj = paths_json(c, since).encode('utf-8')
     m = msg.encode('utf-8')
-    who = 'Lexifina <bulgaria-law@lexifina.com>'
+    who = 'Lexifina <' + _os.environ.get('GITLAW_EMAIL', 'law@lexifina.com') + '>'
     body = (f'commit refs/heads/main\nauthor {who} {ct} +0000\ncommitter {who} {ct} +0000\n'.encode('utf-8')
             + f'data {len(m)}\n'.encode() + m + b'\n' + f'from {head}\n'.encode())
     for old, new in moves:
