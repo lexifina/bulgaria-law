@@ -250,18 +250,28 @@ TARGET = re.compile(r"\b(?:изменение|допълнение|отмяна|
 def load(src: Path):
     acts = {}
     for line in (src / "acts.jsonl").read_text(encoding="utf-8").splitlines():
-        r = json.loads(line)
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:
+            continue
         acts[int(r["L_Act_id"])] = r
     dv_days: dict[tuple[int, int], set[str]] = defaultdict(set)
     dv_texts: list[tuple[tuple[int, int], str]] = []
-    p = src / "dvmat.jsonl"
-    if p.exists():
+    seen_mat = set()
+    for name, folder in (("dvmat.jsonl", "dv"), ("cc-dvmat.jsonl", "cc-dv")):
+        p = src / name
+        if not p.exists():
+            continue
         for line in p.read_text(encoding="utf-8").splitlines():
-            r = json.loads(line)
+            try:
+                r = json.loads(line)
+            except json.JSONDecodeError:
+                continue  # a row being written
             if r.get("issue") and r.get("date") and int(r["date"][:4]) == r["year"]:
                 dv_days[(r["issue"], r["year"])].add(r["date"])
-                f = src / "dv" / str(r["idMat"] // 1000) / f"{r['idMat']}.html.gz"
-                if f.exists():
+                f = src / folder / str(r["idMat"] // 1000) / f"{r['idMat']}.html.gz"
+                if f.exists() and r["idMat"] not in seen_mat:
+                    seen_mat.add(r["idMat"])
                     dv_texts.append(((r["issue"], r["year"]), f))
     return acts, dv_days, dv_texts
 
