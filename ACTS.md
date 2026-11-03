@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1328 acts, 1,331 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1329 acts, 1,332 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -14,7 +14,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Конституция на Република България | [`konstitutsiya/`](konstitutsiya/) | in force | 4 | 2008-01-01 | 2024-08-09 |
 
-## zakon (1327, of which 905 amending acts)
+## zakon (1328, of which 906 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -711,6 +711,7 @@
 | Закон за изменение и допълнение на Закона за движението по пътищата | [`zakon/2017/dv009-42069/`](zakon/2017/dv009-42069/) | amending act | 1 | 2017-01-26 | 2017-01-26 |
 | Закон за ратифициране на Споразумението за обезщетяване между правителството на Република България и Консорциум IBERDROLA INGENIERIA Y CONSTRUCCION S.A.U и BELGOPROCESS NV | [`zakon/2017/dv013-15275/`](zakon/2017/dv013-15275/) | in force | 1 | 2017-02-10 | 2017-02-10 |
 | Закон за изменение и допълнение на Закона за достъп и разкриване на документите и за обявяване на принадлежност на български граждани към Държавна сигурност и разузнавателните служби на Българската народна армия | [`zakon/2017/dv013-15594/`](zakon/2017/dv013-15594/) | amending act | 1 | 2017-02-10 | 2017-02-10 |
+| Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража | [`zakon/2017/dv013-65026/`](zakon/2017/dv013-65026/) | amending act | 1 | 2017-02-07 | 2017-02-07 |
 | Закон за изменение на Закона за преминаването през и пребиваването на територията на Република България на съюзнически и на чужди въоръжени сили | [`zakon/2019/dv001-156783/`](zakon/2019/dv001-156783/) | amending act | 1 | 2019-01-06 | 2019-01-06 |
 | Закон за изменение и допълнение на Закона за културното наследство | [`zakon/2019/dv001-156789/`](zakon/2019/dv001-156789/) | amending act | 1 | 2019-01-06 | 2019-01-06 |
 | Закон за изменение и допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество | [`zakon/2019/dv001-156808/`](zakon/2019/dv001-156808/) | amending act | 1 | 2019-01-06 | 2019-01-06 |
