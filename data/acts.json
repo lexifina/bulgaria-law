@@ -12412,6 +12412,23 @@
 "portal": "https://www.parliament.bg/bg/laws/ID/68416"
 },
 {
+"slug": "zakon-2017-dv058-71793",
+"path": "zakon/2017/dv058-71793",
+"kind": "zakon",
+"year": "2017",
+"number": "dv058-71793",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за допълнение на Закона за Министерството на вътрешните работи",
+"short": "Закон за допълнение на Закона за Министерството на вътрешните работи",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-07-21",
+"latest": "2017-07-21",
+"portal": "https://www.parliament.bg/bg/laws/ID/71793"
+},
+{
 "slug": "zakon-2017-dv060-69683",
 "path": "zakon/2017/dv060-69683",
 "kind": "zakon",
@@ -12463,6 +12480,23 @@
 "portal": "https://www.parliament.bg/bg/laws/ID/70037"
 },
 {
+"slug": "zakon-2017-dv060-71339",
+"path": "zakon/2017/dv060-71339",
+"kind": "zakon",
+"year": "2017",
+"number": "dv060-71339",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за ратифициране на Споразумението между Република България и Върховното Главно Командване на Обединените Въоръжени Сили в Европа и Щаба на Върховния съюзен главнокомандващ по трансформацията за допълнение към Парижкия протокол",
+"short": "Закон за ратифициране на Споразумението между Република България и Върховното Главно Командване на Обединените Въоръжени Сили в Европа и Щаба на Върховния съюзен главнокомандващ по трансформацията за допълнение към Парижкия протокол",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-07-28",
+"latest": "2017-07-28",
+"portal": "https://www.parliament.bg/bg/laws/ID/71339"
+},
+{
 "slug": "zakon-2017-dv062-66620",
 "path": "zakon/2017/dv062-66620",
 "kind": "zakon",
@@ -12495,6 +12529,40 @@
 "from": "2017-08-04",
 "latest": "2017-08-04",
 "portal": "https://www.parliament.bg/bg/laws/ID/67041"
+},
+{
+"slug": "zakon-2017-dv085-69685",
+"path": "zakon/2017/dv085-69685",
+"kind": "zakon",
+"year": "2017",
+"number": "dv085-69685",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+"short": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-27",
+"latest": "2017-10-27",
+"portal": "https://www.parliament.bg/bg/laws/ID/69685"
+},
+{
+"slug": "zakon-2017-dv085-71846",
+"path": "zakon/2017/dv085-71846",
+"kind": "zakon",
+"year": "2017",
+"number": "dv085-71846",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменение и допълнение на Закона за електронния документ и електронния подпис",
+"short": "Закон за изменение и допълнение на Закона за електронния документ и електронния подпис",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2017-10-27",
+"latest": "2017-10-27",
+"portal": "https://www.parliament.bg/bg/laws/ID/71846"
 },
 {
 "slug": "zakon-2018-dv008-69571",
