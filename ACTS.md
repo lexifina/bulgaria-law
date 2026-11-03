@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1366 acts, 1,369 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1367 acts, 1,370 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -14,7 +14,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Конституция на Република България | [`konstitutsiya/`](konstitutsiya/) | in force | 4 | 2008-01-01 | 2024-08-09 |
 
-## zakon (1365, of which 930 amending acts)
+## zakon (1366, of which 931 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -746,6 +746,7 @@
 | Закон за изменение на Закона за движение по пътищата | [`zakon/2017/dv054-66638/`](zakon/2017/dv054-66638/) | amending act | 1 | 2017-07-08 | 2017-07-08 |
 | Закон за изменение на Закона за бюджета на държавното обществено осигуряване за 2017 г. | [`zakon/2017/dv054-66648/`](zakon/2017/dv054-66648/) | amending act | 1 | 2017-07-01 | 2017-07-01 |
 | Закон за изменение на Закона за отбраната и въоръжените сили на Република България | [`zakon/2017/dv058-66650/`](zakon/2017/dv058-66650/) | amending act | 1 | 2017-07-18 | 2017-07-18 |
+| Закон за изменение на Закона за Българската агенция по безопасност на храните | [`zakon/2017/dv058-68416/`](zakon/2017/dv058-68416/) | amending act | 1 | 2017-07-21 | 2017-07-21 |
 | Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа | [`zakon/2017/dv062-66620/`](zakon/2017/dv062-66620/) | amending act | 1 | 2017-08-04 | 2017-08-04 |
 | Закон за изменение и допълнение на Закона за военните паметници | [`zakon/2017/dv062-67041/`](zakon/2017/dv062-67041/) | amending act | 1 | 2017-08-04 | 2017-08-04 |
 | Закон за изменение и допълнение на Административнопроцесуалния кодекс | [`zakon/2018/dv077-66637/`](zakon/2018/dv077-66637/) | amending act | 1 | 2018-09-21 | 2018-09-21 |
