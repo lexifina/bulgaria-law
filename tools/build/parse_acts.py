@@ -20,6 +20,9 @@ An act is held back, not published, when any of these is true (the reason is wri
   repealed: its text today may differ from the text as published, and no version is guessed;
 - its Gazette day is not known, or its final clause names a day this parser can't read;
 - its provisions don't split cleanly (no provisions, or a provision number twice).
+A law already published as it was adopted (listed by --keep) stays published as before when a later citation or title
+is found afterwards: that does not make its text as published wrong. It is written to corpus.d/41-zakoni-kept.json
+until its later versions are built.
 
 The State Gazette's own material pages also give acts of other kinds (corpus.d/50-dv-<kind>-<year>.json): Council of
 Ministers decrees (postanovlenie), regulations (naredba), rules (pravilnik), tariffs (tarifa), instructions
@@ -30,6 +33,9 @@ day its own final provisions name, else, for a normative act, three days after i
 cites it by name and Gazette issue or a later title names it as amended or repealed, when it amends or repeals an act
 whose text is not held here, or when its page or structure doesn't read cleanly (cut short, printed only in the PDF,
 provisions out of sequence, signatures inside a quotation). Acts naming people (appointments, awards) are not taken.
+Most Gazette issues are captured only in part, so a base act's later amendment may be missing: acts already published
+(--on-main: the repository's data/paths.json) keep their part, and any other act is taken only if it is an amending act
+(corpus.d/51-dv-lowrisk-<kind>-<year>.json).
 """
 from __future__ import annotations
 
@@ -375,6 +381,8 @@ EDNOTE = re.compile(r"^\(?\s*(?:Забележка на редакцията|В�
 ANNEX_HEAD = re.compile(r"^(?:Приложение|ПРИЛОЖЕНИЕ)(?!.*\b(?:се|думите|изменя|отменя|създава|допълва)\b)(?:\s+№\s*\S+)?"
                         r"(?:\s+(?:към|по)\s+.{0,160})?(?<!:)$")
 AMENDING_TITLE = re.compile(r"^(?:за\s+)?(?:изменение|допълнение|изменения|отмяна|отменяне|отмeняне)\b", re.I)
+# The acts taken from these pages when not already published: amending acts (not repeals).
+LOW_RISK = re.compile(r"^за\s+(?:изменение|допълнение|изменения)\b")
 DV_CITE = re.compile(
     r"\b(Постановление|Наредба(?:та)?|Правилник(?:а|ът)?|Устройствени?(?:ят|я)?\s+правилник|Тарифа(?:та)?|"
     r"Инструкция(?:та)?|Закона?|Кодекса?)"
@@ -449,11 +457,14 @@ def desc_matches(d: dict, kb: str, num: str | None, yr: str | None, subj: str | 
     """Whether a citation (kind, number, year, subject) names the act described by d. Not strict: a citation of the
     act's kind that gives neither number nor subject counts as naming it."""
     if num and d["num"] and kb == d["kind"]:
-        if num_norm(num) == d["num"] and (not yr or not d["year"] or yr == d["year"]):
-            return True
+        # Both give the act's number: it decides (a different number is a different act of the same name).
+        return num_norm(num) == d["num"] and (not yr or not d["year"] or yr == d["year"])
     if subj and kb in d["kinds"]:
         for s in d["subjects"]:
-            if subj.startswith(s[:40]) or s.startswith(subj[:40]):
+            # An amending act's subject starts with the same words as every other's ('за изменение и допълнение на
+            # Наредба № ...'): compare it as far as it is held, so the amended act's number counts.
+            n = 60 if AMENDING_TITLE.match(s) or AMENDING_TITLE.match(subj) else 40
+            if subj.startswith(s[:n]) or s.startswith(subj[:n]):
                 return True
     return bool(not strict and not num and not subj and kb in d["kinds"])
 
@@ -792,6 +803,10 @@ def dv_load(src: Path) -> list[dict]:
 
 def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, contested: set, rejects: dict, cited_by: dict,
                titles_named: dict) -> dict:
+    # Acts already published from these pages (the repository's data/paths.json): they keep their part.
+    on_main: set[str] = set()
+    if a.on_main:
+        on_main = set(json.loads(Path(a.on_main).read_text(encoding="utf-8")).get("paths", {}))
     # Each page's header (issue, day, section, title) is near its top: only that is read for every page; the whole page
     # is read for the acts of the kinds published here (and, on a cache miss, for its citations).
     pages = {}
@@ -923,6 +938,9 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
             if content is None:
                 raise Hold("page_truncated")
             d = act_desc(title, kind)
+            # An act already published keeps its part: the hold rules on later texts and amended targets, which apply
+            # to acts not yet published, are not applied to it again (a later version is appended, never a removal).
+            known = any(f"{k}-{year}-dv{iss:03d}-{mid}" in on_main for k in (kind, "kodeks"))
             if kind in ("zakon", "kodeks"):
                 score, has_text = law_on_record(title, year)
                 if score >= 0.85 and has_text:
@@ -939,14 +957,14 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                 for csubj, who in cited_by.get((iss, year), {}).items():
                     if any(csubj.startswith(s[:40]) or s.startswith(csubj[:40]) for s in d["subjects"]):
                         later |= who - {f"dv:{mid}"}
-            if later:
+            if later and not known:
                 raise Hold("cited_later:" + ",".join(sorted(later)[:5]))
             named = {who for k in d["kinds"] for kb, num, yr, subj, when, who in amended.get(k, ())
                      if who != f"dv:{mid}" and when > (year, iss) and desc_matches(d, kb, num, yr, subj, strict=True)}
             if kind in ("zakon", "kodeks"):
                 for s in d["subjects"]:
                     named |= {f"na:{x}" for x in titles_named.get(s, ())}
-            if named:
+            if named and not known:
                 raise Hold("named_as_amended:" + ",".join(sorted(named)[:5]))
             if kind in ("zakon", "kodeks") and title_key(title) in contested:
                 raise Hold("contested_constcourt")
@@ -987,7 +1005,7 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                 if not targets:
                     raise Hold("amending_target_unidentified")
                 missing = [x for x in sorted(targets, key=str) if not target_held(*x)]
-                if missing:
+                if missing and not known:
                     kb, num, yr, subj, n, y = missing[0]
                     raise Hold(f"amending_target_not_held:{kb} {num or ''} бр. {n}/{y}")
             if kind in ("zakon", "kodeks"):
@@ -1001,6 +1019,16 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                 and not re.search(r"изменение|допълнение|отмяна", title):
             kind = "kodeks"
         slug = f"{kind}-{year}-dv{iss:03d}-{mid}"
+        # Acts already published stay in their part. Any other act is taken only when it amends another act: an
+        # amending act is rarely amended in turn, while a base act's later amendment may sit in an issue not captured.
+        if slug in on_main:
+            family = f"50-dv-{kind}-{year}"
+        elif LOW_RISK.match(m_rest.group(1) if m_rest else ""):
+            family = f"51-dv-lowrisk-{kind}-{year}"
+        else:
+            holds.append({"id": mid, "kind": kind, "dv": f"{iss}/{year}", "title": title[:160],
+                          "reason": "base_act_not_low_risk"})
+            continue
         note_parts = []
         if "exceptions" in how:
             note_parts.append("Its final provisions give some provisions a different day; the whole text is dated by its "
@@ -1008,46 +1036,58 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
         if notes:
             note_parts.append("The Gazette printed part of this act only in the issue's PDF facsimile (its note: "
                               + "; ".join(sorted(set(notes)))[:300] + "); that part is not carried.")
-        parts[(kind, year)]["laws"][slug] = {
+        parts[(family, kind)]["laws"][slug] = {
             "label": f"{title} (ДВ, бр. {iss} от {year} г.)", "title": title,
             "kind": "law" if kind in ("zakon", "kodeks") else "decree", "enacted": own_day, "published": gday,
             "url": DV_URL.format(id=mid), "temporary_until": None, "restores": None, "note": None}
-        parts[(kind, year)]["acts"].append({
+        parts[(family, kind)]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": DV_URL.format(id=mid), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": DV_URL.format(id=mid), "sha256": hashlib.sha256(raw).hexdigest(),
                           "units": units, "credits": {}, **({"note": " ".join(note_parts)} if note_parts else {})}]})
 
+    # Coverage: Gazette issues from 2009 (their count read from the highest issue number seen in each year) with no
+    # captured page at all.
+    issue_top: dict[int, int] = defaultdict(int)
+    for n, y in list(dv_days) + [(int(r["L_Act_dv_iss"]), int(r["L_Act_dv_year"])) for r in acts.values()
+                                 if str(r.get("L_Act_dv_iss") or "").isdigit() and r.get("L_Act_dv_year")]:
+        issue_top[y] = max(issue_top[y], n)
+    years = [y for y in issue_top if y >= 2009]
+    coverage = (sum(issue_top[y] for y in years),
+                sum(1 for y in years for n in range(1, issue_top[y] + 1) if (n, y) not in dv_days),
+                max(years) if years else 2009)
+
     written = []
-    stale = {f.stem for f in PARTS.glob("50-dv-*.json")}
-    for (kind, year) in sorted(parts):
-        p = parts[(kind, year)]
+    stale = {f.stem for f in PARTS.glob("50-dv-*.json")} | {f.stem for f in PARTS.glob("51-dv-lowrisk-*.json")}
+    for (name, kind) in sorted(parts):
+        p = parts[(name, kind)]
         p["acts"].sort(key=lambda x: x["slug"])
-        name = f"50-dv-{kind}-{year}"
         stale.discard(name)
-        write_part(name, dv_part_meta(p, a.retrieved))
+        write_part(name, dv_part_meta(p, a.retrieved, coverage, name.startswith("51-")))
         written.append((f"{name}.json", len(p["acts"])))
     for name in sorted(stale):  # every act of an earlier part is held back now: the part stays, empty
-        write_part(name, dv_part_meta({"laws": {}, "acts": []}, a.retrieved))
+        write_part(name, dv_part_meta({"laws": {}, "acts": []}, a.retrieved, coverage, name.startswith("51-")))
         written.append((f"{name}.json", 0))
     if a.report:
         rp = Path(a.report)
         rp.with_name(rp.stem + "-dv" + rp.suffix).write_text(
             "".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     by_kind = defaultdict(lambda: [0, 0])
-    for (kind, _), p in parts.items():
+    for (name, kind), p in parts.items():
         by_kind[kind][0] += len(p["acts"])
     for h in holds:
         by_kind[h["kind"]][1] += 1
     reasons = defaultdict(int)
     for h in holds:
         reasons[h["reason"].split(":")[0]] += 1
-    return {"dv_published": sum(n for _, n in written), "dv_held": len(holds),
+    return {"dv_published": sum(n for _, n in written),
+            "dv_lowrisk_new": sum(len(p["acts"]) for (name, _), p in parts.items() if name.startswith("51-")),
+            "dv_held": len(holds), "dv_issues_without_page": f"{coverage[1]} of {coverage[0]}",
             "dv_published_held_by_kind": dict(sorted(by_kind.items())), "dv_held_by_reason": dict(reasons),
             "dv_skipped": dict(skipped), "dv_parts": len(written)}
 
 
-def dv_part_meta(p: dict, retrieved: str) -> dict:
+def dv_part_meta(p: dict, retrieved: str, coverage: tuple[int, int, int], lowrisk: bool) -> dict:
     p["sources"] = [{"name": "Държавен вестник: материали от официалния раздел (dv.parliament.bg, копия в Internet Archive и "
                              "Common Crawl)",
                      "url": "https://dv.parliament.bg/DVWeb/", "retrieved": retrieved,
@@ -1070,8 +1110,15 @@ def dv_part_meta(p: dict, retrieved: str) -> dict:
         "title names it as amended or repealed; an amending or repealing act only when its target's text is held here.",
         "A law comes from these pages only when the National Assembly's record holds no text for it; a law whose title "
         "matches a record with text is left to the 40-zakoni parts.",
-        "Coverage is limited to the material pages the archives captured: an amendment printed in an issue that was not "
-        "captured can't be seen here."]
+        f"These acts come only from the State Gazette pages that archives captured: of about {coverage[0]:,} Gazette "
+        f"issues from 2009 to {coverage[2]}, {coverage[1]:,} have no captured page at all. A later amendment printed in an "
+        "issue that was not captured is not shown here, so check the official State Gazette (dv.parliament.bg) before "
+        "relying on an act's current text."]
+    if lowrisk:
+        p["decisions"].append(
+            "Acts in this part are amending acts only (titles 'за изменение', 'за допълнение', 'за изменение и "
+            "допълнение'): an amending act is rarely amended in turn. Base acts (regulations, rules, instructions, "
+            "tariffs, decrees that adopt or approve them, one-off decrees) not already published are held back.")
     p["ai_use"] = ["none"]
     return {k: p[k] for k in ("laws", "acts", "sources", "decisions", "ai_use")}
 
@@ -1108,6 +1155,10 @@ def main():
     ap.add_argument("--eurlex", help="CSV num,date,name: Gazette issue dates from the EU's national-measures records")
     ap.add_argument("--cache", help="file caching each input file's citations by size and mtime (speeds up re-runs)")
     ap.add_argument("--rejects", help="JSON {act id: reason}: acts held back by hand or by a failed read-back check")
+    ap.add_argument("--keep", help="JSON list of law slugs already published: a later citation or title found "
+                                   "afterwards doesn't hold them back (they keep their text as published)")
+    ap.add_argument("--on-main", help="the repository's data/paths.json: State Gazette acts already published keep their "
+                                      "part; any other is taken only if it is an amending act")
     a = ap.parse_args()
     src = Path(a.src)
     acts, dv_days, dv_texts = load(src)
@@ -1118,6 +1169,9 @@ def main():
         for x in re.findall(r'<h3 class="toggle-item-title">(.*?)</h3>', page, flags=re.S):
             contested.add(title_key(norm(re.sub(r"<[^>]+>", "", x))))
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    # --keep: slugs of laws already published; a later citation or title found afterwards doesn't hold them back.
+    keep_slugs = set(json.loads(Path(a.keep).read_text(encoding="utf-8"))) if a.keep and Path(a.keep).exists() else set()
+    keep_ids = {int(s.rsplit("-", 1)[1]) for s in keep_slugs if s.rsplit("-", 1)[-1].isdigit()}
 
     def body(i: int) -> tuple[bytes, dict]:
         raw = gzip.decompress((src / "raw" / str(i // 1000) / f"{i}.json.gz").read_bytes())
@@ -1215,9 +1269,12 @@ def main():
                 # The citation names this act: same subject, or this act is the only law in that Gazette issue.
                 if (sn and (csubj.startswith(sn[:40]) or sn.startswith(csubj[:40]))) or per_issue[(iss, year)] == 1:
                     later |= who - {f"na:{i}"}
-            if later:
+            kept = i in keep_ids
+            named = sn and titles_named.get(sn, set()) - {i}
+            kept_held = kept and bool(later or named)  # published before; held now only by what was found afterwards
+            if later and not kept:
                 raise Hold("cited_later:" + ",".join(sorted(later)[:5]))
-            if sn and titles_named.get(sn, set()) - {i}:
+            if named and not kept:
                 raise Hold("named_as_amended:" + ",".join(map(str, sorted(titles_named[sn] - {i})[:5])))
             if title_key(title) in contested:
                 raise Hold("contested_constcourt")
@@ -1238,15 +1295,19 @@ def main():
             continue
         kind = "kodeks" if re.match(r"^\S*\s*[Кк]одекс\b|^[А-Я][а-я]+\s+кодекс$|^Кодекс\b", title) and not re.search(r"изменение|допълнение|отмяна", title) else "zakon"
         slug = f"{kind}-{year}-dv{iss:03d}-{i}"
+        if kept_held and slug not in keep_slugs:  # the kept slug was another act's: hold as without --keep
+            holds.append({"id": i, "dv": f"{iss}/{year}", "title": title[:160], "reason": f"keep_slug_mismatch:{slug}"})
+            continue
         label = f"{title} (ДВ, бр. {iss} от {year} г.)"
         adopted = (r.get("L_Act_date2") or "")[:10] or None
         note = None
         if "exceptions" in how:
             note = "Its final clause gives some provisions a different day; the whole text is dated by its general day."
-        parts[year]["laws"][slug] = {"label": label, "title": title, "kind": "law", "enacted": adopted,
-                                     "published": gday, "url": SOURCE_URL.format(id=i), "temporary_until": None,
-                                     "restores": None, "note": None}
-        parts[year]["acts"].append({
+        pk = 0 if kept_held else year  # part 0: corpus.d/41-zakoni-kept.json
+        parts[pk]["laws"][slug] = {"label": label, "title": title, "kind": "law", "enacted": adopted,
+                                   "published": gday, "url": SOURCE_URL.format(id=i), "temporary_until": None,
+                                   "restores": None, "note": None}
+        parts[pk]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": SOURCE_URL.format(id=i), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": API_URL.format(id=i), "sha256": hashlib.sha256(raw).hexdigest(),
@@ -1273,8 +1334,13 @@ def main():
             "the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.",
             "A law is published only when no later text held cites its Gazette issue and no later law's title names "
             "it as amended or repealed; the others are held back until their later versions are built."]
+        if year == 0:
+            p["decisions"].append(
+                "The laws in this part were published under that rule before a later text citing them, or a later "
+                "law's title naming them, was found; that doesn't make their text as published wrong, so each keeps "
+                "its one version as published until its later versions are built.")
         p["ai_use"] = ["none"]
-        f = PARTS / f"40-zakoni-{year}.json"
+        f = PARTS / ("41-zakoni-kept.json" if year == 0 else f"40-zakoni-{year}.json")
         data = (json.dumps(p, ensure_ascii=False, indent=1, sort_keys=False) + "\n").encode("utf-8")
         # Rewrite a part only when it changed (readers may hold it open; Windows refuses to replace an open file).
         if not (f.exists() and f.read_bytes() == data):
@@ -1295,6 +1361,10 @@ def main():
                            "published; acts cited by a later text or named as amended are held back.\n",
                            encoding="utf-8", newline="\n")
         written.append((f.name, len(p["acts"])))
+    if 0 not in parts:  # no kept law is held now: a stale kept part would repeat acts written above
+        for stale in (PARTS / "41-zakoni-kept.PUBLISH", PARTS / "41-zakoni-kept.json"):
+            if stale.exists():
+                stale.unlink()
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     reasons = defaultdict(int)
@@ -1314,7 +1384,8 @@ def main():
         tmp.replace(cache_path)
     print(json.dumps(dv, ensure_ascii=False))
     print(json.dumps({"laws_seen": len(laws), "published": sum(n for _, n in written), "held": len(holds),
-                      "held_by_reason": dict(reasons), "parts": written, "dv_issues_dated": len(dv_days)},
+                      "held_by_reason": dict(reasons), "kept_as_published": len(parts[0]["acts"]) if 0 in parts else 0,
+                      "parts": written, "dv_issues_dated": len(dv_days)},
                      ensure_ascii=False))
 
 
