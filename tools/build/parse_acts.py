@@ -383,6 +383,7 @@ ANNEX_HEAD = re.compile(r"^(?:Приложение|ПРИЛОЖЕНИЕ)(?!.*\b(
 AMENDING_TITLE = re.compile(r"^(?:за\s+)?(?:изменение|допълнение|изменения|отмяна|отменяне|отмeняне)\b", re.I)
 # The acts taken from these pages when not already published: amending acts (not repeals).
 LOW_RISK = re.compile(r"^за\s+(?:изменение|допълнение|изменения)\b")
+LIVE = False  # set by --live
 DV_CITE = re.compile(
     r"\b(Постановление|Наредба(?:та)?|Правилник(?:а|ът)?|Устройствени?(?:ят|я)?\s+правилник|Тарифа(?:та)?|"
     r"Инструкция(?:та)?|Закона?|Кодекса?)"
@@ -1023,6 +1024,10 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
         # amending act is rarely amended in turn, while a base act's later amendment may sit in an issue not captured.
         if slug in on_main:
             family = f"50-dv-{kind}-{year}"
+        elif a.live:
+            # Live mode (2026-11-09): every material page of dv.parliament.bg is held, so every later amendment or
+            # repeal is seen; a base act is published like an amending one (52-dv-live parts).
+            family = f"52-dv-live-{kind}-{year}"
         elif LOW_RISK.match(m_rest.group(1) if m_rest else ""):
             family = f"51-dv-lowrisk-{kind}-{year}"
         else:
@@ -1114,6 +1119,12 @@ def dv_part_meta(p: dict, retrieved: str, coverage: tuple[int, int, int], lowris
         f"issues from 2009 to {coverage[2]}, {coverage[1]:,} have no captured page at all. A later amendment printed in an "
         "issue that was not captured is not shown here, so check the official State Gazette (dv.parliament.bg) before "
         "relying on an act's current text."]
+    if LIVE:
+        p["sources"][0]["name"] = "Държавен вестник: материали от официалния раздел (dv.parliament.bg)"
+        p["decisions"][-1] = (
+            f"Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about "
+            f"{coverage[0]:,} Gazette issues from 2009 to {coverage[2]}, {coverage[1]:,} have no material page there. "
+            "Acts published before this read came from archive captures of the same pages and read the same.")
     if lowrisk:
         p["decisions"].append(
             "Acts in this part are amending acts only (titles 'за изменение', 'за допълнение', 'за изменение и "
@@ -1159,7 +1170,12 @@ def main():
                                    "afterwards doesn't hold them back (they keep their text as published)")
     ap.add_argument("--on-main", help="the repository's data/paths.json: State Gazette acts already published keep their "
                                       "part; any other is taken only if it is an amending act")
+    ap.add_argument("--live", action="store_true",
+                    help="the inputs hold every dv.parliament.bg material page, fetched live (not archive captures): "
+                         "base acts are published too, and the sources and decisions say so")
     a = ap.parse_args()
+    global LIVE
+    LIVE = a.live
     src = Path(a.src)
     acts, dv_days, dv_texts = load(src)
     eu = eurlex_days(a.eurlex)
@@ -1321,7 +1337,8 @@ def main():
                          "url": "https://www.parliament.bg/bg/laws", "retrieved": a.retrieved,
                          "licence": "Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1)",
                          "notes": "The final adopted text of each law, with its State Gazette issue."},
-                        {"name": "Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive)",
+                        {"name": "Държавен вестник: дати на броевете (dv.parliament.bg)" if LIVE else
+                                 "Държавен вестник: дати на броевете (dv.parliament.bg, Internet Archive)",
                          "url": "https://dv.parliament.bg/DVWeb/", "retrieved": a.retrieved,
                          "licence": "Official publication", "notes": "The date of each Gazette issue."}]
         p["decisions"] = [
