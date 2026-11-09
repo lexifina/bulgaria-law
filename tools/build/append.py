@@ -157,7 +157,9 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     path_for: dict[str, str] = {}
     have = set(known_paths.values()) | {a['path'] for a in c['acts'] if a.get('path')}
     folders = {f[:-len('/README.md')] for f in git(repo, 'ls-tree', '-r', '--name-only', head).splitlines()
-               if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data')}
+               if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data', DP.rstrip('/'))}
+    # (2026-11-09: the docs prefix folder itself, e.g. registry/README.md, is no act; without this every publish ran
+    # a whole-history pickaxe search for it)
     for f in sorted(folders - have):
         if '/' not in f and f in rows_for:  # a folder still named by its id (an act from before the layout move)
             continue
