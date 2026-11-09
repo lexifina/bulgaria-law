@@ -226835,6 +226835,4506 @@
    ]
   },
   {
+   "slug": "pravilnik-2008-dv028-4942",
+   "path": "pravilnik/2008/dv028-4942",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4942",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4942",
+     "sha256": "da4295ac94995d30f4aa690adc0387dc31cc51a7e5a2863e8b54a603e6841e4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv040-5100",
+   "path": "pravilnik/2008/dv040-5100",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5100",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 18,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5100",
+     "sha256": "e8d84406e7221d33e55ad3ace2c7e13a4b6340a6e44650097f96e59c4f5b2c44"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv043-5192",
+   "path": "pravilnik/2008/dv043-5192",
+   "short": "Правилник за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност",
+   "title": "Правилник за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5192",
+   "versions": [
+    {
+     "from": "2008-05-02",
+     "units": 64,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5192",
+     "sha256": "15d2507c689215dc2d4dad845d9721fafc1c23cc3a789717ce2da1b2bec74b86"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv057-5385",
+   "path": "pravilnik/2008/dv057-5385",
+   "short": "Правилник за отменяне на Устройствения правилник на Националния институт за изследване на вино и спиртни напитки - София",
+   "title": "Правилник за отменяне на Устройствения правилник на Националния институт за изследване на вино и спиртни напитки - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5385",
+   "versions": [
+    {
+     "from": "2008-06-10",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5385",
+     "sha256": "5cd970bb88463b61d40ace16f7bf7193bdd288668f2ba68487388a180e24d300"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv062-5912",
+   "path": "pravilnik/2008/dv062-5912",
+   "short": "Правилник за организацията и дейността на Съвета по продуктите за растителна защита",
+   "title": "Правилник за организацията и дейността на Съвета по продуктите за растителна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5912",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 26,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5912",
+     "sha256": "34779e4d27ac3a55c4052bd4137899807fd3216a7e619a934563d9ccf9da1951"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv071-7582",
+   "path": "pravilnik/2008/dv071-7582",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7582",
+   "versions": [
+    {
+     "from": "2008-08-12",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7582",
+     "sha256": "c0a2be2dae1fe4800111adc6eecd688bb03e0d1e1900ffa21aa7b6c2f1fd032a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv078-8368",
+   "path": "pravilnik/2008/dv078-8368",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и горите",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8368",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8368",
+     "sha256": "1c2449b14a7d28ccc8a4d356c8a15d2e1921cabe4c475ea899d05a26bf26346e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv078-8369",
+   "path": "pravilnik/2008/dv078-8369",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8369",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8369",
+     "sha256": "f7c1330f7aca5c80d94d8cd07d677db0106a0f2bc8c3693c7e9b98a7ae19f1f0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv079-8454",
+   "path": "pravilnik/2008/dv079-8454",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Института по тютюна и тютюневите изделия",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Института по тютюна и тютюневите изделия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8454",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8454",
+     "sha256": "86caa5a4c3b907e1b7694827c0c934b00d0d9827064585657754e80e7751f90c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv079-8455",
+   "path": "pravilnik/2008/dv079-8455",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за изпитване на земеделска, горска техника и резервни части - Пловдив",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за изпитване на земеделска, горска техника и резервни части - Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8455",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8455",
+     "sha256": "76032a72126b8914bfeda949cea03bdcde93e128201bdd7ec7c19026ec50bfdd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv079-8510",
+   "path": "pravilnik/2008/dv079-8510",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8510",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8510",
+     "sha256": "a6c6397949827f7374753e4738ad016c6e8cd44a491c2efad05ccd0d930dd024"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv082-8813",
+   "path": "pravilnik/2008/dv082-8813",
+   "short": "Правилник за изменение на Устройствения правилник на Института по розата и етеричномаслените култури",
+   "title": "Правилник за изменение на Устройствения правилник на Института по розата и етеричномаслените култури",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8813",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8813",
+     "sha256": "cf67cb05c3da1855e91976310168fbdd730a49a1ed4354d879708cd684b7d909"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv088-9503",
+   "path": "pravilnik/2008/dv088-9503",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9503",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "units": 18,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9503",
+     "sha256": "c2964158b7f160d7dfb8e58a9682084dcdf5eb6fa9e11a03ae4672e423bcd2d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv089-9617",
+   "path": "pravilnik/2008/dv089-9617",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за изпитване на земеделска, горска техника и резервни части - Русе",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за изпитване на земеделска, горска техника и резервни части - Русе",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9617",
+   "versions": [
+    {
+     "from": "2008-10-17",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9617",
+     "sha256": "8089586c68de4d566ef62bae8b90d586aa5c7dd1ba92272691e87c63d237a7d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv092-10029",
+   "path": "pravilnik/2008/dv092-10029",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10029",
+   "versions": [
+    {
+     "from": "2008-10-27",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10029",
+     "sha256": "78ff440f175b04dbda70d5fb52797b585c22d2995952bc87937e237c4e4b48ff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv093-10144",
+   "path": "pravilnik/2008/dv093-10144",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10144",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10144",
+     "sha256": "0425fe941f0ea1cfd1378a0ba57443787aa331638bfe4489ef718b614f920adc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2008-dv107-13163",
+   "path": "pravilnik/2008/dv107-13163",
+   "short": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13163",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13163",
+     "sha256": "77c137e0afa6ae2aaec91c98c041fba1a2c427d22d3606b99ced8e3307226023"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv004-13942",
+   "path": "pravilnik/2009/dv004-13942",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13942",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13942",
+     "sha256": "817100bf14f25467bfe602a297d1e3506562b35f2bd85e07ff97e725194108a3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv009-15477",
+   "path": "pravilnik/2009/dv009-15477",
+   "short": "Правилник за изменение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "title": "Правилник за изменение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15477",
+   "versions": [
+    {
+     "from": "2009-02-06",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15477",
+     "sha256": "45fa52ca38ef14ef4efdf02e98bb3b0a5646c2b356a4bb34f9cf80b39786f394"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv016-16494",
+   "path": "pravilnik/2009/dv016-16494",
+   "short": "Правилник за устройството и дейността на Професионален сержантски колеж",
+   "title": "Правилник за устройството и дейността на Професионален сержантски колеж",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16494",
+   "versions": [
+    {
+     "from": "2009-03-02",
+     "units": 77,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16494",
+     "sha256": "be99f9043a6f0574f7df65338f21af442463bb7d8f6cc9d7a439a045023a5f89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv016-16495",
+   "path": "pravilnik/2009/dv016-16495",
+   "short": "Правилник за устройството и дейността на Професионален старшински колеж",
+   "title": "Правилник за устройството и дейността на Професионален старшински колеж",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16495",
+   "versions": [
+    {
+     "from": "2009-03-02",
+     "units": 77,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16495",
+     "sha256": "2edd13568d382b15c6ebc441714b82043c531d92120bf401e4c55e51467a3c65"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv021-17380",
+   "path": "pravilnik/2009/dv021-17380",
+   "short": "Правилник за организацията на работа и дейността на Център \"Фонд за асистирана репродукция\"",
+   "title": "Правилник за организацията на работа и дейността на Център \"Фонд за асистирана репродукция\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17380",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 61,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17380",
+     "sha256": "e3904bcb39e1cb6ad283193916b5843a308386a9a428400ee6ef15ddfbb641c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv031-19368",
+   "path": "pravilnik/2009/dv031-19368",
+   "short": "Правилник за допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "title": "Правилник за допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19368",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19368",
+     "sha256": "234d634afb045563e9770940b8c3d19a92bdc42eb8b4882a70dfc0365a3b4e90"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv035-19974",
+   "path": "pravilnik/2009/dv035-19974",
+   "short": "Правилник за изменение и допълнение на устройствените правилници на българо-германските центрове за професионално обучение в Пазарджик, Плевен, Стара Загора и Смолян",
+   "title": "Правилник за изменение и допълнение на устройствените правилници на българо-германските центрове за професионално обучение в Пазарджик, Плевен, Стара Загора и Смолян",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19974",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19974",
+     "sha256": "2b9f949b6c38a195506344490c768e4a61f0b7abcd551903e74c3f579046b26d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv035-20105",
+   "path": "pravilnik/2009/dv035-20105",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20105",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20105",
+     "sha256": "a632d848d4de46e92422857640433c26e128ac15e2364da3010789de8bece02b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv039-20660",
+   "path": "pravilnik/2009/dv039-20660",
+   "short": "Правилник за устройството и дейността на държавно предприятие \"Национална компания \"Железопътна инфраструктура\"",
+   "title": "Правилник за устройството и дейността на държавно предприятие \"Национална компания \"Железопътна инфраструктура\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20660",
+   "versions": [
+    {
+     "from": "2009-05-26",
+     "units": 80,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20660",
+     "sha256": "7a334f88b3c4c1d6d5986bf705eb37a1b8035c59ace63437fc9932135d27b387"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv044-21945",
+   "path": "pravilnik/2009/dv044-21945",
+   "short": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21945",
+   "versions": [
+    {
+     "from": "2009-06-12",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21945",
+     "sha256": "e36f3f409d0925fd6f3459a0a02c875499591351c3d219867217b6c032d67206"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv049-22830",
+   "path": "pravilnik/2009/dv049-22830",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на НЗОК",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на НЗОК",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22830",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22830",
+     "sha256": "ae2dcb74e4e6601230eac7a7bbf717ce39d5f9ef9dda36ca0f7fabefd975475f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv050-22725",
+   "path": "pravilnik/2009/dv050-22725",
+   "short": "Правилник за устройството и дейността на Института по отбрана",
+   "title": "Правилник за устройството и дейността на Института по отбрана",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22725",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22725",
+     "sha256": "381e2c9fd058d149d3a43c5e806e6ebd84b3d16b6d49fe06a4e4531472bdde89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv060-23915",
+   "path": "pravilnik/2009/dv060-23915",
+   "short": "Правилник за устройството и дейността на Главна дирекция \"Охрана\"",
+   "title": "Правилник за устройството и дейността на Главна дирекция \"Охрана\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23915",
+   "versions": [
+    {
+     "from": "2009-08-02",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23915",
+     "sha256": "3bb217439cd2b4ee8647b33b4eed1b1a1bc7250b1ab3c09e1392e597bee3240e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv062-23824",
+   "path": "pravilnik/2009/dv062-23824",
+   "short": "Правилник за устройството и дейността на Националния военноисторически музей",
+   "title": "Правилник за устройството и дейността на Националния военноисторически музей",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23824",
+   "versions": [
+    {
+     "from": "2009-08-07",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23824",
+     "sha256": "93467fb46912c7f5948a5ae5a38cb3bfb84e84b4000305d2180b030f04d0df3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv063-23941",
+   "path": "pravilnik/2009/dv063-23941",
+   "short": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "title": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23941",
+   "versions": [
+    {
+     "from": "2009-08-07",
+     "units": 117,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23941",
+     "sha256": "ad0fbe2f292af1e08dcdfba6ac5897b02d2ceb4dcdf09d2af06d811370ce6866"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv072-24779",
+   "path": "pravilnik/2009/dv072-24779",
+   "short": "Правилник за устройството и дейността на държавните горски стопанства - държавни предприятия към Държавната агенция по горите",
+   "title": "Правилник за устройството и дейността на държавните горски стопанства - държавни предприятия към Държавната агенция по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24779",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24779",
+     "sha256": "7a1b8064c8ea998605181a7f50d45f4adeecefa20fbd381894fdef61c9d6002c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv072-24796",
+   "path": "pravilnik/2009/dv072-24796",
+   "short": "Правилник за устройството и дейността на регионалните дирекции по горите",
+   "title": "Правилник за устройството и дейността на регионалните дирекции по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24796",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24796",
+     "sha256": "2542d606b6156d1e4ecf2fde2d8d3920473a34300713a45ece182007bca94828"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv072-24797",
+   "path": "pravilnik/2009/dv072-24797",
+   "short": "Правилник за устройството и дейността на държавните ловни стопанства - държавни предприятия към Държавната агенция по горите",
+   "title": "Правилник за устройството и дейността на държавните ловни стопанства - държавни предприятия към Държавната агенция по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24797",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24797",
+     "sha256": "cedae7636ad75ef4043b8736071f8b8b21ad6338a9ac1896bb09cfedb3ff74c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv076-25104",
+   "path": "pravilnik/2009/dv076-25104",
+   "short": "Правилник за изменение на Правилника за устройството и дейността на Звеното за оперативно и финансово осигуряване на организационните структури на Министерството на образованието и науката",
+   "title": "Правилник за изменение на Правилника за устройството и дейността на Звеното за оперативно и финансово осигуряване на организационните структури на Министерството на образованието и науката",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25104",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25104",
+     "sha256": "610b9abbf35040f71f6921a5ff9d05b00a02b515583b45385c03c0b80b6da3ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv076-25161",
+   "path": "pravilnik/2009/dv076-25161",
+   "short": "Правилник за дейността на Съвета по международно осиновяване",
+   "title": "Правилник за дейността на Съвета по международно осиновяване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25161",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25161",
+     "sha256": "bd14f60aa09814e165dc8d0844d7ae745bf4a76d5c551267e4597583ce66097a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv076-25192",
+   "path": "pravilnik/2009/dv076-25192",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25192",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25192",
+     "sha256": "0c399a97b3469fbc7c3525532484710d2ae73fe480b04a04a213d5b9f9e98777"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv088-26374",
+   "path": "pravilnik/2009/dv088-26374",
+   "short": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26374",
+   "versions": [
+    {
+     "from": "2009-11-06",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26374",
+     "sha256": "7d7f24a085c84edeece8e68bff45884774cd1dae0845c9de0ad6a1f43f9e180b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv092-26859",
+   "path": "pravilnik/2009/dv092-26859",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26859",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26859",
+     "sha256": "5fec5f5e2396cc86cdb32a420d317c03fba22b7a9d85ee66739ae07d58ffd24e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv098-27491",
+   "path": "pravilnik/2009/dv098-27491",
+   "short": "Правилник за дейността на Съвета по осиновяване",
+   "title": "Правилник за дейността на Съвета по осиновяване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27491",
+   "versions": [
+    {
+     "from": "2009-12-14",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27491",
+     "sha256": "e94b9513dcab864e5ebdb7f9730d2c58575bdd2a10f1e8c3ac5dc8fbe6b0f8d0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv100-27807",
+   "path": "pravilnik/2009/dv100-27807",
+   "short": "Правилник за изменение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27807",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27807",
+     "sha256": "93bd60580fa1f86af7578e7bdf3fa62212b685d9c1b81ec9ce22cb9c76b183a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv100-27825",
+   "path": "pravilnik/2009/dv100-27825",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27825",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27825",
+     "sha256": "ac5b046b23b791e1712e9664ccaeb71216722303ca86c65be922a96049d0a502"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-dv101-27934",
+   "path": "pravilnik/2009/dv101-27934",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27934",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27934",
+     "sha256": "2283a79a91ef3cea2e3670f7d6f13e422562e5f9c7fd10bc19420cab007ff343"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv001-28167",
+   "path": "pravilnik/2010/dv001-28167",
+   "short": "Правилник за дейността на Помирителната комисия за платежни спорове",
+   "title": "Правилник за дейността на Помирителната комисия за платежни спорове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28167",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 30,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28167",
+     "sha256": "f88c89e1d83b2e7c863a8c67d99e80e81cceb6f90fefafb81b6a575d297878c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv006-28799",
+   "path": "pravilnik/2010/dv006-28799",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28799",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 58,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28799",
+     "sha256": "ecde70554ce162bb94869a77e76eaa3518342ad1f7eb3bd762fb9d5d64f1978a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv007-28798",
+   "path": "pravilnik/2010/dv007-28798",
+   "short": "Устройствен правилник на областните дирекции \"Земеделие\"",
+   "title": "Устройствен правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28798",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 42,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28798",
+     "sha256": "ae6dc68641dd393b3b34064a45873c2a77e1651a6f1cd404f0682bfe9fa8a469"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv008-28872",
+   "path": "pravilnik/2010/dv008-28872",
+   "short": "Устройствен правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Устройствен правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28872",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28872",
+     "sha256": "e7eb73581490e1e20c8e26ed21df6e7184b29a3f01bcb845d206e1b8b2818197"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv008-28934",
+   "path": "pravilnik/2010/dv008-28934",
+   "short": "Правилник за устройството и дейността на Центъра за развитие на човешките ресурси",
+   "title": "Правилник за устройството и дейността на Центъра за развитие на човешките ресурси",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28934",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28934",
+     "sha256": "fd1cb957567588d02b0ee5079ec3a109971c54667003e8f6969352d1de6a4c52"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv009-29054",
+   "path": "pravilnik/2010/dv009-29054",
+   "short": "Правилник за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "title": "Правилник за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29054",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 378,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29054",
+     "sha256": "ecc8aaf2735da2b5f30cd7daef9020268baa11c780ba8db4fab4dfd5d1d674a2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv010-29239",
+   "path": "pravilnik/2010/dv010-29239",
+   "short": "Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29239",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29239",
+     "sha256": "e85b98fc658ae2475fb1e5663ffa0b5172da29031fcd19de93cbfd0c81047b62"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv013-29504",
+   "path": "pravilnik/2010/dv013-29504",
+   "short": "Правилник за организацията и дейността на Националния съвет по туризъм",
+   "title": "Правилник за организацията и дейността на Националния съвет по туризъм",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29504",
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29504",
+     "sha256": "a8a44746ddccbf7a2bdbf3ead3101bdc4550662327955d21b3233bbabd4d84d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv016-29939",
+   "path": "pravilnik/2010/dv016-29939",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29939",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29939",
+     "sha256": "a967a714fc50945c591dd2b49d3da3021af5254b2e76cbe3883c9b236f0c76dc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv018-30397",
+   "path": "pravilnik/2010/dv018-30397",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30397",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30397",
+     "sha256": "05ede869cfad7d1628fc77cecf71972ab981d63ba246bcfe7e6ebad9fa6aaec1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv021-30811",
+   "path": "pravilnik/2010/dv021-30811",
+   "short": "Правилник за дейността и организацията на работа на Център \"Фонд за трансплантация\"",
+   "title": "Правилник за дейността и организацията на работа на Център \"Фонд за трансплантация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30811",
+   "versions": [
+    {
+     "from": "2010-03-19",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30811",
+     "sha256": "e58a5972536ae45eb801671dd6da4cfab3519dca2ab10c17ca3d505cb95d0a42"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv029-31829",
+   "path": "pravilnik/2010/dv029-31829",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31829",
+   "versions": [
+    {
+     "from": "2010-04-16",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31829",
+     "sha256": "2e3d7c0ede479907bbef5bb7aca533c4297ee3174023d290c7b36edf5904401b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv035-32676",
+   "path": "pravilnik/2010/dv035-32676",
+   "short": "Правилник за изменение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "title": "Правилник за изменение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32676",
+   "versions": [
+    {
+     "from": "2010-05-14",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32676",
+     "sha256": "83292c90ba718b5a73a3a0da68626f77553a1d59579e1e1abf0e7fde5301e501"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv037-32822",
+   "path": "pravilnik/2010/dv037-32822",
+   "short": "Правилник за дейността и организацията на работа на Център \"Фонд за лечение на деца\"",
+   "title": "Правилник за дейността и организацията на работа на Център \"Фонд за лечение на деца\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32822",
+   "versions": [
+    {
+     "from": "2010-05-21",
+     "units": 67,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32822",
+     "sha256": "c61124a304be8e236be68bf410a47b44f44bc681f7f0afbb956b095c3c33a024"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv038-32862",
+   "path": "pravilnik/2010/dv038-32862",
+   "short": "Правилник за устройството, функциите и дейността на Държавно предприятие \"Пристанищна инфраструктура\"",
+   "title": "Правилник за устройството, функциите и дейността на Държавно предприятие \"Пристанищна инфраструктура\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32862",
+   "versions": [
+    {
+     "from": "2010-05-24",
+     "units": 72,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32862",
+     "sha256": "4479ed92e5683f396f64e5c74d7704c7fb50ab8c631c39639d6ba16f4b866231"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv044-33549",
+   "path": "pravilnik/2010/dv044-33549",
+   "short": "Правилник за устройството и дейността на Националния институт за обучение и квалификация в системата на образованието",
+   "title": "Правилник за устройството и дейността на Националния институт за обучение и квалификация в системата на образованието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33549",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33549",
+     "sha256": "1b3f87911c7866ebfe3933eb622eccd54eaf3a733cda952ca37233551d26af7e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv047-34000",
+   "path": "pravilnik/2010/dv047-34000",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34000",
+   "versions": [
+    {
+     "from": "2010-06-25",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34000",
+     "sha256": "802897602078de6ee1d31967066704ef8ba33d2e412d25db109c450b71b8fffa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv060-35396",
+   "path": "pravilnik/2010/dv060-35396",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35396",
+   "versions": [
+    {
+     "from": "2010-08-03",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35396",
+     "sha256": "3370b6f5cf3533423dc7e20096604ea91de729525ed357a5726687fbbea828be"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv070-36543",
+   "path": "pravilnik/2010/dv070-36543",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисиятa за публичен надзор над регистрираните одитори",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисиятa за публичен надзор над регистрираните одитори",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36543",
+   "versions": [
+    {
+     "from": "2010-09-10",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36543",
+     "sha256": "911d8e7d2ab33aba9451565f9838917e082b512f42e8516179fba17b7141855d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv073-36798",
+   "path": "pravilnik/2010/dv073-36798",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36798",
+   "versions": [
+    {
+     "from": "2010-09-17",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36798",
+     "sha256": "396999ea98a9534940c30e5cabb4886840b5f528438270350ef74ad041c18bd9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv078-37393",
+   "path": "pravilnik/2010/dv078-37393",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37393",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37393",
+     "sha256": "f73eaa63f3fd4540fba25c395efcf674a340f5887c5f66ec7cb30dc20c177b79"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv079-37528",
+   "path": "pravilnik/2010/dv079-37528",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37528",
+   "versions": [
+    {
+     "from": "2010-10-08",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37528",
+     "sha256": "910d289bf8c013944209621d2511f60807b29a3415c830105e9fd5d54399e463"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv086-38642",
+   "path": "pravilnik/2010/dv086-38642",
+   "short": "Правилник за дейността на Инспектората на Министерството на отбраната",
+   "title": "Правилник за дейността на Инспектората на Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38642",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38642",
+     "sha256": "a6b136d9635cb8c0e134e539108e706f702c5901822fa8c8f0edafe3db3eb916"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv089-39473",
+   "path": "pravilnik/2010/dv089-39473",
+   "short": "Правилник за устройството и дейността на Комендантство - МО",
+   "title": "Правилник за устройството и дейността на Комендантство - МО",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39473",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39473",
+     "sha256": "6061cdab0bb0decae1a7e4b82f7a6295f5a60fc8536a7a1c1fb3a4dccf665eb9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-dv095-40694",
+   "path": "pravilnik/2010/dv095-40694",
+   "short": "Правилник за устройството и дейността на регионалните дирекции по горите",
+   "title": "Правилник за устройството и дейността на регионалните дирекции по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40694",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 32,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40694",
+     "sha256": "faa697b6196fab938b1a300bfa3221295dad794bc7ac95cba835d74dda729f96"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv001-41953",
+   "path": "pravilnik/2011/dv001-41953",
+   "short": "Правилник за организацията и дейността на Националния съвет по генетични ресурси в животновъдството",
+   "title": "Правилник за организацията и дейността на Националния съвет по генетични ресурси в животновъдството",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41953",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41953",
+     "sha256": "f8bded087e8ddb5bb3614777e03e24bf68ab23a70b757ea6a241b2e4a929c652"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv003-42254",
+   "path": "pravilnik/2011/dv003-42254",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба за растителна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42254",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42254",
+     "sha256": "a39d50c87b7de00983c130fc8ab042fa4bdae3935c46e397ec114f32be438254"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv006-43059",
+   "path": "pravilnik/2011/dv006-43059",
+   "short": "Устройствен правилник на регионалните здравни инспекции",
+   "title": "Устройствен правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43059",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 73,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43059",
+     "sha256": "2d6e7a3a8e7e5bed105a6a70b9062e86bc94b207c19ffa6b974d50cefe5d1043"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv007-42635",
+   "path": "pravilnik/2011/dv007-42635",
+   "short": "Правилник за дейността, организацията на работа и състав на басейновите дирекции",
+   "title": "Правилник за дейността, организацията на работа и състав на басейновите дирекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42635",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42635",
+     "sha256": "9caee72bbe3543695690c52239d318175ec8a299d502aa681a3007c2c07710b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv007-43141",
+   "path": "pravilnik/2011/dv007-43141",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43141",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43141",
+     "sha256": "e489e729122338306b0fc2b734df16dabbf71374e032571f925538f93fa52e55"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv010-43575",
+   "path": "pravilnik/2011/dv010-43575",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43575",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43575",
+     "sha256": "3c1b45a427c0cccaa93b5e11e4bd26fb825d2325216cdf3eff19a874cede37ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv010-43755",
+   "path": "pravilnik/2011/dv010-43755",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43755",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43755",
+     "sha256": "6ecb0dafa880266e0b43828bc1ec780ad7a42e83d89911bb716446e7677360fd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv013-44381",
+   "path": "pravilnik/2011/dv013-44381",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44381",
+   "versions": [
+    {
+     "from": "2011-02-14",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44381",
+     "sha256": "4a2cbca66143461a5743a0ddbd53ba5dc8c488f0391f91ffb946ae7dfd2c1bb0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv013-44382",
+   "path": "pravilnik/2011/dv013-44382",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44382",
+   "versions": [
+    {
+     "from": "2011-02-14",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44382",
+     "sha256": "f9f38fd96263dc54fe149776720795ff090b85b0201be29065f4278196e921a0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv013-44383",
+   "path": "pravilnik/2011/dv013-44383",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на лечебните заведения за стационарна психиатрична помощ по чл. 5, ал. 1 от Закона за лечебните заведения",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на лечебните заведения за стационарна психиатрична помощ по чл. 5, ал. 1 от Закона за лечебните заведения",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44383",
+   "versions": [
+    {
+     "from": "2011-02-14",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44383",
+     "sha256": "794a11be5f74129fcb89df7875dcc2296c783ec18c113a0d2df32835e92d848b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv014-44615",
+   "path": "pravilnik/2011/dv014-44615",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на домовете за медико-социални грижи за деца",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на домовете за медико-социални грижи за деца",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44615",
+   "versions": [
+    {
+     "from": "2011-02-15",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44615",
+     "sha256": "2364f5d6435f955b530ca55bb21d5fdcbd53938de608467ee97c2790570c150a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv016-45095",
+   "path": "pravilnik/2011/dv016-45095",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45095",
+   "versions": [
+    {
+     "from": "2011-02-22",
+     "units": 50,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45095",
+     "sha256": "0b820ac792d36e2d2aa728af63bbd47ed8fef1dfb432eef82b15f03f6a517ce2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv021-46198",
+   "path": "pravilnik/2011/dv021-46198",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46198",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46198",
+     "sha256": "edf4f6a89e02f9878d93959726fbd974636ebf61e0d574cc495f589d18d4f9b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv021-46259",
+   "path": "pravilnik/2011/dv021-46259",
+   "short": "Устройствен правилник на Патентното ведомство",
+   "title": "Устройствен правилник на Патентното ведомство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46259",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46259",
+     "sha256": "47fe4ba4e98afb0a50354c01daa86fe18809d3f589bbb9a819a9d91c3325a3dc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv031-48095",
+   "path": "pravilnik/2011/dv031-48095",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48095",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 38,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48095",
+     "sha256": "195b31f611acd2b3fd8d843aeceb98090fc594d8a7e48e2f2d8be039c24d5fcf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv032-48315",
+   "path": "pravilnik/2011/dv032-48315",
+   "short": "Правилник за устройството и дейността на Център за контрол и оценка на качеството на училищното образование",
+   "title": "Правилник за устройството и дейността на Център за контрол и оценка на качеството на училищното образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48315",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48315",
+     "sha256": "7d1d279087309447118d5cbfa3f0022499151f707f00e92ba620e5578123785e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv032-48515",
+   "path": "pravilnik/2011/dv032-48515",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48515",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48515",
+     "sha256": "79c37d79f2c9898ac21e41cbf8e41eccca67459ddc9d3e1f21c93130e7c7f8c0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv034-48832",
+   "path": "pravilnik/2011/dv034-48832",
+   "short": "Правилник за функциите и организацията на дейността на Експертния съвет по лечение на зависимости",
+   "title": "Правилник за функциите и организацията на дейността на Експертния съвет по лечение на зависимости",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48832",
+   "versions": [
+    {
+     "from": "2011-05-02",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48832",
+     "sha256": "341d21bc81de97c6fb3a99e26ad43582aedca5b648580af7a26fb2fa3f67e869"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv035-48836",
+   "path": "pravilnik/2011/dv035-48836",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48836",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48836",
+     "sha256": "f4d7c975c5484e245c9e3ef967a001dca23527da468985a1e116913a219cca20"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv036-49017",
+   "path": "pravilnik/2011/dv036-49017",
+   "short": "Правилник за устройството, функциите и дейността на Държавно предприятие \"Пристанищна инфраструктура\"",
+   "title": "Правилник за устройството, функциите и дейността на Държавно предприятие \"Пристанищна инфраструктура\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49017",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 71,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49017",
+     "sha256": "4fd6cdaf7e048c754b40c0e1ba906cfce648be719d9e9b1cef2b9fe24ec1291e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv040-50255",
+   "path": "pravilnik/2011/dv040-50255",
+   "short": "Правилник за устройството и дейността на Академията на Министерството на вътрешните работи",
+   "title": "Правилник за устройството и дейността на Академията на Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50255",
+   "versions": [
+    {
+     "from": "2011-05-27",
+     "units": 223,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50255",
+     "sha256": "d962459447145178d983bd2569ae65579d6dd82e4f5e43c3cdcd8093ba9fd7de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv042-50956",
+   "path": "pravilnik/2011/dv042-50956",
+   "short": "Правилник за устройството и дейността на Военно-географската служба",
+   "title": "Правилник за устройството и дейността на Военно-географската служба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50956",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 52,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50956",
+     "sha256": "6667da9613d4df448c94eff832e027405609b57e48138ab7fd67409e6fc954e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv042-50957",
+   "path": "pravilnik/2011/dv042-50957",
+   "short": "Правилник за устройството и дейността на Стационарната комуникационна и информационна система",
+   "title": "Правилник за устройството и дейността на Стационарната комуникационна и информационна система",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50957",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 44,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50957",
+     "sha256": "8f1819d9fcc4f7718ab9e9645ab5fee71596f22da94cc9653af868ae697b05ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv044-51415",
+   "path": "pravilnik/2011/dv044-51415",
+   "short": "Правилник за устройството и дейността на Института по отбрана",
+   "title": "Правилник за устройството и дейността на Института по отбрана",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51415",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 79,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51415",
+     "sha256": "7c51f65899e397aa8c9671169dda75c9d0373400c95da2dbe6a06f2efe6ecceb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv044-51695",
+   "path": "pravilnik/2011/dv044-51695",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51695",
+   "versions": [
+    {
+     "from": "2011-06-13",
+     "units": 18,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51695",
+     "sha256": "af1cc82155b602f80db6ebf442ec61970851e5bee273e9569898907751efb65a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv047-52475",
+   "path": "pravilnik/2011/dv047-52475",
+   "short": "Правилник за устройството и дейността на Комендантство - МО",
+   "title": "Правилник за устройството и дейността на Комендантство - МО",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52475",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52475",
+     "sha256": "8ca639fd361d89821e2ea4d920d2c266d89b4235d07357278b8e2fdd4efc20ff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv048-52675",
+   "path": "pravilnik/2011/dv048-52675",
+   "short": "Правилник за устройството, организацията на работата и финансирането на Специализирания експертен съвет за опазване на недвижимите културни ценности",
+   "title": "Правилник за устройството, организацията на работата и финансирането на Специализирания експертен съвет за опазване на недвижимите културни ценности",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52675",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52675",
+     "sha256": "b8bd40b9eb24d78e7dbe03e18f54facc191eb9594031e8113dca1f72a8879d89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv048-52735",
+   "path": "pravilnik/2011/dv048-52735",
+   "short": "Правилник за организацията и дейността на Обществения съвет по правата на пациента",
+   "title": "Правилник за организацията и дейността на Обществения съвет по правата на пациента",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52735",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52735",
+     "sha256": "a945502ebcdec3f540cde3eb8755dba937bf1c3c9b8ee020ff43952d560d40ff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv061-55717",
+   "path": "pravilnik/2011/dv061-55717",
+   "short": "Правилник за устройството и дейността на Националния център по обществено здраве и анализи",
+   "title": "Правилник за устройството и дейността на Националния център по обществено здраве и анализи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55717",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "units": 40,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55717",
+     "sha256": "5c9aeb0b30fbbd9dfaa01eebf550eff7b4142088ec4734c89a65586bf8ec74d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv070-56476",
+   "path": "pravilnik/2011/dv070-56476",
+   "short": "Правилник за управление на жизнения цикъл на отбранителните продукти",
+   "title": "Правилник за управление на жизнения цикъл на отбранителните продукти",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56476",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 182,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56476",
+     "sha256": "d3f562367475249a88a173f19a0509dcf889e8ee19a654069976b532fb98942e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv075-56855",
+   "path": "pravilnik/2011/dv075-56855",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисиятa за публичен надзор над регистрираните одитори",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисиятa за публичен надзор над регистрираните одитори",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56855",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56855",
+     "sha256": "4df09a29faf40667607bb54f96cc5b86368f6b445a453af4e882f80f66984072"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv078-57038",
+   "path": "pravilnik/2011/dv078-57038",
+   "short": "Правилник за организацията и дейността на Висшия медицински съвет",
+   "title": "Правилник за организацията и дейността на Висшия медицински съвет",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57038",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 14,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57038",
+     "sha256": "d3fef2f97a6f1658374746eff0d9a812d4bbd14ec80b8f768b720642c3cb823e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv083-57756",
+   "path": "pravilnik/2011/dv083-57756",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57756",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57756",
+     "sha256": "3df22aede5f569d246d81d6a1b12c9d0cdae43ed6f381ae4572cfc938c67722c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv084-57796",
+   "path": "pravilnik/2011/dv084-57796",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57796",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57796",
+     "sha256": "6ad1068a5c30c6be6516a78eb46579cf8b29957491d539021b7d9bb2ec90a698"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv088-58198",
+   "path": "pravilnik/2011/dv088-58198",
+   "short": "Правилник за организация на дейността на Висшия съдебен съвет и неговата администрация",
+   "title": "Правилник за организация на дейността на Висшия съдебен съвет и неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58198",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 99,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58198",
+     "sha256": "140b1040e1a05ae163878a08e192ab55790420c45158d0e2e3d59c0318b02c44"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv096-58991",
+   "path": "pravilnik/2011/dv096-58991",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58991",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58991",
+     "sha256": "48e8f8f256ee97770699bc4fc23fe62914f00190be0aacf5c6fbc42084213576"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv104-59750",
+   "path": "pravilnik/2011/dv104-59750",
+   "short": "Правилник за устройството и дейността на Национално издателство за образование и наука \"Аз Буки\"",
+   "title": "Правилник за устройството и дейността на Национално издателство за образование и наука \"Аз Буки\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59750",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 20,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59750",
+     "sha256": "4d4dc7a41aa4a1a4fb6274f93d2412c609ab6e4138d143cbcae995ca1f72d4e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv104-59760",
+   "path": "pravilnik/2011/dv104-59760",
+   "short": "Устройствен правилник на регионалните дирекции по горите",
+   "title": "Устройствен правилник на регионалните дирекции по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59760",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59760",
+     "sha256": "1384212d1f5d4fb0ecb77e5e494da3a147a7dfcfd7756b9599f03d8db929071d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-dv104-59780",
+   "path": "pravilnik/2011/dv104-59780",
+   "short": "Правилник за изменение и допълнение на Правилника за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси",
+   "title": "Правилник за изменение и допълнение на Правилника за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59780",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59780",
+     "sha256": "24e9ef4d8d5d2c7dfe8fbebc0676f37ef71a1fc0615441868f1be3ed4288f26e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv007-60594",
+   "path": "pravilnik/2012/dv007-60594",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60594",
+   "versions": [
+    {
+     "from": "2012-01-24",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60594",
+     "sha256": "6103ae6987c2dee61cc925d5c4685cc4b6c2029cdb2ada043f31a92ba36ef791"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv009-60680",
+   "path": "pravilnik/2012/dv009-60680",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60680",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60680",
+     "sha256": "073c05dbf0f0a391ac101345a3e43fc4082f3861ec8e5bb097f976b278d0b4e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61114",
+   "path": "pravilnik/2012/dv012-61114",
+   "short": "Устройствен правилник на дирекция на природен парк \"Златни пясъци\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Златни пясъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61114",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61114",
+     "sha256": "278b72dfc8bcbdf511c10fc826cc3da5935c647481c9feaa6265e57b324d779a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61115",
+   "path": "pravilnik/2012/dv012-61115",
+   "short": "Устройствен правилник на дирекция на природен парк \"Шуменско плато\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Шуменско плато\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61115",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61115",
+     "sha256": "f5451b3fc6347dac870e02d18c310d9ec25fa28bc6685eddf6d1b8d1133b0461"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61116",
+   "path": "pravilnik/2012/dv012-61116",
+   "short": "Устройствен правилник на дирекция на природен парк \"Странджа\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Странджа\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61116",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61116",
+     "sha256": "0580a4e26069ebb5c2250959a9477824bd6266c29ec4e42d22edfb0473c62606"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61117",
+   "path": "pravilnik/2012/dv012-61117",
+   "short": "Устройствен правилник на дирекция на природен парк \"Рилски манастир\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Рилски манастир\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61117",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61117",
+     "sha256": "bd9555ae40c6bf05988f42cd26747511731d214410034dfe6e6db883b011a18e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61118",
+   "path": "pravilnik/2012/dv012-61118",
+   "short": "Устройствен правилник на дирекция на природен парк \"Русенски Лом\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Русенски Лом\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61118",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61118",
+     "sha256": "776d22ea1d6c71b16b54a311301f71201df8b2bb4ca4d7c2a6e7b01502e37163"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61119",
+   "path": "pravilnik/2012/dv012-61119",
+   "short": "Устройствен правилник на дирекция на природен парк \"Сините камъни\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Сините камъни\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61119",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61119",
+     "sha256": "57db8ad35ec808389d3881f6a22fc2ac17e97d6e3b1981594bc64b11e81c4a5f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61120",
+   "path": "pravilnik/2012/dv012-61120",
+   "short": "Устройствен правилник на дирекция на природен парк \"Персина\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Персина\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61120",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61120",
+     "sha256": "8ac0a8ab9570f011f27d9dcdf8b4e0c5dff5fc4804d1bf58589aadd55177ae57"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61121",
+   "path": "pravilnik/2012/dv012-61121",
+   "short": "Устройствен правилник на дирекция на природен парк \"Витоша\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61121",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61121",
+     "sha256": "91bb65595448ce97cba05d38478c5ee5e9a15dfb86be54800dde0c2baa201518"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61122",
+   "path": "pravilnik/2012/dv012-61122",
+   "short": "Устройствен правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61122",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61122",
+     "sha256": "679f887df4acea55cb16ac7e4fac58a8a5b58a620246f0c6b203d55baba33ac5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61123",
+   "path": "pravilnik/2012/dv012-61123",
+   "short": "Устройствен правилник на дирекция на природен парк \"Беласица\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Беласица\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61123",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61123",
+     "sha256": "9f723e72641f1e76f218f8ce2a1bda5e82d48247e1611a38494e8247c3cf0855"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61124",
+   "path": "pravilnik/2012/dv012-61124",
+   "short": "Устройствен правилник на дирекция на природен парк \"Българка\"",
+   "title": "Устройствен правилник на дирекция на природен парк \"Българка\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61124",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61124",
+     "sha256": "45fe6f4c07d50366fc9a54aa611dea0eca2b2ba6caea7dfdb07fc146f60f7dcd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv012-61164",
+   "path": "pravilnik/2012/dv012-61164",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61164",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61164",
+     "sha256": "d903d6d4af6443ff2bac7f8f9b65b28a196b46c3b184d0750cb8435521b424a7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv014-61325",
+   "path": "pravilnik/2012/dv014-61325",
+   "short": "Правилник за устройството, организацията и дейността на Учебен център",
+   "title": "Правилник за устройството, организацията и дейността на Учебен център",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61325",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61325",
+     "sha256": "3c31e1f388cf522a00e0bf025b5d7b1c1398ccd66eee786377f3c1d1596e5a09"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv015-61595",
+   "path": "pravilnik/2012/dv015-61595",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61595",
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61595",
+     "sha256": "b98997f8f74dfe4f27caa07da3451470fc660c1a507da5cbb182e80222a3f2f8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv021-62371",
+   "path": "pravilnik/2012/dv021-62371",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62371",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62371",
+     "sha256": "f981e298539d3d8d859bd914f93023d0a88d3025df70f72a58b5c42a2aa76e44"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv021-62372",
+   "path": "pravilnik/2012/dv021-62372",
+   "short": "Правилник за изменение на Правилника за устройството и дейността на Национална служба за съвети в земеделието",
+   "title": "Правилник за изменение на Правилника за устройството и дейността на Национална служба за съвети в земеделието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62372",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62372",
+     "sha256": "f6e3994ebde969b27e382634c7df32aa17a97882af8e98e772a113670aa14a6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv021-62373",
+   "path": "pravilnik/2012/dv021-62373",
+   "short": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62373",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62373",
+     "sha256": "4eef548650a0bd4200eb2a5972d860bab9666fc66fe64a8ee84623e91b6f9c0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv021-62374",
+   "path": "pravilnik/2012/dv021-62374",
+   "short": "Правилник за изменение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните",
+   "title": "Правилник за изменение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62374",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62374",
+     "sha256": "3bdcf2b4406b29a0bb51db4aae416563b99e3f5c2e30c660dfc0b35db843df56"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv025-62832",
+   "path": "pravilnik/2012/dv025-62832",
+   "short": "Правилник за устройството и дейността на Националния център за информация и документация",
+   "title": "Правилник за устройството и дейността на Националния център за информация и документация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62832",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62832",
+     "sha256": "f1cdc5808ae87398cf7ffa9fe192ed490e748cfbec58225904e37e54e33672f8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv029-63257",
+   "path": "pravilnik/2012/dv029-63257",
+   "short": "Правилник за допълнение на Правилника за устройството и дейността на дирекциите на националните паркове",
+   "title": "Правилник за допълнение на Правилника за устройството и дейността на дирекциите на националните паркове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63257",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63257",
+     "sha256": "c9fef6a8b9c4e350e54ec31c621d552a39b06c5a03e12263b24bf92c46ae2a41"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv038-64519",
+   "path": "pravilnik/2012/dv038-64519",
+   "short": "Правилник за устройството, функциите и дейността на Национална компания \"Стратегически инфраструктурни проекти\"",
+   "title": "Правилник за устройството, функциите и дейността на Национална компания \"Стратегически инфраструктурни проекти\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64519",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64519",
+     "sha256": "7d40ac6271bb00a4bf1df34ff531a097b7abe5801a7dda84861d480055841cdd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv039-64543",
+   "path": "pravilnik/2012/dv039-64543",
+   "short": "Правилник за устройството и дейността на музей \"Борис Христов\" - София",
+   "title": "Правилник за устройството и дейността на музей \"Борис Христов\" - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64543",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64543",
+     "sha256": "c68a123f027b3fb98a5c97e7dd302a93e0923783bc0d75977e77b29ce6cc1168"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv042-65001",
+   "path": "pravilnik/2012/dv042-65001",
+   "short": "Устройствен правилник на Горска семеконтролна станция гр. Пловдив",
+   "title": "Устройствен правилник на Горска семеконтролна станция гр. Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65001",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65001",
+     "sha256": "743940d61bdc08a0d5e21d81746c7d925e122ed1d82844f02585eb09b554f13f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv042-65002",
+   "path": "pravilnik/2012/dv042-65002",
+   "short": "Устройствен правилник на Горска семеконтролна станция гр. София",
+   "title": "Устройствен правилник на Горска семеконтролна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65002",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65002",
+     "sha256": "7f8cc8f386aeddf2df4e8e91c0b3c53f938820985dae353e787ea55a73893fb8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv052-66120",
+   "path": "pravilnik/2012/dv052-66120",
+   "short": "Правилник за устройството, дейността, организацията на работа, числеността на Комисията за регулиране на съобщенията и структурата на нейната администрация",
+   "title": "Правилник за устройството, дейността, организацията на работа, числеността на Комисията за регулиране на съобщенията и структурата на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66120",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 53,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66120",
+     "sha256": "17a5b818ce94279188659dcb20f775581fd7c2601b0bcaf4b1327eaaa5a1cb2e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv053-66384",
+   "path": "pravilnik/2012/dv053-66384",
+   "short": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "title": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66384",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 89,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66384",
+     "sha256": "3f0017e7d3f9b3d2b021687fe30284f74c9a8e0f1a45b88a3597303460e30662"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv055-66374",
+   "path": "pravilnik/2012/dv055-66374",
+   "short": "Правилник за изменение на Правилника за устройството и дейността на регионалните инспекторати по образованието",
+   "title": "Правилник за изменение на Правилника за устройството и дейността на регионалните инспекторати по образованието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66374",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66374",
+     "sha256": "29d99729f55f163337f22e881dee246b13002e90ae8793b50256fe737d1b5ff7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv055-66389",
+   "path": "pravilnik/2012/dv055-66389",
+   "short": "Правилник за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "title": "Правилник за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66389",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 49,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66389",
+     "sha256": "bd9f506f0e6fda31ca4fd2e4f2b3ba81a59898bf733dccaa18011ae2a4142e71"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv055-66491",
+   "path": "pravilnik/2012/dv055-66491",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66491",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66491",
+     "sha256": "c5c7cf33e77220c44a11766a71a7292a63655f5443f73b495dfcb34fc52cd3a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv056-66547",
+   "path": "pravilnik/2012/dv056-66547",
+   "short": "Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център \"Фонд за асистирана репродукция\"",
+   "title": "Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център \"Фонд за асистирана репродукция\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66547",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66547",
+     "sha256": "ebbe51d1acebf2d34deb008338f91e73f552b8255f9b5d65f183da77964607fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv056-66616",
+   "path": "pravilnik/2012/dv056-66616",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66616",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66616",
+     "sha256": "1dc33ad2626c8dddc1e1202945040ae07c299495ed6fcb64ccdd330d3d87b592"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv061-67162",
+   "path": "pravilnik/2012/dv061-67162",
+   "short": "Устройствен правилник на Патентното ведомство на Република България",
+   "title": "Устройствен правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67162",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67162",
+     "sha256": "10f3394e417a51d528c536286def685f445d17a7c2370b382961ea26342483b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv061-67296",
+   "path": "pravilnik/2012/dv061-67296",
+   "short": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "title": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67296",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67296",
+     "sha256": "e148ad9a0de3f00a172160c6f46a28fd9463a7aa8005f342aaddcd63996fe141"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv062-67479",
+   "path": "pravilnik/2012/dv062-67479",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67479",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67479",
+     "sha256": "3e07850588ecb953678abb4fc8a0edee2c97a9a277d3c28eea6a5eab46650cb7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv065-67852",
+   "path": "pravilnik/2012/dv065-67852",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67852",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67852",
+     "sha256": "1f860ced76bc98a3718182b86903af473a71781c8203f408d373c8de4fe39782"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv076-68738",
+   "path": "pravilnik/2012/dv076-68738",
+   "short": "Устройствен правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Устройствен правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68738",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68738",
+     "sha256": "f3f453a5cd767b91a9043dd9a094648e16aa86e6f2e119c15a4a9641c2699b28"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv078-69136",
+   "path": "pravilnik/2012/dv078-69136",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69136",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69136",
+     "sha256": "911a1abc0ac00726284d629da9221983c60d58ff47fd45d1939fcb2f06655417"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv091-70379",
+   "path": "pravilnik/2012/dv091-70379",
+   "short": "Правилник за организацията, задачите и функциите на Boeннатa инспекция за технически надзор на съоръженията с повишена опасност",
+   "title": "Правилник за организацията, задачите и функциите на Boeннатa инспекция за технически надзор на съоръженията с повишена опасност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70379",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 50,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70379",
+     "sha256": "fc33645f7459eacd710d7ed77358e666df3902e16072a8ab13ca46c5c5cea485"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-dv094-70704",
+   "path": "pravilnik/2012/dv094-70704",
+   "short": "Правилник за организацията, задачите и функциите на Инспекция за специализиран технически надзор при дирекция \"Управление на собствеността и социални дейности\" в Министерството на вътрешните работи",
+   "title": "Правилник за организацията, задачите и функциите на Инспекция за специализиран технически надзор при дирекция \"Управление на собствеността и социални дейности\" в Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70704",
+   "versions": [
+    {
+     "from": "2012-11-30",
+     "units": 32,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70704",
+     "sha256": "73a73f4441b217a8a37d1d658c8706a44e9998ab6ce6bb3d776a4384006bffb3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv014-72818",
+   "path": "pravilnik/2013/dv014-72818",
+   "short": "Устройствен правилник на Лесозащитна станция гр. София",
+   "title": "Устройствен правилник на Лесозащитна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72818",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72818",
+     "sha256": "d09637b3a6e50e0253b593058b781d9e3d84cff84e5f4e195d631ccbd5488f1e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv014-72819",
+   "path": "pravilnik/2013/dv014-72819",
+   "short": "Устройствен правилник на Лесозащитна станция гр. Пловдив",
+   "title": "Устройствен правилник на Лесозащитна станция гр. Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72819",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72819",
+     "sha256": "0f2409ef16a7c89f4ed0b48563a1442262f8ba52db52ae5ca011aa071f5a3e1d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv014-72820",
+   "path": "pravilnik/2013/dv014-72820",
+   "short": "Устройствен правилник на Лесозащитна станция гр. Варна",
+   "title": "Устройствен правилник на Лесозащитна станция гр. Варна",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72820",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72820",
+     "sha256": "5529496a097f5e31492715282592f4125ef708aaf5c25f0d857ee8368a6f4dbe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv020-73749",
+   "path": "pravilnik/2013/dv020-73749",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73749",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73749",
+     "sha256": "149f93ee6678ab1aa800026ca25f762502a80acaef5cb0721cb4a08328b5dc16"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv027-73867",
+   "path": "pravilnik/2013/dv027-73867",
+   "short": "Правилник за дейността на военнослужещите и цивилните служители в Службата на военния аташе към дипломатическите представителства на Република България",
+   "title": "Правилник за дейността на военнослужещите и цивилните служители в Службата на военния аташе към дипломатическите представителства на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73867",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73867",
+     "sha256": "b486250f61eb554d552a7a25ed1871a88ba8a960fb251e1c41a961ea6376065b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73945",
+   "path": "pravilnik/2013/dv028-73945",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните дирекции по горите",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните дирекции по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73945",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73945",
+     "sha256": "7d9a77c44742b4226495864696c1dd5e2b850882d13e7dd395fc69d7ba9b38d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73946",
+   "path": "pravilnik/2013/dv028-73946",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Беласица\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Беласица\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73946",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73946",
+     "sha256": "f95082d05f3635d4026599e6b566cde13fb99bd44dee6a5be7e7369a5df15fc7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73947",
+   "path": "pravilnik/2013/dv028-73947",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Българка\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Българка\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73947",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73947",
+     "sha256": "e5f5d9a8af434f2cfad19459574fdb970fb325a7e0956a314b9b808ae9d37707"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73948",
+   "path": "pravilnik/2013/dv028-73948",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73948",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73948",
+     "sha256": "e223e719eddfdd32b56d3a67d380edf602e6bf7ed9bd274a3cae78a04a9e2572"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73949",
+   "path": "pravilnik/2013/dv028-73949",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73949",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73949",
+     "sha256": "f70f5ec811f56d56c7755362a3a39e2e8d2eb39ed720abbe29bf7470f6089373"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73950",
+   "path": "pravilnik/2013/dv028-73950",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Златни пясъци\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Златни пясъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73950",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73950",
+     "sha256": "8832abcf12450e6acc704b09e84a65d7691e1d587d5334aa6b11208c00eff5fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73951",
+   "path": "pravilnik/2013/dv028-73951",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Персина\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Персина\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73951",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73951",
+     "sha256": "1bf58b7671c8a23da9ce18ae602deae45450618b6e9f698b5ec388b54a880adc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73952",
+   "path": "pravilnik/2013/dv028-73952",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Рилски манастир\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Рилски манастир\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73952",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73952",
+     "sha256": "5e2fabdfea31fe4b5ffb4af3f7d5a531eead38ec8056f23b453cbc5a120ba831"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73953",
+   "path": "pravilnik/2013/dv028-73953",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Русенски Лом\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Русенски Лом\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73953",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73953",
+     "sha256": "e782aae54543e0cd928161b3b287c1d22ecb130d65aa0034f8b34bb2ee0f64e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73954",
+   "path": "pravilnik/2013/dv028-73954",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73954",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73954",
+     "sha256": "7214a028af3eeebd1784e475c6b556ebbb491f3b6fe9f79be82d309846791fb5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73955",
+   "path": "pravilnik/2013/dv028-73955",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Странджа\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Странджа\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73955",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73955",
+     "sha256": "b2516c869d1de19900bdaaad1cd7a3b1704aaaa67cc3b4d6c427c4c0f74c2e7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73956",
+   "path": "pravilnik/2013/dv028-73956",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Шуменско плато\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Шуменско плато\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73956",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73956",
+     "sha256": "8a4abdeabdbc9a5d9ce9827eaa472268dbc205abebc16c5755569ec2db5598b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73957",
+   "path": "pravilnik/2013/dv028-73957",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. София",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73957",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73957",
+     "sha256": "0a698e63c0020b1b583bab835ed8cd028e291d05bda30ffa8f80d0e7bd7c34f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73958",
+   "path": "pravilnik/2013/dv028-73958",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. Пловдив",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73958",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73958",
+     "sha256": "c75ac4035207d7ce436319621595645dc44af301673330dedf3a774c2b014f47"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73959",
+   "path": "pravilnik/2013/dv028-73959",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73959",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73959",
+     "sha256": "78f6a1f7baf2cf21a7e96f7f38debd5021d0c18bd1fe9f72e23578232fb1d104"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73960",
+   "path": "pravilnik/2013/dv028-73960",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Варна",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Варна",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73960",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73960",
+     "sha256": "623eaf2da900c9e5f1b38b87b1f9b5fd2befee2b9bb2679b11e22603b4ca0a56"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-73961",
+   "path": "pravilnik/2013/dv028-73961",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73961",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73961",
+     "sha256": "b51f8c26e62c8e2c578766e24c30e97ca2ebc226068a5f1a6893ebcae5e08710"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv028-74218",
+   "path": "pravilnik/2013/dv028-74218",
+   "short": "Правилник за устройството и дейността на дирекциите на националните паркове",
+   "title": "Правилник за устройството и дейността на дирекциите на националните паркове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74218",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74218",
+     "sha256": "c0f66c57cb268e1dbed3711165c330f95aedabe8c8ad07db462cd8652c7d2298"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv042-75544",
+   "path": "pravilnik/2013/dv042-75544",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Висшия консултативен съвет по водите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75544",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75544",
+     "sha256": "5aaaaf298e699ae7df7928d958ef9237410e0e8d8b9d2aa2f23976560239e2a0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv049-76227",
+   "path": "pravilnik/2013/dv049-76227",
+   "short": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76227",
+   "versions": [
+    {
+     "from": "2013-06-04",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76227",
+     "sha256": "84c9067bda062e2922e1c3555b6e010fe4a07b0dfb3eaec30bcea49988db679c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv064-77532",
+   "path": "pravilnik/2013/dv064-77532",
+   "short": "Правилник за отменяне на Правилника за управление на жизнения цикъл на отбранителните продукти",
+   "title": "Правилник за отменяне на Правилника за управление на жизнения цикъл на отбранителните продукти",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77532",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77532",
+     "sha256": "2e8ebc68acfeb361dd4fee8b56a1cec9182259604e4293a9afe17d2492e6fcba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv067-77683",
+   "path": "pravilnik/2013/dv067-77683",
+   "short": "Правилник за администрацията на Върховния административен съд",
+   "title": "Правилник за администрацията на Върховния административен съд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77683",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 181,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77683",
+     "sha256": "27d4e355b589bd834121a0b586a58e55db30972140d0203615e4184bda077f93"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv079-78626",
+   "path": "pravilnik/2013/dv079-78626",
+   "short": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "title": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78626",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 90,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78626",
+     "sha256": "0af9646ca1f5822a2daf64c37643de531fe577a9e0718675d5415eea450d3b2b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv094-79899",
+   "path": "pravilnik/2013/dv094-79899",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79899",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79899",
+     "sha256": "35bbf662a4f6d954da4dd140f705251fe5a242f617acf4ac6be3031a599ec56f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv101-80404",
+   "path": "pravilnik/2013/dv101-80404",
+   "short": "Правилник за реда за вписване и водене на Централния професионален регистър на строителя",
+   "title": "Правилник за реда за вписване и водене на Централния професионален регистър на строителя",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80404",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 62,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80404",
+     "sha256": "9f2e478365c769a4f6d4217e08c083155381cf4b790823fe38c731eaac6be953"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv102-80626",
+   "path": "pravilnik/2013/dv102-80626",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80626",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80626",
+     "sha256": "4f7e5a45d1fd37337c23fcd577d314875b625c884d75682000207ee35965c853"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv103-80649",
+   "path": "pravilnik/2013/dv103-80649",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80649",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80649",
+     "sha256": "fa5976cc3d2940184004f60a82c6d498b762659f7dc06139d58cf295551dc382"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv104-80767",
+   "path": "pravilnik/2013/dv104-80767",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80767",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80767",
+     "sha256": "679660a92725e6934198c7ab11b0dc9bd02c03552463477cf9db6c133b06b68e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-dv106-80942",
+   "path": "pravilnik/2013/dv106-80942",
+   "short": "Правилник за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "title": "Правилник за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80942",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 171,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80942",
+     "sha256": "7f7072133d27f6a79d5369a584e3b575b2049b01b240cd392779fb55f159a37b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv005-81745",
+   "path": "pravilnik/2014/dv005-81745",
+   "short": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "title": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81745",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 42,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81745",
+     "sha256": "99f37ee07e390ac12918553fee8df1c602a717a47548a4509190e33dde9cdc6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv008-81779",
+   "path": "pravilnik/2014/dv008-81779",
+   "short": "Правилник за администрацията в съдилищата",
+   "title": "Правилник за администрацията в съдилищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81779",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 206,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81779",
+     "sha256": "bb9918de65eb7fbce3d78566b5f178c2320e9853691aec334649068fee0ebd87"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv008-82076",
+   "path": "pravilnik/2014/dv008-82076",
+   "short": "Правилник за организацията и дейността на Националния осигурителен институт",
+   "title": "Правилник за организацията и дейността на Националния осигурителен институт",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82076",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 63,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82076",
+     "sha256": "e83a7944afce2745ab98edb4944e319f1c2ecb11d249750a67c0df70ba42d993"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv009-82088",
+   "path": "pravilnik/2014/dv009-82088",
+   "short": "Устройствен правилник на Патентното ведомство",
+   "title": "Устройствен правилник на Патентното ведомство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82088",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82088",
+     "sha256": "09c55ef6fe7cc4c43b58c4f07a01fdbc2d855be8757b8b1e794ee4dec995a7db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv012-82504",
+   "path": "pravilnik/2014/dv012-82504",
+   "short": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82504",
+   "versions": [
+    {
+     "from": "2014-02-11",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82504",
+     "sha256": "372970234d4d07d23bfa196b2a2e2e7f2b42f9af3a8358fa9ae5438adb9e9254"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv013-82397",
+   "path": "pravilnik/2014/dv013-82397",
+   "short": "Правилник за дейността на Националното бюро за контрол на специалните разузнавателни средства и неговата администрация",
+   "title": "Правилник за дейността на Националното бюро за контрол на специалните разузнавателни средства и неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82397",
+   "versions": [
+    {
+     "from": "2014-02-14",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82397",
+     "sha256": "29fdbcec936537641812e4dc2e5b93c174ec893d65f7aa7558e57d5b5edf085f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv013-82485",
+   "path": "pravilnik/2014/dv013-82485",
+   "short": "Правилник за устройството и дейността на Информационния център на Министерството на отбраната",
+   "title": "Правилник за устройството и дейността на Информационния център на Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82485",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82485",
+     "sha256": "178893c575121667ff2e292b8f3513483b6bd73abcc91e932413a0dbbee6bec3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv013-82494",
+   "path": "pravilnik/2014/dv013-82494",
+   "short": "Правилник за устройството и дейността на Научноизследователския институт по криминалистика и криминология",
+   "title": "Правилник за устройството и дейността на Научноизследователския институт по криминалистика и криминология",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82494",
+   "versions": [
+    {
+     "from": "2014-02-14",
+     "units": 40,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82494",
+     "sha256": "0cf0b897d4e6264e14e58ae9374c72cc07c286ef38a77b9bb152e12cba513a7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv013-82524",
+   "path": "pravilnik/2014/dv013-82524",
+   "short": "Правилник за устройството и дейността на Централното военно окръжие",
+   "title": "Правилник за устройството и дейността на Централното военно окръжие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82524",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 30,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82524",
+     "sha256": "50bd0b83fee4c106d063dd3f41b58ccec9d4760654b98c9326ad7368570d89ce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv020-83142",
+   "path": "pravilnik/2014/dv020-83142",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83142",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 121,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83142",
+     "sha256": "18f22274db72ca01a0c77ce5c491c8f4a63a7908ab77f3af9a56682f90992987"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv024-83416",
+   "path": "pravilnik/2014/dv024-83416",
+   "short": "Правилник за администрацията на Върховния касационен съд",
+   "title": "Правилник за администрацията на Върховния касационен съд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83416",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 189,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83416",
+     "sha256": "9ed54e5c05284eccf049bacd21b7e569880e5dfec4eaa69134dbba0871c8bf35"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv028-83754",
+   "path": "pravilnik/2014/dv028-83754",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83754",
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83754",
+     "sha256": "0ef6a647633df2a33d417b0e4eeb2adc6c87946a6249ca7b67137474ee051f36"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv042-84924",
+   "path": "pravilnik/2014/dv042-84924",
+   "short": "Правилник за организацията, задачите и функциите на специализиран орган на Министерството на транспорта, информационните технологии и съобщенията за технически надзор на съоръженията с повишена опасност",
+   "title": "Правилник за организацията, задачите и функциите на специализиран орган на Министерството на транспорта, информационните технологии и съобщенията за технически надзор на съоръженията с повишена опасност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84924",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84924",
+     "sha256": "70678ef177caed399a8950094dc535681b0f9a61bf6bd3a0cdaac96a74e3481e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv047-85455",
+   "path": "pravilnik/2014/dv047-85455",
+   "short": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85455",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85455",
+     "sha256": "befbfbc53dc1c353234721e129f97ad310470592dd481ccc06ba442e6541d02e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv050-85732",
+   "path": "pravilnik/2014/dv050-85732",
+   "short": "Правилник за изменение и допълнение на Правилника за организация на дейността на ВСС и неговата администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за организация на дейността на ВСС и неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85732",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85732",
+     "sha256": "debaf7eb368b8bb2659682524302634d58dad5c44cdb4491de815bcf05458a65"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv056-86227",
+   "path": "pravilnik/2014/dv056-86227",
+   "short": "Правилник за организацията, дейността и финансирането на Съвета по животновъдство",
+   "title": "Правилник за организацията, дейността и финансирането на Съвета по животновъдство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86227",
+   "versions": [
+    {
+     "from": "2014-07-08",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86227",
+     "sha256": "c857d09154ac2670bbad16ee4ec307f6f42065b89ce43f2a0fef82b14ed1ce77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv066-86887",
+   "path": "pravilnik/2014/dv066-86887",
+   "short": "Правилник за организацията и дейността на асоциациите по водоснабдяване и канализация",
+   "title": "Правилник за организацията и дейността на асоциациите по водоснабдяване и канализация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86887",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 88,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86887",
+     "sha256": "ac7908ac7628c2e3cb3ad09aa939a913534d52db50b179437900762d748b4ed0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv068-87221",
+   "path": "pravilnik/2014/dv068-87221",
+   "short": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87221",
+   "versions": [
+    {
+     "from": "2014-08-18",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87221",
+     "sha256": "8a770d1475089205558a2d7b1a98adfa8cc81ec0fccc0de1c5e5c516b09f6cc0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv076-87754",
+   "path": "pravilnik/2014/dv076-87754",
+   "short": "Устройствен правилник на Патентното ведомство",
+   "title": "Устройствен правилник на Патентното ведомство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87754",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87754",
+     "sha256": "5cb12f5c453f6df0a964a3df3ed9d560b6267a0e9e0311b09fd69dda875ed100"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87827",
+   "path": "pravilnik/2014/dv077-87827",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Беласица\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Беласица\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87827",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87827",
+     "sha256": "1455925cd726495308fe2aba1fe9d0d721d990e3be77f98e2a22bda153a92068"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87828",
+   "path": "pravilnik/2014/dv077-87828",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Българка\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Българка\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87828",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87828",
+     "sha256": "76c35e7c07f26910f53ff1d2ce88e72ae0393eb7d013f9dc2436a72e87b85b6c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87829",
+   "path": "pravilnik/2014/dv077-87829",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87829",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87829",
+     "sha256": "b338ae9f2cf7b2d6f05991da42d0e3b9bde3421bba8e31611fe7efe4ef916db1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87830",
+   "path": "pravilnik/2014/dv077-87830",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Врачански Балкан\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87830",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87830",
+     "sha256": "fad2dbbf12ffdb547cb24714862703a4d478715015b9e6aaa49d4aca8051cefd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87831",
+   "path": "pravilnik/2014/dv077-87831",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Златни пясъци\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Златни пясъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87831",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87831",
+     "sha256": "21aff9f8afc89942bc3d6e83363b8170b209465d52f24f75cee92ea31c4850cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87832",
+   "path": "pravilnik/2014/dv077-87832",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Персина\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Персина\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87832",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87832",
+     "sha256": "452d734f422551631d4a5cb9ce22a0c8e25828b7e1cd9aad006e165a51ecc81f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87833",
+   "path": "pravilnik/2014/dv077-87833",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Рилски манастир\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Рилски манастир\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87833",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87833",
+     "sha256": "dd2edc47948cd7f7735eec3ac21c784c8c0ad1d10642263d3bf65e1ae2445cfd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87834",
+   "path": "pravilnik/2014/dv077-87834",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Русенски Лом\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Русенски Лом\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87834",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87834",
+     "sha256": "2259ecbf7cc40a33558cbfa4321aebd4fd8a859c78f8ceae9957a3ab11cf26c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87835",
+   "path": "pravilnik/2014/dv077-87835",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87835",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87835",
+     "sha256": "070bb6b7f5fda7271bce619c55946fb2ed7b27e73f76769f25665a5dfe8bd6a6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87836",
+   "path": "pravilnik/2014/dv077-87836",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Странджа\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Странджа\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87836",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87836",
+     "sha256": "915b63d8f8ea3d3910b30baabb49cc3334c2ffcca5a1f1e9b679559182faa0b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv077-87837",
+   "path": "pravilnik/2014/dv077-87837",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Шуменско плато\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Шуменско плато\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87837",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87837",
+     "sha256": "de7777bf6e70bfb18ebc27642738a3d41702b7c5b4bedc56c5572b6124203efe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv079-87932",
+   "path": "pravilnik/2014/dv079-87932",
+   "short": "Правилник за устройството и дейността на Национален литературен музей",
+   "title": "Правилник за устройството и дейността на Национален литературен музей",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87932",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87932",
+     "sha256": "f9bbd7b1e07b48a95d82caf0fc53200fe96ceb052134e1bad2fa540b6e78ce17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv082-88190",
+   "path": "pravilnik/2014/dv082-88190",
+   "short": "Правилник за устройството и дейността на Научноизследователския институт по криминалистика и криминология",
+   "title": "Правилник за устройството и дейността на Научноизследователския институт по криминалистика и криминология",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88190",
+   "versions": [
+    {
+     "from": "2014-10-03",
+     "units": 40,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88190",
+     "sha256": "8ed8e496c7c8cfe2fce3ee5b957af2bb3bfeac5d5abe6228e5d21e40c89b968d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv083-88353",
+   "path": "pravilnik/2014/dv083-88353",
+   "short": "Правилник за организацията и дейността на Експертния съвет за оценка на приоритетни вещества",
+   "title": "Правилник за организацията и дейността на Експертния съвет за оценка на приоритетни вещества",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88353",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 70,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88353",
+     "sha256": "2ebc573e18eb9864641767cb4fa1ce5d66c3438439414c551dd321b81f96d181"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-dv092-89280",
+   "path": "pravilnik/2014/dv092-89280",
+   "short": "Правилник за организацията и дейността на държавните детски градини към Министерството на отбраната",
+   "title": "Правилник за организацията и дейността на държавните детски градини към Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89280",
+   "versions": [
+    {
+     "from": "2014-11-07",
+     "units": 78,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89280",
+     "sha256": "2dfb0e950bff3d064dd77876e2bdffda480e04096e25d39f913cfd8d24f20f35"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv001-90943",
+   "path": "pravilnik/2015/dv001-90943",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90943",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90943",
+     "sha256": "d6526960735729e36d36d4eb2fce76c4561806d8ab126bb80b2451dc08cb60d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv002-91069",
+   "path": "pravilnik/2015/dv002-91069",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91069",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91069",
+     "sha256": "c1b4cc99af7093ab947988530a928f35ab4cfc44a06af0488d9fdd19abce1e0c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv009-91576",
+   "path": "pravilnik/2015/dv009-91576",
+   "short": "Правилник за устройството и дейността на Национален музеeн комплекс - София",
+   "title": "Правилник за устройството и дейността на Национален музеeн комплекс - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91576",
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 26,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91576",
+     "sha256": "ff005b52e44a2216017d16efda3a2b8b5692c0729066c353346eb4664cad08cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv013-92043",
+   "path": "pravilnik/2015/dv013-92043",
+   "short": "Правилник за организацията и дейността на Съвета по продуктите за растителна защита",
+   "title": "Правилник за организацията и дейността на Съвета по продуктите за растителна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92043",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92043",
+     "sha256": "9b3f8739101f635eb5e058f2bfd0e0096ff8b26df00f981cbdac9199a48c8d97"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv034-94309",
+   "path": "pravilnik/2015/dv034-94309",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94309",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94309",
+     "sha256": "9bcb4fd55dfd3d5b77a1c325b8d997e8a8c526dbe884c74cca668a68b0e45769"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv035-94344",
+   "path": "pravilnik/2015/dv035-94344",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94344",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94344",
+     "sha256": "ce31e0c69d8439093b4c36bca2ecf3a3832a9dd1139287c8f458daab38038e58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv035-94372",
+   "path": "pravilnik/2015/dv035-94372",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94372",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94372",
+     "sha256": "80f5ffef45c777d5b8aa6cafe39acaa84f0f422b1ea15a96fb7a2d463cdb14c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv038-94730",
+   "path": "pravilnik/2015/dv038-94730",
+   "short": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94730",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94730",
+     "sha256": "b611bdfe4538993c210840de804ad09d54eb508fddc34c3a741e95684c8e096d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv043-95085",
+   "path": "pravilnik/2015/dv043-95085",
+   "short": "Правилник за дейността на Комисията за енергийно и водно регулиране и на нейната администрация",
+   "title": "Правилник за дейността на Комисията за енергийно и водно регулиране и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95085",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 86,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95085",
+     "sha256": "a43e290524a30461f7b719846f4892f83dbe060a6ce70cd6d0719cf0548b78fc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv047-95375",
+   "path": "pravilnik/2015/dv047-95375",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95375",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95375",
+     "sha256": "caf42a5ca01b19afa33d429cd9293c5569987218c292d1cfbfd488129f43c0e9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv049-95594",
+   "path": "pravilnik/2015/dv049-95594",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95594",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 64,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95594",
+     "sha256": "01804a5a7511dbaa35dd921d04614ce89df8eb26a46619acb7e620ac164e8f7c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv054-95855",
+   "path": "pravilnik/2015/dv054-95855",
+   "short": "Правилник за устройството и дейността на Националния център по обществено здраве и анализи",
+   "title": "Правилник за устройството и дейността на Националния център по обществено здраве и анализи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95855",
+   "versions": [
+    {
+     "from": "2015-07-20",
+     "units": 42,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95855",
+     "sha256": "73470bf8bf55d23db0109be5b88b6232a03ab441aa5620a8ed1f60f1af1818f4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv054-95864",
+   "path": "pravilnik/2015/dv054-95864",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95864",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95864",
+     "sha256": "9266389bf4d0a02765b7a39b92b5691a1c3e1c3cb12d4a44ff8f7b6eb3627e81"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv054-95865",
+   "path": "pravilnik/2015/dv054-95865",
+   "short": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Врачански Балкан\"",
+   "title": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Врачански Балкан\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95865",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95865",
+     "sha256": "620d593d88497e60926f77e79f3743934dab877d7b4445c7ae7a88e83fc4b2cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv063-96556",
+   "path": "pravilnik/2015/dv063-96556",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96556",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96556",
+     "sha256": "160e0ef08c3d13a2ad633d8ca9f6f12bd779037d20cb0a181592fbc884f4c48e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv063-96584",
+   "path": "pravilnik/2015/dv063-96584",
+   "short": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96584",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96584",
+     "sha256": "d5fbde0bebffc5c78cf4b9a69beea92571cb7d0eb0ea778fb58a6fa193c841b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv064-96671",
+   "path": "pravilnik/2015/dv064-96671",
+   "short": "Правилник за изменение на Устройствения правилник на Лесозащитна станция гр. София",
+   "title": "Правилник за изменение на Устройствения правилник на Лесозащитна станция гр. София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96671",
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96671",
+     "sha256": "1e7ce6560c071fa8e07e6175b11888260bead07752b720e958aee3066a09d734"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv066-96885",
+   "path": "pravilnik/2015/dv066-96885",
+   "short": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "title": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96885",
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 131,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96885",
+     "sha256": "d27dedf00093f93e9c4964a47268590c61dec2d100cf3c70b33fdf2a5910c7d8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv072-97436",
+   "path": "pravilnik/2015/dv072-97436",
+   "short": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "title": "Правилник за изменение на Устройствения правилник на Контролно-техническата инспекция към министъра на земеделието и храните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97436",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97436",
+     "sha256": "5a4c60fab64c9dfe58597cca861b02232992d5d67dc860dfb13ebdd44a733757"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv072-97457",
+   "path": "pravilnik/2015/dv072-97457",
+   "short": "Правилник за наблюдение и оценка на научноизследователската дейност, осъществявана от висшите училища и научните организации, както и на дейността на Фонд \"Научни изследвания\"",
+   "title": "Правилник за наблюдение и оценка на научноизследователската дейност, осъществявана от висшите училища и научните организации, както и на дейността на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97457",
+   "versions": [
+    {
+     "from": "2015-09-21",
+     "units": 32,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97457",
+     "sha256": "fa36969ca7e5795ec4dbf926e3c9edba6582f516d9839432d51471621e095895"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv078-97793",
+   "path": "pravilnik/2015/dv078-97793",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97793",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 15,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97793",
+     "sha256": "a702d886f0da697d7d39490891af65398c8cc6f4ec6f953933059fe5aecea0a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv087-98502",
+   "path": "pravilnik/2015/dv087-98502",
+   "short": "Правилник за дейността на общите и секторните помирителни комисии",
+   "title": "Правилник за дейността на общите и секторните помирителни комисии",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98502",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 58,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98502",
+     "sha256": "5d5b644d1c8b62f0052de953f24372acf9e4f6d56494f1bfc37a36bf9a41ed5e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv093-98974",
+   "path": "pravilnik/2015/dv093-98974",
+   "short": "Устройствен правилник на Патентното ведомство на Република България",
+   "title": "Устройствен правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98974",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98974",
+     "sha256": "639c41f6095ba78d948823e5bbd3ffdf28587d2d23f9a4d29b9b33aba5409531"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv100-99385",
+   "path": "pravilnik/2015/dv100-99385",
+   "short": "Правилник за устройството и дейността на Националния институт за обучение и квалификация в системата на образованието",
+   "title": "Правилник за устройството и дейността на Националния институт за обучение и квалификация в системата на образованието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99385",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99385",
+     "sha256": "ad021fc93085d97ba9e7bf68b7cadfa9e2ca3d3fcba49b268f6deab5a7281f3b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-dv101-99582",
+   "path": "pravilnik/2015/dv101-99582",
+   "short": "Правилник за дейността на Помирителната комисия за платежни спорове",
+   "title": "Правилник за дейността на Помирителната комисия за платежни спорове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99582",
+   "versions": [
+    {
+     "from": "2015-12-25",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99582",
+     "sha256": "50523dc5167342a1261ba9985b833adc2d28e9d8f750347a0990db37a8ad8285"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv006-99972",
+   "path": "pravilnik/2016/dv006-99972",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99972",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99972",
+     "sha256": "6205fa040f3fc4e8f7276298221f309b2f1c88a58fa9b1dcbe69b985ba13a5b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv008-100481",
+   "path": "pravilnik/2016/dv008-100481",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100481",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100481",
+     "sha256": "1f3c18df3d8b02655d4c0b5cd2bcf524497825f91632810b155a8c51ed06ae91"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv011-100776",
+   "path": "pravilnik/2016/dv011-100776",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100776",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100776",
+     "sha256": "3faecb3f892572285c03fdd2e10125136b21caf1077ca8f6334ed58a01236179"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv012-100860",
+   "path": "pravilnik/2016/dv012-100860",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100860",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100860",
+     "sha256": "78b0dff958d3f860aae50a6dbc0681c3b2b4152570f3f2a8f423dfda7569f9b1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv022-101930",
+   "path": "pravilnik/2016/dv022-101930",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101930",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101930",
+     "sha256": "98c4c55afefc800440d215cd2064469344fc26924fad9ed636efce8090e36c4a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv028-102273",
+   "path": "pravilnik/2016/dv028-102273",
+   "short": "Правилник за устройството и дейността на Национален политехнически музей - София",
+   "title": "Правилник за устройството и дейността на Национален политехнически музей - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102273",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 28,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102273",
+     "sha256": "62f83572cee87f1fca9eaae163ac2240f2efdef84fd5a9a0686acfcbe6c7da7b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv028-102274",
+   "path": "pravilnik/2016/dv028-102274",
+   "short": "Правилник за устройството и дейността на Национален парк-музей \"Шипка - Бузлуджа\" - Казанлък",
+   "title": "Правилник за устройството и дейността на Национален парк-музей \"Шипка - Бузлуджа\" - Казанлък",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102274",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102274",
+     "sha256": "9a0a0c514948df8233a3323a4b2e8e21a500330d523b43dcb39c3b58e9101cb4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv037-103497",
+   "path": "pravilnik/2016/dv037-103497",
+   "short": "Правилник за администрацията на Върховния административен съд",
+   "title": "Правилник за администрацията на Върховния административен съд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103497",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 141,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103497",
+     "sha256": "0ff98ce0bac9e2fe53c7810fb007c011060b3be679a667c5ce79085b640cb8eb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv037-103552",
+   "path": "pravilnik/2016/dv037-103552",
+   "short": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Витоша\"",
+   "title": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103552",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103552",
+     "sha256": "de21554b23051b50e02bd6a10e7357253d1d422abb17c46c3140a772db2ce5fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv041-104025",
+   "path": "pravilnik/2016/dv041-104025",
+   "short": "Правилник за устройството и дейността на Националния литературен музей",
+   "title": "Правилник за устройството и дейността на Националния литературен музей",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104025",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 30,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104025",
+     "sha256": "2ee60a7eb51c203770de6c08f896f886384a6b68a8c5bbfe97cf4713615fdb61"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv044-104294",
+   "path": "pravilnik/2016/dv044-104294",
+   "short": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "title": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104294",
+   "versions": [
+    {
+     "from": "2016-06-13",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104294",
+     "sha256": "0af74aa2e9b21840b695dbfb6e163d3106f1c3fd2c7ee916172dcaa286474a0c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv044-104308",
+   "path": "pravilnik/2016/dv044-104308",
+   "short": "Правилник за устройството и дейността на Националната галерия",
+   "title": "Правилник за устройството и дейността на Националната галерия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104308",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 30,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104308",
+     "sha256": "7a9161b5316a5ff9d8e3ba32ff1886583027cb67faa21a336b830009b1689c59"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv053-105375",
+   "path": "pravilnik/2016/dv053-105375",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция \"Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105375",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105375",
+     "sha256": "d31768ef7ba9e040243f2d7572adcc4de549772c9d2e94d402c328f852a733f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv054-105747",
+   "path": "pravilnik/2016/dv054-105747",
+   "short": "Правилник за устройството и дейността на Централно военно окръжие",
+   "title": "Правилник за устройството и дейността на Централно военно окръжие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105747",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105747",
+     "sha256": "9e9410c79365589baa719a03053b4bcdf1e1718791eb4a10dd7eba22152c0da0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv058-105854",
+   "path": "pravilnik/2016/dv058-105854",
+   "short": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "title": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105854",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 63,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105854",
+     "sha256": "d85e6519f8d93444fb375c06512fe534c09420f152252d8220e906a77079e475"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv059-106188",
+   "path": "pravilnik/2016/dv059-106188",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106188",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106188",
+     "sha256": "f898e76ae73c2905c110920e0121f03d906a1a1a44d55d3201da7606eb891745"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv061-106065",
+   "path": "pravilnik/2016/dv061-106065",
+   "short": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Витоша\"",
+   "title": "Правилник за изменение на Устройствения правилник на Дирекция на Природен парк \"Витоша\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106065",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106065",
+     "sha256": "6d48d6d87ace75ff8bea109b74db8363dec716fb0d8166140d6978f42f36c1aa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv067-106817",
+   "path": "pravilnik/2016/dv067-106817",
+   "short": "Правилник за устройството и дейността на Комисията за финансов надзор и на нейната администрация",
+   "title": "Правилник за устройството и дейността на Комисията за финансов надзор и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106817",
+   "versions": [
+    {
+     "from": "2016-08-29",
+     "units": 91,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106817",
+     "sha256": "3916cb5128e5a1a5e91fc643de8a6959ca683ce63e6019facec8dafae0c1955f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv070-107227",
+   "path": "pravilnik/2016/dv070-107227",
+   "short": "Правилник за допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107227",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107227",
+     "sha256": "c04b1164dead2b16c420057a01d028d67ddc0c80a34026556bce01d44bf0f711"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv075-107660",
+   "path": "pravilnik/2016/dv075-107660",
+   "short": "Правилник за създаването, устройството и дейността на обществените съвети към детските градини и училищата",
+   "title": "Правилник за създаването, устройството и дейността на обществените съвети към детските градини и училищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107660",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107660",
+     "sha256": "2b162309c1cd2a9664daa5e066145c245932b2528ec36947461d121d379b7edb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv075-107723",
+   "path": "pravilnik/2016/dv075-107723",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107723",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107723",
+     "sha256": "e04a4c406adc54d5819725aeb0622a5ae8a81687c67ba1d0fd80f16988cbd149"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv076-107727",
+   "path": "pravilnik/2016/dv076-107727",
+   "short": "Устройствен правилник на Патентното ведомство на Република България",
+   "title": "Устройствен правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107727",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107727",
+     "sha256": "05fcdcb80efb655c8c6d06c4e564bb9d6bbca9c19796a47d43d54cac9060a15b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv082-108163",
+   "path": "pravilnik/2016/dv082-108163",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108163",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108163",
+     "sha256": "84a1d113f394d50312d66341e5bf51d6ec6831c29727e67b1bb64ca34a8f2d2d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv087-108732",
+   "path": "pravilnik/2016/dv087-108732",
+   "short": "Правилник за устройството и дейността на Националния център за обучение и квалификация в системата за спешна медицинска помощ",
+   "title": "Правилник за устройството и дейността на Националния център за обучение и квалификация в системата за спешна медицинска помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108732",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108732",
+     "sha256": "e8571131251c47d93a6980b56307a95c8c5527899f2ce59202f178b200dd3eb5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv089-108876",
+   "path": "pravilnik/2016/dv089-108876",
+   "short": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108876",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108876",
+     "sha256": "dc534f0b74a761774a348b78fb8f4db091b91e96220c5736d27426b99ef76a0d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv090-108932",
+   "path": "pravilnik/2016/dv090-108932",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността и структурата на Държавно предприятие \"Транспортно строителство и възстановяване\"",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността и структурата на Държавно предприятие \"Транспортно строителство и възстановяване\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108932",
+   "versions": [
+    {
+     "from": "2016-11-18",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108932",
+     "sha256": "248f6ed85d3e7a73855d8a948b54d5a51cf951390239c06cb8caa74257b677e9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv096-109578",
+   "path": "pravilnik/2016/dv096-109578",
+   "short": "Правилник за устройството и дейността на Държавния логопедичен център",
+   "title": "Правилник за устройството и дейността на Държавния логопедичен център",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109578",
+   "versions": [
+    {
+     "from": "2016-12-05",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109578",
+     "sha256": "9cbfbc3757380760a87d331c8ea403c5e065646ec7dcf8e9390f2c5356913121"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv101-110401",
+   "path": "pravilnik/2016/dv101-110401",
+   "short": "Правилник за администрацията на Върховния касационен съд",
+   "title": "Правилник за администрацията на Върховния касационен съд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110401",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 155,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110401",
+     "sha256": "1911b92bfbda77104df3d5b1b77650e52e689f69c69d558a1109cb154f093b42"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv103-110455",
+   "path": "pravilnik/2016/dv103-110455",
+   "short": "Правилник за отменяне на Правилник № 0-33 за проектиране и устройство на медицински рентгенови кабинети и експлоатация на медицински рентгенови уредби с максимално върхово напрежение до 300 KV",
+   "title": "Правилник за отменяне на Правилник № 0-33 за проектиране и устройство на медицински рентгенови кабинети и експлоатация на медицински рентгенови уредби с максимално върхово напрежение до 300 KV",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110455",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110455",
+     "sha256": "fd0133995a2ffca4c053bee21f28c53f64f191d9c42a3872e8c0d616e6f7c20e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv103-110456",
+   "path": "pravilnik/2016/dv103-110456",
+   "short": "Правилник за отменяне на Правилник № 0-34 за лъчезащита при използуване на рентгенови лъчи с енергия до 300 KeV за медицински цели",
+   "title": "Правилник за отменяне на Правилник № 0-34 за лъчезащита при използуване на рентгенови лъчи с енергия до 300 KeV за медицински цели",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110456",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110456",
+     "sha256": "548af53aa204f18ee2049eea75d65e6dffac3371912d8384949cb62f34870d95"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-dv103-110617",
+   "path": "pravilnik/2016/dv103-110617",
+   "short": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "title": "Правилник за организацията на дейността на Инспектората към Висшия съдебен съвет и за дейността на администрацията и на експертите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110617",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 156,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110617",
+     "sha256": "5950c6d6621c0f50b1f30410d147c16938e39f10808115e7a3e79a5ba395f26b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv010-111421",
+   "path": "pravilnik/2017/dv010-111421",
+   "short": "Правилник за устройството и дейността на Националния музей на образованието - Габрово",
+   "title": "Правилник за устройството и дейността на Националния музей на образованието - Габрово",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111421",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111421",
+     "sha256": "3306206dbb20f9ee390b163f17eab6bac88493cb39b0681a72551775ae1d3c65"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv010-111446",
+   "path": "pravilnik/2017/dv010-111446",
+   "short": "Правилник за устройството и дейността на Център за оценяване в предучилищното и училищното образование",
+   "title": "Правилник за устройството и дейността на Център за оценяване в предучилищното и училищното образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111446",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111446",
+     "sha256": "24fc9c8205c52000c7a64a39496d49f5921c1fb127c40b4f130097b179488757"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv013-111568",
+   "path": "pravilnik/2017/dv013-111568",
+   "short": "Правилник за устройството и функциите на регионалните управления на образованието",
+   "title": "Правилник за устройството и функциите на регионалните управления на образованието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111568",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111568",
+     "sha256": "6f3c3964a1d083ddf84d18e4ccfc490dc6d16b36f32dd419ac2dc6fb5bafdee6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv013-111640",
+   "path": "pravilnik/2017/dv013-111640",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111640",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 42,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111640",
+     "sha256": "ac8556fa3b04c70091191f7742a8b555c6aaff74d3a2df61e407ea0f5ac4ed99"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv014-111768",
+   "path": "pravilnik/2017/dv014-111768",
+   "short": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111768",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111768",
+     "sha256": "5787edcb7c26921e122f6c14abacc323a7531bc70a436ef1bdb0ea11e126c9d8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv016-111920",
+   "path": "pravilnik/2017/dv016-111920",
+   "short": "Правилник за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "title": "Правилник за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111920",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 57,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111920",
+     "sha256": "4acd6bb825ada044a5754d0f6651ad73ea5d38081090afb8e3e1eca0f2304583"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv018-112005",
+   "path": "pravilnik/2017/dv018-112005",
+   "short": "Правилник за устройството и дейността на Националния дворец на децата",
+   "title": "Правилник за устройството и дейността на Националния дворец на децата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112005",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 41,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112005",
+     "sha256": "58253851767767d2fb624e7b3f1717aef3ed42ee9c4291c57a706759825a0aec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv021-112343",
+   "path": "pravilnik/2017/dv021-112343",
+   "short": "Правилник за устройството и дейността на Националния център по радиобиология и радиационна защита",
+   "title": "Правилник за устройството и дейността на Националния център по радиобиология и радиационна защита",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112343",
+   "versions": [
+    {
+     "from": "2017-03-13",
+     "units": 43,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112343",
+     "sha256": "0c33a482606b3ccb125ccb1d0fd956add7d353dbff32d55e1c12d4a2c1ca5e13"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv029-113242",
+   "path": "pravilnik/2017/dv029-113242",
+   "short": "Правилник за устройството, организацията и дейността на Учебен център",
+   "title": "Правилник за устройството, организацията и дейността на Учебен център",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113242",
+   "versions": [
+    {
+     "from": "2017-04-10",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113242",
+     "sha256": "f1ef49f22e5772f65865e17d80b6d85e1c4a1459f6bfb93cfb9e9aa9e873611f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv031-113444",
+   "path": "pravilnik/2017/dv031-113444",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113444",
+   "versions": [
+    {
+     "from": "2017-04-18",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113444",
+     "sha256": "d09b384ca7aab03af09e472728a74f2176298127a7c40733c072a195309c7780"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv032-113541",
+   "path": "pravilnik/2017/dv032-113541",
+   "short": "Правилник за дейността на военнослужещите в Службата на военния аташе към задграничните представителства на Република България",
+   "title": "Правилник за дейността на военнослужещите в Службата на военния аташе към задграничните представителства на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113541",
+   "versions": [
+    {
+     "from": "2017-04-21",
+     "units": 20,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113541",
+     "sha256": "0d1ed9f0b33435f6b21cd0660727cce92c44866c10f0361c2d9fcf80981022d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv043-114709",
+   "path": "pravilnik/2017/dv043-114709",
+   "short": "Правилник за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната",
+   "title": "Правилник за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114709",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 75,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114709",
+     "sha256": "ad3af65a67ae5574d56af50d60dd568762de8ee1aed92c01bc6f90911f43ba2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv044-114798",
+   "path": "pravilnik/2017/dv044-114798",
+   "short": "Правилник за устройството и дейността на Звеното за оперативно управление и финансово осигуряване на организационните структури на Министерството на образованието и науката",
+   "title": "Правилник за устройството и дейността на Звеното за оперативно управление и финансово осигуряване на организационните структури на Министерството на образованието и науката",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114798",
+   "versions": [
+    {
+     "from": "2017-06-05",
+     "units": 22,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114798",
+     "sha256": "35c55e03c3c26aa3ff05f32c4ee858489a5cfaf3adb89761e9426cd68988681e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv053-115651",
+   "path": "pravilnik/2017/dv053-115651",
+   "short": "Правилник за устройството и дейността на Комисията за финансов надзор и на нейната администрация",
+   "title": "Правилник за устройството и дейността на Комисията за финансов надзор и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115651",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 95,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115651",
+     "sha256": "7e7d52633a60f6561ff6fc108cf31048454fb8364518dd918fc7261607604c79"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv056-115842",
+   "path": "pravilnik/2017/dv056-115842",
+   "short": "Правилник за устройството и дейността на Централния артилерийски технически изпитателен полигон",
+   "title": "Правилник за устройството и дейността на Централния артилерийски технически изпитателен полигон",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115842",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 73,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115842",
+     "sha256": "a2f94bb3ae34c3d011af35990750ed49e42d0fa94bb4c84dc8c69a4765208cd4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv057-115937",
+   "path": "pravilnik/2017/dv057-115937",
+   "short": "Правилник за устройството и дейността на Центъра за информационно осигуряване на образованието",
+   "title": "Правилник за устройството и дейността на Центъра за информационно осигуряване на образованието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115937",
+   "versions": [
+    {
+     "from": "2017-07-17",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115937",
+     "sha256": "413cbf63b192bc0cdfb64fa5e6b0d29b734e8f70b28fd0bd75641e2e95aaa713"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv067-116924",
+   "path": "pravilnik/2017/dv067-116924",
+   "short": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116924",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116924",
+     "sha256": "d9bf4dce52fcd5dfaebeda3cbdd4ecd1ba532a007fea2a33c3096288a15d421e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv068-117010",
+   "path": "pravilnik/2017/dv068-117010",
+   "short": "Правилник за администрацията в съдилищата",
+   "title": "Правилник за администрацията в съдилищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117010",
+   "versions": [
+    {
+     "from": "2017-08-22",
+     "units": 213,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117010",
+     "sha256": "830ecc7b8b94065876e00563b19e860de2434b67e2421b6ad7c7bcf11a279cfe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv079-118171",
+   "path": "pravilnik/2017/dv079-118171",
+   "short": "Правилник за изменение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "title": "Правилник за изменение на Устройствения правилник на дирекция на природен парк \"Сините камъни\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118171",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118171",
+     "sha256": "de5efde6ef7d3a4e28240fb3e24892ccaaea6cda181bb48c73d21ed7c119da60"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv080-118392",
+   "path": "pravilnik/2017/dv080-118392",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118392",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 17,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118392",
+     "sha256": "30934967727c1673845c583e64f5652b53aa448f21637e3ee1dfa69f882d3f48"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv080-118396",
+   "path": "pravilnik/2017/dv080-118396",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана \"Професор Цветан Лазаров\"",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана \"Професор Цветан Лазаров\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118396",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118396",
+     "sha256": "83bc29e5ac31d2fb11a49bf4ad7bdce22cc7812bd32ff539dccccbc50f3d4efa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv087-119215",
+   "path": "pravilnik/2017/dv087-119215",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119215",
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119215",
+     "sha256": "2e586952967540740ce3ae707075eba3a60e067d7015540895ea2850e604117b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv087-119221",
+   "path": "pravilnik/2017/dv087-119221",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за защита от дискриминация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119221",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119221",
+     "sha256": "90de56fc89d8252b23e52b20be3a5468cc5f247e099ab165dd4f9d6ff3ea0240"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv091-119648",
+   "path": "pravilnik/2017/dv091-119648",
+   "short": "Правилник за организацията и дейността на Експертния съвет по биоциди",
+   "title": "Правилник за организацията и дейността на Експертния съвет по биоциди",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119648",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119648",
+     "sha256": "5dd67625327231ac8b37461b7fec7a857f538411f0df934d9836c81256cb6567"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv092-119807",
+   "path": "pravilnik/2017/dv092-119807",
+   "short": "Правилник за устройството и дейността на Стационарната комуникационна и информационна система",
+   "title": "Правилник за устройството и дейността на Стационарната комуникационна и информационна система",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119807",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 44,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119807",
+     "sha256": "289bbe9dc4be37b3a35c2cf807e1353e8bd222871b02630b43cfd007d24d2d0d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-dv093-119897",
+   "path": "pravilnik/2017/dv093-119897",
+   "short": "Правилник за изменение на Устройствения правилник на регионалните дирекции по горите",
+   "title": "Правилник за изменение на Устройствения правилник на регионалните дирекции по горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119897",
+   "versions": [
+    {
+     "from": "2017-11-21",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119897",
+     "sha256": "329faa6b7d2341be4a2bf3f06ba0533a3e8f019c72b3909ec55390c1a2258ff9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv009-121946",
+   "path": "pravilnik/2018/dv009-121946",
+   "short": "Правилник за устройството и дейността на регионалните центрове за подкрепа на процеса на приобщаващото образование",
+   "title": "Правилник за устройството и дейността на регионалните центрове за подкрепа на процеса на приобщаващото образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121946",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121946",
+     "sha256": "24a294a7a5fdb99ce59c6c8e703ef4d714685254473501ccc846b449512212c6"
+    }
+   ]
+  },
+  {
    "slug": "naredba-2006-dv019-1503",
    "path": "naredba/2006/dv019-1503",
    "short": "Наредба за изменение и допълнение на Наредба № 9 от 2002 г. за оценка и класификация на рисковите експозиции на банките и за формиране на провизии за загуби от обезценка",
