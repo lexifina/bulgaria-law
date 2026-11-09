@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за местните данъци и такси
 
-Закон за изменение и допълнение на Закона за местните данъци и такси · 1 versions, from 2024-09-27 (latest in force: 2024-09-27) · <https://www.parliament.bg/bg/laws/ID/165771>
+Закон за изменение и допълнение на Закона за местните данъци и такси · 1 versions, from 2024-09-24 (latest in force: 2024-09-24) · <https://www.parliament.bg/bg/laws/ID/165771>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за здравното осигуряване
 
-Закон за допълнение на Закона за здравното осигуряване · 1 versions, from 2013-01-18 (latest in force: 2013-01-18) · <https://www.parliament.bg/bg/laws/ID/14262>
+Закон за допълнение на Закона за здравното осигуряване · 1 versions, from 2013-01-15 (latest in force: 2013-01-15) · <https://www.parliament.bg/bg/laws/ID/14262>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за ратифициране на международен договор за Изменение и допълнение № 2 на международен договор (LOA) BU-D-SAB "Самолети F-16 Block 70 и свързана с тях поддръжка" (F-16 Block 70 aircraft and associated support) по програмата на САЩ за чуждестранни военни продажби (Foreign Military Sales-FMS)
 
-Закон за ратифициране на международен договор за Изменение и допълнение № 2 на международен договор (LOA) BU-D-SAB "Самолети F-16 Block 70 и свързана с тях поддръжка" (F-16 Block 70 aircraft and associated support) по програмата на САЩ за чуждестранни военни продажби (Foreign Military Sales-FMS) · 1 versions, from 2024-05-17 (latest in force: 2024-05-17) · <https://www.parliament.bg/bg/laws/ID/165512>
+Закон за ратифициране на международен договор за Изменение и допълнение № 2 на международен договор (LOA) BU-D-SAB "Самолети F-16 Block 70 и свързана с тях поддръжка" (F-16 Block 70 aircraft and associated support) по програмата на САЩ за чуждестранни военни продажби (Foreign Military Sales-FMS) · 1 versions, from 2024-05-14 (latest in force: 2024-05-14) · <https://www.parliament.bg/bg/laws/ID/165512>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

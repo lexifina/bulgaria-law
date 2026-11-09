@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Семейния кодекс
 
-Закон за изменение и допълнение на Семейния кодекс · 1 versions, from 2010-12-24 (latest in force: 2010-12-24) · <https://www.parliament.bg/bg/laws/ID/10014>
+Закон за изменение и допълнение на Семейния кодекс · 1 versions, from 2010-12-21 (latest in force: 2010-12-21) · <https://www.parliament.bg/bg/laws/ID/10014>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

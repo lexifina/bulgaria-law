@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за здравето
 
-Закон за изменение на Закона за здравето · 1 versions, from 2023-11-20 (latest in force: 2023-11-20) · <https://www.parliament.bg/bg/laws/ID/165085>
+Закон за изменение на Закона за здравето · 1 versions, from 2023-11-17 (latest in force: 2023-11-17) · <https://www.parliament.bg/bg/laws/ID/165085>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

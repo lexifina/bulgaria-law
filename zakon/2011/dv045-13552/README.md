@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Изборния кодекс
 
-Закон за изменение и допълнение на Изборния кодекс · 1 versions, from 2011-06-17 (latest in force: 2011-06-17) · <https://www.parliament.bg/bg/laws/ID/13552>
+Закон за изменение и допълнение на Изборния кодекс · 1 versions, from 2011-06-14 (latest in force: 2011-06-14) · <https://www.parliament.bg/bg/laws/ID/13552>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

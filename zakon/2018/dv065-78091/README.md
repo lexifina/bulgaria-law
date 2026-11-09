@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Гражданския процесуален кодекс
 
-Закон за изменение и допълнение на Гражданския процесуален кодекс · 1 versions, from 2018-08-10 (latest in force: 2018-08-10) · <https://www.parliament.bg/bg/laws/ID/78091>
+Закон за изменение и допълнение на Гражданския процесуален кодекс · 1 versions, from 2018-08-07 (latest in force: 2018-08-07) · <https://www.parliament.bg/bg/laws/ID/78091>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

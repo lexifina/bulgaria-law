@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за защита при бедствия
 
-Закон за допълнение на Закона за защита при бедствия · 1 versions, from 2016-12-09 (latest in force: 2016-12-09) · <https://www.parliament.bg/bg/laws/ID/66488>
+Закон за допълнение на Закона за защита при бедствия · 1 versions, from 2016-12-06 (latest in force: 2016-12-06) · <https://www.parliament.bg/bg/laws/ID/66488>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

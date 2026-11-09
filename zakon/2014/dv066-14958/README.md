@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за висшето образование
 
-Закон за изменение на Закона за висшето образование · 1 versions, from 2014-08-11 (latest in force: 2014-08-11) · <https://www.parliament.bg/bg/laws/ID/14958>
+Закон за изменение на Закона за висшето образование · 1 versions, from 2014-08-08 (latest in force: 2014-08-08) · <https://www.parliament.bg/bg/laws/ID/14958>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

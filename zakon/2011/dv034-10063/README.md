@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за търговския регистър
 
-Закон за изменение и допълнение на Закона за търговския регистър · 1 versions, from 2011-05-02 (latest in force: 2011-05-02) · <https://www.parliament.bg/bg/laws/ID/10063>
+Закон за изменение и допълнение на Закона за търговския регистър · 1 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://www.parliament.bg/bg/laws/ID/10063>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

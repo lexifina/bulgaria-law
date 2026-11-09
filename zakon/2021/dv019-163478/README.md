@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за управление на отпадъците
 
-Закон за изменение и допълнение на Закона за управление на отпадъците · 1 versions, from 2021-03-08 (latest in force: 2021-03-08) · <https://www.parliament.bg/bg/laws/ID/163478>
+Закон за изменение и допълнение на Закона за управление на отпадъците · 1 versions, from 2021-03-05 (latest in force: 2021-03-05) · <https://www.parliament.bg/bg/laws/ID/163478>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за гражданската регистрация
 
-Закон за изменение и допълнение на Закона за гражданската регистрация · 1 versions, from 2011-05-23 (latest in force: 2011-05-23) · <https://www.parliament.bg/bg/laws/ID/12705>
+Закон за изменение и допълнение на Закона за гражданската регистрация · 1 versions, from 2011-05-20 (latest in force: 2011-05-20) · <https://www.parliament.bg/bg/laws/ID/12705>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

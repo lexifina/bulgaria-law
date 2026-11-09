@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за хазарта
 
-Закон за изменение на Закона за хазарта · 1 versions, from 2011-05-06 (latest in force: 2011-05-06) · <https://www.parliament.bg/bg/laws/ID/12684>
+Закон за изменение на Закона за хазарта · 1 versions, from 2011-05-03 (latest in force: 2011-05-03) · <https://www.parliament.bg/bg/laws/ID/12684>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

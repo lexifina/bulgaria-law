@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за подпомагане на земеделските производители
 
-Закон за изменение на Закона за подпомагане на земеделските производители · 1 versions, from 2022-08-05 (latest in force: 2022-08-05) · <https://www.parliament.bg/bg/laws/ID/164293>
+Закон за изменение на Закона за подпомагане на земеделските производители · 1 versions, from 2022-08-02 (latest in force: 2022-08-02) · <https://www.parliament.bg/bg/laws/ID/164293>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

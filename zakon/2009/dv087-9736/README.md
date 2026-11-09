@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за пощенските услуги
 
-Закон за изменение и допълнение на Закона за пощенските услуги · 1 versions, from 2009-11-06 (latest in force: 2009-11-06) · <https://www.parliament.bg/bg/laws/ID/9736>
+Закон за изменение и допълнение на Закона за пощенските услуги · 1 versions, from 2009-11-03 (latest in force: 2009-11-03) · <https://www.parliament.bg/bg/laws/ID/9736>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

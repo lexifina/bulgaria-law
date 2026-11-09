@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Кодекса за социално осигуряване
 
-Закон за изменение и допълнение на Кодекса за социално осигуряване · 1 versions, from 2011-08-08 (latest in force: 2011-08-08) · <https://www.parliament.bg/bg/laws/ID/13639>
+Закон за изменение и допълнение на Кодекса за социално осигуряване · 1 versions, from 2011-08-05 (latest in force: 2011-08-05) · <https://www.parliament.bg/bg/laws/ID/13639>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

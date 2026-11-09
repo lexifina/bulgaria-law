@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита на растенията
 
-Закон за изменение и допълнение на Закона за защита на растенията · 1 versions, from 2020-07-24 (latest in force: 2020-07-24) · <https://www.parliament.bg/bg/laws/ID/157473>
+Закон за изменение и допълнение на Закона за защита на растенията · 1 versions, from 2020-07-21 (latest in force: 2020-07-21) · <https://www.parliament.bg/bg/laws/ID/157473>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

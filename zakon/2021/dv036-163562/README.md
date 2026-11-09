@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Изборния кодекс
 
-Закон за изменение и допълнение на Изборния кодекс · 1 versions, from 2021-05-04 (latest in force: 2021-05-04) · <https://www.parliament.bg/bg/laws/ID/163562>
+Закон за изменение и допълнение на Изборния кодекс · 1 versions, from 2021-05-01 (latest in force: 2021-05-01) · <https://www.parliament.bg/bg/laws/ID/163562>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

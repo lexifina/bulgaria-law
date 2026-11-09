@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за здравното осигуряване
 
-Закон за изменение и допълнение на Закона за здравното осигуряване · 1 versions, from 2021-03-15 (latest in force: 2021-03-15) · <https://www.parliament.bg/bg/laws/ID/163508>
+Закон за изменение и допълнение на Закона за здравното осигуряване · 1 versions, from 2021-03-12 (latest in force: 2021-03-12) · <https://www.parliament.bg/bg/laws/ID/163508>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

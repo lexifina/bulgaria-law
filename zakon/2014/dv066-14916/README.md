@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за физическото възпитание и спорта
 
-Закон за допълнение на Закона за физическото възпитание и спорта · 1 versions, from 2014-08-11 (latest in force: 2014-08-11) · <https://www.parliament.bg/bg/laws/ID/14916>
+Закон за допълнение на Закона за физическото възпитание и спорта · 1 versions, from 2014-08-08 (latest in force: 2014-08-08) · <https://www.parliament.bg/bg/laws/ID/14916>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

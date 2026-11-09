@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за горите
 
-Закон за изменение и допълнение на Закона за горите · 1 versions, from 2023-08-07 (latest in force: 2023-08-07) · <https://www.parliament.bg/bg/laws/ID/164956>
+Закон за изменение и допълнение на Закона за горите · 1 versions, from 2023-08-04 (latest in force: 2023-08-04) · <https://www.parliament.bg/bg/laws/ID/164956>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

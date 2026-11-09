@@ -1,6 +1,6 @@
 # Закон за ратифициране на Договора (Писмо за предлагане и приемане на оферта/Letter of Offer and Acceptance - LOA) за допълнение и изменение № 1 (Amendment № 1) към Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services)
 
-Закон за ратифициране на Договора (Писмо за предлагане и приемане на оферта/Letter of Offer and Acceptance - LOA) за допълнение и изменение № 1 (Amendment № 1) към Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services) · 1 versions, from 2022-05-23 (latest in force: 2022-05-23) · <https://www.parliament.bg/bg/laws/ID/164066>
+Закон за ратифициране на Договора (Писмо за предлагане и приемане на оферта/Letter of Offer and Acceptance - LOA) за допълнение и изменение № 1 (Amendment № 1) към Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services) · 1 versions, from 2022-05-20 (latest in force: 2022-05-20) · <https://www.parliament.bg/bg/laws/ID/164066>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

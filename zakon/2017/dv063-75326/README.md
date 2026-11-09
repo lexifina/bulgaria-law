@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Наказателно-процесуалния кодекс
 
-Закон за изменение и допълнение на Наказателно-процесуалния кодекс · 1 versions, from 2017-08-07 (latest in force: 2017-08-07) · <https://www.parliament.bg/bg/laws/ID/75326>
+Закон за изменение и допълнение на Наказателно-процесуалния кодекс · 1 versions, from 2017-11-04 (latest in force: 2017-11-04) · <https://www.parliament.bg/bg/laws/ID/75326>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за акцизите и данъчните складове
 
-Закон за изменение и допълнение на Закона за акцизите и данъчните складове · 1 versions, from 2015-11-30 (latest in force: 2015-11-30) · <https://www.parliament.bg/bg/laws/ID/15553>
+Закон за изменение и допълнение на Закона за акцизите и данъчните складове · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://www.parliament.bg/bg/laws/ID/15553>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

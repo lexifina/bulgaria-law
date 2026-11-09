@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за туризма
 
-Закон за изменение на Закона за туризма · 1 versions, from 2009-10-19 (latest in force: 2009-10-19) · <https://www.parliament.bg/bg/laws/ID/9771>
+Закон за изменение на Закона за туризма · 1 versions, from 2009-10-16 (latest in force: 2009-10-16) · <https://www.parliament.bg/bg/laws/ID/9771>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

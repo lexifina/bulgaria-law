@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за социално подпомагане
 
-Закон за изменение и допълнение на Закона за социално подпомагане · 1 versions, from 2022-12-26 (latest in force: 2022-12-26) · <https://www.parliament.bg/bg/laws/ID/164386>
+Закон за изменение и допълнение на Закона за социално подпомагане · 1 versions, from 2023-06-01 (latest in force: 2023-06-01) · <https://www.parliament.bg/bg/laws/ID/164386>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

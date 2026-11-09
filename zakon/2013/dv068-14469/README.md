@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за младежта
 
-Закон за изменение на Закона за младежта · 1 versions, from 2013-08-05 (latest in force: 2013-08-05) · <https://www.parliament.bg/bg/laws/ID/14469>
+Закон за изменение на Закона за младежта · 1 versions, from 2013-08-02 (latest in force: 2013-08-02) · <https://www.parliament.bg/bg/laws/ID/14469>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

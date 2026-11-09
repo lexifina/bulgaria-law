@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за съдебната власт
 
-Закон за изменение и допълнение на Закона за съдебната власт · 1 versions, from 2022-04-29 (latest in force: 2022-04-29) · <https://www.parliament.bg/bg/laws/ID/164064>
+Закон за изменение и допълнение на Закона за съдебната власт · 1 versions, from 2022-07-26 (latest in force: 2022-07-26) · <https://www.parliament.bg/bg/laws/ID/164064>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

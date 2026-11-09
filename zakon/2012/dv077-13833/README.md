@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за стоковите борси и тържищата
 
-Закон за изменение и допълнение на Закона за стоковите борси и тържищата · 1 versions, from 2012-10-12 (latest in force: 2012-10-12) · <https://www.parliament.bg/bg/laws/ID/13833>
+Закон за изменение и допълнение на Закона за стоковите борси и тържищата · 1 versions, from 2012-10-09 (latest in force: 2012-10-09) · <https://www.parliament.bg/bg/laws/ID/13833>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Наказателно-процесуалния кодекс
 
-Закон за изменение и допълнение на Наказателно-процесуалния кодекс · 1 versions, from 2010-04-30 (latest in force: 2010-04-30) · <https://www.parliament.bg/bg/laws/ID/9815>
+Закон за изменение и допълнение на Наказателно-процесуалния кодекс · 1 versions, from 2010-05-27 (latest in force: 2010-05-27) · <https://www.parliament.bg/bg/laws/ID/9815>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

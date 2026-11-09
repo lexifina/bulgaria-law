@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за стоковите борси и тържищата
 
-Закон за изменение и допълнение на Закона за стоковите борси и тържищата · 1 versions, from 2011-06-06 (latest in force: 2011-06-06) · <https://www.parliament.bg/bg/laws/ID/11322>
+Закон за изменение и допълнение на Закона за стоковите борси и тържищата · 1 versions, from 2011-06-03 (latest in force: 2011-06-03) · <https://www.parliament.bg/bg/laws/ID/11322>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

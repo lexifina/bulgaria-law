@@ -1,6 +1,6 @@
 # Закон за изменение на Търговския закон
 
-Закон за изменение на Търговския закон · 1 versions, from 2018-10-26 (latest in force: 2018-10-26) · <https://www.parliament.bg/bg/laws/ID/77880>
+Закон за изменение на Търговския закон · 1 versions, from 2018-10-23 (latest in force: 2018-10-23) · <https://www.parliament.bg/bg/laws/ID/77880>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

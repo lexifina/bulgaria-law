@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за насърчаване на заетостта
 
-Закон за изменение и допълнение на Закона за насърчаване на заетостта · 1 versions, from 2022-06-06 (latest in force: 2022-06-06) · <https://www.parliament.bg/bg/laws/ID/164079>
+Закон за изменение и допълнение на Закона за насърчаване на заетостта · 1 versions, from 2022-06-03 (latest in force: 2022-06-03) · <https://www.parliament.bg/bg/laws/ID/164079>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

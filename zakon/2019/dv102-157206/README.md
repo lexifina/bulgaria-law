@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за обществените поръчки
 
-Закон за изменение и допълнение на Закона за обществените поръчки · 1 versions, from 2020-01-03 (latest in force: 2020-01-03) · <https://www.parliament.bg/bg/laws/ID/157206>
+Закон за изменение и допълнение на Закона за обществените поръчки · 1 versions, from 2020-01-01 (latest in force: 2020-01-01) · <https://www.parliament.bg/bg/laws/ID/157206>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

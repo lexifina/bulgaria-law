@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за лечебните растения
 
-Закон за изменение и допълнение на Закона за лечебните растения · 1 versions, from 2011-04-08 (latest in force: 2011-04-08) · <https://www.parliament.bg/bg/laws/ID/9909>
+Закон за изменение и допълнение на Закона за лечебните растения · 1 versions, from 2011-04-05 (latest in force: 2011-04-05) · <https://www.parliament.bg/bg/laws/ID/9909>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

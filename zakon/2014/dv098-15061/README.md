@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за устройство на територията
 
-Закон за изменение и допълнение на Закона за устройство на територията · 1 versions, from 2014-12-01 (latest in force: 2014-12-01) · <https://www.parliament.bg/bg/laws/ID/15061>
+Закон за изменение и допълнение на Закона за устройство на територията · 1 versions, from 2014-11-28 (latest in force: 2014-11-28) · <https://www.parliament.bg/bg/laws/ID/15061>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

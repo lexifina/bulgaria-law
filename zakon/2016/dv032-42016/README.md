@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за местните данъци и такси
 
-Закон за допълнение на Закона за местните данъци и такси · 1 versions, from 2016-04-25 (latest in force: 2016-04-25) · <https://www.parliament.bg/bg/laws/ID/42016>
+Закон за допълнение на Закона за местните данъци и такси · 1 versions, from 2017-01-01 (latest in force: 2017-01-01) · <https://www.parliament.bg/bg/laws/ID/42016>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

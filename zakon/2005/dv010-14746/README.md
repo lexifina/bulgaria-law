@@ -1,6 +1,6 @@
 # Закон за ратифициране на Споразумението за изменение на Договора за заем (проект "Развитие на летище София") между Република България и Кувейтския фонд за арабско икономическо развитие и на приложенията към него
 
-Закон за ратифициране на Споразумението за изменение на Договора за заем (проект "Развитие на летище София") между Република България и Кувейтския фонд за арабско икономическо развитие и на приложенията към него · 1 versions, from 2005-01-31 (latest in force: 2005-01-31) · <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14746>
+Закон за ратифициране на Споразумението за изменение на Договора за заем (проект "Развитие на летище София") между Република България и Кувейтския фонд за арабско икономическо развитие и на приложенията към него · 1 versions, from 2005-01-28 (latest in force: 2005-01-28) · <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14746>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,4 +19,4 @@ Act id: `zakon-2005-dv010-14746` (tags `zakon-2005-dv010-14746/<day>`; `python t
 - Its one version takes effect on the day its own final provisions name (all such clauses must agree); a normative act (regulation, rules, instruction, tariff, a decree adopting, amending or repealing one, or a law) with no such clause takes effect three days after its Gazette day (Constitution чл. 5, ал. 5); any other decree with no such clause is held back.
 - An act is published only when no later text held here cites it by name and Gazette issue and no later act's title names it as amended or repealed; an amending or repealing act only when its target's text is held here.
 - A law comes from these pages only when the National Assembly's record holds no text for it; a law whose title matches a record with text is left to the 40-zakoni parts.
-- Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about 1,918 Gazette issues from 2009 to 2026, 0 have no material page there. Acts published before this read came from archive captures of the same pages and read the same.
+- Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about 1,919 Gazette issues from 2009 to 2026, 0 have no material page there. Acts published before this read came from archive captures of the same pages and read the same.

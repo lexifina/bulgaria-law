@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за убежището и бежанците
 
-Закон за изменение и допълнение на Закона за убежището и бежанците · 1 versions, from 2015-10-19 (latest in force: 2015-10-19) · <https://www.parliament.bg/bg/laws/ID/15049>
+Закон за изменение и допълнение на Закона за убежището и бежанците · 1 versions, from 2015-10-16 (latest in force: 2015-10-16) · <https://www.parliament.bg/bg/laws/ID/15049>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

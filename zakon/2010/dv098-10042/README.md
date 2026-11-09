@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за здравето
 
-Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2010-12-17 (latest in force: 2010-12-17) · <https://www.parliament.bg/bg/laws/ID/10042>
+Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2011-01-01 (latest in force: 2011-01-01) · <https://www.parliament.bg/bg/laws/ID/10042>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

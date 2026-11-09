@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за културното наследство
 
-Закон за изменение и допълнение на Закона за културното наследство · 1 versions, from 2009-11-23 (latest in force: 2009-11-23) · <https://www.parliament.bg/bg/laws/ID/9709>
+Закон за изменение и допълнение на Закона за културното наследство · 1 versions, from 2009-11-20 (latest in force: 2009-11-20) · <https://www.parliament.bg/bg/laws/ID/9709>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

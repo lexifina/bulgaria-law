@@ -218,12 +218,16 @@ def parse_day(s: str) -> str | None:
 
 def in_force(units: dict, gazette_day: str) -> tuple[str, str]:
     """(day, how): the act's own final clause, else Gazette day + 3."""
-    text = " ".join(u["text"].replace("\n", " ") for k, u in units.items() if k.startswith(("par-", "art-")))
     # Only clauses about this act itself: provisions an amending act inserts into another act are long quoted spans
-    # (norm() turned the quotes into '"'); short quoted names such as "Държавен вестник" stay.
-    text = re.sub(r'"[^"]{60,}?"', " ", text)
+    # (norm() turned the quotes into '"'); short quoted names such as "Държавен вестник" stay. 2026-11-09: quoted spans
+    # are removed provision by provision; across the joined text an odd quote in one provision swallowed the next
+    # provision's clause (zakon-2005-dv010-14746, "Параграф единствен. Законът влиза в сила от деня на обнародването").
+    text = " ".join(re.sub(r'"[^"]{60,}?"', " ", u["text"].replace("\n", " "))
+                    for k, u in units.items() if k.startswith(("par-", "art-")))
     clauses = [m.group(1) for m in IN_FORCE.finditer(text)]
     if not clauses:
+        if re.search(r"(?:Законът|Кодексът|Този закон)\s+влиза\s+в\s+сила", text):
+            raise Hold("in_force_unreadable:clause_not_parsed")
         return (date.fromisoformat(gazette_day) + timedelta(days=3)).isoformat(), "default"
     c = clauses[-1]
     exceptions = bool(re.search(r"с изключение|освен", c))
@@ -236,7 +240,9 @@ def in_force(units: dict, gazette_day: str) -> tuple[str, str]:
         d = parse_day(m.group(1))
         if d:
             return d, "date" + ("+exceptions" if exceptions else "")
-    raise Hold("in_force_unreadable:" + c[:120])
+    # 2026-11-09: the forms the Gazette pages' reader knows ("един месец след обнародването", "6 месеца след ...",
+    # "в деня на обнародването"), read the same way for a law of the National Assembly.
+    return dv_resolve(c, gazette_day, None)
 
 
 def title_key(s: str) -> str:
@@ -415,6 +421,8 @@ def name_parts(rest: str) -> tuple[str | None, str | None, str | None]:
     m = re.match(r"\s*№\s*([^\s,;]+)", rest)
     num = m.group(1).rstrip(".") if m else None
     m = re.search(r"\bот\s+(?:\d{1,2}\s*\.?\s*\S+\s+)?(\d{4})\s*г", rest[:200])
+    if not m:  # 2026-11-09: a day written in figures, "от 19.10.2016 г."
+        m = re.search(r"\bот\s+\d{1,2}\s*\.\s*\d{1,2}\s*\.\s*(\d{4})\s*г", rest[:200])
     yr = m.group(1) if m else None
     m = re.search(r"(?:^|\s)((?:за|относно)\s+.+)$", rest)
     subj = subj_norm(m.group(1)) if m else None
@@ -459,12 +467,19 @@ def desc_matches(d: dict, kb: str, num: str | None, yr: str | None, subj: str | 
     act's kind that gives neither number nor subject counts as naming it."""
     if num and d["num"] and kb == d["kind"]:
         # Both give the act's number: it decides (a different number is a different act of the same name).
-        return num_norm(num) == d["num"] and (not yr or not d["year"] or yr == d["year"])
+        ok = num_norm(num) == d["num"] and (not yr or not d["year"] or yr == d["year"])
+        # 2026-11-09: numbers repeat across ministries and years ("Наредба № 12 от 2007 г. за надзор на консолидирана
+        # основа" is not "Наредба № 12 от 5 януари 2007 г. за изискванията ..."): when both give a subject, it must agree.
+        if ok and strict and subj and d["subjects"]:
+            ok = any(subj[:25] == s[:25] or subj.startswith(s[:40]) or s.startswith(subj[:40]) for s in d["subjects"])
+        return ok
     if subj and kb in d["kinds"]:
         for s in d["subjects"]:
             # An amending act's subject starts with the same words as every other's ('за изменение и допълнение на
             # Наредба № ...'): compare it as far as it is held, so the amended act's number counts.
-            n = 60 if AMENDING_TITLE.match(s) or AMENDING_TITLE.match(subj) else 40
+            # 2026-11-09: a strict match (an act named as amended or repealed) compares the whole subject held (60
+            # characters): 40 ("за устройството и дейността на национал...") named many different acts.
+            n = 60 if strict or AMENDING_TITLE.match(s) or AMENDING_TITLE.match(subj) else 40
             if subj.startswith(s[:n]) or s.startswith(subj[:n]):
                 return True
     return bool(not strict and not num and not subj and kb in d["kinds"])
@@ -759,7 +774,9 @@ CLAUSE_SUBJ = re.compile(
     r"^(?:Постановлението|Наредбата|Правилникът|Устройственият правилник|Тарифата|Инструкцията|"
     r"Настоящ(?:ата|ият|ото)\s+(?:наредба|правилник|инструкция|тарифа|постановление)|Тази\s+(?:наредба|инструкция|тарифа)|"
     r"Този\s+(?:устройствен\s+)?правилник|Това\s+постановление)(?:\s+и\s+[^.]{0,80}?)?"
-    r"(?:\s+се\s+(?:приема|издава)\s+на\s+основание\s+[^;]{0,400}?\s+и)?\s+влиза(?:т)?\s+в\s+сила\s+(.*)$")
+    r"(?:\s+се\s+(?:приема|издава)\s+на\s+основание\s+[^;]{0,400}?\s+и)?"
+    # 2026-11-09: "Устройственият правилник ... е приет с Решение № 79 от 27.01.2022 г. на комисията и влиза в сила ..."
+    r"(?:\s+(?:на\s+[^;]{0,200}?\s+)?е\s+приет(?:а|о)?\s+[^;]{0,300}?\s+и)?\s+влиза(?:т)?\s+в\s+сила\s+(.*)$")
 
 
 def dv_in_force(top: list[str], gday: str, own_day: str | None, normative: bool) -> tuple[str, str]:
@@ -923,6 +940,9 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
             continue
         if section not in DV_SECTIONS.get(kind, DV_REG_SECTIONS):
             skipped["kind_outside_its_section"] += 1
+            # 2026-11-09: listed, not dropped silently
+            holds.append({"id": mid, "kind": kind, "dv": f"{m['issue']}/{m['year']}", "title": title[:160],
+                          "reason": f"kind_outside_its_section:{section}"})
             continue
         if DV_PERSONAL.search(title):
             skipped["about_named_people"] += 1
@@ -958,15 +978,13 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                 for csubj, who in cited_by.get((iss, year), {}).items():
                     if any(csubj.startswith(s[:40]) or s.startswith(csubj[:40]) for s in d["subjects"]):
                         later |= who - {f"dv:{mid}"}
-            if later and not known:
-                raise Hold("cited_later:" + ",".join(sorted(later)[:5]))
+            # 2026-11-09 (Romania standard): cited or named later -> published as enacted with a label, not held.
             named = {who for k in d["kinds"] for kb, num, yr, subj, when, who in amended.get(k, ())
                      if who != f"dv:{mid}" and when > (year, iss) and desc_matches(d, kb, num, yr, subj, strict=True)}
             if kind in ("zakon", "kodeks"):
                 for s in d["subjects"]:
                     named |= {f"na:{x}" for x in titles_named.get(s, ())}
-            if named and not known:
-                raise Hold("named_as_amended:" + ",".join(sorted(named)[:5]))
+            marks = {"amended_by": sorted(named), "cited_by": sorted(later - named)}
             if kind in ("zakon", "kodeks") and title_key(title) in contested:
                 raise Hold("contested_constcourt")
             m_day = re.match(TITLE_PREFIX + r"\s+от\s+(\d{1,2}\s+\S+\s+\d{4})\s*г", title)
@@ -1005,12 +1023,8 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                     for k, u in units.items():
                         if re.search(r"(?:^|-)(?:par|art)-\d", k) and "\n" in u["text"]:
                             targets |= {tuple(x) for x in dv_citations(u["text"].split("\n")[1])}
-                if not targets:
-                    raise Hold("amending_target_unidentified")
-                missing = [x for x in sorted(targets, key=str) if not target_held(*x)]
-                if missing and not known:
-                    kb, num, yr, subj, n, y = missing[0]
-                    raise Hold(f"amending_target_not_held:{kb} {num or ''} бр. {n}/{y}")
+                # 2026-11-09 (Romania standard): an amending act is an act of its own, published as enacted whether or
+                # not its target's text is held here (its target is named in its title).
             if kind in ("zakon", "kodeks"):
                 day, how = in_force(units, gday)
             else:
@@ -1051,7 +1065,8 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
             "slug": slug, "short": title, "title": title, "url": DV_URL.format(id=mid), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": DV_URL.format(id=mid), "sha256": hashlib.sha256(raw).hexdigest(),
-                          "units": units, "credits": {}, **({"note": " ".join(note_parts)} if note_parts else {})}]})
+                          "units": units, "credits": {}, **({"note": " ".join(note_parts)} if note_parts else {})}],
+            **{k: v for k, v in marks.items() if v}})
 
     # Coverage: Gazette issues from 2009 (their count read from the highest issue number seen in each year) with no
     # captured page at all.
@@ -1134,6 +1149,68 @@ def dv_part_meta(p: dict, retrieved: str, coverage: tuple[int, int, int], lowris
             "tariffs, decrees that adopt or approve them, one-off decrees) not already published are held back.")
     p["ai_use"] = ["none"]
     return {k: p[k] for k in ("laws", "acts", "sources", "decisions", "ai_use")}
+
+
+def label_refs(acts: dict, src: Path) -> None:
+    """2026-11-09 (Romania standard): resolve each act's amended_by / cited_by references ("dv:<idMat>", "na:<id>") to
+    {ref, title, url} in every corpus.d part written, and set its label: "amended, not consolidated" when a later
+    title names it as amended, "repealed, not consolidated" when that title repeals it, "cited later, not
+    consolidated" when a later text only cites it by name and Gazette issue. The text stays the act as enacted."""
+    heads: dict[str, str] = {}
+    for line in (src / "dvmat.jsonl").read_text(encoding="utf-8").splitlines():
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        heads[f"dv:{r['idMat']}"] = f"ДВ, бр. {r['issue']} от {r['year']} г."
+
+    def title_of(ref: str) -> str:
+        kind, n = ref.split(":", 1)
+        if kind == "na":
+            r = acts.get(int(n)) or {}
+            t = re.sub(r"^Законопроект\b", "Закон", norm(r.get("L_ActL_final") or r.get("L_ActL_title") or ""))
+            return t + (f" (ДВ, бр. {r['L_Act_dv_iss']} от {r['L_Act_dv_year']} г.)" if r.get("L_Act_dv_iss") else "")
+        f = src / "dv" / str(int(n) // 1000) / f"{n}.html.gz"
+        t = ""
+        if f.exists():
+            with gzip.open(f) as fh:
+                pg = dv_page(fh.read(65536).decode("utf-8", "replace"))
+            t = pg[4] or "" if pg else ""
+        return t + (f" ({heads[ref]})" if ref in heads else "")
+
+    def url_of(ref: str) -> str:
+        kind, n = ref.split(":", 1)
+        return SOURCE_URL.format(id=n) if kind == "na" else DV_URL.format(id=n)
+
+    for f in sorted(PARTS.glob("*.json")):
+        p = json.loads(f.read_text(encoding="utf-8"))
+        changed = False
+        for act in p.get("acts", []):
+            for key in ("amended_by", "cited_by"):
+                refs = act.get(key)
+                if refs and isinstance(refs[0], str):
+                    # oldest first (Gazette page ids and Assembly record ids grow with time), Assembly records by
+                    # their Gazette issue
+                    refs = sorted(refs, key=lambda r: (int(r.split(":")[1]) if r.startswith("dv:") else
+                                                       int((acts.get(int(r.split(":")[1])) or {}).get("L_Act_dv_year") or 0) * 1000
+                                                       + int((acts.get(int(r.split(":")[1])) or {}).get("L_Act_dv_iss") or 0),
+                                                       r))
+                    act[key] = [{"ref": r, "title": title_of(r), "url": url_of(r)} for r in refs]
+                    changed = True
+            if act.get("amended_by"):
+                # repealed: a title that is itself a repeal ("Наредба за отменяне на ...", "Постановление № N ... за
+                # отменяне на ..."), not one that repeals something else among other changes
+                rep = [x for x in act["amended_by"]
+                       if re.match(TITLE_PREFIX + r"(?:\s+от\s+\d{1,2}\s+\S+\s+\d{4}\s*г\.)?\s*за\s+(?:отменяне|отмяна|отмeняне)\b",
+                                   x["title"])]
+                act["label"] = "repealed, not consolidated" if rep else "amended, not consolidated"
+            elif act.get("cited_by") and not AMENDING_TITLE.match(
+                    re.sub(TITLE_PREFIX + r"(?:\s+от\s+\d{1,2}\s+\S+\s+\d{4}\s*г\.)?\s*", "", act.get("title", ""), count=1)):
+                act["label"] = "cited later, not consolidated"
+            elif act.get("cited_by"):
+                act.pop("cited_by")  # an amending act cited later (as one that made a change) is not thereby changed
+        if changed:
+            write_part(f.stem, p)
 
 
 def write_part(name: str, p: dict):
@@ -1269,6 +1346,12 @@ def main():
 
     parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
+    # 2026-11-09: a law record with no final text is listed, not dropped silently.
+    for i, r in sorted(acts.items()):
+        if str(r.get("L_Act_T_id")) == "1" and i not in laws and r.get("L_Act_dv_iss"):
+            holds.append({"id": i, "dv": f"{r.get('L_Act_dv_iss')}/{r.get('L_Act_dv_year')}",
+                          "title": norm(r.get("L_ActL_final") or r.get("L_ActL_title") or "")[:160],
+                          "reason": "no_final_text" if not r.get("final_len") else "no_gazette_issue"})
     for i in sorted(laws):
         r = laws[i]
         iss, year = int(r["L_Act_dv_iss"]), int(r["L_Act_dv_year"])
@@ -1290,10 +1373,9 @@ def main():
             kept = i in keep_ids
             named = sn and titles_named.get(sn, set()) - {i}
             kept_held = kept and bool(later or named)  # published before; held now only by what was found afterwards
-            if later and not kept:
-                raise Hold("cited_later:" + ",".join(sorted(later)[:5]))
-            if named and not kept:
-                raise Hold("named_as_amended:" + ",".join(map(str, sorted(titles_named[sn] - {i})[:5])))
+            # 2026-11-09 (Romania standard): an act a later title names as amended or repealed, or a later text cites,
+            # is published as enacted and labelled (amended_by / cited_by), not held: no official consolidated text exists.
+            marks = {"amended_by": sorted(f"na:{x}" for x in named) if named else [], "cited_by": sorted(later)}
             if title_key(title) in contested:
                 raise Hold("contested_constcourt")
             gday, gsrc = gazette_day(dv_days, iss, year, eu)
@@ -1329,7 +1411,8 @@ def main():
             "slug": slug, "short": title, "title": title, "url": SOURCE_URL.format(id=i), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": API_URL.format(id=i), "sha256": hashlib.sha256(raw).hexdigest(),
-                          "units": units, "credits": {}, **({"note": note} if note else {})}]})
+                          "units": units, "credits": {}, **({"note": note} if note else {})}],
+            **{k: v for k, v in marks.items() if v}})
     PARTS.mkdir(exist_ok=True)
     written = []
     for year in sorted(parts):
@@ -1397,6 +1480,7 @@ def main():
         import traceback
         traceback.print_exc()
         dv = {"dv_error": f"{type(e).__name__}: {e}"[:300]}
+    label_refs(acts, src)
     if cache_path:
         tmp = cache_path.with_suffix(".tmp")
         tmp.write_text(json.dumps(fresh, ensure_ascii=False), encoding="utf-8")

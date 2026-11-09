@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за устройство на територията
 
-Закон за изменение и допълнение на Закона за устройство на територията · 1 versions, from 2023-01-23 (latest in force: 2023-01-23) · <https://www.parliament.bg/bg/laws/ID/164545>
+Закон за изменение и допълнение на Закона за устройство на територията · 1 versions, from 2023-01-20 (latest in force: 2023-01-20) · <https://www.parliament.bg/bg/laws/ID/164545>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

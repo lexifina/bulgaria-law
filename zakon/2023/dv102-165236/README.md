@@ -1,6 +1,6 @@
 # Закон за ратифициране на Международен договор (LOA) BU-B-UCP "Придобиване на бойни машини Страйкър"
 
-Закон за ратифициране на Международен договор (LOA) BU-B-UCP "Придобиване на бойни машини Страйкър" · 1 versions, from 2023-12-11 (latest in force: 2023-12-11) · <https://www.parliament.bg/bg/laws/ID/165236>
+Закон за ратифициране на Международен договор (LOA) BU-B-UCP "Придобиване на бойни машини Страйкър" · 1 versions, from 2023-12-08 (latest in force: 2023-12-08) · <https://www.parliament.bg/bg/laws/ID/165236>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за ратифициране на Писмо за оферта и приемане BU-B-UCH Радио-комуникационно оборудване
 
-Закон за ратифициране на Писмо за оферта и приемане BU-B-UCH Радио-комуникационно оборудване · 1 versions, from 2022-05-06 (latest in force: 2022-05-06) · <https://www.parliament.bg/bg/laws/ID/164095>
+Закон за ратифициране на Писмо за оферта и приемане BU-B-UCH Радио-комуникационно оборудване · 1 versions, from 2022-05-03 (latest in force: 2022-05-03) · <https://www.parliament.bg/bg/laws/ID/164095>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

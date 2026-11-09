@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за държавния служител
 
-Закон за изменение и допълнение на Закона за държавния служител · 1 versions, from 2012-05-21 (latest in force: 2012-05-21) · <https://www.parliament.bg/bg/laws/ID/13742>
+Закон за изменение и допълнение на Закона за държавния служител · 1 versions, from 2012-07-01 (latest in force: 2012-07-01) · <https://www.parliament.bg/bg/laws/ID/13742>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

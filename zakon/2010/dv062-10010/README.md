@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за здравното осигуряване
 
-Закон за изменение и допълнение на Закона за здравното осигуряване · 1 versions, from 2010-08-13 (latest in force: 2010-08-13) · <https://www.parliament.bg/bg/laws/ID/10010>
+Закон за изменение и допълнение на Закона за здравното осигуряване · 1 versions, from 2010-08-10 (latest in force: 2010-08-10) · <https://www.parliament.bg/bg/laws/ID/10010>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

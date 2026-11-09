@@ -1,6 +1,6 @@
 # Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBL "Модул за GPS, осигуряващ поддръжка на "M-code" за военни цели"
 
-Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBL "Модул за GPS, осигуряващ поддръжка на "M-code" за военни цели" · 1 versions, from 2025-11-10 (latest in force: 2025-11-10) · <https://www.parliament.bg/bg/laws/ID/166597>
+Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBL "Модул за GPS, осигуряващ поддръжка на "M-code" за военни цели" · 1 versions, from 2025-11-07 (latest in force: 2025-11-07) · <https://www.parliament.bg/bg/laws/ID/166597>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

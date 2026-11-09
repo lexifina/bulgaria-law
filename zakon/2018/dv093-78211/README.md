@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Валутния закон
 
-Закон за изменение и допълнение на Валутния закон · 1 versions, from 2018-11-12 (latest in force: 2018-11-12) · <https://www.parliament.bg/bg/laws/ID/78211>
+Закон за изменение и допълнение на Валутния закон · 1 versions, from 2019-02-09 (latest in force: 2019-02-09) · <https://www.parliament.bg/bg/laws/ID/78211>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

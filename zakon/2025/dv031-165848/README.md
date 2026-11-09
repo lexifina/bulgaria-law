@@ -1,6 +1,6 @@
 # Закон за изискванията за достъпност на продукти и услуги
 
-Закон за изискванията за достъпност на продукти и услуги · 1 versions, from 2025-04-14 (latest in force: 2025-04-14) · <https://www.parliament.bg/bg/laws/ID/165848>
+Закон за изискванията за достъпност на продукти и услуги · 1 versions, from 2025-06-28 (latest in force: 2025-06-28) · <https://www.parliament.bg/bg/laws/ID/165848>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

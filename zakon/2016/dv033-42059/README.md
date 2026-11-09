@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за банковата несъстоятелност
 
-Закон за изменение и допълнение на Закона за банковата несъстоятелност · 1 versions, from 2016-04-29 (latest in force: 2016-04-29) · <https://www.parliament.bg/bg/laws/ID/42059>
+Закон за изменение и допълнение на Закона за банковата несъстоятелност · 1 versions, from 2016-04-26 (latest in force: 2016-04-26) · <https://www.parliament.bg/bg/laws/ID/42059>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

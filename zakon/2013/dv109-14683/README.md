@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за рибарството и аквакултурите
 
-Закон за изменение на Закона за рибарството и аквакултурите · 1 versions, from 2013-12-23 (latest in force: 2013-12-23) · <https://www.parliament.bg/bg/laws/ID/14683>
+Закон за изменение на Закона за рибарството и аквакултурите · 1 versions, from 2013-12-20 (latest in force: 2013-12-20) · <https://www.parliament.bg/bg/laws/ID/14683>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

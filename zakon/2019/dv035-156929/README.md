@@ -1,6 +1,6 @@
 # Законопроект за изменение и допълнение на Закона за социално подпомагане
 
-Законопроект за изменение и допълнение на Закона за социално подпомагане · 1 versions, from 2019-05-03 (latest in force: 2019-05-03) · <https://www.parliament.bg/bg/laws/ID/156929>
+Законопроект за изменение и допълнение на Закона за социално подпомагане · 1 versions, from 2019-07-30 (latest in force: 2019-07-30) · <https://www.parliament.bg/bg/laws/ID/156929>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

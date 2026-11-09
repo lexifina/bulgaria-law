@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за концесиите
 
-Закон за допълнение на Закона за концесиите · 1 versions, from 2019-08-02 (latest in force: 2019-08-02) · <https://www.parliament.bg/bg/laws/ID/157049>
+Закон за допълнение на Закона за концесиите · 1 versions, from 2019-07-30 (latest in force: 2019-07-30) · <https://www.parliament.bg/bg/laws/ID/157049>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

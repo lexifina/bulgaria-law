@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за държавната собственост
 
-Закон за допълнение на Закона за държавната собственост · 1 versions, from 2012-12-17 (latest in force: 2012-12-17) · <https://www.parliament.bg/bg/laws/ID/14102>
+Закон за допълнение на Закона за държавната собственост · 1 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://www.parliament.bg/bg/laws/ID/14102>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

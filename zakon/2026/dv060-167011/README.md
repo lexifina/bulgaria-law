@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за съдебната власт
 
-Закон за изменение и допълнение на Закона за съдебната власт · 1 versions, from 2026-07-04 (latest in force: 2026-07-04) · <https://www.parliament.bg/bg/laws/ID/167011>
+Закон за изменение и допълнение на Закона за съдебната власт · 1 versions, from 2026-07-01 (latest in force: 2026-07-01) · <https://www.parliament.bg/bg/laws/ID/167011>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за ратифициране на Изменение и допълнение № 2 (Amendment 2) на Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services)
 
-Закон за ратифициране на Изменение и допълнение № 2 (Amendment 2) на Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services) · 1 versions, from 2025-11-17 (latest in force: 2025-11-17) · <https://www.parliament.bg/bg/laws/ID/166595>
+Закон за ратифициране на Изменение и допълнение № 2 (Amendment 2) на Международен договор (LOA) BU-P-AAD "Sidewinder AIM 9X Блок II ракети, свързани материали и услуги" (Sidewinder AIM 9X Block II Missiles, associated material and services) · 1 versions, from 2025-11-14 (latest in force: 2025-11-14) · <https://www.parliament.bg/bg/laws/ID/166595>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

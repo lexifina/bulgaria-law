@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за здравето
 
-Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2022-08-08 (latest in force: 2022-08-08) · <https://www.parliament.bg/bg/laws/ID/164317>
+Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2022-08-05 (latest in force: 2022-08-05) · <https://www.parliament.bg/bg/laws/ID/164317>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

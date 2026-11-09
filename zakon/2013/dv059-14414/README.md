@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за енергетиката
 
-Закон за изменение и допълнение на Закона за енергетиката · 1 versions, from 2013-07-08 (latest in force: 2013-07-08) · <https://www.parliament.bg/bg/laws/ID/14414>
+Закон за изменение и допълнение на Закона за енергетиката · 1 versions, from 2013-07-05 (latest in force: 2013-07-05) · <https://www.parliament.bg/bg/laws/ID/14414>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

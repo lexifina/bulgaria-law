@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за лечебните заведения
 
-Закон за изменение и допълнение на Закона за лечебните заведения · 1 versions, from 2023-01-28 (latest in force: 2023-01-28) · <https://www.parliament.bg/bg/laws/ID/164527>
+Закон за изменение и допълнение на Закона за лечебните заведения · 1 versions, from 2023-01-25 (latest in force: 2023-01-25) · <https://www.parliament.bg/bg/laws/ID/164527>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

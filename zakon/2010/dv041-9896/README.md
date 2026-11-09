@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за посевния и посадъчния материал
 
-Закон за изменение и допълнение на Закона за посевния и посадъчния материал · 1 versions, from 2010-06-04 (latest in force: 2010-06-04) · <https://www.parliament.bg/bg/laws/ID/9896>
+Закон за изменение и допълнение на Закона за посевния и посадъчния материал · 1 versions, from 2010-06-01 (latest in force: 2010-06-01) · <https://www.parliament.bg/bg/laws/ID/9896>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

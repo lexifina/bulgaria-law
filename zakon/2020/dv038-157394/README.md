@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за енергетиката
 
-Закон за допълнение на Закона за енергетиката · 1 versions, from 2020-04-27 (latest in force: 2020-04-27) · <https://www.parliament.bg/bg/laws/ID/157394>
+Закон за допълнение на Закона за енергетиката · 1 versions, from 2020-04-24 (latest in force: 2020-04-24) · <https://www.parliament.bg/bg/laws/ID/157394>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

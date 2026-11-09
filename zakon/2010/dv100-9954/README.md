@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Гражданския процесуален кодекс
 
-Закон за изменение и допълнение на Гражданския процесуален кодекс · 1 versions, from 2010-12-24 (latest in force: 2010-12-24) · <https://www.parliament.bg/bg/laws/ID/9954>
+Закон за изменение и допълнение на Гражданския процесуален кодекс · 1 versions, from 2010-12-21 (latest in force: 2010-12-21) · <https://www.parliament.bg/bg/laws/ID/9954>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

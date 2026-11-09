@@ -1,6 +1,6 @@
 # Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBI "Придобиване на оборудване за комуникационна сигурност"
 
-Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBI "Придобиване на оборудване за комуникационна сигурност" · 1 versions, from 2025-04-14 (latest in force: 2025-04-14) · <https://www.parliament.bg/bg/laws/ID/165950>
+Закон за ратифициране на Международен договор (Letter of Offer and Acceptance - LOA) BU-P-LBI "Придобиване на оборудване за комуникационна сигурност" · 1 versions, from 2025-04-11 (latest in force: 2025-04-11) · <https://www.parliament.bg/bg/laws/ID/165950>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

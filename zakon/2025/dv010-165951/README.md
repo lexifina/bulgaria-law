@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за вероизповеданията
 
-Закон за изменение и допълнение на Закона за вероизповеданията · 1 versions, from 2025-02-07 (latest in force: 2025-02-07) · <https://www.parliament.bg/bg/laws/ID/165951>
+Закон за изменение и допълнение на Закона за вероизповеданията · 1 versions, from 2025-02-04 (latest in force: 2025-02-04) · <https://www.parliament.bg/bg/laws/ID/165951>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

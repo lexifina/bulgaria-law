@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за запасите от нефт и нефтопродукти
 
-Закон за допълнение на Закона за запасите от нефт и нефтопродукти · 1 versions, from 2024-02-09 (latest in force: 2024-02-09) · <https://www.parliament.bg/bg/laws/ID/165165>
+Закон за допълнение на Закона за запасите от нефт и нефтопродукти · 1 versions, from 2024-02-06 (latest in force: 2024-02-06) · <https://www.parliament.bg/bg/laws/ID/165165>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

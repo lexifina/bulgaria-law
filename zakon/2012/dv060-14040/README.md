@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за висшето образование
 
-Закон за изменение и допълнение на Закона за висшето образование · 1 versions, from 2012-08-10 (latest in force: 2012-08-10) · <https://www.parliament.bg/bg/laws/ID/14040>
+Закон за изменение и допълнение на Закона за висшето образование · 1 versions, from 2012-08-07 (latest in force: 2012-08-07) · <https://www.parliament.bg/bg/laws/ID/14040>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

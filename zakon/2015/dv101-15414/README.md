@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за пътищата
 
-Закон за изменение и допълнение на Закона за пътищата · 1 versions, from 2015-12-25 (latest in force: 2015-12-25) · <https://www.parliament.bg/bg/laws/ID/15414>
+Закон за изменение и допълнение на Закона за пътищата · 1 versions, from 2015-12-22 (latest in force: 2015-12-22) · <https://www.parliament.bg/bg/laws/ID/15414>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

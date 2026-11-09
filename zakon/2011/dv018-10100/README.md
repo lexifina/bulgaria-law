@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Кодекса на труда
 
-Закон за изменение и допълнение на Кодекса на труда · 1 versions, from 2011-03-04 (latest in force: 2011-03-04) · <https://www.parliament.bg/bg/laws/ID/10100>
+Закон за изменение и допълнение на Кодекса на труда · 1 versions, from 2011-03-01 (latest in force: 2011-03-01) · <https://www.parliament.bg/bg/laws/ID/10100>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

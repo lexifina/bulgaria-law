@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за здравето
 
-Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2020-12-14 (latest in force: 2020-12-14) · <https://www.parliament.bg/bg/laws/ID/163434>
+Закон за изменение и допълнение на Закона за здравето · 1 versions, from 2020-12-11 (latest in force: 2020-12-11) · <https://www.parliament.bg/bg/laws/ID/163434>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за защита на потребителите
 
-Закон за допълнение на Закона за защита на потребителите · 1 versions, from 2026-06-29 (latest in force: 2026-06-29) · <https://www.parliament.bg/bg/laws/ID/167001>
+Закон за допълнение на Закона за защита на потребителите · 1 versions, from 2026-08-09 (latest in force: 2026-08-09) · <https://www.parliament.bg/bg/laws/ID/167001>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

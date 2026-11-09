@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за тютюна и тютюневите изделия
 
-Закон за изменение и допълнение на Закона за тютюна и тютюневите изделия · 1 versions, from 2016-03-14 (latest in force: 2016-03-14) · <https://www.parliament.bg/bg/laws/ID/15554>
+Закон за изменение и допълнение на Закона за тютюна и тютюневите изделия · 1 versions, from 2016-03-11 (latest in force: 2016-03-11) · <https://www.parliament.bg/bg/laws/ID/15554>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

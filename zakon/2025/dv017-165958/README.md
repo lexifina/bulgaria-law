@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за счетоводството
 
-Закон за изменение на Закона за счетоводството · 1 versions, from 2025-03-03 (latest in force: 2025-03-03) · <https://www.parliament.bg/bg/laws/ID/165958>
+Закон за изменение на Закона за счетоводството · 1 versions, from 2025-02-28 (latest in force: 2025-02-28) · <https://www.parliament.bg/bg/laws/ID/165958>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

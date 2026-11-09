@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за насърчаване на инвестициите
 
-Закон за изменение и допълнение на Закона за насърчаване на инвестициите · 1 versions, from 2022-03-21 (latest in force: 2022-03-21) · <https://www.parliament.bg/bg/laws/ID/163974>
+Закон за изменение и допълнение на Закона за насърчаване на инвестициите · 1 versions, from 2022-03-18 (latest in force: 2022-03-18) · <https://www.parliament.bg/bg/laws/ID/163974>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

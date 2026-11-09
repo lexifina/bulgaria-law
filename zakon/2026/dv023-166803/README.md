@@ -1,6 +1,6 @@
 # Закон за изменение на Изборния кодекс
 
-Закон за изменение на Изборния кодекс · 1 versions, from 2026-03-02 (latest in force: 2026-03-02) · <https://www.parliament.bg/bg/laws/ID/166803>
+Закон за изменение на Изборния кодекс · 1 versions, from 2026-02-27 (latest in force: 2026-02-27) · <https://www.parliament.bg/bg/laws/ID/166803>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

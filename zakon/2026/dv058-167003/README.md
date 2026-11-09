@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита на конкуренцията
 
-Закон за изменение и допълнение на Закона за защита на конкуренцията · 1 versions, from 2026-06-29 (latest in force: 2026-06-29) · <https://www.parliament.bg/bg/laws/ID/167003>
+Закон за изменение и допълнение на Закона за защита на конкуренцията · 1 versions, from 2026-06-26 (latest in force: 2026-06-26) · <https://www.parliament.bg/bg/laws/ID/167003>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

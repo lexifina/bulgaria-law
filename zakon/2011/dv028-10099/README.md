@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита на растенията
 
-Закон за изменение и допълнение на Закона за защита на растенията · 1 versions, from 2011-04-08 (latest in force: 2011-04-08) · <https://www.parliament.bg/bg/laws/ID/10099>
+Закон за изменение и допълнение на Закона за защита на растенията · 1 versions, from 2011-04-05 (latest in force: 2011-04-05) · <https://www.parliament.bg/bg/laws/ID/10099>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

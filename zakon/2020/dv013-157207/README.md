@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита на потребителите
 
-Закон за изменение и допълнение на Закона за защита на потребителите · 1 versions, from 2020-02-17 (latest in force: 2020-02-17) · <https://www.parliament.bg/bg/laws/ID/157207>
+Закон за изменение и допълнение на Закона за защита на потребителите · 1 versions, from 2020-02-14 (latest in force: 2020-02-14) · <https://www.parliament.bg/bg/laws/ID/157207>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

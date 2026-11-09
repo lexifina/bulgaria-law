@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за лова и опазване на дивеча
 
-Закон за изменение и допълнение на Закона за лова и опазване на дивеча · 1 versions, from 2011-10-07 (latest in force: 2011-10-07) · <https://www.parliament.bg/bg/laws/ID/10117>
+Закон за изменение и допълнение на Закона за лова и опазване на дивеча · 1 versions, from 2011-10-04 (latest in force: 2011-10-04) · <https://www.parliament.bg/bg/laws/ID/10117>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

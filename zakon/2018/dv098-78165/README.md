@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за висшето образование
 
-Закон за изменение и допълнение на Закона за висшето образование · 1 versions, from 2018-11-30 (latest in force: 2018-11-30) · <https://www.parliament.bg/bg/laws/ID/78165>
+Закон за изменение и допълнение на Закона за висшето образование · 1 versions, from 2018-11-27 (latest in force: 2018-11-27) · <https://www.parliament.bg/bg/laws/ID/78165>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за кадастъра и имотния регистър
 
-Закон за изменение и допълнение на Закона за кадастъра и имотния регистър · 1 versions, from 2025-11-10 (latest in force: 2025-11-10) · <https://www.parliament.bg/bg/laws/ID/166409>
+Закон за изменение и допълнение на Закона за кадастъра и имотния регистър · 1 versions, from 2026-02-07 (latest in force: 2026-02-07) · <https://www.parliament.bg/bg/laws/ID/166409>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

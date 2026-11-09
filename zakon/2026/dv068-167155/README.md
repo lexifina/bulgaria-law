@@ -1,6 +1,6 @@
 # Закон за бюджета на Националната здравноосигурителна каса за 2026 г.
 
-Закон за бюджета на Националната здравноосигурителна каса за 2026 г. · 1 versions, from 2026-07-31 (latest in force: 2026-07-31) · <https://www.parliament.bg/bg/laws/ID/167155>
+Закон за бюджета на Националната здравноосигурителна каса за 2026 г. · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://www.parliament.bg/bg/laws/ID/167155>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

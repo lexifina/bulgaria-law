@@ -1,6 +1,6 @@
 # Закон за допълнение на Закона за енергията от възобновяеми източници
 
-Закон за допълнение на Закона за енергията от възобновяеми източници · 1 versions, from 2022-06-10 (latest in force: 2022-06-10) · <https://www.parliament.bg/bg/laws/ID/164072>
+Закон за допълнение на Закона за енергията от възобновяеми източници · 1 versions, from 2022-06-07 (latest in force: 2022-06-07) · <https://www.parliament.bg/bg/laws/ID/164072>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

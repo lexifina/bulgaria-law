@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за лечебните заведения
 
-Закон за изменение и допълнение на Закона за лечебните заведения · 1 versions, from 2020-08-14 (latest in force: 2020-08-14) · <https://www.parliament.bg/bg/laws/ID/163290>
+Закон за изменение и допълнение на Закона за лечебните заведения · 1 versions, from 2020-08-11 (latest in force: 2020-08-11) · <https://www.parliament.bg/bg/laws/ID/163290>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

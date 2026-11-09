@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Семейния кодекс
 
-Закон за изменение и допълнение на Семейния кодекс · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.parliament.bg/bg/laws/ID/166330>
+Закон за изменение и допълнение на Семейния кодекс · 1 versions, from 2025-12-30 (latest in force: 2025-12-30) · <https://www.parliament.bg/bg/laws/ID/166330>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

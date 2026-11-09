@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за гражданската регистрация
 
-Закон за изменение и допълнение на Закона за гражданската регистрация · 1 versions, from 2024-10-11 (latest in force: 2024-10-11) · <https://www.parliament.bg/bg/laws/ID/165584>
+Закон за изменение и допълнение на Закона за гражданската регистрация · 1 versions, from 2024-10-08 (latest in force: 2024-10-08) · <https://www.parliament.bg/bg/laws/ID/165584>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

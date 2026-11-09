@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Наказателния кодекс
 
-Закон за изменение и допълнение на Наказателния кодекс · 1 versions, from 2011-04-29 (latest in force: 2011-04-29) · <https://www.parliament.bg/bg/laws/ID/12690>
+Закон за изменение и допълнение на Наказателния кодекс · 1 versions, from 2011-05-26 (latest in force: 2011-05-26) · <https://www.parliament.bg/bg/laws/ID/12690>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

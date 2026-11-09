@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за рибарството и аквакултурите
 
-Закон за изменение и допълнение на Закона за рибарството и аквакултурите · 1 versions, from 2019-12-16 (latest in force: 2019-12-16) · <https://www.parliament.bg/bg/laws/ID/157185>
+Закон за изменение и допълнение на Закона за рибарството и аквакултурите · 1 versions, from 2019-12-13 (latest in force: 2019-12-13) · <https://www.parliament.bg/bg/laws/ID/157185>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

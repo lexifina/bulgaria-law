@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за енергетиката
 
-Закон за изменение и допълнение на Закона за енергетиката · 1 versions, from 2024-05-04 (latest in force: 2024-05-04) · <https://www.parliament.bg/bg/laws/ID/165508>
+Закон за изменение и допълнение на Закона за енергетиката · 1 versions, from 2024-05-01 (latest in force: 2024-05-01) · <https://www.parliament.bg/bg/laws/ID/165508>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

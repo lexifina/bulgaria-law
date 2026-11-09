@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за железопътния транспорт
 
-Закон за изменение и допълнение на Закона за железопътния транспорт · 1 versions, from 2018-02-26 (latest in force: 2018-02-26) · <https://www.parliament.bg/bg/laws/ID/77928>
+Закон за изменение и допълнение на Закона за железопътния транспорт · 1 versions, from 2018-02-23 (latest in force: 2018-02-23) · <https://www.parliament.bg/bg/laws/ID/77928>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

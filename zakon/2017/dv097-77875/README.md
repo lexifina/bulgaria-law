@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за кредитните институции
 
-Закон за изменение и допълнение на Закона за кредитните институции · 1 versions, from 2017-12-08 (latest in force: 2017-12-08) · <https://www.parliament.bg/bg/laws/ID/77875>
+Закон за изменение и допълнение на Закона за кредитните институции · 1 versions, from 2017-12-05 (latest in force: 2017-12-05) · <https://www.parliament.bg/bg/laws/ID/77875>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за особените залози
 
-Закон за изменение и допълнение на Закона за особените залози · 1 versions, from 2023-07-29 (latest in force: 2023-07-29) · <https://www.parliament.bg/bg/laws/ID/164711>
+Закон за изменение и допълнение на Закона за особените залози · 1 versions, from 2023-07-01 (latest in force: 2023-07-01) · <https://www.parliament.bg/bg/laws/ID/164711>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

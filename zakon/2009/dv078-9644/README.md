@@ -1,6 +1,6 @@
 # Закон за изменение на Закона за вътрешния одит в публичния сектор
 
-Закон за изменение на Закона за вътрешния одит в публичния сектор · 1 versions, from 2009-10-05 (latest in force: 2009-10-05) · <https://www.parliament.bg/bg/laws/ID/9644>
+Закон за изменение на Закона за вътрешния одит в публичния сектор · 1 versions, from 2009-10-02 (latest in force: 2009-10-02) · <https://www.parliament.bg/bg/laws/ID/9644>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

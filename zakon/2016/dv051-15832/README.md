@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита при бедствия
 
-Закон за изменение и допълнение на Закона за защита при бедствия · 1 versions, from 2016-07-08 (latest in force: 2016-07-08) · <https://www.parliament.bg/bg/laws/ID/15832>
+Закон за изменение и допълнение на Закона за защита при бедствия · 1 versions, from 2016-07-05 (latest in force: 2016-07-05) · <https://www.parliament.bg/bg/laws/ID/15832>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за бюджета на държавното обществено осигуряване за 2023 г.
 
-Закон за бюджета на държавното обществено осигуряване за 2023 г. · 1 versions, from 2023-08-04 (latest in force: 2023-08-04) · <https://www.parliament.bg/bg/laws/ID/164944>
+Закон за бюджета на държавното обществено осигуряване за 2023 г. · 1 versions, from 2023-01-01 (latest in force: 2023-01-01) · <https://www.parliament.bg/bg/laws/ID/164944>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # Закон за бюджета на Националната здравноосигурителна каса за 2011 г.
 
-Закон за бюджета на Националната здравноосигурителна каса за 2011 г. · 1 versions, from 2010-12-17 (latest in force: 2010-12-17) · <https://www.parliament.bg/bg/laws/ID/10022>
+Закон за бюджета на Националната здравноосигурителна каса за 2011 г. · 1 versions, from 2011-01-01 (latest in force: 2011-01-01) · <https://www.parliament.bg/bg/laws/ID/10022>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

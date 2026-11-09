@@ -1,6 +1,6 @@
 # Закон за изменение и допълнение на Закона за защита срещу домашното насилие
 
-Закон за изменение и допълнение на Закона за защита срещу домашното насилие · 1 versions, from 2009-12-25 (latest in force: 2009-12-25) · <https://www.parliament.bg/bg/laws/ID/9779>
+Закон за изменение и допълнение на Закона за защита срещу домашното насилие · 1 versions, from 2009-12-22 (latest in force: 2009-12-22) · <https://www.parliament.bg/bg/laws/ID/9779>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

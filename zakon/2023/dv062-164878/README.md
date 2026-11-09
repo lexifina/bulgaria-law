@@ -1,6 +1,6 @@
 # Закон за ратифициране на международен договор (Писмо за предлагане и приемане на офертата (Letter of Offer and Acceptance - LOA) BU-P-LAY "Придобиване на Мултифункционална система за обмен на информация Multifunctional Information Distribution System/MIDS Joint Tactical Radio System (JTRS), MIDS Low Volume Terminal (LVT) Block Upgrade 2/BU2) и необходимата поддръжка"
 
-Закон за ратифициране на международен договор (Писмо за предлагане и приемане на офертата (Letter of Offer and Acceptance - LOA) BU-P-LAY "Придобиване на Мултифункционална система за обмен на информация Multifunctional Information Distribution System/MIDS Joint Tactical Radio System (JTRS), MIDS Low Volume Terminal (LVT) Block Upgrade 2/BU2) и необходимата поддръжка" · 1 versions, from 2023-07-24 (latest in force: 2023-07-24) · <https://www.parliament.bg/bg/laws/ID/164878>
+Закон за ратифициране на международен договор (Писмо за предлагане и приемане на офертата (Letter of Offer and Acceptance - LOA) BU-P-LAY "Придобиване на Мултифункционална система за обмен на информация Multifunctional Information Distribution System/MIDS Joint Tactical Radio System (JTRS), MIDS Low Volume Terminal (LVT) Block Upgrade 2/BU2) и необходимата поддръжка" · 1 versions, from 2023-07-21 (latest in force: 2023-07-21) · <https://www.parliament.bg/bg/laws/ID/164878>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
