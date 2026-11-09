@@ -474,6 +474,11 @@ def desc_matches(d: dict, kb: str, num: str | None, yr: str | None, subj: str | 
             ok = any(subj[:25] == s[:25] or subj.startswith(s[:40]) or s.startswith(subj[:40]) for s in d["subjects"])
         return ok
     if subj and kb in d["kinds"]:
+        # 2026-11-09: a citation that gives a year other than the act's own names another act of the same name (a
+        # successor regulation: "Наредба № 7 от 2021 г. за условията и реда за съставяне на списък на медицинските
+        # изделия ..." is not the regulation adopted by Постановление № 364 от 2011 г.).
+        if strict and yr and d["year"] and yr != d["year"]:
+            return False
         for s in d["subjects"]:
             # An amending act's subject starts with the same words as every other's ('за изменение и допълнение на
             # Наредба № ...'): compare it as far as it is held, so the amended act's number counts.
