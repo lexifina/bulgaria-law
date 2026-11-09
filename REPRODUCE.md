@@ -217,43 +217,6 @@ This file is written by the build on 2026-11-09, the day the source data was ret
 | Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 | Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 | Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
-| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -261,13 +224,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 12121 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 12124 | |
+| 12421 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 12424 | |
 
-The build made 12139 commits:
+The build made 12439 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 12130 | first version of an act |
+| 12430 | first version of an act |
 | 3 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
@@ -275,7 +238,7 @@ Other counts:
 - 0 commits on the branch `badeshte`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16192 laws in the record.
-- 24265 tags.
+- 24865 tags.
 
 ## Dates
 
@@ -287,7 +250,7 @@ When a law gives no date of its own, the default rule applies: Конститу�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `8f0187e831985dab2041adead80821a1558611511b67f5cb81e5d0f702b681e4` (512061882 bytes).
+- Corpus: sha256 `bef079db3b8186eed74db863a6fe3edf0da3667e9f18452bc6a749bbc3d76658` (511877772 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `57a43747859d3a0a8a29374325b006853d18227e`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -299,7 +262,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1513 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1254 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
