@@ -35,6 +35,21 @@
    ]
   },
   {
+   "slug": "zakon-2006-dv065-8863",
+   "path": "zakon/2006/dv065-8863",
+   "short": "Закон за изменение и допълнение на Закона за водите",
+   "title": "Закон за изменение и допълнение на Закона за водите",
+   "url": "https://www.parliament.bg/bg/laws/ID/8863",
+   "versions": [
+    {
+     "from": "2006-08-11",
+     "units": 150,
+     "source_url": "https://www.parliament.bg/api/v1/act/8863",
+     "sha256": "4c24bbd84999222ca4cd5d9533d5eb93f57d31006e16e2c93b1902e654a63fa7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2009-dv070-9611",
    "path": "zakon/2009/dv070-9611",
    "short": "Закон за ратифициране на Протокола, изменящ Приложението по сигурността към Споразумението между страните по Северноатлантическия договор за сътрудничество в областта на атомната информация",
@@ -231331,6 +231346,4491 @@
      "units": 34,
      "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121946",
      "sha256": "24a294a7a5fdb99ce59c6c8e703ef4d714685254473501ccc846b449512212c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv012-122340",
+   "path": "pravilnik/2018/dv012-122340",
+   "short": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "title": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122340",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 43,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122340",
+     "sha256": "64e47dd68bed934cfe4d65dfb94ebe76ee5ee9408fddef2b1caef535cdb6c980"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv016-122866",
+   "path": "pravilnik/2018/dv016-122866",
+   "short": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "title": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122866",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122866",
+     "sha256": "5e6702101e8b7f7240224ef403fb632351f28b10656012b2615d0c2db26c76f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv017-122935",
+   "path": "pravilnik/2018/dv017-122935",
+   "short": "Правилник за изменение на Правилника за организацията и дейността на съветите за тристранно сътрудничество",
+   "title": "Правилник за изменение на Правилника за организацията и дейността на съветите за тристранно сътрудничество",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122935",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122935",
+     "sha256": "ac1e473973703eaea6c8b33c2136a88b0c582ce101a22c50cf287a64b729d511"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv031-125019",
+   "path": "pravilnik/2018/dv031-125019",
+   "short": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125019",
+   "versions": [
+    {
+     "from": "2018-04-10",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125019",
+     "sha256": "8d03b8f29e293e8aa24d22f298c22a5bf663f6741d5da185ffed13828f69c609"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv033-125133",
+   "path": "pravilnik/2018/dv033-125133",
+   "short": "Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния институт на правосъдието и на неговата администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния институт на правосъдието и на неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125133",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 56,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125133",
+     "sha256": "10ed6a5aac27de29b23ceef86a64e2b8d510ac0bf91ce721585115b86160bcad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv033-125444",
+   "path": "pravilnik/2018/dv033-125444",
+   "short": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "title": "Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125444",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125444",
+     "sha256": "fdff3987e169960236b626ace1bd118a01e41a2a3db106fb4e39e32e44709487"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv049-127063",
+   "path": "pravilnik/2018/dv049-127063",
+   "short": "Правилник за устройството и дейността на регионалните инспекции по околната среда и водите",
+   "title": "Правилник за устройството и дейността на регионалните инспекции по околната среда и водите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127063",
+   "versions": [
+    {
+     "from": "2018-06-12",
+     "units": 37,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127063",
+     "sha256": "7a8c9bb2f9dd37ca33ef3d968d9317e1ea4b38304d32ab7ab64fc03996ba207b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv054-127537",
+   "path": "pravilnik/2018/dv054-127537",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127537",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127537",
+     "sha256": "067c490d5f15be5c5df169abf58f381d1bf9832add379e720f4f1538ec7fdb01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv054-127548",
+   "path": "pravilnik/2018/dv054-127548",
+   "short": "Правилник за устройството и дейността на Центъра за учебно-тренировъчни фирми",
+   "title": "Правилник за устройството и дейността на Центъра за учебно-тренировъчни фирми",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127548",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127548",
+     "sha256": "b4ae138302f0099a94a5e837bed765d35e4263dfa0ddbaf19c2b7713ec39d5d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv055-128056",
+   "path": "pravilnik/2018/dv055-128056",
+   "short": "Правилник за устройството и дейността на Комисията за противодействие на корупцията и за отнемане на незаконно придобитото имущество и на нейната администрация",
+   "title": "Правилник за устройството и дейността на Комисията за противодействие на корупцията и за отнемане на незаконно придобитото имущество и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128056",
+   "versions": [
+    {
+     "from": "2018-07-03",
+     "units": 216,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128056",
+     "sha256": "aff85683b3d8c1724d29e953cf84995adf14d37c245a27cf9e54cb36d045ed6c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv058-128419",
+   "path": "pravilnik/2018/dv058-128419",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128419",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128419",
+     "sha256": "38db5432667493f39f4141aee18f4e4da8ffbe3c1e9c7f7f914be99647418b71"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv059-128522",
+   "path": "pravilnik/2018/dv059-128522",
+   "short": "Правилник за устройството и дейността на Националния център за информация и документация",
+   "title": "Правилник за устройството и дейността на Националния център за информация и документация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128522",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128522",
+     "sha256": "9dc7435c11e21cf33f699de694759409a677f4d4d68e4eb230e82ed2668f5895"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv061-128712",
+   "path": "pravilnik/2018/dv061-128712",
+   "short": "Устройствен правилник на Патентното ведомство на Република България",
+   "title": "Устройствен правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128712",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 48,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128712",
+     "sha256": "91f3c9f45fdbd535d01ab2e6bc55b0e4b1d4798f96676cd8369afa89741e3437"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv063-128721",
+   "path": "pravilnik/2018/dv063-128721",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция ,,Гражданска въздухоплавателна администрация\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Главна дирекция ,,Гражданска въздухоплавателна администрация\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128721",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128721",
+     "sha256": "7a910ec678f444dcf64eef460e7d765d84fcc8396bff5f71ce02e1b2ef24cb8a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv085-130665",
+   "path": "pravilnik/2018/dv085-130665",
+   "short": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "title": "Правилник за устройството и дейността на Държавно предприятие \"Радиоактивни отпадъци\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130665",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 43,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130665",
+     "sha256": "3935ee50a1e8ef08fdb3ea10a3dd82d434fdbedc80ec821403fcdd74281dec71"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-dv092-131507",
+   "path": "pravilnik/2018/dv092-131507",
+   "short": "Правилник за устройството и дейността на Висшето военноморско училище \"Никола Йонков Вапцаров\"",
+   "title": "Правилник за устройството и дейността на Висшето военноморско училище \"Никола Йонков Вапцаров\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131507",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 232,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131507",
+     "sha256": "51cdfb3c6f33b7d3e845ef987917d7c7fab723204dad6dcb36398e34fe0bed0b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv002-133448",
+   "path": "pravilnik/2019/dv002-133448",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133448",
+   "versions": [
+    {
+     "from": "2019-01-07",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133448",
+     "sha256": "496e66a3f7e212f9a66eda368743cb3bf5b47bd4d403a7e9d97a307a52e71dc6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv003-133582",
+   "path": "pravilnik/2019/dv003-133582",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133582",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133582",
+     "sha256": "ef58d6a14954d63a7a4bda53514bd96feb293e39a3ffc9618cd4f9ba76674676"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv011-134442",
+   "path": "pravilnik/2019/dv011-134442",
+   "short": "Правилник за устройството и дейността на центровете за специална образователна подкрепа",
+   "title": "Правилник за устройството и дейността на центровете за специална образователна подкрепа",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134442",
+   "versions": [
+    {
+     "from": "2019-02-08",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134442",
+     "sha256": "2f1e61632b5fc8ff3ea55218f6e606b2b134852dfd979399128903797e2ff4d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv016-134921",
+   "path": "pravilnik/2019/dv016-134921",
+   "short": "Правилник за организация на дейността на Висшия съдебен съвет и на неговата администрация",
+   "title": "Правилник за организация на дейността на Висшия съдебен съвет и на неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134921",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 117,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134921",
+     "sha256": "900c478a610887208fcabebc8f7bdc9c6b93f2de9fcfa47f7aeda8e27e5370ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv019-135159",
+   "path": "pravilnik/2019/dv019-135159",
+   "short": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "title": "Правилник за устройството и дейността на Националната здравноосигурителна каса",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135159",
+   "versions": [
+    {
+     "from": "2019-03-05",
+     "units": 94,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135159",
+     "sha256": "2541df5cc72ecbf446626a555eee21ed19aed4e72834fa3db65097af43c94256"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv025-135892",
+   "path": "pravilnik/2019/dv025-135892",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135892",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 62,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135892",
+     "sha256": "75f1db14f2c0f55d3a4c1319a79ad21a6947116770417ba4e53af912fee22514"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv026-136174",
+   "path": "pravilnik/2019/dv026-136174",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136174",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136174",
+     "sha256": "dc3ce4fb3118d4002c71557c200afd31fa79a9d1a610bd310bd322bc15ec6dd6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv038-137272",
+   "path": "pravilnik/2019/dv038-137272",
+   "short": "Правилник за устройството и дейността на Централното военно окръжие",
+   "title": "Правилник за устройството и дейността на Централното военно окръжие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137272",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137272",
+     "sha256": "91d92ff4380a804a5683ab96a6321096f985f65a81fd33f9986ffabec2dd80de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv042-137724",
+   "path": "pravilnik/2019/dv042-137724",
+   "short": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137724",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137724",
+     "sha256": "9401678cf03db7152d37e938c117405a5f25227296bfb1d3b13c7cebefeea027"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv058-139736",
+   "path": "pravilnik/2019/dv058-139736",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139736",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139736",
+     "sha256": "7223483594bdc3180f57faedbb7a177aa29bacbeb18a1a55b4752ad597893a11"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv060-139909",
+   "path": "pravilnik/2019/dv060-139909",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139909",
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139909",
+     "sha256": "86ef080444a9e6fc2ce56d931e44712aaa21ec0f90e882002fd75bd51999a5ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv067-140675",
+   "path": "pravilnik/2019/dv067-140675",
+   "short": "Правилник за изменение и допълнение на Правилника за функциите, задачите и състава на Висшия експертен екологичен съвет",
+   "title": "Правилник за изменение и допълнение на Правилника за функциите, задачите и състава на Висшия експертен екологичен съвет",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140675",
+   "versions": [
+    {
+     "from": "2019-08-26",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140675",
+     "sha256": "70fde6b6da3b1b327be36989ab58540d8ae4c23b3b3af0409b7bd536ed0b30ab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv070-140982",
+   "path": "pravilnik/2019/dv070-140982",
+   "short": "Правилник за дейността на Инспектората на Министерството на отбраната",
+   "title": "Правилник за дейността на Инспектората на Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140982",
+   "versions": [
+    {
+     "from": "2019-09-03",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140982",
+     "sha256": "72a8fcf89830debf13798140263e7cff776dd6852987831870713c3c5f235c18"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv073-141183",
+   "path": "pravilnik/2019/dv073-141183",
+   "short": "Правилник за организацията на работа и състава на Консултативния съвет за сътрудничество между държавните органи и лицата, осъществяващи икономически дейности, свързани с нефт и продукти от нефтен произход",
+   "title": "Правилник за организацията на работа и състава на Консултативния съвет за сътрудничество между държавните органи и лицата, осъществяващи икономически дейности, свързани с нефт и продукти от нефтен произход",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141183",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141183",
+     "sha256": "7c057a0891e04b0a1ac63bac9aad3323988edda1e0fafeb0484cc6ed3b5b8768"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv077-141552",
+   "path": "pravilnik/2019/dv077-141552",
+   "short": "Правилник за устройството и дейността на Военно-географската служба",
+   "title": "Правилник за устройството и дейността на Военно-географската служба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141552",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 50,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141552",
+     "sha256": "593a2069daf5732559b02fd80b14c44924fee81ef8743065b8aa0d4a67c42ab4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv082-142095",
+   "path": "pravilnik/2019/dv082-142095",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център по обществено здраве и анализи",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център по обществено здраве и анализи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142095",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142095",
+     "sha256": "0757b2c58523587a39f31406a3d12469497482d9e33595918a4718b8348c0bff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv085-142342",
+   "path": "pravilnik/2019/dv085-142342",
+   "short": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142342",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142342",
+     "sha256": "1056b4d797dcd4777456d153c616fd4824b8505645d8591f696a3b87d150ee3c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv087-142482",
+   "path": "pravilnik/2019/dv087-142482",
+   "short": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142482",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142482",
+     "sha256": "e39725b60b7dcc46b7f16c7772ceb2c952082815b61ea0e47a134ee118325e2c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-dv091-142958",
+   "path": "pravilnik/2019/dv091-142958",
+   "short": "Правилник за изменение и допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "title": "Правилник за изменение и допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142958",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142958",
+     "sha256": "56347ff542bf4526b57108854bc816cb2e13112298cbdeedf7047f2d99680e74"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv008-144680",
+   "path": "pravilnik/2020/dv008-144680",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за регулиране на съобщенията и на нейната администрация",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за регулиране на съобщенията и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144680",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144680",
+     "sha256": "eabafacba14d5c2a29b2024a020a1135451194b5e92b74044d84d23fbc836326"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv025-146904",
+   "path": "pravilnik/2020/dv025-146904",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146904",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146904",
+     "sha256": "82b36594f393494f9fbbf44ba43c465db2e54fc70b1e5302258945dd575faaa5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv036-147371",
+   "path": "pravilnik/2020/dv036-147371",
+   "short": "Правилник за устройството и дейността на Висшето военновъздушно училище \"Георги Бенковски\"",
+   "title": "Правилник за устройството и дейността на Висшето военновъздушно училище \"Георги Бенковски\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147371",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 216,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147371",
+     "sha256": "7fef36377bb7374c08f3d1133806a2a8fa10db3cdfa6853c6201f560610d1f17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv037-147416",
+   "path": "pravilnik/2020/dv037-147416",
+   "short": "Правилник за допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "title": "Правилник за допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147416",
+   "versions": [
+    {
+     "from": "2020-04-21",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147416",
+     "sha256": "68e3d8add253dbeca126588c92ef29d152fdc88a7f74be8e8eb4cbb587e3f839"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv040-147660",
+   "path": "pravilnik/2020/dv040-147660",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147660",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147660",
+     "sha256": "6be1950f3dacaf0fb23da19dfcad1da9b4d910bd86e02f07221d48c5f134e6c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv047-148210",
+   "path": "pravilnik/2020/dv047-148210",
+   "short": "Правилник за допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148210",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148210",
+     "sha256": "e9171b94079cc8f61e83aaf03709e0184ca1eed68077bc8242a6fd0161de0862"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv051-148699",
+   "path": "pravilnik/2020/dv051-148699",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148699",
+   "versions": [
+    {
+     "from": "2020-06-08",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148699",
+     "sha256": "2b24fa035775cbc2db3bfd95a595c9c97891d512e7b63d385e9b5188fd1fa603"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv053-148975",
+   "path": "pravilnik/2020/dv053-148975",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148975",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 56,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148975",
+     "sha256": "3bcdb94527b5713333e6df5df39d3a6fd6ccf44ac54c230f9068ca41d0204e88"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv061-149713",
+   "path": "pravilnik/2020/dv061-149713",
+   "short": "Правилник за допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "title": "Правилник за допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149713",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149713",
+     "sha256": "7cacd92d17cd8ca0a0997103d5afa54b877c6a15b402b173481b6ec16e440069"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv082-151668",
+   "path": "pravilnik/2020/dv082-151668",
+   "short": "Правилник за устройството и дейността на Професионалния сержантски колеж за нуждите на Военновъздушните сили към Висшето военновъздушно училище \"Георги Бенковски\"",
+   "title": "Правилник за устройството и дейността на Професионалния сержантски колеж за нуждите на Военновъздушните сили към Висшето военновъздушно училище \"Георги Бенковски\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151668",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 82,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151668",
+     "sha256": "1c12ee3aabb356112dcea5faaff84813a7cd7504c6873a0a10bc921514958377"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv082-151740",
+   "path": "pravilnik/2020/dv082-151740",
+   "short": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151740",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151740",
+     "sha256": "f21b0e55ba4b4ac90ca508d7ee005f99ada5b7f633ce63983da37ae30a42be58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-dv097-153474",
+   "path": "pravilnik/2020/dv097-153474",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153474",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153474",
+     "sha256": "e9994cbebd70870a175dbbe6525c6a16d04eaaac3524a6817dbb05ef64da2022"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv007-155189",
+   "path": "pravilnik/2021/dv007-155189",
+   "short": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "title": "Правилник за устройството и дейността на Института по психология на Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155189",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155189",
+     "sha256": "073f59ef6feb313c137140f88017289d03ddce0c5c10510cc269cbec1c0a6685"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv007-155240",
+   "path": "pravilnik/2021/dv007-155240",
+   "short": "Правилник за устройството и дейността на Националния институт по криминалистика",
+   "title": "Правилник за устройството и дейността на Националния институт по криминалистика",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155240",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155240",
+     "sha256": "88b6befe7428430587af44190a3d916b94a6cb2f566b2ef33fb6ecc7e45b0c7c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv009-155516",
+   "path": "pravilnik/2021/dv009-155516",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155516",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155516",
+     "sha256": "a992b95eaac857241facbdeb223b1307fd98b34158e1d447fae40d26f03c7e4e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv011-155727",
+   "path": "pravilnik/2021/dv011-155727",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155727",
+   "versions": [
+    {
+     "from": "2021-02-09",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155727",
+     "sha256": "c2df96ee13879b8599bb63436432f822d4cab0e932d559e8c90e52a056836c20"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv027-156963",
+   "path": "pravilnik/2021/dv027-156963",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156963",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156963",
+     "sha256": "fe50a3945d61c959175ddcfd2092cd79df9fb9784a7896b52276236c945d6f77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv035-157653",
+   "path": "pravilnik/2021/dv035-157653",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за изпълнение на наказанията и задържането под стража",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157653",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157653",
+     "sha256": "77bc46902de0e841d22d82d341dcc34ab91589ab8a1685b8b5f0785894058de0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv050-158796",
+   "path": "pravilnik/2021/dv050-158796",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Съвета по гражданството при Министерството на правосъдието",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158796",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158796",
+     "sha256": "1fc4e18df46dfd4ffca8b3bd7170d27bb3700a7d631069ee8d017014de2192af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv062-160229",
+   "path": "pravilnik/2021/dv062-160229",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160229",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160229",
+     "sha256": "4492180140a92b75f42e5dc10f2213725869a53784b710616805cee52607b12c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv071-160875",
+   "path": "pravilnik/2021/dv071-160875",
+   "short": "Правилник за устройството и дейността на Гаранционния фонд",
+   "title": "Правилник за устройството и дейността на Гаранционния фонд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160875",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 78,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160875",
+     "sha256": "35e6222f155c6535e911e4541ec6125b50855e26f3b571488a715c228533f64c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv071-161035",
+   "path": "pravilnik/2021/dv071-161035",
+   "short": "Правилник за изменение и допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "title": "Правилник за изменение и допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161035",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161035",
+     "sha256": "3aaf5776b442a07ab32de1371347883297b87384bc14c161733c63e87f997724"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-dv093-164309",
+   "path": "pravilnik/2021/dv093-164309",
+   "short": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "title": "Правилник за изменение и допълнение на Правилника на Фонд \"Научни изследвания\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164309",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 45,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164309",
+     "sha256": "437c99adf9103a0e236b4c16d2c85768c729ff934f6d91142847087b710d4eab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv022-171129",
+   "path": "pravilnik/2022/dv022-171129",
+   "short": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171129",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171129",
+     "sha256": "dc67650a79d32a99ff0f0c3effbeae1105dd26a69098c3ccf0b117c3c2a4403a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv038-173381",
+   "path": "pravilnik/2022/dv038-173381",
+   "short": "Правилник за изменение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната",
+   "title": "Правилник за изменение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173381",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173381",
+     "sha256": "dab145521d59227db7ae74571d4aa7db2417f4ecba7415da2bdba2d61aa7503a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv041-173772",
+   "path": "pravilnik/2022/dv041-173772",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173772",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173772",
+     "sha256": "7a7f2e6d83865b2b26a9df0891b9833579f368a03945852363ff886f4bd63289"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv048-174257",
+   "path": "pravilnik/2022/dv048-174257",
+   "short": "Правилник за устройството и дейността на Централното военно окръжие",
+   "title": "Правилник за устройството и дейността на Централното военно окръжие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174257",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 38,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174257",
+     "sha256": "52150dcef45f01c7f98eca3745103a02bf131ec6016c81054a14e2342159d1ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv056-174802",
+   "path": "pravilnik/2022/dv056-174802",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174802",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174802",
+     "sha256": "1460acbffd4b568bf62a7ee404342cf9bd18d16676122ba94395f836b97ed02c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv058-175033",
+   "path": "pravilnik/2022/dv058-175033",
+   "short": "Правилник за устройството и дейността на Националния институт за помирение и арбитраж",
+   "title": "Правилник за устройството и дейността на Националния институт за помирение и арбитраж",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175033",
+   "versions": [
+    {
+     "from": "2022-07-23",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175033",
+     "sha256": "da302646c9957fef5c82114448e516d014d3eedef4f1e2aaff3da05d76744430"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv059-175010",
+   "path": "pravilnik/2022/dv059-175010",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175010",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 58,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175010",
+     "sha256": "bc2bea99783738083a716889a2be72a37b23d083e7f6c98b1550f9041ff80b75"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv061-175171",
+   "path": "pravilnik/2022/dv061-175171",
+   "short": "Правилник за устройството и дейността на Националния съвет по биологичното разнообразие",
+   "title": "Правилник за устройството и дейността на Националния съвет по биологичното разнообразие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175171",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175171",
+     "sha256": "0a1a9d8d6075478fad3f84fe7a5ee5fc0bd06f84ebfc3740123ee96910cc6c66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv083-178946",
+   "path": "pravilnik/2022/dv083-178946",
+   "short": "Правилник за изменение и допълнение на Правилника за структурния състав и организацията на работа на Специализирания експертен съвет по чл. 99, ал. 2 от Закона за културното наследство",
+   "title": "Правилник за изменение и допълнение на Правилника за структурния състав и организацията на работа на Специализирания експертен съвет по чл. 99, ал. 2 от Закона за културното наследство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178946",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178946",
+     "sha256": "ec0586b2f28fd973cbe8078e7475bc5a8e4da63536d90a78dd15ddaaa3449da8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv090-179802",
+   "path": "pravilnik/2022/dv090-179802",
+   "short": "Правилник за устройството и дейността на Военно-географската служба",
+   "title": "Правилник за устройството и дейността на Военно-географската служба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179802",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 54,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179802",
+     "sha256": "97add70100a64c9c945d0e3fb8292ab6b4f9e37dcae08c9430a7880836bb996b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-dv103-182460",
+   "path": "pravilnik/2022/dv103-182460",
+   "short": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182460",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182460",
+     "sha256": "ecea0316e18355ca7db798496f2a929d7dbc7b27761124b053056bb75c621a1f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv022-187781",
+   "path": "pravilnik/2023/dv022-187781",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Военномедицинската академия",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Военномедицинската академия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187781",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187781",
+     "sha256": "7bbdbd6136391b5417f7814dd3bb9ebe89ebf24345f7f0cee1dcd0f2f9bdfbf2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv023-188201",
+   "path": "pravilnik/2023/dv023-188201",
+   "short": "Правилник за допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "title": "Правилник за допълнение на Правилника за условията и реда за работа на Етичната комисия за клинични изпитвания по Закона за лекарствените продукти в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188201",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188201",
+     "sha256": "efe01d5cc13f0029948b0235537fc0115e940cde263c72298ea5391ccee3b5b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv024-188380",
+   "path": "pravilnik/2023/dv024-188380",
+   "short": "Правилник за устройството и дейността на Националния военноисторически музей",
+   "title": "Правилник за устройството и дейността на Националния военноисторически музей",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188380",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188380",
+     "sha256": "0bdba6e8b880e5370b877fcf959f02f32e50318beb89ce6c1093ce43d95d0c8b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv038-191741",
+   "path": "pravilnik/2023/dv038-191741",
+   "short": "Правилник за изменение на Правилника за устройството и дейността на Националния исторически музей - София",
+   "title": "Правилник за изменение на Правилника за устройството и дейността на Националния исторически музей - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191741",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191741",
+     "sha256": "45eacad7ec40135a2f6fcf60c1df0f0ac8dbddfc5b8ff32648f8d958b90f06fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv047-195187",
+   "path": "pravilnik/2023/dv047-195187",
+   "short": "Правилник за изменение и допълнение на Правилника за организацията на работа и състава на Консултативния съвет за сътрудничество между държавните органи и лицата, осъществяващи икономически дейности, свързани с нефт и продукти от нефтен произход",
+   "title": "Правилник за изменение и допълнение на Правилника за организацията на работа и състава на Консултативния съвет за сътрудничество между държавните органи и лицата, осъществяващи икономически дейности, свързани с нефт и продукти от нефтен произход",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195187",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195187",
+     "sha256": "5df170abc5215212728a8d4b965086f35b33cd795788d79b1b413f9c8ebf96c1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv051-195600",
+   "path": "pravilnik/2023/dv051-195600",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195600",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195600",
+     "sha256": "0e7fda04203dd7c7d1420b8e3e4b899f799e165ae5c0e88ccb63846237262b8a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv051-196154",
+   "path": "pravilnik/2023/dv051-196154",
+   "short": "Правилник за отмeняне на Правилника за устройството и дейността на Института за специална техника",
+   "title": "Правилник за отмeняне на Правилника за устройството и дейността на Института за специална техника",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196154",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196154",
+     "sha256": "18cc6b30d6a399820f58119d4a4405c38fe32f4528fa95944cdfceab0d099332"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv058-196862",
+   "path": "pravilnik/2023/dv058-196862",
+   "short": "Правилник за изменение и допълнение на Правилника за организацията на дейността на Висшия съдебен съвет и на неговата администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за организацията на дейността на Висшия съдебен съвет и на неговата администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196862",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196862",
+     "sha256": "5d14b91cf598707f8e203113c379c8e47a00d746861bfdd6f1bbd485615adb58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-dv099-201415",
+   "path": "pravilnik/2023/dv099-201415",
+   "short": "Правилник за допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201415",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201415",
+     "sha256": "66c97e83e8ab53a2a23397a92c401d85f39d7974492c3ba2ccda0e802da1cb46"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv003-202430",
+   "path": "pravilnik/2024/dv003-202430",
+   "short": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "title": "Правилник за изменение на Устройствения правилник на областните дирекции \"Земеделие\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202430",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202430",
+     "sha256": "b1c8c11b9f6db598df68e4bfa897dcdfaee8d1316390dad0515682ac8e76c891"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv035-212460",
+   "path": "pravilnik/2024/dv035-212460",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Военномедицинската академия",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Военномедицинската академия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212460",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212460",
+     "sha256": "1dc1f1a61f6b416f402fd38e4c005906962d593c192671b4ed5374bfeb0885d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv053-218480",
+   "path": "pravilnik/2024/dv053-218480",
+   "short": "Устройствен правилник на Патентното ведомство на Република България",
+   "title": "Устройствен правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218480",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218480",
+     "sha256": "f4b368765f9dccf42032772e92d03515c7dc5bb0f5af58f28c0df5e30b1cb46b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv054-219200",
+   "path": "pravilnik/2024/dv054-219200",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219200",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219200",
+     "sha256": "c9978dc08c3e2a6fead8d647da7ab1da677bfb85ba4eef22d7ce7cf77c9134c0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv059-221260",
+   "path": "pravilnik/2024/dv059-221260",
+   "short": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "title": "Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221260",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 50,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221260",
+     "sha256": "0de120628305bd928fc9a3683f4f767b83378907d8246ac2364ad5255c7e8c44"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv077-227160",
+   "path": "pravilnik/2024/dv077-227160",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227160",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227160",
+     "sha256": "a5c84930c4d34b8d3412506d86197b149c0868f32aca757e0f9037f42c6b0d26"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv103-231010",
+   "path": "pravilnik/2024/dv103-231010",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231010",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231010",
+     "sha256": "09b3d364b368437565bd26f359f4aa29633fac3bbd722fa6c1c288bc4268b176"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-dv107-231535",
+   "path": "pravilnik/2024/dv107-231535",
+   "short": "Правилник за устройството и дейността на Института по образование",
+   "title": "Правилник за устройството и дейността на Института по образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231535",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 30,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231535",
+     "sha256": "f78770d67ba06f506728939d9cd21093496291b270f46a0a7aec52647fedd315"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv001-231730",
+   "path": "pravilnik/2025/dv001-231730",
+   "short": "Устройствен правилник на дирекциите на природните паркове в България",
+   "title": "Устройствен правилник на дирекциите на природните паркове в България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231730",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231730",
+     "sha256": "1d2f99e5f1bd2578f1471438244936aa205e4cc8a44615b31e200b1d3af643ed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv021-233303",
+   "path": "pravilnik/2025/dv021-233303",
+   "short": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана \"Професор Цветан Лазаров\"",
+   "title": "Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана \"Професор Цветан Лазаров\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233303",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233303",
+     "sha256": "0b1bf5319856a045948f6e28803f3c79056aa2b7a944d8762df53a2e8dae84ea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv023-233358",
+   "path": "pravilnik/2025/dv023-233358",
+   "short": "Правилник за допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "title": "Правилник за допълнение на Правилника за устройството и дейността на центровете за трансфузионна хематология",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233358",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233358",
+     "sha256": "e2a24aaab17509a1d48349a2c15360fec80ce25701fac914d49951bbc2d6aede"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv050-235386",
+   "path": "pravilnik/2025/dv050-235386",
+   "short": "Правилник за допълнение на Правилника за устройството и дейността на Националния исторически музей - София",
+   "title": "Правилник за допълнение на Правилника за устройството и дейността на Националния исторически музей - София",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235386",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235386",
+     "sha256": "cb61eba957b4a970aa0b15a94c890ba20801fd162705edd477735e78baa4d24a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv057-235892",
+   "path": "pravilnik/2025/dv057-235892",
+   "short": "Правилник за устройството и дейността на Националния център по заразни и паразитни болести",
+   "title": "Правилник за устройството и дейността на Националния център по заразни и паразитни болести",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235892",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 45,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235892",
+     "sha256": "7166e7e41db26e888c7d4b51efd9be35b4ab06ca90ac94a38437ce51c24aeadc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-dv070-236775",
+   "path": "pravilnik/2025/dv070-236775",
+   "short": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "title": "Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236775",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236775",
+     "sha256": "e8d06106f4af407bc5694a2a6b906c3102d10bcee844c9bff151ff3d78c643b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-dv007-240586",
+   "path": "pravilnik/2026/dv007-240586",
+   "short": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "title": "Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240586",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 39,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240586",
+     "sha256": "64e2584171ce948238acb581fae5d323b097e079f811d2a5d4e5c84b8d77cc5b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-dv093-246321",
+   "path": "pravilnik/2026/dv093-246321",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246321",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246321",
+     "sha256": "8c37a45d7fcf9e5b69d8e52ffbdaab01e9857a4620e91e054e801b227bbbca66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-dv100-247234",
+   "path": "pravilnik/2026/dv100-247234",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Центъра за развитие на човешките ресурси и регионални инициативи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247234",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247234",
+     "sha256": "4f409ecae247c2f4e242adec194e7d6c16afe9b7b28b1dee59136c5fc191bb63"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-dv101-247242",
+   "path": "pravilnik/2026/dv101-247242",
+   "short": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "title": "Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247242",
+   "versions": [
+    {
+     "from": "2026-11-09",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247242",
+     "sha256": "3a696658a23a4d0ebc9aaa6a8d980f6c9a91fb428e220824e3fc4eae9c01f593"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv006-22241",
+   "path": "zakon/2004/dv006-22241",
+   "short": "Закон за изменение и допълнение на Закона за пътищата",
+   "title": "Закон за изменение и допълнение на Закона за пътищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22241",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22241",
+     "sha256": "307e66d0e7bc3b42de53d0f63135265db13e7624c1bd451f28af5c9c5fa1b2a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv006-22242",
+   "path": "zakon/2004/dv006-22242",
+   "short": "Закон за допълнение на Закона за водите",
+   "title": "Закон за допълнение на Закона за водите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22242",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22242",
+     "sha256": "b99d99bbb83b99b73ef3dc9cc4373a3be5268494dcf4d42b066f81aa7b1e4afb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv011-21680",
+   "path": "zakon/2004/dv011-21680",
+   "short": "Закон за ратифициране на Европейската конвенция за трансфер на производства по наказателни дела",
+   "title": "Закон за ратифициране на Европейската конвенция за трансфер на производства по наказателни дела",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21680",
+   "versions": [
+    {
+     "from": "2004-02-13",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21680",
+     "sha256": "8a1bd4a09574e29369b66beb1f427d448827fd779f6d189d012c303362c1478d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv011-21684",
+   "path": "zakon/2004/dv011-21684",
+   "short": "Закон за ратифициране на Европейската конвенция за международно признаване на присъди",
+   "title": "Закон за ратифициране на Европейската конвенция за международно признаване на присъди",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21684",
+   "versions": [
+    {
+     "from": "2004-02-13",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21684",
+     "sha256": "1af5a7589fe2bdf7e841cb7a60b65a037d6d9e4a22ea2b1f8e25c6398196f6d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv012-21658",
+   "path": "zakon/2004/dv012-21658",
+   "short": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "title": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21658",
+   "versions": [
+    {
+     "from": "2004-02-16",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21658",
+     "sha256": "66556d10609e3d7024b8d8904e6f763ab337889c90426a97a63b58b057a30d98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv014-21623",
+   "path": "zakon/2004/dv014-21623",
+   "short": "Закон за регионалното развитие",
+   "title": "Закон за регионалното развитие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21623",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 52,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21623",
+     "sha256": "7ab25785ccba8ff52b093fe4436bdac01a8a2a943108694866a6f446f10582a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv015-21600",
+   "path": "zakon/2004/dv015-21600",
+   "short": "Закон за частната охранителна дейност",
+   "title": "Закон за частната охранителна дейност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21600",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 60,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21600",
+     "sha256": "15be438f71cea99311c5749eba0f5edd3a58f6da01bf1213e87a050fa01cab60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv016-21575",
+   "path": "zakon/2004/dv016-21575",
+   "short": "Закон за изменение и допълнение на Закона за виното и спиртните напитки",
+   "title": "Закон за изменение и допълнение на Закона за виното и спиртните напитки",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21575",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 86,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21575",
+     "sha256": "ec3cc4c7ff23222629131e1acfb71b56e1103460ab6f10f191f540729d16ce18"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv016-21590",
+   "path": "zakon/2004/dv016-21590",
+   "short": "Закон за ратифициране на Втория допълнителен протокол към Европейската конвенция за взаимопомощ по наказателноправни въпроси",
+   "title": "Закон за ратифициране на Втория допълнителен протокол към Европейската конвенция за взаимопомощ по наказателноправни въпроси",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21590",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21590",
+     "sha256": "5aa570ea94e6161c1f2c43b93d9fc4e654300d3e2ae34553946d382f05a6165f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv018-21520",
+   "path": "zakon/2004/dv018-21520",
+   "short": "Закон за енергийната ефективност",
+   "title": "Закон за енергийната ефективност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21520",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 72,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21520",
+     "sha256": "4fad655a06b23aa9b004b27df99b8e6c811e6ebe7b32eef9d7ffe1a5cc1b12cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv024-21392",
+   "path": "zakon/2004/dv024-21392",
+   "short": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "title": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21392",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 90,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21392",
+     "sha256": "e173e4240157dd6bf5dd1e8d2d2c0c642aa9da422b6cf257dd2c089e03b1c5be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv026-21329",
+   "path": "zakon/2004/dv026-21329",
+   "short": "Закон за изменение и допълнение на Наказателния кодекс",
+   "title": "Закон за изменение и допълнение на Наказателния кодекс",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21329",
+   "versions": [
+    {
+     "from": "2004-04-02",
+     "units": 65,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21329",
+     "sha256": "ac3794d421bb574c0f07a946e55990eae2522687a1c18bc253ab83deb4e02da8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv028-21302",
+   "path": "zakon/2004/dv028-21302",
+   "short": "Закон за обществените поръчки",
+   "title": "Закон за обществените поръчки",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21302",
+   "versions": [
+    {
+     "from": "2004-10-01",
+     "units": 185,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21302",
+     "sha256": "7a447518115b4d9a69d4daef6eeaf94afdd1a6c3f4ef698e4cf4cbe2b557ac71"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv029-21291",
+   "path": "zakon/2004/dv029-21291",
+   "short": "Закон за изменение и допълнение на Закона за съдебната власт",
+   "title": "Закон за изменение и допълнение на Закона за съдебната власт",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21291",
+   "versions": [
+    {
+     "from": "2004-04-09",
+     "units": 77,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21291",
+     "sha256": "9d29764eb6c9dbdd84b824edaecad0b5ebac6733afd593678abe54f6cabd8d75"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv030-21283",
+   "path": "zakon/2004/dv030-21283",
+   "short": "Закон за ратифициране на Европейската конвенция за кинематографската копродукция",
+   "title": "Закон за ратифициране на Европейската конвенция за кинематографската копродукция",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21283",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21283",
+     "sha256": "5dff995838fcd535033df7b2999a74c6a31e3fa3a7da36873c3f373dcd77b5f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv034-21133",
+   "path": "zakon/2004/dv034-21133",
+   "short": "Закон за ратифициране на Европейската конвенция за защита на животните при умъртвяване чрез клане",
+   "title": "Закон за ратифициране на Европейската конвенция за защита на животните при умъртвяване чрез клане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21133",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21133",
+     "sha256": "6cec1612eacb7e7945badb198d705ed9001586e09904c6b4fc6e8702765a4b2f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv034-21161",
+   "path": "zakon/2004/dv034-21161",
+   "short": "Закон за ратифициране на Европейската конвенция за защита на гръбначните животни, използвани за експериментални и други научни цели и Протокола за изменение на Европейската конвенция за защита на гръбначните животни, използвани за експериментални и други научни цели",
+   "title": "Закон за ратифициране на Европейската конвенция за защита на гръбначните животни, използвани за експериментални и други научни цели и Протокола за изменение на Европейската конвенция за защита на гръбначните животни, използвани за експериментални и други научни цели",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21161",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21161",
+     "sha256": "16a3781313b61082afebff7820ced42761e212fcbffe96a5b8eaa449ddf23dda"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv034-21162",
+   "path": "zakon/2004/dv034-21162",
+   "short": "Закон за ратифициране на Европейската конвенция за защита на животните компаньони",
+   "title": "Закон за ратифициране на Европейската конвенция за защита на животните компаньони",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21162",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21162",
+     "sha256": "8274368de8ff2b9366d61a977b03f341dbcb9bbc4fc6f26c3523e2ac51163838"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv034-21163",
+   "path": "zakon/2004/dv034-21163",
+   "short": "Закон за ратифициране на Европейската конвенция за защита на животните, отглеждани за селскостопански цели и Протокола за изменение на Европейската конвенция за защита на животните, отглеждани за селскостопански цели",
+   "title": "Закон за ратифициране на Европейската конвенция за защита на животните, отглеждани за селскостопански цели и Протокола за изменение на Европейската конвенция за защита на животните, отглеждани за селскостопански цели",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21163",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21163",
+     "sha256": "2e83b4ec04698454d8e5c1f8f98850213c29094ac869af6d01ce023062ca35fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv036-21153",
+   "path": "zakon/2004/dv036-21153",
+   "short": "Закон за изменение и допълнение на Закона за кадастъра и имотния регистър",
+   "title": "Закон за изменение и допълнение на Закона за кадастъра и имотния регистър",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21153",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 65,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21153",
+     "sha256": "76a04242532d1fc8559f0d394520aa62944800c700bf71d142fd8f744e1dc0ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv037-21121",
+   "path": "zakon/2004/dv037-21121",
+   "short": "Закон за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя",
+   "title": "Закон за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21121",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 45,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21121",
+     "sha256": "711bdce072161a03e2801e691f9a4ec6dd0d708eb136e26235372bfbcc1e750f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv038-21037",
+   "path": "zakon/2004/dv038-21037",
+   "short": "Закон за изменение на Закона за собствеността и ползуването на земеделските земи",
+   "title": "Закон за изменение на Закона за собствеността и ползуването на земеделските земи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21037",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21037",
+     "sha256": "0de700ef6abcec5c7b493c55e38be054da3aa61db591eb316f9a9a18d3ce3f99"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv038-21038",
+   "path": "zakon/2004/dv038-21038",
+   "short": "Закон за изменение и допълнение на Закона за Сметната палата",
+   "title": "Закон за изменение и допълнение на Закона за Сметната палата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21038",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 32,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21038",
+     "sha256": "30226c5f3dacf7d5fb43b4c7cf6cdeedaefd2beea6b015582a38d34ab3a29cd9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv040-20976",
+   "path": "zakon/2004/dv040-20976",
+   "short": "Закон за изменение и допълнение на Закона за народната просвета",
+   "title": "Закон за изменение и допълнение на Закона за народната просвета",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20976",
+   "versions": [
+    {
+     "from": "2004-05-17",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20976",
+     "sha256": "4ee3ddea0d0769731a018ea59d5198eee0e6aa3a0e18189a3a92af96dcb58885"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv048-20254",
+   "path": "zakon/2004/dv048-20254",
+   "short": "Закон за изменение и допълнение на Закона за висшето образование",
+   "title": "Закон за изменение и допълнение на Закона за висшето образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20254",
+   "versions": [
+    {
+     "from": "2004-06-04",
+     "units": 84,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20254",
+     "sha256": "493903e94fd6bdd3081e01f6931feecfa5542be9c0ff53fee33a79778f5a4797"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv049-20229",
+   "path": "zakon/2004/dv049-20229",
+   "short": "Закон за изменение и допълнение на Закона за здравното осигуряване",
+   "title": "Закон за изменение и допълнение на Закона за здравното осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20229",
+   "versions": [
+    {
+     "from": "2004-06-11",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20229",
+     "sha256": "218b532cfcd53e8df87d77b5cebb1ae5a964d2e409657112b524da18a9a59acb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv052-20062",
+   "path": "zakon/2004/dv052-20062",
+   "short": "Закон за изменение и допълнение на Кодекса на труда",
+   "title": "Закон за изменение и допълнение на Кодекса на труда",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20062",
+   "versions": [
+    {
+     "from": "2004-08-01",
+     "units": 44,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20062",
+     "sha256": "53dc3b27bf9e901e3b694504d96e990ba0c645ec2f1b26cb82af0328f3167878"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv052-20083",
+   "path": "zakon/2004/dv052-20083",
+   "short": "Закон за изменение и допълнение на Закона за гражданското въздухоплаване",
+   "title": "Закон за изменение и допълнение на Закона за гражданското въздухоплаване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20083",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 66,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20083",
+     "sha256": "8cc31f50c3353adb63b9891a29e5ecb5113c97b6ac6df0dcb83c8dbf2f8f9ad1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv053-20049",
+   "path": "zakon/2004/dv053-20049",
+   "short": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "title": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20049",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20049",
+     "sha256": "55df95ddfda72bade888a87f28edb6ba05299ef8fca0941a3a903d656a509131"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv055-19986",
+   "path": "zakon/2004/dv055-19986",
+   "short": "Закон за изменение и допълнение на Закона за паметниците на културата и музеите",
+   "title": "Закон за изменение и допълнение на Закона за паметниците на културата и музеите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19986",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 32,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19986",
+     "sha256": "f2902ce3b916bfaf04f3ed07739beb3c0a9e216ecf14902c894608a35f243454"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv055-19994",
+   "path": "zakon/2004/dv055-19994",
+   "short": "Закон за адвокатурата",
+   "title": "Закон за адвокатурата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19994",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 189,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19994",
+     "sha256": "6a868b6ac512d0139e6b867179b4e016f4639b3e86ca1bf09f0bc7c42acc2f8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv055-19995",
+   "path": "zakon/2004/dv055-19995",
+   "short": "Закон за изменение и допълнение на Кодекса на търговското корабоплаване",
+   "title": "Закон за изменение и допълнение на Кодекса на търговското корабоплаване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19995",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 22,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19995",
+     "sha256": "9068916a73cc8846b7c7cfb70fa423e4cf3e1b7ab5ada80f247ee9acfa89efb1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv055-19996",
+   "path": "zakon/2004/dv055-19996",
+   "short": "Закон за изменение на Закона за приватизация и следприватизационен контрол",
+   "title": "Закон за изменение на Закона за приватизация и следприватизационен контрол",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19996",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19996",
+     "sha256": "121e3b5bd942ccbf01ac2cc9cada1d40225b417c68eff29b6b0825ec0b3c5c92"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv057-19797",
+   "path": "zakon/2004/dv057-19797",
+   "short": "Закон за изменение и допълнение на Закона за тютюна и тютюневите изделия",
+   "title": "Закон за изменение и допълнение на Закона за тютюна и тютюневите изделия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19797",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19797",
+     "sha256": "0b40aec2c0eb96b9eb3ed0201e183612f584b3ce05433e9e8212f0a3122597e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv064-19544",
+   "path": "zakon/2004/dv064-19544",
+   "short": "Закон за изменение и допълнение на Закона за малките и средните предприятия",
+   "title": "Закон за изменение и допълнение на Закона за малките и средните предприятия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19544",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 29,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19544",
+     "sha256": "bc2c67bf8ed0f5423576f8c19cabe113c8473e5e914807656e5cfc462140b365"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv065-19521",
+   "path": "zakon/2004/dv065-19521",
+   "short": "Закон за изменение и допълнение на Закона за устройство на територията",
+   "title": "Закон за изменение и допълнение на Закона за устройство на територията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19521",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 26,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19521",
+     "sha256": "c172293c6cb094ecd9ee0ce3275d6fd4ccd05502ee5ed53a53ae1b5b97ad5456"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv066-19505",
+   "path": "zakon/2004/dv066-19505",
+   "short": "Закон за изменение и допълнение на Закона за борба срещу противообществените прояви на малолетните и непълнолетните",
+   "title": "Закон за изменение и допълнение на Закона за борба срещу противообществените прояви на малолетните и непълнолетните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19505",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 43,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19505",
+     "sha256": "4f012aacacb1b90695eea7e715cea87add8a58c5289e2d8404916ec5aa57cb36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv069-19431",
+   "path": "zakon/2004/dv069-19431",
+   "short": "Закон за изменение и допълнение на Закона за семейни помощи за деца",
+   "title": "Закон за изменение и допълнение на Закона за семейни помощи за деца",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19431",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 17,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19431",
+     "sha256": "81ad5279e0d8ae7bfc0c960dfb2b841033f543407708ae2feaaec4644b4561e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv070-19411",
+   "path": "zakon/2004/dv070-19411",
+   "short": "Закон за изменение на Закона за държавния служител",
+   "title": "Закон за изменение на Закона за държавния служител",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19411",
+   "versions": [
+    {
+     "from": "2004-08-01",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19411",
+     "sha256": "880c72ab8973c901533b8b94ec0aacd08ceb9b299d75fa16a54386572c72dba3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv080-18774",
+   "path": "zakon/2004/dv080-18774",
+   "short": "Закон за изменение и допълнение на Закона за концесиите",
+   "title": "Закон за изменение и допълнение на Закона за концесиите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18774",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18774",
+     "sha256": "b863b918caf548083cb53801ecdce81b5182b8df158648f3eb83060cbe757040"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv081-18784",
+   "path": "zakon/2004/dv081-18784",
+   "short": "Закон за интеграция на хората с увреждания",
+   "title": "Закон за интеграция на хората с увреждания",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18784",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 78,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18784",
+     "sha256": "26e93faba78d93f223980635db8bd6b8a7832472cde47f155b1985bba8a7e57c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv085-18700",
+   "path": "zakon/2004/dv085-18700",
+   "short": "Закон за изменение и допълнение на Закона за движението по пътищата",
+   "title": "Закон за изменение и допълнение на Закона за движението по пътищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18700",
+   "versions": [
+    {
+     "from": "2004-10-01",
+     "units": 18,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18700",
+     "sha256": "411cd962893d197fc256447ad59571bb104fcafc2046f117886a0c29e6c6277e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv085-18701",
+   "path": "zakon/2004/dv085-18701",
+   "short": "Закон за изменение и допълнение на Закона за застраховането",
+   "title": "Закон за изменение и допълнение на Закона за застраховането",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18701",
+   "versions": [
+    {
+     "from": "2004-10-01",
+     "units": 68,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18701",
+     "sha256": "4c125a108c414a74dc9b1acb15602f647fcd1fe9535e2662c78564c0e1fbb54c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv089-18496",
+   "path": "zakon/2004/dv089-18496",
+   "short": "Закон за изменение и допълнение на Наказателно-процесуалния кодекс",
+   "title": "Закон за изменение и допълнение на Наказателно-процесуалния кодекс",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18496",
+   "versions": [
+    {
+     "from": "2004-10-15",
+     "units": 57,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18496",
+     "sha256": "06ab8f6bd611254c27e50db2684e28a40d352c88f5ba6953200c70ef716995d2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv092-18577",
+   "path": "zakon/2004/dv092-18577",
+   "short": "Закон за изменение и допълнение на Закона за експортното застраховане",
+   "title": "Закон за изменение и допълнение на Закона за експортното застраховане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18577",
+   "versions": [
+    {
+     "from": "2004-10-18",
+     "units": 15,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18577",
+     "sha256": "dcb857b78b4321f35f94e2d9f31f52463388b0f829c2c9bae81b5e4f57859624"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv093-18564",
+   "path": "zakon/2004/dv093-18564",
+   "short": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+   "title": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18564",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 48,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18564",
+     "sha256": "7d7a87520f2b95f14df9f250295ccaf2cf9719139217ac01b68ee79e2d1fb2ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv094-18543",
+   "path": "zakon/2004/dv094-18543",
+   "short": "Закон за ратифициране на Европейската конвенция за ландшафта",
+   "title": "Закон за ратифициране на Европейската конвенция за ландшафта",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18543",
+   "versions": [
+    {
+     "from": "2004-10-25",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18543",
+     "sha256": "ebb3a753e633b116a4cd664462beafb84264c1c9cbc8cb602ca3cf510ed097db"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv096-18462",
+   "path": "zakon/2004/dv096-18462",
+   "short": "Закон за изменение и допълнение на Закона за гражданската регистрация",
+   "title": "Закон за изменение и допълнение на Закона за гражданската регистрация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18462",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 45,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18462",
+     "sha256": "b95cef0a3f3f9eba5ed190dbde037b5772f96c463e94aa6039103a26e5d8e142"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv096-18467",
+   "path": "zakon/2004/dv096-18467",
+   "short": "Закон за изменение и допълнение на Закона за счетоводството",
+   "title": "Закон за изменение и допълнение на Закона за счетоводството",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18467",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18467",
+     "sha256": "4bf04d023005f03050de789df4a5397e5f2d25e19e63ac009d7c4e8818620b47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv096-18469",
+   "path": "zakon/2004/dv096-18469",
+   "short": "Закон за опазване на обществения ред при провеждането на спортни мероприятия",
+   "title": "Закон за опазване на обществения ред при провеждането на спортни мероприятия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18469",
+   "versions": [
+    {
+     "from": "2004-11-29",
+     "units": 76,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18469",
+     "sha256": "ee4a5fe990bb5a6fe61c725c5cb4932e647ad3053541bde975fe1fbaa97b329a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv099-18428",
+   "path": "zakon/2004/dv099-18428",
+   "short": "Закон за допълнение на Закона за радиото и телевизията",
+   "title": "Закон за допълнение на Закона за радиото и телевизията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18428",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18428",
+     "sha256": "d4c4304d396502d147e8531ed4ced417010377cea6f31363adf11a8f72c7f33c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv101-18406",
+   "path": "zakon/2004/dv101-18406",
+   "short": "Закон за изменение и допълнение на Закона за общинската собственост",
+   "title": "Закон за изменение и допълнение на Закона за общинската собственост",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18406",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 81,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18406",
+     "sha256": "b9a00d32afc130ea1e1cbd8692b887f62ca679ac9df91e86413826100abc2898"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv103-18355",
+   "path": "zakon/2004/dv103-18355",
+   "short": "Закон за изменение и допълнение на Закона за изпълнение на наказанията",
+   "title": "Закон за изменение и допълнение на Закона за изпълнение на наказанията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18355",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 58,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18355",
+     "sha256": "8b0f2a00ff61f758dd2d668cba97c16d8abcb2da82b1a2fff4cf5a50bf6e0c85"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv103-18356",
+   "path": "zakon/2004/dv103-18356",
+   "short": "Закон за изменение и допълнение на Наказателния кодекс",
+   "title": "Закон за изменение и допълнение на Наказателния кодекс",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18356",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 48,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18356",
+     "sha256": "36cf3e7a74c4dfbf50b8c982ee61cc0ec963bb08a7159e651e4f7e73a5af8706"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv103-18357",
+   "path": "zakon/2004/dv103-18357",
+   "short": "Закон за защита на лица, застрашени във връзка с наказателно производство",
+   "title": "Закон за защита на лица, застрашени във връзка с наказателно производство",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18357",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 41,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18357",
+     "sha256": "a2167e287e94cd62d982fd134af3c741bb32c2546db2d5d9873c53aa3771cd28"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv103-18358",
+   "path": "zakon/2004/dv103-18358",
+   "short": "Закон за изменение и допълнение на Закона за българските документи за самоличност",
+   "title": "Закон за изменение и допълнение на Закона за българските документи за самоличност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18358",
+   "versions": [
+    {
+     "from": "2004-11-23",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18358",
+     "sha256": "e96ad4c803c11779a484b5ab71975d855cceede48257eb0c004fef2a3fffe97f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv106-18266",
+   "path": "zakon/2004/dv106-18266",
+   "short": "Закон за изменение и допълнение на Закона за местните данъци и такси",
+   "title": "Закон за изменение и допълнение на Закона за местните данъци и такси",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18266",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18266",
+     "sha256": "008e0614584d05801291370e9ea73d72be2589f74cf777192a419cb8ff490ca6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv107-18237",
+   "path": "zakon/2004/dv107-18237",
+   "short": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "title": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18237",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 47,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18237",
+     "sha256": "50729f6d49fa9809552a09b405f652b5e3937ed134e6327fcd33a75468fcdea4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv108-18215",
+   "path": "zakon/2004/dv108-18215",
+   "short": "Закон за изменение и допълнение на Закона за данък върху добавената стойност",
+   "title": "Закон за изменение и допълнение на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18215",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18215",
+     "sha256": "ce08c0d25fccce0015db90f7b5665b8b64f0c57248cf62632c7808b857df19a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv108-18229",
+   "path": "zakon/2004/dv108-18229",
+   "short": "Закон за изменение и допълнение на Закона за облагане доходите на физическите лица",
+   "title": "Закон за изменение и допълнение на Закона за облагане доходите на физическите лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18229",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18229",
+     "sha256": "ab397ea6446bc9613b103a663aebc77826cb349364d935b030fbd0492ec959de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv110-18126",
+   "path": "zakon/2004/dv110-18126",
+   "short": "Закон за медиацията",
+   "title": "Закон за медиацията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18126",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18126",
+     "sha256": "6cd6e5edcaebbd4544b20c312a58f7865ddc34fe2e31b36e2960a4f91b51a432"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv111-18069",
+   "path": "zakon/2004/dv111-18069",
+   "short": "Закон за изменение и допълнение на Закона за българските документи за самоличност",
+   "title": "Закон за изменение и допълнение на Закона за българските документи за самоличност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18069",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18069",
+     "sha256": "db60c2c46d4db9ab234a66b3d2e908f927c24b005d366e3e87247c65a9432312"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv111-18070",
+   "path": "zakon/2004/dv111-18070",
+   "short": "Закон за изменение и допълнение на Закона за здравното осигуряване",
+   "title": "Закон за изменение и допълнение на Закона за здравното осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18070",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18070",
+     "sha256": "486647086fd3bb8e56100ddf1230fa1e066ad5da679c4efc1d634439d0a19656"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-dv115-18016",
+   "path": "zakon/2004/dv115-18016",
+   "short": "Закон за бюджета на Националната здравноосигурителна каса за 2005 г.",
+   "title": "Закон за бюджета на Националната здравноосигурителна каса за 2005 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18016",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 14,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18016",
+     "sha256": "ad746b1952fe1b6db1ceb8c916b4ae999525dfad2a02b61944213a1ffccf6a94"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv014-14844",
+   "path": "zakon/2005/dv014-14844",
+   "short": "Закон за изменение и допълнение на Закона за подпомагане на земеделските производители",
+   "title": "Закон за изменение и допълнение на Закона за подпомагане на земеделските производители",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14844",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14844",
+     "sha256": "cbc70deb967df8b3cc61cb37922bfd7c941426f1b642e28d88b7d3575874cd7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv018-14899",
+   "path": "zakon/2005/dv018-14899",
+   "short": "Закон за регулиране на водоснабдителните и канализационните услуги",
+   "title": "Закон за регулиране на водоснабдителните и канализационните услуги",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14899",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 55,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14899",
+     "sha256": "70a3a3d71b57bdfaa97fc1367ffa3a08a39731273cc1f20dd0de4c0f42fbd670"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv019-14906",
+   "path": "zakon/2005/dv019-14906",
+   "short": "Закон за отнемане в полза на държавата на имущество, придобито от престъпна дейност",
+   "title": "Закон за отнемане в полза на държавата на имущество, придобито от престъпна дейност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14906",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 62,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14906",
+     "sha256": "4713eabf6b33e87783ef352c22796e5355648c03ee014f4d2c16c6ba41b6cc5d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv019-14907",
+   "path": "zakon/2005/dv019-14907",
+   "short": "Закон за управление при кризи",
+   "title": "Закон за управление при кризи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14907",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 111,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14907",
+     "sha256": "8c3862ec51d284cbe586fe9c3ecaae55db837770bff6c03617ac5df63532f528"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv024-15074",
+   "path": "zakon/2005/dv024-15074",
+   "short": "Закон за изменение и допълнение на Наказателния кодекс",
+   "title": "Закон за изменение и допълнение на Наказателния кодекс",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15074",
+   "versions": [
+    {
+     "from": "2005-03-25",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15074",
+     "sha256": "c033e0ad3102de87921638ab9b87e61e1715a1cac3bec953dc7138bc99e0cd4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv027-15108",
+   "path": "zakon/2005/dv027-15108",
+   "short": "Закон за изменение на Кодекса на труда",
+   "title": "Закон за изменение на Кодекса на труда",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15108",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15108",
+     "sha256": "0ec63f6f478e76c84049a330c18460f252e0f1c8ba4722b9fbd6c852cf1e16eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv027-15109",
+   "path": "zakon/2005/dv027-15109",
+   "short": "Закон за военноинвалидите и военнопострадалите",
+   "title": "Закон за военноинвалидите и военнопострадалите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15109",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 40,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15109",
+     "sha256": "f43037e8eada0df3d5ffa47d36daa0d578602c8299ab3682a6ddac5fcf505f30"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv027-15110",
+   "path": "zakon/2005/dv027-15110",
+   "short": "Закон за генетично модифицирани организми",
+   "title": "Закон за генетично модифицирани организми",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15110",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 180,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15110",
+     "sha256": "33eb496ee17fcfb54d6b897d2caaad7cd8774c2d636f2d03ea5497b9e6ffb968"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv027-15125",
+   "path": "zakon/2005/dv027-15125",
+   "short": "Закон за защита срещу домашното насилие",
+   "title": "Закон за защита срещу домашното насилие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15125",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15125",
+     "sha256": "7ab4b7f1edb81541830ca863de405d74a9fcd6ec8b7df6e7797eef03e86de7d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv028-15118",
+   "path": "zakon/2005/dv028-15118",
+   "short": "Закон за политическите партии",
+   "title": "Закон за политическите партии",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15118",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 63,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15118",
+     "sha256": "25e7fa7cdc54e1bac3dfc264102ae36510bba3092ad8ad121af95536342ee41d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv029-15143",
+   "path": "zakon/2005/dv029-15143",
+   "short": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "title": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15143",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 14,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15143",
+     "sha256": "a9c65c9d448882c423c1d213982bc358e40d26553feb2c9688db46b44e93438b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv031-15130",
+   "path": "zakon/2005/dv031-15130",
+   "short": "Закон за изменение на Закона за гарантиране на влоговете в банките",
+   "title": "Закон за изменение на Закона за гарантиране на влоговете в банките",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15130",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15130",
+     "sha256": "93a9bb8eb310f2aa241f46869afd44e471b143205c20586c8f02f70a09e9f171"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv031-15163",
+   "path": "zakon/2005/dv031-15163",
+   "short": "Закон за изменение и допълнение на Закона за убежището и бежанците",
+   "title": "Закон за изменение и допълнение на Закона за убежището и бежанците",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15163",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15163",
+     "sha256": "84814bf6b3563f8d78179621b2ba6d4745b80d1311c877e193181dbb64886946"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv031-15165",
+   "path": "zakon/2005/dv031-15165",
+   "short": "Закон за изменение и допълнение на Закона за \"Държавен вестник\"",
+   "title": "Закон за изменение и допълнение на Закона за \"Държавен вестник\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15165",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15165",
+     "sha256": "ccf4a266bab578f4f9c1cfe4588fcee139b88f98a689e027f0860b2d4f17525e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv032-15182",
+   "path": "zakon/2005/dv032-15182",
+   "short": "Закон за изменение и допълнение на Закона за Националния дарителски фонд \"13 века България\"",
+   "title": "Закон за изменение и допълнение на Закона за Националния дарителски фонд \"13 века България\"",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15182",
+   "versions": [
+    {
+     "from": "2005-04-15",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15182",
+     "sha256": "18d2ee6719895721d38831a283e7b3c874ccd1c7a914dd1af86ddc547263546c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv032-15186",
+   "path": "zakon/2005/dv032-15186",
+   "short": "Закон за изменение и допълнение на Закона за избиране на народни представители",
+   "title": "Закон за изменение и допълнение на Закона за избиране на народни представители",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15186",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 56,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15186",
+     "sha256": "390c07bc4599e4c32ca3c5db29f72e106e1d26db536a3f3d94d6bb6e70345ca8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv034-15233",
+   "path": "zakon/2005/dv034-15233",
+   "short": "Закон за общинския дълг",
+   "title": "Закон за общинския дълг",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15233",
+   "versions": [
+    {
+     "from": "2005-06-01",
+     "units": 85,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15233",
+     "sha256": "5c604cc81b39a121aee4b9058c342bfecb541ca54f777d346cade39e852260f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv034-15235",
+   "path": "zakon/2005/dv034-15235",
+   "short": "Закон за задълженията към Международния фонд за обезщетение при щети, причинени от замърсяване с нефт",
+   "title": "Закон за задълженията към Международния фонд за обезщетение при щети, причинени от замърсяване с нефт",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15235",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15235",
+     "sha256": "bfac9e03d3c0fd89efff48254576d232cc347391ebd3beb937709818e5105363"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv037-15325",
+   "path": "zakon/2005/dv037-15325",
+   "short": "Закон за изменение и допълнение на Закона за лекарствата и аптеките в хуманната медицина",
+   "title": "Закон за изменение и допълнение на Закона за лекарствата и аптеките в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15325",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15325",
+     "sha256": "8a9d6f604cc11c680b76d2a8ea7c83ed7c63af6980fedddf4b435794904dfdf1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv038-147",
+   "path": "zakon/2005/dv038-147",
+   "short": "Закон за изменение на Закона за избиране на народни представители",
+   "title": "Закон за изменение на Закона за избиране на народни представители",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147",
+     "sha256": "e20734318a11a82d1d43a84d62e60dd4d190e68d4b11ccb304e6e93c5bbb7761"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv038-148",
+   "path": "zakon/2005/dv038-148",
+   "short": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+   "title": "Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148",
+     "sha256": "533e976bb9967c27c15a8b1d38136227325d46f9049b76608310e9d962bc2177"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv038-149",
+   "path": "zakon/2005/dv038-149",
+   "short": "Закон за изменение и допълнение на Кодекса за социално осигуряване",
+   "title": "Закон за изменение и допълнение на Кодекса за социално осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 13,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149",
+     "sha256": "d18011fa278336dac8c6a9ac7a1ab8bd829282ca01a06b9fafa07d2ae0990929"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv038-150",
+   "path": "zakon/2005/dv038-150",
+   "short": "Закон за изменение и допълнение на Закона за насърчаване на заетостта",
+   "title": "Закон за изменение и допълнение на Закона за насърчаване на заетостта",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 26,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150",
+     "sha256": "092be593c4488f1f9635e35da1e0728206ae57971a82952faddab3f0257e1f04"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv039-182",
+   "path": "zakon/2005/dv039-182",
+   "short": "Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа",
+   "title": "Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182",
+   "versions": [
+    {
+     "from": "2005-05-13",
+     "units": 164,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182",
+     "sha256": "d91515a231ce39d212a0c872f5e1593b3a6579d9565cbf84301cb20e56ca0ef1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv040-205",
+   "path": "zakon/2005/dv040-205",
+   "short": "Закон за ратифициране на Договора между Кралство Белгия, Чешката република, Кралство Дания, Федерална република Германия, Република Естония, Република Гърция, Кралство Испания, Френската република, Ирландия, Италианската република, Република Кипър, Република Латвия, Република Литва, Великото херцогство Люксембург, Република Унгария, Република Малта, Кралство Нидерландия, Република Австрия, Република Полша, Португалската република, Република Словения, Словашката република, Република Финландия, Кралство Швеция, Обединеното кралство Великобритания и Северна Ирландия (държави - членки на Европейския съюз) и Република България и Румъния за присъединяването на Република България и Румъния към Европейския съюз, Протокола относно условията и договореностите за приемането на Република България и на Румъния в Европейския съюз, Акта относно условията за присъединяване на Република България и Румъния и промените в Учредителните договори на Европейския съюз и Заключителния акт по присъединяването на Република България и на Румъния към Европейския съюз",
+   "title": "Закон за ратифициране на Договора между Кралство Белгия, Чешката република, Кралство Дания, Федерална република Германия, Република Естония, Република Гърция, Кралство Испания, Френската република, Ирландия, Италианската република, Република Кипър, Република Латвия, Република Литва, Великото херцогство Люксембург, Република Унгария, Република Малта, Кралство Нидерландия, Република Австрия, Република Полша, Португалската република, Република Словения, Словашката република, Република Финландия, Кралство Швеция, Обединеното кралство Великобритания и Северна Ирландия (държави - членки на Европейския съюз) и Република България и Румъния за присъединяването на Република България и Румъния към Европейския съюз, Протокола относно условията и договореностите за приемането на Република България и на Румъния в Европейския съюз, Акта относно условията за присъединяване на Република България и Румъния и промените в Учредителните договори на Европейския съюз и Заключителния акт по присъединяването на Република България и на Румъния към Европейския съюз",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205",
+     "sha256": "d8b64b7101a21e75acfd53eeac645d7e7ee823e436a9cd64447c096b06673768"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv043-299",
+   "path": "zakon/2005/dv043-299",
+   "short": "Закон за изменение и допълнение на Закона за промишления дизайн",
+   "title": "Закон за изменение и допълнение на Закона за промишления дизайн",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=299",
+   "versions": [
+    {
+     "from": "2005-08-20",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=299",
+     "sha256": "58e38cde603192db1d7246c33df0d87117a8f595143ef606500f39b674f2a96a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv043-300",
+   "path": "zakon/2005/dv043-300",
+   "short": "Закон за изменение и допълнение на Закона за марките и географските означения",
+   "title": "Закон за изменение и допълнение на Закона за марките и географските означения",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=300",
+   "versions": [
+    {
+     "from": "2005-08-20",
+     "units": 48,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=300",
+     "sha256": "b55385f860ebfaac247c14c9a653133c1646df120385a2c7891c292282c2fdf2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv045-346",
+   "path": "zakon/2005/dv045-346",
+   "short": "Закон за изменение и допълнение на Закона за техническите изисквания към продуктите",
+   "title": "Закон за изменение и допълнение на Закона за техническите изисквания към продуктите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=346",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 71,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=346",
+     "sha256": "1227c91fcf35c40ed6ec6c7d85c0190ba37eeeac81fdfb9c332e8bb2392ef0dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv045-348",
+   "path": "zakon/2005/dv045-348",
+   "short": "Закон за изменение и допълнение на Закона за митниците",
+   "title": "Закон за изменение и допълнение на Закона за митниците",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=348",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 39,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=348",
+     "sha256": "cbcde9d674e732b46911d71537132e8e7d991ab9ce8fed03739b7f0e9c4840cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv046-384",
+   "path": "zakon/2005/dv046-384",
+   "short": "Закон за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти",
+   "title": "Закон за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=384",
+   "versions": [
+    {
+     "from": "2005-06-06",
+     "units": 69,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=384",
+     "sha256": "0a630058e546066e565db535dc72beb174f129f9520a4f299bd58f210d4412aa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv046-385",
+   "path": "zakon/2005/dv046-385",
+   "short": "Закон за екстрадицията и Европейската заповед за арест",
+   "title": "Закон за екстрадицията и Европейската заповед за арест",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=385",
+   "versions": [
+    {
+     "from": "2005-07-03",
+     "units": 86,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=385",
+     "sha256": "db35f1319d903f54cfd63eadb424434829a18349f1e8bc247e7579bcb04675b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv063-678",
+   "path": "zakon/2005/dv063-678",
+   "short": "Закон за изменение и допълнение на Закона за чужденците в Република България",
+   "title": "Закон за изменение и допълнение на Закона за чужденците в Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=678",
+   "versions": [
+    {
+     "from": "2005-08-05",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=678",
+     "sha256": "bd69b5290d5b5e8cae4227f2f2a1f82b2c703c616e8d5ba4c46f39e8244dbe00"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv066-715",
+   "path": "zakon/2005/dv066-715",
+   "short": "Закон за изменение и допълнение на Търговския закон",
+   "title": "Закон за изменение и допълнение на Търговския закон",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=715",
+   "versions": [
+    {
+     "from": "2005-08-15",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=715",
+     "sha256": "be4595873c8629509acb52784fc0bfe7b97b54ddecd65e1f26931f38a2de1f08"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv069-759",
+   "path": "zakon/2005/dv069-759",
+   "short": "Закон за изменение и допълнение на Закона за съхранение и търговия със зърно",
+   "title": "Закон за изменение и допълнение на Закона за съхранение и търговия със зърно",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=759",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 34,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=759",
+     "sha256": "76b9398b18b4f4616e1aa20c445034190d61b532618a6f8abb6b57a3fc398bbf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv071-784",
+   "path": "zakon/2005/dv071-784",
+   "short": "Закон за допълнение на Закона за българските документи за самоличност",
+   "title": "Закон за допълнение на Закона за българските документи за самоличност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=784",
+   "versions": [
+    {
+     "from": "2005-10-30",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=784",
+     "sha256": "d6b1fec92eaaeea91ee44dff41359cb47c0bed09df35244765c6b506896bef10"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv072-810",
+   "path": "zakon/2005/dv072-810",
+   "short": "Закон за изменение и допълнение на Закона за горите",
+   "title": "Закон за изменение и допълнение на Закона за горите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=810",
+   "versions": [
+    {
+     "from": "2005-09-05",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=810",
+     "sha256": "1e453e305ca5ccbd0012d00c39eb63ce3c7c54e558187e859361ee619e5a136e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv074-819",
+   "path": "zakon/2005/dv074-819",
+   "short": "Закон за изменение и допълнение на Закона за регистрация и контрол на земеделската и горската техника",
+   "title": "Закон за изменение и допълнение на Закона за регистрация и контрол на земеделската и горската техника",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=819",
+   "versions": [
+    {
+     "from": "2005-09-13",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=819",
+     "sha256": "c3081c12ef1ccb9f7f2d619cfc478f9be3ed4086a6a68c1d3cec1116ec3fac9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv074-820",
+   "path": "zakon/2005/dv074-820",
+   "short": "Закон за защита от шума в околната среда",
+   "title": "Закон за защита от шума в околната среда",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=820",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 64,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=820",
+     "sha256": "ca58ad1d72d2be8a496ab58f2c30906277c207ab275964fdc897159159381134"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv076-844",
+   "path": "zakon/2005/dv076-844",
+   "short": "Закон за изменение на Закона за съсловните организации на лекарите и стоматолозите",
+   "title": "Закон за изменение на Закона за съсловните организации на лекарите и стоматолозите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=844",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 17,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=844",
+     "sha256": "78a34fd9209c38f3c09b2c5fc7b6d0cff75de31734512ba0d575f6a8bd4b85a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv076-845",
+   "path": "zakon/2005/dv076-845",
+   "short": "Закон за изменение и допълнение на Закона за здравословни и безопасни условия на труд",
+   "title": "Закон за изменение и допълнение на Закона за здравословни и безопасни условия на труд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=845",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=845",
+     "sha256": "d9d2fba20993bc8943354ee4b5def782199ded22aa4d70a358b638163fd9c27f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv079-890",
+   "path": "zakon/2005/dv079-890",
+   "short": "Закон за изменение и допълнение на Закона за движението по пътищата",
+   "title": "Закон за изменение и допълнение на Закона за движението по пътищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=890",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=890",
+     "sha256": "f3e0226b9e336ee3afa27771fccf17a59190ca7ddc89c9654837fae807d64d16"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv079-891",
+   "path": "zakon/2005/dv079-891",
+   "short": "Закон за правната помощ",
+   "title": "Закон за правната помощ",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=891",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 69,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=891",
+     "sha256": "78cb892d5089d341c8c69a66a9dcbc3ef0cd4b1b89bb9dcd7cc4fcff508953d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv079-892",
+   "path": "zakon/2005/dv079-892",
+   "short": "Закон за изменение и допълнение на Закона за хазарта",
+   "title": "Закон за изменение и допълнение на Закона за хазарта",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=892",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 8,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=892",
+     "sha256": "b03486df7a7623ba11c1babaa31a12dd5389f3cfb7edc8cb98d8f93cd83e54a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv079-893",
+   "path": "zakon/2005/dv079-893",
+   "short": "Закон за изменение и допълнение на Закона за административните нарушения и наказания",
+   "title": "Закон за изменение и допълнение на Закона за административните нарушения и наказания",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=893",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=893",
+     "sha256": "d4c459a9f38a335d72e9824b4b5cee8c2f57091e2112e4ebb6c1455e306492e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv079-894",
+   "path": "zakon/2005/dv079-894",
+   "short": "Закон за изменение и допълнение на Закона за контрол върху наркотичните вещества и прекурсорите",
+   "title": "Закон за изменение и допълнение на Закона за контрол върху наркотичните вещества и прекурсорите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=894",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 54,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=894",
+     "sha256": "ba2a3e6dccca17bb2420e142fb08b7fcf6e57280848102e8674e76abbdb85c61"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv081-916",
+   "path": "zakon/2005/dv081-916",
+   "short": "Закон за изменение и допълнение на Закона за статистиката",
+   "title": "Закон за изменение и допълнение на Закона за статистиката",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=916",
+   "versions": [
+    {
+     "from": "2005-10-14",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=916",
+     "sha256": "c5c690848dbd09ad6686cc483f6f4f28b4d8b9f405b5bad2f78843d6ab23ecec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv083-939",
+   "path": "zakon/2005/dv083-939",
+   "short": "Закон за изменение и допълнение на Кодекса на труда",
+   "title": "Закон за изменение и допълнение на Кодекса на труда",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=939",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=939",
+     "sha256": "f0a66426b1cba467392b1ac49717364eef3c8bca17ccea1a4f600fd5940dd790"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv083-944",
+   "path": "zakon/2005/dv083-944",
+   "short": "Закон за изменение и допълнение на Закона за висшето образование",
+   "title": "Закон за изменение и допълнение на Закона за висшето образование",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=944",
+   "versions": [
+    {
+     "from": "2005-10-18",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=944",
+     "sha256": "b7b0ed5a540612be99e66b3348c465b569a308a92c84fe434bdc38baad44ba96"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv085-963",
+   "path": "zakon/2005/dv085-963",
+   "short": "Закон за изменение и допълнение на Закона за здравето",
+   "title": "Закон за изменение и допълнение на Закона за здравето",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=963",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 24,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=963",
+     "sha256": "65acb64ad7176df7b57cb03b8e549235754e8b32de322cf3940960718856fa8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv087-980",
+   "path": "zakon/2005/dv087-980",
+   "short": "Закон за изменение и допълнение на Закона за устройството на държавния бюджет",
+   "title": "Закон за изменение и допълнение на Закона за устройството на държавния бюджет",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=980",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 12,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=980",
+     "sha256": "13c470e294d7e943fcf217eb30831638ec68f3d7be6786c6a2382d96ef37aa03"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv087-981",
+   "path": "zakon/2005/dv087-981",
+   "short": "Закон за допълнение на Закона за лекарствата и аптеките в хуманната медицина",
+   "title": "Закон за допълнение на Закона за лекарствата и аптеките в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=981",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=981",
+     "sha256": "1f307db2647ba566223258c624642b5faca19682c565bdc948dfed19bbe1a031"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv087-983",
+   "path": "zakon/2005/dv087-983",
+   "short": "Закон за изменение и допълнение на Кодекса на търговското корабоплаване",
+   "title": "Закон за изменение и допълнение на Кодекса на търговското корабоплаване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=983",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 20,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=983",
+     "sha256": "1f90821c2783be68638983a40ca335a7b546a5d960f2957df2993c2bf974eb34"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv088-992",
+   "path": "zakon/2005/dv088-992",
+   "short": "Закон за изменение и допълнение на Закона за биологичното разнообразие",
+   "title": "Закон за изменение и допълнение на Закона за биологичното разнообразие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=992",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 84,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=992",
+     "sha256": "64b71fee03a44263e1b05df6fbae88c988480502d506f6d11b63d4a0fa6f9134"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv088-993",
+   "path": "zakon/2005/dv088-993",
+   "short": "Закон за националната стандартизация",
+   "title": "Закон за националната стандартизация",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=993",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 80,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=993",
+     "sha256": "e62916165ebd717ff3c3b2918011f608019eb94d42e8e5ae8e8b68872e146a30"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv091-1025",
+   "path": "zakon/2005/dv091-1025",
+   "short": "Закон за изменение на Закона за замяна на воинските задължения с алтернативна служба",
+   "title": "Закон за изменение на Закона за замяна на воинските задължения с алтернативна служба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1025",
+   "versions": [
+    {
+     "from": "2005-11-15",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1025",
+     "sha256": "f09e185dd04fd1691c4df97f4b8a2b445dc58e0d0f3d5f91b00b19bc6c768f00"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv091-1027",
+   "path": "zakon/2005/dv091-1027",
+   "short": "Закон за акцизите и данъчните складове",
+   "title": "Закон за акцизите и данъчните складове",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1027",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 174,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1027",
+     "sha256": "7db7243c491b01a589ec1f7fa99299a6c5246856d6d5a8254a521e7063518633"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv093-1057",
+   "path": "zakon/2005/dv093-1057",
+   "short": "Закон за изменение и допълнение на Закона за радиото и телевизията",
+   "title": "Закон за изменение и допълнение на Закона за радиото и телевизията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1057",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 15,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1057",
+     "sha256": "03adc0fd800b1be26ecb14436d5c2d77d3c7f25fc111a94809d408c0d9a643fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv093-1058",
+   "path": "zakon/2005/dv093-1058",
+   "short": "Закон за изменение и допълнение на Закона за закрила и развитие на културата",
+   "title": "Закон за изменение и допълнение на Закона за закрила и развитие на културата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1058",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 9,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1058",
+     "sha256": "990ab625b02c20856159e248a8d66211219d6c253ec662b08f0c0bebf8cd551b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv094-1068",
+   "path": "zakon/2005/dv094-1068",
+   "short": "Закон за изменение и допълнение на Закона за туризма",
+   "title": "Закон за изменение и допълнение на Закона за туризма",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1068",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 92,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1068",
+     "sha256": "e307298b02b8dc82199bfe08e7782c9c24d7b593ed54fcf41a8abc0ea15d8bf3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv094-1069",
+   "path": "zakon/2005/dv094-1069",
+   "short": "Закон за изменение и допълнение на Закона за рибарството и аквакултурите",
+   "title": "Закон за изменение и допълнение на Закона за рибарството и аквакултурите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1069",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 126,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1069",
+     "sha256": "367e82efdc8c04cfd935fb780c55c4ccabfaf2536a80d09386c8fb2938d40699"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv099-1115",
+   "path": "zakon/2005/dv099-1115",
+   "short": "Закон за защита на потребителите",
+   "title": "Закон за защита на потребителите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1115",
+   "versions": [
+    {
+     "from": "2006-06-09",
+     "units": 303,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1115",
+     "sha256": "3c3015b285091303dc3ec82916f2829d2e87da9766a72219725c43ac10d7e474"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv099-1116",
+   "path": "zakon/2005/dv099-1116",
+   "short": "Закон за изменение и допълнение на Закона за авторското право и сродните му права",
+   "title": "Закон за изменение и допълнение на Закона за авторското право и сродните му права",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1116",
+   "versions": [
+    {
+     "from": "2006-01-09",
+     "units": 64,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1116",
+     "sha256": "4b743383ab7b7d48a1341890b26bed5521570ba8d00b01587233570242dabc95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv099-1117",
+   "path": "zakon/2005/dv099-1117",
+   "short": "Закон за изменение на Закона за здравното осигуряване",
+   "title": "Закон за изменение на Закона за здравното осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1117",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 5,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1117",
+     "sha256": "a1ce13c8e1be09a98620b4bf7cb0feff72acbb6bee7b0fa44c29e4f4a7c6fefb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv100-1131",
+   "path": "zakon/2005/dv100-1131",
+   "short": "Закон за изменение и допълнение на Закона за акцизите",
+   "title": "Закон за изменение и допълнение на Закона за акцизите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1131",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 11,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1131",
+     "sha256": "eb5677129fe3d02a1aa4d89ef667f46e6270bb648d37abddb33f2bd4e7e073f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv100-1132",
+   "path": "zakon/2005/dv100-1132",
+   "short": "Закон за изменение и допълнение на Закона за данък върху добавената стойност",
+   "title": "Закон за изменение и допълнение на Закона за данък върху добавената стойност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1132",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 19,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1132",
+     "sha256": "6bda8025c3aa17dbf4717da61a9a16ffd34444167e873152492a57e1310f5d68"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv101-1145",
+   "path": "zakon/2005/dv101-1145",
+   "short": "Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и препарати",
+   "title": "Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и препарати",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1145",
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1145",
+     "sha256": "4c21a6ea8efd70e4fe520a87e9e9bec69d4af43e1a4afd785dc2b6fb4f29dc21"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1152",
+   "path": "zakon/2005/dv102-1152",
+   "short": "Закон за изменение и допълнение на Закона за облагане доходите на физическите лица",
+   "title": "Закон за изменение и допълнение на Закона за облагане доходите на физическите лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1152",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1152",
+     "sha256": "72962da9447d6795aa0f4278cf72fd2bad53a234bb932384e01be5f68c589b7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1154",
+   "path": "zakon/2005/dv102-1154",
+   "short": "Закон за изпращане и използване на български въоръжени сили извън територията на Република България",
+   "title": "Закон за изпращане и използване на български въоръжени сили извън територията на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1154",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 35,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1154",
+     "sha256": "5f259992e341d35a72f850b9690d54a936db3726b10518abb88dc325fde72dc7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1157",
+   "path": "zakon/2005/dv102-1157",
+   "short": "Закон за изменение на Кодекса за социално осигуряване",
+   "title": "Закон за изменение на Кодекса за социално осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1157",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1157",
+     "sha256": "6e4850ba421f25a20cdfadd88f79ac629b2cc043aba57a85b10f36ac3249912e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1161",
+   "path": "zakon/2005/dv102-1161",
+   "short": "Закон за ратифициране на Европейската конвенция за защита на животните по време на международен транспорт (ревизирана)",
+   "title": "Закон за ратифициране на Европейската конвенция за защита на животните по време на международен транспорт (ревизирана)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1161",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1161",
+     "sha256": "c98f5341eb017c291adf1d3e85636c2e5ce74a057cd52828a2002ca88c930e9f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1162",
+   "path": "zakon/2005/dv102-1162",
+   "short": "Закон за ратифициране на Европейската конвенция за гражданството",
+   "title": "Закон за ратифициране на Европейската конвенция за гражданството",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1162",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1162",
+     "sha256": "90f8293dc05554d5417a9f36e4ed243fa7e6788e213489ef448202b7fc4831f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1163",
+   "path": "zakon/2005/dv102-1163",
+   "short": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "title": "Закон за изменение и допълнение на Закона за корпоративното подоходно облагане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1163",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 38,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1163",
+     "sha256": "b3cca9d5612bdc0e92440a6eedcb8cb727fe08d5ee8183a1a6de0245b2396169"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv102-1164",
+   "path": "zakon/2005/dv102-1164",
+   "short": "Закон за бюджета на Националната здравноосигурителна каса за 2006 г.",
+   "title": "Закон за бюджета на Националната здравноосигурителна каса за 2006 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1164",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 15,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1164",
+     "sha256": "46c7a29bc51566764c571eec033f9c2ae49a3912dce315b98c7514e91dc199c6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv103-1173",
+   "path": "zakon/2005/dv103-1173",
+   "short": "Закон за изменение и допълнение на Закона за защита на личните данни",
+   "title": "Закон за изменение и допълнение на Закона за защита на личните данни",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1173",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 54,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1173",
+     "sha256": "77c63a64455af2293fcff8cefd613fbd5d40af6a0ea2719b142d8133066cf1b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv103-1174",
+   "path": "zakon/2005/dv103-1174",
+   "short": "Закон за изменение и допълнение на Закона за устройство на територията",
+   "title": "Закон за изменение и допълнение на Закона за устройство на територията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1174",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 25,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1174",
+     "sha256": "638dbdea030d52fac72e61d88542ef918a946ed2a2d2e9a41a517d5afd88640a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv103-1177",
+   "path": "zakon/2005/dv103-1177",
+   "short": "Закон за изменение на Закона за физическото възпитание и спорта",
+   "title": "Закон за изменение на Закона за физическото възпитание и спорта",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1177",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 18,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1177",
+     "sha256": "96b27c8e3e211afce99b96b186507797f8b7bc079f2b223788695ab9497623e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv103-1178",
+   "path": "zakon/2005/dv103-1178",
+   "short": "Закон за меценатството",
+   "title": "Закон за меценатството",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1178",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 70,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1178",
+     "sha256": "b687e7c1c8166a3e77b682c2d7f8e282092cc10030eb09606df026fe37e85b51"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv104-1189",
+   "path": "zakon/2005/dv104-1189",
+   "short": "Закон за изменение и допълнение на Закона за пътищата",
+   "title": "Закон за изменение и допълнение на Закона за пътищата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1189",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1189",
+     "sha256": "8cf62125ae781336bac054bb409a86316a81e1e0e90f1ae4535b33fc0515ac92"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-dv104-1190",
+   "path": "zakon/2005/dv104-1190",
+   "short": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "title": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1190",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 33,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1190",
+     "sha256": "8a3596ad4a4b86630e99a11a09214eb3e8560b177546c31c9a2c871380e618ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv009-1334",
+   "path": "zakon/2006/dv009-1334",
+   "short": "Закон за ратифициране на Конвенцията за компетентността, приложимото право, признаването, изпълнението и сътрудничеството във връзка с родителската отговорност и мерките за закрила на децата",
+   "title": "Закон за ратифициране на Конвенцията за компетентността, приложимото право, признаването, изпълнението и сътрудничеството във връзка с родителската отговорност и мерките за закрила на децата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1334",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1334",
+     "sha256": "77a749e5d7ea951e8a8376f74521647d37b3411dc2e3f9af6648a8cacda7900c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv009-1336",
+   "path": "zakon/2006/dv009-1336",
+   "short": "Закон за ратифициране на Европейското споразумение за международен превоз на опасни товари по вътрешните водни пътища (ADN)",
+   "title": "Закон за ратифициране на Европейското споразумение за международен превоз на опасни товари по вътрешните водни пътища (ADN)",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1336",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1336",
+     "sha256": "12c20289d8bd9626223851481879f4fc915dc2570566267950a5350397a716c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv017-1458",
+   "path": "zakon/2006/dv017-1458",
+   "short": "Закон за Министерството на вътрешните работи",
+   "title": "Закон за Министерството на вътрешните работи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1458",
+   "versions": [
+    {
+     "from": "2006-05-01",
+     "units": 367,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1458",
+     "sha256": "c8fd9902732e3af3879a3b53c8dded8d096bb0f45bb2f4e4862687eeaf02f6a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv021-1523",
+   "path": "zakon/2006/dv021-1523",
+   "short": "Закон за финансовото управление и контрол в публичния сектор",
+   "title": "Закон за финансовото управление и контрол в публичния сектор",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1523",
+   "versions": [
+    {
+     "from": "2006-03-13",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1523",
+     "sha256": "85c6918eb936210363e546d232f3937b243f7e5e896c1924ce3b80bd8e6985c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv029-1639",
+   "path": "zakon/2006/dv029-1639",
+   "short": "Закон за геодезията и картографията",
+   "title": "Закон за геодезията и картографията",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1639",
+   "versions": [
+    {
+     "from": "2006-04-10",
+     "units": 94,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1639",
+     "sha256": "468399a216814e65ce5beddef70c750a5ca6eda95422bb27ec4dec4e78c5c630"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv033-1708",
+   "path": "zakon/2006/dv033-1708",
+   "short": "Закон за държавната финансова инспекция",
+   "title": "Закон за държавната финансова инспекция",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1708",
+   "versions": [
+    {
+     "from": "2006-04-24",
+     "units": 78,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1708",
+     "sha256": "b07a3e372e742ebf1ec7ecda4708742ec5592d71e1b289462c256c0933c496a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv036-1746",
+   "path": "zakon/2006/dv036-1746",
+   "short": "Закон за концесиите",
+   "title": "Закон за концесиите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1746",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 160,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1746",
+     "sha256": "47c423c3c6cf24ea0150dd58019774e965702f1965b36d565a6d420927f2aaa1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv038-1853",
+   "path": "zakon/2006/dv038-1853",
+   "short": "Закон за изменение на Закона за публичност на имуществото на лица, заемащи висши държавни длъжности",
+   "title": "Закон за изменение на Закона за публичност на имуществото на лица, заемащи висши държавни длъжности",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1853",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1853",
+     "sha256": "7e52ed70786c2df822a4cce136f9bd41123298264c46631d7d064a0303993591"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv043-1931",
+   "path": "zakon/2006/dv043-1931",
+   "short": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "title": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1931",
+   "versions": [
+    {
+     "from": "2006-05-29",
+     "units": 3,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1931",
+     "sha256": "2a09c5b397e2674cd4b12c5d5e01970e990e6f1d8fd0478f15cf59702549b1a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv045-1989",
+   "path": "zakon/2006/dv045-1989",
+   "short": "Закон за изменение на Закона за специалните разузнавателни средства",
+   "title": "Закон за изменение на Закона за специалните разузнавателни средства",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1989",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1989",
+     "sha256": "c44932969ac42303906839c1a9a20bfdb77bb4149aac3650d58043b8bc0ea572"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv051-2096",
+   "path": "zakon/2006/dv051-2096",
+   "short": "Закон за електронната търговия",
+   "title": "Закон за електронната търговия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2096",
+   "versions": [
+    {
+     "from": "2006-12-23",
+     "units": 42,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2096",
+     "sha256": "9b41879eef4ec5a71817caa5c7f67e5987100122b2aafb9af7c6a6ab49bc6dc2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv051-2097",
+   "path": "zakon/2006/dv051-2097",
+   "short": "Закон за статистика на вътрешнообщностната търговия със стоки",
+   "title": "Закон за статистика на вътрешнообщностната търговия със стоки",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2097",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 50,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2097",
+     "sha256": "00a0df7c3f48cfe364ce2f69a3cae68676b94386fb1fbc35db6d634a446c0486"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv055-2160",
+   "path": "zakon/2006/dv055-2160",
+   "short": "Закон за фуражите",
+   "title": "Закон за фуражите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2160",
+   "versions": [
+    {
+     "from": "2006-07-10",
+     "units": 102,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2160",
+     "sha256": "191f3cec2f2e730d4e1b2772b7db77f5190d567dd29fffb39f96223b61c66b93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv068-2394",
+   "path": "zakon/2006/dv068-2394",
+   "short": "Закон за договорите за финансово обезпечение",
+   "title": "Закон за договорите за финансово обезпечение",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2394",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 21,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2394",
+     "sha256": "3fb1f78de0ddd0d50589077ffbacef240d33ddde7fea0be7b49cb34751e78e8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv075-2527",
+   "path": "zakon/2006/dv075-2527",
+   "short": "Закон за съсловната организация на магистър-фармацевтите",
+   "title": "Закон за съсловната организация на магистър-фармацевтите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2527",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 65,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2527",
+     "sha256": "a333df462b92f3a98a87c65be9f60310d30855187cf8dc4e1293708e6b5fe80c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv084-2698",
+   "path": "zakon/2006/dv084-2698",
+   "short": "Закон срещу пазарните злоупотреби с финансови инструменти",
+   "title": "Закон срещу пазарните злоупотреби с финансови инструменти",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2698",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 64,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2698",
+     "sha256": "e8d2f09fc9fd203510db43128be638b82b5e027f381393447649feace3d8d670"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv084-2699",
+   "path": "zakon/2006/dv084-2699",
+   "short": "Закон за ратифициране на Конвенцията, съставена на основание член К.3 от Договора за Европейския съюз, за използване на информационните технологии за митнически цели и протоколите към нея",
+   "title": "Закон за ратифициране на Конвенцията, съставена на основание член К.3 от Договора за Европейския съюз, за използване на информационните технологии за митнически цели и протоколите към нея",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2699",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 7,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2699",
+     "sha256": "1842b30dcafdaac627478de4e53546f2a50a3db49c9e37be814ceaa594cc7847"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv084-2700",
+   "path": "zakon/2006/dv084-2700",
+   "short": "Закон за ратифициране на Конвенцията, съставена на основание член К.3 от Договора за Европейския съюз, за взаимопомощ и сътрудничество между митническите администрации",
+   "title": "Закон за ратифициране на Конвенцията, съставена на основание член К.3 от Договора за Европейския съюз, за взаимопомощ и сътрудничество между митническите администрации",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2700",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2700",
+     "sha256": "4dfcaa088e180008ae0e757b3f19dc6ba0b557195202080b5d7d68bc5486bd71"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv088-2750",
+   "path": "zakon/2006/dv088-2750",
+   "short": "Закон за свръхзапасите от земеделски и захарни продукти",
+   "title": "Закон за свръхзапасите от земеделски и захарни продукти",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2750",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 45,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2750",
+     "sha256": "8f5eaa8c8f093e2f59663185773c0f8b968a8f3208aec2fe0b41b849410d6485"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv090-2779",
+   "path": "zakon/2006/dv090-2779",
+   "short": "Закон за изменение на Закона за ратифициране на Европейската конвенция за взаимопомощ по наказателноправни въпроси и Допълнителния протокол към нея, Конвенцията за трансфер на осъдени лица и Европейската конвенция за екстрадиция с двата допълнителни протокола към нея",
+   "title": "Закон за изменение на Закона за ратифициране на Европейската конвенция за взаимопомощ по наказателноправни въпроси и Допълнителния протокол към нея, Конвенцията за трансфер на осъдени лица и Европейската конвенция за екстрадиция с двата допълнителни протокола към нея",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2779",
+   "versions": [
+    {
+     "from": "2006-11-10",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2779",
+     "sha256": "87caa9d8f1f29e24a2d8354c8e55dd70730e87a799e627f64cdc89688a7866ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv095-2858",
+   "path": "zakon/2006/dv095-2858",
+   "short": "Закон за данъците върху доходите на физическите лица",
+   "title": "Закон за данъците върху доходите на физическите лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2858",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 140,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2858",
+     "sha256": "d9d72f928ef7d2f4e050f169d1b017600379fc5db971047d0f38b9328e2a6b1c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv102-2971",
+   "path": "zakon/2006/dv102-2971",
+   "short": "Закон за защита при бедствия",
+   "title": "Закон за защита при бедствия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2971",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 147,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2971",
+     "sha256": "12b6efbf2cc4be2c66ba925f84f80c87ee186f215f1ceff36a962b71f29a8e61"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv102-2973",
+   "path": "zakon/2006/dv102-2973",
+   "short": "Закон за достъп и разкриване на документите и за обявяване на принадлежност на български граждани към Държавна сигурност и разузнавателните служби на Българската народна армия",
+   "title": "Закон за достъп и разкриване на документите и за обявяване на принадлежност на български граждани към Държавна сигурност и разузнавателните служби на Българската народна армия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2973",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 63,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2973",
+     "sha256": "ec29cddad6244eb713602f0934ff6c8853985fa819c704eacf30ae17cd90e30f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-2999",
+   "path": "zakon/2006/dv105-2999",
+   "short": "Закон за ратифициране на Международната конвенция за борба с употребата на допинг в спорта",
+   "title": "Закон за ратифициране на Международната конвенция за борба с употребата на допинг в спорта",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2999",
+   "versions": [
+    {
+     "from": "2006-12-25",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2999",
+     "sha256": "9711225107a1571d396ca241af1fe0a57de7981417047d498b29c8d3c46d815b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-3001",
+   "path": "zakon/2006/dv105-3001",
+   "short": "Закон за ратифициране на Конвенцията за създаване на Европейска полицейска служба (Европол), приета на 26 юли 1995 г. на основание член К.3 от Договора за Европейския съюз, и протоколите към нея",
+   "title": "Закон за ратифициране на Конвенцията за създаване на Европейска полицейска служба (Европол), приета на 26 юли 1995 г. на основание член К.3 от Договора за Европейския съюз, и протоколите към нея",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3001",
+   "versions": [
+    {
+     "from": "2006-12-25",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3001",
+     "sha256": "81a7ed3bf0cc2fd575fc81e82f359178aba121fc083aa9320adc10249e25b690"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-3005",
+   "path": "zakon/2006/dv105-3005",
+   "short": "Закон за корпоративното подоходно облагане",
+   "title": "Закон за корпоративното подоходно облагане",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3005",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 374,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3005",
+     "sha256": "7bbfe6be06a27bf0713d0a0710f78374969ebb34e09fce689f2aac17f94e76e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-3008",
+   "path": "zakon/2006/dv105-3008",
+   "short": "Закон за бюджета на Националната здравноосигурителна каса за 2007 г.",
+   "title": "Закон за бюджета на Националната здравноосигурителна каса за 2007 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3008",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 26,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3008",
+     "sha256": "8c0440bf29b9a1efb29f5c13d98234f962382cab27c5bfe76be0b898917bda53"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-3015",
+   "path": "zakon/2006/dv105-3015",
+   "short": "Закон за изменение на Закона за лекарствата и аптеките в хуманната медицина",
+   "title": "Закон за изменение на Закона за лекарствата и аптеките в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3015",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3015",
+     "sha256": "058d1d91165101ff2d9ec31a4b4135f100927019cde82fdee5daa9b648df895b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv105-3016",
+   "path": "zakon/2006/dv105-3016",
+   "short": "Закон за ратифициране на Спогодбата между Република България и Република Литва за избягване на двойното данъчно облагане и предотвратяване отклонението от облагане с данъци на доходите и имуществото",
+   "title": "Закон за ратифициране на Спогодбата между Република България и Република Литва за избягване на двойното данъчно облагане и предотвратяване отклонението от облагане с данъци на доходите и имуществото",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3016",
+   "versions": [
+    {
+     "from": "2006-12-25",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3016",
+     "sha256": "b086ce7491dee36456dfcb9902d2c3785db01c68d1e7bc7fac36e94bd9669645"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv106-3040",
+   "path": "zakon/2006/dv106-3040",
+   "short": "Закон за устройството и застрояването на Столичната община",
+   "title": "Закон за устройството и застрояването на Столичната община",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3040",
+   "versions": [
+    {
+     "from": "2007-01-27",
+     "units": 48,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3040",
+     "sha256": "9d1b95bd117956c81c7d46ed54dc2989b18e16d556912d1ccce13c5e1b192b4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-dv108-3061",
+   "path": "zakon/2006/dv108-3061",
+   "short": "Закон за Камарата на строителите",
+   "title": "Закон за Камарата на строителите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3061",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3061",
+     "sha256": "fc20c896e061606449d9603c75da9292ef946837307215274d8ed8741c434811"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv011-3217",
+   "path": "zakon/2007/dv011-3217",
+   "short": "Закон за експортния контрол на оръжия и изделия и технологии с двойна употреба",
+   "title": "Закон за експортния контрол на оръжия и изделия и технологии с двойна употреба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3217",
+   "versions": [
+    {
+     "from": "2007-02-05",
+     "units": 114,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3217",
+     "sha256": "a36f47cc8d41c4e058ca7c2a41f75991d5d854120110b8f08a55692001c2a681"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv020-3364",
+   "path": "zakon/2007/dv020-3364",
+   "short": "Закон за избиране на членове на Европейския парламент от Република България",
+   "title": "Закон за избиране на членове на Европейския парламент от Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3364",
+   "versions": [
+    {
+     "from": "2007-03-06",
+     "units": 151,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3364",
+     "sha256": "16937de994fe284a1b4e8308ef4a3310ba4329a929f3fb65e985d55d84435394"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv031-3514",
+   "path": "zakon/2007/dv031-3514",
+   "short": "Закон за лекарствените продукти в хуманната медицина",
+   "title": "Закон за лекарствените продукти в хуманната медицина",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3514",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 375,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3514",
+     "sha256": "a7b0cb52e807e262ccf01ca6778500052ec107028009f0349a3adac66d4ded7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv041-3690",
+   "path": "zakon/2007/dv041-3690",
+   "short": "Закон за електронните съобщения",
+   "title": "Закон за електронните съобщения",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690",
+   "versions": [
+    {
+     "from": "2007-05-25",
+     "units": 440,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690",
+     "sha256": "91bc292ca87bc7a96812d8c8476b580c2b5abb0b0f3d6d18ae6c3661283d621a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv046-3791",
+   "path": "zakon/2007/dv046-3791",
+   "short": "Закон за медицинските изделия",
+   "title": "Закон за медицинските изделия",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3791",
+   "versions": [
+    {
+     "from": "2007-06-12",
+     "units": 189,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3791",
+     "sha256": "ce3f0b02e676bc749ffa95f09e68ef1a5ab76a23c6351805d5241147f21754b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv048-3805",
+   "path": "zakon/2007/dv048-3805",
+   "short": "Закон за устройството на Черноморското крайбрежие",
+   "title": "Закон за устройството на Черноморското крайбрежие",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3805",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 44,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3805",
+     "sha256": "c0279040ec1cc72aa919aa5c80ba217b727c402d46d28617e19e55fd70b728dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv049-3824",
+   "path": "zakon/2007/dv049-3824",
+   "short": "Закон за възобновяемите и алтернативните енергийни източници и биогоривата",
+   "title": "Закон за възобновяемите и алтернативните енергийни източници и биогоривата",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3824",
+   "versions": [
+    {
+     "from": "2007-06-22",
+     "units": 63,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3824",
+     "sha256": "ba98572453319bc33914d4bbbce17bccfef270608ed5f14a8790a85ba8d71f4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv053-3884",
+   "path": "zakon/2007/dv053-3884",
+   "short": "Закон за изменение на Закона за бюджета на държавното обществено осигуряване за 2007 г.",
+   "title": "Закон за изменение на Закона за бюджета на държавното обществено осигуряване за 2007 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3884",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 6,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3884",
+     "sha256": "8f38ed9425a1bfaa8cab059fcd6e14fc036ec1c7404a7ffd57bfd804a16c7de8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv054-3891",
+   "path": "zakon/2007/dv054-3891",
+   "short": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "title": "Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3891",
+   "versions": [
+    {
+     "from": "2007-07-06",
+     "units": 15,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3891",
+     "sha256": "3ac309935a3692979d6d07d80964d50272861903be967f992c7c6e3716268e34"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv057-3920",
+   "path": "zakon/2007/dv057-3920",
+   "short": "Закон за Националния архивен фонд",
+   "title": "Закон за Националния архивен фонд",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3920",
+   "versions": [
+    {
+     "from": "2007-07-13",
+     "units": 147,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3920",
+     "sha256": "0d4ae5b928c698ccda21e7725ec7dc504d541d3bb5e7d9513e9a0b28cd43b2e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv060-3975",
+   "path": "zakon/2007/dv060-3975",
+   "short": "Закон за допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "title": "Закон за допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3975",
+   "versions": [
+    {
+     "from": "2007-07-27",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3975",
+     "sha256": "8a68945a53ceec3171ec5c48d76cf6332eea53381d1a90cd452671c680073de7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv064-4034",
+   "path": "zakon/2007/dv064-4034",
+   "short": "Закон за съдебната власт",
+   "title": "Закон за съдебната власт",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4034",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 492,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4034",
+     "sha256": "716b7996c4fd0681dc985f62ef82a90c9b911b80d0690ee36eb239372f3892a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv078-4183",
+   "path": "zakon/2007/dv078-4183",
+   "short": "Закон за дипломатическата служба",
+   "title": "Закон за дипломатическата служба",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4183",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 116,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4183",
+     "sha256": "28e748c1c25a34e42b0cc4b8f8ba5bbb21c21c25138bdb002d7dfee9732ae751"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv080-4217",
+   "path": "zakon/2007/dv080-4217",
+   "short": "Закон за ратифициране на Третия протокол към Общото споразумение за привилегиите и имунитетите на Съвета на Европа",
+   "title": "Закон за ратифициране на Третия протокол към Общото споразумение за привилегиите и имунитетите на Съвета на Европа",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4217",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4217",
+     "sha256": "546218a1cf1cc872adac2df13d03ff7437250765edecb4557132638126015e69"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv089-4376",
+   "path": "zakon/2007/dv089-4376",
+   "short": "Закон за почвите",
+   "title": "Закон за почвите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4376",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 58,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4376",
+     "sha256": "932b640dd13e83f23d9cb8358769b6f33c2633d2619936945d61786aed21bad4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv095-4419",
+   "path": "zakon/2007/dv095-4419",
+   "short": "Закон за приемане на декларация по смисъла на чл. 42, § 1 от Конвенцията за международни железопътни превози (COTIF), подписана на 9 май 1980 г. в Берн",
+   "title": "Закон за приемане на декларация по смисъла на чл. 42, § 1 от Конвенцията за международни железопътни превози (COTIF), подписана на 9 май 1980 г. в Берн",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4419",
+   "versions": [
+    {
+     "from": "2007-11-23",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4419",
+     "sha256": "e8e4b6d09c48d79b7f486065975b81c465e3b1de167e8022fc0ebfd775facb0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv095-4420",
+   "path": "zakon/2007/dv095-4420",
+   "short": "Закон за изменение на Закона за контрол над взривните вещества, огнестрелните оръжия и боеприпасите",
+   "title": "Закон за изменение на Закона за контрол над взривните вещества, огнестрелните оръжия и боеприпасите",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4420",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4420",
+     "sha256": "2a6ff7da80846fd3e0e91eecec3f73f188f8948cb1d636d23e32cd989e87f4b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv113-4612",
+   "path": "zakon/2007/dv113-4612",
+   "short": "Закон за бюджета на държавното обществено осигуряване за 2008 г.",
+   "title": "Закон за бюджета на държавното обществено осигуряване за 2008 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4612",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 49,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4612",
+     "sha256": "29957c251ed9ad1801f7a571ade1681e471fefbe63b0a8186c4423d6c4f6142f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-dv113-4613",
+   "path": "zakon/2007/dv113-4613",
+   "short": "Закон за бюджета на Националната здравноосигурителна каса за 2008 г.",
+   "title": "Закон за бюджета на Националната здравноосигурителна каса за 2008 г.",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4613",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 27,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4613",
+     "sha256": "2cedce6b8946bcc946c1b26db203573a0b8f90ee58eae1e90f6cf9211cb3151b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv013-4750",
+   "path": "zakon/2008/dv013-4750",
+   "short": "Закон за защита на животните",
+   "title": "Закон за защита на животните",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4750",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 104,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4750",
+     "sha256": "9255554aba0a13960fba29e23ea7faa0b9bd7db58fdee9d8f2c20126550c5c1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv013-4752",
+   "path": "zakon/2008/dv013-4752",
+   "short": "Закон за признаване на професионални квалификации",
+   "title": "Закон за признаване на професионални квалификации",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4752",
+   "versions": [
+    {
+     "from": "2008-02-08",
+     "units": 126,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4752",
+     "sha256": "8955d1bdd29a837fc7a60b7cac79b6adc1fe528a5d5eff18cfb63ee5af9bfe0a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv013-4753",
+   "path": "zakon/2008/dv013-4753",
+   "short": "Закон за военните паметници",
+   "title": "Закон за военните паметници",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4753",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 36,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4753",
+     "sha256": "d71ab8c7cd2a28542b9bed29fb61b7dfbc0724cf63174a7e0f0fafe47ad5403a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv016-4777",
+   "path": "zakon/2008/dv016-4777",
+   "short": "Закон за изменение и допълнение на Закона за паричните преводи, електронните платежни инструменти и платежните системи",
+   "title": "Закон за изменение и допълнение на Закона за паричните преводи, електронните платежни инструменти и платежните системи",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4777",
+   "versions": [
+    {
+     "from": "2008-02-18",
+     "units": 16,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4777",
+     "sha256": "bf4d3a60d81bf6e564aa69d06fc0a97834f97a68526e8b10d6a90b6a7c6e311e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv016-4780",
+   "path": "zakon/2008/dv016-4780",
+   "short": "Закон за изменение и допълнение на Закона за съхранение и търговия със зърно",
+   "title": "Закон за изменение и допълнение на Закона за съхранение и търговия със зърно",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4780",
+   "versions": [
+    {
+     "from": "2008-02-18",
+     "units": 31,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4780",
+     "sha256": "e7759a72ef9106ba9ebbe74843f7b43371b088cfe7cf0a20c0d2f33b8805b5c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv023-4865",
+   "path": "zakon/2008/dv023-4865",
+   "short": "Закон за изпълнение на Регламент на Съвета (ЕО) № 1236/2005 относно търговията с някои стоки, които биха могли да бъдат използвани с цел прилагане на смъртно наказание, изтезания или други форми на жестоко, нечовешко или унизително отнасяне или наказание",
+   "title": "Закон за изпълнение на Регламент на Съвета (ЕО) № 1236/2005 относно търговията с някои стоки, които биха могли да бъдат използвани с цел прилагане на смъртно наказание, изтезания или други форми на жестоко, нечовешко или унизително отнасяне или наказание",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4865",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 23,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4865",
+     "sha256": "382527964068fb08e41c8956e64813241bf0f3e47098a5ca568d602b6534bfd1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv026-4901",
+   "path": "zakon/2008/dv026-4901",
+   "short": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "title": "Закон за изменение и допълнение на Закона за политическа и гражданска реабилитация на репресирани лица",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4901",
+   "versions": [
+    {
+     "from": "2008-03-10",
+     "units": 10,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4901",
+     "sha256": "7d5aa929a87a07f77f17e09af15f0be83dd9a3a7e175307966389d605a831e77"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv028-4932",
+   "path": "zakon/2008/dv028-4932",
+   "short": "Закон за изменение и допълнение на Закона за Консултативен съвет за национална сигурност",
+   "title": "Закон за изменение и допълнение на Закона за Консултативен съвет за национална сигурност",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4932",
+   "versions": [
+    {
+     "from": "2008-03-17",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4932",
+     "sha256": "30e2cfe6a70a2f6cdbcf0d9f8858ef46a609ff372c54e87817e54660cf11ff95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv028-4935",
+   "path": "zakon/2008/dv028-4935",
+   "short": "Закон за допълнение на Закона за чужденците в Република България",
+   "title": "Закон за допълнение на Закона за чужденците в Република България",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4935",
+   "versions": [
+    {
+     "from": "2008-03-17",
+     "units": 2,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4935",
+     "sha256": "64d5a118c3c9819b2ecb67c9a4414fbbd434de5652066c6f1090239669b8f4cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-dv033-5003",
+   "path": "zakon/2008/dv033-5003",
+   "short": "Закон за изменение и допълнение на Кодекса за социално осигуряване",
+   "title": "Закон за изменение и допълнение на Кодекса за социално осигуряване",
+   "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5003",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 4,
+     "source_url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5003",
+     "sha256": "b8ea18b7f45838a497d1cd96d9f50f29f0ffd4ef42fd8eb8e4f6c870f34f7874"
     }
    ]
   },
