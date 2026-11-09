@@ -1,0 +1,35 @@
+{
+  "title": "Предложение за приемане на Наредба за изменение и допълнение на наредбата за определянето и администрирането на местните такси и цени на услуги на територията на община Благоевград",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12896",
+  "issuer": "Общинска администрация - Благоевград",
+  "issuer_id": "280",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-09",
+  "source": "https://www.strategy.bg/bg/public-consultations/12896",
+  "source_sha256": "967935eec3198c9872bd7228a2caeceb32a3ddd5799bf2119f3f6a6c845c019c",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 2.0 | 09.11.2026",
+      "source": "https://www.strategy.bg/download/1329871",
+      "coverage": "held",
+      "held_reason": "PDF images held: 16; no OCR"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 09.11.2026",
+      "source": "https://www.strategy.bg/download/1329867",
+      "coverage": "held",
+      "held_reason": "PDF images held: 35; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
