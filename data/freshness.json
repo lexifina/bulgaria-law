@@ -1,0 +1,196 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "bg-freshness/1",
+ "as_of": "2026-11-09",
+ "checked_against_official_source": "2026-11-09",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "gazette-index": "every State Gazette material page (dv.parliament.bg) through the newest issue and the National Assembly's list of adopted laws read, each title and text scanned for acts it amends, repeals or cites",
+  "consolidated-form": "the National Assembly's consolidated text (parliament.bg), compared with the latest version held here"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "konstitutsiya",
+    "kodeks",
+    "zakon",
+    "postanovlenie"
+   ],
+   "label": "Constitution, codes, laws and Council of Ministers decrees"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "naredba",
+    "pravilnik",
+    "instruktsiya",
+    "tarifa"
+   ],
+   "label": "regulations, rules, instructions and tariffs"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 16168,
+  "by_status": {
+   "current": 14428,
+   "pending-change": 1740,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "national": {
+   "acts": 9583,
+   "by_status": {
+    "current": 8877,
+    "pending-change": 706,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "secondary": {
+   "acts": 6585,
+   "by_status": {
+    "current": 5551,
+    "pending-change": 1034,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "instruktsiya": {
+   "acts": 380,
+   "by_status": {
+    "current": 307,
+    "pending-change": 73,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "kodeks": {
+   "acts": 3,
+   "by_status": {
+    "current": 2,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "konstitutsiya": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "naredba": {
+   "acts": 5348,
+   "by_status": {
+    "current": 4515,
+    "pending-change": 833,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "postanovlenie": {
+   "acts": 6978,
+   "by_status": {
+    "current": 6455,
+    "pending-change": 523,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "pravilnik": {
+   "acts": 857,
+   "by_status": {
+    "current": 729,
+    "pending-change": 128,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 2601,
+   "by_status": {
+    "current": 2419,
+    "pending-change": 182,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "State Gazette (dv.parliament.bg)",
+   "url": "https://dv.parliament.bg/DVWeb/",
+   "last_successful_check": "2026-11-09",
+   "newest_issue_read": "104/2026",
+   "newest_material_id": 247417
+  },
+  {
+   "source": "National Assembly, adopted laws (parliament.bg)",
+   "url": "https://www.parliament.bg/bg/laws",
+   "last_successful_check": "2026-11-09"
+  },
+  {
+   "source": "National Assembly, consolidated Constitution (parliament.bg)",
+   "url": "https://www.parliament.bg/bg/const",
+   "last_successful_check": "2026-11-09"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 120
+}

@@ -1,0 +1,26 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run.",
+ "as_of": "2026-11-09T22:34:46+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-09T22:28:35Z",
+ "published_last_24h": {
+  "commits": 6161
+ },
+ "official_sources": [
+  {
+   "source": "State Gazette (dv.parliament.bg)",
+   "state": "available",
+   "last_successful_contact": "2026-11-09"
+  },
+  {
+   "source": "National Assembly, adopted laws (parliament.bg)",
+   "state": "available",
+   "last_successful_contact": "2026-11-09"
+  },
+  {
+   "source": "National Assembly, consolidated Constitution (parliament.bg)",
+   "state": "available",
+   "last_successful_contact": "2026-11-09"
+  }
+ ]
+}
