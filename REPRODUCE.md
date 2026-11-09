@@ -51,6 +51,171 @@ This file is written by the build on 2026-11-09, the day the source data was ret
 | Държавен вестник: дати на броевете (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official publication |
 | Народно събрание: приети закони (parliament.bg, окончателен текст) | <https://www.parliament.bg/bg/laws> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 | Държавен вестник: дати на броевете (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official publication |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
+| Държавен вестник: материали от официалния раздел (dv.parliament.bg) | <https://dv.parliament.bg/DVWeb/> | 2026-11-09 | Official legal text; not subject to copyright (ЗАПСП чл. 4, т. 1) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -58,21 +223,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1642 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1645 | |
+| 2616 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2619 | |
 
-The build made 2321 commits:
+The build made 2626 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2317 | first version of an act |
+| 2617 | first version of an act |
 | 3 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `badeshte`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1932 laws in the record.
-- 4657 tags.
+- 10051 laws in the record.
+- 5257 tags.
 
 ## Dates
 
@@ -84,7 +249,7 @@ When a law gives no date of its own, the default rule applies: Конститу�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `705f43a5c1a62cca986487a3514a929f3f7ce90a48ef739a9b387b55d2d8c48d` (45052373 bytes).
+- Corpus: sha256 `491b4830a10d260b4542bfee71fdace6a812745461731f2dc1a02af262e4419e` (187676207 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `57a43747859d3a0a8a29374325b006853d18227e`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -96,7 +261,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (102 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1257 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 

@@ -985,8 +985,10 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
                 check_numbering(list(units))
                 madopt = next((x for x, _ in L if ADOPTED.match(x)), "")
                 own_day = parse_day(madopt) if madopt else None
-                start = next(i for i, (x, _) in enumerate(L) if x == x.upper()
-                             and x.upper().startswith(("ЗАКОН", "КОДЕКС", "ИЗБОРЕН КОДЕКС")))
+                start = next((i for i, (x, _) in enumerate(L) if x == x.upper()
+                              and x.upper().startswith(("ЗАКОН", "КОДЕКС", "ИЗБОРЕН КОДЕКС"))), None)
+                if start is None:  # 2026-11-09: older live pages without a capitalised title line
+                    raise Hold("no_title_line")
                 stop = next((i for i in range(start, len(L)) if is_provision(L[i][0]) or HEADINGS.match(L[i][0])), len(L))
                 title_text = " ".join(x for x, _ in L[start:min(stop, start + 6)])
                 normative = True
