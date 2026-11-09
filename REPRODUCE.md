@@ -224,13 +224,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 15721 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 15724 | |
+| 16021 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 16024 | |
 
-The build made 15739 commits:
+The build made 16039 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 15730 | first version of an act |
+| 16030 | first version of an act |
 | 3 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
@@ -238,7 +238,7 @@ Other counts:
 - 0 commits on the branch `badeshte`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16192 laws in the record.
-- 31465 tags.
+- 32065 tags.
 
 ## Dates
 
@@ -251,7 +251,7 @@ When a law gives no date of its own, the default rule applies: Конститу�
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
 - Corpus: sha256 `bef079db3b8186eed74db863a6fe3edf0da3667e9f18452bc6a749bbc3d76658` (511877772 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `ca294ab3d2553b6e8322e838325b576a0939da6b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
+- Builder blob hashes (`git hash-object`): `build.py` `ca294ab3d2553b6e8322e838325b576a0939da6b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
