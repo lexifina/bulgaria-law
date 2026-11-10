@@ -1,0 +1,35 @@
+{
+  "title": "ПРОЕКТ НА ПРАВИЛНИК ЗА РАБОТАТА НА ФОНД „КУЛТУРА“ НА ОБЩИНА БУРГАС",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12899",
+  "issuer": "Общинска администрация - Бургас",
+  "issuer_id": "297",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-10",
+  "source": "https://www.strategy.bg/bg/public-consultations/12899",
+  "source_sha256": "454de7710f360c4011a156b9f19ed897faddfe369feb2abe6ab36af6a2c754f9",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329901",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329903",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
