@@ -1,0 +1,41 @@
+{
+  "title": "ПРОЕКТ на план-сметка за приходите и разходите за дейностите по сметосъбиране, сметоизвозване, обезвреждане на битови отпадъци в депо, поддържане на чистотата на територии за обществено ползване и определяне размера на таксата за битови отпадъци за 2027 г. на територията на община Лъки",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12897",
+  "issuer": "Общинска администрация - Лъки",
+  "issuer_id": "394",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-10",
+  "source": "https://www.strategy.bg/bg/public-consultations/12897",
+  "source_sha256": "c78c19c0a1b47f34b738c6ce2dee6f7ab85b6c6801c50c183c70096bbed03ac8",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329880",
+      "coverage": "held",
+      "held_reason": "unsupported native format; no OCR or legacy conversion in this batch"
+    },
+    {
+      "label": "Приложение №1 - ПЛАН СМЕТКА НА РАЗХОДИТЕ ЗА СЪБИРАНЕ, ИЗВОЗВАНЕ И ОБЕЗВРЕЖДАНЕ НА БИТОВИТЕ ОТПАДЪЦИ, ПОДДЪРЖАНЕ ЧИСТОТАТА НА ТЕРИТОРИИТЕ ЗА ОБЩЕСТВЕНО ПОЛЗВАНЕ ЗА 2027 Г.  В ОБЩИНА  ЛЪКИ - 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329882",
+      "coverage": "included as separate document record",
+      "held_reason": null
+    },
+    {
+      "label": "Приложение  №2 -  Размер на такса битови отпадъци в община Лъки за 2027 г. - 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329884",
+      "coverage": "held",
+      "held_reason": "unsupported native format; no OCR or legacy conversion in this batch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
