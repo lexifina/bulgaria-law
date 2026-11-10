@@ -1,0 +1,47 @@
+{
+  "title": "План-сметка за дейностите по събиране и транспортиране на битови отпадъци, третиране на битови отпадъци в съоръжения и инсталации и поддържане на териториите за обществено ползване в населените места за поддръжка на чистотата в община Оряхово през 2027г.",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12898",
+  "issuer": "Общинска администрация - Оряхово",
+  "issuer_id": "422",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-10",
+  "source": "https://www.strategy.bg/bg/public-consultations/12898",
+  "source_sha256": "c598c3332494ea5e714f473343737ce768702123fac81f175957b82c61f883e3",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329892",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image1.png"
+    },
+    {
+      "label": "Приложение №1 към чл.5, ал.3 от Наредба приета с ПМС №93 от 04.04.2024г. - 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329899",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Консолидирана версия на акта - вер. 1.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329896",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image1.png"
+    },
+    {
+      "label": "Други документи - вер. 2.0 | 10.11.2026",
+      "source": "https://www.strategy.bg/download/1329898",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image1.png"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
