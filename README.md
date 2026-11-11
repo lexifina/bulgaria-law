@@ -8,7 +8,41 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 *На български: [по-долу](#на-български).*
 
-**What is in it now: one act, four versions, 1 January 2008 to today.** The Constitution as the National Assembly publishes it: today's text from parliament.bg, and two earlier texts from the Internet Archive's copies of the National Assembly's old Constitution page (2010 to 2021). The record starts on 1 January 2008, with the oldest text the archive holds; the 1991 text and the versions of 2003 to 2007 are not in it.
+**What is in it.** Every law the National Assembly has adopted since 2009, and every act of six kinds the State Gazette (Държавен вестник) has printed in its official section since 2003: laws and codes, Council of Ministers decrees (постановления), regulations (наредби), rules (правилници), instructions (инструкции) and tariffs (тарифи), each as enacted, with the Constitution's history from 2008 (below). [ACTS.md](ACTS.md) lists every act; [data/acts.json](data/acts.json) gives each one's status and official page.
+
+**Amended, not consolidated.** Bulgaria publishes no official consolidated text of its laws and regulations, except the Constitution (parliament.bg). So each act here is its text as enacted, in force from the day its own final provisions give (else three days after its Gazette day, Constitution чл. 5, ал. 5). An act that a later act amends or repeals is still published as enacted, and labelled:
+
+| Status (data/acts.json) | Meaning |
+| --- | --- |
+| `in force` | no later title in the State Gazette or the National Assembly's record names it as amended or repealed, and no later text cites it |
+| `amending act` | an act whose purpose is to amend or repeal another: published as enacted, in its own folder |
+| `amended, not consolidated` | a later act's title names it as amended: the text here is the act as enacted; `amended_by` lists the amending acts and their official pages |
+| `repealed, not consolidated` | a later act's title names it as repealed: the text here is the act as enacted; `amended_by` names the repealing act |
+| `cited later, not consolidated` | no later title names it as amended or repealed, but a later text cites it by name and Gazette issue: `cited_by` lists those texts, to check whether any of them changed it |
+| `repealed YYYY-MM-DD` | an empty last version records the repeal on the day it took effect |
+
+Acts whose page or structure does not read cleanly (printed only in the PDF facsimile, provisions out of sequence, an in-force clause this parser can't read) are held back, not on `main`; [data/held.json](data/held.json) lists each with its reason and official page.
+
+## Freshness
+
+Every version names the official page it was read from (its `Source:` trailer), so every act can be checked against its source.
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-11; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+`python tools/freshness.py <act>` gives an act's status, its last check and the official link; `python tools/freshness.py --summary` the overall picture. An act is checked by reading every State Gazette material page through the newest issue and the National Assembly's list of adopted laws, and scanning every title and text for acts that amend, repeal or cite it; the Constitution is compared with the National Assembly's consolidated text. The check runs daily; [data/status.json](data/status.json) says whether updates are running and when each official source last answered. Thresholds: 7 days for the Constitution, codes, laws and decrees, 30 days for regulations, rules, instructions and tariffs. Statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and columns are explained in [data/freshness.json](data/freshness.json). Acts labelled `amended, not consolidated` or `repealed, not consolidated` are `pending-change`: the official sources report a change that no consolidated text here applies. An act only cited later is `current` (no title names a change to it).
+
+Laws passed but not yet in force are listed in [data/pending.json](data/pending.json) and appended on the day they take effect.
+
+## Known issues
+
+- **Two tags were re-pointed on 2026-11-09.** `zakon-2025-dv061-166498/2025-08-01` and `law/zakon-2025-dv061-166498` named 6ad66b170f, and `zakon-2026-dv095-167573/2026-10-19` and `law/zakon-2026-dv095-167573` named cfb164279e: commits of a publish batch that was redone, not on `main`. They now name the acts' commits on `main`, c43bc61579 and 768190f6e6. Refresh tags with `git fetch --force --tags`.
+- **In-force days corrected after publication.** 250 acts were first dated by the three-day default where their own final provisions name another day; the commit "Redate: in-force days of acts as enacted ..." corrects each with a `Redates:` line (global-law's readers apply it; the original commits stay).
+
+## The Constitution
+
+**Four versions, 1 January 2008 to today.** The Constitution as the National Assembly publishes it: today's text from parliament.bg, and two earlier texts from the Internet Archive's copies of the National Assembly's old Constitution page (2010 to 2021).
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -71,9 +105,9 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 
 ## How it is checked
 
-- **Today's text is the official text.** Lexifina's code reads the National Assembly's consolidated Constitution (one JSON response from parliament.bg, whose sha256 is recorded with the version) and splits it into provisions, with no other change than normalised spacing, quotes and dashes. Articles 1 to 169 are all present, plus 91а, 91б, 130а, 130б, 130в and 132а. The Internet Archive's copy of the same API response from 20 August 2025 is byte-identical.
+- **Today's text is the official text.** `tools/parse.py` reads the National Assembly's consolidated Constitution (one JSON response from parliament.bg, whose sha256 is recorded with the version) and splits it into provisions, with no other change than normalised spacing, quotes and dashes. Articles 1 to 169 are all present, plus 91а, 91б, 130а, 130б, 130в and 132а. The Internet Archive's copy of the same API response from 20 August 2025 is byte-identical.
 - **One parser for every source.** The old page (2010 to May 2021) and today's API go through the same code, so a redesign of the site is not taken for a change of law. The test: the old page captured on 6 May 2021 and the API captured on 29 June 2021, after the redesign, give identical provisions.
-- **One copy per distinct text.** Lexifina's code --history` read 46 of the 314 captures of the old page (the first of every quarter, then bisection wherever two neighbours differed) and parsed each one. Every capture from 22 December 2010 to 16 January 2016 gives the first text, every one from 25 January 2016 to 6 May 2021 the second. The two pinned captures are recorded with their sha256 in each version.
+- **One copy per distinct text.** `tools/fetch.py --history` read 46 of the 314 captures of the old page (the first of every quarter, then bisection wherever two neighbours differed) and parsed each one. Every capture from 22 December 2010 to 16 January 2016 gives the first text, every one from 25 January 2016 to 6 May 2021 the second. The two pinned captures are recorded with their sha256 in each version.
 - **Every change is accounted for.** All 10 changes of 2015, 8 of 2023 and 14 of 2024 carry a note naming their gazette issue. Five small edits by the publisher carry none and are committed as unexplained (below).
 - Each version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`), and must match `corpus.json`: 0 mismatches. No merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
 - The repository is rebuilt from the same data a second time and gives identical hashes. Details in [`REPRODUCE.md`](REPRODUCE.md).
@@ -88,9 +122,10 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## What it does not show
 
-So the version of 2023-12-25 is today's text, except that the 14 provisions whose notes name Decision № 13 of 2024 (чл. 23, 84, 91б, 99, 110, 126, 129, 130, 130а, 130б, 130в, 132а, 133 and 150) read "[Източникът не дава текста, действащ на тази дата.]" ("the source does not give the text in force on this date"). Their wording arrives on 2024-08-09, credited to the decision. The 2023 amendment's own words in those provisions are therefore not in the record.
-- **The Penal Code (Наказателен кодекс) and the data protection law (Закон за защита на личните данни).** Neither is built. The candidate sources, cpdp.bg (the Commission for Personal Data Protection) for the data protection law and the parliament.bg routes for adopted laws (`/act/<id>`, `/bill/<id>`), have not been probed yet.
-- **Other acts.** Only the Constitution is here.
+- **Anything before 1 January 2008.** The Internet Archive's oldest capture of the page is from 22 December 2010, so the 1991 text and the versions of 2003, 2005, 2006 and 2007 are not built. the record does not rebuild old wording from the amending laws.
+- **The full text between 25 December 2023 and 8 August 2024.** No copy of the text in force then was found: the old page stops in May 2021, and the Internet Archive caught the API only on 29 June 2021 and 20 August 2025 (Common Crawl's index could not be reached). So the version of 2023-12-25 is today's text, except that the 14 provisions whose notes name Decision № 13 of 2024 (чл. 23, 84, 91б, 99, 110, 126, 129, 130, 130а, 130б, 130в, 132а, 133 and 150) read "[Източникът не дава текста, действащ на тази дата.]" ("the source does not give the text in force on this date"). Their wording arrives on 2024-08-09, credited to the decision. The 2023 amendment's own words in those provisions are therefore not in the record.
+- **Consolidated texts.** No official consolidated text exists for any Bulgarian law or regulation but the Constitution, so no act here is consolidated: an amended act is its text as enacted, labelled `amended, not consolidated` with its amending acts.
+- **Laws before 2003.** The State Gazette's material pages start in 2003 (a few from 1998); the National Assembly's record of adopted laws starts in 2009. Older laws (the codes among them) are not built.
 - **The words of repealed or struck-down provisions.** Where a provision was repealed or the Constitutional Court declared it unconstitutional, the file holds what the National Assembly prints. `art-131.md` holds the note alone, "(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)"; `art-091-02.md` (чл. 91б) holds its note "(Нов - ДВ, бр. 106 от 2023 г.; обявен за противоконституционен с РКС № 13 от 2024 г. - ДВ, бр. 66 от 2024 г.)" and then the struck-down words between two rules of dashes, as the National Assembly prints them.
 - **Notes in the text.** Because the amendment notes are kept, the text is the National Assembly's edition, not the bare words of the law. The notes are not separate units.
 
@@ -98,17 +133,18 @@ Only the text published by the National Assembly and the State Gazette is author
 
 ## How it is built
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+`tools/fetch.py` downloads the source once with curl into a cache named by the sha256 of the URL; today's text took one request. `tools/fetch.py --history` reads the Internet Archive's raw (`id_`) captures through the shared client `gitlaw_common/wayback.py`, which keeps one polite rate for the whole machine and caches every response (52 requests). `tools/parse.py` reads only that cache and writes `corpus.json`; it also takes the nine law keys from the text's own header. The shared builder `tools/build.py` writes this repository from it. The same cache gives the same bytes and the same commit hashes. A model (Claude) wrote the scripts; it wrote no legal text. No model runs when the history is built.
 
 ## Sources
 
 | Source | What it gives | Dated versions | Names the amending act | Access and terms | Used |
 | --- | --- | --- | --- | --- | --- |
 | [Народно събрание, Конституция](https://www.parliament.bg/bg/const) (API: `https://www.parliament.bg/api/v1/nav/bg/const`) | The official consolidated Constitution | No: today's text only | Yes, a note on each changed paragraph, and the full list of gazette events in the header | JSON with an HTML body. Official legal text, not subject to copyright (Закон за авторското право и сродните му права, чл. 4, т. 1) | Yes: today's text |
-| [Държавен вестник](https://dv.parliament.bg) | The State Gazette: laws as promulgated | No consolidated texts | Partly | PDF. | No |
-| [lex.bg](https://lex.bg) | Consolidated texts (private, not official) | | | – | No: not fetched |
-| [Internet Archive](https://web.archive.org/) | Captures of parliament.bg/bg/const: the full text on the old page from December 2010 to May 2021, the JavaScript shell after that; the API response on 29 June 2021 and 20 August 2025 | Yes, as captured | As the captures print it | – | Yes: the 2008 and 2015 versions (captures 20101222212318 and 20160125101631) |
-| – | Another web archive | | | – | No |
+| [Народно събрание, приети закони](https://www.parliament.bg/bg/laws) (API: `https://www.parliament.bg/api/v1/act/<id>`) | Every law adopted since 2009: its final adopted text and its State Gazette issue | No: as adopted | Its title names the act it amends | JSON with an HTML body; official legal text | Yes: every law's text as adopted |
+| [Държавен вестник](https://dv.parliament.bg) (material pages, `showMaterialDV.jsp?idMat=<id>`) | The State Gazette: every act as promulgated, one HTML page per act from 2003 | No consolidated texts | Its titles name the acts an act amends or repeals | HTML; official publication | Yes: every material page through the newest issue, read at most a few requests a second; every act of the six kinds and every Gazette day |
+| [lex.bg](https://lex.bg) | Consolidated texts (private, not official) | | | robots.txt disallows every reader but search engines | No: not fetched |
+| [Internet Archive](https://web.archive.org/) | Captures of parliament.bg/bg/const: the full text on the old page from December 2010 to May 2021, the JavaScript shell after that; the API response on 29 June 2021 and 20 August 2025 | Yes, as captured | As the captures print it | Raw `id_` captures; the pages are the National Assembly's official text | Yes: the 2008 and 2015 versions (captures 20101222212318 and 20160125101631) |
+| [Common Crawl](https://commoncrawl.org/) | Another web archive | | | Its index could not be reached from this machine on 2026-10-29 | No |
 
 The register this repository started from said that consolidated texts of Bulgarian law exist only in private services. For the Constitution that is not so: the National Assembly publishes it consolidated, with its amendment notes.
 
