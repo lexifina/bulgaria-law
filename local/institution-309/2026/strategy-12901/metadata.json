@@ -1,0 +1,35 @@
+{
+  "title": "Наредба за изменение и допълнение на Наредба за определянето и администрирането на местните такси и цени на услуги и права на територията на община Враца.",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12901",
+  "issuer": "Общинска администрация - Враца",
+  "issuer_id": "309",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-11",
+  "source": "https://www.strategy.bg/bg/public-consultations/12901",
+  "source_sha256": "00ef3d19e83d435505b71e8fa54e68b743d42907dafae73e0252880e74cd8936",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 2.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329917",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 2.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329918",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
