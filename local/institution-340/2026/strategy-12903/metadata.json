@@ -1,0 +1,59 @@
+{
+  "title": "Проект на Наредба за изменение и допълнение на Наредба № 3 за определянето и администрирането на местните такси и цени на услуги на територията на община Драгоман",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12903",
+  "issuer": "Общинска администрация - Драгоман",
+  "issuer_id": "340",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-11",
+  "source": "https://www.strategy.bg/bg/public-consultations/12903",
+  "source_sha256": "48134045b7e5637e103f4784a244d1672a2c3e6bf7740942d8a6f185885eb1c1",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329941",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Приложение 1 - 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329947",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Приложение 2 - 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329949",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Приложение 3 - 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329951",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Частична оценка на въздействие - 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329956",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329943",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
