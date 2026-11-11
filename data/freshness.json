@@ -1,8 +1,8 @@
 {
  "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
  "schema": "bg-freshness/1",
- "as_of": "2026-11-09",
- "checked_against_official_source": "2026-11-09",
+ "as_of": "2026-11-11",
+ "checked_against_official_source": "2026-11-11",
  "statuses": {
   "current": "checked against the official source within its threshold, and no known change is missing",
   "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
@@ -176,19 +176,19 @@
   {
    "source": "State Gazette (dv.parliament.bg)",
    "url": "https://dv.parliament.bg/DVWeb/",
-   "last_successful_check": "2026-11-09",
+   "last_successful_check": "2026-11-11",
    "newest_issue_read": "104/2026",
    "newest_material_id": 247417
   },
   {
    "source": "National Assembly, adopted laws (parliament.bg)",
    "url": "https://www.parliament.bg/bg/laws",
-   "last_successful_check": "2026-11-09"
+   "last_successful_check": "2026-11-11"
   },
   {
    "source": "National Assembly, consolidated Constitution (parliament.bg)",
    "url": "https://www.parliament.bg/bg/const",
-   "last_successful_check": "2026-11-09"
+   "last_successful_check": "2026-11-11"
   }
  ],
  "index": "data/freshness/index.json",
