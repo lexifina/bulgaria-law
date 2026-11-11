@@ -63,6 +63,21 @@
 
 Act id: `naredba-2008-dv011-4748` (tags `naredba-2008-dv011-4748/<day>`; `python tools/on.py <day> naredba-2008-dv011-4748`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2008 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 98 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27490)
+- [Наредба за изменение на Наредба № 1 от 2008 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 83 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37985)
+
+Cited by:
+
+- [Наредба № 5 от 14 февруари 2008 г. за условията и реда за включване и изключване във/от списъка на вещите лица по чл. 151, ал. 4 от Закона за кредитните институции (ДВ, бр. 20 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4857)
+- [№ 5869/09 г. (ДВ, бр. 37 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20474)
+- [Наредба № 2 от 26 октомври 2011 г. за условията и реда за извършване на съдебномедицинските, съдебнопсихиатричните и съдебнопсихологичните експертизи, включително и за заплащането на разходите на лечебните заведения (ДВ, бр. 91 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58536)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

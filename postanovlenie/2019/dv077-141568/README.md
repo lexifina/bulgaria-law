@@ -58,6 +58,22 @@
 
 Act id: `postanovlenie-2019-dv077-141568` (tags `postanovlenie-2019-dv077-141568/<day>`; `python tools/on.py <day> postanovlenie-2019-dv077-141568`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 168 от 12 юли 2022 г. за изменение и допълнение на Наредбата за електронната платформа за продажба на имоти - частна държавна собственост, и на имоти - собственост на търговски дружества с повече от 50 на сто държавно участие в капитала или търговски дружества, чиито дялове или акции са собственост на търговско дружество с повече от 50 на сто държавно участие в капитала, приета с Постановление № 243 на Министерския съвет от 2019 г. (ДВ, бр. 55 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174857)
+
+Cited by:
+
+- [Постановление № 68 от 13 април 2020 г. за приемане на Устройствен правилник на Агенцията за публичните предприятия и контрол (ДВ, бр. 37 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147497)
+- [Постановление № 85 от 30 април 2020 г. за приемане на Правилник за прилагане на Закона за публичните предприятия (ДВ, бр. 40 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147723)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 16 от 30 януари 2023 г. за изменение и допълнение на Правилника за прилагане на Закона за публичните предприятия, приет с Постановление № 85 на Министерския съвет от 2020 г. (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185543)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -61,6 +61,33 @@
 
 Act id: `naredba-2013-dv033-74757` (tags `naredba-2013-dv033-74757/<day>`; `python tools/on.py <day> naredba-2013-dv033-74757`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за регулиране на цените на природния газ (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99128)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за регулиране на цените на природния газ (ДВ, бр. 105 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110691)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за регулиране на цените на природния газ (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132276)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за регулиране на цените на природния газ (ДВ, бр. 95 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143326)
+- [Наредба за изменение и допълнение на Наредба № 2 от 19.03.2013 г. за регулиране на цените на природния газ (ДВ, бр. 100 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230752)
+
+Cited by:
+
+- [адм. дело № 8069/2013 г. (ДВ, бр. 59 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77098)
+- [Наредба № 4 от 5 ноември 2013 г. за присъединяване към газопреносните и газоразпределителните мрежи (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80827)
+- [Наредба № 5 от 23 януари 2014 г. за регулиране на цените на топлинната енергия (ДВ, бр. 10 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82383)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за регулиране на цените на електрическата енергия (ДВ, бр. 17 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83061)
+- [адм. дело № 7996/2014 г. (ДВ, бр. 54 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86171)
+- [Указания за образуване на цени за достъп и съхранение на природен газ в съоръжения за съхранение при прилагане на метод на регулиране "норма на възвръщаемост на капитала" (ДВ, бр. 2 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90936)
+- [Решение № 15465 от 18 декември 2014 г. по административно дело № 7996 от 2014 г. (ДВ, бр. 65 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96728)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 52 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127507)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2013 г. за присъединяване към газопреносните и газоразпределителните мрежи (ДВ, бр. 63 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140280)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148351)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за регулиране на цените на топлинната енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148352)
+- [Наредба за изменение и допълнение на Наредба № 6 от 28.03.2024 г. за присъединяване на обекти към електрическите мрежи (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -28,6 +28,22 @@
 
 Act id: `naredba-2004-dv050-20227` (tags `naredba-2004-dv050-20227/<day>`; `python tools/on.py <day> naredba-2004-dv050-20227`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 106 от 2004 г. за одобряване типа на нови моторни превозни средства от категория М1 по отношение на вътрешното оборудване (ДВ, бр. 4 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3137)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 90 от 2004 г. за одобряване типа на нови моторни превозни средства по отношение закрепването на обезопасителните колани (ДВ, бр. 54 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2159)
+- [Наредба за изменение и допълнение на Наредба № 100 от 2004 г. за одобряване типа на нови моторни превозни средства по отношение на седалките, тяхното закрепване и облегалки за глава и за одобряване типа на седалки (ДВ, бр. 56 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2197)
+- [Наредба за изменение и допълнение на Наредба № 105 от 2004 г. за одобряване типа на нови моторни превозни средства по отношение на обезопасителните колани и на системите за обезопасяване и за одобряване типа на обезопасителни колани и системи за обезопасяване (ДВ, бр. 56 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2198)
+- [Наредба № Н-3 от 18 февруари 2013 г. за изменение в конструкцията на регистрираните пътни превозни средства и индивидуално одобряване на пътни превозни средства, регистрирани извън държавите - членки на Европейския съюз, или друга държава - страна по Споразумението за Европейското икономическо пространство (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73423)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

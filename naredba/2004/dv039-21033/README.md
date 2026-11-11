@@ -26,6 +26,16 @@
 
 Act id: `naredba-2004-dv039-21033` (tags `naredba-2004-dv039-21033/<day>`; `python tools/on.py <day> naredba-2004-dv039-21033`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 5 март 2007 г. за утвърждаване на медицински стандарт за трансплантация на органи, тъкани и клетки (ДВ, бр. 23 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3417)
+- [Наредба № 21 от 3 май 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 39 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3656)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

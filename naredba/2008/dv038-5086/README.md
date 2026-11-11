@@ -37,6 +37,20 @@
 
 Act id: `naredba-2008-dv038-5086` (tags `naredba-2008-dv038-5086/<day>`; `python tools/on.py <day> naredba-2008-dv038-5086`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2008 г. за оценка и класификация на рисковите експозиции на банките и за установяване на специфични провизии за кредитен риск (ДВ, бр. 21 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17175)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2008 г. за оценка и класификация на рисковите експозиции на банките и за установяване на специфични провизии за кредитен риск (ДВ, бр. 48 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52677)
+- [Наредба за отменяне на Наредба № 9 от 2008 г. за оценка и класификация на рисковите експозиции на банките и за установяване на специфични провизии за кредитен риск (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84690)
+
+Cited by:
+
+- [Наредба № 14 от 4 февруари 2010 г. за съдържанието на одиторския доклад за надзорни цели (ДВ, бр. 14 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29853)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

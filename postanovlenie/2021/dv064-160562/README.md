@@ -15,6 +15,19 @@
 
 Act id: `postanovlenie-2021-dv064-160562` (tags `postanovlenie-2021-dv064-160562/<day>`; `python tools/on.py <day> postanovlenie-2021-dv064-160562`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 35 от 17 февруари 2026 г. за изменение на Постановление № 263 на Министерския съвет от 2021 г. за определяне на второстепенните разпоредители с бюджет по бюджета на Министерството на културата (ДВ, бр. 20 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241478)
+
+Cited by:
+
+- [Постановление № 89 от 1 юни 2023 г. за изменение на Постановление № 45 на Министерския съвет от 2014 г. за преобразуване на държавни културни институти и създаване на Родопски драматичен театър "Николай Хайтов" (ДВ, бр. 49 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195543)
+- [Постановление № 242 от 4 юли 2024 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Държавен резерв и военновременни запаси", приет с Постановление № 13 на Министерския съвет от 2004 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

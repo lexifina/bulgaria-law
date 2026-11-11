@@ -19,6 +19,24 @@
 
 Act id: `postanovlenie-2008-dv080-8564` (tags `postanovlenie-2008-dv080-8564/<day>`; `python tools/on.py <day> postanovlenie-2008-dv080-8564`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 27 от 9 февруари 2009 г. за изпълнението на държавния бюджет на Република България за 2009 г. (ДВ, бр. 13 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16063)
+- [Постановление № 334 от 29 декември 2010 г. за изпълнението на държавния бюджет на Република България за 2011 г. (ДВ, бр. 2 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42534)
+- [Постановление № 94 от 19 април 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75401)
+- [Постановление № 3 от 15 януари 2014 г. за изпълнението на държавния бюджет на Република България за 2014 г. (ДВ, бр. 8 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82147)
+- [Постановление № 343 от 30 октомври 2014 г. за изменение и допълнение на Постановление № 84 на Министерския съвет от 2009 г. за приемане на Списък на средищните училища в Република България, определяне на критерии за включване в Списъка на средищните училища и приемане на финансови правила за разходване на средствата за допълнително финансиране за осигуряване обучението на пътуващите ученици от средищните училища (ДВ, бр. 92 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89346)
+- [Постановление № 406 от 12 декември 2014 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2014 г. (ДВ, бр. 103 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90635)
+- [Постановление № 8 от 16 януари 2015 г. за изпълнението на държавния бюджет на Република България за 2015 г. (ДВ, бр. 6 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91356)
+- [Постановление № 354 от 11 декември 2015 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2015 г. (ДВ, бр. 98 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99439)
+- [Постановление № 380 от 29 декември 2015 г. за изпълнението на държавния бюджет на Република България за 2016 г. (ДВ, бр. 3 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99824)
+- [Постановление № 374 от 22 декември 2016 г. за изпълнението на държавния бюджет на Република България за 2017 г. (ДВ, бр. 104 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110642)
+- [Постановление № 121 от 23 юни 2017 г. за приемане на критерии за определяне на защитените детски градини и защитените училища и на условия и ред за тяхното допълнително финансиране (ДВ, бр. 51 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115599)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

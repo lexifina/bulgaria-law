@@ -109,6 +109,20 @@
 
 Act id: `naredba-2006-dv068-2405` (tags `naredba-2006-dv068-2405/<day>`; `python tools/on.py <day> naredba-2006-dv068-2405`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Iз-1009 от 2006 г. за условията и реда за постъпване на държавна служба в МВР (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3973)
+- [Наредба за изменение и допълнение на Наредба № Iз-1009 от 2006 г. за условията и реда за постъпване на държавна служба в МВР (ДВ, бр. 56 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23408)
+- [Наредба за изменение и допълнение на Наредба № Iз-1009 от 2006 г. за условията и реда за постъпване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 70 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24666)
+
+Cited by:
+
+- [Наредба № Із-9 от 9 януари 2012 г. за условията и реда за постъпване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 8 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60578)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

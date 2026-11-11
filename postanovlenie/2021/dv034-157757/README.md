@@ -17,6 +17,15 @@
 
 Act id: `postanovlenie-2021-dv034-157757` (tags `postanovlenie-2021-dv034-157757/<day>`; `python tools/on.py <day> postanovlenie-2021-dv034-157757`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 19 от 21 март 2025 г. за одобряване на Тарифа за таксите, които се събират по Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба, Тарифа за таксите, които се събират по Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори и на Тарифа за таксите, които се събират от Министерството на икономиката и индустрията по Закона за изпълнение на Регламент на Европейския парламент и на Съвета № 2019/125 относно търговията с някои стоки, които биха могли да бъдат използвани с цел прилагане на смъртно наказание, изтезания или други форми на жестоко, нечовешко или унизително отнасяне или наказание (ДВ, бр. 25 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233688)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -19,6 +19,18 @@
 
 Act id: `naredba-2012-dv015-61144` (tags `naredba-2012-dv015-61144/<day>`; `python tools/on.py <day> naredba-2012-dv015-61144`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 32 от 2012 г. за придобиване на квалификация по професията "Икономист" (ДВ, бр. 75 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87678)
+
+Cited by:
+
+- [Наредба № 4 от 26 март 2021 г. за придобиване на квалификация по професията "Икономист" (ДВ, бр. 32 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157170)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -31,6 +31,19 @@
 
 Act id: `naredba-2022-dv055-174847` (tags `naredba-2022-dv055-174847/<day>`; `python tools/on.py <day> naredba-2022-dv055-174847`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 1 от 2022 г. за условията и реда за предоставяне на извънредна финансова помощ на земеделските стопани от определени сектори (ДВ, бр. 65 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175940)
+
+Cited by:
+
+- [Наредба № 3 от 15 ноември 2022 г. за прилагане на подмярка 22.1 "Извънредно временно подпомагане за земеделските стопани, които са особено засегнати от последиците от руското нашествие в Украйна" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 92 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180240)
+- [Наредба № 2 от 28 февруари 2023 г. за прилагане на подмярка 22.2 "Извънредно временно подпомагане за малки и средни предприятия, засегнати от последиците от руското нашествие в Украйна" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 20 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187757)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

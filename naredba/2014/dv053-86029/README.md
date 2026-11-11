@@ -42,6 +42,14 @@
 
 Act id: `naredba-2014-dv053-86029` (tags `naredba-2014-dv053-86029/<day>`; `python tools/on.py <day> naredba-2014-dv053-86029`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № РД-02-20-1 от 2014 г. за условията и реда за вписване и поддържане на регистъра на свлачищните райони на територията на Република България, на районите с абразионни и ерозионни процеси по Черноморското и Дунавското крайбрежие и мониторинга им (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90445)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

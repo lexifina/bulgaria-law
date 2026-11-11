@@ -80,6 +80,22 @@
 
 Act id: `postanovlenie-2006-dv068-2397` (tags `postanovlenie-2006-dv068-2397/<day>`; `python tools/on.py <day> postanovlenie-2006-dv068-2397`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 10 октомври 2006 г. за реда и условията за регистриране, заличаване от регистъра на дестилерии, извършващи задължителна дестилация на вторичните продукти от винопроизводството, технологични дневници, начин за воденето им и контрола върху регистрираните лица и дейността им (ДВ, бр. 91 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2811)
+- [Постановление № 250 от 17 октомври 2007 г. за изменение и допълнение на Наредбата за означаването и търговското представяне на вината, спиртните напитки и продуктите от грозде и вино, приета с Постановление № 55 на Министерския съвет от 2000 г. (ДВ, бр. 86 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4339)
+- [Заповед РД-16-1148 от 30.10.2008 г. (ДВ, бр. 101 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=11747)
+- [№ РД-16-101/5.2.09 г. (ДВ, бр. 17 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16286)
+- [Постановление № 86 от 6 април 2009 г. за изменение и допълнение на Наредбата за условията и реда за регистриране и заличаване от регистъра, данните, подлежащи на вписване, начина на водене на дневниците, съдържанието и формата на декларациите на реколтата и стоковата наличност и контрола върху регистрираните лица и дейността им, приета с Постановление № 239 на Министерския съвет от 2004 г. (ДВ, бр. 29 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18930)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Заповед № Т-РД-27-06/17.11.2010 г. (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41323)
+- [Неофициален раздел на "Държавен вестник", брой 94 от 16.11.2007 г. (ДВ, бр. 94 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140484)
+- [Неофициален раздел на "Държавен вестник", брой 101 от 25.11.2008 г. (ДВ, бр. 101 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142874)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

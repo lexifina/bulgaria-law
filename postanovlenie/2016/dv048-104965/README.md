@@ -41,6 +41,19 @@
 
 Act id: `postanovlenie-2016-dv048-104965` (tags `postanovlenie-2016-dv048-104965/<day>`; `python tools/on.py <day> postanovlenie-2016-dv048-104965`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 150 от 3 юли 2020 г. за изменение и допълнение на Наредбата за стандартните условия за повторно използване на информация от обществения сектор и за нейното публикуване в отворен формат, приета с ПМС № 147 от 2016 г. (ДВ, бр. 60 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149625)
+
+Cited by:
+
+- [Постановление № 75 от 5 март 2021 г. за изменение и допълнение на Наредбата за Единната информационна система за противодействие на престъпността, приета с Постановление № 262 на Министерския съвет от 2009 г. (ДВ, бр. 20 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156473)
+- [Постановление № 134 от 20 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

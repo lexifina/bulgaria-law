@@ -230,6 +230,22 @@
 
 Act id: `naredba-2004-dv107-18248` (tags `naredba-2004-dv107-18248/<day>`; `python tools/on.py <day> naredba-2004-dv107-18248`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2004 г. за технически правила и нормативи за проектиране, изграждане и ползване на обектите и съоръженията за пренос, съхранение, разпределение и доставка на природен газ (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59958)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2004 г. за технически правила и нормативи за проектиране, изграждане и ползване на обектите и съоръженията за пренос, съхранение, разпределение и доставка на природен газ (ДВ, бр. 30 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83829)
+
+Cited by:
+
+- [Наредба № Із-1971 от 29 октомври 2009 г. за строително-технически правила и норми за осигуряване на безопасност при пожар (ДВ, бр. 96 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26985)
+- [Наредба за изменение и допълнение на Наредба № Із-1971 от 2009 г. за строително-технически правила и норми за осигуряване на бeзопасност при пожар (ДВ, бр. 75 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78359)
+- [Наредба за изменение и допълнение на Наредба № 15 от 2005 г. за технически правила и нормативи за проектиране, изграждане и експлоатация на обектите и съоръженията за производство, пренос и разпределение на топлинна енергия (ДВ, бр. 6 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99880)
+- [Наредба № РД-02-20-1 от 26 октомври 2023 г. за изпълнение и приемане на земни работи, земни съоръжения, земна основа и фундаменти (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201062)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

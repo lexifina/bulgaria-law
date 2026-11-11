@@ -145,6 +145,54 @@
 
 Act id: `zakon-2008-dv102-12141` (tags `zakon-2008-dv102-12141/<day>`; `python tools/on.py <day> zakon-2008-dv102-12141`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за защита на конкуренцията (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34645)
+- [Закон за изменение на Закона за защита на конкуренцията (ДВ, бр. 73 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56691)
+- [Указ № 157 за връщане за ново обсъждане в Народното събрание на Закона за изменение и допълнение на Закона за защита на конкуренцията, приет от ХLIІ Народно събрание на 18 юни 2014 г., и мотивите към указа (ДВ, бр. 54 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86206)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 56 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95885)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 2 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121198)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155954)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 95 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238447)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 58 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244129)
+- [Закон за изменение на Закона за защита на конкуренцията (ДВ, бр. 54 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9793)
+- [Закон за изменение на Закона за защита на конкуренцията (ДВ, бр. 73 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13643)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 56 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15042)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 2 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77849)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 17 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163501)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 95 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166613)
+- [Закон за изменение и допълнение на Закона за защита на конкуренцията (ДВ, бр. 58 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167003)
+
+Cited by:
+
+- [Устройствен правилник на Комисията за защита на конкуренцията (ДВ, бр. 15 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16285)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121757)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за защита на търговската тайна (ДВ, бр. 28 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136042)
+- [Устройствен правилник на Комисията за защита на конкуренцията (ДВ, бр. 11 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168730)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77820)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за защита на търговската тайна (ДВ, бр. 28 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156840)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -155,6 +155,17 @@
 
 Act id: `postanovlenie-2004-dv071-19194` (tags `postanovlenie-2004-dv071-19194/<day>`; `python tools/on.py <day> postanovlenie-2004-dv071-19194`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 231 от 2 септември 2004 г. за приемане на Наредба за осигуряване безопасността на изследователските ядрени инсталации (ДВ, бр. 80 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18776)
+- [Постановление № 185 от 23 август 2013 г. за приемане на Наредба за безопасност при управление на радиоактивните отпадъци (ДВ, бр. 76 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78501)
+- [Постановление № 1 от 4 януари 2018 г. за изменение и допълнение на Наредбата за реда и начина за набирането, разходването, отчитането и контрола на средствата на Фонд "Сигурност на електроенергийната система", приета с Постановление № 346 на Министерския съвет от 2015 г. (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121434)
+- [Постановление № 65 от 30 април 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125977)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

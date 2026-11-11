@@ -42,6 +42,21 @@
 
 Act id: `postanovlenie-2004-dv024-21405` (tags `postanovlenie-2004-dv024-21405/<day>`; `python tools/on.py <day> postanovlenie-2004-dv024-21405`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 357 от 27 декември 2006 г. за изменение и допълнение на Наредбата за условията и реда за събиране на винетни такси за платено ползване на определени републикански пътища за определен срок, приета с Постановление № 57 на Министерския съвет от 2004 г. (ДВ, бр. 108 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3062)
+- [Постановление № 287 от 23 ноември 2007 г. за изменение на Наредбата за условията и реда за събиране на винетни такси за платено ползване на определени републикански пътища за определен срок, приета с Постановление № 57 на Министерския съвет от 2004 г. (ДВ, бр. 101 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4498)
+
+Cited by:
+
+- [Постановление № 303 от 7 ноември 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 93 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2837)
+- [Постановление № 160 от 7 юли 2008 г. за приемане на Наредба за условията и реда за събиране на таксите за ползване на пътната инфраструктура, за изминато разстояние, за ползване на отделни съоръжения по републиканските пътища и за специално ползване на републиканските пътища или на части от тях (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6282)
+- [Наредба № 4 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на автомобилния транспорт" (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

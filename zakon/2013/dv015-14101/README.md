@@ -119,9 +119,45 @@
 
 Act id: `zakon-2013-dv015-14101` (tags `zakon-2013-dv015-14101/<day>`; `python tools/on.py <day> zakon-2013-dv015-14101`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 51 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157194)
+- [Закон за допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 11 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165165)
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166358)
+
+Cited by:
+
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за административното регулиране на икономическите дейности, свързани с нефт и продукти от нефтен произход (ДВ, бр. 62 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128654)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 51 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148427)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 65 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149767)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154271)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 54 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196462)
+- [Закон за изменение и допълнение на Закона за контрол по прилагане на ограничителните мерки с оглед на действията на Русия, дестабилизиращи положението в Украйна (ДВ, бр. 86 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200116)
+- [Закон за допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 11 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204940)
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236376)
+- [Закон за изменение и допълнение на Закона за търговския регистър и регистъра на юридическите лица с нестопанска цел (ДВ, бр. 87 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238064)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за административното регулиране на икономически дейности, свързани с нефт и продукти от нефтен произход (ДВ, бр. 62 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77990)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 51 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157194)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 65 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157443)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163398)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 54 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164706)
+- [Закон за изменение и допълнение на Закона за контрол по прилагане на ограничителните мерки с оглед на действията на Русия, дестабилизиращи положението в Украйна (ДВ, бр. 86 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165059)
+- [Закон за допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 11 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165165)
+- [Закон за изменение и допълнение на Закона за запасите от нефт и нефтопродукти (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166358)
+- [Закон за изменение и допълнение на Закона за търговския регистър и регистъра на юридическите лица с нестопанска цел (ДВ, бр. 87 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166582)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

@@ -45,6 +45,19 @@
 
 Act id: `postanovlenie-2008-dv087-9264` (tags `postanovlenie-2008-dv087-9264/<day>`; `python tools/on.py <day> postanovlenie-2008-dv087-9264`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 105 от 21 юни 2018 г. за отменяне на Наредбата за реда за лицензиране на спортните организации в Република България, приета с Постановление № 237 на Министерския съвет от 2008 г. (ДВ, бр. 53 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127722)
+
+Cited by:
+
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Наредба № 6 от 10 май 2018 г. за реда за лицензиране на спортните организации в Република България (ДВ, бр. 42 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126513)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

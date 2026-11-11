@@ -38,6 +38,14 @@
 
 Act id: `naredba-2009-dv037-20463` (tags `naredba-2009-dv037-20463/<day>`; `python tools/on.py <day> naredba-2009-dv037-20463`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2006 г. за защита и хуманно отношение при отглеждане и използване на селскостопански животни (ДВ, бр. 61 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116206)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

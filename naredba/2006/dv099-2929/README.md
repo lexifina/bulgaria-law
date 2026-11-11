@@ -17,6 +17,15 @@
 
 Act id: `naredba-2006-dv099-2929` (tags `naredba-2006-dv099-2929/<day>`; `python tools/on.py <day> naredba-2006-dv099-2929`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 145 от 25 юни 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3887)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2016 г. за определяне на реда за съгласуване на проектите на документи по чл. 26, ал. 1 от Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 39 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191780)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

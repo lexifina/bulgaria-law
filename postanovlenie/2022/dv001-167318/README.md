@@ -20,6 +20,18 @@
 
 Act id: `postanovlenie-2022-dv001-167318` (tags `postanovlenie-2022-dv001-167318/<day>`; `python tools/on.py <day> postanovlenie-2022-dv001-167318`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 11 от 3 февруари 2022 г. за изменение и допълнение на Постановление № 481 от 2021 г. за уреждане на бюджетни отношения през 2022 г. (ДВ, бр. 11 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168772)
+
+Cited by:
+
+- [Постановление № 31 от 17 март 2022 г. за изпълнението на държавния бюджет на Република България за 2022 г. (ДВ, бр. 23 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171223)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

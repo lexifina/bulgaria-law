@@ -23,6 +23,18 @@
 
 Act id: `naredba-2004-dv072-19187` (tags `naredba-2004-dv072-19187/<day>`; `python tools/on.py <day> naredba-2004-dv072-19187`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2004 г. за условията и реда за извършване на далекосъобщения чрез радиосъоръжения и мрежи от радиосъоръжения за собствени нужди чрез използване на радиочестотен спектър за общо ползване (ДВ, бр. 80 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2640)
+
+Cited by:
+
+- [Решение № 217 от 29 март 2005 г. за приемане списък на радиосъоръженията, за които са въведени ограничения за пускането им в действие по чл. 209, ал. 2 от Закона за далекосъобщенията (ДВ, бр. 32 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15189)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

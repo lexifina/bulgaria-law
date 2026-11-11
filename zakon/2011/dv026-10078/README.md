@@ -121,9 +121,48 @@
 
 Act id: `zakon-2011-dv026-10078` (tags `zakon-2011-dv026-10078/<day>`; `python tools/on.py <day> zakon-2011-dv026-10078`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 56 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13817)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 93 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14034)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 9 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14607)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 101 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77773)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+
+Cited by:
+
+- [Постановление № 205 от 15 юли 2011 г. за приемане на Правилник за прилагане на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 57 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54912)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 56 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66479)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 93 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70544)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 9 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82065)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за Държавна агенция "Разузнаване" (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97879)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105827)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 101 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120730)
+- [Закон за изменение и допълнение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 63 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140264)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 13 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205800)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 56 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13817)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 93 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14034)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 9 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14607)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за Държавна агенция "Разузнаване" (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15269)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 58 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42092)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 101 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77773)
+- [Закон за изменение и допълнение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 63 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157054)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 13 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165309)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

@@ -63,6 +63,20 @@
 
 Act id: `postanovlenie-2013-dv079-78673` (tags `postanovlenie-2013-dv079-78673/<day>`; `python tools/on.py <day> postanovlenie-2013-dv079-78673`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 286 от 14 декември 2013 г. за изменение и допълнение на Устройствения правилник на Министерството на икономиката и енергетиката, приет с Постановление № 197 на Министерския съвет от 2013 г. (ДВ, бр. 110 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81309)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 102 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80626)
+- [Постановление № 21 от 12 февруари 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82641)
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

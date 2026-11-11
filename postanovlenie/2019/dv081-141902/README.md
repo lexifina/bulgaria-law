@@ -34,6 +34,18 @@
 
 Act id: `postanovlenie-2019-dv081-141902` (tags `postanovlenie-2019-dv081-141902/<day>`; `python tools/on.py <day> postanovlenie-2019-dv081-141902`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 43 от 8 февруари 2021 г. за изменение и допълнение на Наредбата за Националния туристически регистър, приета с Постановление № 252 на Министерския съвет от 2019 г. (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155816)
+
+Cited by:
+
+- [Постановление № 187 от 9 октомври 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246480)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

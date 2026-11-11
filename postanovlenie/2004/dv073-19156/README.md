@@ -79,6 +79,21 @@
 
 Act id: `postanovlenie-2004-dv073-19156` (tags `postanovlenie-2004-dv073-19156/<day>`; `python tools/on.py <day> postanovlenie-2004-dv073-19156`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 156 от 13 юли 2005 г. за приемане на Наредба за условията и реда за извършване на превоз на радиоактивни вещества (ДВ, бр. 60 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=626)
+- [Постановление № 294 от 4 декември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 106 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13011)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 6 от 29 януари 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 14 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29573)
+- [Наредба № 27 от 30 юни 2010 г. за утвърждаване на медицински стандарт "Образна диагностика" (ДВ, бр. 57 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34566)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36261)
+- [Постановление № 229 от 25 септември 2012 г. за приемане на нормативни актове по прилагането на Закона за безопасно използване на ядрената енергия (ДВ, бр. 76 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68737)
+- [Постановление № 222 от 26 август 2016 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 69 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107223)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

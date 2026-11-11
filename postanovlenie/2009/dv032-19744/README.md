@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2009-dv032-19744` (tags `postanovlenie-2009-dv032-19744/<day>`; `python tools/on.py <day> postanovlenie-2009-dv032-19744`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 87 от 7 април 2011 г. за отменяне на Постановление № 89 на Министерския съвет от 2009 г. за заемообразно осигуряване на средства за плащания по договори по Програма ФАР, управлявани от изпълнителните агенции по Програма ФАР към Министерството на финансите и Министерството на регионалното развитие и благоустройството (ДВ, бр. 31 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48272)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

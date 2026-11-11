@@ -52,6 +52,31 @@
 
 Act id: `postanovlenie-2007-dv036-3596` (tags `postanovlenie-2007-dv036-3596/<day>`; `python tools/on.py <day> postanovlenie-2007-dv036-3596`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 135 от 10 юни 2008 г. за изменение и допълнение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 55 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5348)
+- [Постановление № 36 от 14 февруари 2011 г. за изменение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45198)
+- [Постановление № 101 от 15 април 2011 г. за изменение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 33 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48741)
+- [Постановление № 25 от 1 февруари 2013 г. за изменение и допълнение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 13 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72849)
+- [Постановление № 80 от 6 април 2015 г. за изменение и допълнение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 27 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93645)
+- [Поправка в Постановление № 80 на Министерския съвет от 2015 г. за изменение и допълнение на Устройствения правилник на Агенцията по вписванията (ДВ, бр. 27 от 2015 г.) (ДВ, бр. 30 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93985)
+- [Постановление № 29 от 23 февруари 2024 г. за изменение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 17 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208104)
+
+Cited by:
+
+- [Постановление № 303 от 14 декември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 110 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4583)
+- [Постановление № 88 от 11 май 2010 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на правосъдието (ДВ, бр. 37 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32834)
+- [Постановление № 155 от 25 юни 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95527)
+- [Постановление № 9 от 13 януари 2017 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111243)
+- [Постановление № 58 от 20 април 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125768)
+- [Постановление № 5 от 11 януари 2019 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133853)
+- [Постановление № 40 от 15 март 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 25 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188722)
+- [Постановление № 205 от 19 октомври 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246680)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

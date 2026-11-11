@@ -21,6 +21,14 @@
 
 Act id: `naredba-2004-dv006-22253` (tags `naredba-2004-dv006-22253/<day>`; `python tools/on.py <day> naredba-2004-dv006-22253`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 18 от 9 октомври 2018 г. за придобиване на квалификация по професията "Хотелиер" (ДВ, бр. 87 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130750)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

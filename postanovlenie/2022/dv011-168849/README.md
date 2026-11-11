@@ -72,6 +72,16 @@
 
 Act id: `postanovlenie-2022-dv011-168849` (tags `postanovlenie-2022-dv011-168849/<day>`; `python tools/on.py <day> postanovlenie-2022-dv011-168849`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 27 от 10 март 2022 г. за изменение на Наредбата за прилагане на Класификатора на длъжностите в администрацията, приета с Постановление № 129 на Министерския съвет от 2012 г. (ДВ, бр. 21 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170959)
+- [Постановление № 38 от 29 март 2022 г. за създаване на Съвет за електронно управление при Министерския съвет (ДВ, бр. 26 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171510)
+- [Постановление № 89 от 19 май 2022 г. за създаване на Изпълнителна агенция "Инфраструктура на електронното управление" и за приемане на Устройствен правилник на Изпълнителна агенция "Инфраструктура на електронното управление" и на Устройствен правилник на Министерството на електронното управление (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173490)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

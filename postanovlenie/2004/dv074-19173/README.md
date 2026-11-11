@@ -174,6 +174,30 @@
 
 Act id: `postanovlenie-2004-dv074-19173` (tags `postanovlenie-2004-dv074-19173/<day>`; `python tools/on.py <day> postanovlenie-2004-dv074-19173`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 228 от 30 август 2006 г. за изменение и допълнение на Наредбата за радиационна защита при дейности с източници на йонизиращи лъчения, приета с Постановление № 200 на Министерския съвет от 2004 г. (ДВ, бр. 74 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2512)
+
+Cited by:
+
+- [Постановление № 123 от 1 юни 2007 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3795)
+- [Постановление № 231 от 2 септември 2004 г. за приемане на Наредба за осигуряване безопасността на изследователските ядрени инсталации (ДВ, бр. 80 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18776)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+- [Наредба № 27 от 30 юни 2010 г. за утвърждаване на медицински стандарт "Образна диагностика" (ДВ, бр. 57 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34566)
+- [Постановление № 6 от 17 януари 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43257)
+- [Постановление № 229 от 25 септември 2012 г. за приемане на нормативни актове по прилагането на Закона за безопасно използване на ядрената енергия (ДВ, бр. 76 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68737)
+- [Постановление № 93 от 15 април 2013 г. за приемане на Наредба за радиационна защита при дейности с радиационни дефектоскопи (ДВ, бр. 38 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75263)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба № 13 от 16 декември 2016 г. за осигуряване на радиационна защита при работа с рентгенови уредби за медицински цели (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110551)
+- [Постановление № 20 от 14 февруари 2018 г. за приемане на Наредба за радиационна защита (ДВ, бр. 16 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122885)
+- [Постановление № 65 от 30 април 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125977)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151388)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

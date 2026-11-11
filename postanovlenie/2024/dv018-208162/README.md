@@ -31,6 +31,14 @@
 
 Act id: `postanovlenie-2024-dv018-208162` (tags `postanovlenie-2024-dv018-208162/<day>`; `python tools/on.py <day> postanovlenie-2024-dv018-208162`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 14 от 28 февруари 2025 г. за одобряване на Тарифа за таксите, които се събират в системата на Държавната агенция за метрологичен и технически надзор (ДВ, бр. 18 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233233)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

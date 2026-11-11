@@ -12,6 +12,19 @@
 
 Act id: `naredba-2014-dv013-82479` (tags `naredba-2014-dv013-82479/<day>`; `python tools/on.py <day> naredba-2014-dv013-82479`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 27 януари 2015 г. за утвърждаване на общи медицински стандарти по хирургия, неврохирургия, гръдна хирургия, кардиохирургия, съдова хирургия, детска хирургия, пластично-възстановителна и естетична хирургия и лицево-челюстна хирургия (ДВ, бр. 11 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91816)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [Наредба № 5 от 3 ноември 2016 г. за утвърждаване на медицински стандарт "Гръдна хирургия" (ДВ, бр. 90 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109057)
+- [Наредба № 9 от 4 ноември 2016 г. за утвърждаване на медицински стандарт "Ортопедия и травматология" (ДВ, бр. 94 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109267)
+- [Наредба № 10 от 4 ноември 2016 г. за утвърждаване на медицински стандарт "Ушно-носно-гърлени болести" (ДВ, бр. 94 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109297)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2019 г. за определяне на пакета от здравни дейности, гарантиран от бюджета на Националната здравноосигурителна каса (ДВ, бр. 15 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232947)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

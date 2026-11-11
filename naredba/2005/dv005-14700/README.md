@@ -46,6 +46,14 @@
 
 Act id: `naredba-2005-dv005-14700` (tags `naredba-2005-dv005-14700/<day>`; `python tools/on.py <day> naredba-2005-dv005-14700`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 16-1238 от 28 декември 2007 г. за обстоятелствата, подлежащи на вписване в регистъра на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност, реда за получаване на информация от регистъра и условията и реда за придобиване и признаване на правоспособност (ДВ, бр. 7 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4704)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

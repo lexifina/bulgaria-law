@@ -26,6 +26,14 @@
 
 Act id: `pravilnik-2011-dv034-48832` (tags `pravilnik-2011-dv034-48832/<day>`; `python tools/on.py <day> pravilnik-2011-dv034-48832`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за функциите и организацията на дейността на Експертния съвет по лечение на зависимости (ДВ, бр. 91 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119684)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

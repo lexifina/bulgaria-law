@@ -78,6 +78,18 @@
 
 Act id: `naredba-2018-dv013-122490` (tags `naredba-2018-dv013-122490/<day>`; `python tools/on.py <day> naredba-2018-dv013-122490`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Определение № 10565 от 16 август 2018 г. по административно дело № 9882 от 2018 г. (ДВ, бр. 70 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129519)
+- [адм. дело № 8989/2018 г. (ДВ, бр. 81 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130380)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+- [Постановление № 162 от 28 юни 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139248)
+- [Постановление № 373 от 30 декември 2025 г. за изменение на Тарифа за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 3 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240411)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

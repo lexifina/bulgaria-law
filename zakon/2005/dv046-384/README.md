@@ -76,6 +76,31 @@
 
 Act id: `zakon-2005-dv046-384` (tags `zakon-2005-dv046-384/<day>`; `python tools/on.py <day> zakon-2005-dv046-384`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110406)
+- [Закон за изменение и допълнение на Закона за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти (ДВ, бр. 91 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131144)
+- [Закон за изменение и допълнение на Закона за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти (ДВ, бр. 103 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66430)
+- [Закон за изменение и допълнение на Закона за съсловната организация на медицинските сестри, акушерките и асоциираните медицински специалисти (ДВ, бр. 91 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78114)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 85 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=963)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 59 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2242)
+- [Закон за съсловната организация на магистър-фармацевтите (ДВ, бр. 75 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2527)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3689)
+- [Закон за признаване на професионални квалификации (ДВ, бр. 13 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4752)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21369)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42158)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9913)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

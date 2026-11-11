@@ -89,6 +89,25 @@
 
 Act id: `naredba-2004-dv083-18748` (tags `naredba-2004-dv083-18748/<day>`; `python tools/on.py <day> naredba-2004-dv083-18748`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2004 г. за условията и изискванията за изграждане и експлоатация на депа и на други съоръжения и инсталации за оползотворяване и обезвреждане на отпадъци (ДВ, бр. 27 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47315)
+
+Cited by:
+
+- [Постановление № 230 от 1 ноември 2005 г. за приемане на Наредба за изискванията за третиране и транспортиране на отработени масла и отпадъчни нефтопродукти (ДВ, бр. 90 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1019)
+- [Наредба № 5 от 23 април 2007 г. за мониторинг на водите (ДВ, бр. 44 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3749)
+- [Наредба № 1 от 10 октомври 2007 г. за проучване, ползване и опазване на подземните води (ДВ, бр. 87 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4367)
+- [Постановление № 209 от 20 август 2009 г. за осигуряване на финансиране за изграждането на регионални системи за управление на битовите отпадъци, на регионалните съоръжения за предварително третиране на битовите отпадъци и за закриването на общински депа за битови отпадъци (ДВ, бр. 68 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24550)
+- [Постановление № 207 от 16 септември 2010 г. за определяне на размера и реда за отчисленията по чл. 71е от Закона за управление на отпадъците (ДВ, бр. 75 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37075)
+- [Наредба за изменение и допълнение на Наредба № 6 от 1999 г. за реда и начина за измерване на емисиите на вредни вещества, изпускани в атмосферния въздух от обекти с неподвижни източници (ДВ, бр. 34 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48679)
+- [Наредба № 1 от 11 април 2011 г. за мониторинг на водите (ДВ, бр. 34 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48752)
+- [Наредба № 6 от 27 август 2013 г. за условията и изискванията за изграждане и експлоатация на депа и на други съоръжения и инсталации за оползотворяване и обезвреждане на отпадъци (ДВ, бр. 80 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78698)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -27,6 +27,16 @@
 
 Act id: `naredba-2008-dv031-4986` (tags `naredba-2008-dv031-4986/<day>`; `python tools/on.py <day> naredba-2008-dv031-4986`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 27 февруари 2009 г. за условията и реда за подаване на заявления по схеми и мерки за подпомагане на площ (ДВ, бр. 22 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17381)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане (ДВ, бр. 21 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62377)
+- [Наредба за изменение и допълнение на Наредба № 3 от 1999 г. за създаване и поддържане на регистър на земеделските производители (ДВ, бр. 31 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94045)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

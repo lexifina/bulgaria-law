@@ -49,6 +49,19 @@
 
 Act id: `postanovlenie-2018-dv009-122034` (tags `postanovlenie-2018-dv009-122034/<day>`; `python tools/on.py <day> postanovlenie-2018-dv009-122034`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 231 от 20 ноември 2023 г. за изменение на Наредбата за изискванията и критериите за ВиК операторите и за квалификацията на персонала им, приета с Постановление № 11 на Министерския съвет от 2018 г. (ДВ, бр. 98 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201379)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-8 от 2013 г. за проектиране, изграждане и експлоатация на канализационни системи (ДВ, бр. 99 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132236)
+- [Наредба № РД-02-20-3 от 18 ноември 2019 г. за условията и реда за създаване и поддържане на Единна информационна система за ВиК услугите и на регистър на асоциациите по ВиК и на ВиК операторите (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143132)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

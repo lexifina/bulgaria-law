@@ -35,6 +35,16 @@
 
 Act id: `naredba-2021-dv060-159954` (tags `naredba-2021-dv060-159954/<day>`; `python tools/on.py <day> naredba-2021-dv060-159954`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 61 от 27 септември 2018 г. за изискванията към рекламните и писмените информационни материали и страниците в интернет на пенсионноосигурителните дружества (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178780)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+- [Наредба № 70 от 23 юни 2026 г. за изискванията към фондовете за извършване на плащания (ДВ, бр. 61 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244327)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -151,6 +151,25 @@
 
 Act id: `naredba-2013-dv096-79958` (tags `naredba-2013-dv096-79958/<day>`; `python tools/on.py <day> naredba-2013-dv096-79958`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 9 от 2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118939)
+- [Наредба за допълнение на Наредба № 9 от 2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121035)
+- [Наредба за изменение и допълнение на Наредба № 9 от 17.10.2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 12 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205802)
+- [Наредба за изменение и допълнение на Наредба № 9 от 17.10.2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 73 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245178)
+
+Cited by:
+
+- [Постановление № 106 от 29 април 2015 г. за приемане на Устройствен правилник на Изпълнителна агенция "Морска администрация" (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94197)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2001 г. за реда за посещение, маневриране и престой на корабите в пристанищата и рейдовете, за товарене и разтоварване, за качване на кораба и слизане на брега на екипажа, на пътниците или други лица, както и за връзка на кораба с брега (ДВ, бр. 52 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105195)
+- [Наредба за изменение и допълнение на Наредба № 16 от 2006 г. за обработка и превоз на опасни и/или замърсяващи товари по море и на опасни товари по вътрешни водни пътища (ДВ, бр. 45 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114911)
+- [Наредба № 8 от 27 април 2020 г. за преместваемите обекти и за информационните, рекламните и монументално-декоративните елементи на територията на пристанищата (ДВ, бр. 41 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147686)
+- [Наредба № 15 от 17 януари 2024 г. за предаване и приемане на отпадъци от кораби (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203840)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

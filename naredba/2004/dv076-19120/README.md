@@ -13,6 +13,19 @@
 
 Act id: `naredba-2004-dv076-19120` (tags `naredba-2004-dv076-19120/<day>`; `python tools/on.py <day> naredba-2004-dv076-19120`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 23 от 2004 г. за утвърждаване на медицински стандарт "Очни болести" (ДВ, бр. 85 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18715)
+
+Cited by:
+
+- [Наредба № 19 от 27 август 2008 г. за устройството и дейността на оптиките, здравните изисквания към тях и реда за водене на регистър на оптиките (ДВ, бр. 79 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8456)
+- [Наредба № 36 от 6 август 2010 г. за утвърждаване на медицински стандарт "Очни болести" (ДВ, бр. 66 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35940)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

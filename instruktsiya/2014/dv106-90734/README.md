@@ -57,6 +57,19 @@
 
 Act id: `instruktsiya-2014-dv106-90734` (tags `instruktsiya-2014-dv106-90734/<day>`; `python tools/on.py <day> instruktsiya-2014-dv106-90734`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-988 от 2014 г. за осигуряване на обществения ред при провеждане на мероприятия (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96575)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-988 от 12 декември 2014 г. за осигуряване на обществения ред при провеждане на мероприятия (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173736)
+
+Cited by:
+
+- [Наредба за допълнение на Наредба № 8121з-418 от 14 март 2017 г. за реда за употреба на физическа сила и помощни средства от служителите на Министерството на вътрешните работи (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173737)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

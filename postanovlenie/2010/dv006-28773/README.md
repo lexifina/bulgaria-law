@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2010-dv006-28773` (tags `postanovlenie-2010-dv006-28773/<day>`; `python tools/on.py <day> postanovlenie-2010-dv006-28773`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 23 от 24 февруари 2010 г. за изменение и допълнение на Постановление № 3 на Министерския съвет от 2010 г. за предоставяне на безвъзмездна хуманитарна помощ във вид на имущество за пострадалото население на Република Хаити от разрушителното земетресение на 12 януари 2010 г. (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30411)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

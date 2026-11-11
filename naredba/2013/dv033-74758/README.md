@@ -222,6 +222,25 @@
 
 Act id: `naredba-2013-dv033-74758` (tags `naredba-2013-dv033-74758/<day>`; `python tools/on.py <day> naredba-2013-dv033-74758`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 98 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143546)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 111 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154754)
+- [Наредба за изменение и допълнение на Наредба № 3 от 21.03.2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160537)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171292)
+- [Наредба за изменение и допълнение на Наредба № 3 от 21.03.2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 18 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187080)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 52 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127507)
+- [Наредба за изменение и допълнение на Наредба № 6 от 24.02.2014 г. за присъединяване на производители и клиенти на електрическа енергия към преносната или към разпределителните електрически мрежи (ДВ, бр. 55 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196632)
+- [Наредба № 6 от 28 март 2024 г. за присъединяване на обекти към електрическите мрежи (ДВ, бр. 28 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211280)
+- [Наредба за изменение и допълнение на Наредба № 6 от 28.03.2024 г. за присъединяване на обекти към електрическите мрежи (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

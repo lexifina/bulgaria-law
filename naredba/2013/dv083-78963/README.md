@@ -63,6 +63,15 @@
 
 Act id: `naredba-2013-dv083-78963` (tags `naredba-2013-dv083-78963/<day>`; `python tools/on.py <day> naredba-2013-dv083-78963`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-1 от 19 януари 2017 г. за планиране и проектиране на строежи, предназначени за производство, съхранение и търговия на оръжия, боеприпаси, взривни вещества и пиротехнически изделия (ДВ, бр. 11 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111480)
+- [Наредба № РД-02-20-3 от 1 февруари 2021 г. за условията и реда за изграждане и експлоатация на спортни обекти - открити спортни стрелбища, извън урбанизираните територии (ДВ, бр. 13 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155784)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -34,6 +34,19 @@
 
 Act id: `postanovlenie-2016-dv055-105754` (tags `postanovlenie-2016-dv055-105754/<day>`; `python tools/on.py <day> postanovlenie-2016-dv055-105754`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 336 от 2 декември 2016 г. за изменение на Устройствения правилник на Националния център по подготовката и провеждането на Българското председателство на Съвета на Европейския съюз през 2018 г., приет с Постановление № 171 на Министерския съвет от 2016 г. (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109972)
+
+Cited by:
+
+- [Постановление № 258 от 30 септември 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 79 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108017)
+- [Постановление № 100 от 31 май 2017 г. за приемане на Устройствен правилник на Министерството за Българското председателство на Съвета на Европейския съюз 2018 (ДВ, бр. 44 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114903)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

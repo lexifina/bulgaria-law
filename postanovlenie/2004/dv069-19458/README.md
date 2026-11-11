@@ -33,6 +33,19 @@
 
 Act id: `postanovlenie-2004-dv069-19458` (tags `postanovlenie-2004-dv069-19458/<day>`; `python tools/on.py <day> postanovlenie-2004-dv069-19458`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 356 от 27 декември 2004 г. за изменение и допълнение на Наредбата за изискванията към етикетирането, маркировката и външното оформление на тютюневите изделия и за определяне на стандарти за извършване на оценка на съответствието на съдържанието на вредни съставки в цигарите, приета с Постановление № 184 на Министерския съвет от 2004 г. (ДВ, бр. 2 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14630)
+- [Постановление № 237 от 17 октомври 2013 г. за изменение на Наредбата за изискванията към етикетирането, маркировката и външното оформление на тютюневите изделия и за определяне на стандарти за извършване на оценка на съответствието на съдържанието на вредни съставки в цигарите, приета с Постановление № 184 на Министерския съвет от 2004 г. (ДВ, бр. 92 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79792)
+
+Cited by:
+
+- [Постановление № 249 от 27 септември 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за тютюна и тютюневите изделия, приет с Постановление № 39 на Министерския съвет от 1994 г. (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107926)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

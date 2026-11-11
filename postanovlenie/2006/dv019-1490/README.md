@@ -80,6 +80,20 @@
 
 Act id: `postanovlenie-2006-dv019-1490` (tags `postanovlenie-2006-dv019-1490/<day>`; `python tools/on.py <day> postanovlenie-2006-dv019-1490`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 221 от 22 август 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 71 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2465)
+- [Постановление № 85 от 17 април 2007 г. за организация и координация по въпросите на Европейския съюз (ДВ, бр. 35 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3567)
+- [Постановление № 206 от 5 септември 2007 г. за изменение на Устройствения правилник на Министерството на външните работи, приет с Постановление № 34 на Министерския съвет от 2006 г. (ДВ, бр. 75 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4133)
+- [Постановление № 280 от 22 ноември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4486)
+- [Постановление № 161 от 7 юли 2008 г. за приемане на Устройствен правилник на Министерството на външните работи и за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6283)
+- [Поправка в Постановление № 34 на Министерския съвет от 2006 г. за приемане на Устройствен правилник на Министерството на външните работи (ДВ, бр. 19 от 2006 г.) (ДВ, бр. 21 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54710)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -76,6 +76,23 @@
 
 Act id: `postanovlenie-2020-dv002-144374` (tags `postanovlenie-2020-dv002-144374/<day>`; `python tools/on.py <day> postanovlenie-2020-dv002-144374`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 75 от 23 април 2020 г. за допълнение на Постановление № 381 на Министерския съвет от 2019 г. за изпълнението на държавния бюджет на Република България за 2020 г. (ДВ, бр. 39 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147618)
+- [Постановление № 310 от 20 ноември 2020 г. за допълнение на Постановление № 381 на Министерския съвет от 2019 г. за изпълнението на държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153921)
+
+Cited by:
+
+- [Постановление № 13 от 28 януари 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145556)
+- [Постановление № 40 от 8 март 2020 г. за одобряване на допълнителни разходи от резерва по чл. 1, ал. 2, раздел ІІ, т. 5.1 от Закона за държавния бюджет на Република България за 2020 г. за непредвидени и/или неотложни разходи за предотвратяване, овладяване и преодоляване на последиците от бедствия по бюджета на Министерството на здравеопазването за 2020 г. (ДВ, бр. 20 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146756)
+- [Постановление № 132 от 18 юни 2020 г. за одобряване на допълнителни разходи/трансфери за 2020 г. (ДВ, бр. 56 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149223)
+- [Постановление № 360 от 10 декември 2020 г. за одобряване на допълнителни разходи/трансфери за 2020 г. (ДВ, бр. 106 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154430)
+- [Постановление № 382 от 18 декември 2020 г. за одобряване на допълнителни трансфери за 2020 г. (ДВ, бр. 108 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154599)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

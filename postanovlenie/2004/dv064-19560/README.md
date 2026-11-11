@@ -71,6 +71,20 @@
 
 Act id: `postanovlenie-2004-dv064-19560` (tags `postanovlenie-2004-dv064-19560/<day>`; `python tools/on.py <day> postanovlenie-2004-dv064-19560`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 218 от 14 октомври 2005 г. за изменение и допълнение на Наредбата за условията и реда за извършване на надзор на пазара, приета с Постановление № 110 на Министерския съвет от 2003 г. (ДВ, бр. 85 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=966)
+- [Постановление № 52 от 10 март 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1560)
+- [Постановление № 109 от 8 май 2006 г. за приемане на Устройствен правилник на Българския институт по метрология (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1893)
+- [Постановление № 94 от 25 април 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 37 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3621)
+- [Постановление № 149 от 10 юни 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85763)
+- [Постановление № 186 от 4 юли 2014 г. за приемане на Наредба за безопасната експлоатация и техническия надзор на въжени линии (ДВ, бр. 58 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86375)
+- [Постановление № 200 от 21 септември 2017 г. за приемане на Наредба за съществените изисквания и оценяване на съответствието на подсистемите и предпазните устройства за въжени линии (ДВ, бр. 78 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118219)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

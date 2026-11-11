@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2016-dv026-102242` (tags `postanovlenie-2016-dv026-102242/<day>`; `python tools/on.py <day> postanovlenie-2016-dv026-102242`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 107 от 5 май 2016 г. за изменение на Тарифата за таксите, които се заплащат за разрешените ползвания в защитени територии - изключителна държавна собственост, приета с Постановление № 63 на Министерския съвет от 2016 г. (ДВ, бр. 35 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103496)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

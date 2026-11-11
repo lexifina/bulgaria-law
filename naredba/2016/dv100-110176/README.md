@@ -43,6 +43,14 @@
 
 Act id: `naredba-2016-dv100-110176` (tags `naredba-2016-dv100-110176/<day>`; `python tools/on.py <day> naredba-2016-dv100-110176`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 16 от 2016 г. за управлението на качеството в институциите, на Наредба № 7 от 2000 г. за определяне броя на паралелките и групите и броя на учениците и на децата в паралелките и в групите на училищата, детските градини и обслужващите звена и на Наредба № 1 от 2009 г. за обучението на деца и ученици със специални образователни потребности и/или с хронични заболявания (ДВ, бр. 100 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120711)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

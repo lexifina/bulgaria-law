@@ -26,6 +26,15 @@
 
 Act id: `naredba-2010-dv090-39837` (tags `naredba-2010-dv090-39837/<day>`; `python tools/on.py <day> naredba-2010-dv090-39837`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 42 от 2010 г. за изграждането и поддържането на информационна система за оценка, управление и контрол на риска, в т.ч. за издаване на полици по задължителните застраховки по чл. 249, т. 1 от Кодекса за застраховането (ДВ, бр. 55 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54670)
+- [Наредба за отменяне на Наредба № 42 от 2010 г. за изграждането и поддържането на информационна система за оценка, управление и контрол на риска, в т.ч. за издаване на полици по задължителните застраховки по чл. 249, т. 1 и 2 от Кодекса за застраховането (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112145)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

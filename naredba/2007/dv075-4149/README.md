@@ -33,6 +33,18 @@
 
 Act id: `naredba-2007-dv075-4149` (tags `naredba-2007-dv075-4149/<day>`; `python tools/on.py <day> naredba-2007-dv075-4149`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отмeняне на Наредба № Iз-1457 от 2007 г. за условията и реда за привличане на граждани и неправителствени организации, които на доброволни начала да помагат за изпълнение на законово определените функции на Национална служба "Полиция" (ДВ, бр. 86 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108542)
+
+Cited by:
+
+- [Инструкция № Iз-507 от 26 март 2008 г. за осъществяване на прием на граждани и подкрепа на жертви на престъпления в структурните звена на Национална служба "Полиция" (ДВ, бр. 38 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5088)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -33,6 +33,21 @@
 
 Act id: `zakon-2006-dv105-3008` (tags `zakon-2006-dv105-3008/<day>`; `python tools/on.py <day> zakon-2006-dv105-3008`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за бюджета на Националната здравноосигурителна каса за 2007 г. (ДВ, бр. 98 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4451)
+
+Cited by:
+
+- [Решение № 2 от 22 февруари 2007 г. по конституционно дело № 12 от 2006 г. (ДВ, бр. 20 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3367)
+- [Решение № 3 от 13 март 2007 г. по конституционно дело № 2 от 2007 г. (ДВ, бр. 26 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3455)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 102 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144176)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 102 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157226)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

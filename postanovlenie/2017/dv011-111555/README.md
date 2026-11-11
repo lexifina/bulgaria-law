@@ -61,6 +61,17 @@
 
 Act id: `postanovlenie-2017-dv011-111555` (tags `postanovlenie-2017-dv011-111555/<day>`; `python tools/on.py <day> postanovlenie-2017-dv011-111555`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 91 от 29 май 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 47 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127013)
+- [Постановление № 420 от 31 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154886)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+- [Наредба № Н-4 от 2 юни 2023 г. за условията и изискванията, на които трябва да отговарят площадките за съхраняване или третиране на отпадъци, за разполагане на съоръжения за третиране на отпадъци и за транспортиране на производствени и опасни отпадъци (ДВ, бр. 52 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196184)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -19,6 +19,15 @@
 
 Act id: `postanovlenie-2011-dv083-57822` (tags `postanovlenie-2011-dv083-57822/<day>`; `python tools/on.py <day> postanovlenie-2011-dv083-57822`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 105 от 27 май 2020 г. за приемане на Наредба за планиране на граждански ресурси за отбрана (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148481)
+- [Постановление № 342 от 15 октомври 2021 г. за възлагане на военновременни задачи по отбраната на страната на държавните органи, органите на местното самоуправление и местната администрация (ДВ, бр. 88 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163524)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

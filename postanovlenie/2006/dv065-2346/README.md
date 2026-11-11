@@ -29,6 +29,21 @@
 
 Act id: `postanovlenie-2006-dv065-2346` (tags `postanovlenie-2006-dv065-2346/<day>`; `python tools/on.py <day> postanovlenie-2006-dv065-2346`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 374 от 29 декември 2006 г. за изменение на Наредбата за изискванията за етикетиране на битови уреди по отношение на консумацията на енергия и други ресурси, приета с Постановление № 187 на Министерския съвет от 2006 г. (ДВ, бр. 4 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3114)
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 140 от 17 май 2011 г. за приемане на Наредба за изискванията за етикетиране и предоставяне на стандартна информация за продукти, свързани с енергопотреблението, по отношение на консумацията на енергия и на други ресурси (ДВ, бр. 41 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50476)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 224 от 20 август 2020 г. за приемане на Наредба за енергийното етикетиране на продукти, свързани с енергопотреблението (ДВ, бр. 75 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

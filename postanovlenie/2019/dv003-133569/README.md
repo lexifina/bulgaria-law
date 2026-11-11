@@ -119,6 +119,21 @@
 
 Act id: `postanovlenie-2019-dv003-133569` (tags `postanovlenie-2019-dv003-133569/<day>`; `python tools/on.py <day> postanovlenie-2019-dv003-133569`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 42 от 10 март 2020 г. за изменение и допълнение на Правилника за прилагане на Закона за мерките срещу изпирането на пари, приет с Постановление № 357 на Министерския съвет от 2018 г. (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146798)
+- [Постановление № 204 от 19 октомври 2023 г. за изменение на Правилника за прилагане на Закона за мерките срещу изпирането на пари (ДВ, бр. 89 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200777)
+- [Постановление № 150 от 29 април 2024 г. за изменение и допълнение на Правилника за прилагане на Закона за мерките срещу изпирането на пари, приет с Постановление № 357 на Министерския съвет от 2018 г. (ДВ, бр. 39 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214556)
+
+Cited by:
+
+- [адм. дело № 2723/2019 г. (ДВ, бр. 56 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139550)
+- [Постановление № 17 от 6 февруари 2020 г. за изменение и допълнение на Правилника за прилагане на Закона за Държавна агенция "Национална сигурност", приет с Постановление № 23 на Министерския съвет от 2008 г. (ДВ, бр. 12 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145841)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -10,6 +10,14 @@
 
 Act id: `zakon-2016-dv086-62040` (tags `zakon-2016-dv086-62040/<day>`; `python tools/on.py <day> zakon-2016-dv086-62040`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 53 от 20 март 2024 г. за изменение и допълнение на Наредбата за критериите за устойчивост на биогоривата и течните горива от биомаса, приета с Постановление № 302 на Министерския съвет от 2012 г. (ДВ, бр. 26 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=210360)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

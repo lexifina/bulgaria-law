@@ -19,6 +19,15 @@
 
 Act id: `postanovlenie-2004-dv111-18076` (tags `postanovlenie-2004-dv111-18076/<day>`; `python tools/on.py <day> postanovlenie-2004-dv111-18076`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за държавния бюджет на Република България за 2006 г. (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1224)
+- [Закон за държавния бюджет на Република България за 2007 г. (ДВ, бр. 108 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3060)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

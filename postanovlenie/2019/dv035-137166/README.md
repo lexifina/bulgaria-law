@@ -31,6 +31,15 @@
 
 Act id: `postanovlenie-2019-dv035-137166` (tags `postanovlenie-2019-dv035-137166/<day>`; `python tools/on.py <day> postanovlenie-2019-dv035-137166`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 289 от 25 август 2021 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за лечебните заведения и Закона за трансплантация на органи, тъкани и клетки, приета с Постановление № 88 на Министерския съвет от 2019 г. (ДВ, бр. 71 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161108)
+- [Постановление № 50 от 23 април 2026 г. за изменение на Тарифата за таксите, които се събират по Закона за лечебните заведения и Закона за трансплантация на органи, тъкани и клетки, приета с Постановление № 88 на Министерския съвет от 2019 г. (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243063)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

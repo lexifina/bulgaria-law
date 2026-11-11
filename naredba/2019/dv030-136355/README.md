@@ -90,6 +90,15 @@
 
 Act id: `naredba-2019-dv030-136355` (tags `naredba-2019-dv030-136355/<day>`; `python tools/on.py <day> naredba-2019-dv030-136355`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179036)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 89 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238197)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

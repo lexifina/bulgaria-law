@@ -78,6 +78,29 @@
 
 Act id: `postanovlenie-2006-dv022-1534` (tags `postanovlenie-2006-dv022-1534/<day>`; `python tools/on.py <day> postanovlenie-2006-dv022-1534`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 98 от 2 май 2006 г. за изменение на Постановление № 43 на Министерския съвет от 2006 г. за приемане на Устройствен правилник на Министерството на здравеопазването (ДВ, бр. 39 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1869)
+- [Постановление № 32 от 22 февруари 2008 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 43 на Министерския съвет от 2006 г. (ДВ, бр. 24 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4891)
+- [Постановление № 65 от 28 март 2008 г. за изменение на Постановление № 43 на Министерския съвет от 2006 г. за приемане на Устройствен правилник на Министерството на здравеопазването (ДВ, бр. 34 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5026)
+- [Постановление № 48 от 4 март 2009 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 43 на Министерския съвет от 2006 г. (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16983)
+- [Постановление № 73 от 30 март 2009 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 43 на Министерския съвет от 2006 г. (ДВ, бр. 26 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18218)
+- [Постановление № 256 от 28 октомври 2009 г. за приемане на Устройствен правилник на Министерството на здравеопазването (ДВ, бр. 88 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26443)
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 298 от 6 ноември 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 93 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2832)
+- [Постановление № 208 от 5 септември 2007 г. за структурни промени в системата на здравеопазването (ДВ, бр. 75 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4135)
+- [Постановление № 263 от 5 ноември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 92 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4397)
+- [Постановление № 84 от 24 април 2008 г. за приемане на Устройствен правилник на Изпълнителната агенция по лекарствата (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5205)
+- [Постановление № 25 от 9 февруари 2009 г. за създаване на Център "Фонд за асистирана репродукция" (ДВ, бр. 13 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15951)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

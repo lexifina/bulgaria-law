@@ -22,6 +22,14 @@
 
 Act id: `naredba-2004-dv065-19539` (tags `naredba-2004-dv065-19539/<day>`; `python tools/on.py <day> naredba-2004-dv065-19539`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2003 г. за начина и реда за оценка на активите и пасивите на фондовете за допълнително пенсионно осигуряване и на пенсионноосигурителното дружество, на стойността на нетните активи на фонда, за изчисляване и обявяване на стойността на един дял и за изискванията към воденето на индивидуалните партиди (ДВ, бр. 57 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=578)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

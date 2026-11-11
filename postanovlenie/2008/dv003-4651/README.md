@@ -45,6 +45,23 @@
 
 Act id: `postanovlenie-2008-dv003-4651` (tags `postanovlenie-2008-dv003-4651/<day>`; `python tools/on.py <day> postanovlenie-2008-dv003-4651`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 82 от 22 април 2008 г. за приемане на Наредба за условията и реда за издаване на визи и определяне на визовия режим (ДВ, бр. 44 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5197)
+- [Постановление № 100 от 24 април 2009 г. за изменение и допълнение на Тарифа № 3 за таксите, които се събират за консулско обслужване в системата на Министерството на външните работи по Закона за държавните такси, приета с Постановление № 333 на Министерския съвет от 2007 г. (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19978)
+- [Постановление № 25 от 26 февруари 2010 г. за изменение и допълнение на Тарифа № 4 за таксите, които се събират в системата на Министерството на вътрешните работи по Закона за държавните такси, одобрена с Постановление № 53 на Министерския съвет от 1998 г. (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30523)
+- [Постановление № 79 от 23 април 2010 г. за изменение и допълнение на Тарифа № 3 за таксите, които се събират за консулско обслужване в системата на Министерството на външните работи по Закона за държавните такси, приета с Постановление № 333 на Министерския съвет от 2007 г. (ДВ, бр. 34 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32406)
+- [Постановление № 390 от 30 декември 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 4 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99897)
+- [Постановление № 224 от 1 септември 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107302)
+- [Постановление № 189 от 5 септември 2018 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 75 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129930)
+- [Постановление № 243 от 22 юли 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160392)
+- [Постановление № 221 от 24 октомври 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 90 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238452)
+- [Постановление № 48 от 22 април 2026 г. за изменение и допълнение на нормативни актове (ДВ, бр. 38 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243034)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

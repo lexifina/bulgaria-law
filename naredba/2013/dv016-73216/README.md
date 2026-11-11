@@ -89,6 +89,16 @@
 
 Act id: `naredba-2013-dv016-73216` (tags `naredba-2013-dv016-73216/<day>`; `python tools/on.py <day> naredba-2013-dv016-73216`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Първоначално залесяване на неземеделски земи" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80935)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Възстановяване на горския потенциал и въвеждане на превантивни дейности" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80937)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Първоначално залесяване на неземеделски земи" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 24 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93350)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

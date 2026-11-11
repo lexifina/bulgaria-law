@@ -78,6 +78,23 @@
 
 Act id: `naredba-2017-dv025-112874` (tags `naredba-2017-dv025-112874/<day>`; `python tools/on.py <day> naredba-2017-dv025-112874`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 52 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127507)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 50 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138907)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148351)
+- [Наредба за изменение и допълнение на Наредба № 1 от 14.03.2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214900)
+- [Наредба за изменение и допълнение на Наредба № 1 от 14.03.2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235647)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 21.03.2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160537)
+- [Наредба за изменение и допълнение на Наредба № 6 от 28.03.2024 г. за присъединяване на обекти към електрическите мрежи (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

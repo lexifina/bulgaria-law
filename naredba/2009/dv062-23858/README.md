@@ -68,6 +68,25 @@
 
 Act id: `naredba-2009-dv062-23858` (tags `naredba-2009-dv062-23858/<day>`; `python tools/on.py <day> naredba-2009-dv062-23858`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2009 г. за условията и реда за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 48 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52678)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2009 г. за условията и реда за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66661)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2009 г. за условията и реда за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 69 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107169)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2009 г. за условията и реда за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 30 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113390)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2007 г. за реда и условията за придобиване, регистриране, изплащане и търговия с държавни ценни книжа (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80294)
+- [Наредба № 8121з-444 от 3 май 2016 г. за организацията и контрола по обезпечаването на сигурността на банките и финансовите институции (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103510)
+- [Наредба № 16 от 29 март 2018 г. за издаване на лицензи и одобрения, за вписване в регистъра по чл. 19 от Закона за платежните услуги и платежните системи и за изискванията към дейността на операторите на платежни системи с окончателност на сетълмента (ДВ, бр. 32 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125101)
+- [Наредба № 3 от 18 април 2018 г. за условията и реда за откриване на платежни сметки, за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125865)
+- [Наредба за изменение и допълнение на Наредба № 8121з-444 от 3 май 2016 г. за организацията и контрола по обезпечаването на сигурността на банките и финансовите институции (ДВ, бр. 88 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229354)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

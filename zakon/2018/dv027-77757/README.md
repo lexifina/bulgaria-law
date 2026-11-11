@@ -198,9 +198,78 @@
 
 Act id: `zakon-2018-dv027-77757` (tags `zakon-2018-dv027-77757/<day>`; `python tools/on.py <day> zakon-2018-dv027-77757`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 102 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14088)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 42 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156978)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157059)
+- [Закон за изменение на Закона за мерките срещу изпирането на пари (ДВ, бр. 7 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163455)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163473)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 60 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164769)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165056)
+
+Cited by:
+
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131638)
+- [Постановление № 357 от 31 декември 2018 г. за приемане на Правилник за прилагане на Закона за мерките срещу изпирането на пари (ДВ, бр. 3 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133569)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 34 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136814)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137217)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137772)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143043)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 18 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146352)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150054)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150150)
+- [Закон за изменение на Закона за мерките срещу изпирането на пари (ДВ, бр. 7 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155093)
+- [Закон за изменение и допълнение на Закона за концесиите (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155952)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156356)
+- [Закон за покритите облигации (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171269)
+- [Закон за изменение и допълнение на Закона за съдебната власт (ДВ, бр. 32 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172209)
+- [Определение № 6 от 16 септември 2022 г. по конституционно дело № 13 от 2022 г. (ДВ, бр. 77 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178226)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 60 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196883)
+- [Закон за изменение и допълнение на Валутния закон (ДВ, бр. 82 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199800)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199877)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235308)
+- [Закон за лицата, обслужващи кредити, и купувачите на кредити (ДВ, бр. 50 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235337)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235621)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Решение № 11 от 9 юли 2026 г. по конституционно дело № 6 от 2025 г. (ДВ, бр. 65 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244697)
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78098)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 34 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156869)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 37 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156828)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 42 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156978)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157059)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 18 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157277)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157467)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157492)
+- [Закон за изменение на Закона за мерките срещу изпирането на пари (ДВ, бр. 7 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163455)
+- [Закон за изменение и допълнение на Закона за концесиите (ДВ, бр. 17 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163492)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163473)
+- [Закон за покритите облигации (ДВ, бр. 25 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163886)
+- [Закон за изменение и допълнение на Закона за съдебната власт (ДВ, бр. 32 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164064)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 60 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164769)
+- [Закон за изменение и допълнение на Валутния закон (ДВ, бр. 82 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165055)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165056)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166129)
+- [Закон за лицата, обслужващи кредити, и купувачите на кредити (ДВ, бр. 50 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165829)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165936)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

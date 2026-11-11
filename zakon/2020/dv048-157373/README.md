@@ -9,6 +9,15 @@
 
 Act id: `zakon-2020-dv048-157373` (tags `zakon-2020-dv048-157373/<day>`; `python tools/on.py <day> zakon-2020-dv048-157373`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 3795-П от 9 юни 2022 г. (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174172)
+- [Решение № 3807-П от 14 октомври 2022 г. (ДВ, бр. 86 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179174)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

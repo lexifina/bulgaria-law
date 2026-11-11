@@ -19,6 +19,15 @@
 
 Act id: `postanovlenie-2009-dv097-27385` (tags `postanovlenie-2009-dv097-27385/<day>`; `python tools/on.py <day> postanovlenie-2009-dv097-27385`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 30 от 10 февруари 2011 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 15 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44815)
+- [Постановление № 277 от 6 октомври 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57516)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -53,6 +53,19 @@
 
 Act id: `naredba-2018-dv098-132170` (tags `naredba-2018-dv098-132170/<day>`; `python tools/on.py <day> naredba-2018-dv098-132170`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за здравните изисквания към гробищни паркове (гробища) и погребването и пренасянето на покойници (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143362)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151388)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152389)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152390)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 108 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231525)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 72 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

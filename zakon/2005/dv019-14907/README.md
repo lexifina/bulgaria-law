@@ -118,6 +118,24 @@
 
 Act id: `zakon-2005-dv019-14907` (tags `zakon-2005-dv019-14907/<day>`; `python tools/on.py <day> zakon-2005-dv019-14907`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за управление при кризи (ДВ, бр. 102 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2972)
+
+Cited by:
+
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 17 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1458)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за експортния контрол на оръжия и изделия и технологии с двойна употреба (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3217)
+- [Закон за електронните съобщения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690)
+- [Закон за дипломатическата служба (ДВ, бр. 78 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4183)
+- [Закон за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 102 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12062)
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

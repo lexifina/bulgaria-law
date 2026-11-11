@@ -50,6 +50,20 @@
 
 Act id: `postanovlenie-2019-dv102-144313` (tags `postanovlenie-2019-dv102-144313/<day>`; `python tools/on.py <day> postanovlenie-2019-dv102-144313`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 112 от 11 август 2023 г. за изменение и допълнение на Правилника за организацията и дейността на Съвета по киберсигурността, приет с Постановление № 375 на Министерския съвет от 2019 г. (ДВ, бр. 71 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198645)
+
+Cited by:
+
+- [Постановление № 316 от 20 ноември 2020 г. за приемане на Правилник за устройството и дейността на Служба "Военно разузнаване" (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153969)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 134 от 20 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

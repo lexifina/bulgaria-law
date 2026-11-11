@@ -39,6 +39,18 @@
 
 Act id: `postanovlenie-2006-dv065-2347` (tags `postanovlenie-2006-dv065-2347/<day>`; `python tools/on.py <day> postanovlenie-2006-dv065-2347`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 374 от 29 декември 2006 г. за изменение на Наредбата за изискванията за етикетиране на битови уреди по отношение на консумацията на енергия и други ресурси, приета с Постановление № 187 на Министерския съвет от 2006 г. (ДВ, бр. 4 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3114)
+
+Cited by:
+
+- [Постановление № 140 от 17 май 2011 г. за приемане на Наредба за изискванията за етикетиране и предоставяне на стандартна информация за продукти, свързани с енергопотреблението, по отношение на консумацията на енергия и на други ресурси (ДВ, бр. 41 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50476)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

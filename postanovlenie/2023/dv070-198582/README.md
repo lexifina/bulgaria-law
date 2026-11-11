@@ -61,6 +61,18 @@
 
 Act id: `postanovlenie-2023-dv070-198582` (tags `postanovlenie-2023-dv070-198582/<day>`; `python tools/on.py <day> postanovlenie-2023-dv070-198582`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 399 от 21 ноември 2024 г. за изменение и допълнение на Наредбата за администриране на нередности по Европейските фондове при споделено управление, приета с Постановление № 111 на Министерския съвет от 2023 г. (ДВ, бр. 100 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230810)
+
+Cited by:
+
+- [Постановление № 9 от 15 януари 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240709)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

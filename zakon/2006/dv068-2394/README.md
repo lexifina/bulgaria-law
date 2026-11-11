@@ -28,6 +28,37 @@
 
 Act id: `zakon-2006-dv068-2394` (tags `zakon-2006-dv068-2394/<day>`; `python tools/on.py <day> zakon-2006-dv068-2394`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за договорите за финансово обезпечение (ДВ, бр. 67 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236530)
+- [Закон за изменение и допълнение на Закона за договорите за финансово обезпечение (ДВ, бр. 67 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165926)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 24 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17812)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42157)
+- [Закон за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 77 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57010)
+- [Закон за изменение и допълнение на Закона за допълнителния надзор върху финансовите конгломерати (ДВ, бр. 70 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77881)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 109 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81260)
+- [Закон за гарантиране на влоговете в банките (ДВ, бр. 62 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96408)
+- [Закон за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 62 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96409)
+- [Кодекс за застраховането (ДВ, бр. 102 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99637)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142074)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 8 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184766)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10062)
+- [Закон за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 77 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13584)
+- [Закон за изменение и допълнение на Закона за допълнителния надзор върху финансовите конгломерати (ДВ, бр. 70 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14420)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14624)
+- [Закон за гарантиране на влоговете в банките (ДВ, бр. 62 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15143)
+- [Закон за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 62 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15435)
+- [Кодекс за застраховането (ДВ, бр. 102 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15535)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157133)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 8 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164371)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

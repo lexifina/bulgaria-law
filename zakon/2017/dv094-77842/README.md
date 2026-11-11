@@ -9,6 +9,15 @@
 
 Act id: `zakon-2017-dv094-77842` (tags `zakon-2017-dv094-77842/<day>`; `python tools/on.py <day> zakon-2017-dv094-77842`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 3553-П от 31 октомври 2018 г. (ДВ, бр. 95 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131815)
+- [Решение № 3562-П от 25 януари 2019 г. (ДВ, бр. 12 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134439)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

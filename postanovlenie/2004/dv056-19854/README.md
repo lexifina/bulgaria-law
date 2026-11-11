@@ -23,6 +23,18 @@
 
 Act id: `postanovlenie-2004-dv056-19854` (tags `postanovlenie-2004-dv056-19854/<day>`; `python tools/on.py <day> postanovlenie-2004-dv056-19854`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 223 от 21 октомври 2005 г. за изменение и допълнение на Наредбата за държавните изисквания за придобиване на висше образование по специалността "Ветеринарна медицина", приета с Постановление № 136 на Министерския съвет от 2004 г. (ДВ, бр. 87 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=986)
+
+Cited by:
+
+- [Постановление № 17 от 28 януари 2016 г. за приемане на Наредба за държавните изисквания за придобиване на висше образование на образователно-квалификационна степен "магистър" по специалността "Ветеринарна медицина" (ДВ, бр. 9 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

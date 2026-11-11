@@ -105,6 +105,21 @@
 
 Act id: `naredba-2012-dv011-61060` (tags `naredba-2012-dv011-61060/<day>`; `python tools/on.py <day> naredba-2012-dv011-61060`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2012 г. за контрола и опазването на горските територии (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97820)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2012 г. за контрола и опазването на горските територии (ДВ, бр. 66 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106776)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2012 г. за контрола и опазването на горските територии (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142650)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2012 г. за контрола и опазването на горските територии (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235767)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2011 г. за сечите в горите (ДВ, бр. 49 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235350)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

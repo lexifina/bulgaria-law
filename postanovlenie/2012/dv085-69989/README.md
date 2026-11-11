@@ -46,6 +46,21 @@
 
 Act id: `postanovlenie-2012-dv085-69989` (tags `postanovlenie-2012-dv085-69989/<day>`; `python tools/on.py <day> postanovlenie-2012-dv085-69989`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 269 от 29 ноември 2013 г. за изменение и допълнение на Наредбата за документите, необходими за издаване на лицензи по Закона за хазарта и за даване на разрешения за извършване на промени в тях, приета с Постановление № 270 на Министерския съвет от 2012 г. (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80865)
+- [Постановление № 181 от 18 юли 2016 г. за изменение и допълнение на Наредбата за документите, необходими за издаване на лицензи по Закона за хазарта, приета с Постановление № 270 на Министерския съвет от 2012 г. (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105897)
+- [Постановление № 217 от 29 септември 2017 г. за изменение и допълнение на Наредбата за документите, необходими за издаване на лицензи по Закона за хазарта, приета с Постановление № 270 на Министерския съвет от 2012 г. (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118335)
+- [Постановление № 16 от 21 януари 2021 г. за изменение и допълнение на Наредбата за документите, необходими за издаване на лицензи по Закона за хазарта, приета с Постановление № 270 на Министерския съвет от 2012 г. (ДВ, бр. 7 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155295)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № Н-3 от 2012 г. за воденето, поддържането и подлежащите на вписване обстоятелства в електронните регистри на Държавната комисия по хазарта и за предоставянето на електронни услуги (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78579)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

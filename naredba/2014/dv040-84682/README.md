@@ -71,6 +71,22 @@
 
 Act id: `naredba-2014-dv040-84682` (tags `naredba-2014-dv040-84682/<day>`; `python tools/on.py <day> naredba-2014-dv040-84682`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2014 г. за организацията и управлението на рисковете в банките (ДВ, бр. 40 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137525)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2014 г. за организацията и управлението на рисковете в банките (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155676)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2014 г. за организацията и управлението на рисковете в банките (ДВ, бр. 40 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158118)
+- [Наредба за допълнение на Наредба № 7 от 24 април 2014 г. за организацията и управлението на рисковете в банките (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238671)
+- [Наредба за изменение и допълнение на Наредба № 7 от 24 април 2014 г. за организацията и управлението на рисковете в банките (ДВ, бр. 4 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240415)
+
+Cited by:
+
+- [Наредба № 10 от 24 април 2019 г. за организацията, управлението и вътрешния контрол в банките (ДВ, бр. 40 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137470)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

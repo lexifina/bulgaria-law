@@ -99,6 +99,14 @@
 
 Act id: `postanovlenie-2016-dv027-102285` (tags `postanovlenie-2016-dv027-102285/<day>`; `python tools/on.py <day> postanovlenie-2016-dv027-102285`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 259 от 26 ноември 2025 г. за изменение на Правилника за прилагане на Закона за Държавна агенция "Разузнаване", приет с Постановление № 66 на Министерския съвет от 2016 г. (ДВ, бр. 102 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239270)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

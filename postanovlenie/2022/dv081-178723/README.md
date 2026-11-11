@@ -60,6 +60,19 @@
 
 Act id: `postanovlenie-2022-dv081-178723` (tags `postanovlenie-2022-dv081-178723/<day>`; `python tools/on.py <day> postanovlenie-2022-dv081-178723`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 178 от 22 май 2024 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Главна инспекция по труда", приет с Постановление № 313 на Министерския съвет от 2022 г. (ДВ, бр. 45 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=216587)
+- [Постановление № 194 от 14 октомври 2026 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Главна инспекция по труда", приет с Постановление № 313 на Министерския съвет от 2022 г. (ДВ, бр. 96 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246585)
+
+Cited by:
+
+- [Постановление № 202 от 6 октомври 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 84 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237835)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

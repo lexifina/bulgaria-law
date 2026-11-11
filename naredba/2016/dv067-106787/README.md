@@ -28,6 +28,20 @@
 
 Act id: `naredba-2016-dv067-106787` (tags `naredba-2016-dv067-106787/<day>`; `python tools/on.py <day> naredba-2016-dv067-106787`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2016 г. за профилираната подготовка (ДВ, бр. 80 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151411)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 80 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130334)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 71 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141006)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2016 г. за оценяване на резултатите от обучението на учениците (ДВ, бр. 80 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162301)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

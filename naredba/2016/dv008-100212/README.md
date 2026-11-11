@@ -30,6 +30,17 @@
 
 Act id: `naredba-2016-dv008-100212` (tags `naredba-2016-dv008-100212/<day>`; `python tools/on.py <day> naredba-2016-dv008-100212`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-17 от 2015 г. за условията и реда за приемане на сержанти (старшини) и войници (матроси) за обучение в професионалните сержантски (старшински) колежи (ДВ, бр. 79 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107998)
+- [Наредба за изменение и допълнение на Наредба № Н-17 от 2015 г. за условията и реда за приемане на сержанти (старшини) и войници (матроси) за обучение в професионалните сержантски (старшински) колежи (ДВ, бр. 63 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149734)
+- [Наредба за изменение и допълнение на Наредба № Н-17 от 22.12.2015 г. за условията и реда за приемане на сержанти (старшини) и войници (матроси) за обучение в професионалните сержантски (старшински) колежи (ДВ, бр. 55 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159717)
+- [Наредба за изменение на Наредба № Н-17 от 22.12.2015 г. за условията и реда за приемане на сержанти (старшини) и войници (матроси) за обучение в професионалните сержантски (старшински) колежи (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235543)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

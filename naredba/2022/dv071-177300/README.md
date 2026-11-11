@@ -66,6 +66,14 @@
 
 Act id: `naredba-2022-dv071-177300` (tags `naredba-2022-dv071-177300/<day>`; `python tools/on.py <day> naredba-2022-dv071-177300`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-2 от 24 август 2022 г. за условията и реда за формиране и изплащане на допълнителното възнаграждение за постигнати резултати в служебната дейност на служителите в Главна дирекция "Изпълнение на наказанията" и териториалните й звена (ДВ, бр. 60 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236073)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -56,6 +56,14 @@
 
 Act id: `naredba-2006-dv090-2786` (tags `naredba-2006-dv090-2786/<day>`; `python tools/on.py <day> naredba-2006-dv090-2786`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 14 от 8 май 2009 г. за ограниченията за употребата на определени субстанции с хормонално или тиреостатично действие и на бета-агонисти при животни, от които се добиват суровини и храни, предназначени за консумация от хора (ДВ, бр. 37 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20463)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

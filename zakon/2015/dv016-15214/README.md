@@ -11,9 +11,32 @@
 
 Act id: `zakon-2015-dv016-15214` (tags `zakon-2015-dv016-15214/<day>`; `python tools/on.py <day> zakon-2015-dv016-15214`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 155 от 25 юни 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95527)
+- [Наредба № 16 от 30 юли 2015 г. за прилагане на подмярка 19.1 "Помощ за подготвителни дейности" на мярка 19 "Водено от общностите местно развитие" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 59 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96403)
+- [Наредба № 19 от 12 октомври 2015 г. за реда за контрол на изискванията на схемите за преходна национална помощ (ДВ, бр. 80 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98030)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2015 г. за прилагане на мярка 10 "Агроекология и климат" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112303)
+- [Постановление № 108 от 22 юни 2018 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 54 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127890)
+- [Постановление № 5 от 11 януари 2019 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133853)
+- [Постановление № 23 от 18 февруари 2020 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146266)
+- [Постановление № 125 от 1 април 2021 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 28 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157230)
+- [Заповед № ЛС-04-134 от 1 април 2020 г. (ДВ, бр. 34 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157535)
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 317 от 7 октомври 2022 г. за създаване на Съвет за криминологични изследвания и за приемане на правилник за неговата дейност (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178782)
+- [Наредба № 3 от 15 ноември 2022 г. за прилагане на подмярка 22.1 "Извънредно временно подпомагане за земеделските стопани, които са особено засегнати от последиците от руското нашествие в Украйна" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 92 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180240)
+- [Постановление № 12 от 26 януари 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185265)
+- [Постановление № 276 от 13 декември 2023 г. за приемане на Правилник за устройството, организацията и дейността на Националния съвет за превенция и защита от домашното насилие (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201911)
+- [Постановление № 148 от 1 август 2025 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236590)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

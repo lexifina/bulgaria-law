@@ -15,6 +15,19 @@
 
 Act id: `naredba-2014-dv075-87744` (tags `naredba-2014-dv075-87744/<day>`; `python tools/on.py <day> naredba-2014-dv075-87744`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90744)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102519)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 88 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108759)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 8 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121824)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 8 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134163)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 42 от 2004 г. за въвеждане на Международната статистическа класификация на болестите и проблемите, свързани със здравето - десета ревизия (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148376)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

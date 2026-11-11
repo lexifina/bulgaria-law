@@ -49,6 +49,14 @@
 
 Act id: `naredba-2014-dv085-88546` (tags `naredba-2014-dv085-88546/<day>`; `python tools/on.py <day> naredba-2014-dv085-88546`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-142 от 22 февруари 2016 г. за условията и реда за изпращане на държавни служители от Министерството на вътрешните работи за изпълнение на длъжност в институции или в структури на Европейския съюз и в международни организации (ДВ, бр. 17 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101322)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

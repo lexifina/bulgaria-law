@@ -17,6 +17,16 @@
 
 Act id: `naredba-2018-dv006-121451` (tags `naredba-2018-dv006-121451/<day>`; `python tools/on.py <day> naredba-2018-dv006-121451`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 61 от 2018 г. за изискванията към рекламните и писмените информационни материали и страниците в интернет на пенсионноосигурителните дружества (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137551)
+- [Наредба за изменение и допълнение на Наредба № 63 от 8.11.2018 г. за изискванията към съдържанието, периодичността на изготвяне и сроковете за представяне на отчетите за надзорни цели на пенсионноосигурителните дружества и управляваните от тях фондове (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225380)
+- [Наредба за изменение и допълнение на Наредба № 29 от 12.07.2006 г. за минималното ниво на кредитните рейтинги на банките и за определяне на държавите, международните финансови организации, пазарите и индексите на тези пазари съгласно чл. 176, ал. 3 от Кодекса за социално осигуряване (ДВ, бр. 61 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244328)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

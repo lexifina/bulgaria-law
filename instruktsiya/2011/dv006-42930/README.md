@@ -20,6 +20,14 @@
 
 Act id: `instruktsiya-2011-dv006-42930` (tags `instruktsiya-2011-dv006-42930/<day>`; `python tools/on.py <day> instruktsiya-2011-dv006-42930`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение на Инструкция № Iз-3025 от 2010 г. за условията и реда за определяне на стратегическите зони на стратегическите обекти и зоните, свързани с изпълнението на стратегически дейности от значение за националната сигурност (ДВ, бр. 68 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150115)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

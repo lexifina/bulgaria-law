@@ -154,6 +154,47 @@
 
 Act id: `zakon-2007-dv057-3920` (tags `zakon-2007-dv057-3920/<day>`; `python tools/on.py <day> zakon-2007-dv057-3920`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 78 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25335)
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 103 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28101)
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 59 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35304)
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 78 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9688)
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 103 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9625)
+- [Закон за изменение на Закона за Националния архивен фонд (ДВ, бр. 59 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10055)
+
+Cited by:
+
+- [Постановление № 41 от 18 февруари 2009 г. за приемане на Наредба за реда за организирането, обработването, експертизата, съхраняването и използването на документите в учрежденските архиви на държавните и общинските институции, Наредба за реда за използване на документите от Националния архивен фонд и Наредба за условията и реда за водене на Регистър на Националния архивен фонд (ДВ, бр. 17 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16491)
+- [Закон за културното наследство (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16886)
+- [Закон за обществените библиотеки (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21711)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26792)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26935)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекторати по образованието (ДВ, бр. 29 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31594)
+- [Решение № 8 от 27 май 2010 г. по конституционно дело № 2 от 2010 г. (ДВ, бр. 43 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33380)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 50 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104959)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120212)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169449)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9709)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9689)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 50 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15646)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77756)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163992)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

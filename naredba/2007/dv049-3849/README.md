@@ -50,6 +50,14 @@
 
 Act id: `naredba-2007-dv049-3849` (tags `naredba-2007-dv049-3849/<day>`; `python tools/on.py <day> naredba-2007-dv049-3849`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-8 от 2007 г. за определяне на реда за ползване и заплащане на медицинските дейности в болничните бази по балнеология, рехабилитация и профилактика в състава на Военномедицинска академия (ДВ, бр. 2 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4643)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

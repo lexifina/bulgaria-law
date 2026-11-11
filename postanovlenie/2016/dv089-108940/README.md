@@ -227,6 +227,18 @@
 
 Act id: `postanovlenie-2016-dv089-108940` (tags `postanovlenie-2016-dv089-108940/<day>`; `python tools/on.py <day> postanovlenie-2016-dv089-108940`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за устройството и дейността на Националния дворец на децата (ДВ, бр. 18 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112005)
+- [Правилник за устройството и дейността на астрономическите обсерватории и планетариуми (ДВ, бр. 18 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112006)
+- [Постановление № 78 от 21 април 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за семейни помощи за деца, приет с Постановление № 139 на Министерския съвет от 2002 г. (ДВ, бр. 34 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113875)
+- [Постановление № 232 от 20 октомври 2017 г. за приемане на Наредба за приобщаващото образование (ДВ, бр. 86 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119142)
+- [Постановление № 343 от 21 декември 2018 г. за изменение и допълнение на Правилника за прилагане на Закона за семейни помощи за деца, приет с Постановление № 139 на Министерския съвет от 2002 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133359)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

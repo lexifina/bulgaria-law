@@ -23,6 +23,14 @@
 
 Act id: `postanovlenie-2005-dv061-640` (tags `postanovlenie-2005-dv061-640/<day>`; `python tools/on.py <day> postanovlenie-2005-dv061-640`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 32 от 21 февруари 2006 г. за изменение на Постановление № 163 на Министерския съвет от 2005 г. за определяне възнаграждението на военнослужещите и гражданските лица по Закона за отбраната и въоръжените сили на Република България и на държавните служители - офицери, сержанти и граждански лица, и на лицата, работещи по трудово правоотношение, по Закона за Министерството на вътрешните работи (ДВ, бр. 19 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1488)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -48,6 +48,37 @@
 
 Act id: `zakon-2008-dv043-5134` (tags `zakon-2008-dv043-5134/<day>`; `python tools/on.py <day> zakon-2008-dv043-5134`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за Българската банка за развитие (ДВ, бр. 63 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116687)
+- [Закон за изменение и допълнение на Закона за Българската банка за развитие (ДВ, бр. 63 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77719)
+
+Cited by:
+
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за държавния бюджет на Република България за 2012 г. (ДВ, бр. 99 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59467)
+- [Закон за държавния бюджет на Република България за 2013 г. (ДВ, бр. 102 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71189)
+- [Закон за държавния бюджет на Република България за 2015 г. (ДВ, бр. 107 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90900)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120044)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 22 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170981)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233694)
+- [Закон за изменение и допълнение на Закона за събирането на приходи и извършването на разходи през 2026 г. до приемането на Закона за държавния бюджет на Република България за 2026 г., Закона за бюджета на държавното обществено осигуряване за 2026 г. и Закона за бюджета на Националната здравноосигурителна каса за 2026 г. (ДВ, бр. 30 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242170)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244694)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за държавния бюджет на Република България за 2015 г. (ДВ, бр. 107 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15088)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66626)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 22 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163974)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166100)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167078)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

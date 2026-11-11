@@ -58,6 +58,21 @@
 
 Act id: `pravilnik-2004-dv073-19182` (tags `pravilnik-2004-dv073-19182/<day>`; `python tools/on.py <day> pravilnik-2004-dv073-19182`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника на фонд "Научни изследвания" (ДВ, бр. 104 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1208)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 86 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2732)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 107 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13163)
+- [Инструкция № 3 от 24 август 2004 г. за реда за водене на регистър на научната дейност в Република България (ДВ, бр. 88 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18660)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекторати по образованието (ДВ, бр. 29 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31594)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 49 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76227)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 47 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85455)
+- [Правилник на Фонд "Научни изследвания" (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104115)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

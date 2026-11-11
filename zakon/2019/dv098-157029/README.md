@@ -178,9 +178,28 @@
 
 Act id: `zakon-2019-dv098-157029` (tags `zakon-2019-dv098-157029/<day>`; `python tools/on.py <day> zakon-2019-dv098-157029`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за марките и географските означения (ДВ, бр. 19 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9626)
+- [Закон за изменение и допълнение на Закона за марките и географските означения (ДВ, бр. 61 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77868)
+- [Закон за изменение и допълнение на Закона за марките и географските означения (ДВ, бр. 24 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166678)
+
+Cited by:
+
+- [Постановление № 65 от 10 април 2020 г. за изменение и допълнение на Тарифата за таксите, които се събират от Патентното ведомство на Република България, приета с Постановление № 242 на Министерския съвет от 1999 г. (ДВ, бр. 36 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147471)
+- [Закон за изменение и допълнение на Закона за патентите и регистрацията на полезните модели (ДВ, бр. 92 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152448)
+- [Закон за изменение и допълнение на Закона за марките и географските означения (ДВ, бр. 24 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241627)
+- [Закон за изменение и допълнение на Закона за патентите и регистрацията на полезните модели (ДВ, бр. 92 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157340)
+- [Закон за изменение и допълнение на Закона за марките и географските означения (ДВ, бр. 24 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166678)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

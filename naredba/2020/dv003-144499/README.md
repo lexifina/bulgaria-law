@@ -58,6 +58,18 @@
 
 Act id: `naredba-2020-dv003-144499` (tags `naredba-2020-dv003-144499/<day>`; `python tools/on.py <day> naredba-2020-dv003-144499`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 8121з-36 от 2020 г. за реда за организацията и разпределянето на работното време, за неговото отчитане, за компенсирането на работата извън редовното работно време, режима на дежурство, времето за отдих и почивките на държавните служители в Министерството на вътрешните работи (ДВ, бр. 41 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147711)
+
+Cited by:
+
+- [Наредба № 8121з-1174 от 21 октомври 2020 г. за реда за организацията и разпределянето на работното време, за неговото отчитане, за компенсирането на работата извън редовното работно време, режима на дежурство, времето за отдих и почивките за държавните служители по чл. 142, ал. 1, т. 1 и ал. 3 от Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152986)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

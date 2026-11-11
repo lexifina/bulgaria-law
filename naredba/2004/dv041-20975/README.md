@@ -48,6 +48,20 @@
 
 Act id: `naredba-2004-dv041-20975` (tags `naredba-2004-dv041-20975/<day>`; `python tools/on.py <day> naredba-2004-dv041-20975`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 102 от 2004 г. за одобряване типа на нови моторни превозни средства от категория М3 и компоненти по отношение на пожароустойчивостта на вътрешното оборудване (ДВ, бр. 12 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3249)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

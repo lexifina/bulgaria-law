@@ -53,6 +53,32 @@
 
 Act id: `postanovlenie-2004-dv024-21404` (tags `postanovlenie-2004-dv024-21404/<day>`; `python tools/on.py <day> postanovlenie-2004-dv024-21404`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 264 от 26 септември 2006 г. за изменение и допълнение на Устройствения правилник на Агенцията по обществени поръчки, приет с Постановление № 56 на Министерския съвет от 2004 г. (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2656)
+- [Постановление № 53 от 20 март 2017 г. за приемане на Устройствен правилник на Агенцията по обществени поръчки (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112974)
+
+Cited by:
+
+- [Постановление № 106 от 3 юни 2005 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=418)
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 42 от 1 март 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 21 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1524)
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Постановление № 342 от 30 декември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 3 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14065)
+- [Постановление № 286 от 22 октомври 2004 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18463)
+- [Постановление № 286 от 3 декември 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 98 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27551)
+- [Постановление № 253 от 27 октомври 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 86 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38953)
+- [Постановление № 38 от 23 февруари 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 17 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61978)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 174 от 7 август 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 62 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67486)
+- [Постановление № 105 от 28 април 2015 г. за приемане на Устройствен правилник на Българската агенция за инвестиции и на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94157)
+- [Постановление № 281 от 16 октомври 2015 г. за изменение на Правилника за устройството и дейността на Държавната комисия по стоковите борси и тържищата и на нейната администрация, приет с Постановление № 61 на Министерския съвет от 2000 г. (ДВ, бр. 82 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98152)
+- [Постановление № 359 от 12 декември 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99476)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

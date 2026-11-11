@@ -46,6 +46,19 @@
 
 Act id: `naredba-2014-dv040-84838` (tags `naredba-2014-dv040-84838/<day>`; `python tools/on.py <day> naredba-2014-dv040-84838`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за финансово подпомагане на строителството и ремонта на спортни обекти и съоръжения (ДВ, бр. 51 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95560)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за финансово подпомагане на строителството и ремонта на спортни обекти и съоръжения (ДВ, бр. 72 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97437)
+
+Cited by:
+
+- [Наредба № 4 от 8 юли 2019 г. за финансово подпомагане на изграждането и обновяването на спортни обекти - държавна и общинска собственост (ДВ, бр. 55 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139489)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

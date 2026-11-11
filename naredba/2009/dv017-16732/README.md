@@ -23,6 +23,16 @@
 
 Act id: `naredba-2009-dv017-16732` (tags `naredba-2009-dv017-16732/<day>`; `python tools/on.py <day> naredba-2009-dv017-16732`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 27 февруари 2009 г. за условията и реда за подаване на заявления по схеми и мерки за подпомагане на площ (ДВ, бр. 22 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17381)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2009 г. за условията и реда за подаване на заявления по схеми и мерки за подпомагане на площ (ДВ, бр. 37 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20477)
+- [Наредба № 2 от 11 февруари 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 14 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29875)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

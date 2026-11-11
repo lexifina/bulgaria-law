@@ -33,6 +33,38 @@
 
 Act id: `zakon-2008-dv102-12061` (tags `zakon-2008-dv102-12061/<day>`; `python tools/on.py <day> zakon-2008-dv102-12061`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30382)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39254)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение и допълнение на Закона за регистрация и контрол на земеделската и горската техника (ДВ, бр. 95 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99047)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение и допълнение на Закона за здравословни и безопасни условия на труд (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120211)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132871)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 16 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9747)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10070)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение и допълнение на Закона за регистрация и контрол на земеделската и горската техника (ДВ, бр. 95 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15491)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение и допълнение на Закона за здравословни и безопасни условия на труд (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77833)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78250)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

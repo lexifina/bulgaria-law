@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2016-dv036-103605` (tags `postanovlenie-2016-dv036-103605/<day>`; `python tools/on.py <day> postanovlenie-2016-dv036-103605`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 265 от 20 октомври 2016 г. за изменение и допълнение на Постановление № 116 на Министерския съвет от 2016 г. за одобряване на допълнителни разходи за финансирането на проекти, свързани с изпълнението на неотложни мерки за 2016 г. за присъединяването на Република България към Шенгенското пространство (ДВ, бр. 84 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108568)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

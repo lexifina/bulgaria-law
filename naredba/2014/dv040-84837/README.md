@@ -42,6 +42,19 @@
 
 Act id: `naredba-2014-dv040-84837` (tags `naredba-2014-dv040-84837/<day>`; `python tools/on.py <day> naredba-2014-dv040-84837`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 1 от 2014 г. за финансово подпомагане на спортни дейности (ДВ, бр. 84 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98260)
+
+Cited by:
+
+- [адм. дело № 12493/2017 г. (ДВ, бр. 11 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122152)
+- [Наредба № 3 от 2 април 2019 г. за реда за финансово подпомагане на дейности в областта на физическата активност, физическото възпитание, спорта и спортно-туристическата дейност (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137177)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

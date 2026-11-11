@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2019-dv036-137236` (tags `postanovlenie-2019-dv036-137236/<day>`; `python tools/on.py <day> postanovlenie-2019-dv036-137236`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 299 от 16 август 2024 г. за изменение на Наредбата за критериите за определяне на университетски болници, приета с Постановление № 93 на Министерския съвет от 2019 г. (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225800)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

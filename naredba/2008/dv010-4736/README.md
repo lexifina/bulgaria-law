@@ -19,6 +19,14 @@
 
 Act id: `naredba-2008-dv010-4736` (tags `naredba-2008-dv010-4736/<day>`; `python tools/on.py <day> naredba-2008-dv010-4736`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 19 от 11 юни 2010 г. за придобиване на квалификация по професията "Техник по железопътна техника" (ДВ, бр. 57 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34267)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -69,6 +69,40 @@
 
 Act id: `zakon-2005-dv019-14906` (tags `zakon-2005-dv019-14906/<day>`; `python tools/on.py <day> zakon-2005-dv019-14906`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за отнемане в полза на държавата на имущество, придобито от престъпна дейност (ДВ, бр. 16 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4778)
+
+Cited by:
+
+- [Наказателно-процесуален кодекс (ДВ, бр. 86 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=973)
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+- [Закон за държавната финансова инспекция (ДВ, бр. 33 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1708)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 75 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2526)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 52 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3873)
+- [Граждански процесуален кодекс (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3951)
+- [Закон за Държавна агенция "Национална сигурност" (ДВ, бр. 109 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4576)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 12 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16044)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение и допълнение на Закона за приватизация и следприватизационен контрол (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30292)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 33 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48730)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 60 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55422)
+- [Закон за отнемане в полза на държавата на незаконно придобито имущество (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64343)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121757)
+- [Закон за изменение и допълнение на Закона за приватизация и следприватизационен контрол (ДВ, бр. 18 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9966)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 33 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12690)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 60 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12713)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за отнемане в полза на държавата на незаконно придобито имущество (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13814)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77820)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

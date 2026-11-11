@@ -43,6 +43,15 @@
 
 Act id: `naredba-2015-dv078-97756` (tags `naredba-2015-dv078-97756/<day>`; `python tools/on.py <day> naredba-2015-dv078-97756`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-1175 от 29 септември 2015 г. за условията и реда за осигуряване на държавните служители в Министерството на вътрешните работи на работно и униформено облекло, друго вещево имущество и снаряжение и ежегодно парична сума за облекло на неносещите униформа държавни служители (ДВ, бр. 85 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162550)
+- [Наредба за изменение на Наредба № 8121з-1175 от 2015 г. за условията и реда за осигуряване на държавните служители в Министерството на вътрешните работи на работно и униформено облекло, друго вещево имущество и снаряжение и ежегодно парична сума за облекло на неносещите униформа държавни служители (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238701)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

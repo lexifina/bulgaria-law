@@ -31,6 +31,16 @@
 
 Act id: `postanovlenie-2004-dv011-21708` (tags `postanovlenie-2004-dv011-21708/<day>`; `python tools/on.py <day> postanovlenie-2004-dv011-21708`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+- [Постановление № 66 от 28 март 2016 г. за приемане на Правилник за прилагане на Закона за Държавна агенция "Разузнаване" (ДВ, бр. 27 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102285)
+- [Постановление № 14 от 11 февруари 2022 г. за приемане на Наредба за условията и реда за издаване, връщане и съхранение на дипломатически и служебни паспорти (ДВ, бр. 14 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169209)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

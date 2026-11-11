@@ -39,6 +39,20 @@
 
 Act id: `naredba-2006-dv042-1929` (tags `naredba-2006-dv042-1929/<day>`; `python tools/on.py <day> naredba-2006-dv042-1929`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 28 от 2006 г. за условията и реда за провеждане на изпит за професионална квалификация на застрахователните брокери и за признаване на квалификация, придобита в държава членка (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137812)
+- [Наредба за изменение и допълнение на Наредба № 28 от 10 май 2006 г. за условията и реда за провеждане на изпит за професионална квалификация на застрахователните брокери и за признаване на квалификация, придобита в държава членка, и за регистрация на материалите за професионално обучение (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239723)
+
+Cited by:
+
+- [Наредба № 7 от 27 май 2021 г. за реда за придобиване, признаване и отнемане на правоспособност на брокерите на финансови инструменти и инвестиционните консултанти (ДВ, бр. 48 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158640)
+- [Наредба за изменение и допълнение на наредби на Комисията за финансов надзор (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236442)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

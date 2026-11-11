@@ -56,6 +56,21 @@
 
 Act id: `postanovlenie-2016-dv005-99997` (tags `postanovlenie-2016-dv005-99997/<day>`; `python tools/on.py <day> postanovlenie-2016-dv005-99997`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 26 от 9 февруари 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 12 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100917)
+- [Постановление № 336 от 29 декември 2017 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 3 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121290)
+- [Заповед № РД-08-49 от 9 февруари 2018 г. на МТИТС, № РД-02-14-107 от 7 февруари 2018 г. на МРРБ (ДВ, бр. 16 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122941)
+- [Постановление № 75 от 8 април 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 31 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136640)
+- [Постановление № 203 от 15 август 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 67 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140717)
+- [Постановление № 265 от 2 август 2021 г. за изменение и допълнение на Наредбата за условията и реда за функциониране на Националната система за ранно предупреждение и оповестяване на органите на изпълнителната власт и населението при бедствия и за оповестяване при въздушна опасност, приета с Постановление № 48 на Министерския съвет от 2012 г. (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160594)
+- [Постановление № 239 от 1 август 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175447)
+- [Наредба № Н-4 от 2 юни 2023 г. за условията и изискванията, на които трябва да отговарят площадките за съхраняване или третиране на отпадъци, за разполагане на съоръжения за третиране на отпадъци и за транспортиране на производствени и опасни отпадъци (ДВ, бр. 52 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196184)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

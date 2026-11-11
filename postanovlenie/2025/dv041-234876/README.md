@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2025-dv041-234876` (tags `postanovlenie-2025-dv041-234876/<day>`; `python tools/on.py <day> postanovlenie-2025-dv041-234876`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 75 от 28 май 2025 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2025 г. (ДВ, бр. 45 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235149)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

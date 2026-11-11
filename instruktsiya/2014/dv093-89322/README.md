@@ -39,6 +39,14 @@
 
 Act id: `instruktsiya-2014-dv093-89322` (tags `instruktsiya-2014-dv093-89322/<day>`; `python tools/on.py <day> instruktsiya-2014-dv093-89322`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 10 от 1 септември 2016 г. за организация на дейностите в училищното образование (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107428)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -20,6 +20,14 @@
 
 Act id: `postanovlenie-2015-dv026-93564` (tags `postanovlenie-2015-dv026-93564/<day>`; `python tools/on.py <day> postanovlenie-2015-dv026-93564`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 187 от 20 юли 2015 г. за одобряване на допълнителни разходи/трансфери за 2015 г. (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96070)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

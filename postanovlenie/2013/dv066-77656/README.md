@@ -47,6 +47,15 @@
 
 Act id: `postanovlenie-2013-dv066-77656` (tags `postanovlenie-2013-dv066-77656/<day>`; `python tools/on.py <day> postanovlenie-2013-dv066-77656`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 417 от 2 декември 2021 г. за изменение на Тарифата за определяне на цените, които се заплащат за изпълнението на мерките по програмата за профилактика, надзор, контрол и ликвидиране на болести по животните и зоонози, приета с Постановление № 78 на Министерския съвет от 2016 г. (ДВ, бр. 102 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165709)
+- [Постановление № 268 от 7 декември 2023 г. за изменение на Тарифата за определяне на цените, които се заплащат за изпълнението на мерките по Програмата за профилактика, надзор, контрол и ликвидиране на болести по животните и зоонози, приета с Постановление № 78 на Министерския съвет от 2016 г. (ДВ, бр. 103 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201781)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

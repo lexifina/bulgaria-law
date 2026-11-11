@@ -42,6 +42,17 @@
 
 Act id: `naredba-2019-dv088-142587` (tags `naredba-2019-dv088-142587/<day>`; `python tools/on.py <day> naredba-2019-dv088-142587`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 29.10.2019 г. за критериите, условията и реда за награждаване на спортисти, треньори и длъжностни лица (ДВ, бр. 103 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165658)
+- [Наредба за изменение и допълнение на Наредба № 5 от 29.10.2019 г. за критериите, условията и реда за награждаване на спортисти, треньори и длъжностни лица (ДВ, бр. 81 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199662)
+- [Наредба за изменение на Наредба № 5 от 29.10.2019 г. за критериите, условията и реда за награждаване на спортисти, треньори и длъжностни лица (ДВ, бр. 88 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229479)
+- [Наредба за изменение и допълнение на Наредба № 5 от 29.10.2019 г. за критериите, условията и реда за награждаване на спортисти, треньори и длъжностни лица (ДВ, бр. 79 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245444)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

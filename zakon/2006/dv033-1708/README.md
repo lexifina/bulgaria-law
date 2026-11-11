@@ -85,6 +85,40 @@
 
 Act id: `zakon-2006-dv033-1708` (tags `zakon-2006-dv033-1708/<day>`; `python tools/on.py <day> zakon-2006-dv033-1708`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 86 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4328)
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 98 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10762)
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 60 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55423)
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 11 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204926)
+- [Закон за изменение на Закона за държавната финансова инспекция (ДВ, бр. 50 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243580)
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 60 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13593)
+- [Закон за изменение и допълнение на Закона за държавната финансова инспекция (ДВ, бр. 11 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164879)
+- [Закон за изменение на Закона за държавната финансова инспекция (ДВ, бр. 50 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166968)
+
+Cited by:
+
+- [Закон за кредитните институции (ДВ, бр. 59 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2245)
+- [Граждански процесуален кодекс (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3951)
+- [Закон за съдебната власт (ДВ, бр. 64 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4034)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92194)
+- [Закон за Националната служба за охрана (ДВ, бр. 61 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96406)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104194)
+- [Закон за държавните помощи (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118878)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15170)
+- [Закон за Националната служба за охрана (ДВ, бр. 61 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15267)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/28950)
+- [Закон за държавните помощи (ДВ, бр. 85 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/74375)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

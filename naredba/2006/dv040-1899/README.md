@@ -41,6 +41,15 @@
 
 Act id: `naredba-2006-dv040-1899` (tags `naredba-2006-dv040-1899/<day>`; `python tools/on.py <day> naredba-2006-dv040-1899`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 20 от 24 септември 2009 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка 1.4. "Дребномащабен крайбрежен риболов" по Приоритетна ос № 1 "Мерки за приспособяване на българския риболовен флот" от Оперативната програма за развитие на сектор "Рибарство" на Република България, финансирана от Европейския фонд по рибарство за програмен период 2007 - 2013 г. (ДВ, бр. 79 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25383)
+- [Наредба № 7 от 22 ноември 2018 г. за условията и реда за признаване на организации на производители на продукти от риболов и на продукти от аквакултури, асоциации на организации на производители и междубраншови организации в сектора на рибарството и за одобрение на планове за производство и предлагане на пазара (ДВ, бр. 99 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132315)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

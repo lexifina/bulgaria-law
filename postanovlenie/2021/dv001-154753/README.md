@@ -77,6 +77,19 @@
 
 Act id: `postanovlenie-2021-dv001-154753` (tags `postanovlenie-2021-dv001-154753/<day>`; `python tools/on.py <day> postanovlenie-2021-dv001-154753`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 42 от 4 февруари 2021 г. за одобряване на допълнителни трансфери по бюджетите на общини за 2021 г. (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155772)
+- [Постановление № 49 от 12 февруари 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. (ДВ, бр. 13 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155987)
+- [Постановление № 57 от 18 февруари 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. (ДВ, бр. 16 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156120)
+- [Постановление № 162 от 20 април 2021 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2021 г. за компенсация на намалението в приходите от данък върху таксиметров превоз на пътници (ДВ, бр. 34 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157751)
+- [Постановление № 403 от 25 ноември 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. (ДВ, бр. 100 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165365)
+- [Постановление № 436 от 10 декември 2021 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2021 г. за компенсация на намалението в приходите от данък върху таксиметров превоз на пътници (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166374)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

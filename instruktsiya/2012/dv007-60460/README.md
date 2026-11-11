@@ -20,6 +20,18 @@
 
 Act id: `instruktsiya-2012-dv007-60460` (tags `instruktsiya-2012-dv007-60460/<day>`; `python tools/on.py <day> instruktsiya-2012-dv007-60460`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за допълнение на Инструкция № Iз-37 от 2012 г. за условията и реда за носене на служебно оръжие от държавните служители от МВР (ДВ, бр. 97 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80073)
+
+Cited by:
+
+- [Инструкция № 8121з-533 от 12 май 2015 г. за условията и реда за носене на служебно оръжие от държавните служители в Министерството на вътрешните работи (ДВ, бр. 36 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94447)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

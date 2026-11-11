@@ -160,6 +160,20 @@
 
 Act id: `kodeks-2005-dv042-292` (tags `kodeks-2005-dv042-292/<day>`; `python tools/on.py <day> kodeks-2005-dv042-292`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Граждански процесуален кодекс (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3951)
+- [Закон за изменение и допълнение на Семейния кодекс (ДВ, бр. 100 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41709)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 39 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214105)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 92 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246208)
+- [Закон за изменение и допълнение на Семейния кодекс (ДВ, бр. 100 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10014)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 39 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165089)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 92 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167503)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

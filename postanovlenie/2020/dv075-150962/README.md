@@ -49,6 +49,19 @@
 
 Act id: `postanovlenie-2020-dv075-150962` (tags `postanovlenie-2020-dv075-150962/<day>`; `python tools/on.py <day> postanovlenie-2020-dv075-150962`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 371 от 17 ноември 2022 г. за допълнение на Устройствения правилник на Агенцията за качеството на социалните услуги, приет с Постановление № 220 на Министерския съвет от 2020 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180341)
+
+Cited by:
+
+- [Постановление № 159 от 15 април 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157596)
+- [Постановление № 202 от 6 октомври 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 84 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237835)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

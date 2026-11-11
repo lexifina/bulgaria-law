@@ -35,6 +35,28 @@
 
 Act id: `pravilnik-2004-dv065-19536` (tags `pravilnik-2004-dv065-19536/<day>`; `python tools/on.py <day> pravilnik-2004-dv065-19536`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите, издаден от министъра на околната среда и водите (ДВ, бр. 16 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4791)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26835)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 103 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27887)
+- [Правилник за допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 29 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63255)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 58 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66804)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 54 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149079)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214840)
+
+Cited by:
+
+- [Постановление № 190 от 8 август 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 67 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4070)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2003 г. за норми за допустими емисии на летливи органични съединения, изпускани в атмосферния въздух в резултат на употребата на разтворители в определени инсталации (ДВ, бр. 67 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24347)
+- [Постановление № 274 от 20 ноември 2009 г. за приемане на Устройствен правилник на Министерството на околната среда и водите (ДВ, бр. 94 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27188)
+- [Постановление № 39 от 14 февруари 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45201)
+- [Правилник за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 103 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59696)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

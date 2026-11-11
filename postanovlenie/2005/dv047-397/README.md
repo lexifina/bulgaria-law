@@ -97,6 +97,22 @@
 
 Act id: `postanovlenie-2005-dv047-397` (tags `postanovlenie-2005-dv047-397/<day>`; `python tools/on.py <day> postanovlenie-2005-dv047-397`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 250 от 25 ноември 2005 г. за приемане на Устройствен правилник на Държавната агенция за информационни технологии и съобщения (ДВ, бр. 96 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1096)
+- [Национален рамков договор между Националната здравноосигурителна каса и Българския лекарски съюз и Съюза на стоматолозите в България, 2006 г. (ДВ, бр. 106 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1233)
+- [Постановление № 364 от 27 декември 2006 г. за приемане на Наредба за изчисляване и изплащане на паричните обезщетения и помощи от държавното обществено осигуряване (ДВ, бр. 1 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3071)
+- [Постановление № 246 от 10 октомври 2007 г. за приемане на Устройствен правилник на Държавна агенция "Архиви", за одобряване на Тарифа за таксите, които се събират от Държавна агенция "Архиви", и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви" (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4310)
+- [Постановление № 168 от 11 юли 2008 г. за приемане на Наредба за реда за съобщаване, регистриране, потвърждаване, обжалване и отчитане на професионалните болести (ДВ, бр. 65 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6506)
+- [Решение № 2873 от 13 март 2008 г. по административно дело № 11138 от 2007 г. (ДВ, бр. 95 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10345)
+- [Решение № 10321 от 6 август 2009 г. по административно дело № 5103 от 2009 г. (ДВ, бр. 95 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27154)
+- [Постановление № 83 от 26 април 2010 г. за приемане на Правилник за устройството и организацията на работа на органите на медицинската експертиза и на регионалните картотеки на медицинските експертизи (ДВ, бр. 34 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32502)
+- [Неофициален раздел на "Държавен вестник", брой 101 от 4.12.2007 г. (ДВ, бр. 101 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140491)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

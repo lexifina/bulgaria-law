@@ -44,6 +44,14 @@
 
 Act id: `postanovlenie-2023-dv104-201911` (tags `postanovlenie-2023-dv104-201911/<day>`; `python tools/on.py <day> postanovlenie-2023-dv104-201911`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 335 от 20 декември 2023 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202100)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

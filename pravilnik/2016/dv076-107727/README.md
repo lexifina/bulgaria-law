@@ -54,6 +54,20 @@
 
 Act id: `pravilnik-2016-dv076-107727` (tags `pravilnik-2016-dv076-107727/<day>`; `python tools/on.py <day> pravilnik-2016-dv076-107727`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 14 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111768)
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 31 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113444)
+
+Cited by:
+
+- [Заповед № КД-14-1 от 20 януари 2017 г. (ДВ, бр. 16 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111886)
+- [Устройствен правилник на Патентното ведомство на Република България (ДВ, бр. 61 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128712)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

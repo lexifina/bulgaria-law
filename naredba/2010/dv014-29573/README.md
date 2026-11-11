@@ -11,6 +11,20 @@
 
 Act id: `naredba-2010-dv014-29573` (tags `naredba-2010-dv014-29573/<day>`; `python tools/on.py <day> naredba-2010-dv014-29573`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36261)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191786)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [Наредба № 2 от 5 февруари 2018 г. за условията и реда за осигуряване защита на лицата при медицинско облъчване (ДВ, бр. 13 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122490)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

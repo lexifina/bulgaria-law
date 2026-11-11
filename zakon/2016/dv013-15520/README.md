@@ -364,9 +364,83 @@
 
 Act id: `zakon-2016-dv013-15520` (tags `zakon-2016-dv013-15520/<day>`; `python tools/on.py <day> zakon-2016-dv013-15520`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 52 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10025)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 93 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13590)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 33 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13778)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 40 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14535)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 8 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15171)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15416)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 34 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42096)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 17 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77950)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 30 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77974)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 49 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78066)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 86 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78190)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 102 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157206)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 107 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163388)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 62 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164294)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 88 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165108)
+
+Cited by:
+
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103268)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120044)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 102 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120933)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122793)
+- [Закон за изменение и допълнение на Закона за трудовата миграция и трудовата мобилност (ДВ, бр. 24 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123923)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 30 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124668)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 49 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127080)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 86 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130598)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132509)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 102 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144178)
+- [Решение № 1 от 4 февруари 2020 г. по конституционно дело № 17 от 2018 г. (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145828)
+- [Постановление № 35 от 4 март 2020 г. за изменение и допълнение на Наредбата за посочване на нередности, представляващи основания за извършване на финансови корекции, и процентните показатели за определяне размера на финансовите корекции по реда на Закона за управление на средствата от Европейските структурни и инвестиционни фондове, приета с Постановление № 57 на Министерския съвет от 2017 г. (ДВ, бр. 19 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146674)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 23 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146941)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 107 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154394)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175342)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 88 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200381)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201798)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202168)
+- [Закон за изменение и допълнение на Закона за държавния бюджет на Република България за 2024 г. (ДВ, бр. 67 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223984)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236209)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245131)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 34 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42096)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66626)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 102 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/75410)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 17 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77950)
+- [Закон за изменение и допълнение на Закона за трудовата миграция и трудовата мобилност (ДВ, бр. 24 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77936)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 30 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77974)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 49 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78066)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 86 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78190)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78260)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 102 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157206)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 23 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157375)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 107 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163388)
+- [Закон за допълнение на Закона за обществените поръчки (ДВ, бр. 62 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164294)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 88 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165108)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 105 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165170)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165235)
+- [Закон за изменение на Закона за държавния бюджет на Република България за 2024 г. (ДВ, бр. 67 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165599)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166498)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166975)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

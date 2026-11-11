@@ -35,6 +35,14 @@
 
 Act id: `postanovlenie-2015-dv030-93946` (tags `postanovlenie-2015-dv030-93946/<day>`; `python tools/on.py <day> postanovlenie-2015-dv030-93946`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 163 от 25 септември 2026 г. за приемане на Тарифа за таксите, които се събират от Изпълнителната агенция по сортоизпитване, апробация и семеконтрол по Закона за посевния и посадъчния материал и по Закона за закрила на новите сортове растения и породи животни (ДВ, бр. 89 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246110)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

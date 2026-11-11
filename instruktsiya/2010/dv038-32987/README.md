@@ -73,6 +73,16 @@
 
 Act id: `instruktsiya-2010-dv038-32987` (tags `instruktsiya-2010-dv038-32987/<day>`; `python tools/on.py <day> instruktsiya-2010-dv038-32987`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № Я-966 от 2010 г. за военната служба в Националната разузнавателна служба (ДВ, бр. 68 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56358)
+- [Инструкция за изменение на Инструкция № Я-966 от 2010 г. за военната служба в Националната разузнавателна служба (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70349)
+- [Инструкция за изменение и допълнение на Инструкция № Я-966 от 2010 г. за военната служба в Националната разузнавателна служба (ДВ, бр. 87 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88704)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

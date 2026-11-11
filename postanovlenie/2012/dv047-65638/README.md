@@ -51,6 +51,18 @@
 
 Act id: `postanovlenie-2012-dv047-65638` (tags `postanovlenie-2012-dv047-65638/<day>`; `python tools/on.py <day> postanovlenie-2012-dv047-65638`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 157 от 1 август 2013 г. за създаване на Съвет по децентрализация на държавното управление (ДВ, бр. 69 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77998)
+- [Постановление № 86 от 17 април 2014 г. за закриване на консултативни съвети по чл. 21, ал. 1 от Закона за администрацията (ДВ, бр. 36 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84494)
+- [Постановление № 240 от 24 септември 2019 г. за създаване на Национален механизъм за мониторинг на борбата с корупцията и организираната престъпност, съдебната реформа и върховенство на закона и на Съвет за координация и сътрудничество (ДВ, бр. 76 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141501)
+- [Постановление № 101 от 14 юли 2023 г. за създаване на Национален механизъм за определяне на политиките и за координация в сферата на мерките за борба с изпирането на пари и финансирането на тероризма - Съвет за координация и сътрудничество (ДВ, бр. 62 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197382)
+- [Постановление № 59 от 21 март 2024 г. за създаване на Национален координационен механизъм по правата на човека (ДВ, бр. 26 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=210444)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -9,6 +9,16 @@
 
 Act id: `zakon-2009-dv077-9684` (tags `zakon-2009-dv077-9684/<day>`; `python tools/on.py <day> zakon-2009-dv077-9684`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 10 октомври 2017 г. за придобиване на квалификация по професията "Плетач" (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118897)
+- [Наредба № 4 от 4 февруари 2019 г. за придобиване на квалификация по професията "Лаборант" (ДВ, бр. 15 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134836)
+- [Наредба № 21 от 2 ноември 2022 г. за придобиване на квалификация по професията "Шивач" (ДВ, бр. 91 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179846)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

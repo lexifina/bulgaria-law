@@ -164,6 +164,19 @@
 
 Act id: `naredba-2007-dv101-4500` (tags `naredba-2007-dv101-4500/<day>`; `python tools/on.py <day> naredba-2007-dv101-4500`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 293 от 7 декември 2009 г. за приемане на Наредба за плаването и граничния режим във вътрешните морски води, в териториалното море и във вътрешните водни пътища на Република България на български и чуждестранни яхти, лодки и други плавателни средства за спорт, туризъм и развлечение, както и извършване на водноатракционни услуги с тях (ДВ, бр. 99 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27668)
+- [Наредба № 16 от 11 юни 2010 г. за придобиване на квалификация по професията "Корабоводител" (ДВ, бр. 52 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34265)
+- [Наредба № 20 от 11 юни 2010 г. за придобиване на квалификация по професията "Корабен техник" (ДВ, бр. 57 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34268)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34634)
+- [Наредба № 6 от 5 април 2012 г. за компетентност на морските лица в Република България (ДВ, бр. 31 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63524)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 7 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91152)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

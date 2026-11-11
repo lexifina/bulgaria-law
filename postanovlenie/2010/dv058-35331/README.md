@@ -14,6 +14,16 @@
 
 Act id: `postanovlenie-2010-dv058-35331` (tags `postanovlenie-2010-dv058-35331/<day>`; `python tools/on.py <day> postanovlenie-2010-dv058-35331`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 440 от 22 декември 2014 г. за преобразуване на национални музеи (ДВ, бр. 107 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90924)
+- [Постановление № 156 от 26 юни 2015 г. за изменение на Постановление № 440 на Министерския съвет от 2014 г. за преобразуване на национални музеи (ДВ, бр. 50 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95584)
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -160,6 +160,43 @@
 
 Act id: `pravilnik-2006-dv042-1922` (tags `pravilnik-2006-dv042-1922/<day>`; `python tools/on.py <day> pravilnik-2006-dv042-1922`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 61 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2282)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 70 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2431)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 8 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3190)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 33 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3542)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 4 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4678)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 28 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18989)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 100 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27825)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 24 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31375)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 78 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37393)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45095)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 44 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51695)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 7 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60594)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 25 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74121)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 110 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81403)
+- [Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 12 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82504)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83754)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 49 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95594)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 2 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99819)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111640)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 80 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118392)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128647)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135892)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 60 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139909)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 53 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148975)
+- [Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 82 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151740)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 27 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156963)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 65 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175705)
+- [Правилник за допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 103 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182460)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 36 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191440)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 59 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

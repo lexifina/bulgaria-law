@@ -45,6 +45,29 @@
 
 Act id: `postanovlenie-2004-dv042-20963` (tags `postanovlenie-2004-dv042-20963/<day>`; `python tools/on.py <day> postanovlenie-2004-dv042-20963`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 283 от 20 ноември 2008 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Национален филмов център", приет с Постановление № 97 на Министерския съвет от 2004 г. (ДВ, бр. 103 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12301)
+- [Постановление № 304 от 28 ноември 2012 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Национален филмов център", приет с Постановление № 97 на Министерския съвет от 2004 г. (ДВ, бр. 97 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70886)
+- [Постановление № 23 от 7 април 2025 г. за приемане на Устройствен правилник на Изпълнителна агенция "Национален филмов център" (ДВ, бр. 30 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233976)
+
+Cited by:
+
+- [Постановление № 115 от 15 юни 2005 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 51 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=453)
+- [Постановление № 15 от 31 януари 2006 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1402)
+- [Решение № 1699 от 15 февруари 2006 г. по административно дело № 9466 от 2005 г. (ДВ, бр. 17 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1469)
+- [Постановление № 20 от 8 февруари 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 17 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4802)
+- [Постановление № 75 от 21 април 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5184)
+- [Решение № 10142 от 28 юли 2009 г. по административно дело № 1388 от 2009 г. (ДВ, бр. 7 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28774)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 274 от 6 декември 2018 г. за приемане на Правилник за прилагане на Закона за филмовата индустрия (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132829)
+- [Постановление № 242 от 4 юли 2024 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Държавен резерв и военновременни запаси", приет с Постановление № 13 на Министерския съвет от 2004 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2014-dv066-87055` (tags `postanovlenie-2014-dv066-87055/<day>`; `python tools/on.py <day> postanovlenie-2014-dv066-87055`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 249 от 14 август 2014 г. за изменение на Постановление № 234 на Министерския съвет от 2014 г. за одобряване на средства от резерва по чл. 1, ал. 2, раздел II, т. 4.1.2 от Закона за държавния бюджет на Република България за 2014 г. (ДВ, бр. 69 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87394)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

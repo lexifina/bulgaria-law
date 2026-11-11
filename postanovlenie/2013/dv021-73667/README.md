@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2013-dv021-73667` (tags `postanovlenie-2013-dv021-73667/<day>`; `python tools/on.py <day> postanovlenie-2013-dv021-73667`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 223 от 19 юни 2024 г. за приемане на Тарифа за таксите, които се събират в системата на Изпълнителната агенция по горите (ДВ, бр. 53 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219324)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

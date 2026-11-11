@@ -55,6 +55,21 @@
 
 Act id: `postanovlenie-2013-dv002-71719` (tags `postanovlenie-2013-dv002-71719/<day>`; `python tools/on.py <day> postanovlenie-2013-dv002-71719`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 173 от 29 септември 2026 г. за изменение и допълнение на Наредба за норми за допустими емисии на серен диоксид, азотни оксиди и прах, изпускани в атмосферата от големи горивни инсталации, приета с Постановление № 354 на Министерския съвет от 2012 г. (ДВ, бр. 91 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246259)
+
+Cited by:
+
+- [Наредба № 4 от 5 април 2013 г. за условията и изискванията за изграждането и експлоатацията на инсталации за изгаряне и инсталации за съвместно изгаряне на отпадъци (ДВ, бр. 36 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75069)
+- [Постановление № 186 от 23 август 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 76 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78502)
+- [Постановление № 150 от 24 юли 2018 г. за приемане на Наредба за ограничаване на емисиите на определени замърсители, изпускани в атмосферата от средни горивни инсталации (ДВ, бр. 63 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128872)
+- [Постановление № 22 от 17 февруари 2020 г. за приемане на Наредба за изискванията за качеството на твърдите горива, използвани за битово отопление, условията, реда и начина за техния контрол (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146228)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

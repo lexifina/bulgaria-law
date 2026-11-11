@@ -34,6 +34,22 @@
 
 Act id: `naredba-2006-dv106-3054` (tags `naredba-2006-dv106-3054/<day>`; `python tools/on.py <day> naredba-2006-dv106-3054`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-19 от 2006 г. за определяне обхвата на информацията, която всички общини са длъжни да водят, съхраняват и предоставят на Министерството на финансите за поетия от тях дълг в съответствие с изискванията на Европейския съюз и на българското законодателство за отчетността, статистиката и бюджетирането на публичния сектор, както и за реда, начина и сроковете за отчитането и предоставянето й (ДВ, бр. 19 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4825)
+- [Наредба за отменяне на Наредба № Н-19 от 2006 г. за определяне обхвата на информацията, която всички общини са длъжни да водят, съхраняват и предоставят на Министерството на финансите за поетия от тях дълг в съответствие с изискванията на Европейския съюз и на българското законодателство за отчетността, статистиката и бюджетирането на публичния сектор, както и за реда, начина и сроковете за отчитането и предоставянето й (ДВ, бр. 73 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97474)
+
+Cited by:
+
+- [Постановление № 324 от 30 декември 2009 г. за изпълнението на държавния бюджет на Република България за 2010 г. (ДВ, бр. 3 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28508)
+- [Постановление № 334 от 29 декември 2010 г. за изпълнението на държавния бюджет на Република България за 2011 г. (ДВ, бр. 2 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42534)
+- [Постановление № 367 от 29 декември 2011 г. за изпълнението на държавния бюджет на Република България за 2012 г. (ДВ, бр. 106 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59997)
+- [Постановление № 1 от 9 януари 2013 г. за изпълнението на държавния бюджет на Република България за 2013 г. (ДВ, бр. 6 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72079)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

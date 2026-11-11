@@ -49,6 +49,16 @@
 
 Act id: `naredba-2005-dv078-889` (tags `naredba-2005-dv078-889/<day>`; `python tools/on.py <day> naredba-2005-dv078-889`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 37 от 2007 г. за условията и реда за издаване на свидетелства на авиационните оператори за търговски въздушен превоз и контрола върху тях (ДВ, бр. 83 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38106)
+- [Наредба за изменение и допълнение на Наредба № 37 от 2014 г. за условията и реда за издаване на свидетелства на авиационните оператори и контрола върху тях (ДВ, бр. 6 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99882)
+- [Наредба № 37 от 19 октомври 2016 г. за авиационните оператори (ДВ, бр. 87 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108690)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

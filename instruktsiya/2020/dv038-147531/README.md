@@ -22,6 +22,14 @@
 
 Act id: `instruktsiya-2020-dv038-147531` (tags `instruktsiya-2020-dv038-147531/<day>`; `python tools/on.py <day> instruktsiya-2020-dv038-147531`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-2 от 11 октомври 2022 г. за взаимодействие между Министерството на правосъдието и Държавна агенция "Национална сигурност" при осъществяване дейността на Бюрото по защита на застрашени лица (ДВ, бр. 92 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180140)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

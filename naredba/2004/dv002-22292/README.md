@@ -25,6 +25,22 @@
 
 Act id: `naredba-2004-dv002-22292` (tags `naredba-2004-dv002-22292/<day>`; `python tools/on.py <day> naredba-2004-dv002-22292`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 13 от 2003 г. за определяне на видовете далекосъобщителни дейности, подлежащи на индивидуално лицензиране и регистрация по обща лицензия (ДВ, бр. 100 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2954)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2003 г. за определяне на видовете далекосъобщителни дейности, подлежащи на индивидуално лицензиране и регистрация по обща лицензия (ДВ, бр. 68 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19480)
+
+Cited by:
+
+- [Неофициален раздел на "Държавен вестник", брой 56 от 29.06.2004 г. (ДВ, бр. 56 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134870)
+- [Неофициален раздел на "Държавен вестник", брой 75 от 27.08.2004 г. (ДВ, бр. 75 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135656)
+- [Неофициален раздел на "Държавен вестник", брой 101 от 16.11.2004 г. (ДВ, бр. 101 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135683)
+- [Неофициален раздел на "Държавен вестник", брой 13 от 8.2.2005 г. (ДВ, бр. 13 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136427)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -79,6 +79,15 @@
 
 Act id: `naredba-2023-dv083-200125` (tags `naredba-2023-dv083-200125/<day>`; `python tools/on.py <day> naredba-2023-dv083-200125`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 29 септември 2023 г. за условията и реда за осъществяване на фискален контрол върху движението на стоки с висок фискален риск на територията на Република България (ДВ, бр. 36 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212980)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2023 г. за условията и реда за осъществяване на фискален контрол върху движението на стоки с висок фискален риск на територията на Република България (ДВ, бр. 100 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230744)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

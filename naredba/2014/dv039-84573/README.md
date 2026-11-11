@@ -28,6 +28,14 @@
 
 Act id: `naredba-2014-dv039-84573` (tags `naredba-2014-dv039-84573/<day>`; `python tools/on.py <day> naredba-2014-dv039-84573`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 4 от 2014 г. за реда и начина за предоставяне и отчитане на средствата за финансиране на дейностите по техническата ликвидация, по техническата и биологичната рекултивация и изпълнението на свързаните с това дейности по водовземане, пречистване, заустване и мониторинг на води, както и всякакъв друг вид мониторинг за ликвидиране на последствията от проучването, добива и преработката на уранова суровина (ДВ, бр. 84 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98273)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

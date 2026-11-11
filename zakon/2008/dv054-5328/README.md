@@ -9,6 +9,15 @@
 
 Act id: `zakon-2008-dv054-5328` (tags `zakon-2008-dv054-5328/<day>`; `python tools/on.py <day> zakon-2008-dv054-5328`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за ратифициране на Конвенция № 102 на Международната организация на труда за социална сигурност (минимални стандарти), 1952 г. (ДВ, бр. 47 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104651)
+- [Закон за изменение и допълнение на Закона за ратифициране на Конвенция № 102 на Международната организация на труда за социална сигурност (минимални стандарти), 1952 г. (ДВ, бр. 47 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42128)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

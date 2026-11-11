@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2011-dv107-60032` (tags `postanovlenie-2011-dv107-60032/<day>`; `python tools/on.py <day> postanovlenie-2011-dv107-60032`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 141 от 5 юли 2012 г. за изменение и допълнение на Постановление № 373 на Министерския съвет от 2011 г. за одобряване финансирането на проекти, свързани с изпълнението на неотложни мерки за 2012 г. за присъединяването на Република България към Шенгенското пространство (ДВ, бр. 53 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66289)
+- [Постановление № 240 от 4 октомври 2012 г. за изменение и допълнение на Постановление № 373 на Министерския съвет от 2011 г. за одобряване финансирането на проекти, свързани с изпълнението на неотложни мерки за 2012 г. за присъединяването на Република България към Шенгенското пространство (ДВ, бр. 77 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69151)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

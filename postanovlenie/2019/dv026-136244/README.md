@@ -81,6 +81,25 @@
 
 Act id: `postanovlenie-2019-dv026-136244` (tags `postanovlenie-2019-dv026-136244/<day>`; `python tools/on.py <day> postanovlenie-2019-dv026-136244`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 294 от 21 ноември 2019 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 93 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143146)
+- [Постановление № 309 от 18 ноември 2020 г. за изменение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 99 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153900)
+- [Постановление № 249 от 27 юли 2021 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160440)
+- [Постановление № 185 от 5 октомври 2023 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 85 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200345)
+
+Cited by:
+
+- [Поправка в Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 26 от 2019 г.) (ДВ, бр. 30 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136593)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Правилник за изменение на Правилника за организацията и дейността на Експертния съвет по биоциди (ДВ, бр. 6 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202980)
+- [Постановление № 391 от 8 ноември 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230462)
+- [Постановление № 119 от 4 юли 2025 г. за приемане на Устройствен правилник на Министерството на енергетиката (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235891)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

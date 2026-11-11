@@ -38,6 +38,20 @@
 
 Act id: `pravilnik-2016-dv096-109578` (tags `pravilnik-2016-dv096-109578/<day>`; `python tools/on.py <day> pravilnik-2016-dv096-109578`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Държавния логопедичен център (ДВ, бр. 84 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228975)
+
+Cited by:
+
+- [Заповед № РД-147 от 28 февруари 2017 г. (ДВ, бр. 23 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112725)
+- [Заповед № РД-6/1 от 11 септември 2017 г. (ДВ, бр. 87 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119192)
+- [Наредба № 15 от 22 юли 2019 г. за статута и професионалното развитие на учителите, директорите и другите педагогически специалисти (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140012)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

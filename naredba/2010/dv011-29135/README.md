@@ -16,6 +16,19 @@
 
 Act id: `naredba-2010-dv011-29135` (tags `naredba-2010-dv011-29135/<day>`; `python tools/on.py <day> naredba-2010-dv011-29135`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2010 г. за утвърждаване на медицински стандарт "Микробиология" (ДВ, бр. 66 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35942)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба № Н-6 от 30 юли 2026 г. за утвърждаване на медицински стандарт "Клинична микробиология" (ДВ, бр. 74 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245295)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -74,6 +74,28 @@
 
 Act id: `naredba-2013-dv033-74756` (tags `naredba-2013-dv033-74756/<day>`; `python tools/on.py <day> naredba-2013-dv033-74756`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за регулиране на цените на електрическата енергия (ДВ, бр. 17 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83061)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за регулиране на цените на електрическата енергия (ДВ, бр. 4 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91141)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77083)
+- [Правила за измерване на количеството електрическа енергия (ДВ, бр. 98 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80128)
+- [адм.д. № 12511/2013 г. (ДВ, бр. 98 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80271)
+- [адм. д. № 9864/2014 г. (ДВ, бр. 69 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87356)
+- [адм.д. № 9747/2014 г. (ДВ, бр. 72 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87481)
+- [Решение № 15465 от 18 декември 2014 г. по административно дело № 7996 от 2014 г. (ДВ, бр. 65 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96728)
+- [адм.д. № 8954/2015 г. (ДВ, бр. 103 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99481)
+- [Решение № 11674 от 5 ноември 2015 г. по административно дело № 9747 от 2014 г. (ДВ, бр. 20 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101769)
+- [Наредба № 1 от 14 март 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112874)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14414)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

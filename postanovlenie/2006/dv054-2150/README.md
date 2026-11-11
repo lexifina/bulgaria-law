@@ -23,6 +23,24 @@
 
 Act id: `postanovlenie-2006-dv054-2150` (tags `postanovlenie-2006-dv054-2150/<day>`; `python tools/on.py <day> postanovlenie-2006-dv054-2150`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 151 от 29 юни 2007 г. за допълнение на Наредбата за реда и начина за въвеждане на бандеролите за бутилирани алкохолни напитки, приета с Постановление № 157 на Министерския съвет от 2006 г. (ДВ, бр. 56 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3913)
+- [Постановление № 218 от 26 септември 2013 г. за изменение на Наредбата за реда и начина за въвеждане на бандеролите за бутилирани алкохолни напитки, приета с Постановление № 157 на Министерския съвет от 2006 г. (ДВ, бр. 85 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79191)
+- [Постановление № 436 от 22 декември 2014 г. за допълнение на Наредбата за реда и начина за въвеждане на бандеролите за бутилирани алкохолни напитки, приета с Постановление № 157 на Министерския съвет от 2006 г. (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90873)
+
+Cited by:
+
+- [Постановление № 131 от 29 май 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21828)
+- [Заповед № ЗМФ 855 от 12 юни 2009 г. (ДВ, бр. 47 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22605)
+- [Постановление № 1 от 3 януари 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133529)
+- [Неофициален раздел на "Държавен вестник", брой 90 от 7.11.2006 г. (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139141)
+- [Неофициален раздел на "Държавен вестник", брой 58 от 17.7.2007 г. (ДВ, бр. 58 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140232)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -33,6 +33,14 @@
 
 Act id: `naredba-2006-dv028-1638` (tags `naredba-2006-dv028-1638/<day>`; `python tools/on.py <day> naredba-2006-dv028-1638`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за прилагане на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 9 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29054)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

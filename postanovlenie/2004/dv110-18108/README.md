@@ -34,6 +34,16 @@
 
 Act id: `postanovlenie-2004-dv110-18108` (tags `postanovlenie-2004-dv110-18108/<day>`; `python tools/on.py <day> postanovlenie-2004-dv110-18108`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 322 от 5 декември 2006 г. за приемане на Наредба за изискванията към складовата база, транспортирането и съхранението на продукти за растителна защита (ДВ, бр. 101 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2959)
+- [Постановление № 336 от 28 декември 2007 г. за приемане на Наредба за условията и реда за пускане на пазара на биоциди (ДВ, бр. 4 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4669)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

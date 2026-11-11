@@ -49,6 +49,23 @@
 
 Act id: `postanovlenie-2006-dv101-2959` (tags `postanovlenie-2006-dv101-2959/<day>`; `python tools/on.py <day> postanovlenie-2006-dv101-2959`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 333 от 20 декември 2008 г. за изменение и допълнение на Наредбата за изискванията към складовата база, транспортирането и съхранението на продукти за растителна защита, приета с Постановление № 322 на Министерския съвет от 2006 г. (ДВ, бр. 2 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13826)
+
+Cited by:
+
+- [Постановление № 147 от 9 юни 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 45 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22353)
+- [Постановление № 6 от 17 януари 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43257)
+- [Наредба № 2 от 30 януари 2012 г. за условията, начините и реда за прилагане на продукти за растителна защита в горските територии (ДВ, бр. 10 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61055)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Заповед № РД-09-354 от 8 април 2019 г. (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137126)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

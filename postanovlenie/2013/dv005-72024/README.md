@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2013-dv005-72024` (tags `postanovlenie-2013-dv005-72024/<day>`; `python tools/on.py <day> postanovlenie-2013-dv005-72024`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № РД-НС-04-8 от 31 януари 2013 г. на Надзорния съвет на Националната здравноосигурителна каса (ДВ, бр. 11 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72841)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

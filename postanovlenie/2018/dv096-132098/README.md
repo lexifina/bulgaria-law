@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2018-dv096-132098` (tags `postanovlenie-2018-dv096-132098/<day>`; `python tools/on.py <day> postanovlenie-2018-dv096-132098`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 307 от 16 декември 2025 г. за изменение на Тарифата за таксите, които се събират от Комисията за регулиране на съобщенията по реда на Закона за електронните съобщителни мрежи и физическа инфраструктура, приета с Постановление № 247 на Министерския съвет от 2018 г. (ДВ, бр. 112 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240053)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

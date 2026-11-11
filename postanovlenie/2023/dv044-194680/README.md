@@ -30,6 +30,14 @@
 
 Act id: `postanovlenie-2023-dv044-194680` (tags `postanovlenie-2023-dv044-194680/<day>`; `python tools/on.py <day> postanovlenie-2023-dv044-194680`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 11 от 19 февруари 2025 г. за отменяне на Постановление № 77 на Министерския съвет от 2023 г. за създаване на Съвет за развитие при Министерския съвет (ДВ, бр. 15 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233043)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

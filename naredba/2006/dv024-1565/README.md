@@ -73,6 +73,16 @@
 
 Act id: `naredba-2006-dv024-1565` (tags `naredba-2006-dv024-1565/<day>`; `python tools/on.py <day> naredba-2006-dv024-1565`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 37 от 31 март 2006 г. за здравните изисквания към животните, от които се добиват суровини и храни за консумация от хора (ДВ, бр. 36 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1827)
+- [Наредба за изменение и допълнение на Наредба № 27 от 2006 г. за мерките за профилактика, ограничаване и ликвидиране на някои особено опасни заразни болести по рибите (ДВ, бр. 22 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3397)
+- [Наредба № 17 от 16 юни 2008 г. за здравните изисквания към стопанските водни животни, продуктите от тях и предпазването и контрола на болести по водните животни (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6258)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

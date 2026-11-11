@@ -59,6 +59,24 @@
 
 Act id: `postanovlenie-2016-dv057-105799` (tags `postanovlenie-2016-dv057-105799/<day>`; `python tools/on.py <day> postanovlenie-2016-dv057-105799`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 228 от 24 октомври 2018 г. за изменение на Наредбата за администриране на нередности по Европейските структурни и инвестиционни фондове, приета с Постановление № 173 на Министерския съвет от 2016 г. (ДВ, бр. 90 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131320)
+
+Cited by:
+
+- [Постановление № 77 от 19 април 2017 г. за изменение и допълнение на Правилника за устройството и дейността на Министерството на вътрешните работи, приет с Постановление № 207 на Министерския съвет от 2014 г. (ДВ, бр. 33 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113792)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 46 от 29 март 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 30 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124957)
+- [Постановление № 447 от 19 декември 2022 г. за определяне на реда и условията за изпълнение на Резерва за приспособяване във връзка с последиците от Брексит (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181941)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+- [Постановление № 247 от 5 юли 2024 г. за изменение и допълнение на Правилника за устройството и дейността на Министерството на вътрешните работи, приет с Постановление № 207 на Министерския съвет от 2014 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221083)
+- [Постановление № 48 от 22 април 2026 г. за изменение и допълнение на нормативни актове (ДВ, бр. 38 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243034)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

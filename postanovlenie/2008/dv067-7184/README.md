@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2008-dv067-7184` (tags `postanovlenie-2008-dv067-7184/<day>`; `python tools/on.py <day> postanovlenie-2008-dv067-7184`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 340 от 29 декември 2008 г. за изменение на Постановление № 179 на Министерския съвет от 2008 г. за предоставяне на целеви средства по бюджета на Министерството на регионалното развитие и благоустройството за 2008 г. за осигуряване финансирането на общински проекти (ДВ, бр. 3 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13993)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

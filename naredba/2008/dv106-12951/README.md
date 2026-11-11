@@ -32,6 +32,14 @@
 
 Act id: `naredba-2008-dv106-12951` (tags `naredba-2008-dv106-12951/<day>`; `python tools/on.py <day> naredba-2008-dv106-12951`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за условията и реда за дейността на животновъдните стопанства в планинските и другите необлагодетелствани райони (ДВ, бр. 11 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43896)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

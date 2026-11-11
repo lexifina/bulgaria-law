@@ -26,6 +26,18 @@
 
 Act id: `naredba-2005-dv014-14851` (tags `naredba-2005-dv014-14851/<day>`; `python tools/on.py <day> naredba-2005-dv014-14851`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 121 от 2005 г. за одобряване на стойките за тип ново двуколесно моторно превозно средство (ДВ, бр. 74 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2521)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 117 от 2005 г. за одобряване типа на нови моторни превозни средства от категория L (ДВ, бр. 24 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123986)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

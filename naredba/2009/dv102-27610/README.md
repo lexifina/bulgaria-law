@@ -34,6 +34,14 @@
 
 Act id: `naredba-2009-dv102-27610` (tags `naredba-2009-dv102-27610/<day>`; `python tools/on.py <day> naredba-2009-dv102-27610`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 14 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111724)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

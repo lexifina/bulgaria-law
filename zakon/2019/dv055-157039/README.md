@@ -9,6 +9,14 @@
 
 Act id: `zakon-2019-dv055-157039` (tags `zakon-2019-dv055-157039/<day>`; `python tools/on.py <day> zakon-2019-dv055-157039`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 3723-П от 29 септември 2020 г. (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152131)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

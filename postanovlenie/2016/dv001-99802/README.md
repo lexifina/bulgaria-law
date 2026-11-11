@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2016-dv001-99802` (tags `postanovlenie-2016-dv001-99802/<day>`; `python tools/on.py <day> postanovlenie-2016-dv001-99802`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 387 от 30 декември 2015 г. за изменение на Постановление № 379 на Министерския съвет от 2015 г. за одобряване на вътрешнокомпенсирани промени на утвърдените разходи по области на политики/бюджетни програми по бюджета на Министерството на транспорта, информационните технологии и съобщенията за 2015 г. (ДВ, бр. 2 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99858)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

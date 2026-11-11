@@ -18,6 +18,21 @@
 
 Act id: `postanovlenie-2007-dv015-3297` (tags `postanovlenie-2007-dv015-3297/<day>`; `python tools/on.py <day> postanovlenie-2007-dv015-3297`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 49 от 13 март 2008 г. за изменение и допълнение на Постановление № 27 на Министерския съвет от 2007 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на образованието и науката (ДВ, бр. 32 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4990)
+
+Cited by:
+
+- [Постановление № 154 от 2 юли 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 61 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5907)
+- [Постановление № 102 от 7 май 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20431)
+- [Постановление № 195 от 6 август 2009 г. за закриване на Държавната агенция за младежта и спорта и за приемане на Устройствен правилник на Министерството на физическото възпитание и спорта (ДВ, бр. 64 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24180)
+- [Постановление № 11 от 3 февруари 2010 г. за приемане на Устройствен правилник на Министерството на образованието, младежта и науката и определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на образованието, младежта и науката (ДВ, бр. 12 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29503)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

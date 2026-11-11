@@ -52,6 +52,17 @@
 
 Act id: `naredba-2017-dv064-116793` (tags `naredba-2017-dv064-116793/<day>`; `python tools/on.py <day> naredba-2017-dv064-116793`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Заповед № РД-09-354 от 8 април 2019 г. (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137126)
+- [Наредба № 8 от 23 февруари 2021 г. за условията и реда за контрол върху продуктите за растителна защита, търговията, преопаковането, съхранението и употребата им (ДВ, бр. 18 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156243)
+- [Наредба № 12 от 23 август 2023 г. за условията и реда за употреба на продукти за растителна защита (ДВ, бр. 74 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198984)
+- [Заповед № РД-09-1037 от 1 октомври 2024 г. за утвърждаване на Ръководство за прилагане на законоустановените изисквания за управление за периода 2023 - 2027 г. (ДВ, бр. 86 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229240)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

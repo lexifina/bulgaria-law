@@ -86,6 +86,14 @@
 
 Act id: `postanovlenie-2006-dv076-2546` (tags `postanovlenie-2006-dv076-2546/<day>`; `python tools/on.py <day> postanovlenie-2006-dv076-2546`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 288 от 7 декември 2010 г. за изменение и допълнение на Наредбата за различните или специфичните правила, които ще се прилагат за специфичните стоки и движения на стоки, референтните периоди, начина на тяхното отчитане и деклариране, както и стоките, които ще бъдат изключени от статистическата дейност за вътрешнообщностната търговия със стоки, приета с Постановление № 238 на Министерския съвет от 2006 г. (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41618)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

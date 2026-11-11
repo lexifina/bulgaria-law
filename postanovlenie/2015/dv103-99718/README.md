@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2015-dv103-99718` (tags `postanovlenie-2015-dv103-99718/<day>`; `python tools/on.py <day> postanovlenie-2015-dv103-99718`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 155 от 29 юни 2016 г. за одобряване на допълнителни разходи по бюджета на Министерския съвет за 2016 г. (ДВ, бр. 51 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105240)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -61,6 +61,21 @@
 
 Act id: `postanovlenie-2011-dv053-54096` (tags `postanovlenie-2011-dv053-54096/<day>`; `python tools/on.py <day> postanovlenie-2011-dv053-54096`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 293 от 22 ноември 2012 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70707)
+- [Постановление № 21 от 12 февруари 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82641)
+- [Постановление № 105 от 28 април 2015 г. за приемане на Устройствен правилник на Българската агенция за инвестиции и на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94157)
+- [Постановление № 281 от 16 октомври 2015 г. за изменение на Правилника за устройството и дейността на Държавната комисия по стоковите борси и тържищата и на нейната администрация, приет с Постановление № 61 на Министерския съвет от 2000 г. (ДВ, бр. 82 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98152)
+- [Постановление № 177 от 20 август 2018 г. за приемане на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129564)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 188 от 12 октомври 2026 г. за приемане на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката, инвестициите и индустрията (ДВ, бр. 95 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246530)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

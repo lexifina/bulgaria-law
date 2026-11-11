@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2020-dv110-154721` (tags `postanovlenie-2020-dv110-154721/<day>`; `python tools/on.py <day> postanovlenie-2020-dv110-154721`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 59 от 18 февруари 2021 г. за одобряване на промени в разходите и трансферите по бюджета на Министерството на здравеопазването за 2021 г., свързани с дейностите и мерките за превенция и борба с COVID-19 (ДВ, бр. 16 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156161)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

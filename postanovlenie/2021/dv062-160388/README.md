@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2021-dv062-160388` (tags `postanovlenie-2021-dv062-160388/<day>`; `python tools/on.py <day> postanovlenie-2021-dv062-160388`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 293 от 1 септември 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. за финансово осигуряване на дейности по Национална програма "Отново заедно", одобрена с Решение № 453 на Министерския съвет от 2021 г. (ДВ, бр. 74 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161569)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

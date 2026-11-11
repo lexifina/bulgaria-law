@@ -38,6 +38,21 @@
 
 Act id: `naredba-2004-dv001-22296` (tags `naredba-2004-dv001-22296/<day>`; `python tools/on.py <day> naredba-2004-dv001-22296`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 77 от 2003 г. за одобряване типа на нови моторни превозни средства по отношение на емисии на въглероден двуокис и разхода на гориво (ДВ, бр. 45 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1999)
+- [Наредба за изменение и допълнение на Наредба № 77 от 2003 г. за одобряване типа на нови моторни превозни средства по отношение на емисии на въглероден диоксид и разхода на гориво (ДВ, бр. 87 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2745)
+
+Cited by:
+
+- [Постановление № 237 от 5 септември 2006 г. за приемане на Наредба за изискванията за етикетиране на нови пътнически автомобили и за предоставяне на информация относно разхода на гориво и на емисиите на въглероден диоксид (ДВ, бр. 76 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2545)
+- [Постановление № 130 от 15 юни 2004 г. за приемане на Наредба за изискванията за етикетиране на нови леки автомобили по отношение на разхода на гориво и на емисиите на въглероден двуокис (ДВ, бр. 55 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20001)
+- [Наредба за изменение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 75 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68641)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -28,6 +28,14 @@
 
 Act id: `instruktsiya-2009-dv084-26033` (tags `instruktsiya-2009-dv084-26033/<day>`; `python tools/on.py <day> instruktsiya-2009-dv084-26033`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за отменяне на Инструкция № Iз-1863 от 2009 г. за реда за издаване на удостоверителни документи за досъдебни производства в Министерството на вътрешните работи (ДВ, бр. 87 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88746)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

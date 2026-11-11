@@ -13,6 +13,19 @@
 
 Act id: `naredba-2019-dv079-141642` (tags `naredba-2019-dv079-141642/<day>`; `python tools/on.py <day> naredba-2019-dv079-141642`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 2 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=167167)
+- [Наредба за изменение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 53 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196119)
+- [Наредба за изменение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 88 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229398)
+- [Наредба за изменение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 94 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238444)
+- [Наредба за изменение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239722)
+- [Наредба за изменение на Наредба № 3 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по клинична хематология (ДВ, бр. 77 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245441)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

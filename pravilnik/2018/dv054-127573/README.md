@@ -37,6 +37,15 @@
 
 Act id: `pravilnik-2018-dv054-127573` (tags `pravilnik-2018-dv054-127573/<day>`; `python tools/on.py <day> pravilnik-2018-dv054-127573`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 93 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164309)
+- [Правилник за наблюдение и оценка на научноизследователската дейност, осъществявана от висшите училища и научните организации, както и на дейността на Фонд "Научни изследвания" (ДВ, бр. 106 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231245)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

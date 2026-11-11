@@ -27,6 +27,14 @@
 
 Act id: `postanovlenie-2006-dv035-1735` (tags `postanovlenie-2006-dv035-1735/<day>`; `python tools/on.py <day> postanovlenie-2006-dv035-1735`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 265 от 26 септември 2006 г. за приемане на Наредба за условията и реда за признаване на право за упражняване на регулирана професия, за която се изисква притежаването на общи търговски или общи професионални знания и умения (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2657)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

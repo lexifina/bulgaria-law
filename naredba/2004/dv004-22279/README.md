@@ -67,6 +67,24 @@
 
 Act id: `naredba-2004-dv004-22279` (tags `naredba-2004-dv004-22279/<day>`; `python tools/on.py <day> naredba-2004-dv004-22279`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 101 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2970)
+- [Наредба за изменение и допълнение на Наредба 13 от 2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 13 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15819)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 109 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18203)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 83 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118617)
+- [Наредба за изменение и допълнение на Наредба № 13 от 22.12.2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 84 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178970)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2003 г. за проспектите при публично предлагане на ценни книжа и за разкриването на информация от публичните дружества и другите емитенти на ценни книжа (ДВ, бр. 82 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4291)
+- [Наредба № 15 от 5 май 2004 г. за воденето и съхраняването на регистрите от Комисията за финансов надзор и за подлежащите на вписване обстоятелства (ДВ, бр. 54 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20048)
+- [Наредба за изменение и допълнение на наредби на Комисията за финансов надзор (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236442)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

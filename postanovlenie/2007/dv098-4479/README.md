@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2007-dv098-4479` (tags `postanovlenie-2007-dv098-4479/<day>`; `python tools/on.py <day> postanovlenie-2007-dv098-4479`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 293 от 3 декември 2007 г. за изменение на Постановление № 282 на Министерския съвет от 2007 г. за одобряване на допълнителни средства за еднократно изплащане на допълнителна сума към пенсиите за декември 2007 г. (ДВ, бр. 102 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4503)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

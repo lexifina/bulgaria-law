@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2022-dv062-175364` (tags `postanovlenie-2022-dv062-175364/<day>`; `python tools/on.py <day> postanovlenie-2022-dv062-175364`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 283 от 19 септември 2022 г. за изменение на Постановление № 216 на Министерския съвет от 2022 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2022 г. за превоз на пътници по нерентабилни автобусни линии във вътрешноградски транспорт и транспорта в планински и други райони за 2022 г. и за превоз на пътници по междуселищни автобусни линии извън тези по § 4, ал. 1 и 2 от заключителните разпоредби на Закона за автомобилните превози за 2022 г. (ДВ, бр. 76 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178238)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

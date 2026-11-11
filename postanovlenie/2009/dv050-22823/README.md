@@ -53,6 +53,18 @@
 
 Act id: `postanovlenie-2009-dv050-22823` (tags `postanovlenie-2009-dv050-22823/<day>`; `python tools/on.py <day> postanovlenie-2009-dv050-22823`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 98 от 20 юни 2025 г. за изменение и допълнение на Наредбата за възлагане извършването на дейности, свързани с подготовката за приватизация или със следприватизационния контрол, включително процесуално представителство, или на дейности, свързани с функциите по Закона за публичните предприятия, приета с Постановление № 121 на Министерския съвет от 2018 г. (ДВ, бр. 51 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235617)
+
+Cited by:
+
+- [Постановление № 121 от 29 юни 2018 г. за приемане на Наредба за възлагане извършването на дейности, свързани с подготовката за приватизация или със следприватизационния контрол, включително процесуално представителство (ДВ, бр. 56 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128225)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

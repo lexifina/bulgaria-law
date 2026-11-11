@@ -24,6 +24,18 @@
 
 Act id: `postanovlenie-2016-dv092-109269` (tags `postanovlenie-2016-dv092-109269/<day>`; `python tools/on.py <day> postanovlenie-2016-dv092-109269`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 76 от 2 април 2024 г. за изменение и допълнение на Наредбата за определяне на реда, начина, сроковете и обхвата на подлежащата на публикуване информация от системата за електронни бюджетни разплащания, приета с Постановление № 299 на Министерския съвет от 2016 г. (ДВ, бр. 30 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211760)
+
+Cited by:
+
+- [Постановление № 332 от 22 декември 2017 г. за изпълнението на държавния бюджет на Република България за 2018 г. (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121196)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

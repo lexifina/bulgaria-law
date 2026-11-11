@@ -54,6 +54,15 @@
 
 Act id: `naredba-2010-dv027-31504` (tags `naredba-2010-dv027-31504/<day>`; `python tools/on.py <day> naredba-2010-dv027-31504`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Подобряване икономическата стойност на горите" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 105 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59945)
+- [Наредба № 2 от 3 февруари 2016 г. за условията и реда за регистрация на техниката по Закона за регистрация и контрол на земеделската и горската техника (ДВ, бр. 11 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100799)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

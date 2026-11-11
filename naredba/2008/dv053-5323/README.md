@@ -55,6 +55,23 @@
 
 Act id: `naredba-2008-dv053-5323` (tags `naredba-2008-dv053-5323/<day>`; `python tools/on.py <day> naredba-2008-dv053-5323`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 5 от 2008 г. за управление качеството на водите за къпане (ДВ, бр. 5 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71894)
+
+Cited by:
+
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+- [Наредба № Н-3 от 28 ноември 2011 г. за предоставяне на информация от ведомства и научни институти с бюджетно финансиране и водоползвателите, чиято дейност оказва значимо въздействие върху състоянието на водите (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59989)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за проучване, ползване и опазване на подземните води (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61463)
+- [Постановление № 365 от 21 декември 2016 г. за приемане на Наредба за детските и ученическите туристически пътувания с обща цена, инициирани от институциите в системата на предучилищното и училищното образование (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110581)
+- [Постановление № 82 от 3 април 2024 г. за приемане на Наредба за водноспасителната дейност и обезопасяването на водните площи и басейните за обществено ползване (ДВ, бр. 30 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212060)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

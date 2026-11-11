@@ -13,6 +13,16 @@
 
 Act id: `postanovlenie-2005-dv031-15134` (tags `postanovlenie-2005-dv031-15134/<day>`; `python tools/on.py <day> postanovlenie-2005-dv031-15134`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 45 от 6 март 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет в изпълнение на Резолюция 1643 на Съвета за сигурност на ООН от 15 декември 2005 г. (ДВ, бр. 22 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1536)
+- [Постановление № 108 от 11 май 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет в изпълнение на Резолюция 1727 на Съвета за сигурност на ООН от 15 декември 2006 г. и Обща позиция 2007/92 на Съвета на ЕС от 12 февруари 2007 г. (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3698)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

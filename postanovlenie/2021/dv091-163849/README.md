@@ -79,6 +79,15 @@
 
 Act id: `postanovlenie-2021-dv091-163849` (tags `postanovlenie-2021-dv091-163849/<day>`; `python tools/on.py <day> postanovlenie-2021-dv091-163849`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174643)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -52,6 +52,14 @@
 
 Act id: `naredba-2015-dv055-95924` (tags `naredba-2015-dv055-95924/<day>`; `python tools/on.py <day> naredba-2015-dv055-95924`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № РД-02-20-1 от 15 януари 2021 г. за създаване и поддържане на Държавната нивелачна мрежа (ДВ, бр. 10 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155575)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

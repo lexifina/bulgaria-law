@@ -19,6 +19,23 @@
 
 Act id: `postanovlenie-2021-dv058-160082` (tags `postanovlenie-2021-dv058-160082/<day>`; `python tools/on.py <day> postanovlenie-2021-dv058-160082`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 231 от 5 ноември 2025 г. за изменение и допълнение на Постановление № 226 на Министерския съвет от 2021 г. за приемане на показатели за определяне на изследователските висши училища и условията и реда за актуализиране на Списъка на изследователските висши училища (ДВ, бр. 96 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238709)
+
+Cited by:
+
+- [Решение № 539 от 22 юли 2021 г. за приемане на Списък на изследователските висши училища (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160398)
+- [Постановление № 115 от 8 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173993)
+- [Решение № 839 от 27 октомври 2022 г. за приемане на актуализиран Списък на изследователските висши училища (ДВ, бр. 87 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179500)
+- [Решение № 915 от 31 декември 2024 г. за приемане на актуализиран Списък на изследователските висши училища (ДВ, бр. 1 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231863)
+- [Решение № 89 от 26 януари 2026 г. за приемане на актуализиран Списък на изследователските висши училища (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240959)
+- [Решение № 824 от 30 октомври 2026 г. за приемане на актуализиран Списък на изследователските висши училища (ДВ, бр. 100 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247241)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

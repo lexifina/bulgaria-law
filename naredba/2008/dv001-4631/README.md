@@ -29,6 +29,17 @@
 
 Act id: `naredba-2008-dv001-4631` (tags `naredba-2008-dv001-4631/<day>`; `python tools/on.py <day> naredba-2008-dv001-4631`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-10 от 31 март 2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 30 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31972)
+- [Постановление № 314 от 23 ноември 2011 г. за приемане на нормативни актове по прилагането на Закона за държавния служител (ДВ, бр. 95 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58940)
+- [Постановление № 129 от 26 юни 2012 г. за приемане на Класификатор на длъжностите в администрацията, на Наредба за прилагането на Класификатора на длъжностите в администрацията, на Наредба за заплатите на служителите в държавната администрация, на Наредба за условията и реда за оценяване изпълнението на служителите в държавната администрация и на Наредба за длъжностните характеристики на държавните служители (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65930)
+- [Наредба за изменение и допълнение на Наредба № Н-10 от 2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 58 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66918)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

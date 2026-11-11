@@ -41,6 +41,21 @@
 
 Act id: `pravilnik-2017-dv013-111568` (tags `pravilnik-2017-dv013-111568/<day>`; `python tools/on.py <day> pravilnik-2017-dv013-111568`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и функциите на регионалните управления на образованието (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154527)
+- [Правилник за изменение на Правилника за устройството и функциите на регионалните управления на образованието (ДВ, бр. 93 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164310)
+- [Правилник за изменение на Правилника за устройството и функциите на регионалните управления на образованието (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192020)
+- [Правилник за изменение и допълнение на Правилника за устройството и функциите на регионалните управления на образованието (ДВ, бр. 84 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228920)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация (ДВ, бр. 41 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234837)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

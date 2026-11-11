@@ -40,6 +40,15 @@
 
 Act id: `naredba-2005-dv078-887` (tags `naredba-2005-dv078-887/<day>`; `python tools/on.py <day> naredba-2005-dv078-887`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 11 от 22 октомври 2018 г. за здравни норми и изисквания при работа в среда на йонизиращи лъчения (ДВ, бр. 91 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131292)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

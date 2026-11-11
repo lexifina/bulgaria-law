@@ -16,6 +16,14 @@
 
 Act id: `naredba-2011-dv001-41858` (tags `naredba-2011-dv001-41858/<day>`; `python tools/on.py <day> naredba-2011-dv001-41858`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -34,6 +34,14 @@
 
 Act id: `pravilnik-2013-dv027-73867` (tags `pravilnik-2013-dv027-73867/<day>`; `python tools/on.py <day> pravilnik-2013-dv027-73867`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за дейността на военнослужещите в Службата на военния аташе към задграничните представителства на Република България (ДВ, бр. 32 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113541)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -98,6 +98,22 @@
 
 Act id: `naredba-2023-dv054-196568` (tags `naredba-2023-dv054-196568/<day>`; `python tools/on.py <day> naredba-2023-dv054-196568`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2023 г. за условията и реда за прилагане на интервенциите от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в сектора на пчеларството (ДВ, бр. 74 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198978)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2023 г. за условията и реда за прилагане на интервенциите от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в сектора на пчеларството (ДВ, бр. 98 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201376)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2023 г. за условията и реда за прилагане на интервенциите от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в сектора на пчеларството (ДВ, бр. 72 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=226001)
+- [Наредба за изменение на Наредба № 8 от 2023 г. за условията и реда за прилагане на интервенциите от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в сектора на пчеларството (ДВ, бр. 72 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236976)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2023 г. за условията и реда за прилагане на интервенциите от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в сектора на пчеларството (ДВ, бр. 22 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241410)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2021 г. за условията и реда за обезвреждане на странични животински продукти и на продукти, получени от тях, извън обектите, регистрирани в областните дирекции по безопасност на храните (ДВ, бр. 107 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231606)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

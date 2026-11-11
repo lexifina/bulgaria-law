@@ -35,6 +35,18 @@
 
 Act id: `naredba-2009-dv049-22723` (tags `naredba-2009-dv049-22723/<day>`; `python tools/on.py <day> naredba-2009-dv049-22723`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № І-5 от 2009 г. за условията и реда, при които се изплаща допълнително възнаграждение за постигнати резултати в служебната дейност въз основа на оценка на служителите на Държавна агенция "Национална сигурност" (ДВ, бр. 87 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26286)
+
+Cited by:
+
+- [Наредба за допълнение на Наредба № І-4-4 от 2010 г. за атестиране на служителите на Държавната агенция "Национална сигурност" и за условията и реда, при които се определя и изплаща допълнително възнаграждение за постигнати резултати в служебната дейност въз основа на оценка (поверително) (ДВ, бр. 81 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69539)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

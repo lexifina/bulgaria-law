@@ -43,6 +43,20 @@
 
 Act id: `naredba-2011-dv078-57125` (tags `naredba-2011-dv078-57125/<day>`; `python tools/on.py <day> naredba-2011-dv078-57125`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-14 от 2011 г. за обхвата и съдържанието на оценката на въздействието върху пътната безопасност и на одита за пътна безопасност, условията и реда за извършването им и за придобиване и признаване на професионална квалификация "одитор по пътна безопасност" (ДВ, бр. 9 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111447)
+- [Наредба за отменяне на Наредба № РД-02-20-14 от 2011 г. за обхвата и съдържанието на оценката на въздействието върху пътната безопасност и на одита за пътна безопасност, условията и реда за извършването им и за придобиване и признаване на професионална квалификация "одитор по пътна безопасност" (ДВ, бр. 43 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=193440)
+
+Cited by:
+
+- [Наредба № РД-02-20-2 от 28 август 2018 г. за проектиране на пътища (ДВ, бр. 79 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129951)
+- [Постановление № 125 от 16 юни 2022 г. за приемане на Наредба за процедурите за управление на безопасността на пътната инфраструктура (ДВ, бр. 46 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174198)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

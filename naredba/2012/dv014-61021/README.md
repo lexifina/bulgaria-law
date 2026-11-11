@@ -19,6 +19,14 @@
 
 Act id: `naredba-2012-dv014-61021` (tags `naredba-2012-dv014-61021/<day>`; `python tools/on.py <day> naredba-2012-dv014-61021`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 31 януари 2023 г. за придобиване на квалификация по професията "Оперативен счетоводител" (ДВ, бр. 15 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186201)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

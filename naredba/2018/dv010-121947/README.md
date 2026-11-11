@@ -22,6 +22,15 @@
 
 Act id: `naredba-2018-dv010-121947` (tags `naredba-2018-dv010-121947/<day>`; `python tools/on.py <day> naredba-2018-dv010-121947`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 48 от 2013 г. за изискванията към възнагражденията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137550)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

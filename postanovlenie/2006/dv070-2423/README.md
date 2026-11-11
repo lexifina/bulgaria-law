@@ -35,6 +35,14 @@
 
 Act id: `postanovlenie-2006-dv070-2423` (tags `postanovlenie-2006-dv070-2423/<day>`; `python tools/on.py <day> postanovlenie-2006-dv070-2423`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за функциите и състава на Експертния съвет за одобряване на стратегически карти за шум и планове за действие (ДВ, бр. 41 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158163)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

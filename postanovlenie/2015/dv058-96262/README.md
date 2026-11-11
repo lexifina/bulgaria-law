@@ -16,6 +16,15 @@
 
 Act id: `postanovlenie-2015-dv058-96262` (tags `postanovlenie-2015-dv058-96262/<day>`; `python tools/on.py <day> postanovlenie-2015-dv058-96262`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 314 от 16 ноември 2015 г. за одобряване на вътрешнокомпенсирани промени на утвърдените разходи по области на политики/бюджетни програми по бюджета на Министерството на културата за 2015 г. (ДВ, бр. 90 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98833)
+- [Постановление № 31 от 12 февруари 2016 г. за утвърждаване на единни разходни стандарти за финансиране на държавните културни институти, осъществяващи дейности в областта на сценичните изкуства (ДВ, бр. 14 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

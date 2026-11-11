@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2025-dv040-234764` (tags `postanovlenie-2025-dv040-234764/<day>`; `python tools/on.py <day> postanovlenie-2025-dv040-234764`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 59 от 30 април 2026 г. за приемане на Списък на продуктите, свързани с отбраната, и на Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 42 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243258)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

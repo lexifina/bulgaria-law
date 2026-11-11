@@ -290,9 +290,80 @@
 
 Act id: `zakon-2013-dv030-14039` (tags `zakon-2013-dv030-14039/<day>`; `python tools/on.py <day> zakon-2013-dv030-14039`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 9 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15145)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 75 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42224)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 37 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77904)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 17 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157131)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 56 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164832)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 80 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166512)
+
+Cited by:
+
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за изменение и допълнение на Кодекса на търговското корабоплаване (ДВ, бр. 109 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81261)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84720)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 9 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91758)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97877)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104194)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 59 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106060)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 75 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107664)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120044)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125764)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Постановление № 252 от 8 октомври 2019 г. за приемане на Наредба за Националния туристически регистър (ДВ, бр. 81 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141902)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145829)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 17 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146039)
+- [Закон за изменение и допълнение на Закона за автомобилните превози (ДВ, бр. 60 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149452)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156354)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196681)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201801)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 80 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237490)
+- [Закон за общите изисквания за безопасност при предоставяне на атракционни услуги, представляващи източник на повишена опасност (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241045)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за изменение и допълнение на Кодекса на търговското корабоплаване (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14588)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 40 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14800)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 9 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15145)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15077)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/28950)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 59 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42210)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 75 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42224)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66626)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 37 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77904)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 13 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157207)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 17 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157131)
+- [Закон за изменение и допълнение на Закона за автомобилните превози (ДВ, бр. 60 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157302)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163303)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 56 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164832)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165174)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за допълнение на Закона за туризма (ДВ, бр. 80 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166512)
+- [Закон за общите изисквания за безопасност при предоставяне на атракционни услуги, представляващи източник на повишена опасност (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166718)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

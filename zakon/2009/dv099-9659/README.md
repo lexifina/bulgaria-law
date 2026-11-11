@@ -25,9 +25,35 @@
 
 Act id: `zakon-2009-dv099-9659` (tags `zakon-2009-dv099-9659/<day>`; `python tools/on.py <day> zakon-2009-dv099-9659`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за бюджета на Националната здравноосигурителна каса за 2010 г. (ДВ, бр. 62 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10056)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за приватизация и следприватизационен контрол (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30292)
+- [Решение № 4 от 31 март 2010 г. по конституционно дело № 1 от 2010 г. (ДВ, бр. 27 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31733)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 49 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34093)
+- [Закон за изменение и допълнение на Закона за държавния бюджет на Република България за 2010 г. (ДВ, бр. 56 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34857)
+- [Закон за изменение и допълнение на Закона за лечебните заведения (ДВ, бр. 59 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35363)
+- [Закон за изменение и допълнение на Закона за бюджета на Националната здравноосигурителна каса за 2010 г. (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35520)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35521)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2011 г. (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41232)
+- [Закон за изменение и допълнение на Закона за приватизация и следприватизационен контрол (ДВ, бр. 18 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9966)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 49 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10036)
+- [Закон за изменение и допълнение на Закона за лечебните заведения (ДВ, бр. 59 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9931)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10010)
+- [Закон за изменение и допълнение на Закона за бюджета на Националната здравноосигурителна каса за 2010 г. (ДВ, бр. 62 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10056)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2011 г. (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10022)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

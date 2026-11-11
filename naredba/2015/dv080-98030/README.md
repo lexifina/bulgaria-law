@@ -28,6 +28,19 @@
 
 Act id: `naredba-2015-dv080-98030` (tags `naredba-2015-dv080-98030/<day>`; `python tools/on.py <day> naredba-2015-dv080-98030`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 19 от 2015 г. за реда за контрол на изискванията на схемите за преходна национална помощ (ДВ, бр. 98 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201425)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2015 г. за условията и реда за прилагане на схемите за директни плащания (ДВ, бр. 16 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101239)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2015 г. за условията и реда за прилагане на схемите за директни плащания (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170155)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

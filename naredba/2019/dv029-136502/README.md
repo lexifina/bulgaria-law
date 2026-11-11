@@ -33,6 +33,19 @@
 
 Act id: `naredba-2019-dv029-136502` (tags `naredba-2019-dv029-136502/<day>`; `python tools/on.py <day> naredba-2019-dv029-136502`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 9 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155315)
+- [Наредба за допълнение на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 86 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163231)
+- [Наредба за изменение на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173751)
+- [Наредба за изменение на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 5 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=183680)
+- [Наредба за допълнение на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 54 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196539)
+- [Наредба за отменяне на Наредба № 39 от 28 март 2019 г. за номиналната стойност, съдържанието, формата и дизайна на банкнотите и монетите, пускани в обращение (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239808)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

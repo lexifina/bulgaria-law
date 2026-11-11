@@ -9,6 +9,14 @@
 
 Act id: `zakon-2010-dv039-9919` (tags `zakon-2010-dv039-9919/<day>`; `python tools/on.py <day> zakon-2010-dv039-9919`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 13 от 26 май 2021 г. за придобиване на квалификация по професията "Заварчик" (ДВ, бр. 48 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158584)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

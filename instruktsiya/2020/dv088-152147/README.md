@@ -50,6 +50,18 @@
 
 Act id: `instruktsiya-2020-dv088-152147` (tags `instruktsiya-2020-dv088-152147/<day>`; `python tools/on.py <day> instruktsiya-2020-dv088-152147`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № И-4 от 28.09.2020 г. за пропускателния режим в сградите на Министерството на отбраната (ДВ, бр. 44 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=215764)
+
+Cited by:
+
+- [Инструкция за изменение на Инструкция № И-2 от 12.03.2019 г. за реда, организацията на работа и състава на комисиите за кариерно развитие на военнослужещите в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия и на Комисията за избор на военнослужещи за назначаване на длъжности по Регистъра на вакантните длъжности за военнослужещи в състава на многонационални формирования, международни организации или в други международни инициативи на територията на страната (ДВ, бр. 84 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162448)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

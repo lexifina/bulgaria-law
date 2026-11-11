@@ -76,6 +76,14 @@
 
 Act id: `postanovlenie-2020-dv049-148481` (tags `postanovlenie-2020-dv049-148481/<day>`; `python tools/on.py <day> postanovlenie-2020-dv049-148481`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 137 от 24 юли 2025 г. за приемане на Единен списък на юридически лица, стратегически и други особено важни обекти, които са от значение за отбраната на страната във военно време (ДВ, бр. 61 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236328)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

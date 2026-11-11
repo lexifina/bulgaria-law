@@ -32,6 +32,25 @@
 
 Act id: `naredba-2005-dv063-688` (tags `naredba-2005-dv063-688/<day>`; `python tools/on.py <day> naredba-2005-dv063-688`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 5 февруари 2007 г. за здравните изисквания към детските градини (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3304)
+- [Наредба № 26 от 18 ноември 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 103 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12281)
+- [Наредба № 37 от 21 юли 2009 г. за здравословно хранене на учениците (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23868)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 6 от 10 август 2011 г. за здравословно хранене на децата на възраст от 3 до 7 години в детски заведения (ДВ, бр. 65 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56035)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67655)
+- [Наредба № 2 от 7 март 2013 г. за здравословно хранене на децата на възраст от 0 до 3 години в детските заведения и детските кухни (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74168)
+- [Постановление № 73 от 28 март 2014 г. за изменение и допълнение на Наредбата за трудовите и непосредствено свързани с тях отношения между членовете на екипажа на кораба и корабопритежателя, приета с Постановление № 226 на Министерския съвет от 2003 г. (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83932)
+- [Наредба № 1 от 22 януари 2018 г. за физиологичните норми за хранене на населението (ДВ, бр. 11 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122174)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2011 г. за здравословно хранене на децата на възраст от 3 до 7 години в детски заведения (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142503)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152390)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за здравословно хранене на децата на възраст от 0 до 3 години в детските заведения и детските кухни (ДВ, бр. 85 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229126)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

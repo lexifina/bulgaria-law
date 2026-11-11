@@ -103,6 +103,40 @@
 
 Act id: `zakon-2008-dv043-5130` (tags `zakon-2008-dv043-5130/<day>`; `python tools/on.py <day> zakon-2008-dv043-5130`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за отговорността за предотвратяване и отстраняване на екологични щети (ДВ, бр. 96 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153163)
+- [Закон за изменение и допълнение на Закона за отговорността за предотвратяване и отстраняване на екологични щети (ДВ, бр. 96 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163315)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 12 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16044)
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37196)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58585)
+- [Закон за съхранение на въглероден диоксид в земните недра (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61272)
+- [Закон за управление на отпадъците (ДВ, бр. 53 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66119)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 62 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96407)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 101 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99506)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10054)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13697)
+- [Закон за съхранение на въглероден диоксид в земните недра (ДВ, бр. 14 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13706)
+- [Закон за управление на отпадъците (ДВ, бр. 53 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13631)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 62 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15266)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 101 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15447)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

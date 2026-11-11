@@ -25,6 +25,16 @@
 
 Act id: `naredba-2010-dv002-27894` (tags `naredba-2010-dv002-27894/<day>`; `python tools/on.py <day> naredba-2010-dv002-27894`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-4 от 2009 г. за реда за водене на Регистъра на експерти по чл. 96, ал. 3 от Закона за културното наследство (ДВ, бр. 17 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61856)
+- [Наредба за изменение и допълнение на Наредба № Н-4 от 2009 г. за реда за водене на Регистъра на експерти по чл. 96, ал. 3 от Закона за културното наследство (ДВ, бр. 33 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63703)
+- [Наредба за допълнение на Наредба № H-4 от 2009 г. за реда за водене на Регистъра на експерти по чл. 96, ал. 3 от Закона за културното наследство (ДВ, бр. 102 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120953)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

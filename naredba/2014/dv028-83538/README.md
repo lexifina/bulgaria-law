@@ -34,6 +34,18 @@
 
 Act id: `naredba-2014-dv028-83538` (tags `naredba-2014-dv028-83538/<day>`; `python tools/on.py <day> naredba-2014-dv028-83538`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за реда за издаване на разрешения за износ, временен износ и временно изнасяне на движими културни ценности и на сертификата по чл. 128, ал. 3 от Закона за културното наследство за изнасяне и временно изнасяне (ДВ, бр. 37 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147453)
+
+Cited by:
+
+- [Наредба № 1 от 16 февруари 2021 г. за реда за извършване на идентификация на движимите културни ценности и за водене на регистри на движимите културни ценности (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156047)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

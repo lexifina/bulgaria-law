@@ -48,6 +48,37 @@
 
 Act id: `zakon-2004-dv103-18357` (tags `zakon-2004-dv103-18357/<day>`; `python tools/on.py <day> zakon-2004-dv103-18357`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5005)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 66 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6481)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 21 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83184)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 44 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126752)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 80 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162229)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 21 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14708)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателно производство (ДВ, бр. 80 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163827)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2662)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25652)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за съдебната власт (ДВ, бр. 11 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145456)
+- [Закон за допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 16 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156081)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244673)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9701)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение и допълнение на Закона за защита на лица, застрашени във връзка с наказателното производство (ДВ, бр. 44 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78011)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за съдебната власт (ДВ, бр. 11 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157167)
+- [Закон за допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 16 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163448)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 66 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166976)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

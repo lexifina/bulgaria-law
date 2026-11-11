@@ -35,6 +35,18 @@
 
 Act id: `naredba-2020-dv097-153517` (tags `naredba-2020-dv097-153517/<day>`; `python tools/on.py <day> naredba-2020-dv097-153517`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2020 г. за условията и реда за извършване на дезинфекция, дезинсекция, дератизация и девастация при ограничаване и ликвидиране на болестите по животните (ДВ, бр. 53 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218520)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2016 г. за мерките за опазването на пчелите и пчелните семейства от отравяне и начините за провеждане на растителнозащитни, дезинфекционни и дезинсекционни дейности (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153972)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -24,6 +24,20 @@
 
 Act id: `postanovlenie-2004-dv089-18611` (tags `postanovlenie-2004-dv089-18611/<day>`; `python tools/on.py <day> postanovlenie-2004-dv089-18611`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 7 от 15 януари 2026 г. за изменение и допълнение на Тарифата за таксите, които се събират от Държавната комисия за енергийно и водно регулиране по Закона за енергетиката, приета с Постановление № 266 на Министерския съвет от 2004 г. (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240707)
+- [Постановление № 8 от 15 януари 2026 г. за изменение и допълнение на Тарифата за таксите, които се събират от Държавната комисия за енергийно и водно регулиране по Закона за регулиране на водоснабдителните и канализационните услуги, приета с Постановление № 49 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240708)
+
+Cited by:
+
+- [Постановление № 208 от 9 август 2006 г. за приемане на Наредба за определенията на видовете спиртни напитки, видовете суровини и технологични операции, правилата за производство на спиртните напитки, разрешените добавки и условията за използването им (ДВ, бр. 68 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2397)
+- [Постановление № 18 от 28 януари 2009 г. за приемане на Наредба за издаване на сертификати за произход на електрическа енергия, произведена от възобновяеми енергийни източници (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15539)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

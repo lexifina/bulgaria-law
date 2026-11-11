@@ -49,6 +49,19 @@
 
 Act id: `naredba-2009-dv025-17860` (tags `naredba-2009-dv025-17860/<day>`; `python tools/on.py <day> naredba-2009-dv025-17860`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-2 от 2009 г. за реда и начина за осъществяване, координация и хармонизация на специфичните одитни дейности по фондове и програми на Европейския съюз (ДВ, бр. 103 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27913)
+- [Наредба за изменение и допълнение на Наредба № Н-2 от 2009 г. за реда и начина за осъществяване, координация и хармонизация на специфичните одитни дейности по фондове и програми на Европейския съюз (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42075)
+
+Cited by:
+
+- [Наредба № Н-2 от 30 юни 2016 г. за реда и начина за осъществяване, координация и хармонизация на специфичните одитни дейности по фондове и програми на Европейския съюз (ДВ, бр. 52 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105261)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

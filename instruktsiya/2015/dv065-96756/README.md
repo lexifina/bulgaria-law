@@ -31,6 +31,17 @@
 
 Act id: `instruktsiya-2015-dv065-96756` (tags `instruktsiya-2015-dv065-96756/<day>`; `python tools/on.py <day> instruktsiya-2015-dv065-96756`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-988 от 2015 г. за вида на личния знак, за условията и реда за ползването му и реда за носене на индивидуален идентификационен номер от служителите на Министерството на вътрешните работи (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145391)
+- [Инструкция за допълнение на Инструкция № 8121з-988 от 2015 г. за вида на личния знак, за условията и реда за ползването му и реда за носене на индивидуален идентификационен номер от служителите на Министерството на вътрешните работи (ДВ, бр. 107 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154505)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-988 от 17 август 2015 г. за вида на личния знак, за условията и реда за ползването му и реда за носене на индивидуален идентификационен номер от служителите на Министерството на вътрешните работи (ДВ, бр. 104 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166109)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-988 от 17 август 2015 г. за вида на личния знак, за условията и реда за ползването му и реда за носене на индивидуален идентификационен номер от служителите на Министерството на вътрешните работи (ДВ, бр. 46 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243336)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

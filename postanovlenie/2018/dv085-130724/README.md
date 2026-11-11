@@ -17,6 +17,15 @@
 
 Act id: `postanovlenie-2018-dv085-130724` (tags `postanovlenie-2018-dv085-130724/<day>`; `python tools/on.py <day> postanovlenie-2018-dv085-130724`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 282 от 7 декември 2018 г. за изменение на Постановление № 221 на Министерския съвет от 2018 г. за одобряване на допълнителни разходи по бюджета на Министерството на регионалното развитие и благоустройството за 2018 г. (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132878)
+- [Постановление № 330 от 20 декември 2018 г. за изменение на Постановление № 221 на Министерския съвет от 2018 г. за одобряване на допълнителни разходи по бюджета на Министерството на регионалното развитие и благоустройството за 2018 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133297)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

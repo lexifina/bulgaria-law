@@ -47,6 +47,21 @@
 
 Act id: `naredba-2014-dv041-84874` (tags `naredba-2014-dv041-84874/<day>`; `python tools/on.py <day> naredba-2014-dv041-84874`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № Н-11 от 2014 г. за определяне на изискванията за здравословна годност на морските лица в Република България (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143401)
+- [Наредба за изменение и допълнение на Наредба № Н-11 от 30.04.2014 г. за определяне на изискванията за здравословна годност на морските лица в Република България (ДВ, бр. 100 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165054)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2012 г. за компетентност на морските лица в Република България (ДВ, бр. 84 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88421)
+- [Наредба № 6 от 17 юни 2021 г. за компетентност на морските лица в Република България (ДВ, бр. 54 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159511)
+- [Наредба № 14 от 28 юни 2022 г. за придобиване на квалификация по професията "Корабоводител" (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174593)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

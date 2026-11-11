@@ -57,6 +57,15 @@
 
 Act id: `postanovlenie-2014-dv024-83433` (tags `postanovlenie-2014-dv024-83433/<day>`; `python tools/on.py <day> postanovlenie-2014-dv024-83433`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 302 от 19 септември 2014 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 149 на Министерския съвет от 2013 г. (ДВ, бр. 81 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88255)
+- [Постановление № 67 от 23 март 2015 г. за приемане на Устройствен правилник на Министерството на здравеопазването и на Устройствен правилник на Изпълнителна агенция "Медицински одит" (ДВ, бр. 23 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93270)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

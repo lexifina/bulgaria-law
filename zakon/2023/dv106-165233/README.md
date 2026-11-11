@@ -30,6 +30,14 @@
 
 Act id: `zakon-2023-dv106-165233` (tags `zakon-2023-dv106-165233/<day>`; `python tools/on.py <day> zakon-2023-dv106-165233`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № РД-НС-04-19 от 31 януари 2024 г. (ДВ, бр. 12 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205980)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

@@ -217,6 +217,20 @@
 
 Act id: `naredba-2005-dv053-479` (tags `naredba-2005-dv053-479/<day>`; `python tools/on.py <day> naredba-2005-dv053-479`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2005 г. за технически правила и нормативи за проектиране, изграждане и ползване на обектите и съоръженията за производство, преобразуване, пренос и разпределение на електрическа енергия (ДВ, бр. 73 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2504)
+
+Cited by:
+
+- [Наредба № 16 - 27 от 22 януари 2008 г. за условията и реда за извършване на оценка за наличния и прогнозния потенциал на ресурса за производство на енергия от възобновяеми и/или алтернативни енергийни източници (ДВ, бр. 11 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4742)
+- [Постановление № 262 от 7 октомври 2016 г. за приемане на Наредба за условията и реда за осъществяване на техническата и безопасната експлоатация на язовирните стени и на съоръженията към тях, както и на контрол за техническото им състояние (ДВ, бр. 81 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108151)
+- [Постановление № 12 от 28 януари 2020 г. за приемане на Наредба за условията и реда за осъществяване на техническата и безопасната експлоатация на язовирните стени и на съоръженията към тях и за осъществяване на контрол за техническото им състояние (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145555)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

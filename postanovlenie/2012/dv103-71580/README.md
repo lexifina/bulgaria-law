@@ -29,6 +29,14 @@
 
 Act id: `postanovlenie-2012-dv103-71580` (tags `postanovlenie-2012-dv103-71580/<day>`; `python tools/on.py <day> postanovlenie-2012-dv103-71580`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 62 от 21 април 2023 г. за приемане на Тарифа за таксите, които се събират от Военно-географската служба за предоставяне на материали, данни и услуги от геодезическия и картографския фонд на Министерството на отбраната (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191721)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

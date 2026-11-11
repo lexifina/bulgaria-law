@@ -63,6 +63,20 @@
 
 Act id: `naredba-2008-dv073-7804` (tags `naredba-2008-dv073-7804/<day>`; `python tools/on.py <day> naredba-2008-dv073-7804`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 41 от 2008 г. за условията и реда за провеждане на обучение на водачите на автомобили за превоз на пътници и товари и за условията и реда за провеждане на изпитите за начална квалификация (ДВ, бр. 51 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127292)
+- [Наредба за изменение и допълнение на Наредба № 41 от 4 август 2008 г. за условията и реда за провеждане на обучение на водачите на автомобили за превоз на пътници и товари и за условията и реда за провеждане на изпитите за придобиване на начална квалификация (ДВ, бр. 57 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159935)
+
+Cited by:
+
+- [Наредба № 4 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на автомобилния транспорт" (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29120)
+- [Наредба за изменение на Наредба № 36 от 15.05.2006 г. за изискванията за психологическа годност и условията и реда за провеждане на психологическите изследвания на кандидати за придобиване на правоспособност за управление на МПС, на водачи на МПС и на председатели на изпитни комисии и за издаване на удостоверения за регистрация за извършване на психологически изследвания (ДВ, бр. 48 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195223)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

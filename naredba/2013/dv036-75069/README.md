@@ -90,6 +90,21 @@
 
 Act id: `naredba-2013-dv036-75069` (tags `naredba-2013-dv036-75069/<day>`; `python tools/on.py <day> naredba-2013-dv036-75069`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2013 г. за условията и изискванията за изграждането и експлоатацията на инсталации за изгаряне и инсталации за съвместно изгаряне на отпадъци (ДВ, бр. 82 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130353)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2013 г. за условията и изискванията за изграждането и експлоатацията на инсталации за изгаряне и инсталации за съвместно изгаряне на отпадъци (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153918)
+
+Cited by:
+
+- [Наредба № 3 от 5 август 2014 г. за изискванията за реда и начина за инвентаризация на оборудване, съдържащо полихлорирани бифенили, маркирането и почистването му, както и за третирането и транспортирането на отпадъци, съдържащи полихлорирани бифенили (ДВ, бр. 70 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87339)
+- [Наредба за изменение и допълнение на Наредба № 6 от 1999 г. за реда и начина за измерване на емисиите на вредни вещества, изпускани в атмосферния въздух от обекти с неподвижни източници (ДВ, бр. 61 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116500)
+- [Постановление № 150 от 24 юли 2018 г. за приемане на Наредба за ограничаване на емисиите на определени замърсители, изпускани в атмосферата от средни горивни инсталации (ДВ, бр. 63 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128872)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

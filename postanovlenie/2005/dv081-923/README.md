@@ -80,6 +80,19 @@
 
 Act id: `postanovlenie-2005-dv081-923` (tags `postanovlenie-2005-dv081-923/<day>`; `python tools/on.py <day> postanovlenie-2005-dv081-923`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 69 от 2 март 2021 г. за изменение и допълнение на Наредбата за освобождаване на генетично модифицирани организми в околната среда и пускането им на пазара, приета с Постановление № 212 на Министерския съвет от 2005 г. (ДВ, бр. 20 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156415)
+
+Cited by:
+
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

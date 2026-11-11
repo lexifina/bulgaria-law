@@ -89,6 +89,22 @@
 
 Act id: `postanovlenie-2006-dv078-2583` (tags `postanovlenie-2006-dv078-2583/<day>`; `python tools/on.py <day> postanovlenie-2006-dv078-2583`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 369 от 29 декември 2006 г. за изменение и допълнение на Устройствения правилник на Държавен фонд "Земеделие", приет с Постановление № 248 на Министерския съвет от 2006 г. (ДВ, бр. 3 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3096)
+- [Постановление № 46 от 10 март 2008 г. за изменение и допълнение на Устройствения правилник на Държавен фонд "Земеделие", приет с Постановление № 248 на Министерския съвет от 2006 г. (ДВ, бр. 29 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4957)
+- [Постановление № 100 от 16 май 2008 г. за изменение на Устройствения правилник на Държавен фонд "Земеделие", приет с Постановление № 248 на Министерския съвет от 2006 г. (ДВ, бр. 48 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5243)
+- [Постановление № 157 от 2 юли 2008 г. за изменение и допълнение на Устройствения правилник на Държавен фонд "Земеделие", приет с Постановление № 248 на Министерския съвет от 2006 г. (ДВ, бр. 61 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5910)
+- [Постановление № 255 от 28 октомври 2009 г. за приемане на Устройствен правилник на Държавен фонд "Земеделие" (ДВ, бр. 87 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26431)
+
+Cited by:
+
+- [Постановление № 246 от 10 октомври 2007 г. за приемане на Устройствен правилник на Държавна агенция "Архиви", за одобряване на Тарифа за таксите, които се събират от Държавна агенция "Архиви", и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви" (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4310)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

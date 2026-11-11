@@ -11,6 +11,16 @@
 
 Act id: `zakon-2013-dv097-14599` (tags `zakon-2013-dv097-14599/<day>`; `python tools/on.py <day> zakon-2013-dv097-14599`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Заповед № РД-1178 от 16 декември 2022 г. (ДВ, бр. 103 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182066)
+- [Заповед № РД-1179 от 16 декември 2022 г. (ДВ, бр. 103 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182067)
+- [Заповед № РД-1180 от 16 декември 2022 г. (ДВ, бр. 103 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182068)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

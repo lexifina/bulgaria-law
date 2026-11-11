@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2022-dv058-175114` (tags `postanovlenie-2022-dv058-175114/<day>`; `python tools/on.py <day> postanovlenie-2022-dv058-175114`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 256 от 26 август 2022 г. за отмяна на Постановление № 197 на Министерския съвет от 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177441)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

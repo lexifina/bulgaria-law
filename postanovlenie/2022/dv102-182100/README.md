@@ -18,6 +18,21 @@
 
 Act id: `postanovlenie-2022-dv102-182100` (tags `postanovlenie-2022-dv102-182100/<day>`; `python tools/on.py <day> postanovlenie-2022-dv102-182100`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 59 от 19 април 2023 г. за изменение и допълнение на Постановление № 480 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2022 г. (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191609)
+- [Постановление № 91 от 2 юни 2023 г. за изменение и допълнение на Постановление № 480 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2022 г. (ДВ, бр. 50 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195608)
+- [Постановление № 333 от 1 октомври 2024 г. за изменение и допълнение на Постановление № 480 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2022 г. (ДВ, бр. 84 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229131)
+- [Постановление № 174 от 3 септември 2025 г. за изменение на Постановление № 480 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2022 г. (ДВ, бр. 73 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237211)
+
+Cited by:
+
+- [Постановление № 329 от 16 декември 2025 г. за одобряване на вътрешнокомпенсирани промени на утвърдените разходи по области на политики/бюджетни програми по бюджета на Министерството на финансите за 2025 г. и за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2025 г. (ДВ, бр. 112 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240082)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

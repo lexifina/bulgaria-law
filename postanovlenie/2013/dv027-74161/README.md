@@ -17,6 +17,15 @@
 
 Act id: `postanovlenie-2013-dv027-74161` (tags `postanovlenie-2013-dv027-74161/<day>`; `python tools/on.py <day> postanovlenie-2013-dv027-74161`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 86 от 15 април 2013 г. за изменение и допълнение на Постановление № 67 на Министерския съвет от 2013 г. за приемане на план-сметка за разходите по подготовката и произвеждането на избори за народни представители през 2013 г. (ДВ, бр. 38 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75256)
+- [Постановление № 98 от 25 април 2013 г. за изменение и допълнение на Постановление № 67 на Министерския съвет от 2013 г. за приемане на план-сметка за разходите по подготовката и произвеждането на избори за народни представители през 2013 г. (ДВ, бр. 41 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75562)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -41,6 +41,19 @@
 
 Act id: `zakon-2005-dv027-15125` (tags `zakon-2005-dv027-15125/<day>`; `python tools/on.py <day> zakon-2005-dv027-15125`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за защита срещу домашното насилие (ДВ, бр. 102 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27784)
+- [Закон за изменение и допълнение на Закона за защита срещу домашното насилие (ДВ, бр. 102 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9779)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2662)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

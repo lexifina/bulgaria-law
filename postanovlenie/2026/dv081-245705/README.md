@@ -32,6 +32,14 @@
 
 Act id: `postanovlenie-2026-dv081-245705` (tags `postanovlenie-2026-dv081-245705/<day>`; `python tools/on.py <day> postanovlenie-2026-dv081-245705`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 135 от 9 септември 2026 г. за одобряване на допълнителни разходи по бюджета на Централната избирателна комисия за 2026 г. и на допълнителни трансфери по бюджетите на общини за 2026 г. (ДВ, бр. 84 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245870)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

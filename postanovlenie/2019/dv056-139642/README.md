@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2019-dv056-139642` (tags `postanovlenie-2019-dv056-139642/<day>`; `python tools/on.py <day> postanovlenie-2019-dv056-139642`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 311 от 5 декември 2019 г. за одобряване на допълнителни трансфери по бюджета на Министерството на земеделието, храните и горите за 2019 г. за предприемане на допълнителни мерки и действия по отношение на предотвратяване разпространението на заболяването Африканска чума по свинете на територията на Република България (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143510)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

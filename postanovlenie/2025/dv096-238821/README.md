@@ -37,6 +37,14 @@
 
 Act id: `postanovlenie-2025-dv096-238821` (tags `postanovlenie-2025-dv096-238821/<day>`; `python tools/on.py <day> postanovlenie-2025-dv096-238821`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 68 от 11 юни 2026 г. за изменение и допълнение на Постановление № 237 на Министерския съвет от 2025 г. за определяне на условията и реда за прилагане на програма за предоставяне на помощ чрез компенсации за временно облекчение на цените на електрическата енергия за енергоемките потребители (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244084)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

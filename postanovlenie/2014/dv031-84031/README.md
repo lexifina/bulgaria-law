@@ -49,6 +49,28 @@
 
 Act id: `postanovlenie-2014-dv031-84031` (tags `postanovlenie-2014-dv031-84031/<day>`; `python tools/on.py <day> postanovlenie-2014-dv031-84031`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за държавния бюджет на Република България за 2016 г. (ДВ, бр. 96 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99252)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109996)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120521)
+- [Постановление № 1 от 4 януари 2018 г. за изменение и допълнение на Наредбата за реда и начина за набирането, разходването, отчитането и контрола на средствата на Фонд "Сигурност на електроенергийната система", приета с Постановление № 346 на Министерския съвет от 2015 г. (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121434)
+- [Закон за държавния бюджет на Република България за 2019 г. (ДВ, бр. 103 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132563)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154110)
+- [Закон за държавния бюджет на Република България за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170229)
+- [Закон за държавния бюджет на Република България за 2016 г. (ДВ, бр. 96 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15590)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66460)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77854)
+- [Закон за държавния бюджет на Република България за 2019 г. (ДВ, бр. 103 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78264)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163416)
+- [Закон за държавния бюджет на Република България за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164015)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -78,6 +78,15 @@
 
 Act id: `naredba-2004-dv022-21432` (tags `naredba-2004-dv022-21432/<day>`; `python tools/on.py <day> naredba-2004-dv022-21432`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 77 от 2003 г. за одобряване типа на нови моторни превозни средства по отношение на емисии на въглероден двуокис и разхода на гориво (ДВ, бр. 45 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1999)
+- [Наредба № 73 от 15 май 2006 г. за одобряване типа на нови моторни превозни средства по отношение на замърсяването на въздуха от емисии от двигателите (ДВ, бр. 51 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2107)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

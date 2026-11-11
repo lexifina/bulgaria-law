@@ -49,6 +49,22 @@
 
 Act id: `postanovlenie-2007-dv017-3324` (tags `postanovlenie-2007-dv017-3324/<day>`; `python tools/on.py <day> postanovlenie-2007-dv017-3324`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 279 от 30 ноември 2010 г. за изменение и допълнение на Наредбата за условията и реда за избор, изпълнение и контрол на промоционални програми за земеделски и хранителни продукти, приета с Постановление № 34 на Министерския съвет от 2007 г. (ДВ, бр. 96 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41154)
+- [Постановление № 41 от 23 февруари 2012 г. за изменение и допълнение на Наредбата за условията и реда за избор, изпълнение и контрол на промоционални програми за земеделски и хранителни продукти, приета с Постановление № 34 на Министерския съвет от 2007 г. (ДВ, бр. 18 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62001)
+- [Постановление № 282 от 9 ноември 2012 г. за изменение и допълнение на Наредбата за условията и реда за избор, изпълнение и контрол на промоционални програми за земеделски и хранителни продукти, приета с Постановление № 34 на Министерския съвет от 2007 г. (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70351)
+- [Постановление № 337 от 24 октомври 2014 г. за изменение на Наредбата за условията и реда за избор, изпълнение и контрол на промоционални програми за земеделски и хранителни продукти, приета с Постановление № 34 на Министерския съвет от 2007 г. (ДВ, бр. 90 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89157)
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Наредба № 8 от 5 май 2016 г. за условията и реда за изпълнение и контрол на промоционални програми за земеделски и хранителни продукти (ДВ, бр. 38 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103572)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -26,6 +26,22 @@
 
 Act id: `naredba-2004-dv099-18390` (tags `naredba-2004-dv099-18390/<day>`; `python tools/on.py <day> naredba-2004-dv099-18390`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2004 г. за условията и реда за провеждане на изпита за адвокати и младши адвокати (ДВ, бр. 39 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2004 г. за условията и реда за провеждане на изпита за адвокати и младши адвокати (ДВ, бр. 62 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5984)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2004 г. за условията и реда за провеждане на изпита за адвокати и младши адвокати (ДВ, бр. 21 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46355)
+- [Поправка в Наредбата за изменение и допълнение на Наредба № 2 от 2004 г. за условията и реда за провеждане на изпита за адвокати и младши адвокати (ДВ, бр. 39 от 2005 г.) (ДВ, бр. 41 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61328)
+- [Наредба за изменение на Наредба № 2 от 29.10.2004 г. за условията и реда за провеждане на изпита за адвокати и младши адвокати (ДВ, бр. 74 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=226440)
+
+Cited by:
+
+- [адм. д. № 2520/2012 (ДВ, бр. 24 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62764)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

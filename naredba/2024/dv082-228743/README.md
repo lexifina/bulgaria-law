@@ -55,6 +55,15 @@
 
 Act id: `naredba-2024-dv082-228743` (tags `naredba-2024-dv082-228743/<day>`; `python tools/on.py <day> naredba-2024-dv082-228743`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 30 от 2024 г. за изчисляване размера на дължимите от банките премийни вноски по Закона за гарантиране на влоговете в банките (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238674)
+- [Наредба за изменение на Наредба № 30 от 2024 г. за изчисляване размера на дължимите от банките премийни вноски по Закона за гарантиране на влоговете в банките (ДВ, бр. 103 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247288)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

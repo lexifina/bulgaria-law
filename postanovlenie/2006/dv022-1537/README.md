@@ -18,6 +18,15 @@
 
 Act id: `postanovlenie-2006-dv022-1537` (tags `postanovlenie-2006-dv022-1537/<day>`; `python tools/on.py <day> postanovlenie-2006-dv022-1537`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 160 от 6 юли 2007 г. за изменение и допълнение на Постановление № 46 на Министерския съвет от 2006 г. за подновяване на оръжейното ембарго спрямо Зимбабве и на наложените ограничения върху пътуванията и финансовите активи на определени лица в изпълнение на Обща позиция 2004/161/CFSP на Съвета на Европейския съюз от 19 февруари 2004 г. и на Решение 2005/592/CFSP на Съвета на Европейския съюз от 29 юли 2005 г. (ДВ, бр. 58 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3941)
+- [Постановление № 228 от 15 септември 2007 г. за изменение и допълнение на Постановление № 46 на Министерския съвет от 2006 г. за подновяване на оръжейното ембарго спрямо Зимбабве и на наложените ограничения върху пътуванията и финансовите активи на определени лица в изпълнение на Обща позиция 2004/161/CFSP на Съвета на Европейския съюз от 19 февруари 2004 г. и на Решение 2005/592/CFSP на Съвета на Европейския съюз от 29 юли 2005 г. (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4168)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -32,6 +32,16 @@
 
 Act id: `postanovlenie-2012-dv071-68415` (tags `postanovlenie-2012-dv071-68415/<day>`; `python tools/on.py <day> postanovlenie-2012-dv071-68415`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за устройството и дейността на Централнo военно окръжие (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96574)
+- [Правилник за устройството и дейността на Централно военно окръжие (ДВ, бр. 54 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105747)
+- [Постановление № 130 от 1 септември 2023 г. за изменение и допълнение на Правилника за прилагане на Закона за отбраната и въоръжените сили на Република България, приет с Постановление № 46 на Министерския съвет от 2010 г. (ДВ, бр. 76 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199235)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -15,6 +15,17 @@
 
 Act id: `naredba-2015-dv011-91816` (tags `naredba-2015-dv011-91816/<day>`; `python tools/on.py <day> naredba-2015-dv011-91816`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 24 август 2015 г. за утвърждаване на медицински стандарт "Пластично-възстановителна и естетична хирургия" (ДВ, бр. 72 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97482)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [адм. дело № 4267/2016 г. (ДВ, бр. 45 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104522)
+- [Наредба № 5 от 3 ноември 2016 г. за утвърждаване на медицински стандарт "Гръдна хирургия" (ДВ, бр. 90 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109057)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

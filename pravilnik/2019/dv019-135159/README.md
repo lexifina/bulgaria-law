@@ -101,6 +101,27 @@
 
 Act id: `pravilnik-2019-dv019-135159` (tags `pravilnik-2019-dv019-135159/<day>`; `python tools/on.py <day> pravilnik-2019-dv019-135159`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 40 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137541)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140051)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 78 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141564)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 60 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160135)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 86 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163109)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 56 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174802)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181822)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 71 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198648)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 96 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201201)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 40 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214562)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235719)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 73 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237100)
+- [Правилник за изменение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 22 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241392)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 93 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246318)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

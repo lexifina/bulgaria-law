@@ -46,6 +46,20 @@
 
 Act id: `pravilnik-2005-dv069-773` (tags `pravilnik-2005-dv069-773/<day>`; `python tools/on.py <day> pravilnik-2005-dv069-773`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите в ценни книжа (ДВ, бр. 97 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1100)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите в ценни книжа (ДВ, бр. 2 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3086)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите в ценни книжа (ДВ, бр. 3 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4658)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84796)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите (ДВ, бр. 35 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113953)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122936)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Фонда за компенсиране на инвеститорите (ДВ, бр. 84 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

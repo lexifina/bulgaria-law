@@ -59,6 +59,29 @@
 
 Act id: `zakon-2004-dv014-21623` (tags `zakon-2004-dv014-21623/<day>`; `python tools/on.py <day> zakon-2004-dv014-21623`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 32 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15184)
+- [Закон за изменение на Закона за регионалното развитие (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25812)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101016)
+- [Закон за допълнение на Закона за регионалното развитие (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111590)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146602)
+- [Закон за изменение на Закона за регионалното развитие (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9704)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15530)
+- [Закон за допълнение на Закона за регионалното развитие (ДВ, бр. 13 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66449)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157301)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за далекосъобщенията (ДВ, бр. 88 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=994)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1556)
+- [Закон за изменение и допълнение на Закона за рибарството и аквакултурите (ДВ, бр. 36 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5041)
+- [Закон за регионалното развитие (ДВ, бр. 50 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5256)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

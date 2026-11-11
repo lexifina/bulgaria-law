@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2018-dv037-125927` (tags `postanovlenie-2018-dv037-125927/<day>`; `python tools/on.py <day> postanovlenie-2018-dv037-125927`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 119 от 29 юни 2018 г. за одобряване на допълнителни разходи/трансфери по бюджета на Министерството на отбраната за 2018 г. за изплащане на минимални диференцирани размери на паричните средства за физическо възпитание и спорт (ДВ, бр. 56 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128223)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

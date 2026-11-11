@@ -46,6 +46,14 @@
 
 Act id: `naredba-2011-dv039-50035` (tags `naredba-2011-dv039-50035/<day>`; `python tools/on.py <day> naredba-2011-dv039-50035`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-968 от 10 декември 2014 г. за правилата и нормите за пожарна безопасност при извършване на дейности в земеделските земи (ДВ, бр. 105 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90614)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

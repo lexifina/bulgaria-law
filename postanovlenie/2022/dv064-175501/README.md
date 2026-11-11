@@ -31,6 +31,19 @@
 
 Act id: `postanovlenie-2022-dv064-175501` (tags `postanovlenie-2022-dv064-175501/<day>`; `python tools/on.py <day> postanovlenie-2022-dv064-175501`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 260 от 26 август 2022 г. за изменение и допълнение на Постановление № 241 на Министерския съвет от 2022 г. за приемане на план-сметка за разходите/трансферите по подготовката и произвеждането на изборите за народни представители на 2 октомври 2022 г. (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177460)
+- [Постановление № 441 от 15 декември 2022 г. за изменение и допълнение на Постановление № 241 на Министерския съвет от 2022 г. за приемане на план-сметка за разходите/трансферите по подготовката и произвеждането на изборите за народни представители на 2 октомври 2022 г. (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181848)
+
+Cited by:
+
+- [Постановление № 288 от 21 септември 2022 г. за одобряване на допълнителни разходи по бюджета на Централната избирателна комисия за 2022 г. (ДВ, бр. 77 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178340)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

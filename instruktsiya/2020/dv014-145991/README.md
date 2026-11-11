@@ -31,6 +31,14 @@
 
 Act id: `instruktsiya-2020-dv014-145991` (tags `instruktsiya-2020-dv014-145991/<day>`; `python tools/on.py <day> instruktsiya-2020-dv014-145991`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № І-3 от 10 март 2026 г. за реда за поддържане на физическата подготовка на държавните служители в Държавна агенция "Национална сигурност" (ДВ, бр. 29 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242014)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

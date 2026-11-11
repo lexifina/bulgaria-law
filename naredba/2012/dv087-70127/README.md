@@ -85,6 +85,21 @@
 
 Act id: `naredba-2012-dv087-70127` (tags `naredba-2012-dv087-70127/<day>`; `python tools/on.py <day> naredba-2012-dv087-70127`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 20 от 2012 г. за минималните изисквания за защита и хуманно отношение към опитните животни и изискванията към обектите за използването, отглеждането и/или доставката им (ДВ, бр. 86 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88563)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2012 г. за минималните изисквания за защита и хуманно отношение към опитните животни и изискванията към обектите за използването, отглеждането и/или доставката им (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204661)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2012 г. за минималните изисквания за защита и хуманно отношение към опитните животни и изискванията към обектите за използването, отглеждането и/или доставката им (ДВ, бр. 80 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237503)
+
+Cited by:
+
+- [Постановление № 63 от 8 март 2013 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на биоциди, приета с Постановление № 336 на Министерския съвет от 2007 г. (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74157)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196747)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

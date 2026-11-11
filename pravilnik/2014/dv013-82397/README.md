@@ -35,6 +35,14 @@
 
 Act id: `pravilnik-2014-dv013-82397` (tags `pravilnik-2014-dv013-82397/<day>`; `python tools/on.py <day> pravilnik-2014-dv013-82397`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за дейността на Националното бюро за контрол на специалните разузнавателни средства и неговата администрация (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107818)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -48,6 +48,18 @@
 
 Act id: `naredba-2006-dv093-2845` (tags `naredba-2006-dv093-2845/<day>`; `python tools/on.py <day> naredba-2006-dv093-2845`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2006 г. за условията и реда за издаване, пускане и изваждане от употреба на пощенски марки, пощенски продукти и специални пощенски печати (ДВ, бр. 11 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61054)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2006 г. за условията и реда за издаване и пускане в употреба на пощенски марки, на пощенски продукти и на специални пощенски печати и за изваждане от употреба на пощенски марки (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103550)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2006 г. за условията и реда за издаване и пускане в употреба на пощенски марки, на пощенски продукти и на специални пощенски печати и за изваждане от употреба на пощенски марки (ДВ, бр. 64 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140413)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2006 г. за условията и реда за издаване и пускане в употреба на пощенски марки, на пощенски продукти и на специални пощенски печати и за изваждане от употреба на пощенски марки (ДВ, бр. 103 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154172)
+- [Наредба за изменение и допълнение на Наредба № 1 от 7.11.2006 г. за условията и реда за издаване и пускане в употреба на пощенски марки, на пощенски продукти и на специални пощенски печати и за изваждане от употреба на пощенски марки (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204284)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

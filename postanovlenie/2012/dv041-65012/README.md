@@ -17,6 +17,18 @@
 
 Act id: `postanovlenie-2012-dv041-65012` (tags `postanovlenie-2012-dv041-65012/<day>`; `python tools/on.py <day> postanovlenie-2012-dv041-65012`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 314 от 12 декември 2012 г. за изменение на Постановление № 99 на Министерския съвет от 2012 г. за предоставяне на допълнителни средства по бюджета на Министерството на регионалното развитие и благоустройството за 2012 г. (ДВ, бр. 99 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71249)
+
+Cited by:
+
+- [Постановление № 257 от 19 октомври 2012 г. за предоставяне на допълнителни средства по бюджета на Министерството на образованието, младежта и науката за 2012 г. (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69729)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -69,9 +69,48 @@
 
 Act id: `zakon-2010-dv038-9818` (tags `zakon-2010-dv038-9818/<day>`; `python tools/on.py <day> zakon-2010-dv038-9818`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9913)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 30 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/69131)
+
+Cited by:
+
+- [Решение № 749/14.07.2010 г. (ДВ, бр. 55 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35006)
+- [Решение № 11 от 5 октомври 2010 г. по конституционно дело № 13 от 2010 г. (ДВ, бр. 81 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37867)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42158)
+- [конкурс (ДВ, бр. 14 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44386)
+- [Правилник за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49017)
+- [конкурси (ДВ, бр. 23 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62649)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [конкурси (ДВ, бр. 90 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79475)
+- [конкурси (ДВ, бр. 41 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84922)
+- [Конкурс за редовни докторанти (ДВ, бр. 87 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88714)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 30 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124666)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 17 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146064)
+- [Закон за изменение и допълнение на Закона за признаване на професионални квалификации (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156335)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 56 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174755)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181825)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9913)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 30 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/69131)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 17 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157129)
+- [Закон за изменение и допълнение на Закона за признаване на професионални квалификации (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163490)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 56 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163968)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164455)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

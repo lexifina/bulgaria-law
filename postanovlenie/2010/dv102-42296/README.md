@@ -64,6 +64,14 @@
 
 Act id: `postanovlenie-2010-dv102-42296` (tags `postanovlenie-2010-dv102-42296/<day>`; `python tools/on.py <day> postanovlenie-2010-dv102-42296`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 266 от 29 август 2014 г. за приемане на Наредба за реда и начина на администриране на Националния регистър за търговия с квоти за емисии на парникови газове (ДВ, бр. 74 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87681)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

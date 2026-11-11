@@ -77,6 +77,24 @@
 
 Act id: `zakon-2008-dv094-10141` (tags `zakon-2008-dv094-10141/<day>`; `python tools/on.py <day> zakon-2008-dv094-10141`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15558)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 26 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18492)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 101 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27994)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35521)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 101 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9629)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10010)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

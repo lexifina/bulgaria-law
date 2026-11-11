@@ -46,6 +46,19 @@
 
 Act id: `postanovlenie-2011-dv050-53650` (tags `postanovlenie-2011-dv050-53650/<day>`; `python tools/on.py <day> postanovlenie-2011-dv050-53650`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 377 от 30 декември 2011 г. за изменение на Тарифата за таксите за водовземане, за ползване на воден обект и за замърсяване, приета с Постановление № 177 на Министерския съвет от 2011 г. (ДВ, бр. 3 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60131)
+
+Cited by:
+
+- [Постановление № 383 от 29 декември 2016 г. за приемане на Тарифа за таксите за водовземане, за ползване на воден обект и за замърсяване (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110794)
+- [Решение № 9920 от 19 юли 2018 г. по административно дело № 1672 от 2017 г. (ДВ, бр. 56 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139515)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

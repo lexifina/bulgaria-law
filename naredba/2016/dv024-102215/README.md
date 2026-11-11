@@ -22,6 +22,19 @@
 
 Act id: `naredba-2016-dv024-102215` (tags `naredba-2016-dv024-102215/<day>`; `python tools/on.py <day> naredba-2016-dv024-102215`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2016 г. за определяне на основния пакет от здравни дейности, гарантиран от бюджета на Националната здравноосигурителна каса (ДВ, бр. 91 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109190)
+- [Наредба за допълнение на Наредба № 2 от 2016 г. за определяне на основния пакет от здравни дейности, гарантиран от бюджета на Националната здравноосигурителна каса (ДВ, бр. 37 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114191)
+
+Cited by:
+
+- [Национален рамков договор за медицинските дейности между Националната здравноосигурителна каса и Българския лекарски съюз за 2017 г. (ДВ, бр. 24 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112831)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

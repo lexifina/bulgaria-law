@@ -12,6 +12,23 @@
 
 Act id: `naredba-2010-dv024-30956` (tags `naredba-2010-dv024-30956/<day>`; `python tools/on.py <day> naredba-2010-dv024-30956`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2010 г. за утвърждаване на медицински стандарт "Анестезия и интензивно лечение" (ДВ, бр. 64 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35745)
+
+Cited by:
+
+- [Наредба № 37 от 20 август 2010 г. за утвърждаване на медицински стандарт "Неврохирургия" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36259)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84033)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [адм. дело № 5339/2016 г. (ДВ, бр. 49 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104969)
+- [Наредба № 5 от 3 ноември 2016 г. за утвърждаване на медицински стандарт "Гръдна хирургия" (ДВ, бр. 90 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109057)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -32,6 +32,18 @@
 
 Act id: `postanovlenie-2005-dv081-922` (tags `postanovlenie-2005-dv081-922/<day>`; `python tools/on.py <day> postanovlenie-2005-dv081-922`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 97 от 14 април 2011 г. за изменение и допълнение на Наредбата за работа с генетично модифицирани организми в контролирани условия, приета с Постановление № 211 на Министерския съвет от 2005 г. (ДВ, бр. 33 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48675)
+
+Cited by:
+
+- [Постановление № 336 от 29 декември 2017 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 3 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121290)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

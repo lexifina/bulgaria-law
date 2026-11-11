@@ -38,6 +38,18 @@
 
 Act id: `naredba-2012-dv055-66425` (tags `naredba-2012-dv055-66425/<day>`; `python tools/on.py <day> naredba-2012-dv055-66425`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2012 г. за условията и реда за предотвратяване, контрол и установяване на годността за военна служба на военнослужещите от въоръжените сили на Република България при употреба на алкохол и злоупотреба и/или зависимост от наркотични вещества (ДВ, бр. 66 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129119)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № Н-5 от 25.01.2018 г. за условията и реда за приемане на слушатели във Военна академия "Георги Стойков Раковски" (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160698)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

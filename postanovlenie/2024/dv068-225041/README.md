@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2024-dv068-225041` (tags `postanovlenie-2024-dv068-225041/<day>`; `python tools/on.py <day> postanovlenie-2024-dv068-225041`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 445 от 12 декември 2024 г. за изменение на Постановление № 282 на Министерския съвет от 2024 г. за одобряване на временен безлихвен заем по сметката за средства на НФ - НФМ - МП - Правосъдие за 2024 г. за финализиране дейностите, предвидени в ПДП 2 "Повишаване на капацитета на персонала, изграждане на пилотен затвор, свързан с учебен център и подобряване на рехабилитацията на лишените от свобода" на Програма "Правосъдие" на Норвежкия финансов механизъм (НФМ) 2014 - 2021, както и въвеждането на обекта в експлоатация (ДВ, бр. 106 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231480)
+- [Постановление № 42 от 25 април 2025 г. за изменение на Постановление № 282 на Министерския съвет от 2024 г. за одобряване на временен безлихвен заем по сметката за средства на НФ - НФМ - МП - Правосъдие за 2024 г. за финализиране на дейностите, предвидени в ПДП 2 "Повишаване на капацитета на персонала, изграждане на пилотен затвор, свързан с учебен център и подобряване на рехабилитацията на лишените от свобода" на програма "Правосъдие" на Норвежкия финансов механизъм (НФМ) 2014 - 2021, както и въвеждането на обекта в експлоатация (ДВ, бр. 36 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234371)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

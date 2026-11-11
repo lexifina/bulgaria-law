@@ -20,6 +20,24 @@
 
 Act id: `postanovlenie-2004-dv048-20257` (tags `postanovlenie-2004-dv048-20257/<day>`; `python tools/on.py <day> postanovlenie-2004-dv048-20257`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 2 от 13 януари 2012 г. за изменение и допълнение на Тарифата за таксите, които се събират от Изпълнителна агенция "Национален филмов център" по Закона за филмовата индустрия, приета с Постановление № 104 на Министерския съвет от 2004 г. (ДВ, бр. 6 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60435)
+
+Cited by:
+
+- [Постановление № 115 от 15 юни 2005 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 51 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=453)
+- [Постановление № 15 от 31 януари 2006 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1402)
+- [Постановление № 75 от 21 април 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5184)
+- [Постановление № 42 от 22 февруари 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73668)
+- [Постановление № 274 от 6 декември 2018 г. за приемане на Правилник за прилагане на Закона за филмовата индустрия (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132829)
+- [Постановление № 271 от 6 август 2021 г. за изменение и допълнение на Правилника за прилагане на Закона за филмовата индустрия, приет с Постановление № 274 на Министерския съвет от 2018 г. (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160733)
+- [Постановление № 273 от 3 декември 2025 г. за изменение на Тарифа за таксите, които се събират от Изпълнителна агенция "Национален филмов център" по Закона за филмовата индустрия, приета с Постановление № 104 на Министерския съвет от 2004 г. (ДВ, бр. 104 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239635)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

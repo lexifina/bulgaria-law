@@ -68,6 +68,25 @@
 
 Act id: `postanovlenie-2005-dv089-1009` (tags `postanovlenie-2005-dv089-1009/<day>`; `python tools/on.py <day> postanovlenie-2005-dv089-1009`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 280 от 20 октомври 2006 г. за изменение и допълнение на Устройствения правилник на Държавната агенция за младежта и спорта, приет с Постановление № 233 на Министерския съвет от 2005 г. (ДВ, бр. 88 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2754)
+- [Постановление № 161 от 9 юли 2007 г. за изменение на Устройствения правилник на Държавната агенция за младежта и спорта, приет с Постановление № 233 на Министерския съвет от 2005 г. (ДВ, бр. 58 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3942)
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 137 от 6 юни 2006 г. за приемане на Устройствен правилник на Министерството на държавната политика при бедствия и аварии (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2061)
+- [Постановление № 99 от 3 май 2007 г. за създаване на Национален център "Европейски младежки програми и инициативи" и за приемане на Устройствен правилник на Националния център "Европейски младежки програми и инициативи" (ДВ, бр. 38 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3639)
+- [Постановление № 86 от 7 май 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5214)
+- [Постановление № 145 от 24 юни 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5511)
+- [Постановление № 195 от 6 август 2009 г. за закриване на Държавната агенция за младежта и спорта и за приемане на Устройствен правилник на Министерството на физическото възпитание и спорта (ДВ, бр. 64 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24180)
+- [Поправка на Министерския съвет в Постановление № 234 от 2005 г. за приемане на Устройствен правилник на Министерството на държавната политика при бедствия и аварии (ДВ, бр. 89 от 2005 г.) (ДВ, бр. 92 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

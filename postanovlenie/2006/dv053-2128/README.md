@@ -90,6 +90,28 @@
 
 Act id: `postanovlenie-2006-dv053-2128` (tags `postanovlenie-2006-dv053-2128/<day>`; `python tools/on.py <day> postanovlenie-2006-dv053-2128`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 72 от 24 март 2011 г. за допълнение на Правилника за прилагане на Закона за обществените поръчки, приет с Постановление № 150 на Министерския съвет от 2006 г. (ДВ, бр. 27 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47535)
+- [Постановление № 415 от 15 декември 2014 г. за изменение и допълнение на Правилника за прилагане на Закона за обществените поръчки, приет с Постановление № 150 на Министерския съвет от 2006 г. (ДВ, бр. 104 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90732)
+
+Cited by:
+
+- [Постановление № 246 от 10 октомври 2007 г. за приемане на Устройствен правилник на Държавна агенция "Архиви", за одобряване на Тарифа за таксите, които се събират от Държавна агенция "Архиви", и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви" (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4310)
+- [Постановление № 342 от 30 декември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 3 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14065)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 253 от 27 октомври 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 86 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38953)
+- [Постановление № 38 от 23 февруари 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 17 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61978)
+- [Постановление № 197 от 2 септември 2013 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78673)
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+- [Постановление № 146 от 9 юни 2015 г. за създаване на Централен орган за възлагане на обществени поръчки в сектор "Здравеопазване" (ДВ, бр. 44 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95131)
+- [Постановление № 359 от 12 декември 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99476)
+- [Постановление № 73 от 5 април 2016 г. за приемане на нормативни актове на Министерския съвет (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102518)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

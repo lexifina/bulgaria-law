@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2017-dv085-119140` (tags `postanovlenie-2017-dv085-119140/<day>`; `python tools/on.py <day> postanovlenie-2017-dv085-119140`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 257 от 20 ноември 2017 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2017 г. за финансово осигуряване на дейности по националните програми "Оптимизация на училищната мрежа" и "Развитие на системата на предучилищното образование", одобрени с Решение № 216 на Министерския съвет от 2017 г. (ДВ, бр. 94 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120045)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -33,6 +33,19 @@
 
 Act id: `naredba-2004-dv049-20248` (tags `naredba-2004-dv049-20248/<day>`; `python tools/on.py <day> naredba-2004-dv049-20248`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2004 г. за правилата за производство и предлагане на пазара на чистопороден и хибриден разплоден материал при птици и реда за водене на регистър (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49873)
+
+Cited by:
+
+- [Наредба № 30 от 23 март 2006 г. за здравните изисквания към птици и яйца за люпене при придвижването или транспортирането им между Република България и държавите - членки на Европейския съюз, внасянето им от трети страни и за определяне на здравния статус на обектите, от които произхождат (ДВ, бр. 28 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1636)
+- [Наредба за изменение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134933)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

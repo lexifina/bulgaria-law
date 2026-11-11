@@ -166,6 +166,28 @@
 
 Act id: `postanovlenie-2013-dv062-77301` (tags `postanovlenie-2013-dv062-77301/<day>`; `python tools/on.py <day> postanovlenie-2013-dv062-77301`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 385 от 4 декември 2014 г. за изменение и допълнение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90457)
+- [Постановление № 326 от 29 ноември 2016 г. за изменение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109702)
+- [Постановление № 56 от 24 март 2017 г. за изменение и допълнение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 27 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113133)
+- [Постановление № 166 от 8 август 2017 г. за изменение и допълнение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 65 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116943)
+- [Постановление № 10 от 21 януари 2019 г. за изменение и допълнение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 8 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134157)
+- [Постановление № 169 от 14 юли 2022 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 56 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174948)
+
+Cited by:
+
+- [Постановление № 252 от 1 ноември 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80164)
+- [Постановление № 150 от 10 юни 2014 г. за закриване на Националния център "Европейски младежки програми и инициативи" към министъра на младежта и спорта (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85764)
+- [Постановление № 93 от 14 май 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148146)
+- [Постановление № 275 от 9 август 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160758)
+- [Постановление № 258 от 26 август 2022 г. за изменение и отменяне на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177443)
+- [Постановление № 133 от 4 септември 2023 г. за изменение на Устройствения правилник на Министерството на младежта и спорта, приет с Постановление № 142 на Министерския съвет от 2013 г. (ДВ, бр. 77 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199321)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

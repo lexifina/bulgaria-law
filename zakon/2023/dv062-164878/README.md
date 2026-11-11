@@ -12,6 +12,14 @@
 
 Act id: `zakon-2023-dv062-164878` (tags `zakon-2023-dv062-164878/<day>`; `python tools/on.py <day> zakon-2023-dv062-164878`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 149 от 20 септември 2023 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2023 г. за компенсиране на разходите за периода 1.12.2022 г. - 31.05.2023 г. за отглеждане, възпитание и обучение на деца, които не са приети поради липса на места в общински детски ясли и яслени групи в държавни и общински детски градини (ДВ, бр. 81 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199857)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

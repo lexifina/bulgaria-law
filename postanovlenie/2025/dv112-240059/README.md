@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2025-dv112-240059` (tags `postanovlenie-2025-dv112-240059/<day>`; `python tools/on.py <day> postanovlenie-2025-dv112-240059`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 337 от 19 декември 2025 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2025 г. за изпълнение на дейности по национални програми, одобрени с Решение № 294 на Министерския съвет от 2025 г. (ДВ, бр. 114 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240253)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

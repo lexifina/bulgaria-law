@@ -38,6 +38,14 @@
 
 Act id: `instruktsiya-2009-dv021-17176` (tags `instruktsiya-2009-dv021-17176/<day>`; `python tools/on.py <day> instruktsiya-2009-dv021-17176`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-5 от 15 май 2018 г. за взаимодействието между Националната служба за охрана и Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 46 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126854)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

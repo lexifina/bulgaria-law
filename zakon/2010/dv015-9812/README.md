@@ -80,9 +80,42 @@
 
 Act id: `zakon-2010-dv015-9812` (tags `zakon-2010-dv015-9812/<day>`; `python tools/on.py <day> zakon-2010-dv015-9812`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 83 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14417)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 45 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156940)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 83 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78894)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109964)
+- [Закон за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 21 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123582)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135546)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 34 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136814)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 45 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138115)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169449)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 83 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14417)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 97 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42238)
+- [Закон за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 21 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77744)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156809)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 34 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156869)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 45 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156940)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163992)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

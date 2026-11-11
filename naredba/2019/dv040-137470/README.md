@@ -58,6 +58,19 @@
 
 Act id: `naredba-2019-dv040-137470` (tags `naredba-2019-dv040-137470/<day>`; `python tools/on.py <day> naredba-2019-dv040-137470`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2019 г. за организацията, управлението и вътрешния контрол в банките (ДВ, бр. 12 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205460)
+- [Наредба за допълнение на Наредба № 10 от 2019 г. за организацията, управлението и вътрешния контрол в банките (ДВ, бр. 97 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230326)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 20 от 2019 г. за изискванията към членовете на управителния и контролния орган на кредитна институция, както и за оценка на тяхната пригодност и на лицата, заемащи ключови позиции (ДВ, бр. 12 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205461)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -43,6 +43,18 @@
 
 Act id: `postanovlenie-2005-dv019-14919` (tags `postanovlenie-2005-dv019-14919/<day>`; `python tools/on.py <day> postanovlenie-2005-dv019-14919`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 324 от 7 октомври 2021 г. за изменение и допълнение на Наредбата за попечителските съвети на фондовете за допълнително задължително пенсионно осигуряване и за консултативните съвети на фондовете за допълнително доброволно пенсионно осигуряване, приета с Постановление № 29 на Министерския съвет от 2005 г. (ДВ, бр. 85 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162989)
+
+Cited by:
+
+- [Постановление № 228 от 29 октомври 2026 г. за изменение и допълнение на Наредбата за попечителските и консултативните съвети на фондовете за допълнително пенсионно осигуряване и фондовете за извършване на плащания, приета с Постановление № 29 на Министерския съвет от 2005 г. (ДВ, бр. 100 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247207)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

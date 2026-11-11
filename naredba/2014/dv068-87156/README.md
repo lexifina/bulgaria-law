@@ -50,6 +50,22 @@
 
 Act id: `naredba-2014-dv068-87156` (tags `naredba-2014-dv068-87156/<day>`; `python tools/on.py <day> naredba-2014-dv068-87156`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 5 от 2014 г. за строителството в горските територии без промяна на предназначението им (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90741)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за строителството в горските територии без промяна на предназначението им (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123431)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за строителството в горските територии без промяна на предназначението им (ДВ, бр. 36 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234160)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 20 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Възстановяване на горския потенциал и въвеждане на превантивни дейности" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 24 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93348)
+- [Заповед № РД-09-354 от 8 април 2019 г. (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137126)
+- [Наредба № РД-02-20-1 от 26 октомври 2023 г. за изпълнение и приемане на земни работи, земни съоръжения, земна основа и фундаменти (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201062)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

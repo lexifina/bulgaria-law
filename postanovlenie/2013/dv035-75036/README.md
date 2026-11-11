@@ -13,6 +13,15 @@
 
 Act id: `postanovlenie-2013-dv035-75036` (tags `postanovlenie-2013-dv035-75036/<day>`; `python tools/on.py <day> postanovlenie-2013-dv035-75036`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 242 от 4 август 2014 г. за изменение и допълнение на Наредбата за предоставяне на речни информационни услуги по вътрешните водни пътища на Република България, приета с Постановление № 329 на Министерския съвет от 2007 г. (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87159)
+- [Наредба № 6 от 18 март 2022 г. за разследване на произшествия по вътрешните водни пътища (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171373)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

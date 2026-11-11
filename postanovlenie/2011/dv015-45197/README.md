@@ -94,6 +94,28 @@
 
 Act id: `postanovlenie-2011-dv015-45197` (tags `postanovlenie-2011-dv015-45197/<day>`; `python tools/on.py <day> postanovlenie-2011-dv015-45197`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 221 от 22 юли 2011 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 59 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55478)
+- [Постановление № 59 от 23 март 2016 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 26 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102136)
+- [Постановление № 279 от 14 октомври 2020 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152417)
+- [Постановление № 8 от 23 януари 2024 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204623)
+
+Cited by:
+
+- [Постановление № 375 от 30 дeкември 2011 г. за приемане на Тарифа за таксите, които се събират от Българската агенция по безопасност на храните (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60052)
+- [Постановление № 118 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65639)
+- [Постановление № 234 от 11 октомври 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 91 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79619)
+- [Постановление № 90 от 16 април 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93881)
+- [Закон за закриване на Националната служба по зърното (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96015)
+- [Постановление № 236 от 31 август 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 68 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97136)
+- [Постановление № 231 от 8 септември 2016 г. за приемане на Устройствен правилник на Центъра за оценка на риска по хранителната верига (ДВ, бр. 71 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107432)
+- [Закон за закриване на Националната служба по зърното (ДВ, бр. 57 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15422)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

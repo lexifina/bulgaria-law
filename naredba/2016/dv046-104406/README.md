@@ -61,6 +61,31 @@
 
 Act id: `naredba-2016-dv046-104406` (tags `naredba-2016-dv046-104406/<day>`; `python tools/on.py <day> naredba-2016-dv046-104406`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 72 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129565)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 85 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151886)
+- [Наредба за допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 95 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153307)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 75 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161711)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 12 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169053)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за предучилищното образование (ДВ, бр. 46 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=216560)
+
+Cited by:
+
+- [Правилник за устройството и функциите на регионалните управления на образованието (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111568)
+- [Постановление № 78 от 21 април 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за семейни помощи за деца, приет с Постановление № 139 на Министерския съвет от 2002 г. (ДВ, бр. 34 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113875)
+- [Постановление № 246 от 2 ноември 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за социално подпомагане, приет с Постановление № 243 на Министерския съвет oт 1998 г. (ДВ, бр. 89 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119568)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 81 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130270)
+- [Наредба за допълнение на Наредба № 10 от 2016 г. за организация на дейностите в училищното образование (ДВ, бр. 72 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141191)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2016 г. за оценяване на резултатите от обучението на учениците (ДВ, бр. 77 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151238)
+- [Заповед № 834 от 24 август 2020 г. (ДВ, бр. 79 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151365)
+- [Правилник за изменение и допълнение на Правилника за устройството и функциите на регионалните управления на образованието (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154527)
+- [Заповед № 539 от 30 юни 2025 г. (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235848)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

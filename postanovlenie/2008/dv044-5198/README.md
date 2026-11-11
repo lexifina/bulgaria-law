@@ -54,6 +54,22 @@
 
 Act id: `postanovlenie-2008-dv044-5198` (tags `postanovlenie-2008-dv044-5198/<day>`; `python tools/on.py <day> postanovlenie-2008-dv044-5198`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 137 от 29 май 2009 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Главна инспекция по труда", приет с Постановление № 83 на Министерския съвет от 2008 г. (ДВ, бр. 43 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21884)
+- [Постановление № 85 от 30 април 2010 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Главна инспекция по труда", приет с Постановление № 83 на Министерския съвет от 2008 г. (ДВ, бр. 35 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32671)
+- [Постановление № 285 от 3 декември 2010 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Главна инспекция по труда", приет с Постановление № 83 на Министерския съвет от 2008 г. (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41429)
+- [Постановление № 2 от 13 януари 2014 г. за приемане на Устройствен правилник на Изпълнителна агенция "Главна инспекция по труда" (ДВ, бр. 6 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81929)
+
+Cited by:
+
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 162 от 26 юли 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67020)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

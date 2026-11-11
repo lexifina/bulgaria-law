@@ -126,9 +126,40 @@
 
 Act id: `zakon-2012-dv014-13706` (tags `zakon-2012-dv014-13706/<day>`; `python tools/on.py <day> zakon-2012-dv014-13706`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка в Постановление № 20 на Министерския съвет от 2012 г. за изменение и допълнение на Устройствения правилник на Министерството на земеделието и храните, приет с Постановление № 265 на Министерския съвет от 2009 г. (ДВ, бр. 14 от 2012 г.) (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61819)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69470)
+- [Постановление № 84 от 5 април 2013 г. за изменение на Тарифата за таксите, които се събират от Агенцията за устойчиво енергийно развитие по Закона за енергийната ефективност и Закона за енергията от възобновяеми източници, приета с Постановление № 26 на Министерския съвет от 2012 г. (ДВ, бр. 35 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75038)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Правилник за изменение на Правилника за устройството, организацията и дейността на Учебен център (ДВ, бр. 91 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98836)
+- [Правилник за устройството, организацията и дейността на Учебен център (ДВ, бр. 29 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113242)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121757)
+- [Закон за мерките срещу изпирането на пари (ДВ, бр. 27 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124434)
+- [Наредба № 19 от 23 август 2019 г. за придобиване на квалификация по професията "Данъчен и митнически посредник" (ДВ, бр. 71 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140969)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 79 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151496)
+- [Наредба № 3 от 31 януари 2023 г. за придобиване на квалификация по професията "Оперативен счетоводител" (ДВ, бр. 15 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186201)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Постановление № 51 от 23 април 2026 г. за изменение и допълнение на Тарифата за таксите, които се събират от Агенцията за устойчиво енергийно развитие по Закона за енергийната ефективност и Закона за енергията от възобновяеми източници, приета с Постановление № 26 на Министерския съвет от 2012 г. (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243064)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14026)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77820)
+- [Закон за мерките срещу изпирането на пари (ДВ, бр. 27 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77757)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 79 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157399)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

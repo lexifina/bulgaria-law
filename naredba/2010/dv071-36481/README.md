@@ -19,6 +19,14 @@
 
 Act id: `naredba-2010-dv071-36481` (tags `naredba-2010-dv071-36481/<day>`; `python tools/on.py <day> naredba-2010-dv071-36481`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 15 от 23 май 2023 г. за придобиване на квалификация по професията "Шлосер" (ДВ, бр. 51 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195263)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

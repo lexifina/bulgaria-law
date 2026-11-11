@@ -17,6 +17,16 @@
 
 Act id: `naredba-2021-dv052-158912` (tags `naredba-2021-dv052-158912/<day>`; `python tools/on.py <day> naredba-2021-dv052-158912`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 63 от 8 ноември 2018 г. за изискванията към съдържанието, периодичността на изготвяне и сроковете за представяне на отчетите за надзорни цели на пенсионноосигурителните дружества и управляваните от тях фондове (ДВ, бр. 64 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175381)
+- [Наредба за изменение и допълнение на наредби на Комисията за финансов надзор (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236442)
+- [Наредба № 1 от 23 юни 2026 г. за резервите за гарантиране на брутния размер на вноските във фондовете за допълнително задължително пенсионно осигуряване и резервите за гарантиране на пенсионните плащания (ДВ, бр. 61 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244326)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

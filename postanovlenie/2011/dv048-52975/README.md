@@ -32,6 +32,33 @@
 
 Act id: `postanovlenie-2011-dv048-52975` (tags `postanovlenie-2011-dv048-52975/<day>`; `python tools/on.py <day> postanovlenie-2011-dv048-52975`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 57 от 8 март 2012 г. за изменение и допълнение на Наредбата за определяне на реда за изплащане от държавата на присъдена издръжка, приета с Постановление № 167 на Министерския съвет от 2011 г. (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62545)
+
+Cited by:
+
+- [Постановление № 367 от 29 декември 2011 г. за изпълнението на държавния бюджет на Република България за 2012 г. (ДВ, бр. 106 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59997)
+- [Постановление № 1 от 9 януари 2013 г. за изпълнението на държавния бюджет на Република България за 2013 г. (ДВ, бр. 6 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72079)
+- [Постановление № 3 от 15 януари 2014 г. за изпълнението на държавния бюджет на Република България за 2014 г. (ДВ, бр. 8 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82147)
+- [Постановление № 8 от 16 януари 2015 г. за изпълнението на държавния бюджет на Република България за 2015 г. (ДВ, бр. 6 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91356)
+- [Постановление № 380 от 29 декември 2015 г. за изпълнението на държавния бюджет на Република България за 2016 г. (ДВ, бр. 3 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99824)
+- [Постановление № 374 от 22 декември 2016 г. за изпълнението на държавния бюджет на Република България за 2017 г. (ДВ, бр. 104 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110642)
+- [Постановление № 332 от 22 декември 2017 г. за изпълнението на държавния бюджет на Република България за 2018 г. (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121196)
+- [Постановление № 344 от 21 декември 2018 г. за изпълнението на държавния бюджет на Република България за 2019 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133360)
+- [Постановление № 381 от 30 декември 2019 г. за изпълнението на държавния бюджет на Република България за 2020 г. (ДВ, бр. 2 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144374)
+- [Постановление № 408 от 23 декември 2020 г. за изпълнението на държавния бюджет на Република България за 2021 г. (ДВ, бр. 1 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154753)
+- [Постановление № 31 от 17 март 2022 г. за изпълнението на държавния бюджет на Република България за 2022 г. (ДВ, бр. 23 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171223)
+- [Постановление № 108 от 9 август 2023 г. за изпълнението на държавния бюджет на Република България за 2023 г. (ДВ, бр. 69 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198540)
+- [Постановление № 13 от 29 януари 2024 г. за изпълнението на държавния бюджет на Република България за 2024 г. (ДВ, бр. 10 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205161)
+- [Постановление № 28 от 16 април 2025 г. за изпълнението на държавния бюджет на Република България за 2025 г. (ДВ, бр. 33 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234203)
+- [Закон за изменение и допълнение на Закона за събирането на приходи и извършването на разходи през 2026 г. до приемането на Закона за държавния бюджет на Република България за 2026 г., Закона за бюджета на държавното обществено осигуряване за 2026 г. и Закона за бюджета на Националната здравноосигурителна каса за 2026 г. (ДВ, бр. 30 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242170)
+- [Постановление № 102 от 12 август 2026 г. за изпълнението на държавния бюджет на Република България за 2026 г. (ДВ, бр. 74 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245362)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

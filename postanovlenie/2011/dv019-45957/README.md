@@ -58,6 +58,19 @@
 
 Act id: `postanovlenie-2011-dv019-45957` (tags `postanovlenie-2011-dv019-45957/<day>`; `python tools/on.py <day> postanovlenie-2011-dv019-45957`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 276 от 2 ноември 2012 г. за изменение и допълнение на Наредбата за обхвата, структурата, съдържанието и методологията за изработване на плановете за опазване и управление на единичните или груповите недвижими културни ценности, приета с Постановление № 45 на Министерския съвет от 2011 г. (ДВ, бр. 87 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70169)
+- [Постановление № 53 от 24 април 2026 г. за изменение и допълнение на Наредбата за обхвата, структурата, съдържанието и методологията за изработване на плановете за опазване и управление на единичните или груповите недвижими културни ценности, приета с Постановление № 45 на Министерския съвет от 2011 г. (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243077)
+
+Cited by:
+
+- [Заповед № РД-09-1178 от 25 октомври 2022 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219520)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

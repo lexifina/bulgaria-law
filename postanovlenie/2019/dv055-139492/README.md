@@ -33,6 +33,14 @@
 
 Act id: `postanovlenie-2019-dv055-139492` (tags `postanovlenie-2019-dv055-139492/<day>`; `python tools/on.py <day> postanovlenie-2019-dv055-139492`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 7 от 22 януари 2024 г. за изменение и допълнение на Наредбата за правилна и безопасна техническа експлоатация и поддръжка на елементите за вграждане, филтрацията и помпите към плувните басейни - самостоятелни или прилежащи към места за настаняване, приета с Постановление № 171 на Минис-терския съвет от 2019 г. (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=204482)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

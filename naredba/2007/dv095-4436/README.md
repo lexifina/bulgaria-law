@@ -41,6 +41,14 @@
 
 Act id: `naredba-2007-dv095-4436` (tags `naredba-2007-dv095-4436/<day>`; `python tools/on.py <day> naredba-2007-dv095-4436`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Із-809 от 13 април 2010 г. за реда за осъществяване на превантивна дейност от органите за пожарна безопасност и спасяване на Министерството на вътрешните работи (ДВ, бр. 33 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32266)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

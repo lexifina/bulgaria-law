@@ -50,6 +50,20 @@
 
 Act id: `naredba-2018-dv014-122449` (tags `naredba-2018-dv014-122449/<day>`; `python tools/on.py <day> naredba-2018-dv014-122449`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-5 от 25.01.2018 г. за условията и реда за приемане на слушатели във Военна академия "Георги Стойков Раковски" (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160698)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2018 г. за условията и реда за приемане на слушатели във Военна академия "Георги Стойков Раковски" (ДВ, бр. 15 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233070)
+
+Cited by:
+
+- [Наредба № Н-11 от 2 май 2018 г. за условията и реда за приемане на курсанти и военнослужещи във висшите военни училища (ДВ, бр. 41 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126459)
+- [Наредба за изменение на Наредба № Н-10 от 31.03.2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162330)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

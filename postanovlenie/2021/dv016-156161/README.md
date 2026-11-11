@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2021-dv016-156161` (tags `postanovlenie-2021-dv016-156161/<day>`; `python tools/on.py <day> postanovlenie-2021-dv016-156161`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Договор № РД-НС-01-4-9 от 22 февруари 2021 г. за изменение и допълнение на Националния рамков договор за медицинските дейности между Националната здравноосигурителна каса и Българския лекарски съюз за 2020 - 2022 г. (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156271)
+- [Постановление № 330 от 14 октомври 2021 г. за одобряване на допълнителни разходи и трансфери по бюджета на Министерството на здравеопазването за 2021 г. (ДВ, бр. 87 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163409)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

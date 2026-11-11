@@ -144,9 +144,35 @@
 
 Act id: `zakon-2016-dv059-20984` (tags `zakon-2016-dv059-20984/<day>`; `python tools/on.py <day> zakon-2016-dv059-20984`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109620)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123581)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 85 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199994)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за лицата, обслужващи кредити, и купувачите на кредити (ДВ, бр. 50 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235337)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 97 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66420)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77832)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 85 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164831)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за лицата, обслужващи кредити, и купувачите на кредити (ДВ, бр. 50 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165829)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

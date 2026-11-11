@@ -63,6 +63,22 @@
 
 Act id: `naredba-2004-dv022-21434` (tags `naredba-2004-dv022-21434/<day>`; `python tools/on.py <day> naredba-2004-dv022-21434`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 75 от 2003 г. за одобряване типа на нови моторни превозни средства от категориите М2, М3, N и техните ремаркета от категория О по отношение на масите и размерите (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1895)
+- [Наредба за изменение и допълнение на Наредба № 75 от 2003 г. за одобряване типа на нови моторни превозни средства от категориите М2, М3, N и техните ремаркета от категория О по отношение на масите и размерите (ДВ, бр. 92 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2824)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 46 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2026)
+- [Наредба за изменение и допълнение на Наредба № 97 от 2004 г. за одобряване типа на нови моторни превозни средства за превоз на пътници с повече от осем места за сядане, без мястото на водача (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3232)
+- [Наредба за изменение и допълнение на Наредба № 115 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на системите против изпръскване и за ЕО одобряване на типа устройства против изпръскване (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52195)
+- [Наредба № Н-3 от 18 февруари 2013 г. за изменение в конструкцията на регистрираните пътни превозни средства и индивидуално одобряване на пътни превозни средства, регистрирани извън държавите - членки на Европейския съюз, или друга държава - страна по Споразумението за Европейското икономическо пространство (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73423)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

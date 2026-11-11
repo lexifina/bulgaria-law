@@ -55,6 +55,26 @@
 
 Act id: `pravilnik-2018-dv061-128712` (tags `pravilnik-2018-dv061-128712/<day>`; `python tools/on.py <day> pravilnik-2018-dv061-128712`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 2 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133448)
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 9 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134108)
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 85 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142342)
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142482)
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 80 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151454)
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160229)
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 99 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165049)
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 22 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171129)
+
+Cited by:
+
+- [Постановление № 20 от 25 февруари 2022 г. за приемане на устройствени правилници на Министерството на икономиката и индустрията и на Министерството на иновациите и растежа (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170169)
+- [Устройствен правилник на Патентното ведомство на Република България (ДВ, бр. 53 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218480)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

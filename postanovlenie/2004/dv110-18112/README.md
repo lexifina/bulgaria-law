@@ -32,6 +32,19 @@
 
 Act id: `postanovlenie-2004-dv110-18112` (tags `postanovlenie-2004-dv110-18112/<day>`; `python tools/on.py <day> postanovlenie-2004-dv110-18112`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 23 април 2007 г. за мониторинг на водите (ДВ, бр. 44 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3749)
+- [Постановление № 123 от 1 юни 2007 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3795)
+- [Постановление № 124 от 2 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5319)
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+- [Постановление № 182 от 20 август 2010 г. за приемане на Наредба за реда и начина на класифициране, опаковане и етикетиране на химични вещества и смеси (ДВ, бр. 68 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36323)
+- [Неофициален раздел на "Държавен вестник", брой 50 от 20.6.2006 г. (ДВ, бр. 50 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139081)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

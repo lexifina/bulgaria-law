@@ -85,6 +85,18 @@
 
 Act id: `postanovlenie-2016-dv104-110642` (tags `postanovlenie-2016-dv104-110642/<day>`; `python tools/on.py <day> postanovlenie-2016-dv104-110642`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 96 от 18 май 2017 г. за допълнение на Постановление № 374 на Министерския съвет от 2016 г. за изпълнението на държавния бюджет на Република България за 2017 г. (ДВ, бр. 41 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114592)
+
+Cited by:
+
+- [Постановление № 283 от 13 декември 2017 г. за одобряване на допълнителни разходи/трансфери за 2017 г. (ДВ, бр. 100 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120812)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

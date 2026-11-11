@@ -28,6 +28,15 @@
 
 Act id: `postanovlenie-2021-dv028-157223` (tags `postanovlenie-2021-dv028-157223/<day>`; `python tools/on.py <day> postanovlenie-2021-dv028-157223`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 190 от 23 септември 2025 г. за изменение на Тарифа за таксите, които се събират по Закона за туризма, приета с Постановление № 118 на Министерския съвет от 2021 г. (ДВ, бр. 79 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237536)
+- [Постановление № 187 от 9 октомври 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246480)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

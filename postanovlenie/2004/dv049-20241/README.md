@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2004-dv049-20241` (tags `postanovlenie-2004-dv049-20241/<day>`; `python tools/on.py <day> postanovlenie-2004-dv049-20241`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение за приемане на Национална стратегия за управление и развитие на водния сектор в Република България (ДВ, бр. 96 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70717)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -14,6 +14,22 @@
 
 Act id: `naredba-2006-dv042-1924` (tags `naredba-2006-dv042-1924/<day>`; `python tools/on.py <day> naredba-2006-dv042-1924`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2006 г. за утвърждаване на медицински стандарт "Tрансфузионна хематология" (ДВ, бр. 37 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3630)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2006 г. за утвърждаване на медицински стандарт "Трансфузионна хематология" (ДВ, бр. 35 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125428)
+
+Cited by:
+
+- [Постановление № 84 от 24 април 2008 г. за приемане на Устройствен правилник на Изпълнителната агенция по лекарствата (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5205)
+- [Постановление № 169 от 2 юли 2009 г. за приемане на Устройствен правилник на Изпълнителната агенция по лекарствата (ДВ, бр. 52 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23136)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

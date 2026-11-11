@@ -41,6 +41,25 @@
 
 Act id: `naredba-2013-dv032-74698` (tags `naredba-2013-dv032-74698/<day>`; `python tools/on.py <day> naredba-2013-dv032-74698`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 48 от 2013 г. за изискванията към възнагражденията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137550)
+- [Наредба за изменение и допълнение на Наредба № 48 от 2013 г. за изискванията към възнагражденията (ДВ, бр. 61 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149610)
+- [Наредба за изменение и допълнение на Наредба № 48 от 20 март 2013 г. за изискванията към възнагражденията (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242797)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 46 от 2012 г. за реда и начина за изплащане на компенсации от Фонда за компенсиране на инвеститорите (ДВ, бр. 66 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140639)
+- [Наредба № 70 от 29 юни 2021 г. за изискванията към фондовете за извършване на плащания (ДВ, бр. 60 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159954)
+- [Наредба № 71 от 22 юли 2021 г. за изискванията към системата на управление на застрахователите и презастрахователите (ДВ, бр. 64 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160468)
+- [Правилник за устройството и дейността на Гаранционния фонд (ДВ, бр. 71 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160875)
+- [Наредба за изменение и допълнение на Наредба № 63 от 8.11.2018 г. за изискванията към съдържанието, периодичността на изготвяне и сроковете за представяне на отчетите за надзорни цели на пенсионноосигурителните дружества и управляваните от тях фондове (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225380)
+- [Наредба за изменение и допълнение на Наредба № 17 от 7.07.2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 73 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245177)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

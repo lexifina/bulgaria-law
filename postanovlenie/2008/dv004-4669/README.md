@@ -45,6 +45,32 @@
 
 Act id: `postanovlenie-2008-dv004-4669` (tags `postanovlenie-2008-dv004-4669/<day>`; `python tools/on.py <day> postanovlenie-2008-dv004-4669`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 63 от 8 март 2013 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на биоциди, приета с Постановление № 336 на Министерския съвет от 2007 г. (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74157)
+
+Cited by:
+
+- [Наредба № 7 от 23 април 2008 г. за условията и реда за предоставяне на информация за пуснатите на пазара биоциди и/или химични препарати, класифицирани като опасни въз основа на физико-химичните и токсикологичните си свойства, и на информация за всеки случай на отравяне или съмнение за отравяне с химични вещества, препарати и биоциди (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5208)
+- [Постановление № 114 от 26 май 2008 г. за изменение и допълнение на Наредбата за реда и начина на класифициране, опаковане и етикетиране на химични вещества и препарати, приета с Постановление № 316 на Министерския съвет от 2002 г. (ДВ, бр. 51 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5282)
+- [Наредба № 28 от 9 декември 2008 г. за устройството, реда и организацията на работата на аптеките и номенклатурата на лекарствените продукти (ДВ, бр. 109 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13342)
+- [№ РД-09-617/16.12.08 г. (ДВ, бр. 8 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14178)
+- [№ РД-09-78/9.2.2010 г. (ДВ, бр. 17 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30390)
+- [Наредба за изменение и допълнение на Наредба № 28 от 2008 г. за устройството, реда и организацията на работата на аптеките и номенклатурата на лекарствените продукти (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36197)
+- [Заповед № РД-09-510 от 18 август 2010 г. за ЗЗВВХВС (ДВ, бр. 69 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36325)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2005 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 96 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40755)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67655)
+- [Заповед № РД-28-10 от 25 януари 2013 г. (ДВ, бр. 16 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72960)
+- [Наредба № Н-4 от 14 септември 2012 г. за характеризиране на повърхностните води (ДВ, бр. 22 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73693)
+- [Заповед № РД-28-208 от 25 септември 2013 г. (ДВ, бр. 97 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80099)
+- [Постановление № 8 от 22 януари 2018 г. за приемане на Наредба за формата и съдържанието на документите, необходими за издаване на разрешение за предоставяне на пазара на биоцид или на група биоциди по чл. 18 от Закона за защита от вредното въздействие на химичните вещества и смеси (ДВ, бр. 9 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122001)
+- [Неофициален раздел на "Държавен вестник", брой 81 от 16.09.2008 г. (ДВ, бр. 81 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142854)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

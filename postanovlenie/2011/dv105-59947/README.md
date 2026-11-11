@@ -93,6 +93,21 @@
 
 Act id: `postanovlenie-2011-dv105-59947` (tags `postanovlenie-2011-dv105-59947/<day>`; `python tools/on.py <day> postanovlenie-2011-dv105-59947`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 202 от 11 септември 2013 г. за приемане на Устройствен правилник на Министерството на външните работи (ДВ, бр. 80 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78837)
+
+Cited by:
+
+- [Поправка в Устройствения правилник на Министерството на външните работи, приет с Постановление № 365 на Министерския съвет от 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 105 от 2011 г.) (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61720)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 120 от 25 юни 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65916)
+- [Инструкция за изменение на Инструкция № 1 от 2007 г. за прилагане на Наредбата относно реда за назначаване и приемане на почетни (нещатни) консулски длъжностни лица (ДВ, бр. 62 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67379)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

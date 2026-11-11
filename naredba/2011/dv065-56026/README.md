@@ -73,6 +73,16 @@
 
 Act id: `naredba-2011-dv065-56026` (tags `naredba-2011-dv065-56026/<day>`; `python tools/on.py <day> naredba-2011-dv065-56026`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-5 от 15 декември 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 4 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110913)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-5 от 15 декември 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 72 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161060)
+- [Наредба № 22 от 22 ноември 2023 г. за извършване на полети във въздушното пространство и от/до летищата на територията на Република България (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201471)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

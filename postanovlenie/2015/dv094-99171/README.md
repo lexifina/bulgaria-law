@@ -32,6 +32,16 @@
 
 Act id: `postanovlenie-2015-dv094-99171` (tags `postanovlenie-2015-dv094-99171/<day>`; `python tools/on.py <day> postanovlenie-2015-dv094-99171`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 154 от 31 юли 2017 г. за изменение и допълнение на Постановление № 110 на Министерския съвет от 2010 г. за създаване на Съвет за развитие при Министерския съвет (ДВ, бр. 63 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116752)
+- [Постановление № 77 от 16 май 2023 г. за създаване на Съвет за развитие при Министерския съвет (ДВ, бр. 44 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194680)
+- [Постановление № 11 от 19 февруари 2025 г. за отменяне на Постановление № 77 на Министерския съвет от 2023 г. за създаване на Съвет за развитие при Министерския съвет (ДВ, бр. 15 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233043)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

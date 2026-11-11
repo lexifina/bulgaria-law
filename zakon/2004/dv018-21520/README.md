@@ -79,6 +79,30 @@
 
 Act id: `zakon-2004-dv018-21520` (tags `zakon-2004-dv018-21520/<day>`; `python tools/on.py <day> zakon-2004-dv018-21520`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Указ № 105 за връщане за ново обсъждане в Народното събрание Закона за изменение и допълнение на Закона за енергийната ефективност и мотивите към указа (ДВ, бр. 29 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3491)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 55 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3895)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73794)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 105 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110620)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156337)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238909)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 24 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14219)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 105 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66472)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163475)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166699)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 74 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2506)
+- [Наредба № 16-1238 от 28 декември 2007 г. за обстоятелствата, подлежащи на вписване в регистъра на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност, реда за получаване на информация от регистъра и условията и реда за придобиване и признаване на правоспособност (ДВ, бр. 7 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4704)
+- [Закон за енергийната ефективност (ДВ, бр. 98 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10759)
+- [Наредба № 20 от 12 ноември 2004 г. за обстоятелствата и реда за вписване на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност, и получаване на информация (ДВ, бр. 5 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14700)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

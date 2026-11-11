@@ -85,6 +85,15 @@
 
 Act id: `pravilnik-2021-dv071-160875` (tags `pravilnik-2021-dv071-160875/<day>`; `python tools/on.py <day> pravilnik-2021-dv071-160875`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за устройството и дейността на Гаранционния фонд (ДВ, бр. 18 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233126)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Гаранционния фонд (ДВ, бр. 23 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241454)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

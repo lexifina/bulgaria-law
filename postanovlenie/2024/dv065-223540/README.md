@@ -36,6 +36,19 @@
 
 Act id: `postanovlenie-2024-dv065-223540` (tags `postanovlenie-2024-dv065-223540/<day>`; `python tools/on.py <day> postanovlenie-2024-dv065-223540`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 74 от 28 май 2025 г. за изменение и допълнение на Наредбата за вписване в регистъра на заетостта, приета с Постановление № 267 на Министерския съвет от 2024 г. (ДВ, бр. 45 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235148)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за защита на личните данни и на нейната администрация (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240586)
+- [Постановление № 67 от 11 юни 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 54 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244073)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

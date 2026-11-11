@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2016-dv028-102426` (tags `postanovlenie-2016-dv028-102426/<day>`; `python tools/on.py <day> postanovlenie-2016-dv028-102426`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 177 от 20 август 2018 г. за приемане на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129564)
+- [Постановление № 30 от 20 февруари 2019 г. за приемане на Наредба за външните експерти при предварителен контрол на обществени поръчки (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135053)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

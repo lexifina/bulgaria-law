@@ -71,6 +71,34 @@
 
 Act id: `zakon-2005-dv074-820` (tags `zakon-2005-dv074-820/<day>`; `python tools/on.py <day> zakon-2005-dv074-820`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за защита от шума в околната среда (ДВ, бр. 52 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138906)
+- [Закон за изменение и допълнение на Закона за защита от шума в околната среда (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153902)
+- [Закон за изменение и допълнение на Закона за защита от шума в околната среда (ДВ, бр. 52 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78085)
+- [Закон за изменение и допълнение на Закона за защита от шума в околната среда (ДВ, бр. 101 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163348)
+
+Cited by:
+
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21369)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 32 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63708)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 12 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111482)
+- [Закон за допълнение на Закона за концесиите (ДВ, бр. 60 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139849)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 32 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13738)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 12 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/60413)
+- [Закон за допълнение на Закона за концесиите (ДВ, бр. 60 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157049)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

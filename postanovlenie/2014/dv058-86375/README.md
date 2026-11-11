@@ -137,6 +137,14 @@
 
 Act id: `postanovlenie-2014-dv058-86375` (tags `postanovlenie-2014-dv058-86375/<day>`; `python tools/on.py <day> postanovlenie-2014-dv058-86375`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 143 от 13 юли 2018 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128664)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

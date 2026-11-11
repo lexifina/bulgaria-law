@@ -41,6 +41,14 @@
 
 Act id: `postanovlenie-2013-dv073-78336` (tags `postanovlenie-2013-dv073-78336/<day>`; `python tools/on.py <day> postanovlenie-2013-dv073-78336`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 247 от 24 октомври 2013 г. за приемане на Устройствен правилник на Държавна агенция "Технически операции" (ДВ, бр. 94 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79968)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

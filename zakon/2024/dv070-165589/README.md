@@ -153,9 +153,39 @@
 
 Act id: `zakon-2024-dv070-165589` (tags `zakon-2024-dv070-165589/<day>`; `python tools/on.py <day> zakon-2024-dv070-165589`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за въвеждане на еврото в Република България (ДВ, бр. 65 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166549)
+
+Cited by:
+
+- [Закон за бюджета на държавното обществено осигуряване за 2025 г. (ДВ, бр. 25 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233617)
+- [Закон за изменение и допълнение на Кодекса за застраховането (ДВ, бр. 63 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236329)
+- [Закон за изменение и допълнение на Закона за въвеждане на еврото в Република България (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236528)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 99 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238811)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 100 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239105)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 115 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240167)
+- [Определение № 1 от 23 януари 2026 г. по конституционно дело № 21 от 2025 г. (ДВ, бр. 13 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240955)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за въвеждане на еврото в Република България (ДВ, бр. 82 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245785)
+- [Закон за допълнение на Закона за търговския регистър и регистъра на юридическите лица с нестопанска цел (ДВ, бр. 92 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246271)
+- [Закон за бюджета на държавното обществено осигуряване за 2025 г. (ДВ, бр. 25 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166102)
+- [Закон за изменение и допълнение на Кодекса за застраховането (ДВ, бр. 63 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165825)
+- [Закон за изменение и допълнение на Закона за въвеждане на еврото в Република България (ДВ, бр. 65 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166549)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 99 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166514)
+- [Закон за изменениe и допълнениe на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 100 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166628)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 115 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166708)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за допълнение на Закона за търговския регистър и регистъра на юридическите лица с нестопанска цел (ДВ, бр. 92 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167535)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

@@ -25,6 +25,14 @@
 
 Act id: `postanovlenie-2011-dv011-44142` (tags `postanovlenie-2011-dv011-44142/<day>`; `python tools/on.py <day> postanovlenie-2011-dv011-44142`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 38 от 18 февруари 2013 г. за приемане на Наредба за реда за установяването и означаването на европейски критични инфраструктури в Република България и мерките за тяхната защита (ДВ, бр. 19 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73421)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

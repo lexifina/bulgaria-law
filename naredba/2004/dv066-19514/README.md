@@ -181,6 +181,14 @@
 
 Act id: `naredba-2004-dv066-19514` (tags `naredba-2004-dv066-19514/<day>`; `python tools/on.py <day> naredba-2004-dv066-19514`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2004 г. за условията и реда, при които се осъществява дейността на операторите на електроенергийната система и на разпределителните мрежи, както и на оперативния дежурен персонал от електроенергийните обекти и електрическите уредби на потребителите (ДВ, бр. 63 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=687)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

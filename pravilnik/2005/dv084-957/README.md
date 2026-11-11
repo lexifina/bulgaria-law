@@ -36,6 +36,29 @@
 
 Act id: `pravilnik-2005-dv084-957` (tags `pravilnik-2005-dv084-957/<day>`; `python tools/on.py <day> pravilnik-2005-dv084-957`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове (ДВ, бр. 54 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127537)
+- [Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове (ДВ, бр. 59 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244248)
+
+Cited by:
+
+- [Постановление № 234 от 3 ноември 2005 г. за приемане на Устройствен правилник на Министерството на държавната политика при бедствия и аварии (ДВ, бр. 89 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1010)
+- [Постановление № 222 от 24 август 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 71 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2466)
+- [Постановление № 168 от 23 юли 2007 г. за преобразуване на Националното управление по горите в Държавна агенция по горите (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3999)
+- [Постановление № 246 от 10 октомври 2007 г. за приемане на Устройствен правилник на Държавна агенция "Архиви", за одобряване на Тарифа за таксите, които се събират от Държавна агенция "Архиви", и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви" (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4310)
+- [Постановление № 259 от 25 октомври 2007 г. за приемане на Устройствен правилник на Държавната агенция по горите (ДВ, бр. 88 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4369)
+- [Постановление № 194 от 6 август 2009 г. за уреждане на правоотношенията във връзка със закриването на Министерството на държавната администрация и административната реформа (ДВ, бр. 64 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24192)
+- [Постановление № 229 от 23 септември 2009 г. за приемане на Устройствен правилник на Министерския съвет и на неговата администрация (ДВ, бр. 78 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25316)
+- [Правилник за дейността на Помирителната комисия за платежни спорове (ДВ, бр. 1 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28167)
+- [Решение № 2357 от 16 февруари 2011 г. по административно дело № 14072 от 2010 г. (ДВ, бр. 17 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45435)
+- [Решение № 5435 от 8 май 2020 г. по административно дело № 14272 от 2018 г. (ДВ, бр. 58 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175028)
+- [Решение № 7164 от 14 юли 2022 г. по административно дело № 2874 от 2022 г. (ДВ, бр. 58 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175029)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

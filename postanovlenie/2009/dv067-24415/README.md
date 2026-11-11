@@ -22,6 +22,15 @@
 
 Act id: `postanovlenie-2009-dv067-24415` (tags `postanovlenie-2009-dv067-24415/<day>`; `python tools/on.py <day> postanovlenie-2009-dv067-24415`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 232 от 28 септември 2009 г. за закриване на Държавната агенция за информационни технологии и съобщения, създаване на Изпълнителна агенция "Електронни съобщителни мрежи и информационни системи", приемане на Устройствен правилник на Министерството на транспорта, информационните технологии и съобщенията и приемане на Устройствен правилник на Изпълнителна агенция "Електронни съобщителни мрежи и информационни системи" (ДВ, бр. 78 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25464)
+- [Постановление № 70 от 14 април 2010 г. за координация при управлението на средствата от Европейския съюз (ДВ, бр. 31 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32133)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

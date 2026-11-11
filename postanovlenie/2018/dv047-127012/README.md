@@ -41,6 +41,19 @@
 
 Act id: `postanovlenie-2018-dv047-127012` (tags `postanovlenie-2018-dv047-127012/<day>`; `python tools/on.py <day> postanovlenie-2018-dv047-127012`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 270 от 25 септември 2020 г. за изменение и допълнение на Постановление № 90 на Министерския съвет от 2018 г. за българските неделни училища в чужбина (ДВ, бр. 85 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151915)
+
+Cited by:
+
+- [Постановление № 73 от 5 май 2022 г. за преобразуване на Държавната агенция за българите в чужбина към Министерския съвет в Изпълнителна агенция за българите в чужбина към министъра на външните работи (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173148)
+- [Постановление № 470 от 21 декември 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на образованието и науката за 2022 г. за финансиране дейността на българските неделни училища в чужбина по Постановление № 90 на Министерския съвет от 2018 г. (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182083)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

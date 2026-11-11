@@ -50,6 +50,18 @@
 
 Act id: `naredba-2016-dv067-106791` (tags `naredba-2016-dv067-106791/<day>`; `python tools/on.py <day> naredba-2016-dv067-106791`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за приемане и преместване на деца и ученици в училищата по култура (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118065)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за приемане и преместване на деца и ученици в училищата по културата (ДВ, бр. 81 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130269)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за приемане и преместване на деца и ученици в училищата по култура (ДВ, бр. 88 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142598)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за приемане и преместване на деца и ученици в училищата по култура (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148438)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за приемане и преместване на деца и ученици в училищата по култура (ДВ, бр. 18 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170196)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

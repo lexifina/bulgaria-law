@@ -70,6 +70,18 @@
 
 Act id: `instruktsiya-2009-dv064-24063` (tags `instruktsiya-2009-dv064-24063/<day>`; `python tools/on.py <day> instruktsiya-2009-dv064-24063`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № Iз-1405 от 2009 г. за реда за осъществяване на граничния паспортно-визов контрол на граничните контролно-пропускателни пунктове (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67611)
+
+Cited by:
+
+- [Инструкция № 8121з-813 от 9 юли 2015 г. за реда и организацията за осъществяване на граничните проверки на граничните контролно-пропускателни пунктове (ДВ, бр. 55 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95907)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

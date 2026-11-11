@@ -43,6 +43,22 @@
 
 Act id: `naredba-2010-dv045-33652` (tags `naredba-2010-dv045-33652/<day>`; `python tools/on.py <day> naredba-2010-dv045-33652`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Із-1201 от 2010 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 11 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61131)
+- [Наредба за изменение и допълнение на Наредба № Із-1201 от 2010 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66704)
+- [Наредба за изменение и допълнение на Наредба № Із-1201 от 2010 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102938)
+- [Наредба за изменение и допълнение на Наредба № Із-1201 от 2010 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 52 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115502)
+
+Cited by:
+
+- [адм. д. № 973/2015 г. (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92193)
+- [Решение № 164 от 7 януари 2016 г. по административно дело № 973 от 2015 г. (ДВ, бр. 20 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101697)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

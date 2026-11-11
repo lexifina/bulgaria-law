@@ -20,6 +20,21 @@
 
 Act id: `postanovlenie-2005-dv056-543` (tags `postanovlenie-2005-dv056-543/<day>`; `python tools/on.py <day> postanovlenie-2005-dv056-543`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 346 от 18 декември 2006 г. за изменение и допълнение на Постановление № 131 на Министерския съвет от 2005 г. за определяне на ролята и функциите на националния ръководител и взаимодействието му с ръководителя на програма/секторния ръководител при управление на помощта, предоставена на Република България от Европейския съюз по предприсъединителните инструменти ФАР и ИСПА (ДВ, бр. 106 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3050)
+
+Cited by:
+
+- [Постановление № 176 от 14 юли 2006 г. за изменение и допълнение на Постановление № 18 на Министерския съвет от 2003 г. за създаване на Съвет за координация в борбата с правонарушенията, засягащи финансовите интереси на Европейските общности (ДВ, бр. 60 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2259)
+- [Постановление № 113 от 15 май 2009 г. за изменение и допълнение на Постановление № 18 на Министерския съвет от 2003 г. за създаване на Съвет за координация в борбата с правонарушенията, засягащи финансовите интереси на Европейските общности (ДВ, бр. 39 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20719)
+- [Постановление № 263 от 9 ноември 2010 г. за изменение и допълнение на Постановление № 18 на Министерския съвет от 2003 г. за създаване на Съвет за координация в борбата с правонарушенията, засягащи финансовите интереси на Европейските общности (ДВ, бр. 90 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39880)
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

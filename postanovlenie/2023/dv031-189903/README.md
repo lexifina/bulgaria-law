@@ -39,6 +39,14 @@
 
 Act id: `postanovlenie-2023-dv031-189903` (tags `postanovlenie-2023-dv031-189903/<day>`; `python tools/on.py <day> postanovlenie-2023-dv031-189903`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 37 от 25 април 2025 г. за изменение и допълнение на Правилника за определяне на условията и реда за предоставяне на ваучери за обучение по Програма "Развитие на човешките ресурси" 2021 - 2027 г., Националния план за възстановяване и устойчивост и Фонда за справедлив преход, приет с Постановление № 48 на Министерския съвет от 2023 г. (ДВ, бр. 36 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234366)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

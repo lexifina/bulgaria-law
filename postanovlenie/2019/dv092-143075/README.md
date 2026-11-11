@@ -65,6 +65,14 @@
 
 Act id: `postanovlenie-2019-dv092-143075` (tags `postanovlenie-2019-dv092-143075/<day>`; `python tools/on.py <day> postanovlenie-2019-dv092-143075`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 17 от 26 януари 2026 г. за приемане на Наредба за правилата и нормите за проектиране, изграждане и премахване на физическа инфраструктура, предназначена за разполагане на електронни съобщителни мрежи и приемно-предавателни станции (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240956)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

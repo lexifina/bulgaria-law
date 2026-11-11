@@ -31,6 +31,21 @@
 
 Act id: `postanovlenie-2012-dv084-69922` (tags `postanovlenie-2012-dv084-69922/<day>`; `python tools/on.py <day> postanovlenie-2012-dv084-69922`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 6 от 21 януари 2014 г. за изменение на Наредбата за условията, реда и органите за извършване на анализ, оценка и картографиране на рисковете от бедствия, приета с Постановление № 264 на Министерския съвет от 2012 г. (ДВ, бр. 9 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82096)
+- [Постановление № 135 от 3 юни 2016 г. за изменение и допълнение на Наредбата за условията, реда и органите за извършване на анализ, оценка и картографиране на рисковете от бедствия, приета с Постановление № 264 на Министерския съвет от 2012 г. (ДВ, бр. 44 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104357)
+
+Cited by:
+
+- [Наредба № 8121з-196 от 19 февруари 2015 г. за реда за осъществяване на превантивен контрол от органите за пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92336)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -160,6 +160,20 @@
 
 Act id: `naredba-2004-dv055-20009` (tags `naredba-2004-dv055-20009/<day>`; `python tools/on.py <day> naredba-2004-dv055-20009`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 24 от 2004 г. за производство и търговия с посевен и посадъчен материал от медицински и ароматни растения (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4178)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 87 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130806)
+- [Наредба за изменение и допълнение на Наредба № 99 от 2006 г. за търговия на посевен материал от фуражни култури на пазара на Европейския съюз (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173655)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201446)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -25,6 +25,14 @@
 
 Act id: `naredba-2015-dv103-99641` (tags `naredba-2015-dv103-99641/<day>`; `python tools/on.py <day> naredba-2015-dv103-99641`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 29 от 2015 г. за определяне на реда на финансиране на административните разходи на Фонда за гарантиране на влоговете в банките (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154672)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

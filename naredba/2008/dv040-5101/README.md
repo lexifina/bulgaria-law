@@ -52,6 +52,14 @@
 
 Act id: `naredba-2008-dv040-5101` (tags `naredba-2008-dv040-5101/<day>`; `python tools/on.py <day> naredba-2008-dv040-5101`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № Iз-441 от 2008 г. за определяне на категориите служители, осъществяващи правомощията си в униформено облекло, неговия вид и модел, реда за предоставянето му, както и другите принадлежности, свързани с изпълнението на служебните задължения на служителите, върху които са поставени символи и отличителни знаци на структурните звена на Министерството на вътрешните работи (ДВ, бр. 75 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8162)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

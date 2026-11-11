@@ -24,6 +24,14 @@
 
 Act id: `naredba-2005-dv023-15045` (tags `naredba-2005-dv023-15045/<day>`; `python tools/on.py <day> naredba-2005-dv023-15045`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 11 от 16 август 2006 г. за дейността на Централния орган по Хагската конвенция за гражданските аспекти на международното отвличане на деца, Европейската конвенция за признаване и изпълнение на решения за упражняване на родителски права и възстановяване упражняването на родителските права и Конвенцията за компетентността, приложимото право, признаването, изпълнението и сътрудничеството във връзка с родителската отговорност и мерките за закрила на децата (ДВ, бр. 71 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2471)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

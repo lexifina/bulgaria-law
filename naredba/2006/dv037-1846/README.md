@@ -39,6 +39,18 @@
 
 Act id: `naredba-2006-dv037-1846` (tags `naredba-2006-dv037-1846/<day>`; `python tools/on.py <day> naredba-2006-dv037-1846`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 17 от 11 юни 2010 г. за придобиване на квалификация по професията "Техник по подемно-транспортна техника" (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34266)
+- [Наредба № 2 от 9 януари 2012 г. за придобиване на квалификация по професията "Монтьор на подемно-транспортна техника" (ДВ, бр. 8 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60615)
+- [Наредба № 89 от 22 ноември 2013 г. за придобиване на квалификация по професията "Куриер" (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80791)
+- [Наредба № 21 от 11 август 2020 г. за придобиване на квалификация по професията "Монтьор на подемно-транспортна техника" (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151279)
+- [Наредба № 10 от 23 май 2022 г. за придобиване на квалификация по професията "Куриер" (ДВ, бр. 42 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173725)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -52,6 +52,38 @@
 
 Act id: `zakon-2004-dv037-21121` (tags `zakon-2004-dv037-21121/<day>`; `python tools/on.py <day> zakon-2004-dv037-21121`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя (ДВ, бр. 18 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45450)
+- [Закон за изменение на Закона за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя (ДВ, бр. 84 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79026)
+- [Закон за изменение на Закона за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя (ДВ, бр. 18 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10081)
+- [Закон за изменение на Закона за гарантираните вземания на работниците и служителите при несъстоятелност на работодателя (ДВ, бр. 84 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14427)
+
+Cited by:
+
+- [Закон за бюджета на държавното обществено осигуряване за 2006 г. (ДВ, бр. 104 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1188)
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за търговския регистър (ДВ, бр. 34 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1721)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2045)
+- [Закон за бюджета на държавното обществено осигуряване за 2007 г. (ДВ, бр. 105 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3003)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 94 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70591)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за бюджета на държавното обществено осигуряване за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109995)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 102 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120933)
+- [Закон за бюджета на държавното обществено осигуряване за 2021 г. (ДВ, бр. 103 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154060)
+- [Закон за бюджета на държавното обществено осигуряване за 2026 г. (ДВ, бр. 68 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244982)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 94 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14145)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за бюджета на държавното обществено осигуряване за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66461)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 102 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/75410)
+- [Закон за бюджета на държавното обществено осигуряване за 2021 г. (ДВ, бр. 103 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163417)
+- [Закон за бюджета на държавното обществено осигуряване за 2026 г. (ДВ, бр. 68 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167156)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -37,6 +37,16 @@
 
 Act id: `naredba-2012-dv098-70974` (tags `naredba-2012-dv098-70974/<day>`; `python tools/on.py <day> naredba-2012-dv098-70974`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-25 от 2012 г. за условията и реда за издаване на удостоверение за вписване в регистъра на консултантите за оценяване на съответствието на инвестиционните проекти и/или упражняване на строителен надзор (ДВ, бр. 65 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106720)
+- [Наредба за изменение на Наредба № РД-02-20-25 от 2012 г. за условията и реда за издаване на удостоверение за вписване в регистъра на консултантите за оценяване на съответствието на инвестиционните проекти и/или упражняване на строителен надзор (ДВ, бр. 56 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115841)
+- [Наредба за изменение на Наредба № РД-02-20-25 от 2012 г. за условията и реда за издаване на удостоверение за вписване в регистъра на консултантите за оценяване на съответствието на инвестиционните проекти и/или упражняване на строителен надзор (ДВ, бр. 70 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140965)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

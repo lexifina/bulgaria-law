@@ -51,6 +51,20 @@
 
 Act id: `naredba-2004-dv056-19762` (tags `naredba-2004-dv056-19762/<day>`; `python tools/on.py <day> naredba-2004-dv056-19762`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 115 от 2004 г. за одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на системите против изпръскване и за одобряване на типа устройства против изпръскване (ДВ, бр. 13 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3265)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 75 от 2003 г. за одобряване типа на нови моторни превозни средства от категориите М2, М3, N и техните ремаркета от категория О по отношение на масите и размерите (ДВ, бр. 92 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2824)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба за изменение и допълнение на Наредба № 115 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на системите против изпръскване и за ЕО одобряване на типа устройства против изпръскване (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52195)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

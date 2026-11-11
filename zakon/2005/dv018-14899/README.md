@@ -62,6 +62,37 @@
 
 Act id: `zakon-2005-dv018-14899` (tags `zakon-2005-dv018-14899/<day>`; `python tools/on.py <day> zakon-2005-dv018-14899`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 9 от 29 септември 2005 г. по конституционно дело № 6 от 2005 г. (ДВ, бр. 81 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=918)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 65 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2344)
+- [Закон за защита при бедствия (ДВ, бр. 102 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2971)
+- [Закон за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 102 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12062)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22464)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26935)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 103 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80583)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92618)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 58 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96061)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 52 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243854)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 65 от 2006 г.)](https://www.parliament.bg/bg/laws/ID/8863)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9634)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9689)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 103 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14490)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 17 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15046)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 58 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15328)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 52 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

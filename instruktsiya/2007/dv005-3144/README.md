@@ -333,6 +333,19 @@
 
 Act id: `instruktsiya-2007-dv005-3144` (tags `instruktsiya-2007-dv005-3144/<day>`; `python tools/on.py <day> instruktsiya-2007-dv005-3144`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за отменяне на Инструкция № 512 от 2006 г. за провеждане на радиотелефонна комуникация при обслужване на въздушното движение в Република България (ДВ, бр. 93 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98929)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 39 от 2009 г. за условията и реда за издаване на свидетелства за правоспособност на пилоти, свидетелства за авиационни учебни центрове, обучаващи пилоти, и свидетелства за медицинска годност на авиационен персонал - пилоти, в съответствие с изискванията на JAR-FCL 1 и JAR-FCL 3 и контрола върху тях (ДВ, бр. 86 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38107)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2003 г. за свидетелствата за правоспособност на авиационния персонал (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154558)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

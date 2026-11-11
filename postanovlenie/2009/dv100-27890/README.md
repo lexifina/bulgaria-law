@@ -70,6 +70,25 @@
 
 Act id: `postanovlenie-2009-dv100-27890` (tags `postanovlenie-2009-dv100-27890/<day>`; `python tools/on.py <day> postanovlenie-2009-dv100-27890`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 201 от 10 септември 2010 г. за изменение и допълнение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 73 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36918)
+- [Постановление № 294 от 27 октомври 2011 г. за изменение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 88 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58183)
+- [Постановление № 176 от 7 август 2012 г. за изменение и допълнение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 62 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67488)
+- [Постановление № 190 от 24 август 2012 г. за изменение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 67 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67997)
+- [Постановление № 218 от 14 септември 2012 г. за изменение и допълнение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 72 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68523)
+- [Постановление № 168 от 15 август 2013 г. за изменение и допълнение на Устройствения правилник на Агенция "Митници", приет с Постановление № 302 на Министерския съвет от 2009 г. (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78332)
+- [Постановление № 57 от 14 март 2014 г. за приемане на Устройствен правилник на Агенция "Митници" (ДВ, бр. 25 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83543)
+
+Cited by:
+
+- [Постановление № 166 от 6 август 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 64 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35740)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

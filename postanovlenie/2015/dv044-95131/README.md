@@ -21,6 +21,23 @@
 
 Act id: `postanovlenie-2015-dv044-95131` (tags `postanovlenie-2015-dv044-95131/<day>`; `python tools/on.py <day> postanovlenie-2015-dv044-95131`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 179 от 18 юли 2016 г. за допълнение на Постановление № 146 на Министерския съвет от 2015 г. за създаване на Централен орган за покупки в сектор "Здравеопазване" (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105895)
+
+Cited by:
+
+- [Постановление № 22 от 2 февруари 2016 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 67 на Министерския съвет от 2015 г. (ДВ, бр. 10 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100749)
+- [Постановление № 101 от 26 април 2016 г. за изменение и допълнение на Постановление № 385 на Министерския съвет от 2015 г. за дейността на Централния орган за обществени поръчки за нуждите на органите на изпълнителната власт (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103333)
+- [Постановление № 148 от 24 юли 2017 г. за приемане на Устройствен правилник на Министерството на здравеопазването (ДВ, бр. 60 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116499)
+- [Постановление № 55 от 28 март 2019 г. за приемане на Устройствен правилник на Министерството на здравеопазването (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136244)
+- [Постановление № 249 от 27 юли 2021 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 55 на Министерския съвет от 2019 г. (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160440)
+- [Постановление № 391 от 8 ноември 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230462)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

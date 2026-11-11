@@ -45,6 +45,23 @@
 
 Act id: `naredba-2017-dv029-113232` (tags `naredba-2017-dv029-113232/<day>`; `python tools/on.py <day> naredba-2017-dv029-113232`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 10 май 2018 г. за реда за лицензиране на спортните организации в Република България (ДВ, бр. 42 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126513)
+- [Наредба № 11 от 27 август 2018 г. за придобиване на квалификация по професията "Треньор" (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129896)
+- [Наредба № 10 от 27 август 2018 г. за придобиване на квалификация по професията "Помощник-треньор" (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129911)
+- [Наредба № 13 от 27 август 2018 г. за придобиване на квалификация по професията "Помощник-инструктор по спортно-туристическа дейност" (ДВ, бр. 78 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129955)
+- [Наредба № 12 от 27 август 2018 г. за придобиване на квалификация по професията "Инструктор по спортно-туристическа дейност" (ДВ, бр. 78 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129971)
+- [Наредба № 14 от 27 август 2018 г. за придобиване на квалификация по професията "Инструктор по фитнес" (ДВ, бр. 80 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129995)
+- [Наредба № 15 от 27 август 2018 г. за придобиване на квалификация по професията "Помощник-инструктор по фитнес" (ДВ, бр. 80 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130042)
+- [Наредба № 17 от 27 август 2018 г. за придобиване на квалификация по професията "Инструктор по адаптирана физическа активност и спорт за хора с увреждания" (ДВ, бр. 82 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130114)
+- [Постановление № 289 от 12 декември 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133002)
+- [Наредба № 1 от 4 февруари 2019 г. за треньорските кадри (ДВ, бр. 13 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134647)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

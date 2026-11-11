@@ -59,6 +59,15 @@
 
 Act id: `naredba-2005-dv020-15002` (tags `naredba-2005-dv020-15002/<day>`; `python tools/on.py <day> naredba-2005-dv020-15002`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 45 от 2003 г. за производство и търговия на семена от зърнени култури (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2066)
+- [Наредба № 8 от 31 октомври 2013 г. за условията и реда за одобряване и издаване на разрешения за вземане на проби от семена от физически лица (пробовземачи) и за условията и реда за одобряване на лаборатории за извършване на лабораторни анализи за посевни качества на семената и на лаборатории за определяне здравното състояние на семената и посадъчния материал (ДВ, бр. 98 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80172)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

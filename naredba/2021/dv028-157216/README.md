@@ -90,6 +90,18 @@
 
 Act id: `naredba-2021-dv028-157216` (tags `naredba-2021-dv028-157216/<day>`; `python tools/on.py <day> naredba-2021-dv028-157216`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2021 г. за условията и реда за съставяне на списък на медицинските изделия по чл. 30а от Закона за медицинските изделия и за определяне на стойността, до която те се заплащат (ДВ, бр. 104 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166133)
+- [Наредба за изменение и допълнение на Наредба № 7 от 31 март 2021 г. за условията и реда за съставяне на списък на медицинските изделия по чл. 30а от Закона за медицинските изделия и за определяне на стойността, до която те се заплащат (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174428)
+- [Наредба за изменение и допълнение на Наредба № 7 от 31 март 2021 г. за условията и реда за съставяне на списък на медицинските изделия по чл. 30а от Закона за медицинските изделия и за определяне на стойността, до която те се заплащат (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201965)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2021 г. за условията и реда за съставяне на списък на медицинските изделия по чл. 30а от Закона за медицинските изделия и за определяне на стойността, до която те се заплащат (ДВ, бр. 110 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231746)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2021 г. за условията и реда за съставяне на списък на медицинските изделия по чл. 30а от Закона за медицинските изделия и за определяне на стойността, до която те се заплащат (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235810)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

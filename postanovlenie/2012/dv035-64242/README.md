@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2012-dv035-64242` (tags `postanovlenie-2012-dv035-64242/<day>`; `python tools/on.py <day> postanovlenie-2012-dv035-64242`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 141 от 4 юли 2013 г. за изменение на Постановление № 89 на Министерския съвет от 2012 г. за приемане на държавен военновременен план (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77275)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

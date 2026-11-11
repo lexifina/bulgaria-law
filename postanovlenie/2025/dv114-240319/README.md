@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2025-dv114-240319` (tags `postanovlenie-2025-dv114-240319/<day>`; `python tools/on.py <day> postanovlenie-2025-dv114-240319`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 367 от 29 декември 2025 г. за изменение и допълнение на Постановление № 341 на Министерския съвет от 2025 г. за одобряване на допълнителни разходи по бюджета на Министерския съвет за 2025 г. (ДВ, бр. 1 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240388)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

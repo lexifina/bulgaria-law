@@ -30,6 +30,21 @@
 
 Act id: `naredba-2004-dv047-20212` (tags `naredba-2004-dv047-20212/<day>`; `python tools/on.py <day> naredba-2004-dv047-20212`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 15 от 2004 г. за мерките за опазването на пчелите и пчелните семейства от отравяне и начините за провеждане на растителнозащитни, дезинфекционни и дезинсекционни дейности (ДВ, бр. 82 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8811)
+
+Cited by:
+
+- [Наредба № 104 от 22 август 2006 г. за контрол върху предлагането на пазара и употребата на продукти за растителна защита (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2660)
+- [Правилник за организацията и дейността на постоянните комисии по общини за осъществяване на профилактика на заболяванията и опазване на пчелните семейства от отравяния (ДВ, бр. 98 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18436)
+- [Наредба № 2 от 30 януари 2012 г. за условията, начините и реда за прилагане на продукти за растителна защита в горските територии (ДВ, бр. 10 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61055)
+- [Наредба № 13 от 26 август 2016 г. за мерките за опазването на пчелите и пчелните семейства от отравяне и начините за провеждане на растителнозащитни, дезинфекционни и дезинсекционни дейности (ДВ, бр. 70 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107228)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

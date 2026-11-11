@@ -43,6 +43,24 @@
 
 Act id: `naredba-2007-dv015-3304` (tags `naredba-2007-dv015-3304/<day>`; `python tools/on.py <day> naredba-2007-dv015-3304`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67655)
+- [Наредба за изменение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 85 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70021)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152389)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 108 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231525)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49098)
+- [Наредба № 24 от 10 септември 2020 г. за физическата среда и информационното и библиотечното осигуряване на детските градини, училищата и центровете за подкрепа за личностно развитие (ДВ, бр. 84 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151729)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174643)
+- [Заповед № 539 от 30 юни 2025 г. (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235848)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

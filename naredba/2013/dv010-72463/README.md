@@ -60,6 +60,23 @@
 
 Act id: `naredba-2013-dv010-72463` (tags `naredba-2013-dv010-72463/<day>`; `python tools/on.py <day> naredba-2013-dv010-72463`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за реда и образците, по които се предоставя информация за дейностите по отпадъците, както и реда за водене на публични регистри (ДВ, бр. 86 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79064)
+
+Cited by:
+
+- [Наредба № 6 от 27 август 2013 г. за условията и изискванията за изграждане и експлоатация на депа и на други съоръжения и инсталации за оползотворяване и обезвреждане на отпадъци (ДВ, бр. 80 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78698)
+- [Постановление № 235 от 15 октомври 2013 г. за приемане на Наредба за третиране на биоотпадъците (ДВ, бр. 92 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79705)
+- [Постановление № 256 от 13 ноември 2013 г. за приемане на Наредба за излязлото от употреба електрическо и електронно оборудване (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80462)
+- [Постановление № 275 от 6 декември 2013 г. за приемане на Наредба за разделно събиране на биоотпадъците (ДВ, бр. 107 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81123)
+- [Наредба № 1 от 4 юни 2014 г. за реда и образците, по които се предоставя информация за дейностите по отпадъците, както и реда за водене на публични регистри (ДВ, бр. 51 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85654)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

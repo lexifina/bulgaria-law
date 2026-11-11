@@ -69,6 +69,18 @@
 
 Act id: `naredba-2018-dv104-132685` (tags `naredba-2018-dv104-132685/<day>`; `python tools/on.py <day> naredba-2018-dv104-132685`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 32 от 22 февруари 2019 г. за изменение и допълнение на Наредбата за условията и реда за прилагане на схеми за предоставяне на плодове и зеленчуци и на мляко и млечни продукти в учебните заведения - Схема "Училищен плод" и Схема "Училищно мляко", приета с Постановление № 251 на Министерския съвет от 2016 г. (ДВ, бр. 18 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135134)
+- [Постановление № 125 от 15 юни 2020 г. за изменение и допълнение на Наредбата за условията и реда за прилагане на схеми за предоставяне на плодове и зеленчуци и на мляко и млечни продукти в учебните заведения - схема "Училищен плод" и схема "Училищно мляко", приета с Постановление № 251 на Министерския съвет от 2016 г. (ДВ, бр. 55 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149102)
+- [Наредба № 24 от 10 септември 2020 г. за физическата среда и информационното и библиотечното осигуряване на детските градини, училищата и центровете за подкрепа за личностно развитие (ДВ, бр. 84 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151729)
+- [Наредба № 2 от 20 януари 2021 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения, училищните столове и обектите за търговия на дребно на територията на училищата и на детските заведения, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 8 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155277)
+- [Решение № 8272 от 7 юли 2021 г. по административно дело № 9104 от 2020 г. (ДВ, бр. 59 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160093)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

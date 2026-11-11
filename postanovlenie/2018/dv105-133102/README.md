@@ -14,6 +14,19 @@
 
 Act id: `postanovlenie-2018-dv105-133102` (tags `postanovlenie-2018-dv105-133102/<day>`; `python tools/on.py <day> postanovlenie-2018-dv105-133102`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Постановление № 336 от 13 декември 2019 г. за одобряване на допълнителни разходи по бюджета на Министерството на регионалното развитие и благоустройството за 2019 г. за изграждане на Автомагистрала "Хемус" (ДВ, бр. 99 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143756)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154110)
+- [Постановление № 206 от 29 юни 2021 г. за възстановяване на средства по бюджета на Министерството на регионалното развитие и благоустройството за 2021 г. (ДВ, бр. 55 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159755)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163416)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

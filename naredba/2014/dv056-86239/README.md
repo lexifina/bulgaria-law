@@ -12,6 +12,21 @@
 
 Act id: `naredba-2014-dv056-86239` (tags `naredba-2014-dv056-86239/<day>`; `python tools/on.py <day> naredba-2014-dv056-86239`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2014 г. за утвърждаване на медицински стандарт "Нуклеарна медицина" (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90886)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [Наредба № 2 от 5 февруари 2018 г. за условията и реда за осигуряване защита на лицата при медицинско облъчване (ДВ, бр. 13 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122490)
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2019 г. за определяне на пакета от здравни дейности, гарантиран от бюджета на Националната здравноосигурителна каса (ДВ, бр. 18 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241249)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

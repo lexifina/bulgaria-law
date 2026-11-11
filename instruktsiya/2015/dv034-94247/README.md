@@ -141,6 +141,18 @@
 
 Act id: `instruktsiya-2015-dv034-94247` (tags `instruktsiya-2015-dv034-94247/<day>`; `python tools/on.py <day> instruktsiya-2015-dv034-94247`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-470 от 2015 г. за организацията на дейността по установяване на дисциплинарни нарушения и налагане на дисциплинарни наказания, събирането и обработката на информация за състоянието на дисциплината и дисциплинарната практика в Министерството на вътрешните работи (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112803)
+
+Cited by:
+
+- [Инструкция № 8121з-877 от 6 юли 2021 г. за дисциплината и дисциплинарната практика в Министерството на вътрешните работи (ДВ, бр. 59 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160067)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

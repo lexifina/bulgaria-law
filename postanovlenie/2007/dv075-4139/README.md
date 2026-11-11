@@ -16,6 +16,15 @@
 
 Act id: `postanovlenie-2007-dv075-4139` (tags `postanovlenie-2007-dv075-4139/<day>`; `python tools/on.py <day> postanovlenie-2007-dv075-4139`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 269 от 12 ноември 2007 г. за изменение на Постановление № 212 на Министерския съвет от 2007 г. за предоставяне на държавна помощ за компенсиране на загуби на земеделски производители на зърнени култури (ДВ, бр. 95 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4431)
+- [Поправка в Постановление № 269 от 2007 г. за изменение на Постановление № 212 от 2007 г. за предоставяне на държавна помощ за компенсиране на загуби на земеделски производители на зърнени храни (ДВ, бр. 95 от 2007 г.) (ДВ, бр. 98 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42855)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

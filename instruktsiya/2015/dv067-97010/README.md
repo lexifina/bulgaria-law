@@ -20,6 +20,17 @@
 
 Act id: `instruktsiya-2015-dv067-97010` (tags `instruktsiya-2015-dv067-97010/<day>`; `python tools/on.py <day> instruktsiya-2015-dv067-97010`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение на Инструкция № 8121з-1008 от 2015 г. за условията, реда за получаване и размера на стипендии на курсантите в Академията на Министерството на вътрешните работи редовна форма на обучение и за условията и реда за получаване на полагащото им се униформено облекло (ДВ, бр. 4 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155012)
+- [Инструкция за изменение на Инструкция № 8121з-1008 от 24 август 2015 г. за условията, реда за получаване и размера на стипендии на курсантите в Академията на Министерството на вътрешните работи редовна форма на обучение и за условията и реда за получаване на полагащото им се униформено облекло (ДВ, бр. 27 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156995)
+- [Инструкция за изменение на Инструкция № 8121з-1008 от 24 август 2015 г. за условията, реда за получаване и размера на стипендии на курсантите в Академията на Министерството на вътрешните работи редовна форма на обучение и за условията и реда за получаване на полагащото им се униформено облекло (ДВ, бр. 23 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209704)
+- [Инструкция за изменение на Инструкция № 8121з-1008 от 24 август 2015 г. за условията, реда за получаване и размера на стипендии на курсантите в Академията на Министерството на вътрешните работи редовна форма на обучение и за условията и реда за получаване на полагащото им се униформено облекло (ДВ, бр. 53 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218700)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

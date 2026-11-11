@@ -16,6 +16,20 @@
 
 Act id: `postanovlenie-2021-dv038-158111` (tags `postanovlenie-2021-dv038-158111/<day>`; `python tools/on.py <day> postanovlenie-2021-dv038-158111`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 306 от 30 септември 2022 г. за изменение и допълнение на Постановление № 183 на Министерския съвет от 2021 г. за приемане на План за развитие на въоръжените сили на Република България до 2026 г. (ДВ, бр. 79 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178528)
+- [Постановление № 243 от 27 ноември 2023 г. за изменение и допълнение на Постановление № 183 на Министерския съвет от 2021 г. за приемане на План за развитие на въоръжените сили на Република България до 2026 г. (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201529)
+
+Cited by:
+
+- [Постановление № 32 от 23 април 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 35 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234308)
+- [Постановление № 54 от 24 април 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243078)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

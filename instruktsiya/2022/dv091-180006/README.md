@@ -113,6 +113,14 @@
 
 Act id: `instruktsiya-2022-dv091-180006` (tags `instruktsiya-2022-dv091-180006/<day>`; `python tools/on.py <day> instruktsiya-2022-dv091-180006`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-1249 от 14 октомври 2025 г. за реда и организацията за извършване на граничните проверки на граничните контролно-пропускателни пунктове (ДВ, бр. 92 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238326)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

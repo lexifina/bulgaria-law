@@ -79,6 +79,20 @@
 
 Act id: `postanovlenie-2009-dv005-14311` (tags `postanovlenie-2009-dv005-14311/<day>`; `python tools/on.py <day> postanovlenie-2009-dv005-14311`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+- [Постановление № 6 от 17 януари 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43257)
+- [Наредба № Iз-3147 от 12 декември 2011 г. за реда за осъществяване на превантивна дейност от органите за пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 100 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59517)
+- [Постановление № 28 от 7 февруари 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73069)
+- [Наредба № Із-553 от 12 март 2013 г. за реда за организиране и осъществяване на превантивен контрол от органите на пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 29 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74285)
+- [Наредба № 8121з-196 от 19 февруари 2015 г. за реда за осъществяване на превантивен контрол от органите за пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92336)
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

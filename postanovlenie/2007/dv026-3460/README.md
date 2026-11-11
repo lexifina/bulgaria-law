@@ -32,6 +32,23 @@
 
 Act id: `postanovlenie-2007-dv026-3460` (tags `postanovlenie-2007-dv026-3460/<day>`; `python tools/on.py <day> postanovlenie-2007-dv026-3460`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 273 от 15 ноември 2007 г. за изменение и допълнение на Правилника за прилагане на Закона за държавните помощи, приет с Постановление № 61 на Министерския съвет от 2007 г. (ДВ, бр. 97 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4442)
+- [Постановление № 14 от 23 януари 2009 г. за изменение и допълнение на Правилника за прилагане на Закона за държавните помощи, приет с Постановление № 61 на Министерския съвет от 2007 г. (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15487)
+
+Cited by:
+
+- [Постановление № 155 от 2 юли 2008 г. за изменение и допълнение на Постановление № 121 на Министерския съвет от 2007 г. за определяне на реда за предоставяне на безвъзмездна финансова помощ по оперативните програми, съфинансирани от Структурните фондове и Кохезионния фонд на Европейския съюз, и по Програма ФАР на Европейския съюз (ДВ, бр. 61 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5908)
+- [Постановление № 39 от 17 февруари 2009 г. за изменение и допълнение на Постановление № 121 на Министерския съвет от 2007 г. за определяне на реда за предоставяне на безвъзмездна финансова помощ по оперативните програми, съфинансирани от Структурните фондове и Кохезионния фонд на Европейския съюз, и по Програма ФАР на Европейския съюз (ДВ, бр. 16 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16409)
+- [Постановление № 324 от 30 декември 2009 г. за изпълнението на държавния бюджет на Република България за 2010 г. (ДВ, бр. 3 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28508)
+- [Постановление № 6 от 10 януари 2013 г. за приемане на нормативни актове по прилагане на Закона за публично-частното партньорство (ДВ, бр. 5 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72025)
+- [Постановление № 183 от 27 август 2018 г. за приемане на Правилник за прилагане на Закона за държавните помощи (ДВ, бр. 72 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129741)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

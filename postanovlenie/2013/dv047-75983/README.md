@@ -48,6 +48,18 @@
 
 Act id: `postanovlenie-2013-dv047-75983` (tags `postanovlenie-2013-dv047-75983/<day>`; `python tools/on.py <day> postanovlenie-2013-dv047-75983`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 84 от 10 април 2014 г. за приемане на Устройствен правилник на Авиоотряд 28 (ДВ, бр. 34 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84296)
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+- [Правилник за устройството и дейността на Централнo военно окръжие (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96574)
+- [Правилник за устройството и дейността на Централно военно окръжие (ДВ, бр. 54 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105747)
+- [Постановление № 105 от 27 май 2020 г. за приемане на Наредба за планиране на граждански ресурси за отбрана (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148481)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -73,6 +73,16 @@
 
 Act id: `naredba-2021-dv023-156606` (tags `naredba-2021-dv023-156606/<day>`; `python tools/on.py <day> naredba-2021-dv023-156606`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-273 от 10 март 2021 г. за приемане на курсанти, студенти и докторанти в Академията на Министерството на вътрешните работи (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173924)
+- [Наредба за изменение и допълнение на Наредба № 8121з-273 от 10 март 2021 г. за приемане на курсанти, студенти и докторанти в Академията на Министерството на вътрешните работи (ДВ, бр. 27 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=189044)
+- [Наредба за изменение и допълнение на Наредба № 8121з-273 от 2021 г. за приемане на курсанти, студенти и докторанти в Академията на Министерството на вътрешните работи (ДВ, бр. 48 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243493)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

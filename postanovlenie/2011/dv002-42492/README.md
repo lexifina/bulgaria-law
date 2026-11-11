@@ -24,6 +24,18 @@
 
 Act id: `postanovlenie-2011-dv002-42492` (tags `postanovlenie-2011-dv002-42492/<day>`; `python tools/on.py <day> postanovlenie-2011-dv002-42492`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 197 от 15 септември 2017 г. за изменение и допълнение на Правилника за дейността, структурата и организацията на работа на Междуведомствения съвет по пространствени данни, приет с Постановление № 332 на Министерския съвет от 2010 г. (ДВ, бр. 76 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117950)
+
+Cited by:
+
+- [Постановление № 134 от 20 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

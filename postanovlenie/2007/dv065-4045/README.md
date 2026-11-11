@@ -87,6 +87,20 @@
 
 Act id: `postanovlenie-2007-dv065-4045` (tags `postanovlenie-2007-dv065-4045/<day>`; `python tools/on.py <day> postanovlenie-2007-dv065-4045`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 111 от 11 юни 2012 г. за допълнение на Наредбата за съществените изисквания и процедурите за оценяване на съответствието със съществените изисквания на ин витро диагностичните медицински изделия, приета с Постановление № 184 на Министерския съвет от 2007 г. (ДВ, бр. 46 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65447)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2008 г. за документацията, представяна от главния/координиращия изследовател или възложителя за получаване на становище от съответната комисия по етика и за процедурата по проследяване на безопасността на медицинските изделия в хода на клиничното изпитване (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19428)
+- [Наредба за изменение и допълнение на Наредба № 27 от 2007 г. за изискванията към данните и документацията за разрешаване за употреба и регистрация на лекарствени продукти (ДВ, бр. 33 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32292)
+- [Постановление № 222 от 26 август 2016 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 69 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107223)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

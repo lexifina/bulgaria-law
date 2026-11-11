@@ -79,6 +79,20 @@
 
 Act id: `naredba-2020-dv014-145891` (tags `naredba-2020-dv014-145891/<day>`; `python tools/on.py <day> naredba-2020-dv014-145891`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 3.02.2020 г. за психологичното осигуряване в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 49 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195300)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № Н-5 от 25.01.2018 г. за условията и реда за приемане на слушатели във Военна академия "Георги Стойков Раковски" (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160698)
+- [Наредба за изменение на Наредба № Н-10 от 31.03.2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162330)
+- [Наредба № Н-11 от 24 юли 2026 г. за условията и реда за приемане на сержанти (старшини), войници (матроси) и български граждани за обучение в професионалните сержантски (старшински) колежи към висшите военни училища (ДВ, бр. 68 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245036)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

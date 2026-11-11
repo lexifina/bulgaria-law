@@ -30,6 +30,21 @@
 
 Act id: `instruktsiya-2010-dv057-35084` (tags `instruktsiya-2010-dv057-35084/<day>`; `python tools/on.py <day> instruktsiya-2010-dv057-35084`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 4 от 2010 г. за противоградовата защита в Република България (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137276)
+- [Инструкция за изменение и допълнение на Инструкция № 4 от 16.07.2010 г. за противоградовата защита в Република България (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169713)
+- [Инструкция за изменение и допълнение на Инструкция № 4 от 16.07.2010 г. за противоградовата защита в Република България (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179098)
+
+Cited by:
+
+- [Наредба № 19 от 6 юли 2023 г. за функциониране на Единната система за гражданско и военно управление на въздушното пространство (ДВ, бр. 61 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197168)
+- [Наредба № 2 от 14 юли 2025 г. за правилата за полети (ДВ, бр. 60 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236111)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

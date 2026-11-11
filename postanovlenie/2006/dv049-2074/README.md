@@ -57,6 +57,14 @@
 
 Act id: `postanovlenie-2006-dv049-2074` (tags `postanovlenie-2006-dv049-2074/<day>`; `python tools/on.py <day> postanovlenie-2006-dv049-2074`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 5 от 20 януари 2010 г. за приемане на Устройствен правилник на Дирекцията за национален строителен контрол (ДВ, бр. 7 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28898)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

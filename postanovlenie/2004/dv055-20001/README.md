@@ -40,6 +40,15 @@
 
 Act id: `postanovlenie-2004-dv055-20001` (tags `postanovlenie-2004-dv055-20001/<day>`; `python tools/on.py <day> postanovlenie-2004-dv055-20001`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 237 от 5 септември 2006 г. за приемане на Наредба за изискванията за етикетиране на нови пътнически автомобили и за предоставяне на информация относно разхода на гориво и на емисиите на въглероден диоксид (ДВ, бр. 76 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2545)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -89,6 +89,15 @@
 
 Act id: `naredba-2017-dv067-117016` (tags `naredba-2017-dv067-117016/<day>`; `python tools/on.py <day> naredba-2017-dv067-117016`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 3.08.2017 г. за извършване на процесуални действия и удостоверителни изявления в електронна форма (ДВ, бр. 93 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201045)
+- [Наредба за изменение и допълнение на Наредба № 6 от 3.08.2017 г. за извършване на процесуални действия и удостоверителни изявления в електронна форма (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235727)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

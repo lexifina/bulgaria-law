@@ -21,6 +21,18 @@
 
 Act id: `postanovlenie-2007-dv073-4120` (tags `postanovlenie-2007-dv073-4120/<day>`; `python tools/on.py <day> postanovlenie-2007-dv073-4120`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 464 от 18 юли 2008 г. за признаване на Съюза на военноинвалидите и военнопострадалите за национално представителна организация (ДВ, бр. 67 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6962)
+- [№ 3068/09 г. (ДВ, бр. 20 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17248)
+- [Решение № 471 от 8 август 2013 г. за признаване на Съюза на военноинвалидите и военнопострадалите за национално представителна организация (ДВ, бр. 71 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78170)
+- [Решение № 46 от 30 януари 2019 г. за признаване на Сдружение "Съюз на военноинвалидите и военнопострадалите" за представителна организация на национално равнище (ДВ, бр. 11 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134484)
+- [Решение № 637 от 4 септември 2024 г. за признаване на Сдружение "Съюз на военноинвалидите и военнопострадалите" за представителна организация на национално равнище (ДВ, бр. 77 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227601)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

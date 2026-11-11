@@ -38,6 +38,14 @@
 
 Act id: `postanovlenie-2016-dv075-107649` (tags `postanovlenie-2016-dv075-107649/<day>`; `python tools/on.py <day> postanovlenie-2016-dv075-107649`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 60 от 18 април 2022 г. за приемане на Наредба за методиките за определянето на националната цел за енергийна ефективност и за определянето на общата кумулативна цел, въвеждането на схема за задължения за енергийни спестявания и разпределянето на индивидуалните цели за енергийни спестявания между задължените лица (ДВ, бр. 32 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172300)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

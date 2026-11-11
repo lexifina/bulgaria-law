@@ -28,6 +28,18 @@
 
 Act id: `naredba-2020-dv078-151400` (tags `naredba-2020-dv078-151400/<day>`; `python tools/on.py <day> naredba-2020-dv078-151400`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 23 от 2020 г. за начина за определяне на размера на възнагражденията на ректорите на държавните висши училища по договорите за управление, сключени с министъра на образованието и науката (ДВ, бр. 100 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239120)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 4 от 20 април 2017 г. за нормиране и заплащане на труда (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240823)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

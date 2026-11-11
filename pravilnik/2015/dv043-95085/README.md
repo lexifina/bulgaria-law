@@ -93,6 +93,16 @@
 
 Act id: `pravilnik-2015-dv043-95085` (tags `pravilnik-2015-dv043-95085/<day>`; `python tools/on.py <day> pravilnik-2015-dv043-95085`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за енергийно и водно регулиране и нейната администрация (ДВ, бр. 19 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101446)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за енергийно и водно регулиране и на нейната администрация (ДВ, бр. 23 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146892)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за енергийно и водно регулиране и на нейната администрация (ДВ, бр. 39 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192101)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -124,6 +124,14 @@
 
 Act id: `pravilnik-2019-dv016-134921` (tags `pravilnik-2019-dv016-134921/<day>`; `python tools/on.py <day> pravilnik-2019-dv016-134921`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за организация на дейността на Висшия съдебен съвет и на неговата администрация (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177420)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

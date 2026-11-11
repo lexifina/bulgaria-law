@@ -36,6 +36,20 @@
 
 Act id: `naredba-2016-dv080-108045` (tags `naredba-2016-dv080-108045/<day>`; `python tools/on.py <day> naredba-2016-dv080-108045`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2016 г. за гражданското, здравното, екологичното и интеркултурното образование (ДВ, бр. 80 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130272)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2016 г. за гражданското, здравното, екологичното и интеркултурното образование (ДВ, бр. 75 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199132)
+
+Cited by:
+
+- [адм. дело № 3597/2018 г. (ДВ, бр. 72 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129684)
+- [Постановление № 125 от 15 юни 2020 г. за изменение и допълнение на Наредбата за условията и реда за прилагане на схеми за предоставяне на плодове и зеленчуци и на мляко и млечни продукти в учебните заведения - схема "Училищен плод" и схема "Училищно мляко", приета с Постановление № 251 на Министерския съвет от 2016 г. (ДВ, бр. 55 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149102)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

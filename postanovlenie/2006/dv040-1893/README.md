@@ -74,6 +74,27 @@
 
 Act id: `postanovlenie-2006-dv040-1893` (tags `postanovlenie-2006-dv040-1893/<day>`; `python tools/on.py <day> postanovlenie-2006-dv040-1893`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 16 от 2 февруари 2012 г. за изменение и допълнение на Устройствения правилник на Българския институт по метрология, приет с Постановление № 109 на Министерския съвет от 2006 г. (ДВ, бр. 12 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61269)
+- [Постановление № 6 от 14 януари 2016 г. за изменение и допълнение на Устройствения правилник на Българския институт по метрология, приет с Постановление № 109 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100111)
+- [Постановление № 287 от 11 декември 2018 г. за приемане на Устройствен правилник на Българския институт по метрология (ДВ, бр. 104 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132955)
+
+Cited by:
+
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Постановление № 121 от 2 юни 2008 г. за закриване на Изпълнителна агенция "Сертификация и изпитване" към министъра на икономиката и енергетиката и на Националния институт за изследване на вино и спиртни напитки към министъра на икономиката и енергетиката (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5316)
+- [Постановление № 286 от 3 декември 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 98 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27551)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 293 от 22 ноември 2012 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70707)
+- [Постановление № 21 от 12 февруари 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82641)
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+- [Постановление № 105 от 28 април 2015 г. за приемане на Устройствен правилник на Българската агенция за инвестиции и на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94157)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

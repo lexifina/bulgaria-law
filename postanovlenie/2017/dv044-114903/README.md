@@ -81,6 +81,14 @@
 
 Act id: `postanovlenie-2017-dv044-114903` (tags `postanovlenie-2017-dv044-114903/<day>`; `python tools/on.py <day> postanovlenie-2017-dv044-114903`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 190 от 1 септември 2017 г. за създаване на Координационен борд по въпросите на Българското председателство на Съвета на Европейския съюз през 2018 г. (ДВ, бр. 73 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117674)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

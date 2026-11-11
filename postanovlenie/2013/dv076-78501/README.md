@@ -103,6 +103,17 @@
 
 Act id: `postanovlenie-2013-dv076-78501` (tags `postanovlenie-2013-dv076-78501/<day>`; `python tools/on.py <day> postanovlenie-2013-dv076-78501`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 35 от 20 февруари 2015 г. за приемане на Наредба за условията и реда за предаване на радиоактивни отпадъци на Държавно предприятие "Радиоактивни отпадъци" (ДВ, бр. 16 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92351)
+- [Постановление № 1 от 4 януари 2018 г. за изменение и допълнение на Наредбата за реда и начина за набирането, разходването, отчитането и контрола на средствата на Фонд "Сигурност на електроенергийната система", приета с Постановление № 346 на Министерския съвет от 2015 г. (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121434)
+- [Постановление № 65 от 30 април 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125977)
+- [Постановление № 209 от 13 октомври 2025 г. за одобряване на Тарифа за таксите, събирани от Агенцията за ядрено регулиране по Закона за безопасно използване на ядрената енергия (ДВ, бр. 87 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238143)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

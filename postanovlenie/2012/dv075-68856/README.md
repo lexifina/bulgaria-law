@@ -14,6 +14,19 @@
 
 Act id: `postanovlenie-2012-dv075-68856` (tags `postanovlenie-2012-dv075-68856/<day>`; `python tools/on.py <day> postanovlenie-2012-dv075-68856`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 240 от 18 октомври 2013 г. за допълнение на Постановление № 234 на Министерския съвет от 2012 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на младежта и спорта (ДВ, бр. 93 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79839)
+
+Cited by:
+
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 150 от 10 юни 2014 г. за закриване на Националния център "Европейски младежки програми и инициативи" към министъра на младежта и спорта (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85764)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

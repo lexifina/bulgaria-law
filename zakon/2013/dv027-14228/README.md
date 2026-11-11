@@ -9,6 +9,20 @@
 
 Act id: `zakon-2013-dv027-14228` (tags `zakon-2013-dv027-14228/<day>`; `python tools/on.py <day> zakon-2013-dv027-14228`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за ратифициране на Протокола от 2002 г. към Атинската конвенция относно превоза на пътници и личния им багаж по море от 1974 г. (ДВ, бр. 91 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14589)
+
+Cited by:
+
+- [Поправка в Закона за ратифициране на Протокола от 2002 г. към Атинската конвенция относно превоза на пътници и личния им багаж по море от 1974 г. (ДВ, бр. 27 от 2013 г.) (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78337)
+- [Закон за изменение на Закона за ратифициране на Протокола от 2002 г. към Атинската конвенция относно превоза на пътници и личния им багаж по море от 1974 г. (ДВ, бр. 91 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79442)
+- [Закон за изменение на Закона за ратифициране на Протокола от 2002 г. към Атинската конвенция относно превоза на пътници и личния им багаж по море от 1974 г. (ДВ, бр. 91 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14589)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

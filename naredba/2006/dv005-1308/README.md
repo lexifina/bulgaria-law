@@ -121,6 +121,19 @@
 
 Act id: `naredba-2006-dv005-1308` (tags `naredba-2006-dv005-1308/<day>`; `python tools/on.py <day> naredba-2006-dv005-1308`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 2 от 18 юли 2007 г. за реда за осъществяване на операции по издирване и спасяване от Главна дирекция "Национална служба "Гражданска защита" (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4013)
+- [Инструкция № Із-2663 от 9 ноември 2010 г. за реда за осъществяване на операции по издирване и спасяване от Главна дирекция "Гражданска защита" (ДВ, бр. 93 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40173)
+- [Инструкция № Iз-2935 от 21 ноември 2011 г. за реда за осъществяване на операции по издирване и спасяване от Главна дирекция "Пожарна безопасност и защита на населението" на Министерството на вътрешните работи (ДВ, бр. 96 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58935)
+- [Наредба № Н-2 от 3 май 2012 г. за разследване на авиационни произшествия с военни въздухоплавателни средства (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64441)
+- [Инструкция № 8121з-955 от 8 декември 2014 г. за условията и реда за осъществяване на операции по издирване и спасяване (ДВ, бр. 104 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90611)
+- [Наредба № 12 от 11 септември 2020 г. за системата за търсене и спасяване при авиационно произшествие (ДВ, бр. 84 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151730)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -99,6 +99,21 @@
 
 Act id: `postanovlenie-2012-dv073-68530` (tags `postanovlenie-2012-dv073-68530/<day>`; `python tools/on.py <day> postanovlenie-2012-dv073-68530`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 35 от 10 март 2023 г. за изменение и допълнение на Наредбата за изискванията за третиране на излезли от употреба гуми, приета с Постановление № 221 на Министерския съвет от 2012 г. (ДВ, бр. 23 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188400)
+
+Cited by:
+
+- [Постановление № 76 от 12 април 2016 г. за приемане на Наредба за определяне на реда и размера за заплащане на продуктова такса (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102745)
+- [Постановление № 144 от 16 юли 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128696)
+- [Постановление № 420 от 31 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154886)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

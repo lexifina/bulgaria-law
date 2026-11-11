@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2022-dv085-179202` (tags `postanovlenie-2022-dv085-179202/<day>`; `python tools/on.py <day> postanovlenie-2022-dv085-179202`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 56 от 13 април 2023 г. за изменение на Постановление № 339 на Министерския съвет от 2022 г. за изменение и допълнение на Наредбата за условията и реда за предоставяне на средства за компенсиране на намалените приходи от прилагането на цени за обществени пътнически превози по автомобилния транспорт, предвидени в нормативните актове за определени категории пътници, за субсидиране на обществени пътнически превози по нерентабилни автобусни линии във вътрешноградския транспорт и транспорта в планински и други райони и за издаване на превозни документи за извършване на превозите, приета с Постановление № 163 на Министерския съвет от 2015 г. (ДВ, бр. 36 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191463)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

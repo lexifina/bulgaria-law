@@ -33,6 +33,19 @@
 
 Act id: `postanovlenie-2006-dv035-1737` (tags `postanovlenie-2006-dv035-1737/<day>`; `python tools/on.py <day> postanovlenie-2006-dv035-1737`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 231 от 19 септември 2008 г. за изменение и допълнение на Наредбата за прилагане на чл. 4 от Закона за политическа и гражданска реабилитация на репресирани лица, приета с Постановление № 88 на Министерския съвет от 2006 г. (ДВ, бр. 86 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9141)
+- [Постановление № 135 от 29 май 2009 г. за изменение и допълнение на Наредбата за прилагане на чл. 4 от Закона за политическа и гражданска реабилитация на репресирани лица, приета с Постановление № 88 на Министерския съвет от 2006 г. (ДВ, бр. 43 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21853)
+
+Cited by:
+
+- [Постановление № 147 от 23 юли 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35307)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

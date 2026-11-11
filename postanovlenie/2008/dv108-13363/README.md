@@ -25,6 +25,21 @@
 
 Act id: `postanovlenie-2008-dv108-13363` (tags `postanovlenie-2008-dv108-13363/<day>`; `python tools/on.py <day> postanovlenie-2008-dv108-13363`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 262 от 24 юли 2024 г. за изменение на Постановление № 305 на Министерския съвет от 2008 г. за създаване на Изпълнителна агенция "Одит на средствата от Европейския съюз" (ДВ, бр. 63 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223062)
+
+Cited by:
+
+- [Постановление № 346 от 30 декември 2008 г. за приемане на Устройствен правилник на Изпълнителна агенция "Одит на средствата от Европейския съюз" към министъра на финансите (ДВ, бр. 5 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14307)
+- [Постановление № 143 от 27 юни 2022 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Одит на средствата от Европейския съюз" към министъра на финансите, приет с Постановление № 346 на Министерския съвет от 2008 г. (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174429)
+- [Постановление № 23 от 13 февруари 2023 г. за определяне на детайлни правила за предоставяне на безвъзмездна финансова помощ по програмите, финансирани от Европейските фондове при споделено управление за програмен период 2021 - 2027 г. (ДВ, бр. 16 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186664)
+- [Постановление № 113 от 11 август 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 71 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198646)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

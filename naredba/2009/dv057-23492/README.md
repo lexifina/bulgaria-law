@@ -23,6 +23,18 @@
 
 Act id: `naredba-2009-dv057-23492` (tags `naredba-2009-dv057-23492/<day>`; `python tools/on.py <day> naredba-2009-dv057-23492`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № І-7 от 2009 г. за реда за достъп до информационните фондове на Държавна агенция "Национална сигурност" (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104088)
+
+Cited by:
+
+- [Наредба № I-4 от 22 октомври 2019 г. за реда за обработване на лични данни в Държавна агенция "Национална сигурност" (ДВ, бр. 85 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142377)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

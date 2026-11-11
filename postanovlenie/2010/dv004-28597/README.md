@@ -74,6 +74,14 @@
 
 Act id: `postanovlenie-2010-dv004-28597` (tags `postanovlenie-2010-dv004-28597/<day>`; `python tools/on.py <day> postanovlenie-2010-dv004-28597`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 173 от 20 юни 2011 г. за приемане на Устройствен правилник на Изпълнителната агенция по горите (ДВ, бр. 49 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53236)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

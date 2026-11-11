@@ -82,6 +82,17 @@
 
 Act id: `pravilnik-2017-dv043-114709` (tags `pravilnik-2017-dv043-114709/<day>`; `python tools/on.py <day> pravilnik-2017-dv043-114709`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142713)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната (ДВ, бр. 44 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158362)
+- [Правилник за изменение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173381)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на държавните детски градини към Министерството на отбраната и условията и реда за записване, отписване и преместване на деца в държавните детски градини към Министерството на отбраната (ДВ, бр. 64 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223040)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

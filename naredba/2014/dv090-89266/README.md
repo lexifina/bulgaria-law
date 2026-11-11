@@ -25,6 +25,15 @@
 
 Act id: `naredba-2014-dv090-89266` (tags `naredba-2014-dv090-89266/<day>`; `python tools/on.py <day> naredba-2014-dv090-89266`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-904 от 30 юли 2015 г. за определяне на условията и реда за предоставяне на безплатна храна на служителите на Министерството на вътрешните работи за извършване на дейности, свързани със специфичния характер на труда на служителите, и на ободряващи напитки на служителите, полагащи труд през нощта от 22,00 до 06,00 ч. (ДВ, бр. 62 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96410)
+- [Решение № 7741 от 19 август 2022 г. по административно дело № 11516 от 2021 г. (ДВ, бр. 3 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182920)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

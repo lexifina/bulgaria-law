@@ -34,6 +34,14 @@
 
 Act id: `postanovlenie-2006-dv001-1242` (tags `postanovlenie-2006-dv001-1242/<day>`; `python tools/on.py <day> postanovlenie-2006-dv001-1242`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 111 от 26 март 2021 г. за приемане на Наредба за изискванията към бързо замразените храни (ДВ, бр. 26 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156937)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

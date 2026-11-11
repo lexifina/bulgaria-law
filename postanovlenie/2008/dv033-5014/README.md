@@ -73,6 +73,14 @@
 
 Act id: `postanovlenie-2008-dv033-5014` (tags `postanovlenie-2008-dv033-5014/<day>`; `python tools/on.py <day> postanovlenie-2008-dv033-5014`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 195 от 17 октомври 2023 г. за приемане на Наредба за оформяне, подаване и разглеждане на заявки за патенти за изобретения и полезни модели (ДВ, бр. 88 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200687)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

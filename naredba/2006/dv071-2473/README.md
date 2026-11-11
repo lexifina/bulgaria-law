@@ -67,6 +67,18 @@
 
 Act id: `naredba-2006-dv071-2473` (tags `naredba-2006-dv071-2473/<day>`; `python tools/on.py <day> naredba-2006-dv071-2473`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 91 от 2006 г. за хигиена на фуражите (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150309)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и горите (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2785)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

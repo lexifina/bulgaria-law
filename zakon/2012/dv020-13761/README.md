@@ -136,9 +136,42 @@
 
 Act id: `zakon-2012-dv020-13761` (tags `zakon-2012-dv020-13761/<day>`; `python tools/on.py <day> zakon-2012-dv020-13761`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 103 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42242)
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 109 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163320)
+
+Cited by:
+
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92194)
+- [Закон за Държавна агенция "Разузнаване" (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97879)
+- [Закон за военното разузнаване (ДВ, бр. 88 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98578)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150054)
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154523)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15170)
+- [Закон за Държавна агенция "Разузнаване" (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15269)
+- [Закон за военното разузнаване (ДВ, бр. 88 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15268)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157492)
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 109 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163320)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

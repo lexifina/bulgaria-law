@@ -78,6 +78,20 @@
 
 Act id: `naredba-2014-dv066-86955` (tags `naredba-2014-dv066-86955/<day>`; `python tools/on.py <day> naredba-2014-dv066-86955`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-346 от 2014 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94595)
+- [Наредба за допълнение на Наредба № 8121з-346 от 2014 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 77 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97697)
+- [Наредба за изменение на Наредба № 8121з-346 от 2014 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 36 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103358)
+
+Cited by:
+
+- [Наредба № 8121з-433 от 16 март 2017 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 26 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112934)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

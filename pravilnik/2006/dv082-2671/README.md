@@ -24,6 +24,14 @@
 
 Act id: `pravilnik-2006-dv082-2671` (tags `pravilnik-2006-dv082-2671/<day>`; `python tools/on.py <day> pravilnik-2006-dv082-2671`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Устройствен правилник на Държавния културен институт към министъра на външните работи (ДВ, бр. 46 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65404)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

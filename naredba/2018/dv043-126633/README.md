@@ -34,6 +34,18 @@
 
 Act id: `naredba-2018-dv043-126633` (tags `naredba-2018-dv043-126633/<day>`; `python tools/on.py <day> naredba-2018-dv043-126633`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 4 от 2018 г. за условията и реда за унищожаването, преработването или използването за други цели на лекарствените продукти (ДВ, бр. 111 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154755)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 20 от 2001 г. за условията и реда, при които лекарствените продукти, съдържащи наркотични вещества, могат да бъдат освободени от някои мерки за контрол (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181909)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -40,6 +40,16 @@
 
 Act id: `naredba-2004-dv038-21042` (tags `naredba-2004-dv038-21042/<day>`; `python tools/on.py <day> naredba-2004-dv038-21042`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за условията и реда за предоставяне на безвъзмездна финансова помощ за изпълнение на дейностите по мярка Техническа помощ по Специалната предприсъединителна програма на Европейския съюз за развитие на земеделието и селските райони в Република България (САПАРД) (ДВ, бр. 104 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1213)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за условията и реда за предоставяне на безвъзмездна финансова помощ за изпълнение на дейностите по мярка "Техническа помощ" по Специалната предприсъединителна програма на Европейския съюз за развитие на земеделието и селските райони в Република България (САПАРД) (ДВ, бр. 36 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3613)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за условията и реда за предоставяне на безвъзмездна финансова помощ за изпълнение на дейностите по мярка "Техническа помощ" по Специалната предприсъединителна програма на Европейския съюз за развитие на земеделието и селските райони в Република България (САПАРД) (ДВ, бр. 23 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31140)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

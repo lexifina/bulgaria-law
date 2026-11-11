@@ -26,6 +26,19 @@
 
 Act id: `naredba-2005-dv076-857` (tags `naredba-2005-dv076-857/<day>`; `python tools/on.py <day> naredba-2005-dv076-857`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 28 от 2005 г. за условията и реда за регистрация, обработка и съхраняване на данните, съдържащи се в регистъра на лицата, които работят или са работили в среда на йонизиращи лъчения (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154584)
+
+Cited by:
+
+- [Постановление № 294 от 4 декември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 106 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13011)
+- [Наредба за изменение и допълнение на Наредба № 14 от 2008 г. за реда за издаване на здравен сертификат за износ на продукти и стоки със значение за здравето на човека (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73987)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

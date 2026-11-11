@@ -86,6 +86,43 @@
 
 Act id: `zakon-2009-dv044-21933` (tags `zakon-2009-dv044-21933/<day>`; `python tools/on.py <day> zakon-2009-dv044-21933`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 100 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41674)
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 42 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64937)
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 56 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96183)
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 100 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9886)
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 42 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13949)
+- [Закон за изменение и допълнение на Закона за пряко участие на гражданите в държавната власт и местното самоуправление (ДВ, бр. 56 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15396)
+
+Cited by:
+
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43535)
+- [Закон за изменение на Закона за електронното управление (ДВ, бр. 20 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73631)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Изборен кодекс (ДВ, бр. 19 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82965)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142973)
+- [Закон за изменение и допълнение на Изборния кодекс (ДВ, бр. 88 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152235)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169449)
+- [Определение № 3 от 10 юни 2025 г. по конституционно дело № 8 от 2025 г. (ДВ, бр. 49 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235428)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10005)
+- [Закон за изменение на Закона за електронното управление (ДВ, бр. 20 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14281)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Изборен кодекс (ДВ, бр. 19 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14715)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157125)
+- [Закон за изменение и допълнение на Изборния кодекс (ДВ, бр. 88 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163319)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163992)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

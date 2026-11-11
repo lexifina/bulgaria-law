@@ -20,6 +20,18 @@
 
 Act id: `postanovlenie-2006-dv007-1322` (tags `postanovlenie-2006-dv007-1322/<day>`; `python tools/on.py <day> postanovlenie-2006-dv007-1322`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка в Наредба за стоките, имитиращи храни, приета с Постановление № 6 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2006 г.) (ДВ, бр. 11 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55090)
+- [Неофициален раздел на "Държавен вестник", брой 19 от 2.3.2007 г. (ДВ, бр. 19 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140193)
+- [Неофициален раздел на "Държавен вестник", брой 25 от 23.3.2007 г. (ДВ, бр. 25 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140199)
+- [Неофициален раздел на "Държавен вестник", брой 45 от 8.6.2007 г. (ДВ, бр. 45 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140219)
+- [Неофициален раздел на "Държавен вестник", брой 2 от 8.01.2008 г. (ДВ, бр. 2 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142513)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

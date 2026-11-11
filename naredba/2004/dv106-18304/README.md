@@ -28,6 +28,14 @@
 
 Act id: `naredba-2004-dv106-18304` (tags `naredba-2004-dv106-18304/<day>`; `python tools/on.py <day> naredba-2004-dv106-18304`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 2409 от 2004 г. за изискванията относно тарифите за редовни и чартърни въздушни превози (ДВ, бр. 23 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93020)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

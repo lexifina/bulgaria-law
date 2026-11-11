@@ -78,6 +78,18 @@
 
 Act id: `naredba-2009-dv042-21247` (tags `naredba-2009-dv042-21247/<day>`; `python tools/on.py <day> naredba-2009-dv042-21247`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2009 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка 3.1. "Колективни дейности" по Приоритетна ос № 3 "Мерки от общ интерес" по Оперативна програма за развитие на сектор "Рибарство" на Република България, финансирана от Европейския фонд по рибарство за периода 2007 - 2013 г. (ДВ, бр. 44 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33432)
+
+Cited by:
+
+- [Наредба № 11 от 27 юни 2012 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка 3.1. "Колективни дейности" по Приоритетна ос № 3 "Мерки от общ интерес" от Оперативна програма за развитие на сектор "Рибарство" 2007 - 2013 г. на Република България, финансирана от Европейския фонд за рибарство на Европейския съюз (ДВ, бр. 51 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66057)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

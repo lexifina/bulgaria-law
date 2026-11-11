@@ -34,6 +34,14 @@
 
 Act id: `postanovlenie-2017-dv076-117951` (tags `postanovlenie-2017-dv076-117951/<day>`; `python tools/on.py <day> postanovlenie-2017-dv076-117951`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 34 от 3 февруари 2021 г. за изменение и допълнение на Наредбата за условията, реда и начина за изготвяне и верификация на докладите на доставчиците на горива и енергия за транспорта, приета с Постановление № 198 на Министерския съвет от 2017 г. (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155734)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

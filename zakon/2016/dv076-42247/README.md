@@ -47,9 +47,29 @@
 
 Act id: `zakon-2016-dv076-42247` (tags `zakon-2016-dv076-42247/<day>`; `python tools/on.py <day> zakon-2016-dv076-42247`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 95 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120011)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142074)
+- [Закон за изменение и допълнение на Закона за отговорността на държавата и общините за вреди (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143213)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245131)
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 95 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77845)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157133)
+- [Закон за изменение и допълнение на Закона за отговорността на държавата и общините за вреди (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157025)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166975)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

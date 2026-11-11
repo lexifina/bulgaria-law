@@ -115,9 +115,69 @@
 
 Act id: `zakon-2015-dv095-15501` (tags `zakon-2015-dv095-15501/<day>`; `python tools/on.py <day> zakon-2015-dv095-15501`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за счетоводството (ДВ, бр. 100 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14620)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 105 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165170)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 72 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165592)
+- [Закон за изменение на Закона за счетоводството (ДВ, бр. 17 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165958)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107550)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109378)
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109620)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119626)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120210)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132294)
+- [Закон за изменение и допълнение на Закона за финансовото управление и контрол в публичния сектор (ДВ, бр. 13 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134501)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137241)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 26 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146921)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154257)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154271)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 19 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156145)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201798)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 72 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225780)
+- [Закон за изменение на Закона за счетоводството (ДВ, бр. 17 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233068)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236209)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 115 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240167)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 25 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241742)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 27 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241886)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 30 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242046)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244694)
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15570)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42141)
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 97 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66420)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77808)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77857)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 98 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78237)
+- [Закон за изменение и допълнение на Закона за финансовото управление и контрол в публичния сектор (ДВ, бр. 13 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156792)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156918)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 26 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157263)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 104 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163409)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163398)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 19 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163479)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 105 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165170)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за изменение и допълнение на Закона за счетоводството (ДВ, бр. 72 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165592)
+- [Закон за изменение на Закона за счетоводството (ДВ, бр. 17 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165958)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166498)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 115 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166708)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 25 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166715)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 27 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166820)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167078)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

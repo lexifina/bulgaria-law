@@ -196,6 +196,55 @@
 
 Act id: `zakon-2007-dv046-3791` (tags `zakon-2007-dv046-3791/<day>`; `python tools/on.py <day> zakon-2007-dv046-3791`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 110 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13747)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50212)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 54 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66285)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 38 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94580)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 39 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/11331)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 54 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13774)
+- [Закон за изменение и допълнение на Закона за медицинските изделия (ДВ, бр. 38 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15197)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21369)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 60 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55424)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и смеси (ДВ, бр. 84 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69685)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение и допълнение на Закона за ветеринарномедицинската дейност (ДВ, бр. 14 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100863)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104194)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 84 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130493)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132509)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132871)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Решение № 1 от 4 февруари 2020 г. по конституционно дело № 17 от 2018 г. (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145828)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 67 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149930)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 13 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240866)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 60 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13530)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и смеси (ДВ, бр. 84 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14059)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение и допълнение на Закона за ветеринарномедицинската дейност (ДВ, бр. 14 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15645)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/28950)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 84 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77931)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78260)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78250)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 67 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157305)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 13 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166584)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

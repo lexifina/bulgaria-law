@@ -13,6 +13,14 @@
 
 Act id: `naredba-2025-dv018-233154` (tags `naredba-2025-dv018-233154/<day>`; `python tools/on.py <day> naredba-2025-dv018-233154`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 4.02.2025 г. за утвърждаване на Международните одиторски стандарти, Международните стандарти за управление на качеството 1 и 2 и другите международни стандарти, издадени от Международната федерация на счетоводителите чрез Съвета по международни одиторски стандарти и стандарти за изразяване на сигурност (ДВ, бр. 53 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243785)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

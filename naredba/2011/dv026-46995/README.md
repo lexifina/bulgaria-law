@@ -17,6 +17,18 @@
 
 Act id: `naredba-2011-dv026-46995` (tags `naredba-2011-dv026-46995/<day>`; `python tools/on.py <day> naredba-2011-dv026-46995`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2011 г. за определяне на методиката за изчисляване на разходите за потребление на енегрия, емисии на въглероден диоксид, азотни оксиди, неметанови въглеводороди и прахови частици през целия експлоатационен период на пътните превозни средства (ДВ, бр. 75 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56904)
+
+Cited by:
+
+- [Наредба № Н-18 от 8 август 2016 г. за определяне на методиката за изчисляване на определени разходи за целия жизнен цикъл на пътните превозни средства (ДВ, бр. 66 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106770)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

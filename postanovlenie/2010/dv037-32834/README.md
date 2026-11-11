@@ -19,6 +19,26 @@
 
 Act id: `postanovlenie-2010-dv037-32834` (tags `postanovlenie-2010-dv037-32834/<day>`; `python tools/on.py <day> postanovlenie-2010-dv037-32834`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 164 от 5 август 2010 г. за изменение на Постановление № 88 на Министерския съвет от 2010 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на правосъдието (ДВ, бр. 63 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35739)
+- [Постановление № 218 от 22 юли 2011 г. за изменение на Постановление № 88 на Министерския съвет от 2010 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на правосъдието (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55475)
+- [Постановление № 23 от 1 февруари 2013 г. за изменение на Постановление № 88 на Министерския съвет от 2010 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на правосъдието (ДВ, бр. 13 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72851)
+- [Постановление № 191 от 29 август 2013 г. за изменение на Постановление № 88 на Министерския съвет от 2010 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на правосъдието (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78621)
+
+Cited by:
+
+- [Постановление № 36 от 14 февруари 2011 г. за изменение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 89 на Министерския съвет от 2007 г. (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45198)
+- [Постановление № 152 от 17 юли 2012 г. за приемане на Устройствен правилник на Министерството на правосъдието (ДВ, бр. 56 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66654)
+- [Постановление № 341 от 20 декември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71582)
+- [Постановление № 215 от 23 септември 2013 г. за приемане на Устройствен правилник на Министерството на правосъдието (ДВ, бр. 84 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79084)
+- [Постановление № 165 от 20 юни 2014 г. за одобряване на допълнителни разходи/трансфери по бюджета на съдебната власт за 2014 г. (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86053)
+- [Постановление № 155 от 25 юни 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95527)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

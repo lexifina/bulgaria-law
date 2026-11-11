@@ -26,6 +26,14 @@
 
 Act id: `naredba-2011-dv040-50635` (tags `naredba-2011-dv040-50635/<day>`; `python tools/on.py <day> naredba-2011-dv040-50635`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-3 от 18 януари 2017 г. за психологическо осигуряване и полифизиографски изследвания в служба "Военна информация" (ДВ, бр. 12 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111494)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -44,6 +44,21 @@
 
 Act id: `naredba-2018-dv089-130871` (tags `naredba-2018-dv089-130871/<day>`; `python tools/on.py <day> naredba-2018-dv089-130871`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146265)
+- [Наредба за изменение на Наредба № 22 от 11.10.2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 24 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170963)
+- [Наредба за изменение на Наредба № 22 от 11.10.2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 56 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220086)
+- [Наредба за изменение на Наредба № 22 от 11.10.2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 76 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245341)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 11.02.2003 г. за медицинското обслужване на корабите (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169251)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

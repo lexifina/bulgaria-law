@@ -38,6 +38,19 @@
 
 Act id: `naredba-2014-dv063-86755` (tags `naredba-2014-dv063-86755/<day>`; `python tools/on.py <day> naredba-2014-dv063-86755`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-5 от 2 април 2015 г. за условията, реда и нормите за осигуряване на безплатна храна и ободряващи напитки на военнослужещите и цивилните служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия и на курсантите във висшите военни училища в мирно време (ДВ, бр. 30 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93890)
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2011 г. за условията, размерите и реда за изплащане на допълнително възнаграждение за рискове за живота и здравето, които не могат да бъдат отстранени, ограничени или намалени, за военнослужещите и цивилните служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130912)
+- [Наредба № 12 от 16 ноември 2018 г. за здравните изисквания към обществените перални (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132170)
+- [Наредба № 14 от 9 декември 2021 г. за хигиената на храните (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166256)
+- [Наредба № РД-06-3 от 23 февруари 2022 г. за осигуряване на здравословни и безопасни условия на труд в черната и цветната металургия (ДВ, бр. 19 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170289)
+- [Наредба № H-4 от 1 август 2022 г. за здравните изисквания към устройството и работата на селскостопанските аптеки (ДВ, бр. 64 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175380)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

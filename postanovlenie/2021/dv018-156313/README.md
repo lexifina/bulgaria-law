@@ -18,6 +18,17 @@
 
 Act id: `postanovlenie-2021-dv018-156313` (tags `postanovlenie-2021-dv018-156313/<day>`; `python tools/on.py <day> postanovlenie-2021-dv018-156313`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 107 от 25 март 2021 г. за одобряване на допълнителен трансфер по бюджета на Столичната община за 2021 г. (ДВ, бр. 26 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156929)
+- [Постановление № 156 от 15 април 2021 г. за одобряване на допълнителни разходи по бюджета на Министерския съвет за 2021 г. (ДВ, бр. 33 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157579)
+- [Постановление № 376 от 5 ноември 2021 г. за одобряване на допълнителни трансфери за 2021 г. (ДВ, бр. 93 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164583)
+- [Постановление № 228 от 29 юли 2022 г. за одобряване на допълнителни трансфери по бюджета на Столичната община за 2022 г. (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175376)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

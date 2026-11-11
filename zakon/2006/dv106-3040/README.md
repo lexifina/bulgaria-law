@@ -55,6 +55,30 @@
 
 Act id: `zakon-2006-dv106-3040` (tags `zakon-2006-dv106-3040/<day>`; `python tools/on.py <day> zakon-2006-dv106-3040`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за устройството и застрояването на Столичната община (ДВ, бр. 31 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124968)
+- [Закон за изменение и допълнение на Закона за устройството и застрояването на Столичната община (ДВ, бр. 31 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77813)
+
+Cited by:
+
+- [Закон за електронните съобщения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690)
+- [Закон за културното наследство (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16886)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26792)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69471)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение на Закона за държавните такси (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122791)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9709)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13989)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за държавните такси (ДВ, бр. 17 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77895)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

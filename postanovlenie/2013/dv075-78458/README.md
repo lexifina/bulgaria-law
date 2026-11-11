@@ -35,6 +35,15 @@
 
 Act id: `postanovlenie-2013-dv075-78458` (tags `postanovlenie-2013-dv075-78458/<day>`; `python tools/on.py <day> postanovlenie-2013-dv075-78458`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 264 от 14 октомври 2016 г. за приемане на Наредба за критериите и реда за определяне наличието на основни интереси в случаите по чл. 13, ал. 1, т. 13, букви "а", "е" и "ж" и чл. 149, ал. 1, т. 2 от Закона за обществените поръчки, които трябва да бъдат защитени при сключване на договор за обществена поръчка или при провеждане на конкурс за проект (ДВ, бр. 83 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108400)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

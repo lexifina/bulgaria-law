@@ -71,6 +71,21 @@
 
 Act id: `naredba-2011-dv028-47596` (tags `naredba-2011-dv028-47596/<day>`; `python tools/on.py <day> naredba-2011-dv028-47596`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-10 от 2011 г. за организацията и дейността на военните клубове и представителните обекти на Министерството на отбраната (ДВ, бр. 18 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73185)
+- [Наредба за изменение и допълнение на Наредба № Н-10 от 2011 г. за организацията и дейността на военните клубове и представителните обекти на Министерството на отбраната (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90770)
+- [Наредба за изменение и допълнение на Наредба № Н-10 от 2011 г. за организацията и дейността на военните клубове и представителните обекти на Министерството на отбраната (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142727)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № Н-10 от 31.03.2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162330)
+- [Наредба № Н-4 от 18 април 2024 г. за организацията и дейността на военните клубове, социалните кухни и домовете за пенсионирани военнослужещи, ветерани и военноинвалиди (ДВ, бр. 38 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=213882)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

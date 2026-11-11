@@ -219,6 +219,22 @@
 
 Act id: `naredba-2022-dv027-171570` (tags `naredba-2022-dv027-171570/<day>`; `python tools/on.py <day> naredba-2022-dv027-171570`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 50 от 30.03.2022 г. за капиталовата адекватност, ликвидността на инвестиционните посредници и осъществяването на надзор за спазването им (ДВ, бр. 52 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218380)
+- [Наредба за изменение и допълнение на Наредба № 50 от 30.03.2022 г. за капиталовата адекватност, ликвидността на инвестиционните посредници и осъществяването на надзор за спазването им (ДВ, бр. 54 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243798)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 38 от 21.05.2020 г. за изискванията към дейността на инвестиционните посредници (ДВ, бр. 36 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=190379)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+- [Наредба № 76 от 12 юни 2025 г. за таксите, събирани от Комисията за финансов надзор (ДВ, бр. 51 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235512)
+- [Наредба за изменение и допълнение на наредби на Комисията за финансов надзор (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236442)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

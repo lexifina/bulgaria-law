@@ -276,9 +276,81 @@
 
 Act id: `zakon-2011-dv077-13584` (tags `zakon-2011-dv077-13584/<day>`; `python tools/on.py <day> zakon-2011-dv077-13584`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14624)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 22 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15151)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 102 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157195)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 16 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163876)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166975)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 21 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62363)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 109 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81260)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 27 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83548)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 22 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93036)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 34 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94242)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 42 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104082)
+- [Закон за прилагане на мерките срещу пазарните злоупотреби с финансови инструменти (ДВ, бр. 76 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107955)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 62 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116447)
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 95 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120011)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123581)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142074)
+- [Закон за изменение и допълнение на Закона за отговорността на държавата и общините за вреди (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143213)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 102 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144177)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 64 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149882)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155768)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 16 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169450)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 51 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174424)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 85 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199994)
+- [Закон за изменение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201801)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235621)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236379)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 99 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238811)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 25 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241742)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245131)
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 21 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13741)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14624)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 27 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14687)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 22 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15151)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 34 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15177)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 42 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/33719)
+- [Закон за прилагане на мерките срещу пазарните злоупотреби с финансови инструменти (ДВ, бр. 76 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42247)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 62 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66620)
+- [Закон за изменение и допълнение на Закона за Комисията за финансов надзор (ДВ, бр. 95 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77845)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77832)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157133)
+- [Закон за изменение и допълнение на Закона за отговорността на държавата и общините за вреди (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157025)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 102 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157195)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 64 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157452)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163408)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 16 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163876)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 51 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164136)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 85 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164831)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165174)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165936)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165925)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 99 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166514)
+- [Закон за изменение и допълнение на Закона за публичното предлагане на ценни книжа (ДВ, бр. 25 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166715)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166975)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

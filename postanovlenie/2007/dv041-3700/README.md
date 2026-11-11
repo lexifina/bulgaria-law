@@ -41,6 +41,19 @@
 
 Act id: `postanovlenie-2007-dv041-3700` (tags `postanovlenie-2007-dv041-3700/<day>`; `python tools/on.py <day> postanovlenie-2007-dv041-3700`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 19 от 28 януари 2009 г. за изменение и допълнение на Наредбата за формата, съдържанието, условията и реда за издаване на сертификати за произход на електрическа енергия, произведена от възобновяеми енергийни източници и/или по комбиниран начин, приета с Постановление № 110 на Министерския съвет от 2007 г. (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15540)
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 245 от 21 октомври 2010 г. за изменение и допълнение на Наредбата за издаване на сертификати за произход на електрическа енергия, произведена по комбиниран начин, приета с Постановление № 110 на Министерския съвет от 2007 г. (ДВ, бр. 85 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38613)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

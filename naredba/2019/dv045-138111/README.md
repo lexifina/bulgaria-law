@@ -40,6 +40,14 @@
 
 Act id: `naredba-2019-dv045-138111` (tags `naredba-2019-dv045-138111/<day>`; `python tools/on.py <day> naredba-2019-dv045-138111`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2019 г. за подготовка и представяне на искания до Европейската комисия относно земеделските продукти и храни със защитени географски означения и традиционно специфичен характер, за контрол за съответствие с продуктовата спецификация и за водене на регистри на производителите и контролиращите лица (ДВ, бр. 12 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185341)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

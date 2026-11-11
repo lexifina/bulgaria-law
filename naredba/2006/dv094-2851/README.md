@@ -23,6 +23,17 @@
 
 Act id: `naredba-2006-dv094-2851` (tags `naredba-2006-dv094-2851/<day>`; `python tools/on.py <day> naredba-2006-dv094-2851`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 4 от 25 април 2007 г. за аеронавигационните карти (ДВ, бр. 47 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3802)
+- [Наредба № 4 от 1 юли 2009 г. за проектиране, изпълнение и поддържане на строежите в съответствие с изискванията за достъпна среда за населението, включително за хората с увреждания (ДВ, бр. 54 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23197)
+- [Наредба № 15 от 13 април 2011 г. за аеронавигационното информационно обслужване (ДВ, бр. 37 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49395)
+- [Наредба № РД-02-20-2 от 26 януари 2021 г. за определяне на изискванията за достъпност и универсален дизайн на елементите на достъпната среда в урбанизираната територия и на сградите и съоръженията (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155689)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -31,6 +31,19 @@
 
 Act id: `naredba-2007-dv070-4099` (tags `naredba-2007-dv070-4099/<day>`; `python tools/on.py <day> naredba-2007-dv070-4099`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за реда и начина за определяне на индивидуалните месечни работни заплати на персонала в средното образование (ДВ, бр. 86 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4344)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за реда и начина за определяне на индивидуалните месечни работни заплати на персонала в средното образование (ДВ, бр. 99 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4483)
+
+Cited by:
+
+- [Наредба № 2 от 18 февруари 2008 г. за работните заплати на персонала в звената от системата на народната просвета (ДВ, бр. 27 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4923)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

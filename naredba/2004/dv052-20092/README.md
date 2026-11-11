@@ -69,6 +69,37 @@
 
 Act id: `naredba-2004-dv052-20092` (tags `naredba-2004-dv052-20092/<day>`; `python tools/on.py <day> naredba-2004-dv052-20092`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 101 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18416)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 65 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77533)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91219)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144758)
+
+Cited by:
+
+- [Наредба № 20 от 17 юни 2005 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 82 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=938)
+- [Наредба № 21 от 5 юли 2005 г. за безопасността на риболовните кораби (ДВ, бр. 84 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=958)
+- [Наредба № 22 от 5 октомври 2005 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 85 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=970)
+- [Постановление № 265 от 6 декември 2005 г. за изменение и допълнение на Тарифа № 5 за таксите, които се събират в системата на Министерството на транспорта и съобщенията, одобрена с Постановление № 81 на Министерския съвет от 2000 г. (ДВ, бр. 101 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1147)
+- [Наредба № 22 от 22 декември 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 9 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14476)
+- [Наредба № 15 от 28 септември 2004 г. за предаване и приемане на отпадъци - резултат от корабоплавателна дейност, и на остатъци от корабни товари (ДВ, бр. 94 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18560)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 30 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18992)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 49 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22611)
+- [Наредба № 12 от 16 декември 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42042)
+- [Наредба № 20 от 8 септември 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 73 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56692)
+- [Наредба № 54 от 29 декември 2016 г. за техническите изисквания и оценяване съответствието на оборудването на морските кораби (ДВ, бр. 4 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110872)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 62 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116597)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 88 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130829)
+- [Наредба № 22 от 11 октомври 2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130871)
+- [Постановление № 280 от 7 ноември 2019 г. за изменение и допълнение на Наредбата за трудовите и непосредствено свързани с тях отношения между членовете на екипажа и на обслужващия персонал на кораба и корабопритежателя (загл. доп. - ДВ, бр. 19 от 2018 г.), приета с Постановление № 226 на Министерския съвет от 2003 г. (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142748)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144759)
+- [Наредба № 15 от 17 януари 2024 г. за предаване и приемане на отпадъци от кораби (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203840)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

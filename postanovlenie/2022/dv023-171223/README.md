@@ -75,6 +75,19 @@
 
 Act id: `postanovlenie-2022-dv023-171223` (tags `postanovlenie-2022-dv023-171223/<day>`; `python tools/on.py <day> postanovlenie-2022-dv023-171223`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 58 от 15 април 2022 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2022 г. за компенсация на намалението в приходите от данък върху таксиметров превоз на пътници (ДВ, бр. 31 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172196)
+- [Постановление № 228 от 29 юли 2022 г. за одобряване на допълнителни трансфери по бюджета на Столичната община за 2022 г. (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175376)
+- [Постановление № 234 от 1 август 2022 г. за одобряване на допълнителни разходи/трансфери по бюджета на Министерството на образованието и науката, Министерството на земеделието, Министерството на здравеопазването и Министерството на околната среда и водите за 2022 г. (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175424)
+- [Постановление № 404 от 7 декември 2022 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2022 г. за възнаграждения и дължимите осигурителни вноски на външните членове на одитните комитети към общините (ДВ, бр. 99 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181304)
+- [Постановление № 444 от 15 декември 2022 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2022 г. за компенсация на намалението в приходите от данък върху таксиметров превоз на пътници (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181863)
+- [Постановление № 7 от 19 януари 2023 г. за уреждане на бюджетни отношения през 2023 година (ДВ, бр. 7 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184641)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

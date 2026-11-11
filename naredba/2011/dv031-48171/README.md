@@ -43,6 +43,17 @@
 
 Act id: `naredba-2011-dv031-48171` (tags `naredba-2011-dv031-48171/<day>`; `python tools/on.py <day> naredba-2011-dv031-48171`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Iз-895 от 2011 г. за изискванията към устройството на обектите, предназначени за търговия с оръжия, боеприпаси, взривни вещества и пиротехнически изделия, и условията за извършване на търговия (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109646)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 100 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153631)
+- [Наредба за изменение и допълнение на Наредба № Iз-895 от 1 април 2011 г. за изискванията към устройството на обектите, предназначени за търговия с оръжия, боеприпаси, взривни вещества и пиротехнически изделия, и условията за извършване на търговия (ДВ, бр. 4 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182960)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 100 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163335)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -128,9 +128,37 @@
 
 Act id: `zakon-2018-dv010-77752` (tags `zakon-2018-dv010-77752/<day>`; `python tools/on.py <day> zakon-2018-dv010-77752`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за частната охранителна дейност (ДВ, бр. 35 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9938)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 43 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10095)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 48 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42113)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 96 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167108)
+
+Cited by:
+
+- [Закон за мерките срещу изпирането на пари (ДВ, бр. 27 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124434)
+- [Закон за изменение и допълнение на Закона за правната помощ (ДВ, бр. 92 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131339)
+- [Определение № 2 от 8 ноември 2018 г. по конституционно дело № 5 от 2018 г. (ДВ, бр. 95 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131936)
+- [Закон за изменение и допълнение на Закона за финансовото управление и контрол в публичния сектор (ДВ, бр. 13 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134501)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150150)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 96 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246470)
+- [Закон за мерките срещу изпирането на пари (ДВ, бр. 27 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77757)
+- [Закон за изменение и допълнение на Закона за правната помощ (ДВ, бр. 92 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78204)
+- [Закон за изменение и допълнение на Закона за финансовото управление и контрол в публичния сектор (ДВ, бр. 13 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156792)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157467)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 96 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167108)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

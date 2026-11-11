@@ -331,9 +331,95 @@
 
 Act id: `zakon-2011-dv019-10047` (tags `zakon-2011-dv019-10047/<day>`; `python tools/on.py <day> zakon-2011-dv019-10047`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 80 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9614)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14060)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 28 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14673)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15410)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164662)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 67 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164956)
+
+Cited by:
+
+- [Списък на поземлени имоти в горски територии (ДВ, бр. 48 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52875)
+- [Постановление № 173 от 20 юни 2011 г. за приемане на Устройствен правилник на Изпълнителната агенция по горите (ДВ, бр. 49 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53236)
+- [Наредба № 8 от 5 август 2011 г. за сечите в горите (ДВ, бр. 64 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55970)
+- [Устройствен правилник на регионалните дирекции по горите (ДВ, бр. 104 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59760)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67006)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69471)
+- [Постановление № 323 от 13 декември 2012 г. за изменение и допълнение на Наредбата за оценка на поземлени имоти в горски територии, приета с Постановление № 236 на Министерския съвет от 2011 г. (ДВ, бр. 99 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71258)
+- [Закон за изменение на Закона за лова и опазване на дивеча (ДВ, бр. 102 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71275)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение на Закона за животновъдството (ДВ, бр. 109 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81263)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83550)
+- [Закон за защита на растенията (ДВ, бр. 61 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86591)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96275)
+- [Закон за обществените поръчки (ДВ, бр. 13 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100862)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101016)
+- [Закон за изменение и допълнение на Закона за кадастъра и имотния регистър (ДВ, бр. 57 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105545)
+- [Закон за изменение и допълнение на Закона за собствеността и ползването на земеделските земи (ДВ, бр. 61 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106092)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109378)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 83 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130463)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 1 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133336)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146602)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 79 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151496)
+- [Закон за изменение и допълнение на Закона за административните нарушения и наказания (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154573)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185262)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185481)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 67 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198062)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Заповед № РД-49-427 от 26 септември 2023 г. (ДВ, бр. 1 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202185)
+- [Заповед № РД-49-482 от 27 октомври 2023 г. (ДВ, бр. 1 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202186)
+- [Закон за изменение и допълнение на Закона за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 35 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234099)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 67 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236531)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14060)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13989)
+- [Закон за изменение на Закона за лова и опазване на дивеча (ДВ, бр. 102 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14202)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение на Закона за животновъдството (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14590)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 28 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14673)
+- [Закон за защита на растенията (ДВ, бр. 61 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14510)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 60 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15410)
+- [Закон за обществените поръчки (ДВ, бр. 13 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15520)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15530)
+- [Закон за изменение и допълнение на Закона за кадастъра и имотния регистър (ДВ, бр. 57 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42054)
+- [Закон за изменение и допълнение на Закона за собствеността и ползването на земеделските земи (ДВ, бр. 61 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42245)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42141)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 83 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78136)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 1 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156803)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157301)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 79 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157399)
+- [Закон за изменение и допълнение на Закона за административните нарушения и наказания (ДВ, бр. 109 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163283)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164423)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164662)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 67 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164956)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+- [Закон за изменение и допълнение на Закона за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 35 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165819)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 67 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166488)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

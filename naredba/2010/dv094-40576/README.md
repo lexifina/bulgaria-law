@@ -39,6 +39,19 @@
 
 Act id: `naredba-2010-dv094-40576` (tags `naredba-2010-dv094-40576/<day>`; `python tools/on.py <day> naredba-2010-dv094-40576`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2727 от 2010 г. за организацията и функционирането на Националната Шенгенска информационна система на Република България (ДВ, бр. 14 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44577)
+- [Наредба за изменение и допълнение на Наредба № 2727 от 2010 г. за организацията и функционирането на Националната Шенгенска информационна система на Република България (ДВ, бр. 37 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84533)
+
+Cited by:
+
+- [Наредба № 8121з-465 от 26 август 2014 г. за организацията и функционирането на Националната Шенгенска информационна система на Република България (ДВ, бр. 74 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87643)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

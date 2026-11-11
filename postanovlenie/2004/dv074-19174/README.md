@@ -46,6 +46,19 @@
 
 Act id: `postanovlenie-2004-dv074-19174` (tags `postanovlenie-2004-dv074-19174/<day>`; `python tools/on.py <day> postanovlenie-2004-dv074-19174`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 36 от 30 ноември 2005 г. за изискванията към козметичните продукти (ДВ, бр. 101 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1150)
+- [Постановление № 55 от 13 март 2006 г. за приемане на Наредба за специфичните изисквания за пускане на пазара на детергентите и на повърхностноактивните вещества, предназначени за детергенти (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1563)
+- [Постановление № 336 от 28 декември 2007 г. за приемане на Наредба за условията и реда за пускане на пазара на биоциди (ДВ, бр. 4 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4669)
+- [Постановление № 323 от 3 декември 2004 г. за приемане на Наредба за условията и реда за пускане на пазара на биоциди (ДВ, бр. 110 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18108)
+- [Постановление № 327 от 7 декември 2004 г. за приемане на Наредба за реда и начина за нотифициране на нови химични вещества (ДВ, бр. 110 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18146)
+- [Неофициален раздел на "Държавен вестник", брой 58 от 15.7.2005 г. (ДВ, бр. 58 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136900)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

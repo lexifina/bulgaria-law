@@ -33,6 +33,22 @@
 
 Act id: `naredba-2015-dv095-99167` (tags `naredba-2015-dv095-99167/<day>`; `python tools/on.py <day> naredba-2015-dv095-99167`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 80 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130334)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 71 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141006)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 79 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151398)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за общообразователната подготовка (ДВ, бр. 75 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199101)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2014 г. за здравните изисквания при изготвяне и спазване на седмичните учебни разписания (ДВ, бр. 31 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113490)
+- [Наредба за изменение на Наредба № 4 от 20 април 2017 г. за нормиране и заплащане на труда (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240823)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

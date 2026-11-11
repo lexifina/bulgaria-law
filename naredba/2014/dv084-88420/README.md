@@ -41,6 +41,14 @@
 
 Act id: `naredba-2014-dv084-88420` (tags `naredba-2014-dv084-88420/<day>`; `python tools/on.py <day> naredba-2014-dv084-88420`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 8121з-617 от 2014 г. за изискванията към извънщатните сътрудници на Министерството на вътрешните работи, реда за вписването им, техните функции и ред за координация и ръководство на дейността им (ДВ, бр. 73 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97483)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

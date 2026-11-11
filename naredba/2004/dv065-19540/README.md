@@ -27,6 +27,16 @@
 
 Act id: `naredba-2004-dv065-19540` (tags `naredba-2004-dv065-19540/<day>`; `python tools/on.py <day> naredba-2004-dv065-19540`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 102 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4505)
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122989)
+- [Наредба за изменение и допълнение на Наредба № 17 от 7.07.2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 73 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245177)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

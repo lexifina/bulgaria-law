@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2017-dv011-111607` (tags `postanovlenie-2017-dv011-111607/<day>`; `python tools/on.py <day> postanovlenie-2017-dv011-111607`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 141 от 13 юли 2017 г. за определяне на нов размер на минималната работна заплата за страната (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116100)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

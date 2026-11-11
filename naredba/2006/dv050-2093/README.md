@@ -15,6 +15,18 @@
 
 Act id: `naredba-2006-dv050-2093` (tags `naredba-2006-dv050-2093/<day>`; `python tools/on.py <day> naredba-2006-dv050-2093`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 74 от 2006 г. за определяне на изискванията, на които трябва да отговарят списъците със сортове на овощен посадъчен материал и овощни растения, които се поддържат от производителите и търговците (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3227)
+
+Cited by:
+
+- [Наредба № 97 от 18 август 2006 г. за търговия на овощен посадъчен материал и овощни растения, предназначени за производство на плодове на пазара на Европейския съюз (ДВ, бр. 76 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2551)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

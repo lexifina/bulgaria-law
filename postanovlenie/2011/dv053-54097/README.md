@@ -58,6 +58,14 @@
 
 Act id: `postanovlenie-2011-dv053-54097` (tags `postanovlenie-2011-dv053-54097/<day>`; `python tools/on.py <day> postanovlenie-2011-dv053-54097`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 13 от 19 януари 2017 г. за изменение на Постановление № 188 на Министерския съвет от 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за отбраната и въоръжените сили на Република България, приет с Постановление № 46 на Министерския съвет от 2010 г. (ДВ, бр. 8 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111389)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

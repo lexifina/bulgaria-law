@@ -36,6 +36,14 @@
 
 Act id: `postanovlenie-2012-dv082-69734` (tags `postanovlenie-2012-dv082-69734/<day>`; `python tools/on.py <day> postanovlenie-2012-dv082-69734`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 199 от 26 септември 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 80 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237625)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

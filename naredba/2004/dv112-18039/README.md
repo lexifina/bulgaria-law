@@ -52,6 +52,16 @@
 
 Act id: `naredba-2004-dv112-18039` (tags `naredba-2004-dv112-18039/<day>`; `python tools/on.py <day> naredba-2004-dv112-18039`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 12 от 30 декември 2005 г. за осигуряване на здравословни и безопасни условия на труд при извършване на товарно-разтоварни работи (ДВ, бр. 11 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1375)
+- [Наредба № 1 от 10 април 2006 г. за придобиване или признаване на правоспособност за работа с електрокари и мотокари в предприятията (ДВ, бр. 37 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1846)
+- [Наредба № РД-06-3 от 23 февруари 2022 г. за осигуряване на здравословни и безопасни условия на труд в черната и цветната металургия (ДВ, бр. 19 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170289)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

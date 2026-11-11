@@ -50,6 +50,23 @@
 
 Act id: `postanovlenie-2017-dv025-112974` (tags `postanovlenie-2017-dv025-112974/<day>`; `python tools/on.py <day> postanovlenie-2017-dv025-112974`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 177 от 8 октомври 2026 г. за изменение и допълнение на Устройствения правилник на Агенцията по обществени поръчки, приет с Постановление № 53 на Министерския съвет от 2017 г. (ДВ, бр. 94 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246446)
+
+Cited by:
+
+- [Постановление № 30 от 20 февруари 2019 г. за приемане на Наредба за външните експерти при предварителен контрол на обществени поръчки (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135053)
+- [Постановление № 326 от 13 октомври 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178963)
+- [Постановление № 39 от 15 март 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 25 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188721)
+- [Постановление № 75 от 16 май 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 44 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194581)
+- [Постановление № 336 от 20 декември 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202101)
+- [Постановление № 265 от 26 юли 2024 г. за закриване на Института за анализи и прогнози (ДВ, бр. 64 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223301)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

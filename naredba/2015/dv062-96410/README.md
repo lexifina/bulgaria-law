@@ -24,6 +24,20 @@
 
 Act id: `naredba-2015-dv062-96410` (tags `naredba-2015-dv062-96410/<day>`; `python tools/on.py <day> naredba-2015-dv062-96410`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-904 от 2015 г. за определяне на условията и реда за предоставяне на безплатна храна на служителите на Министерството на вътрешните работи за извършване на дейности, свързани със специфичния характер на труда на служителите, и на ободряващи напитки на служителите, полагащи труд през нощта от 22,00 до 06,00 ч. (ДВ, бр. 21 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123669)
+- [Наредба за изменение и допълнение на Наредба № 8121з-904 от 2015 г. за определяне на условията и реда за предоставяне на безплатна храна на служителите на Министерството на вътрешните работи за извършване на дейности, свързани със специфичния характер на труда на служителите, и на ободряващи напитки на служителите, полагащи труд през нощта от 22,00 до 6,00 ч. (ДВ, бр. 77 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141527)
+- [Наредба за изменение и допълнение на Наредба № 8121з-904 от 2015 г. за определяне на условията и реда за предоставяне на безплатна храна на служителите на Министерството на вътрешните работи за извършване на дейности, свързани със специфичния характер на труда на служителите, и на ободряващи напитки на служителите, полагащи труд през нощта от 22,00 до 06,00 ч. (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150242)
+
+Cited by:
+
+- [Решение № 7741 от 19 август 2022 г. по административно дело № 11516 от 2021 г. (ДВ, бр. 3 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182920)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,17 @@
 
 Act id: `postanovlenie-2007-dv068-4080` (tags `postanovlenie-2007-dv068-4080/<day>`; `python tools/on.py <day> postanovlenie-2007-dv068-4080`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5319)
+- [Постановление № 216 от 2 септември 2008 г. за приемане на Правилник за прилагане на Закона за регионалното развитие (ДВ, бр. 80 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8568)
+- [Постановление № 147 от 9 юни 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 45 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22353)
+- [Постановление № 6 от 17 януари 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 7 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43257)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,16 @@
 
 Act id: `naredba-2004-dv093-18576` (tags `naredba-2004-dv093-18576/<day>`; `python tools/on.py <day> naredba-2004-dv093-18576`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 22 март 2005 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 34 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15265)
+- [Наредба № РД-02-20-8 от 17 май 2013 г. за проектиране, изграждане и експлоатация на канализационни системи (ДВ, бр. 49 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76016)
+- [Наредба № РД-02-20-2 от 3 юли 2024 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 61 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221560)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

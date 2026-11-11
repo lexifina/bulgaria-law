@@ -32,6 +32,18 @@
 
 Act id: `postanovlenie-2024-dv034-212840` (tags `postanovlenie-2024-dv034-212840/<day>`; `python tools/on.py <day> postanovlenie-2024-dv034-212840`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 346 от 10 октомври 2024 г. за изменение и допълнение на Постановление № 100 на Министерския съвет от 2024 г. за приемане на план-сметка за разходите/трансферите по подготовката и произвеждането на изборите за народни представители и за членове на Европейския парламент от Република България на 9 юни 2024 г. (ДВ, бр. 87 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229388)
+
+Cited by:
+
+- [Постановление № 212 от 13 юни 2024 г. за одобряване на допълнителни разходи по бюджета на Централната избирателна комисия за 2024 г. (ДВ, бр. 52 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218642)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

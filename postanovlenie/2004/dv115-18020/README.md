@@ -218,6 +218,18 @@
 
 Act id: `postanovlenie-2004-dv115-18020` (tags `postanovlenie-2004-dv115-18020/<day>`; `python tools/on.py <day> postanovlenie-2004-dv115-18020`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 110 от 26 април 2011 г. за отменяне на Правилника за устройството и дейността на университет с наименование Академия на Министерството на вътрешните работи, приет с Постановление № 344 на Министерския съвет от 2004 г. (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49001)
+
+Cited by:
+
+- [Постановление № 246 от 10 октомври 2007 г. за приемане на Устройствен правилник на Държавна агенция "Архиви", за одобряване на Тарифа за таксите, които се събират от Държавна агенция "Архиви", и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви" (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4310)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

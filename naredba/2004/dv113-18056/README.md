@@ -22,6 +22,22 @@
 
 Act id: `naredba-2004-dv113-18056` (tags `naredba-2004-dv113-18056/<day>`; `python tools/on.py <day> naredba-2004-dv113-18056`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 44 от 2004 г. за условията и реда за пускане на пазара на биоцидни препарати (ДВ, бр. 48 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=422)
+- [Наредба за отмяна на Наредба № 44 от 2004 г. за условията и реда за пускане на пазара на биоцидни препарати (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20889)
+
+Cited by:
+
+- [Наредба № 3 от 5 февруари 2007 г. за здравните изисквания към детските градини (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3304)
+- [Постановление № 336 от 28 декември 2007 г. за приемане на Наредба за условията и реда за пускане на пазара на биоциди (ДВ, бр. 4 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4669)
+- [Наредба № 26 от 18 ноември 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 103 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12281)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67655)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

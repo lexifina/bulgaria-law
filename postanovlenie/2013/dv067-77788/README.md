@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2013-dv067-77788` (tags `postanovlenie-2013-dv067-77788/<day>`; `python tools/on.py <day> postanovlenie-2013-dv067-77788`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 163 от 9 август 2013 г. за изменение на Постановление № 152 на Министерския съвет от 2013 г. за предоставяне на допълнителни бюджетни кредити по бюджета на Министерството на труда и социалната политика за 2013 г. за изплащане на еднократна финансова помощ на законните наследници на починалите лица при инцидента в рудник "Ораново", община Симитли, на 16 юли 2013 г. (ДВ, бр. 71 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78201)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

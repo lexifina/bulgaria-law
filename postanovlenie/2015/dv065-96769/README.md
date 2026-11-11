@@ -70,6 +70,14 @@
 
 Act id: `postanovlenie-2015-dv065-96769` (tags `postanovlenie-2015-dv065-96769/<day>`; `python tools/on.py <day> postanovlenie-2015-dv065-96769`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 139 от 26 юни 2020 г. за приемане на Наредба за изискванията към категоризираните места за настаняване и заведения за хранене и развлечения, за реда за определяне на категория, както и за условията и реда за регистриране на стаи за гости и апартаменти за гости (ДВ, бр. 59 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149454)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

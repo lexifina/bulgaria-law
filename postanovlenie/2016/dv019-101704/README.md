@@ -49,6 +49,26 @@
 
 Act id: `postanovlenie-2016-dv019-101704` (tags `postanovlenie-2016-dv019-101704/<day>`; `python tools/on.py <day> postanovlenie-2016-dv019-101704`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 138 от 10 юли 2018 г. за изменение и допълнение на Устройствения правилник на Института по публична администрация, приет с Постановление № 44 на Министерския съвет от 2016 г. (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128542)
+- [Постановление № 190 от 14 октомври 2026 г. за изменение и допълнение на Устройствения правилник на Института по публична администрация, приет с Постановление № 44 на Министерския съвет от 2016 г. (ДВ, бр. 96 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246581)
+
+Cited by:
+
+- [Адм. дело № 4123/2016 г. (ДВ, бр. 55 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105795)
+- [Постановление № 304 от 3 декември 2019 г. за приемане на Наредба за провеждане на конкурсите и подбора при мобилност на държавни служители и за създаване на Портал за работа в държавната администрация (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143447)
+- [Постановление № 13 от 28 януари 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145556)
+- [Постановление № 137 от 7 април 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157328)
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 381 от 6 ноември 2024 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 96 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230402)
+- [Постановление № 112 от 27 август 2026 г. за приемане на Наредба за условията и реда за провеждане на тестове за почтеност за държавни служители (ДВ, бр. 79 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245621)
+- [Постановление № 133 от 9 септември 2026 г. за изменение и допълнение на Устройствения правилник на Министерството на финансите, приет с Постановление № 353 на Министерския съвет от 2016 г. (ДВ, бр. 84 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245868)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

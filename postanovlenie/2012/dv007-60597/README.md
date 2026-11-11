@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2012-dv007-60597` (tags `postanovlenie-2012-dv007-60597/<day>`; `python tools/on.py <day> postanovlenie-2012-dv007-60597`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 327 от 20 декември 2012 г. за допълнение на Постановление № 6 на Министерския съвет от 2012 г. за осигуряване на средства за крайни декодиращи устройства на лица със специфични социални потребности за приемане на наземно цифрово телевизионно радиоразпръскване и за провеждане на национална информационна кампания за въвеждане на наземно цифрово телевизионно радиоразпръскване (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71568)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

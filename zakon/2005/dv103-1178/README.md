@@ -77,6 +77,35 @@
 
 Act id: `zakon-2005-dv103-1178` (tags `zakon-2005-dv103-1178/<day>`; `python tools/on.py <day> zakon-2005-dv103-1178`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за меценатството (ДВ, бр. 20 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62079)
+- [Закон за изменение и допълнение на Закона за меценатството (ДВ, бр. 20 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13769)
+
+Cited by:
+
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за търговския регистър (ДВ, бр. 34 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1721)
+- [Закон за данък върху добавената стойност (ДВ, бр. 63 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2310)
+- [Закон за Държавна агенция "Национална сигурност" (ДВ, бр. 109 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4576)
+- [Закон за обществените библиотеки (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21711)
+- [Закон за счетоводството (ДВ, бр. 95 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99076)
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107550)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118838)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за закрила и развитие на културата (ДВ, бр. 52 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148712)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150150)
+- [Закон за счетоводството (ДВ, бр. 95 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15501)
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15570)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/71846)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за закрила и развитие на културата (ДВ, бр. 52 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157333)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157467)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

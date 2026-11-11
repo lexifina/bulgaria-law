@@ -40,6 +40,22 @@
 
 Act id: `postanovlenie-2006-dv048-2060` (tags `postanovlenie-2006-dv048-2060/<day>`; `python tools/on.py <day> postanovlenie-2006-dv048-2060`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 68 от 2 април 2007 г. за изменение и допълнение на Тарифата за таксите, събирани по Закона за рибарството и аквакултурите, приета с Постановление № 133 на Министерския съвет от 2006 г. (ДВ, бр. 30 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3503)
+- [Постановление № 110 от 26 май 2008 г. за изменение на Тарифата за таксите, събирани по Закона за рибарството и аквакултурите, приета с Постановление № 133 на Министерския съвет от 2006 г. (ДВ, бр. 50 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5263)
+- [Постановление № 24 от 25 февруари 2010 г. за изменение на Тарифата за таксите, събирани по Закона за рибарството и аквакултурите, приета с Постановление № 133 на Министерския съвет от 2006 г. (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30442)
+- [Постановление № 171 от 26 юни 2014 г. за изменение на Тарифата за таксите, събирани по Закона за рибарството и аквакултурите, приета с Постановление № 133 на Министерския съвет от 2006 г. (ДВ, бр. 55 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86186)
+- [Постановление № 154 от 8 август 2025 г. за изменение и допълнение на Тарифата за таксите, събирани по Закона за рибарството и аквакултурите, приета с Постановление № 133 на Министерския съвет от 2006 г. (ДВ, бр. 66 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236699)
+
+Cited by:
+
+- [Постановление № 272 от 3 декември 2025 г. за приемане на Тарифа за таксите, събирани по Закона за рибарството и аквакултурите (ДВ, бр. 104 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

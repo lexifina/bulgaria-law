@@ -158,6 +158,27 @@
 
 Act id: `zakon-2007-dv020-3364` (tags `zakon-2007-dv020-3364/<day>`; `python tools/on.py <day> zakon-2007-dv020-3364`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за избиране на членове на Европейския парламент от Република България (ДВ, бр. 19 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4817)
+- [Закон за изменение и допълнение на Закона за избиране на членове на Европейския парламент от Република България (ДВ, бр. 25 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18438)
+- [Закон за изменение на Закона за избиране на членове на Европейския парламент от Република България (ДВ, бр. 47 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22496)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за избиране на народни представители (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19363)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25652)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37196)
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43535)
+- [Определение № 2 от 17 юни 2014 г. по конституционно дело № 6 от 2014 г. (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86004)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9701)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10054)
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10005)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

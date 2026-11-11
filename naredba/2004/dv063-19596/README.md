@@ -34,6 +34,19 @@
 
 Act id: `naredba-2004-dv063-19596` (tags `naredba-2004-dv063-19596/<day>`; `python tools/on.py <day> naredba-2004-dv063-19596`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № I-121 от 24.06.2004 г. за реда за организиране охраната при транспортиране на ценни пратки и товари (ДВ, бр. 48 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158662)
+
+Cited by:
+
+- [Наредба № 8121з-444 от 3 май 2016 г. за организацията и контрола по обезпечаването на сигурността на банките и финансовите институции (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103510)
+- [Наредба за изменение и допълнение на Наредба № 8121з-444 от 3 май 2016 г. за организацията и контрола по обезпечаването на сигурността на банките и финансовите институции (ДВ, бр. 88 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229354)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

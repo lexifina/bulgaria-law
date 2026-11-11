@@ -34,6 +34,18 @@
 
 Act id: `postanovlenie-2005-dv100-1140` (tags `postanovlenie-2005-dv100-1140/<day>`; `python tools/on.py <day> postanovlenie-2005-dv100-1140`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 287 от 27 декември 2005 г. за изменение на Наредбата за условията и реда за определяне цените на цигарите от местно производство и от внос на вътрешния пазар и за продажбата им, приета с Постановление № 263 на Министерския съвет от 2005 г. (ДВ, бр. 1 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1243)
+
+Cited by:
+
+- [Постановление № 298 от 28 декември 2005 г. за определяне цените на цигарите от местно производство и от внос на вътрешния пазар (ДВ, бр. 2 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1273)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

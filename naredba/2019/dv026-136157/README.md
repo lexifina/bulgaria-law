@@ -41,6 +41,15 @@
 
 Act id: `naredba-2019-dv026-136157` (tags `naredba-2019-dv026-136157/<day>`; `python tools/on.py <day> naredba-2019-dv026-136157`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191786)
+- [Наредба № Н-2 от 12 юли 2023 г. за дейности по асистирана репродукция (ДВ, бр. 63 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197485)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -31,6 +31,20 @@
 
 Act id: `postanovlenie-2014-dv102-90455` (tags `postanovlenie-2014-dv102-90455/<day>`; `python tools/on.py <day> postanovlenie-2014-dv102-90455`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2011 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения и училищата, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 85 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98274)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2014 г. за специфичните изисквания към производството на суровини и храни от животински произход в кланични пунктове, тяхното транспортиране и пускане на пазара (ДВ, бр. 46 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104723)
+- [Постановление № 23 от 16 февруари 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122956)
+- [Постановление № 135 от 9 юли 2018 г. за изменение и допълнение на Наредбата за специфичните изисквания към млечните продукти, приета с Постановление № 119 на Министерския съвет от 2012 г. (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128477)
+- [Наредба № 8 от 4 декември 2018 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения, училищните столове и обектите за търговия на дребно на територията на училищата и на детските заведения, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 104 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132685)
+- [Наредба № 23 от 23 август 2019 г. за придобиване на квалификация по професията "Продавач-консултант" (ДВ, бр. 72 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141071)
+- [Постановление № 97 от 19 март 2021 г. за приемане на Наредба за предоставянето на информация на потребителите за храните (ДВ, бр. 25 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156821)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

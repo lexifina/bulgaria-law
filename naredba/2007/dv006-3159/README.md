@@ -129,6 +129,19 @@
 
 Act id: `naredba-2007-dv006-3159` (tags `naredba-2007-dv006-3159/<day>`; `python tools/on.py <day> naredba-2007-dv006-3159`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 12 от 5.01.2007 г. за изискванията за задължителна употреба на контролните уреди за регистриране на данните за движението на автомобилите и работата на екипажите, както и функционалните и техническите изисквания към тях (ДВ, бр. 110 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231635)
+
+Cited by:
+
+- [Наредба № РД-16-1054 от 10 октомври 2008 г. за одобряване на типа на тахографи и тахографски карти и за изискванията, условията и реда за регистрация на лицата, които извършват монтаж, проверка или ремонт на тахографи (ДВ, бр. 91 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9822)
+- [Наредба № 4 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на автомобилния транспорт" (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

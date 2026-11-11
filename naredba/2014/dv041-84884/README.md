@@ -40,6 +40,19 @@
 
 Act id: `naredba-2014-dv041-84884` (tags `naredba-2014-dv041-84884/<day>`; `python tools/on.py <day> naredba-2014-dv041-84884`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2014 г. за условията и реда за внос, износ и обмен на органи, тъкани и клетки (ДВ, бр. 34 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113887)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2014 г. за условията и реда за внос, износ и обмен на органи, тъкани и клетки (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137690)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2007 г. за условията и реда за регистриране и отчитане на дейностите по експертиза, вземане, присаждане, обработка, преработка, съхраняване и етикетиране на органи, тъкани и клетки и за изготвяне на ежегодни отчети от лечебните заведения (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112889)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

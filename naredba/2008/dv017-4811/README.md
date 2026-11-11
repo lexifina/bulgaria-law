@@ -186,6 +186,20 @@
 
 Act id: `naredba-2008-dv017-4811` (tags `naredba-2008-dv017-4811/<day>`; `python tools/on.py <day> naredba-2008-dv017-4811`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-16-57 от 2008 г. за дейността на операторите на електроенергийната система и на разпределителните мрежи, както и на оперативния дежурен персонал от електроенергийните обекти и електрическите уредби на потребителите (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177244)
+
+Cited by:
+
+- [Правила за управление на електроенергийната система (ДВ, бр. 6 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81882)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 42 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94928)
+- [Наредба № ЕРД-16-301 от 30 юни 2015 г. за условията и начина на изпълнение на задълженията на производителите на електрическа енергия от топлоелектрическите централи с комбинирано производство на топлинна и електрическа енергия (ДВ, бр. 53 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95731)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

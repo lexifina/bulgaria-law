@@ -412,6 +412,32 @@
 
 Act id: `naredba-2005-dv034-15265` (tags `naredba-2005-dv034-15265/<day>`; `python tools/on.py <day> naredba-2005-dv034-15265`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2005 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 96 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40755)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2005 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 45 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104384)
+
+Cited by:
+
+- [Наредба № 4 от 17 юни 2005 г. за проектиране, изграждане и експлоатация на сградни водопроводни и канализационни инсталации (ДВ, бр. 53 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=480)
+- [Наредба № 39 от 10 април 2006 г. за строителство в горите и земите от горския фонд (ДВ, бр. 38 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1858)
+- [Наредба № 1 от 10 октомври 2007 г. за проучване, ползване и опазване на подземните води (ДВ, бр. 87 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4367)
+- [Наредба № 2 от 6 октомври 2008 г. за проектиране, изпълнение, контрол и приемане на хидроизолации и хидроизолационни системи на сгради и съоръжения (ДВ, бр. 89 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9557)
+- [Наредба № Із-1971 от 29 октомври 2009 г. за строително-технически правила и норми за осигуряване на безопасност при пожар (ДВ, бр. 96 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26985)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за проучване, ползване и опазване на подземните води (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61463)
+- [Наредба № РД-02-20-8 от 17 май 2013 г. за проектиране, изграждане и експлоатация на канализационни системи (ДВ, бр. 49 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76016)
+- [Наредба № РД-02-20-2 от 8 юни 2016 г. за проектиране, изпълнение, контрол и приемане на хидроизолационни системи на строежите (ДВ, бр. 47 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104653)
+- [Наредба № РД-02-20-1 от 19 януари 2017 г. за планиране и проектиране на строежи, предназначени за производство, съхранение и търговия на оръжия, боеприпаси, взривни вещества и пиротехнически изделия (ДВ, бр. 11 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111480)
+- [Постановление № 11 от 23 януари 2018 г. за приемане на Наредба за изискванията и критериите за ВиК операторите и за квалификацията на персонала им (ДВ, бр. 9 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122034)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-8 от 2013 г. за проектиране, изграждане и експлоатация на канализационни системи (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220640)
+- [Наредба № РД-02-20-2 от 3 юли 2024 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 61 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221560)
+- [Наредба за изменение и допълнение на Наредба № Із-1971 от 2009 г. за строително-технически правила и норми за осигуряване на безопасност при пожар (ДВ, бр. 91 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229625)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-1 от 2017 г. за планиране и проектиране на строежи, предназначени за производство, съхранение и търговия на оръжия, боеприпаси, взривни вещества и пиротехнически изделия (ДВ, бр. 107 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239658)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

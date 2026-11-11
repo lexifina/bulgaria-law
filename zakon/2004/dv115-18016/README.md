@@ -21,6 +21,14 @@
 
 Act id: `zakon-2004-dv115-18016` (tags `zakon-2004-dv115-18016/<day>`; `python tools/on.py <day> zakon-2004-dv115-18016`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за бюджета на Националната здравноосигурителна каса за 2005 г. (ДВ, бр. 102 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1153)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

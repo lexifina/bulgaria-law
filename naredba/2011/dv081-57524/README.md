@@ -142,6 +142,27 @@
 
 Act id: `naredba-2011-dv081-57524` (tags `naredba-2011-dv081-57524/<day>`; `python tools/on.py <day> naredba-2011-dv081-57524`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Із-2377 от 2011 г. за правилата и нормите за пожарна безопасност при експлоатация на обектите (ДВ, бр. 30 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74420)
+- [Наредба за изменение и допълнение на Наредба № Із-2377 от 2011 г. за правилата и нормите за пожарна безопасност при експлоатация на обектите (ДВ, бр. 75 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78360)
+
+Cited by:
+
+- [Наредба № Із-1543 от 27 юли 2012 г. за разрешителната и контролна дейност на продуктите за пожарогасене по отношение на тяхната гасителна ефективност (ДВ, бр. 59 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67039)
+- [Постановление № 352 от 27 декември 2012 г. за приемане на Наредба за отработените масла и отпадъчните нефтопродукти (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71667)
+- [Наредба за изменение и допълнение на Наредба № 7 от 1999 г. за минималните изисквания за здравословни и безопасни условия на труд на работните места и при използване на работното оборудване (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73845)
+- [Наредба за изменение и допълнение на Наредба № Із-1971 от 2009 г. за строително-технически правила и норми за осигуряване на бeзопасност при пожар (ДВ, бр. 75 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78359)
+- [Наредба № 9 от 17 октомври 2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 96 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79958)
+- [Наредба № V-12-707 от 15 ноември 2013 г. за условията и реда за устройството, безопасността и техническите изисквания към съоръженията, поставяни в увеселителни обекти (ДВ, бр. 102 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80556)
+- [Наредба № 8121з-647 от 1 октомври 2014 г. за правилата и нормите за пожарна безопасност при експлоатация на обектите (ДВ, бр. 89 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89048)
+- [Наредба за изменение на Наредба № Із-1971 от 2009 г. за строително-технически правила и норми за осигуряване на безопасност при пожар (ДВ, бр. 8 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91440)
+- [Наредба за изменение на Наредба № 9 от 2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118939)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

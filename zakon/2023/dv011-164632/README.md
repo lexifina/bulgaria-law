@@ -75,9 +75,30 @@
 
 Act id: `zakon-2023-dv011-164632` (tags `zakon-2023-dv011-164632/<day>`; `python tools/on.py <day> zakon-2023-dv011-164632`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 88 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165129)
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 38 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165927)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 65 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197544)
+- [Постановление № 111 от 10 август 2023 г. за приемане на Наредба за администриране на нередности по Европейските фондове при споделено управление (ДВ, бр. 70 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198582)
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 88 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200380)
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 38 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234478)
+- [Постановление № 104 от 18 август 2026 г. за приемане на Устройствен правилник на Министерството на икономиката, инвестициите и индустрията и на Устройствен правилник на Министерството на иновациите и дигиталната трансформация, за създаване на Изпълнителна агенция "Европейски фондове за конкурентоспособност" и за приемане на Устройствен правилник на Изпълнителна агенция "Европейски фондове за конкурентоспособност" (ДВ, бр. 76 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245429)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 65 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164824)
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 88 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165129)
+- [Закон за изменение и допълнение на Закона за защита на лицата, подаващи сигнали или публично оповестяващи информация за нарушения (ДВ, бр. 38 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165927)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

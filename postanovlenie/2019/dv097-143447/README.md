@@ -110,6 +110,18 @@
 
 Act id: `postanovlenie-2019-dv097-143447` (tags `postanovlenie-2019-dv097-143447/<day>`; `python tools/on.py <day> postanovlenie-2019-dv097-143447`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 13 от 28 януари 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145556)
+- [Постановление № 344 от 9 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154363)
+- [Постановление № 137 от 7 април 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157328)
+- [Постановление № 251 от 6 декември 2023 г. за изменение и допълнение на Наредбата за студентските стажове в държавната администрация, приета с Постановление № 189 на Министерския съвет от 2014 г. (ДВ, бр. 103 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201725)
+- [Постановление № 112 от 27 август 2026 г. за приемане на Наредба за условията и реда за провеждане на тестове за почтеност за държавни служители (ДВ, бр. 79 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245621)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

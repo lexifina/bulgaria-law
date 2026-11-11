@@ -30,6 +30,19 @@
 
 Act id: `pravilnik-2012-dv042-65001` (tags `pravilnik-2012-dv042-65001/<day>`; `python tools/on.py <day> pravilnik-2012-dv042-65001`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. Пловдив (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73958)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Горска семеконтролна станция гр. София (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73957)
+- [Устройствен правилник на Горските семеконтролни станции (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235786)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

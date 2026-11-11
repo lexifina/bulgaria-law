@@ -22,6 +22,15 @@
 
 Act id: `naredba-2020-dv098-153560` (tags `naredba-2020-dv098-153560/<day>`; `python tools/on.py <day> naredba-2020-dv098-153560`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-1243 от 9 ноември 2020 г. за условията и реда за възлагане и отчитане на изпълнението и/или управлението на проекти или програми и за формиране и изплащане на допълнителното възнаграждение по чл. 178, ал. 1, т. 6 от Закона за Министерството на вътрешните работи (ДВ, бр. 6 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=183924)
+- [Наредба за изменение на Наредба № 8121з-1243 от 2020 г. за условията и реда за възлагане и отчитане на изпълнението и/или управлението на проекти или програми и за формиране и изплащане на допълнителното възнаграждение по чл. 178, ал. 1, т. 6 от Закона за Министерството на вътрешните работи (ДВ, бр. 9 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240639)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

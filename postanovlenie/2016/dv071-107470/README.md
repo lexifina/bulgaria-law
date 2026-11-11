@@ -28,6 +28,14 @@
 
 Act id: `postanovlenie-2016-dv071-107470` (tags `postanovlenie-2016-dv071-107470/<day>`; `python tools/on.py <day> postanovlenie-2016-dv071-107470`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 253 от 29 септември 2016 г. за изменение и допълнение на Постановление № 232 на Министерския съвет от 2016 г. за приемане на план-сметка за разходите по подготовката и произвеждането на изборите за президент и вицепрезидент на Републиката и на национален референдум с въпроси "Подкрепяте ли народните представители да се избират с мажоритарна избирателна система с абсолютно мнозинство в два тура?", "Подкрепяте ли въвеждането на задължително гласуване на изборите и референдумите?" и "Подкрепяте ли годишната държавна субсидия, отпускана за финансиране на политическите партии и коалициите, да бъде един лев за един получен действителен глас на последните парламентарни избори?" на 6 ноември 2016 г. (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107985)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

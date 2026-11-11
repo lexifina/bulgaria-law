@@ -43,6 +43,31 @@
 
 Act id: `zakon-2006-dv108-3061` (tags `zakon-2006-dv108-3061/<day>`; `python tools/on.py <day> zakon-2006-dv108-3061`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за културното наследство (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16886)
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26792)
+- [Закон за дейностите по предоставяне на услуги (ДВ, бр. 15 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30013)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69471)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 83 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78894)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111586)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 63 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116448)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119626)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135750)
+- [Закон за изменение и допълнение на Закона за културното наследство (ДВ, бр. 92 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9709)
+- [Закон за дейностите по предоставяне на услуги (ДВ, бр. 15 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9812)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13989)
+- [Закон за изменение и допълнение на Закона за дейностите по предоставяне на услуги (ДВ, бр. 83 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14417)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 13 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66467)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 63 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66641)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77808)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 25 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78127)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

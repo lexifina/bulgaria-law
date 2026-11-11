@@ -20,6 +20,16 @@
 
 Act id: `naredba-2014-dv106-90884` (tags `naredba-2014-dv106-90884/<day>`; `python tools/on.py <day> naredba-2014-dv106-90884`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [адм. д. № 6275/2015 г. (ДВ, бр. 54 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95822)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [Решение № 11894 от 7 ноември 2016 г. по административно дело № 4272 от 2016 г. (ДВ, бр. 22 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112607)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

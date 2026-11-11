@@ -47,6 +47,14 @@
 
 Act id: `naredba-2015-dv027-93580` (tags `naredba-2015-dv027-93580/<day>`; `python tools/on.py <day> naredba-2015-dv027-93580`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 320 от 3 май 2016 г. за одобряване на Национална програма за профилактика, надзор, контрол и ликвидиране на болестите по животните и зоонозите за периода 2016 - 2018 г. (продължение от брой 72) (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107114)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

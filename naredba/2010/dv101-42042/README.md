@@ -60,6 +60,23 @@
 
 Act id: `naredba-2010-dv101-42042` (tags `naredba-2010-dv101-42042/<day>`; `python tools/on.py <day> naredba-2010-dv101-42042`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 12 от 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 49 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76213)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 85 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88510)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 36 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103424)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144759)
+- [Наредба за изменение и допълнение на Наредба № 12 от 16.12.2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 87 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237819)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144758)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 17 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233008)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -87,6 +87,15 @@
 
 Act id: `postanovlenie-2011-dv063-55821` (tags `postanovlenie-2011-dv063-55821/<day>`; `python tools/on.py <day> postanovlenie-2011-dv063-55821`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+- [Постановление № 111 от 12 юни 2017 г. за приемане на Правилник за прилагане на Закона за военната полиция (ДВ, бр. 48 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115243)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -44,6 +44,21 @@
 
 Act id: `naredba-2018-dv091-131292` (tags `naredba-2018-dv091-131292/<day>`; `python tools/on.py <day> naredba-2018-dv091-131292`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2018 г. за здравни норми и изисквания при работа в среда на йонизиращи лъчения (ДВ, бр. 40 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214360)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+- [Наредба за изменение и допълнение на Наредба № 32 от 2005 г. за условията и реда за извършване на индивидуален дозиметричен контрол на лицата, работещи с източници на йонизиращи лъчения (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154590)
+- [адм. дело № 10371/2023 г. (ДВ, бр. 6 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203440)
+- [адм. дело № 10371/2023 г. (ДВ, бр. 21 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208943)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

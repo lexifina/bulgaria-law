@@ -18,6 +18,14 @@
 
 Act id: `naredba-2016-dv066-106770` (tags `naredba-2016-dv066-106770/<day>`; `python tools/on.py <day> naredba-2016-dv066-106770`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-21 от 19 декември 2023 г. за изискванията към чистите превозни средства (ДВ, бр. 2 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202238)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

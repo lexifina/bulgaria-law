@@ -65,6 +65,34 @@
 
 Act id: `zakon-2007-dv089-4376` (tags `zakon-2007-dv089-4376/<day>`; `python tools/on.py <day> zakon-2007-dv089-4376`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 1 август 2008 г. за нормите за допустимо съдържание на вредни вещества в почвите (ДВ, бр. 71 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7670)
+- [Наредба № 4 от 12 януари 2009 г. за мониторинг на почвите (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16993)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 80 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25515)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58585)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Постановление № 1 от 7 януари 2016 г. за приемане на Наредба за управление на минните отпадъци (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99949)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132108)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 80 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9614)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13697)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 98 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78108)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

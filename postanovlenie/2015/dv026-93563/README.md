@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2015-dv026-93563` (tags `postanovlenie-2015-dv026-93563/<day>`; `python tools/on.py <day> postanovlenie-2015-dv026-93563`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 272 от 8 октомври 2015 г. за определяне на второстепенните разпоредители с бюджет към Националния статистически институт и за одобряване на промени на утвърдените разходи за персонал по бюджета на Националния статистически институт за 2015 г. (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97960)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -22,6 +22,15 @@
 
 Act id: `naredba-2006-dv078-2592` (tags `naredba-2006-dv078-2592/<day>`; `python tools/on.py <day> naredba-2006-dv078-2592`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 10 от 19 юни 2014 г. за здравните изисквания при изготвяне и спазване на седмичните учебни разписания (ДВ, бр. 54 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86073)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

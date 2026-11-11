@@ -55,6 +55,22 @@
 
 Act id: `postanovlenie-2013-dv105-80872` (tags `postanovlenie-2013-dv105-80872/<day>`; `python tools/on.py <day> postanovlenie-2013-dv105-80872`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 24 от 15 февруари 2024 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Автомобилна администрация", приет с Постановление № 272 на Министерския съвет от 2013 г. (ДВ, бр. 15 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=207245)
+- [Постановление № 87 от 16 юли 2026 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Автомобилна администрация", приет с Постановление № 272 на Министерския съвет от 2013 г. (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244882)
+
+Cited by:
+
+- [Постановление № 106 от 29 април 2015 г. за приемане на Устройствен правилник на Изпълнителна агенция "Морска администрация" (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94197)
+- [Постановление № 156 от 27 юни 2019 г. за създаване на Национален координационен център за безопасно движение по пътищата (ДВ, бр. 52 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139175)
+- [Постановление № 6 от 22 януари 2020 г. за създаване на Национален борд за разследване на произшествия във въздушния, водния и железопътния транспорт и за приемане на Правилник за дейността, структурата и организацията на Националния борд за разследване на произшествия във въздушния, водния и железопътния транспорт (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145346)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -57,6 +57,20 @@
 
 Act id: `postanovlenie-2006-dv022-1535` (tags `postanovlenie-2006-dv022-1535/<day>`; `python tools/on.py <day> postanovlenie-2006-dv022-1535`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 266 от 27 септември 2006 г. за изменение и допълнение на Устройствения правилник на Държавната агенция по туризъм, приет с Постановление № 44 на Министерския съвет от 2006 г. (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2658)
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

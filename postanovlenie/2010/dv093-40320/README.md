@@ -73,6 +73,20 @@
 
 Act id: `postanovlenie-2010-dv093-40320` (tags `postanovlenie-2010-dv093-40320/<day>`; `python tools/on.py <day> postanovlenie-2010-dv093-40320`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 286 от 18 октомври 2011 г. за възлагане на военновременни задачи по отбраната на страната на държавните органи, органите на местното самоуправление и местната администрация и на юридическите лица - бюджетни организации (ДВ, бр. 83 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57822)
+- [Постановление № 89 от 2 май 2012 г. за приемане на държавен военновременен план (ДВ, бр. 35 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64242)
+- [Постановление № 120 от 25 юни 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65916)
+- [Постановление № 114 от 16 май 2013 г. за приемане на Наредба за отсрочване на запасни и техника-запас от повикване във въоръжените сили при мобилизация (ДВ, бр. 47 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75983)
+- [Постановление № 66 от 28 март 2016 г. за приемане на Правилник за прилагане на Закона за Държавна агенция "Разузнаване" (ДВ, бр. 27 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102285)
+- [Постановление № 344 от 21 декември 2018 г. за изпълнението на държавния бюджет на Република България за 2019 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133360)
+- [Постановление № 105 от 27 май 2020 г. за приемане на Наредба за планиране на граждански ресурси за отбрана (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148481)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

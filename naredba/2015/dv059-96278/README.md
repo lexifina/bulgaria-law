@@ -24,6 +24,16 @@
 
 Act id: `naredba-2015-dv059-96278` (tags `naredba-2015-dv059-96278/<day>`; `python tools/on.py <day> naredba-2015-dv059-96278`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 87 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130806)
+- [Наредба № 3 от 28 март 2019 г. за условията и реда за получаване на разрешения за лица, които предлагат на пазара семена, предназначени за научни цели или селекционна дейност, и семена, предназначени за демонстративни и/или производствени опити, разрешените за целта количества в зависимост от растителните видове, опаковката и етикетирането на семената (ДВ, бр. 30 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136355)
+- [Наредба за изменение и допълнение на Наредба № 99 от 2006 г. за търговия на посевен материал от фуражни култури на пазара на Европейския съюз (ДВ, бр. 57 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149233)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

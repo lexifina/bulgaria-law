@@ -43,6 +43,15 @@
 
 Act id: `naredba-2004-dv014-21612` (tags `naredba-2004-dv014-21612/<day>`; `python tools/on.py <day> naredba-2004-dv014-21612`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 21 от 18 юли 2005 г. за реда за регистрация, съобщаване и отчет на заразните болести (ДВ, бр. 62 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=668)
+- [Наредба № 1 от 7 февруари 2013 г. за прилагане на правилата на биологично производство на растения, животни и аквакултури, растителни, животински продукти, продукти от аквакултури и храни, тяхното етикетиране и контрола върху производството и етикетирането (ДВ, бр. 16 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73131)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

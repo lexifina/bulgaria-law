@@ -137,6 +137,24 @@
 
 Act id: `postanovlenie-2019-dv027-136329` (tags `postanovlenie-2019-dv027-136329/<day>`; `python tools/on.py <day> postanovlenie-2019-dv027-136329`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 63 от 2 април 2020 г. за допълнение на Правилника за прилагане на Закона за хората с увреждания, приет с Постановление № 65 на Министерския съвет от 2019 г. (ДВ, бр. 33 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147328)
+- [Постановление № 101 от 21 май 2020 г. за допълнение на Правилника за прилагане на Закона за хората с увреждания, приет с Постановление № 65 на Министерския съвет от 2019 г. (ДВ, бр. 48 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148371)
+- [Постановление № 127 от 1 април 2021 г. за изменение и допълнение на Правилника за прилагане на Закона за хората с увреждания, приет с Постановление № 65 на Министерския съвет от 2019 г. (ДВ, бр. 28 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157232)
+- [Постановление № 144 от 29 юни 2022 г. за изменение и допълнение на Правилника за прилагане на Закона за хората с увреждания, приет с Постановление № 65 на Министерския съвет от 2019 г. (ДВ, бр. 50 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174544)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за данък върху добавената стойност (ДВ, бр. 25 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146904)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2009 г. за условията, реда, механизма и критериите за заплащане от Националната здравноосигурителна каса на лекарствени продукти, медицински изделия и на диетични храни за специални медицински цели, договаряне на отстъпки и възстановяване на превишените средства при прилагане на механизъм, гарантиращ предвидимост и устойчивост на бюджета на НЗОК (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174432)
+- [Наредба № Н-3 от 27 юни 2022 г. за условията и реда за осъществяването и контрола на дейностите по предоставяне, ползване и ремонт на помощни средства, приспособления, съоръжения и медицински изделия за хора с увреждания (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174433)
+- [Постановление № 18 от 26 януари 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240957)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

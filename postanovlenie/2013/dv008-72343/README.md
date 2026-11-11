@@ -38,6 +38,14 @@
 
 Act id: `postanovlenie-2013-dv008-72343` (tags `postanovlenie-2013-dv008-72343/<day>`; `python tools/on.py <day> postanovlenie-2013-dv008-72343`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

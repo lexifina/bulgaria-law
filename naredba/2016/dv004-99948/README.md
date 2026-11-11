@@ -15,6 +15,21 @@
 
 Act id: `naredba-2016-dv004-99948` (tags `naredba-2016-dv004-99948/<day>`; `python tools/on.py <day> naredba-2016-dv004-99948`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 29 от 2007 г. за възстановяване на разходите и за относителния дял на средствата за труд за дейности за трансплантация, финансирани от Министерството на здравеопазването (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106053)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ (ДВ, бр. 82 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108163)
+- [Наредба № 7 от 3 ноември 2016 г. за утвърждаване на медицински стандарт "Педиатрия" (ДВ, бр. 90 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109001)
+- [Наредба № 9 от 4 ноември 2016 г. за утвърждаване на медицински стандарт "Ортопедия и травматология" (ДВ, бр. 94 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109267)
+- [Постановление № 312 от 21 ноември 2016 г. за приемане на Правилник за устройството и дейността на Военномедицинската академия (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109486)
+- [Решение № 8552 от 11 юли 2016 г. по административно дело № 2383 от 2016 г. (ДВ, бр. 24 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112763)
+- [Наредба № 3 от 6 октомври 2017 г. за утвърждаване на медицински стандарт "Спешна медицина" (ДВ, бр. 86 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118778)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на център за спешна медицинска помощ (ДВ, бр. 51 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148699)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

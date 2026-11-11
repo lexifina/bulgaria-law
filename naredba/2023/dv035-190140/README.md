@@ -70,6 +70,14 @@
 
 Act id: `naredba-2023-dv035-190140` (tags `naredba-2023-dv035-190140/<day>`; `python tools/on.py <day> naredba-2023-dv035-190140`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 6 април 2023 г. за воденето, съхраняването и достъпа до информационната система за единна входна точка за запорите на движими вещи, подлежащи на регистрация по силата на закон, и за организацията, правилата и дейността на онлайн платформата за електронни публични търгове (ДВ, бр. 104 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239299)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

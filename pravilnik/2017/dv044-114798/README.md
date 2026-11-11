@@ -29,6 +29,14 @@
 
 Act id: `pravilnik-2017-dv044-114798` (tags `pravilnik-2017-dv044-114798/<day>`; `python tools/on.py <day> pravilnik-2017-dv044-114798`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Звеното за оперативно управление и финансово осигуряване на организационните структури на Министерството на образованието и науката (ДВ, бр. 24 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124370)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

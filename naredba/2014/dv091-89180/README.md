@@ -56,6 +56,15 @@
 
 Act id: `naredba-2014-dv091-89180` (tags `naredba-2014-dv091-89180/<day>`; `python tools/on.py <day> naredba-2014-dv091-89180`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за условията и реда за издаване и отнемане на разрешение за посредничество при международно осиновяване и за осъществяване и прекратяване на дейността на акредитираните организации (ДВ, бр. 3 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121322)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за условията и реда за издаване и отнемане на разрешение за посредничество при международно осиновяване и за осъществяване и прекратяване на дейността на акредитираните организации (ДВ, бр. 31 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136504)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

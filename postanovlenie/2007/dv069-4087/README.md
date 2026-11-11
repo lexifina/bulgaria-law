@@ -24,6 +24,20 @@
 
 Act id: `postanovlenie-2007-dv069-4087` (tags `postanovlenie-2007-dv069-4087/<day>`; `python tools/on.py <day> postanovlenie-2007-dv069-4087`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 14 от 9 февруари 2010 г. за изменение и допълнение на Постановление № 194 на Министерския съвет от 2007 г. за управление на изпълнението на инфраструктурни проекти, финансирани със средства от Европейския съюз (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29731)
+
+Cited by:
+
+- [Постановление № 219 от 5 септември 2008 г. за приемане на Правилник за структурата, дейността и организацията на работа на Национална агенция "Пътна инфраструктура" и на нейната администрация и на Тарифа за таксите, които се събират от Национална агенция "Пътна инфраструктура" (ДВ, бр. 79 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8609)
+- [Постановление № 295 от 10 декември 2009 г. за приемане на Правилник за структурата, дейността и организацията на работа на Агенция "Пътна инфраструктура" (ДВ, бр. 100 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27697)
+- [Постановление № 330 от 5 декември 2011 г. за допълнение на Постановление № 62 на Министерския съвет от 2007 г. за приемане на национални правила за допустимост на разходите по оперативните програми, съфинансирани от Структурните фондове и Кохезионния фонд на Европейския съюз, за финансовата рамка 2007 - 2013 г. (ДВ, бр. 98 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59311)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

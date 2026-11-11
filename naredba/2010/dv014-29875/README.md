@@ -33,6 +33,26 @@
 
 Act id: `naredba-2010-dv014-29875` (tags `naredba-2010-dv014-29875/<day>`; `python tools/on.py <day> naredba-2010-dv014-29875`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 2 от 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 34 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32375)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 37 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32963)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 93 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40674)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49175)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 51 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53736)
+
+Cited by:
+
+- [Наредба № 5 от 10 март 2010 г. за условията за допустимост за подпомагане на земеделските парцели по схеми за плащане на площ и за общите и регионални критерии за постоянни пасища (ДВ, бр. 22 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30929)
+- [Наредба № 21 от 30 юни 2010 г. за реда за контрол на изискванията на схемите за национални доплащания към директните плащания (ДВ, бр. 52 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34524)
+- [Наредба № 6 от 5 май 2011 г. за специфичните изисквания при осъществяване на официалния контрол върху употребата на защитени географски означения и храни с традиционно специфичен характер (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49896)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за реда за контрол на изискванията на схемите за национални доплащания към директните плащания (ДВ, бр. 53 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66373)
+- [Решение № 8516 от 13 юни 2013 г. по административно дело № 12519 от 2012 г. (ДВ, бр. 99 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80390)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

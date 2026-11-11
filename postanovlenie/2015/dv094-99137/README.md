@@ -17,6 +17,25 @@
 
 Act id: `postanovlenie-2015-dv094-99137` (tags `postanovlenie-2015-dv094-99137/<day>`; `python tools/on.py <day> postanovlenie-2015-dv094-99137`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 167 от 29 септември 2023 г. за изменение на Постановление № 328 на Министерския съвет от 2015 г. за определяне на средствата от държавния бюджет за издръжка на обучението в държавните висши училища в зависимост от комплексна оценка за качеството на обучението и съответствието му с потребностите на пазара на труда (ДВ, бр. 83 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200118)
+
+Cited by:
+
+- [Постановление № 8 от 13 януари 2017 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111242)
+- [Постановление № 27 от 23 февруари 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123584)
+- [Постановление № 15 от 25 януари 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 10 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134364)
+- [Постановление № 9 от 27 януари 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145508)
+- [Постановление № 313 от 11 септември 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 78 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228241)
+- [Постановление № 28 от 16 април 2025 г. за изпълнението на държавния бюджет на Република България за 2025 г. (ДВ, бр. 33 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234203)
+- [Постановление № 39 от 25 април 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234368)
+- [Постановление № 102 от 12 август 2026 г. за изпълнението на държавния бюджет на Република България за 2026 г. (ДВ, бр. 74 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245362)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

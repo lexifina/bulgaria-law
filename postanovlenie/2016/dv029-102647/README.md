@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2016-dv029-102647` (tags `postanovlenie-2016-dv029-102647/<day>`; `python tools/on.py <day> postanovlenie-2016-dv029-102647`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 228 от 2 септември 2016 г. за одобряване на допълнителни трансфери за 2016 г. за финансово осигуряване на дейности по националните програми "Оптимизация на училищната мрежа", "Осигуряване на съвременна образователна среда" и "Без свободен час в училище", одобрени с Решение № 271 на Министерския съвет от 2016 г. за одобряване на национални програми за развитие на средното образование (ДВ, бр. 71 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107347)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

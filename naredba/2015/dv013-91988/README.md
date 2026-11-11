@@ -39,6 +39,22 @@
 
 Act id: `naredba-2015-dv013-91988` (tags `naredba-2015-dv013-91988/<day>`; `python tools/on.py <day> naredba-2015-dv013-91988`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2015 г. за изискванията към дейностите по събиране и третиране на отпадъците на територията на лечебните и здравните заведения (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132562)
+
+Cited by:
+
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2006 г. за утвърждаване на медицински стандарт "Трансфузионна хематология" (ДВ, бр. 35 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125428)
+- [Закон за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г. (ДВ, бр. 28 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150)
+- [Наредба № Н-4 от 30 март 2026 г. за организацията на профилактиката и контрола на инфекциите, свързани с медицинското обслужване (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242497)
+- [Закон за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г. (ДВ, бр. 28 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157379)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

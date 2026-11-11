@@ -19,6 +19,16 @@
 
 Act id: `postanovlenie-2025-dv040-234762` (tags `postanovlenie-2025-dv040-234762/<day>`; `python tools/on.py <day> postanovlenie-2025-dv040-234762`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 72 от 23 май 2025 г. за одобряване на допълнителни разходи/трансфери по бюджетите на Министерството на образованието и науката и на общините за 2025 г. (ДВ, бр. 43 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235091)
+- [Постановление № 117 от 3 юли 2025 г. за одобряване на допълнителни разходи/трансфери по бюджетите на Министерството на образованието и науката и на общините за 2025 г. (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235856)
+- [Постановление № 156 от 8 август 2025 г. за одобряване на допълнителни разходи/трансфери по бюджетите на Министерството на образованието и науката и на общините за 2025 г. (ДВ, бр. 66 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236724)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

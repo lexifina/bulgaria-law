@@ -23,6 +23,16 @@
 
 Act id: `instruktsiya-2015-dv036-94447` (tags `instruktsiya-2015-dv036-94447/<day>`; `python tools/on.py <day> instruktsiya-2015-dv036-94447`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-533 от 2015 г. за условията и реда за носене на служебно оръжие от държавните служители в Министерството на вътрешните работи (ДВ, бр. 49 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115299)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-533 от 2015 г. за условията и реда за носене на служебно оръжие от служителите по чл. 142, ал. 1 и 3 от Закона за Министерството на вътрешните работи (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122707)
+- [Инструкция за изменение на Инструкция № 8121з-533 от 2015 г. за условията и реда за носене на служебно оръжие от служителите по чл. 142, ал. 1 и 3 от Закона за Министерството на вътрешните работи (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243874)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

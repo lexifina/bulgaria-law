@@ -54,6 +54,18 @@
 
 Act id: `pravilnik-2024-dv053-218480` (tags `pravilnik-2024-dv053-218480/<day>`; `python tools/on.py <day> pravilnik-2024-dv053-218480`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 93 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246321)
+
+Cited by:
+
+- [Постановление № 104 от 18 август 2026 г. за приемане на Устройствен правилник на Министерството на икономиката, инвестициите и индустрията и на Устройствен правилник на Министерството на иновациите и дигиталната трансформация, за създаване на Изпълнителна агенция "Европейски фондове за конкурентоспособност" и за приемане на Устройствен правилник на Изпълнителна агенция "Европейски фондове за конкурентоспособност" (ДВ, бр. 76 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245429)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

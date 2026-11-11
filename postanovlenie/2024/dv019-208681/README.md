@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2024-dv019-208681` (tags `postanovlenie-2024-dv019-208681/<day>`; `python tools/on.py <day> postanovlenie-2024-dv019-208681`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 70 от 29 март 2024 г. за изменение на Постановление № 37 на Министерския съвет от 2024 г. за одобряване на допълнителни разходи по бюджета на Министерството на земеделието и храните за 2024 г. (ДВ, бр. 28 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211500)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

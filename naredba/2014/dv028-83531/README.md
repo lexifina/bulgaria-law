@@ -24,6 +24,18 @@
 
 Act id: `naredba-2014-dv028-83531` (tags `naredba-2014-dv028-83531/<day>`; `python tools/on.py <day> naredba-2014-dv028-83531`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2013 г. за водене на Регистър на музеите и за обстоятелствата, подлежащи на вписване в него (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96561)
+
+Cited by:
+
+- [Наредба № 10 от 28 октомври 2021 г. за реда за създаването на музеи по чл. 25, ал. 2 от Закона за културното наследство (ДВ, бр. 93 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164311)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

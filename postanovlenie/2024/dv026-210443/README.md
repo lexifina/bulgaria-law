@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2024-dv026-210443` (tags `postanovlenie-2024-dv026-210443/<day>`; `python tools/on.py <day> postanovlenie-2024-dv026-210443`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 79 от 3 април 2024 г. за преодоляване на диспропорции във възнагражденията на персонала в бюджетните организации, включително за увеличаване на възнагражденията на персонала (ДВ, бр. 30 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211960)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

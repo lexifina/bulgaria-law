@@ -33,6 +33,22 @@
 
 Act id: `naredba-2011-dv018-45749` (tags `naredba-2011-dv018-45749/<day>`; `python tools/on.py <day> naredba-2011-dv018-45749`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2011 г. за условията и реда за прилагане на мярка 213 "Плащания по Натура 2000 и плащания, свързани с Директива 2000/60/EО - за земеделски земи" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 65 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56196)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2011 г. за условията и реда за прилагане на мярка 213 "Плащания по Натура 2000 и плащания, свързани с Директива 2000/60/ЕО - за земеделски земи" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 105 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80873)
+- [Наредба за допълнение на Наредба № 3 от 2011 г. за условията и реда за прилагане на мярка 213 "Плащания по Натура 2000 и плащания, свързани с Директива 2000/60/ЕО - за земеделски земи" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 59 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86571)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2009 г. за условията и реда за прилагане на мярка 214 "Агроекологични плащания" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74086)
+- [Наредба за изменение и допълнение на Наредба № 105 от 2006 г. за условията и реда за създаване, поддържане, достъп и ползване на интегрираната система за администриране и контрол (ДВ, бр. 22 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83167)
+- [Наредба № 2 от 17 февруари 2015 г. за критериите за допустимост на земеделските площи за подпомагане по схеми и мерки за плащане на площ (ДВ, бр. 15 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92262)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

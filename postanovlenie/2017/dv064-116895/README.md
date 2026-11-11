@@ -16,6 +16,18 @@
 
 Act id: `postanovlenie-2017-dv064-116895` (tags `postanovlenie-2017-dv064-116895/<day>`; `python tools/on.py <day> postanovlenie-2017-dv064-116895`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 237 от 1 ноември 2018 г. за изменение на Постановление № 162 на Министерския съвет от 2017 г. за одобряване на допълнителни плащания от централния бюджет по бюджета на Министерството на транспорта, информационните технологии и съобщенията за 2017 г. за предоставяне на възмездна финансова помощ на "Холдинг БДЖ" - ЕАД, София (ДВ, бр. 92 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131615)
+
+Cited by:
+
+- [Постановление № 358 от 19 декември 2019 г. за одобряване на промени по бюджета на Министерството на транспорта, информационните технологии и съобщенията за 2019 г. в частта на финансирането на бюджетното салдо (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144152)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

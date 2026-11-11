@@ -42,6 +42,19 @@
 
 Act id: `postanovlenie-2004-dv073-19158` (tags `postanovlenie-2004-dv073-19158/<day>`; `python tools/on.py <day> postanovlenie-2004-dv073-19158`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 159 от 15 юли 2005 г. за изменение и допълнение на Наредбата за условията и реда за договаряне на лекарствата, стойността на които се заплаща напълно или частично от Националната здравноосигурителна каса, приета с Постановление № 211 на Министерския съвет от 2004 г. (ДВ, бр. 61 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=636)
+
+Cited by:
+
+- [Национален рамков договор между Националната здравноосигурителна каса и Българския лекарски съюз и Съюза на стоматолозите в България, 2006 г. (ДВ, бр. 106 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1233)
+- [Постановление № 265 от 9 ноември 2007 г. за изменение и допълнение на Наредбата за условията и реда за договаряне на лекарствата, медицинските изделия и диетичните храни за специални медицински цели, стойността на които се заплаща напълно или частично от Националната здравноосигурителна каса, приета с ПМС № 211 от 2004 г. (ДВ, бр. 92 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4399)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

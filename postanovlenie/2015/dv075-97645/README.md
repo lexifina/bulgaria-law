@@ -38,6 +38,15 @@
 
 Act id: `postanovlenie-2015-dv075-97645` (tags `postanovlenie-2015-dv075-97645/<day>`; `python tools/on.py <day> postanovlenie-2015-dv075-97645`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 231 от 8 септември 2016 г. за приемане на Устройствен правилник на Центъра за оценка на риска по хранителната верига (ДВ, бр. 71 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107432)
+- [Постановление № 251 от 27 септември 2016 г. за приемане на Наредба за условията и реда за прилагане на схеми за предоставяне на плодове, зеленчуци, мляко и млечни продукти в учебните заведения - Схема "Училищен плод" и Схема "Училищно мляко" (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107928)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

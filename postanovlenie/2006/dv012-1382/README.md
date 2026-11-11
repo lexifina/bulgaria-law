@@ -108,6 +108,20 @@
 
 Act id: `postanovlenie-2006-dv012-1382` (tags `postanovlenie-2006-dv012-1382/<day>`; `python tools/on.py <day> postanovlenie-2006-dv012-1382`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 109 от 8 май 2006 г. за приемане на Устройствен правилник на Българския институт по метрология (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1893)
+- [Постановление № 177 от 18 юли 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 61 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2276)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2003 г. за вписване в регистъра на корабите (ДВ, бр. 44 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33550)
+- [Постановление № 114 от 28 април 2011 г. за изменение и допълнение на Наредбата за изискванията за качеството на течните горива, условията, реда и начина за техния контрол, приета с Постановление № 156 на Министерския съвет от 2003 г. (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49135)
+- [Постановление № 78 от 20 април 2012 г. за изменение и допълнение на Наредбата за плаването и граничния режим във вътрешните морски води, в териториалното море и във вътрешните водни пътища на Република България на български и чуждестранни яхти, лодки и други плавателни средства за спорт, туризъм и развлечение, както и извършване на водноатракционни услуги с тях, приета с Постановление № 293 на Министерския съвет от 2009 г. (ДВ, бр. 33 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63904)
+- [Постановление № 149 от 10 юни 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85763)
+- [Постановление № 388 от 30 декември 2015 г. за приемане на Наредба за съществените изисквания и оценяване на съответствието на плавателните съдове за отдих и на плавателните съдове за лично ползване (ДВ, бр. 4 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99877)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

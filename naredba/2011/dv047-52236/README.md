@@ -73,6 +73,24 @@
 
 Act id: `naredba-2011-dv047-52236` (tags `naredba-2011-dv047-52236/<day>`; `python tools/on.py <day> naredba-2011-dv047-52236`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за издаване на разрешителни за заустване на отпадъчните води във водни обекти и определяне на индивидуалните емисионни ограничения на точковите източници на замърсяване (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61462)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за издаване на разрешителни за заустване на отпадъчните води във водни обекти и определяне на индивидуалните емисионни ограничения на точковите източници на замърсяване (ДВ, бр. 44 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75893)
+- [Наредба за изменение на Наредба № 2 от 2011 г. за издаване на разрешителни за заустване на отпадъчните води във водни обекти и определяне на индивидуалните емисионни ограничения на точковите източници на замърсяване (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95431)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+- [Правилник за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 103 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59696)
+- [Наредба № 4 от 5 април 2013 г. за условията и изискванията за изграждането и експлоатацията на инсталации за изгаряне и инсталации за съвместно изгаряне на отпадъци (ДВ, бр. 36 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75069)
+- [Постановление № 383 от 29 декември 2016 г. за приемане на Тарифа за таксите за водовземане, за ползване на воден обект и за замърсяване (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110794)
+- [Наредба № 14 от 9 декември 2021 г. за хигиената на храните (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166256)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

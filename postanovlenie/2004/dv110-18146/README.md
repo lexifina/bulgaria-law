@@ -46,6 +46,20 @@
 
 Act id: `postanovlenie-2004-dv110-18146` (tags `postanovlenie-2004-dv110-18146/<day>`; `python tools/on.py <day> postanovlenie-2004-dv110-18146`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 35 от 19 февруари 2007 г. за изменение и допълнение на Наредбата за реда и начина за нотифициране на нови химични вещества, приета с Постановление № 327 на Министерския съвет от 2004 г. (ДВ, бр. 19 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3349)
+
+Cited by:
+
+- [Постановление № 43 от 26 февруари 2007 г. за изменение и допълнение на Наредбата за реда и начина на класифициране, опаковане и етикетиране на химични вещества и препарати, приета с Постановление № 316 на Министерския съвет от 2002 г. (ДВ, бр. 20 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3371)
+- [Постановление № 114 от 26 май 2008 г. за изменение и допълнение на Наредбата за реда и начина на класифициране, опаковане и етикетиране на химични вещества и препарати, приета с Постановление № 316 на Министерския съвет от 2002 г. (ДВ, бр. 51 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5282)
+- [Постановление № 182 от 20 август 2010 г. за приемане на Наредба за реда и начина на класифициране, опаковане и етикетиране на химични вещества и смеси (ДВ, бр. 68 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36323)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -55,6 +55,14 @@
 
 Act id: `postanovlenie-2015-dv009-91607` (tags `postanovlenie-2015-dv009-91607/<day>`; `python tools/on.py <day> postanovlenie-2015-dv009-91607`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 365 от 21 декември 2016 г. за приемане на Наредба за детските и ученическите туристически пътувания с обща цена, инициирани от институциите в системата на предучилищното и училищното образование (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110581)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

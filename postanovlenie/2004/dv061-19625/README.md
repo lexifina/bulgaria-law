@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2004-dv061-19625` (tags `postanovlenie-2004-dv061-19625/<day>`; `python tools/on.py <day> postanovlenie-2004-dv061-19625`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 219 от 23 август 2004 г. за допълнение на Постановление № 152 на Министерския съвет от 2004 г. за създаване на Организационен комитет и Оперативно бюро за подготовка и провеждане на срещата на Съвета на министрите на ОССЕ, 6 - 7 декември 2004 г., София (ДВ, бр. 76 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19128)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

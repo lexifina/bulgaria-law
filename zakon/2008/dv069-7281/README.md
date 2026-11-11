@@ -43,6 +43,28 @@
 
 Act id: `zakon-2008-dv069-7281` (tags `zakon-2008-dv069-7281/<day>`; `python tools/on.py <day> zakon-2008-dv069-7281`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за кредитиране на студенти и докторанти (ДВ, бр. 9 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240706)
+- [Закон за изменение и допълнение на Закона за кредитиране на студенти и докторанти (ДВ, бр. 9 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166410)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 12 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16044)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25033)
+- [Закон за държавния бюджет на Република България за 2010 г. (ДВ, бр. 99 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27579)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за държавния бюджет на Република България за 2015 г. (ДВ, бр. 107 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90900)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9770)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за държавния бюджет на Република България за 2015 г. (ДВ, бр. 107 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15088)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

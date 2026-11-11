@@ -20,6 +20,14 @@
 
 Act id: `naredba-2016-dv070-107248` (tags `naredba-2016-dv070-107248/<day>`; `python tools/on.py <day> naredba-2016-dv070-107248`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-23 от 21.10.2016 г. за условията, размерите и реда за изплащане на допълнителни възнаграждения на военнослужещите и цивилните служители от Служба "Военно разузнаване" (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174385)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

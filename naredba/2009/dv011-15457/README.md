@@ -78,6 +78,20 @@
 
 Act id: `naredba-2009-dv011-15457` (tags `naredba-2009-dv011-15457/<day>`; `python tools/on.py <day> naredba-2009-dv011-15457`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2009 г. за обучението на деца и ученици със специални образователни потребности и/или с хронични заболявания (ДВ, бр. 59 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96184)
+
+Cited by:
+
+- [Постановление № 50 от 5 март 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74063)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекторати по образованието (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83823)
+- [Наредба за отменяне на Наредба № 16 от 2016 г. за управлението на качеството в институциите, на Наредба № 7 от 2000 г. за определяне броя на паралелките и групите и броя на учениците и на децата в паралелките и в групите на училищата, детските градини и обслужващите звена и на Наредба № 1 от 2009 г. за обучението на деца и ученици със специални образователни потребности и/или с хронични заболявания (ДВ, бр. 100 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120711)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

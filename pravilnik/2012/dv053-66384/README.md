@@ -96,6 +96,33 @@
 
 Act id: `pravilnik-2012-dv053-66384` (tags `pravilnik-2012-dv053-66384/<day>`; `python tools/on.py <day> pravilnik-2012-dv053-66384`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77883)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 104 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132689)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 40 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137541)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140051)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 78 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141564)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 60 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160135)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 86 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163109)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 56 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174802)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181822)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 71 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198648)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 96 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201201)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 40 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214562)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235719)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 73 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237100)
+- [Правилник за изменение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 22 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241392)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 93 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246318)
+
+Cited by:
+
+- [Правилник за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

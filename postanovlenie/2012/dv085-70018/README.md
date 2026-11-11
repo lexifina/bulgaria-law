@@ -113,6 +113,21 @@
 
 Act id: `postanovlenie-2012-dv085-70018` (tags `postanovlenie-2012-dv085-70018/<day>`; `python tools/on.py <day> postanovlenie-2012-dv085-70018`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 186 от 23 август 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 76 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78502)
+- [Постановление № 76 от 12 април 2016 г. за приемане на Наредба за определяне на реда и размера за заплащане на продуктова такса (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102745)
+- [Постановление № 144 от 16 юли 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128696)
+- [Постановление № 420 от 31 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154886)
+- [Постановление № 354 от 26 октомври 2021 г. за приемане на Наредба за намаляване на въздействието на определени пластмасови продукти върху околната среда (ДВ, бр. 91 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163849)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+- [Решение № 12004 от 26 ноември 2025 г. по административно дело № 4870 от 2025 г. (ДВ, бр. 31 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242175)
+- [Решение № 2889 от 16 март 2026 г. по административно дело № 818 от 2026 г. (ДВ, бр. 31 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242176)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

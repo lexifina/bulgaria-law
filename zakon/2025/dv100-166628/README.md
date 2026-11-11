@@ -79,6 +79,14 @@
 
 Act id: `zakon-2025-dv100-166628` (tags `zakon-2025-dv100-166628/<day>`; `python tools/on.py <day> zakon-2025-dv100-166628`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка на допусната при обнародването техническа грешка в Закона за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 100 от 2025 г.) (ДВ, бр. 101 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239248)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

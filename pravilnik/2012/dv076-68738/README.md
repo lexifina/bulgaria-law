@@ -35,6 +35,25 @@
 
 Act id: `pravilnik-2012-dv076-68738` (tags `pravilnik-2012-dv076-68738/<day>`; `python tools/on.py <day> pravilnik-2012-dv076-68738`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 102 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80626)
+- [Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 35 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94344)
+- [Правилник за изменение и допълнение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 11 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100776)
+- [Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139736)
+- [Правилник за изменение на Устройствения правилник на Центъра на промишлеността на Република България в Москва, Руска федерация (ДВ, бр. 70 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236775)
+
+Cited by:
+
+- [Постановление № 197 от 2 септември 2013 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78673)
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+- [Постановление № 20 от 25 февруари 2022 г. за приемане на устройствени правилници на Министерството на икономиката и индустрията и на Министерството на иновациите и растежа (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170169)
+- [Постановление № 104 от 18 август 2026 г. за приемане на Устройствен правилник на Министерството на икономиката, инвестициите и индустрията и на Устройствен правилник на Министерството на иновациите и дигиталната трансформация, за създаване на Изпълнителна агенция "Европейски фондове за конкурентоспособност" и за приемане на Устройствен правилник на Изпълнителна агенция "Европейски фондове за конкурентоспособност" (ДВ, бр. 76 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245429)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

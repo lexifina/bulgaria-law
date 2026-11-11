@@ -132,6 +132,16 @@
 
 Act id: `postanovlenie-2008-dv054-5335` (tags `postanovlenie-2008-dv054-5335/<day>`; `python tools/on.py <day> postanovlenie-2008-dv054-5335`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 145 от 24 юни 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5511)
+- [Постановление № 195 от 6 август 2009 г. за закриване на Държавната агенция за младежта и спорта и за приемане на Устройствен правилник на Министерството на физическото възпитание и спорта (ДВ, бр. 64 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24180)
+- [Постановление № 235 от 15 октомври 2010 г. за приемане на Наредба за допингов контрол при тренировъчна и състезателна дейност (ДВ, бр. 83 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38263)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -75,6 +75,22 @@
 
 Act id: `naredba-2018-dv022-123942` (tags `naredba-2018-dv022-123942/<day>`; `python tools/on.py <day> naredba-2018-dv022-123942`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 58 от 2018 г. за изискванията за защита на финансовите инструменти и паричните средства на клиенти, за управление на продукти и за предоставяне или получаване на възнаграждения, комисиони, други парични или непарични облаги (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146779)
+- [Наредба за изменение и допълнение на Наредба № 58 от 28.02.2018 г. за изискванията за защита на финансовите инструменти и паричните средства на клиенти, за управление на продукти и за предоставяне или получаване на възнаграждения, комисиони, други парични или непарични облаги (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174292)
+- [Наредба за допълнение на Наредба № 58 от 28.02.2018 г. за изискванията за защита на финансовите инструменти и паричните средства на клиенти, за управление на продукти и за предоставяне или получаване на възнаграждения, комисиони, други парични или непарични облаги (ДВ, бр. 67 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197945)
+- [Наредба за изменение и допълнение на Наредба № 58 от 28.02.2018 г. за изискванията за защита на финансовите инструменти и паричните средства на клиенти, за управление на продукти и за предоставяне или получаване на възнаграждения, комисиони, други парични или непарични облаги (ДВ, бр. 22 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209180)
+
+Cited by:
+
+- [Наредба № 50 от 30 март 2022 г. за капиталовата адекватност, ликвидността на инвестиционните посредници и осъществяването на надзор за спазването им (ДВ, бр. 27 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171570)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

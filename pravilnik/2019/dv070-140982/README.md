@@ -42,6 +42,17 @@
 
 Act id: `pravilnik-2019-dv070-140982` (tags `pravilnik-2019-dv070-140982/<day>`; `python tools/on.py <day> pravilnik-2019-dv070-140982`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 29 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171672)
+- [Правилник за изменение на Правилника за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 103 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201681)
+- [Правилник за изменение на Правилника за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 46 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243399)
+- [Правилник за изменение и допълнение на Правилника за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 72 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245136)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

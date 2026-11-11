@@ -30,6 +30,14 @@
 
 Act id: `postanovlenie-2024-dv070-225801` (tags `postanovlenie-2024-dv070-225801/<day>`; `python tools/on.py <day> postanovlenie-2024-dv070-225801`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 369 от 30 декември 2025 г. за приемане на Тарифа за таксите, които се събират от Центъра за оценка на риска по хранителната верига (ДВ, бр. 1 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240407)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

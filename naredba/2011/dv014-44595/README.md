@@ -34,6 +34,16 @@
 
 Act id: `naredba-2011-dv014-44595` (tags `naredba-2011-dv014-44595/<day>`; `python tools/on.py <day> naredba-2011-dv014-44595`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 30 януари 2012 г. за контрола и опазването на горските територии (ДВ, бр. 11 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61060)
+- [Наредба № 8121з-648 от 1 октомври 2014 г. за реда за употреба на помощни средства от органите на Министерството на вътрешните работи (ДВ, бр. 84 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88481)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2012 г. за контрола и опазването на горските територии (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142650)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2013-dv038-75260` (tags `postanovlenie-2013-dv038-75260/<day>`; `python tools/on.py <day> postanovlenie-2013-dv038-75260`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 175 от 26 юни 2014 г. за одобряване на допълнителни разходи по бюджета на Националната служба за охрана за 2014 г. (ДВ, бр. 55 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86190)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

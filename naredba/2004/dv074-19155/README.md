@@ -164,6 +164,28 @@
 
 Act id: `naredba-2004-dv074-19155` (tags `naredba-2004-dv074-19155/<day>`; `python tools/on.py <day> naredba-2004-dv074-19155`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2004 г. за присъединяване на производители и потребители на електрическа енергия към преносната и разпределителните електрически мрежи (ДВ, бр. 25 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4900)
+- [Наредба за отменяне на Наредба № 6 от 2004 г. за присъединяване на производители и потребители на електрическа енергия към преносната и разпределителните електрически мрежи (ДВ, бр. 31 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83861)
+
+Cited by:
+
+- [Наредба № 14 от 15 юни 2005 г. за технически правила и нормативи за проектиране, изграждане и ползване на обектите и съоръженията за производство, преобразуване, пренос и разпределение на електрическа енергия (ДВ, бр. 53 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=479)
+- [Наредба № 21 от 11 май 2007 г. за правилата за изграждане на мобилни далекосъобщителни мрежи и съоръжения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3704)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2003 г. за проектиране, изграждане и експлоатация на електрически уредби в сгради (ДВ, бр. 17 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14896)
+- [Решение № 2535 от 21 март 2005 г. по административно дело № 9355 от 2004 г. (ДВ, бр. 27 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15117)
+- [№ 11836/08 г. (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15324)
+- [Наредба № 1 от 27 май 2010 г. за проектиране, изграждане и поддържане на електрически уредби за ниско напрежение в сгради (ДВ, бр. 46 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33586)
+- [Правила за условията и реда за предоставяне на достъп до електропреносната и електроразпределителните мрежи (ДВ, бр. 98 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80129)
+- [Правила за управление на електроенергийната система (ДВ, бр. 6 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81882)
+- [Неофициален раздел на "Държавен вестник", брой 38 от 11.5.2007 г. (ДВ, бр. 38 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140212)
+- [Правила за изменение и допълнение на Правилата за управление на електроенергийната система (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175173)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

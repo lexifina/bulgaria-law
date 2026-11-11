@@ -25,6 +25,14 @@
 
 Act id: `naredba-2018-dv032-125070` (tags `naredba-2018-dv032-125070/<day>`; `python tools/on.py <day> naredba-2018-dv032-125070`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2018 г. за условията и реда за издаване на разрешение за отглеждане на растения от рода на конопа (канабис), предназначени за влакно, семена за фураж и храна и семена за посев, със съдържание под 0,2 тегловни процента на тетрахидроканабинол, определено в листната маса, цветните и плодните връхчета, за търговия и контрол (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192480)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

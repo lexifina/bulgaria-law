@@ -40,6 +40,24 @@
 
 Act id: `naredba-2007-dv067-4072` (tags `naredba-2007-dv067-4072/<day>`; `python tools/on.py <day> naredba-2007-dv067-4072`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61461)
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107908)
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 25 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124101)
+- [Наредба за изменение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 68 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129245)
+
+Cited by:
+
+- [Наредба № 8 от 23 март 2009 г. за утвърждаване на медицински стандарт "Клинична хематология" (ДВ, бр. 25 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17859)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2009 г. за утвърждаване на медицински стандарт "Клинична хематология" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36258)
+- [Наредба за изменение и допълнение на Наредба № 28 от 2008 г. за устройството, реда и организацията на работата на аптеките и номенклатурата на лекарствените продукти (ДВ, бр. 81 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98053)
+- [Наредба № 8 от 31 март 2021 г. за условията и реда за провеждане на неинтервенционални проучвания на лекарствени продукти на територията на Република България (ДВ, бр. 28 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157218)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

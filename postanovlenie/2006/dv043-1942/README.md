@@ -40,6 +40,27 @@
 
 Act id: `postanovlenie-2006-dv043-1942` (tags `postanovlenie-2006-dv043-1942/<day>`; `python tools/on.py <day> postanovlenie-2006-dv043-1942`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 284 от 30 ноември 2009 г. за изменение и допълнение на Наредбата за етикетиране на аерозолните флакони и изискванията към тях, приета с Постановление № 113 на Министерския съвет от 2006 г. (ДВ, бр. 97 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27457)
+- [Постановление № 67 от 21 март 2014 г. за изменение и допълнение на Наредбата за етикетиране на аерозолните флакони и изискванията към тях, приета с Постановление № 113 на Министерския съвет от 2006 г. (ДВ, бр. 30 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83759)
+- [Постановление № 85 от 27 април 2017 г. за изменение и допълнение на Наредбата за етикетиране на аерозолните флакони и изискванията към тях, приета с Постановление № 113 на Министерския съвет от 2006 г. (ДВ, бр. 35 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114009)
+
+Cited by:
+
+- [Постановление № 237 от 5 септември 2006 г. за приемане на Наредба за изискванията за етикетиране на нови пътнически автомобили и за предоставяне на информация относно разхода на гориво и на емисиите на въглероден диоксид (ДВ, бр. 76 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2545)
+- [Постановление № 43 от 26 февруари 2007 г. за изменение и допълнение на Наредбата за реда и начина на класифициране, опаковане и етикетиране на химични вещества и препарати, приета с Постановление № 316 на Министерския съвет от 2002 г. (ДВ, бр. 20 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3371)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 62 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96407)
+- [Постановление № 91 от 21 април 2016 г. за приемане на Наредба за съществените изисквания и оценяване на съответствието на съоръженията под налягане (ДВ, бр. 33 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103203)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 62 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15266)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -56,6 +56,21 @@
 
 Act id: `naredba-2016-dv060-106298` (tags `naredba-2016-dv060-106298/<day>`; `python tools/on.py <day> naredba-2016-dv060-106298`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-776 от 2016 г. за реда за организацията и разпределянето на работното време, за неговото отчитане, за компенсирането на работата извън редовното работно време, режима на дежурство, времето за отдих и почивките на държавните служители в Министерството на вътрешните работи (ДВ, бр. 99 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110063)
+
+Cited by:
+
+- [адм. д. № 11077/2016 г. (ДВ, бр. 86 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108622)
+- [Наредба № 8121з-908 от 2 август 2018 г. за условията и реда за изплащане на допълнителни възнаграждения на държавните служители в Министерството на вътрешните работи за научна степен, за полагане на труд през нощта от 22,00 до 6,00 ч., за полагане на труд на официални празници, за времето на разположение и за изпълнение на специфични служебни дейности (ДВ, бр. 67 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129153)
+- [Наредба № 8121з-1059 от 26 септември 2019 г. за условията и реда за изплащане на допълнителни възнаграждения на държавните служители за научна степен, за полагане на труд през нощта от 22,00 до 6,00 ч., за полагане на труд на официални празници и за времето на разположение (ДВ, бр. 78 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141618)
+- [Наредба № 8121з-36 от 7 януари 2020 г. за реда за организацията и разпределянето на работното време, за неговото отчитане, за компенсирането на работата извън редовното работно време, режима на дежурство, времето за отдих и почивките на държавните служители в Министерството на вътрешните работи (ДВ, бр. 3 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144499)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

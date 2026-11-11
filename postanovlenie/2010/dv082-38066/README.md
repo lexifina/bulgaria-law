@@ -15,6 +15,18 @@
 
 Act id: `postanovlenie-2010-dv082-38066` (tags `postanovlenie-2010-dv082-38066/<day>`; `python tools/on.py <day> postanovlenie-2010-dv082-38066`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-14 от 18 май 2011 г. за психологически подбор и психологическите аспекти за оценка на личния състав на служба "Военна информация" (ДВ, бр. 40 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50635)
+- [Инструкция № 2 от 14 юли 2011 г. за определяне на реда за създаване, използване и закриване на информационните фондове и за контрола върху тях в служба "Военна информация" (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55170)
+- [Закон за военното разузнаване (ДВ, бр. 88 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98578)
+- [Постановление № 170 от 11 юли 2016 г. за приемане на Правилник за устройството и дейността на служба "Военна информация" и Класификатор на длъжностите в служба "Военна информация" (ДВ, бр. 54 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105751)
+- [Закон за военното разузнаване (ДВ, бр. 88 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15268)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

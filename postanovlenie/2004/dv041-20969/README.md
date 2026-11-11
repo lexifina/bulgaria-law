@@ -23,6 +23,15 @@
 
 Act id: `postanovlenie-2004-dv041-20969` (tags `postanovlenie-2004-dv041-20969/<day>`; `python tools/on.py <day> postanovlenie-2004-dv041-20969`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 113 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

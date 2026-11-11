@@ -42,6 +42,15 @@
 
 Act id: `instruktsiya-2020-dv039-147627` (tags `instruktsiya-2020-dv039-147627/<day>`; `python tools/on.py <day> instruktsiya-2020-dv039-147627`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № РД-02-21-1 от 2020 г. за обмена на информация, условията и реда за достъп до информационни системи за целите на осъществяване на контрол, установяване и санкциониране на нарушения, свързани със събиране на пътни такси, между Агенция "Пътна инфраструктура", Министерството на вътрешните работи и Агенция "Митници" (ДВ, бр. 46 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235187)
+- [Инструкция за изменение и допълнение на Инструкция № РД-02-21-1 от 16 април 2020 г. за обмена на информация, условията и реда за достъп до информационни системи за целите на осъществяване на контрол, установяване и санкциониране на нарушения, свързани със събиране на пътни такси, между Агенция "Пътна инфраструктура", Министерството на вътрешните работи и Агенция "Митници" (ДВ, бр. 13 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240928)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

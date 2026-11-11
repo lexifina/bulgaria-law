@@ -94,6 +94,15 @@
 
 Act id: `naredba-2008-dv089-9557` (tags `naredba-2008-dv089-9557/<day>`; `python tools/on.py <day> naredba-2008-dv089-9557`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка на Министерство на регионалното развитие и благоустройството в чл. 36, ал. 1 от Наредба № 2 от 2008 г. за проектиране, изпълнение, контрол и приемане на хидроизолации и хидроизолационни системи на сгради и съоръжения (ДВ, бр. 89 от 2008 г.) (ДВ, бр. 95 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33879)
+- [Наредба № РД-02-20-2 от 8 юни 2016 г. за проектиране, изпълнение, контрол и приемане на хидроизолационни системи на строежите (ДВ, бр. 47 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104653)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

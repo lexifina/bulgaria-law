@@ -38,6 +38,19 @@
 
 Act id: `postanovlenie-2004-dv112-18060` (tags `postanovlenie-2004-dv112-18060/<day>`; `python tools/on.py <day> postanovlenie-2004-dv112-18060`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за почвите (ДВ, бр. 89 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4376)
+- [разрешение (ДВ, бр. 24 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31132)
+- [разрешение (ДВ, бр. 29 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31822)
+- [чл. 62а от Закона за водите (ДВ, бр. 37 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32961)
+- [Постановление № 76 от 31 март 2011 г. за приемане на Наредба за реда и начина за изчисляване размера на финансовата гаранция или еквивалентна застраховка и за предоставяне на годишни справки-декларации при трансграничен превоз на отпадъци (ДВ, бр. 29 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47857)
+- [Постановление № 201 от 4 август 2016 г. за приемане на Наредба за реда и начина за оползотворяване на утайки от пречистването на отпадъчни води чрез употребата им в земеделието (ДВ, бр. 63 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106501)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

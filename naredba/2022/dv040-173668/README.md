@@ -46,6 +46,19 @@
 
 Act id: `naredba-2022-dv040-173668` (tags `naredba-2022-dv040-173668/<day>`; `python tools/on.py <day> naredba-2022-dv040-173668`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № Н-2 от 2022 г. за условията и реда за провеждане на диагностика, профилактика и контрол на COVID-19 (ДВ, бр. 80 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178545)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 15 от 2005 г. за имунизациите в Република България (ДВ, бр. 18 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186960)
+- [Наредба № Н-1 от 7 март 2024 г. за условията и реда за провеждане на диагностика, профилактика и контрол на COVID-19 (ДВ, бр. 22 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

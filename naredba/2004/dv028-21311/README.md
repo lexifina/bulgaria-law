@@ -38,6 +38,14 @@
 
 Act id: `naredba-2004-dv028-21311` (tags `naredba-2004-dv028-21311/<day>`; `python tools/on.py <day> naredba-2004-dv028-21311`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-5 от 8 септември 2008 г. за приемане на ученици в училищата по изкуствата (ДВ, бр. 81 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8704)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

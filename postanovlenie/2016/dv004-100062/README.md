@@ -27,6 +27,14 @@
 
 Act id: `postanovlenie-2016-dv004-100062` (tags `postanovlenie-2016-dv004-100062/<day>`; `python tools/on.py <day> postanovlenie-2016-dv004-100062`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 245 от 5 юли 2024 г. за изменение и допълнение на Постановление № 240 на Министерския съвет от 2019 г. за създаване на Национален координационен механизъм за върховенство на правото и на Съвет за неговото прилагане (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221081)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

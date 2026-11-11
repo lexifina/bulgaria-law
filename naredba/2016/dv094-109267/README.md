@@ -17,6 +17,15 @@
 
 Act id: `naredba-2016-dv094-109267` (tags `naredba-2016-dv094-109267/<day>`; `python tools/on.py <day> naredba-2016-dv094-109267`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [адм. дело № 979/2017 г. (ДВ, бр. 23 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112816)
+- [Наредба № 2 от 6 октомври 2017 г. за утвърждаване на медицински стандарт "Ортопедия и травматология" (ДВ, бр. 84 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118779)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -64,6 +64,24 @@
 
 Act id: `naredba-2014-dv064-86954` (tags `naredba-2014-dv064-86954/<day>`; `python tools/on.py <day> naredba-2014-dv064-86954`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 10 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91726)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94227)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 61 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106174)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112802)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 3 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121319)
+- [Наредба за изменение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 26 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124371)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 78 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130138)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 44 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137945)
+- [Наредба за изменение и допълнение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 78 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162075)
+- [Наредба за изменение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185140)
+- [Наредба за изменение на Наредба № 8121з-344 от 2014 г. за назначаване на държавна служба в Министерството на вътрешните работи (ДВ, бр. 46 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=216561)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

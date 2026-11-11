@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2020-dv037-147515` (tags `postanovlenie-2020-dv037-147515/<day>`; `python tools/on.py <day> postanovlenie-2020-dv037-147515`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 87 от 30 април 2020 г. за изменение на Постановление № 70 на Министерския съвет от 2020 г. за осигуряване на основни групи храни, произведени на територията на Република България, в търговските обекти, представляващи вериги от магазини (ДВ, бр. 40 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147725)
+- [Постановление № 118 от 12 юни 2020 г. за изменение и допълнение на Постановление № 70 на Министерския съвет от 2020 г. за осигуряване на основни групи храни, произведени на територията на Република България, във веригите от магазини, представляващи търговски обекти (ДВ, бр. 54 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149056)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

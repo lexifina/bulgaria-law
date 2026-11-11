@@ -20,6 +20,20 @@
 
 Act id: `naredba-2006-dv050-2091` (tags `naredba-2006-dv050-2091/<day>`; `python tools/on.py <day> naredba-2006-dv050-2091`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 60 от 2006 г. за изискванията към данните, които съдържа документацията за издаване на лиценз за употреба на ветеринарномедицински продукти (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26965)
+- [Наредба за изменение на Наредба № 60 от 2006 г. за изискванията към данните, които съдържа документацията за издаване на лиценз за употреба на ветеринарномедицински продукти (ДВ, бр. 74 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117730)
+
+Cited by:
+
+- [Наредба № ДВ-103 от 21 август 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта инфлуенца (грип) по птиците (ДВ, бр. 83 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2694)
+- [Наредба № 5 от 2 декември 2024 г. за изискванията към ветеринарномедицинските аптеки и условията и изискванията за търговия с ветеринарни лекарствени продукти от разстояние (ДВ, бр. 105 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231108)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

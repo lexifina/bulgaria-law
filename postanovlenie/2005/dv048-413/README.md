@@ -62,6 +62,21 @@
 
 Act id: `postanovlenie-2005-dv048-413` (tags `postanovlenie-2005-dv048-413/<day>`; `python tools/on.py <day> postanovlenie-2005-dv048-413`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 224 от 24 октомври 2005 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Гражданска защита", приет с Постановление № 101 на Министерския съвет от 2005 г. (ДВ, бр. 86 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=975)
+
+Cited by:
+
+- [Постановление № 234 от 3 ноември 2005 г. за приемане на Устройствен правилник на Министерството на държавната политика при бедствия и аварии (ДВ, бр. 89 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1010)
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 137 от 6 юни 2006 г. за приемане на Устройствен правилник на Министерството на държавната политика при бедствия и аварии (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2061)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

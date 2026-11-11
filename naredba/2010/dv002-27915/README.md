@@ -52,6 +52,37 @@
 
 Act id: `naredba-2010-dv002-27915` (tags `naredba-2010-dv002-27915/<day>`; `python tools/on.py <day> naredba-2010-dv002-27915`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2009 г. за формиране и управление на музейните фондове (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152042)
+
+Cited by:
+
+- [Правилник за устройството и дейността на Национален музей на образованието - гр. Габрово (ДВ, бр. 5 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60176)
+- [Правилник за устройството и дейността на музей "Борис Христов" - София (ДВ, бр. 39 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64543)
+- [Наредба № Н-9 от 27 април 2012 г. за реда за създаването и управлението на обществените колекции (ДВ, бр. 39 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64548)
+- [Правилник за устройството и дейността на Национален музей на българското изобразително изкуство (ДВ, бр. 44 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85088)
+- [Правилник за устройството и дейността на Национален литературен музей (ДВ, бр. 79 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87932)
+- [Правилник за устройството и дейността на Национален музеeн комплекс - София (ДВ, бр. 9 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91576)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Правилник за устройството и дейността на Национален политехнически музей - София (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102273)
+- [Правилник за устройството и дейността на Национален парк-музей "Шипка - Бузлуджа" - Казанлък (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102274)
+- [Правилник за устройството и дейността на Национален исторически музей - София (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102275)
+- [Правилник за устройството и дейността на къща музей "Панчо Владигеров" (ДВ, бр. 36 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103314)
+- [Правилник за устройството и дейността на Национален музей "Земята и хората" - София (ДВ, бр. 40 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103599)
+- [Правилник за устройството и дейността на Националния литературен музей (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104025)
+- [Правилник за устройството и дейността на Националната галерия (ДВ, бр. 44 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104308)
+- [Правилник за устройството и дейността на Музей "Борис Христов" - София (ДВ, бр. 52 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105172)
+- [Правилник за устройството и дейността на Музей "Христо Ботев" - Калофер (ДВ, бр. 52 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105173)
+- [Правилник за устройството и дейността на Музей "Васил Левски" - Карлово (ДВ, бр. 52 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105174)
+- [Правилник за устройството и дейността на Националния музей на образованието - Габрово (ДВ, бр. 10 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111421)
+- [Правилник за устройството и дейността на Националния исторически музей - София (ДВ, бр. 88 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142615)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния исторически музей - София (ДВ, бр. 68 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160737)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

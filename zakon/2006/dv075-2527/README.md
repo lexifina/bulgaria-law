@@ -72,6 +72,33 @@
 
 Act id: `zakon-2006-dv075-2527` (tags `zakon-2006-dv075-2527/<day>`; `python tools/on.py <day> zakon-2006-dv075-2527`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за съсловната организация на магистър-фармацевтите (ДВ, бр. 64 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140267)
+- [Закон за изменение и допълнение на Закона за съсловната организация на магистър-фармацевтите (ДВ, бр. 64 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156985)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за съсловните организации на лекарите и стоматолозите (ДВ, бр. 105 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3009)
+- [Закон за лекарствените продукти в хуманната медицина (ДВ, бр. 31 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3514)
+- [Тълкувателно постановление № 5 от 21 юни 2007 г. на Общото събрание на съдиите от Върховния административен съд по т.д. № 3 от 2007 г. (ДВ, бр. 52 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3883)
+- [Закон за признаване на професионални квалификации (ДВ, бр. 13 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4752)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 71 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7797)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21369)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42158)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132509)
+- [Решение № 1 от 4 февруари 2020 г. по конституционно дело № 17 от 2018 г. (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145828)
+- [Закон за изменение и допълнение на Закона за съсловните организации на медицинските сестри, акушерките и асоциираните медицински специалисти, на зъботехниците и на помощник-фармацевтите (ДВ, бр. 85 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151917)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9913)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78260)
+- [Закон за изменение и допълнение на Закона за съсловните организации на медицинските сестри, акушерките и асоциираните медицински специалисти, на зъботехниците и на помощник-фармацевтите (ДВ, бр. 85 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163343)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -13,6 +13,15 @@
 
 Act id: `postanovlenie-2005-dv009-14721` (tags `postanovlenie-2005-dv009-14721/<day>`; `python tools/on.py <day> postanovlenie-2005-dv009-14721`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 1 от 6 януари 2011 г. за структурни промени в системата на здравеопазването (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42895)
+- [Постановление № 124 от 10 май 2011 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49895)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

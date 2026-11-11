@@ -81,6 +81,19 @@
 
 Act id: `instruktsiya-2015-dv073-97505` (tags `instruktsiya-2015-dv073-97505/<day>`; `python tools/on.py <day> instruktsiya-2015-dv073-97505`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1122 от 2015 г. за реда за обработка на лични данни в Министерството на вътрешните работи (ДВ, бр. 31 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102750)
+- [Инструкция за допълнение на Инструкция № 8121з-1122 от 2015 г. за реда за обработка на лични данни в Министерството на вътрешните работи (ДВ, бр. 3 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110812)
+
+Cited by:
+
+- [Инструкция № 8121з-1280 от 7 октомври 2021 г. за реда за обработване на лични данни в Министерството на вътрешните работи (ДВ, бр. 87 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163214)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

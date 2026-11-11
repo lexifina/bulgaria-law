@@ -25,6 +25,23 @@
 
 Act id: `naredba-2004-dv111-18104` (tags `naredba-2004-dv111-18104/<day>`; `python tools/on.py <day> naredba-2004-dv111-18104`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 19 от 2004 г. за регистрация на пристанищата на Република България (ДВ, бр. 62 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=672)
+- [Наредба за изменение и допълнение на Наредба № 19 от 2004 г. за регистрация на пристанищата на Република България (ДВ, бр. 75 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36891)
+- [Наредба за изменение и допълнение на Наредба № 19 от 2004 г. за регистрация на пристанищата на Република България (ДВ, бр. 26 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83447)
+- [Наредба за изменение и допълнение на Наредба № 19 от 2004 г. за регистрация на пристанищата на Република България (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118937)
+
+Cited by:
+
+- [Наредба № 3 от 25 април 2006 г. за изискванията за създаването, поддържането и съдържанието на регистрите на агломерациите, основните пътища, железопътни линии и летища в страната (ДВ, бр. 38 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1857)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2003 г. за вписване в регистъра на корабите (ДВ, бр. 91 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2813)
+- [Наредба № 3 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на пристанищата и флота" (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29119)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

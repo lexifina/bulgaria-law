@@ -81,6 +81,16 @@
 
 Act id: `naredba-2016-dv075-107741` (tags `naredba-2016-dv075-107741/<day>`; `python tools/on.py <day> naredba-2016-dv075-107741`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2016 г. за определяне на ред, начин и формат за изпращане на данните от средствата за измерване и контрол по чл. 103а, ал. 1 от Закона за акцизите и данъчните складове (ДВ, бр. 104 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121145)
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2016 г. за определяне на ред, начин и формат за изпращане на данните от средствата за измерване и контрол по чл. 103а, ал. 1 от Закона за акцизите и данъчните складове (ДВ, бр. 63 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128820)
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2016 г. за определяне на ред, начин и формат за изпращане на данните от средствата за измерване и контрол по чл. 103а, ал. 1 от Закона за акцизите и данъчните складове (ДВ, бр. 53 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148970)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

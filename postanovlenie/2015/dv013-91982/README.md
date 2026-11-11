@@ -39,6 +39,16 @@
 
 Act id: `postanovlenie-2015-dv013-91982` (tags `postanovlenie-2015-dv013-91982/<day>`; `python tools/on.py <day> postanovlenie-2015-dv013-91982`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 5 януари 2016 г. за образованието, практическата подготовка и професионалната квалификация, необходими за придобиване на правоспособност за упражняване на професията "Eкскурзовод" (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99918)
+- [Наредба № 3 от 7 март 2016 г. за образованието, практическата подготовка и професионалната квалификация, необходими за придобиване на правоспособност за упражняване на професията "Планински водач" (ДВ, бр. 21 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101755)
+- [Постановление № 252 от 8 октомври 2019 г. за приемане на Наредба за Националния туристически регистър (ДВ, бр. 81 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141902)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -77,9 +77,37 @@
 
 Act id: `zakon-2016-dv038-15565` (tags `zakon-2016-dv038-15565/<day>`; `python tools/on.py <day> zakon-2016-dv038-15565`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за електронната идентификация (ДВ, бр. 95 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167522)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 50 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104959)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 101 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110201)
+- [Закон за изменение и допълнение на Закона за преминаването през и пребиваването на територията на Република България на съюзнически и на чужди въоръжени сили (ДВ, бр. 14 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122429)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139647)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142973)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169449)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за електронната идентификация (ДВ, бр. 95 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246270)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 50 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15646)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 101 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42237)
+- [Закон за изменение и допълнение на Закона за преминаването през и пребиваването на територията на Република България на съюзнически и на чужди въоръжени сили (ДВ, бр. 14 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77858)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 58 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157032)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157125)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163992)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за изменение и допълнение на Закона за електронната идентификация (ДВ, бр. 95 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167522)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

@@ -13,6 +13,14 @@
 
 Act id: `naredba-2019-dv079-141643` (tags `naredba-2019-dv079-141643/<day>`; `python tools/on.py <day> naredba-2019-dv079-141643`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 4 от 2019 г. за приемане на фармако-терапевтично ръководство по анестезиология и интензивно лечение (ДВ, бр. 81 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151655)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

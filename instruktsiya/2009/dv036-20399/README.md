@@ -24,6 +24,18 @@
 
 Act id: `instruktsiya-2009-dv036-20399` (tags `instruktsiya-2009-dv036-20399/<day>`; `python tools/on.py <day> instruktsiya-2009-dv036-20399`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № РД-595 от 2009 г. за реда за разпределянето на работното време, за неговото отчитане и за компенсирането на работата на държавните служители в Държавна агенция "Национална сигурност" извън редовното работно време (ДВ, бр. 81 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69458)
+
+Cited by:
+
+- [Инструкция № І-2 от 9 септември 2022 г. за реда за разпределянето на работното време, за неговото отчитане и за компенсирането на работата на държавните служители в Държавна агенция "Национална сигурност" извън редовното работно време (ДВ, бр. 75 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178043)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

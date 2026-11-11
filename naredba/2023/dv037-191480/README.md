@@ -124,6 +124,19 @@
 
 Act id: `naredba-2023-dv037-191480` (tags `naredba-2023-dv037-191480/<day>`; `python tools/on.py <day> naredba-2023-dv037-191480`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 11.04.2023 г. за условията и реда за експлоатацията на безпилотни летателни системи и надзора над техните оператори (ДВ, бр. 114 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240169)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2023 г. за условията и реда за предоставяне на финансова помощ по интервенциите в лозаро-винарския сектор, включени в Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235635)
+- [Наредба № 2 от 14 юли 2025 г. за правилата за полети (ДВ, бр. 60 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236111)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

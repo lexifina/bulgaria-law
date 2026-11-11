@@ -50,6 +50,14 @@
 
 Act id: `postanovlenie-2025-dv036-234363` (tags `postanovlenie-2025-dv036-234363/<day>`; `python tools/on.py <day> postanovlenie-2025-dv036-234363`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 31 от 11 февруари 2026 г. за изменение на Постановление № 34 на Министерския съвет от 2025 г. за определяне на условията и реда за предоставяне и финансиране на високотехнологични помощни средства в рамките на Инвестиция "Предоставяне на помощни средства на лица с трайни увреждания" по Националния план за възстановяване и устойчивост на Република България (ДВ, бр. 17 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241355)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

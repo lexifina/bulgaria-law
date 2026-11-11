@@ -35,6 +35,20 @@
 
 Act id: `postanovlenie-2007-dv108-4564` (tags `postanovlenie-2007-dv108-4564/<day>`; `python tools/on.py <day> postanovlenie-2007-dv108-4564`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 188 от 24 август 2012 г. за изменение и допълнение на Правилника за условията и реда за работа на Комисията по прозрачност по Закона за лекарствените продукти в хуманната медицина, приет с Постановление № 300 на Министерския съвет от 2007 г. (ДВ, бр. 67 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67995)
+- [Постановление № 315 от 3 октомври 2014 г. за изменение и допълнение на Правилника за условията и реда за работа на Комисията по прозрачност по Закона за лекарствените продукти в хуманната медицина, приет с Постановление № 300 на Министерския съвет от 2007 г. (ДВ, бр. 84 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88505)
+- [Постановление № 139 от 10 юни 2016 г. за изменение на Правилника за условията и реда за работа на Комисията по прозрачност по Закона за лекарствените продукти в хуманната медицина, приет с Постановление № 300 на Министерския съвет от 2007 г. (ДВ, бр. 45 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104730)
+
+Cited by:
+
+- [Постановление № 113 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

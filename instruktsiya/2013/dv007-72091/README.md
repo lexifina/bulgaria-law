@@ -34,6 +34,14 @@
 
 Act id: `instruktsiya-2013-dv007-72091` (tags `instruktsiya-2013-dv007-72091/<day>`; `python tools/on.py <day> instruktsiya-2013-dv007-72091`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № И-1 от 7 януари 2013 г. за условията, реда и организацията на взаимодействието между военната полиция и структурите на Министерството на вътрешните работи (ДВ, бр. 107 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239659)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,17 @@
 
 Act id: `naredba-2014-dv060-86642` (tags `naredba-2014-dv060-86642/<day>`; `python tools/on.py <day> naredba-2014-dv060-86642`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-311 от 2014 г. за реда за прекратяване на служебното правоотношение на държавните служители в Министерството на вътрешните работи (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94226)
+- [Наредба за изменение и допълнение на Наредба № 8121з-311 от 2014 г. за реда за прекратяване на служебното правоотношение на държавните служители в Министерството на вътрешните работи (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112213)
+- [Наредба за изменение и допълнение на Наредба № 8121з-311 от 2014 г. за реда за прекратяване на служебното правоотношение на държавните служители в Министерството на вътрешните работи (ДВ, бр. 93 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152972)
+- [Наредба за изменение и допълнение на Наредба № 8121з-311 от 17 юли 2014 г. за реда за прекратяване на служебното правоотношение на държавните служители в Министерството на вътрешните работи (ДВ, бр. 1 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182642)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

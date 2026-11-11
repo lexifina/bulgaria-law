@@ -55,6 +55,14 @@
 
 Act id: `postanovlenie-2015-dv097-99320` (tags `postanovlenie-2015-dv097-99320/<day>`; `python tools/on.py <day> postanovlenie-2015-dv097-99320`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 1 от 4 януари 2018 г. за изменение и допълнение на Наредбата за реда и начина за набирането, разходването, отчитането и контрола на средствата на Фонд "Сигурност на електроенергийната система", приета с Постановление № 346 на Министерския съвет от 2015 г. (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121434)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

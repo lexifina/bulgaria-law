@@ -13,6 +13,14 @@
 
 Act id: `naredba-2018-dv079-130142` (tags `naredba-2018-dv079-130142/<day>`; `python tools/on.py <day> naredba-2018-dv079-130142`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 7 от 31 декември 2020 г. за утвърждаване на медицински стандарт "Неврохирургия" (ДВ, бр. 6 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154971)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

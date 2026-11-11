@@ -34,6 +34,23 @@
 
 Act id: `naredba-2006-dv084-2711` (tags `naredba-2006-dv084-2711/<day>`; `python tools/on.py <day> naredba-2006-dv084-2711`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 109 от 2006 г. за официалния контрол върху фуражите (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6257)
+- [Наредба за изменение и допълнение на Наредба № 109 от 2006 г. за официалния контрол върху фуражите (ДВ, бр. 82 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8812)
+- [Наредба за изменение и допълнение на Наредба № 109 от 2006 г. за официалния контрол върху фуражите (ДВ, бр. 75 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37074)
+- [Наредба за изменение и допълнение на Наредба № 109 от 2006 г. за официалния контрол върху фуражите (ДВ, бр. 20 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62158)
+
+Cited by:
+
+- [Наредба № 1 от 11 март 2014 г. за изискванията за производството и/или търговията с медикаментозни фуражи и/или с междинни продукти за производството им (ДВ, бр. 26 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83436)
+- [Постановление № 59 от 23 март 2016 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 26 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102136)
+- [Постановление № 279 от 14 октомври 2020 г. за изменение и допълнение на Устройствения правилник на Българската агенция по безопасност на храните, приет с Постановление № 35 на Министерския съвет от 2011 г. (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152417)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,16 @@
 
 Act id: `naredba-2008-dv007-4703` (tags `naredba-2008-dv007-4703/<day>`; `python tools/on.py <day> naredba-2008-dv007-4703`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8 от 3 април 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Модернизиране на земеделските стопанства" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 41 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5110)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Модернизиране на земеделските стопанства" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 106 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12954)
+- [Наредба № 1 от 26 януари 2009 г. за условията и реда за предоставяне на финансова помощ по Национална програма за подпомагане на лозаро-винарския сектор 2008/2009 - 2013/2014 г. (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15458)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

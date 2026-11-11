@@ -35,6 +35,22 @@
 
 Act id: `pravilnik-2011-dv007-42635` (tags `pravilnik-2011-dv007-42635/<day>`; `python tools/on.py <day> pravilnik-2011-dv007-42635`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции (ДВ, бр. 103 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59698)
+- [Правилник за допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции (ДВ, бр. 29 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63256)
+- [Правилник за изменение и допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции (ДВ, бр. 58 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66803)
+- [Правилник за изменение и допълнение на Правилника за дейността, организацията на работа и състав на басейновите дирекции (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214842)
+
+Cited by:
+
+- [Устройствен правилник на Патентното ведомство (ДВ, бр. 21 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46259)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните инспекции по околната среда и водите (ДВ, бр. 54 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149079)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

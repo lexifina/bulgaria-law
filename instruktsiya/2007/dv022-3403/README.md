@@ -29,6 +29,15 @@
 
 Act id: `instruktsiya-2007-dv022-3403` (tags `instruktsiya-2007-dv022-3403/<day>`; `python tools/on.py <day> instruktsiya-2007-dv022-3403`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция за изменение и допълнение на Инструкция № Iз-333 от 2007 г. за издаване на удостоверителни документи за досъдебни производства в Министерството на вътрешните работи (ДВ, бр. 33 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3549)
+- [Инструкция № Із-1863 от 13 октомври 2009 г. за реда за издаване на удостоверителни документи за досъдебни производства в Министерството на вътрешните работи (ДВ, бр. 84 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26033)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

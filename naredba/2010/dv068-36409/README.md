@@ -14,6 +14,17 @@
 
 Act id: `naredba-2010-dv068-36409` (tags `naredba-2010-dv068-36409/<day>`; `python tools/on.py <day> naredba-2010-dv068-36409`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84033)
+- [Наредба № 12 от 30 декември 2015 г. за утвърждаване на медицински стандарт "Спешна медицина" (ДВ, бр. 4 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99948)
+- [Решение № 8552 от 11 юли 2016 г. по административно дело № 2383 от 2016 г. (ДВ, бр. 24 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112763)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

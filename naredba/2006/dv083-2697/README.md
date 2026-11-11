@@ -25,6 +25,24 @@
 
 Act id: `naredba-2006-dv083-2697` (tags `naredba-2006-dv083-2697/<day>`; `python tools/on.py <day> naredba-2006-dv083-2697`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67642)
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87152)
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 62 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106162)
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване и за възобновяване на осигуряването в универсален пенсионен фонд (ДВ, бр. 10 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121986)
+
+Cited by:
+
+- [Наредба № 47 от 11 юли 2012 г. за изискванията към информационните системи на пенсионноосигурителните дружества (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66703)
+- [Наредба № 61 от 27 септември 2018 г. за изискванията към рекламните и писмените информационни материали и страниците в интернет на пенсионноосигурителните дружества (ДВ, бр. 84 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130537)
+- [Наредба за изменение и допълнение на Наредба № 48 от 2013 г. за изискванията към възнагражденията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137550)
+- [Наредба за изменение и допълнение на Наредба № 3 от 24.09.2003 г. за реда и начина за промяна на участие и за прехвърляне на натрупаните средства на осигурено лице от един фонд за допълнително пенсионно осигуряване в друг съответен фонд, управляван от друго пенсионноосигурително дружество (ДВ, бр. 54 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159569)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

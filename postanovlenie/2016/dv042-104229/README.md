@@ -66,6 +66,20 @@
 
 Act id: `postanovlenie-2016-dv042-104229` (tags `postanovlenie-2016-dv042-104229/<day>`; `python tools/on.py <day> postanovlenie-2016-dv042-104229`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 7 от 15 януари 2021 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Военни клубове и военно-почивно дело", приет с Постановление № 132 на Министерския съвет от 2016 г. (ДВ, бр. 6 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155171)
+- [Постановление № 102 от 23 юни 2025 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Военни клубове и военно-почивно дело", приет с Постановление № 132 на Министерския съвет от 2016 г. Министерския съвет (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235665)
+
+Cited by:
+
+- [Постановление № 11 от 27 януари 2020 г. за изменение и допълнение на Устройствения правилник на Министерството на отбраната, приет с Постановление № 5 на Министерския съвет от 2014 г. (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145510)
+- [Постановление № 54 от 24 април 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243078)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

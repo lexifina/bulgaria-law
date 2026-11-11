@@ -15,6 +15,14 @@
 
 Act id: `naredba-2024-dv023-209845` (tags `naredba-2024-dv023-209845/<day>`; `python tools/on.py <day> naredba-2024-dv023-209845`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредбата за изменение на Наредба № 15 от 2019 г. за статута и професионалното развитие на учителите, директорите и другите педагогически специалисти (ДВ, бр. 67 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236729)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -23,6 +23,18 @@
 
 Act id: `postanovlenie-2004-dv093-18569` (tags `postanovlenie-2004-dv093-18569/<day>`; `python tools/on.py <day> postanovlenie-2004-dv093-18569`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 198 от 28 август 2007 г. за изменение на Тарифата за таксите за земеделско ползване на земи от държавния горски фонд, представляващи междуредия в новосъздадени горски култури и невъзобновени сечища, и за определяне на процента от продажната цена на дървесината от горите собственост на държавата, заплащан от държавните дивечовъдни станции за ползването є, приета с Постановление № 274 на Министерския съвет от 2004 г. (ДВ, бр. 71 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4104)
+
+Cited by:
+
+- [Постановление № 202 от 11 август 2008 г. за приемане на Тарифа за таксите, които се събират в системата на Държавната агенция по горите по Закона за горите (ДВ, бр. 73 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7917)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

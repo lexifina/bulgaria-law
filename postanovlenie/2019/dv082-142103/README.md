@@ -77,6 +77,19 @@
 
 Act id: `postanovlenie-2019-dv082-142103` (tags `postanovlenie-2019-dv082-142103/<day>`; `python tools/on.py <day> postanovlenie-2019-dv082-142103`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 329 от 26 ноември 2020 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154160)
+- [Постановление № 63 от 26 април 2022 г. за приемане на Устройствен правилник на Министерството на туризма (ДВ, бр. 34 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172469)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+- [Постановление № 120 от 8 юли 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235915)
+- [Постановление № 274 от 4 декември 2025 г. за приемане на Устройствен правилник на Държавен фонд "Земеделие" (ДВ, бр. 105 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239672)
+- [Наредба № 2 от 17 април 2026 г. за условията и реда за прилагане и наблюдение на държавните и минималните помощи в земеделието, развитието на селските райони, горското и ловното стопанство и рибарството (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242806)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

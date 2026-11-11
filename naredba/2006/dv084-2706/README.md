@@ -44,6 +44,14 @@
 
 Act id: `naredba-2006-dv084-2706` (tags `naredba-2006-dv084-2706/<day>`; `python tools/on.py <day> naredba-2006-dv084-2706`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Iз-1695 от 2006 г. за организацията, функциите и дейността на домовете за временно настаняване на пълнолетни лица (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43218)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

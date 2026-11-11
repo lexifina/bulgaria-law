@@ -111,6 +111,18 @@
 
 Act id: `pravilnik-2004-dv097-18459` (tags `pravilnik-2004-dv097-18459/<day>`; `python tools/on.py <day> pravilnik-2004-dv097-18459`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 61 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35325)
+- [Постановление № 200 от 13 юли 2011 г. за приемане на Наредба за ползването на повърхностните води (ДВ, бр. 56 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54712)
+- [Решение за приемане на Национална стратегия за управление и развитие на водния сектор в Република България (ДВ, бр. 96 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70717)
+- [Постановление № 7 от 13 януари 2017 г. за изменение и допълнение на Наредбата за придобиване и отнемане от сдруженията за напояване правото на ползване върху обектите от хидромелиоративната инфраструктура и обслужващата техника на територията на сдружението, приета с Постановление № 39 на Министерския съвет от 2002 г. (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111239)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 61 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10052)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

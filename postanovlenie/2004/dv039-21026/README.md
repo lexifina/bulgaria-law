@@ -25,6 +25,14 @@
 
 Act id: `postanovlenie-2004-dv039-21026` (tags `postanovlenie-2004-dv039-21026/<day>`; `python tools/on.py <day> postanovlenie-2004-dv039-21026`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 106 от 7 май 2013 г. за отменяне на Наредбата за изискванията за третиране и транспортиране на отпадъците от производството на титанов диоксид, приета с Постановление № 87 на Министерския съвет от 2004 г. (ДВ, бр. 43 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75752)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

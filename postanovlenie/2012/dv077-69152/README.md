@@ -26,6 +26,18 @@
 
 Act id: `postanovlenie-2012-dv077-69152` (tags `postanovlenie-2012-dv077-69152/<day>`; `python tools/on.py <day> postanovlenie-2012-dv077-69152`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 94 от 18 март 2021 г. за изменение и допълнение на Наредбата за правилата, начините, техническите способи и изискванията за измерване на отстояние по чл. 44 от Закона за хазарта, приета с Постановление № 241 на Министерския съвет от 2012 г. (ДВ, бр. 24 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156792)
+
+Cited by:
+
+- [Постановление № 20 от 29 януари 2021 г. за приемане на Наредба за общите изисквания към игралните зали, казината, централния пункт и пунктовете за приемане на залози по отношение на вида на помещенията или сградата, минималната изискуема площ, разпределението на помещенията и необходимото техническо оборудване за контрол (ДВ, бр. 9 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155630)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

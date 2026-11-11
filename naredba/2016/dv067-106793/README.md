@@ -19,6 +19,14 @@
 
 Act id: `naredba-2016-dv067-106793` (tags `naredba-2016-dv067-106793/<day>`; `python tools/on.py <day> naredba-2016-dv067-106793`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 12 август 2016 г. за условията и реда за утвърждаване на държавния план-прием за училищата по изкуствата и училищата по културата (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242528)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

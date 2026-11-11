@@ -39,6 +39,19 @@
 
 Act id: `postanovlenie-2006-dv106-3052` (tags `postanovlenie-2006-dv106-3052/<day>`; `python tools/on.py <day> postanovlenie-2006-dv106-3052`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 171 от 9 юли 2009 г. за изменение и допълнение на Правилника за структурата, организацията и дейността на Националния съвет за закрила на детето, приет с Постановление № 349 на Министерския съвет от 2006 г. (ДВ, бр. 56 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23424)
+- [Постановление № 192 от 7 юли 2011 г. за изменение и допълнение на Правилника за структурата, организацията и дейността на Националния съвет за закрила на детето, приет с Постановление № 349 на Министерския съвет от 2006 г. (ДВ, бр. 54 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54335)
+
+Cited by:
+
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

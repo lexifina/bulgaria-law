@@ -32,6 +32,19 @@
 
 Act id: `naredba-2011-dv023-46667` (tags `naredba-2011-dv023-46667/<day>`; `python tools/on.py <day> naredba-2011-dv023-46667`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2011 г. за условията, размерите и реда за изплащане на допълнителни възнаграждения за специфични условия при изпълнение на военната служба на военнослужещите и за специфични условия на труд на цивилните служители от служба "Военна информация" (ДВ, бр. 63 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55790)
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2011 г. за условията, размерите и реда за изплащане на допълнителни възнаграждения за специфични условия при изпълнение на военната служба на военнослужещите и за специфични условия на труд на цивилните служители от служба "Военна информация" (ДВ, бр. 79 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88135)
+
+Cited by:
+
+- [Наредба № Н-23 от 21 октомври 2016 г. за условията, размерите и реда за изплащане на допълнителни възнаграждения на военнослужещите и цивилните служители от служба "Военна информация" (ДВ, бр. 87 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108724)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

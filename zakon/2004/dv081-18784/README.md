@@ -85,6 +85,73 @@
 
 Act id: `zakon-2004-dv081-18784` (tags `zakon-2004-dv081-18784/<day>`; `python tools/on.py <day> zakon-2004-dv081-18784`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 18 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1471)
+- [Указ № 396 за връщане за ново обсъждане в Народното събрание Закона за изменение и допълнение на Закона за интеграция на хората с увреждания и мотивите към указа (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2606)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 97 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2897)
+- [Закон за допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 108 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4556)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 24 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30997)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 27 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83506)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 91 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119625)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128626)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 24 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9751)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 27 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14727)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 91 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77802)
+- [Закон за изменение и допълнение на Закона за интеграция на хората с увреждания (ДВ, бр. 60 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78144)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за далекосъобщенията (ДВ, бр. 88 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=994)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 94 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1068)
+- [Закон за изменение на Закона за физическото възпитание и спорта (ДВ, бр. 103 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1177)
+- [Закон за държавния бюджет на Република България за 2006 г. (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1224)
+- [Закон за изменение и допълнение на Закона за социално подпомагане (ДВ, бр. 18 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1472)
+- [Закон за изменение и допълнение на Закона за насърчаване на заетостта (ДВ, бр. 18 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1473)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за държавната финансова инспекция (ДВ, бр. 33 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1708)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 37 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1832)
+- [Закон за данък върху добавената стойност (ДВ, бр. 63 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2310)
+- [Закон за данъците върху доходите на физическите лица (ДВ, бр. 95 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2858)
+- [Закон за държавния бюджет на Република България за 2007 г. (ДВ, бр. 108 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3060)
+- [Закон за лекарствените продукти в хуманната медицина (ДВ, бр. 31 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3514)
+- [Закон за медицинските изделия (ДВ, бр. 46 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3791)
+- [Закон за изменение и допълнение на Закона за туризма (ДВ, бр. 28 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15119)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 41 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21369)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25033)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35521)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84831)
+- [Наредба за изменение и допълнение на Наредба № 34 от 1999 г. за таксиметров превоз на пътници (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87056)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97877)
+- [Закон за обществените поръчки (ДВ, бр. 13 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100862)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109996)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118838)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132871)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9770)
+- [Закон за изменение и допълнение на Закона за здравното осигуряване (ДВ, бр. 62 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10010)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 40 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14535)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15077)
+- [Закон за обществените поръчки (ДВ, бр. 13 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15520)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66460)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/71846)
+- [Закон за хората с увреждания (ДВ, бр. 105 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78250)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -67,6 +67,52 @@
 
 Act id: `zakon-2004-dv015-21600` (tags `zakon-2004-dv015-21600/<day>`; `python tools/on.py <day> zakon-2004-dv015-21600`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за частната охранителна дейност (ДВ, бр. 35 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32631)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 43 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51155)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 48 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104878)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 96 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246470)
+- [Закон за допълнение на Закона за частната охранителна дейност (ДВ, бр. 35 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9938)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 43 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10095)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 48 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42113)
+- [Закон за изменение и допълнение на Закона за частната охранителна дейност (ДВ, бр. 96 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167108)
+
+Cited by:
+
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за търговския регистър (ДВ, бр. 34 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1721)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2662)
+- [Наредба № 9 от 4 декември 2006 г. за придобиване на квалификация по професия "Охранител" (ДВ, бр. 13 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3261)
+- [Закон за Държавна агенция "Национална сигурност" (ДВ, бр. 109 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4576)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 69 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7316)
+- [Закон за изменение и допълнение на Закона за лечебните заведения (ДВ, бр. 59 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35363)
+- [Закон за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 73 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36759)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 44 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65184)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92194)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 63 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116448)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118838)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119626)
+- [Закон за частната охранителна дейност (ДВ, бр. 10 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121973)
+- [Неофициален раздел на "Държавен вестник", брой 61 от 13.07.2004 г. (ДВ, бр. 61 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135643)
+- [Закон за изменение и допълнение на Закона за лечебните заведения (ДВ, бр. 59 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9931)
+- [Закон за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 73 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9914)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 44 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13882)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15170)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 63 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66641)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/71846)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 92 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77808)
+- [Закон за частната охранителна дейност (ДВ, бр. 10 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77752)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

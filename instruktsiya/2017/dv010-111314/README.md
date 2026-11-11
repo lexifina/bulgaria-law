@@ -80,6 +80,14 @@
 
 Act id: `instruktsiya-2017-dv010-111314` (tags `instruktsiya-2017-dv010-111314/<day>`; `python tools/on.py <day> instruktsiya-2017-dv010-111314`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-91 от 13 януари 2017 г. за реда и организацията за осъществяване на превантивна дейност от полицейските органи на Министерството на вътрешните работи (ДВ, бр. 50 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=217920)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

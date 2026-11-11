@@ -20,6 +20,16 @@
 
 Act id: `postanovlenie-2009-dv057-23490` (tags `postanovlenie-2009-dv057-23490/<day>`; `python tools/on.py <day> postanovlenie-2009-dv057-23490`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 37 от 14 февруари 2011 г. за приемане на Тарифа за таксите, които се събират по Закона за лечебните заведения (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45199)
+- [Постановление № 375 от 30 дeкември 2011 г. за приемане на Тарифа за таксите, които се събират от Българската агенция по безопасност на храните (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60052)
+- [Постановление № 36 от 17 февруари 2017 г. за приемане на Наредба за условията и реда за издаване на европейска професионална карта (ДВ, бр. 18 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112104)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -51,6 +51,14 @@
 
 Act id: `postanovlenie-2016-dv089-108942` (tags `postanovlenie-2016-dv089-108942/<day>`; `python tools/on.py <day> postanovlenie-2016-dv089-108942`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 34 от 16 февруари 2017 г. за изменение и допълнение на Постановление № 288 на Министерския съвет от 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за социално подпомагане, приет с Постановление № 243 на Министерския съвет oт 1998 г. (ДВ, бр. 17 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112081)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

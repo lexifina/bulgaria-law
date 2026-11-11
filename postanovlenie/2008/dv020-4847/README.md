@@ -31,6 +31,16 @@
 
 Act id: `postanovlenie-2008-dv020-4847` (tags `postanovlenie-2008-dv020-4847/<day>`; `python tools/on.py <day> postanovlenie-2008-dv020-4847`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 280 от 17 ноември 2008 г. за изменение на Наредбата за условията и реда за участие на държавни служители от Държавна агенция "Национална сигурност" в операции и мисии извън територията на Република България, приета с Постановление № 25 на Министерския съвет от 2008 г. (ДВ, бр. 101 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=11865)
+- [Постановление № 299 от 23 ноември 2012 г. за изменение и допълнение на Наредбата за условията и реда за участие на държавни служители от Държавна агенция "Национална сигурност" в операции и мисии извън територията на Република България, приета с Постановление № 25 на Министерския съвет от 2008 г. (ДВ, бр. 94 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70789)
+- [Постановление № 44 от 7 март 2024 г. за изменение на Наредбата за условията и реда за участие на държавни служители от Държавна агенция "Национална сигурност" в операции и мисии извън територията на Република България, приета с Постановление № 25 на Министерския съвет от 2008 г. (ДВ, бр. 21 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209142)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

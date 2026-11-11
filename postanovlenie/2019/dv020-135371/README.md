@@ -16,6 +16,19 @@
 
 Act id: `postanovlenie-2019-dv020-135371` (tags `postanovlenie-2019-dv020-135371/<day>`; `python tools/on.py <day> postanovlenie-2019-dv020-135371`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 69 от 22 май 2025 г. за изменение на Тарифата за таксите, които се събират в системата на Министерството на икономиката и индустрията по Закона за държавните такси, приета с Постановление № 39 на Министерския съвет от 2019 г. (ДВ, бр. 42 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235027)
+
+Cited by:
+
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

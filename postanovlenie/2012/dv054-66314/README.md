@@ -87,6 +87,20 @@
 
 Act id: `postanovlenie-2012-dv054-66314` (tags `postanovlenie-2012-dv054-66314/<day>`; `python tools/on.py <day> postanovlenie-2012-dv054-66314`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 232 от 10 октомври 2013 г. за допълнение на Правилника за прилагане на Закона за резерва на въоръжените сили на Република България, приет с Постановление № 145 на Министерския съвет от 2012 г. (ДВ, бр. 90 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79550)
+- [Постановление № 145 от 19 юли 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за резерва на въоръжените сили на Република България, приет с Постановление № 145 на Министерския съвет от 2012 г. (ДВ, бр. 60 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116400)
+- [Постановление № 79 от 5 март 2021 г. за изменение и допълнение на Правилника за прилагане на Закона за резерва на въоръжените сили на Република България, приет с Постановление № 145 на Министерския съвет от 2012 г. (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156504)
+
+Cited by:
+
+- [Постановление № 287 от 20 август 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

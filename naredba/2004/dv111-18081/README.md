@@ -140,6 +140,15 @@
 
 Act id: `naredba-2004-dv111-18081` (tags `naredba-2004-dv111-18081/<day>`; `python tools/on.py <day> naredba-2004-dv111-18081`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 211 от 4 октомври 2005 г. за приемане на Наредба за работа с генетично модифицирани организми в контролирани условия (ДВ, бр. 81 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=922)
+- [Наредба № 20 от 10 февруари 2006 г. за изискванията към дейностите, извършвани на всички етапи от събирането до обезвреждането на странични животински продукти и на продукти, получени от тях, както и тяхната употреба, пускане на пазара и транзитно преминаване (ДВ, бр. 18 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1484)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

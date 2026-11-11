@@ -47,6 +47,20 @@
 
 Act id: `postanovlenie-2006-dv018-1476` (tags `postanovlenie-2006-dv018-1476/<day>`; `python tools/on.py <day> postanovlenie-2006-dv018-1476`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 115 от 28 април 2011 г. за изменение и допълнение на Наредбата за условията и реда за съхраняване и унищожаване на наркотични вещества, растения и прекурсори, както и за вземане на представителни проби от тях, приета с Постановление № 28 на Министерския съвет от 2006 г. (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49136)
+
+Cited by:
+
+- [Постановление № 316 от 4 декември 2006 г. за изменение и допълнение на Наредбата за условията и реда за извършване на експертно изследване на иззети наркотични вещества и прекурсори, приета с Постановление № 142 на Министерския съвет от 2000 г. (ДВ, бр. 100 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2938)
+- [Наредба № 1 от 18 април 2008 г. за контрол на прекурсорите на наркотични вещества (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5211)
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

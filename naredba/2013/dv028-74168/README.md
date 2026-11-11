@@ -39,6 +39,20 @@
 
 Act id: `naredba-2013-dv028-74168` (tags `naredba-2013-dv028-74168/<day>`; `python tools/on.py <day> naredba-2013-dv028-74168`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за здравословно хранене на децата на възраст от 0 до 3 години в детските заведения и детските кухни (ДВ, бр. 85 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229126)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за здравословно хранене на децата на възраст от 0 до 3 години в детските заведения и детските кухни (ДВ, бр. 104 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247365)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152390)
+- [Наредба № 2 от 20 януари 2021 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения, училищните столове и обектите за търговия на дребно на територията на училищата и на детските заведения, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 8 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155277)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

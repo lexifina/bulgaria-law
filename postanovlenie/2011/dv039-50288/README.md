@@ -96,6 +96,21 @@
 
 Act id: `postanovlenie-2011-dv039-50288` (tags `postanovlenie-2011-dv039-50288/<day>`; `python tools/on.py <day> postanovlenie-2011-dv039-50288`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 5 от 21 януари 2014 г. за приемане на Устройствен правилник на Министерството на отбраната (ДВ, бр. 8 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82087)
+
+Cited by:
+
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 120 от 25 юни 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65916)
+- [Постановление № 291 от 16 ноември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 92 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70600)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

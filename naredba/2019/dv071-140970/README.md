@@ -17,6 +17,14 @@
 
 Act id: `naredba-2019-dv071-140970` (tags `naredba-2019-dv071-140970/<day>`; `python tools/on.py <day> naredba-2019-dv071-140970`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 20 от 2019 г. за придобиване на квалификация по професията "Техник на електронна техника" (ДВ, бр. 16 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186303)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

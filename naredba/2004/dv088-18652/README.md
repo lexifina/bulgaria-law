@@ -52,6 +52,22 @@
 
 Act id: `naredba-2004-dv088-18652` (tags `naredba-2004-dv088-18652/<day>`; `python tools/on.py <day> naredba-2004-dv088-18652`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 31 от 2004 г. за максимално допустимите количества замърсители в храните (ДВ, бр. 51 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2103)
+
+Cited by:
+
+- [Наредба № 35 от 23 март 2006 г. за специфичните изисквания при осъществяване на официален контрол върху суровини и храни от животински произход (ДВ, бр. 35 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1742)
+- [Наредба за изменение и допълнение на Наредба № 35 от 2006 г. за специфичните изисквания при осъществяване на официален контрол върху суровини и храни от животински произход (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2620)
+- [Наредба № 104 от 22 август 2006 г. за контрол върху предлагането на пазара и употребата на продукти за растителна защита (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2660)
+- [Наредба № 5 от 9 февруари 2015 г. за определяне на максимално допустимите количества на някои замърсители в храните (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92018)
+- [Неофициален раздел на "Държавен вестник", брой 58 от 18.7.2006 г. (ДВ, бр. 58 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139089)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

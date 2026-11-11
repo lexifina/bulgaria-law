@@ -114,6 +114,19 @@
 
 Act id: `naredba-2014-dv093-89314` (tags `naredba-2014-dv093-89314/<day>`; `python tools/on.py <day> naredba-2014-dv093-89314`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 37 от 2014 г. за условията и реда за издаване на свидетелства на авиационните оператори и контрола върху тях (ДВ, бр. 6 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99882)
+
+Cited by:
+
+- [Наредба № 39 от 23 април 2015 г. за условията и реда за издаване на свидетелства за правоспособност на пилоти, свидетелства за организации за обучение, обучаващи пилоти и кабинен екипаж, и свидетелства за медицинска годност на авиационен персонал - пилоти и кабинен екипаж, в съответствие с изискванията на Регламент (ЕС) № 1178/2011 на Комисията от 3 ноември 2011 г. за определяне на технически изисквания и административни процедури във връзка с екипажите на въздухоплавателни средства в гражданското въздухоплаване в съответствие с Регламент (ЕО) № 216/2008 на Европейския парламент и на Съвета и контрола върху тях (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94123)
+- [Наредба № 37 от 19 октомври 2016 г. за авиационните оператори (ДВ, бр. 87 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108690)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

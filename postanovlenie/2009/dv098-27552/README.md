@@ -41,6 +41,22 @@
 
 Act id: `postanovlenie-2009-dv098-27552` (tags `postanovlenie-2009-dv098-27552/<day>`; `python tools/on.py <day> postanovlenie-2009-dv098-27552`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 60 от 6 април 2010 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Медицински инспекторат", приет с Постановление № 287 на Министерския съвет от 2009 г. (ДВ, бр. 28 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31821)
+
+Cited by:
+
+- [Постановление № 1 от 6 януари 2011 г. за структурни промени в системата на здравеопазването (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42895)
+- [Постановление № 52 от 2 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 20 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62361)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 195 от 28 август 2012 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 256 на Министерския съвет от 2009 г. (ДВ, бр. 68 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68071)
+- [Постановление № 53 от 11 март 2014 г. за приемане на Устройствен правилник на Изпълнителна агенция "Медицински одит" (ДВ, бр. 24 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83433)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

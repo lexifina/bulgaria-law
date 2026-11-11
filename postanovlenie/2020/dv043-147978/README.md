@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2020-dv043-147978` (tags `postanovlenie-2020-dv043-147978/<day>`; `python tools/on.py <day> postanovlenie-2020-dv043-147978`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 109 от 28 май 2020 г. за допълнение на Постановление № 91 на Министерския съвет от 2020 г. за реда и начина на проверка на документите, представяни от кандидатите за безвъзмездна финансова помощ и бенефициентите по Оперативна програма "Иновации и конкурентоспособност" 2014 - 2020, във връзка с изискванията на условията за кандидатстване и условията за изпълнение на проектите по чл. 26, ал. 1 от Закона за управление на средствата от европейските структурни и инвестиционни фондове (ДВ, бр. 50 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148684)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

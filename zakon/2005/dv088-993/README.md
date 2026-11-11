@@ -87,6 +87,35 @@
 
 Act id: `zakon-2005-dv088-993` (tags `zakon-2005-dv088-993/<day>`; `python tools/on.py <day> zakon-2005-dv088-993`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69470)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121757)
+- [Закон за държавния бюджет на Република България за 2019 г. (ДВ, бр. 103 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132563)
+- [Неофициален раздел на "Държавен вестник", брой 37 от 5.5.2006 г. (ДВ, бр. 37 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139068)
+- [Закон за изменение и допълнение на Закона за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и за преодоляване на последиците (ДВ, бр. 14 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155972)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14026)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77820)
+- [Закон за държавния бюджет на Република България за 2019 г. (ДВ, бр. 103 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78264)
+- [Закон за изменение и допълнение на Закона за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и за преодоляване на последиците (ДВ, бр. 14 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163500)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

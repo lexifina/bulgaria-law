@@ -15,6 +15,14 @@
 
 Act id: `naredba-2005-dv087-991` (tags `naredba-2005-dv087-991/<day>`; `python tools/on.py <day> naredba-2005-dv087-991`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 14 от 2005 г. за дейностите при изпълнение на кадрова военна служба във въоръжените сили, за които поради тяхното естество или условията, при които се осъществяват, полът е съществено и определящо професионално изискване по смисъла на чл. 7, ал. 1, т. 2 от Закона за защита срещу дискриминацията (ДВ, бр. 89 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39474)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

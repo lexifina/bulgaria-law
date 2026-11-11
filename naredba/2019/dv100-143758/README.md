@@ -46,6 +46,15 @@
 
 Act id: `naredba-2019-dv100-143758` (tags `naredba-2019-dv100-143758/<day>`; `python tools/on.py <day> naredba-2019-dv100-143758`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 420 от 31 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154886)
+- [Наредба за изменение на Наредба № Н-10 от 31.03.2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162330)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

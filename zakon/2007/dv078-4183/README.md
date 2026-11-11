@@ -123,6 +123,42 @@
 
 Act id: `zakon-2007-dv078-4183` (tags `zakon-2007-dv078-4183/<day>`; `python tools/on.py <day> zakon-2007-dv078-4183`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Указ № 183 за връщане за ново обсъждане в Народното събрание на Закона за изменение и допълнение на Закона за дипломатическата служба, приет от ХLI Народно събрание на 14 юли 2011 г., и мотивите към указа (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55535)
+- [Закон за изменение и допълнение на Закона за дипломатическата служба (ДВ, бр. 69 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56530)
+- [Закон за изменение и допълнение на Закона за дипломатическата служба (ДВ, бр. 69 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13574)
+
+Cited by:
+
+- [Постановление № 280 от 22 ноември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4486)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 100 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41853)
+- [Решение № 11 от 22 ноември 2011 г. по конституционно дело № 8 от 2011 г. (ДВ, бр. 95 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58941)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61525)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121757)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 30 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124667)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 100 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9964)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 15 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13770)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 7 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77820)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 30 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77966)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

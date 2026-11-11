@@ -55,6 +55,17 @@
 
 Act id: `instruktsiya-2015-dv093-98985` (tags `instruktsiya-2015-dv093-98985/<day>`; `python tools/on.py <day> instruktsiya-2015-dv093-98985`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1415 от 2015 г. за реда и организацията за осъществяване на дейността по охрана на обекти по чл. 14, ал. 2, т. 4 от Закона за Министерството на вътрешните работи (ДВ, бр. 36 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125819)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1415 от 2015 г. за реда и организацията за осъществяване на дейността по охрана на обекти по чл. 14, ал. 2, т. 4 от Закона за Министерството на вътрешните работи (ДВ, бр. 6 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133633)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1415 от 20.11.2015 г. за реда и организацията за осъществяване на дейността по охрана на обекти по чл. 14, ал. 2, т. 4 от Закона за Министерството на вътрешните работи (ДВ, бр. 23 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156702)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1415 от 20 ноември 2015 г. за реда и организацията за осъществяване на дейността по охрана на обекти по чл. 14, ал. 2, т. 4 от Закона за Министерството на вътрешните работи (ДВ, бр. 72 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225940)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

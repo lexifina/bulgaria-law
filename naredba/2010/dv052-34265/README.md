@@ -19,6 +19,14 @@
 
 Act id: `naredba-2010-dv052-34265` (tags `naredba-2010-dv052-34265/<day>`; `python tools/on.py <day> naredba-2010-dv052-34265`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 14 от 28 юни 2022 г. за придобиване на квалификация по професията "Корабоводител" (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174593)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

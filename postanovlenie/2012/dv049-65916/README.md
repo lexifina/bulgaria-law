@@ -35,6 +35,25 @@
 
 Act id: `postanovlenie-2012-dv049-65916` (tags `postanovlenie-2012-dv049-65916/<day>`; `python tools/on.py <day> postanovlenie-2012-dv049-65916`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 2 от 14 януари 2015 г. за изменение и допълнение на Постановление № 120 на Министерския съвет от 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91301)
+- [Постановление № 148 от 5 юли 2022 г. за изменение на Постановление № 120 на Министерския съвет от 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174672)
+
+Cited by:
+
+- [Постановление № 66 от 28 март 2016 г. за приемане на Правилник за прилагане на Закона за Държавна агенция "Разузнаване" (ДВ, бр. 27 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102285)
+- [Постановление № 344 от 21 декември 2018 г. за изпълнението на държавния бюджет на Република България за 2019 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133360)
+- [Постановление № 31 от 21 февруари 2019 г. за приемане на Наредба за дейностите и задачите по отбранително-мобилизационна подготовка и условията и реда за тяхното осъществяване (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135083)
+- [Постановление № 105 от 27 май 2020 г. за приемане на Наредба за планиране на граждански ресурси за отбрана (ДВ, бр. 49 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148481)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 167 от 12 юли 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на младежта и спорта за 2022 г. (ДВ, бр. 55 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174856)
+- [Постановление № 81 от 15 юли 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244839)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

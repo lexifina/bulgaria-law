@@ -87,6 +87,15 @@
 
 Act id: `naredba-2006-dv070-2432` (tags `naredba-2006-dv070-2432/<day>`; `python tools/on.py <day> naredba-2006-dv070-2432`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 24 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31375)
+- [Наредба № Н-3 от 7 ноември 2025 г. за реда и начините за прилагане на методите за определяне на пазарните цени (ДВ, бр. 96 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238785)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -83,6 +83,20 @@
 
 Act id: `naredba-2004-dv020-21464` (tags `naredba-2004-dv020-21464/<day>`; `python tools/on.py <day> naredba-2004-dv020-21464`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 21 от 15 декември 2005 г. за придобиване на квалификация по професия "Монтьор на селскостопанска техника" (ДВ, бр. 6 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1314)
+- [Наредба № 6 от 4 декември 2006 г. за придобиване на квалификация по професия "Механизатор на горска техника" (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3230)
+- [Наредба № 12 от 4 декември 2007 г. за придобиване на квалификация по професия "Растениевъд" (ДВ, бр. 17 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4812)
+- [Наредба № 14 от 4 декември 2007 г. за придобиване на квалификация по професия "Техник-лесовъд" (ДВ, бр. 19 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4824)
+- [Наредба № 15 от 7 април 2008 г. за реда за движение по пътищата, отворени за обществено ползване, на колесни трактори, тракторни ремаркета и друга самоходна техника, регистрирани съгласно Закона за регистрация и контрол на земеделската и горската техника (ДВ, бр. 40 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5103)
+- [Наредба № 4 от 4 декември 2008 г. за придобиване на квалификация по професия "Техник-озеленител" (ДВ, бр. 3 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13225)
+- [Наредба № 12 от 22 април 2009 г. за условията и реда за придобиване и отнемане на правоспособност за работа със земеделска и горска техника (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19886)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

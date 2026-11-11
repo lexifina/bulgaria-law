@@ -207,6 +207,45 @@
 
 Act id: `zakon-2009-dv023-17520` (tags `zakon-2009-dv023-17520/<day>`; `python tools/on.py <day> zakon-2009-dv023-17520`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42157)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 59 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106061)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145830)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 45 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174009)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236379)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10062)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 59 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42108)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 13 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157216)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 45 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164008)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165925)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 24 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17812)
+- [Закон за изменение и допълнение на Закона за пощенските услуги (ДВ, бр. 87 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26300)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 105 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59798)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 105 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59799)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96014)
+- [Кодекс за застраховането (ДВ, бр. 102 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99637)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109378)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120482)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123581)
+- [Закон за изменение и допълнение на Закона за пощенските услуги (ДВ, бр. 87 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9736)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 105 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13577)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 105 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13678)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 57 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15351)
+- [Кодекс за застраховането (ДВ, бр. 102 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15535)
+- [Закон за независимия финансов одит (ДВ, бр. 95 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42141)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77875)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77832)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

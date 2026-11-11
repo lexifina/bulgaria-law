@@ -49,6 +49,19 @@
 
 Act id: `naredba-2007-dv066-4068` (tags `naredba-2007-dv066-4068/<day>`; `python tools/on.py <day> naredba-2007-dv066-4068`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2007 г. за условията и реда за извършване на развъдна дейност, търговия и участие в конно-спортни състезания на регистрирани еднокопитни животни (ДВ, бр. 55 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66424)
+
+Cited by:
+
+- [Наредба № 20 от 23 юни 2010 г. за условията и реда за извършване на развъдна дейност и предлагане на пазара на чистопородни овце и кози за разплод (ДВ, бр. 51 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34293)
+- [Наредба за изменение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134933)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

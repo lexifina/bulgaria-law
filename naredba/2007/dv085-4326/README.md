@@ -43,6 +43,21 @@
 
 Act id: `naredba-2007-dv085-4326` (tags `naredba-2007-dv085-4326/<day>`; `python tools/on.py <day> naredba-2007-dv085-4326`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за сетълмент на държавни ценни книжа (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80295)
+- [Наредба за изменение и допълнение на Наредба № 31 от 4.10.2007 г. за сетълмент на държавни ценни книжа (ДВ, бр. 22 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171029)
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за сетълмент на държавни ценни книжа (ДВ, бр. 76 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199167)
+- [Наредба за изменение и допълнение на Наредба № 31 от 4 октомври 2007 г. за сетълмент на държавни ценни книжа (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239807)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2007 г. за реда и условията за придобиване, регистриране, изплащане и търговия с държавни ценни книжа (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80294)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

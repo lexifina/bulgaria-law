@@ -30,6 +30,19 @@
 
 Act id: `postanovlenie-2021-dv011-155764` (tags `postanovlenie-2021-dv011-155764/<day>`; `python tools/on.py <day> postanovlenie-2021-dv011-155764`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 51 от 17 февруари 2021 г. за изменение и допълнение на Постановление № 41 на Министерския съвет за приемане на план-сметка за разходите по подготовката и произвеждането на изборите за народни представители през 2021 г. (ДВ, бр. 16 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156114)
+- [Постановление № 108 от 25 март 2021 г. за изменение на Постановление № 41 на Министерския съвет от 2021 г. за приемане на план-сметка за разходите по подготовката и произвеждането на изборите за народни представители през 2021 г. (ДВ, бр. 26 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156930)
+
+Cited by:
+
+- [Постановление № 80 от 5 март 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156505)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

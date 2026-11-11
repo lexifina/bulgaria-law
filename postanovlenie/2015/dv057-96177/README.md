@@ -25,6 +25,16 @@
 
 Act id: `postanovlenie-2015-dv057-96177` (tags `postanovlenie-2015-dv057-96177/<day>`; `python tools/on.py <day> postanovlenie-2015-dv057-96177`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 117 от 11 май 2016 г. за допълнение на Постановление № 190 на Министерския съвет от 2015 г. за приемане на детайлни правила за допустимост на разходите по Фонд "Убежище, миграция и интеграция" и Фонд "Вътрешна сигурност" за периода от 2014 г. до 2020 г. (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103630)
+- [Постановление № 248 от 16 ноември 2018 г. за изменение и допълнение на Постановление № 190 на Министерския съвет от 2015 г. за приемане на детайлни правила за допустимост на разходите по Фонд "Убежище, миграция и интеграция" и Фонд "Вътрешна сигурност" за периода от 2014 г. до 2020 г. (ДВ, бр. 97 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132130)
+- [Постановление № 359 от 7 ноември 2022 г. за изменение и допълнение на Постановление № 190 на Министерския съвет от 2015 г. за приемане на детайлни правила за допустимост на разходите по Фонд "Убежище, миграция и интеграция" и Фонд "Вътрешна сигурност" за периода от 2014 г. до 2020 г. (ДВ, бр. 90 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179947)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

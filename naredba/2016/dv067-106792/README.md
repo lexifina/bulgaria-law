@@ -47,6 +47,20 @@
 
 Act id: `naredba-2016-dv067-106792` (tags `naredba-2016-dv067-106792/<day>`; `python tools/on.py <day> naredba-2016-dv067-106792`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118066)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 81 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130270)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 88 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142599)
+- [Наредба за изменение и допълнение на Наредба № 2 от 12.08.2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 16 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169518)
+- [Наредба за допълнение на Наредба № 2 от 12.08.2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 49 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174386)
+- [Наредба за изменение и допълнение на Наредба № 2 от 12.08.2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 92 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229689)
+- [Наредба за изменение и допълнение на Наредба № 2 от 12 август 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242529)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -24,6 +24,14 @@
 
 Act id: `naredba-2008-dv004-4680` (tags `naredba-2008-dv004-4680/<day>`; `python tools/on.py <day> naredba-2008-dv004-4680`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2007 г. за условията и реда за признаване на организации на производители на плодове и зеленчуци и на техните асоциации и за условията и реда за одобряване и изменение на одобрените оперативни програми (ДВ, бр. 43 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95072)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

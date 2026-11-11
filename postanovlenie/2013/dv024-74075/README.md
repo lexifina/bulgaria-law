@@ -42,6 +42,19 @@
 
 Act id: `postanovlenie-2013-dv024-74075` (tags `postanovlenie-2013-dv024-74075/<day>`; `python tools/on.py <day> postanovlenie-2013-dv024-74075`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 320 от 20 ноември 2015 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на електрическо и електронно оборудване във връзка с ограниченията за употреба на определени опасни вещества, приета с Постановление № 55 на Министерския съвет от 2013 г. (ДВ, бр. 92 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98944)
+- [Постановление № 77 от 12 април 2016 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на електрическо и електронно оборудване във връзка с ограниченията за употреба на определени опасни вещества, приета с Постановление № 55 на Министерския съвет от 2013 г. (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102746)
+
+Cited by:
+
+- [Постановление № 287 от 15 септември 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 79 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88134)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

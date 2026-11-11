@@ -26,6 +26,18 @@
 
 Act id: `naredba-2006-dv020-1517` (tags `naredba-2006-dv020-1517/<day>`; `python tools/on.py <day> naredba-2006-dv020-1517`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-16-130 от 2006 г. за реда за предоставяне на информация на потребителите и за означаване на цените при ремонт на битови уреди (ДВ, бр. 80 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2637)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № РД-16-1117 от 2010 г. за условията и реда за предоставяне на финансови средства на представителните сдружения на потребителите от държавата (ДВ, бр. 26 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93463)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

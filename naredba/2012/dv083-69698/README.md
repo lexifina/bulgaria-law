@@ -38,6 +38,14 @@
 
 Act id: `naredba-2012-dv083-69698` (tags `naredba-2012-dv083-69698/<day>`; `python tools/on.py <day> naredba-2012-dv083-69698`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 4 от 2012 г. за реда за получаване и заплащане на лекарствени продукти на военноинвалидите и военнопострадалите (ДВ, бр. 61 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106307)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

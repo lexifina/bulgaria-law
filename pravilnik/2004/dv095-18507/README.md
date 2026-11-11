@@ -28,6 +28,14 @@
 
 Act id: `pravilnik-2004-dv095-18507` (tags `pravilnik-2004-dv095-18507/<day>`; `python tools/on.py <day> pravilnik-2004-dv095-18507`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за отменяне на Правилника за организацията и дейността на регионалните съвети за развитие, Правилника за устройството и дейността на дирекциите за техническо съдействие, координация и управление на регионални програми и планове и Правилника за организацията и дейността на областните съвети за развитие (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132672)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

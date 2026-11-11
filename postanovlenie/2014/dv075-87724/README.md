@@ -53,6 +53,19 @@
 
 Act id: `postanovlenie-2014-dv075-87724` (tags `postanovlenie-2014-dv075-87724/<day>`; `python tools/on.py <day> postanovlenie-2014-dv075-87724`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 198 от 15 септември 2017 г. за приемане на Наредба за условията, реда и начина за изготвяне и верификация на докладите на доставчиците на горива и енергия за транспорта (ДВ, бр. 76 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117951)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148351)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за регулиране на цените на топлинната енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148352)
+- [Постановление № 78 от 17 май 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 44 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194729)
+- [Наредба за изменение и допълнение на Наредба № 1 от 14.03.2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214900)
+- [Постановление № 69 от 15 юни 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 56 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244164)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

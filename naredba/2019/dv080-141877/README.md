@@ -88,6 +88,18 @@
 
 Act id: `naredba-2019-dv080-141877` (tags `naredba-2019-dv080-141877/<day>`; `python tools/on.py <day> naredba-2019-dv080-141877`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 18 от 3 октомври 2019 г. за контрол върху качеството на банкнотите и монетите в наличнопаричното обращение (ДВ, бр. 91 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179886)
+
+Cited by:
+
+- [Наредба № 18 от 31 юли 2025 г. за контрол върху качеството на евробанкнотите и евромонетите в наличнопаричното обращение (ДВ, бр. 68 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236733)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

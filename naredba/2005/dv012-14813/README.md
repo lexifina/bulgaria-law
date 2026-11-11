@@ -44,6 +44,24 @@
 
 Act id: `naredba-2005-dv012-14813` (tags `naredba-2005-dv012-14813/<day>`; `python tools/on.py <day> naredba-2005-dv012-14813`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2005 г. за условията и реда за извършване на дезинфекции, дезинсекции и дератизации (ДВ, бр. 14 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44495)
+- [Наредба за отменяне на Наредба № 3 от 2005 г. за условията и реда за извършване на дезинфекции, дезинсекции и дератизации (ДВ, бр. 7 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121518)
+
+Cited by:
+
+- [Наредба № 17 от 30 юли 2008 г. за условията и реда за провеждане на диагностика, профилактика и контрол на внасяните паразитни болести (ДВ, бр. 71 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7583)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Постановление № 124 от 10 май 2011 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49895)
+- [Постановление № 255 от 17 октомври 2012 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 81 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69585)
+- [Постановление № 311 от 20 ноември 2020 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 100 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153925)
+- [Наредба за изменение и допълнение на Наредба № 17 от 2008 г. за условията и реда за провеждане на диагностика, профилактика и контрол на внасяните паразитни болести (ДВ, бр. 90 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229663)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

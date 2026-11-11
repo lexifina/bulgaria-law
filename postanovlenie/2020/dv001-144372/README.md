@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2020-dv001-144372` (tags `postanovlenie-2020-dv001-144372/<day>`; `python tools/on.py <day> postanovlenie-2020-dv001-144372`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 43 от 12 март 2020 г. за одобряване на допълнителни разходи от резерва по чл. 1, ал. 2, раздел ІІ, т. 5.1 от Закона за държавния бюджет на Република България за 2020 г. за непредвидени и/или неотложни разходи за предотвратяване, овладяване и преодоляване на последиците от бедствия по бюджета на Министерството на здравеопазването за 2020 г. (ДВ, бр. 22 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146924)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

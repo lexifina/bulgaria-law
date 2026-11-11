@@ -300,6 +300,15 @@
 
 Act id: `postanovlenie-2016-dv081-108151` (tags `postanovlenie-2016-dv081-108151/<day>`; `python tools/on.py <day> postanovlenie-2016-dv081-108151`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 352 от 14 декември 2016 г. за приемане на Наредба за ползването на повърхностните води (ДВ, бр. 100 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110348)
+- [Постановление № 12 от 28 януари 2020 г. за приемане на Наредба за условията и реда за осъществяване на техническата и безопасната експлоатация на язовирните стени и на съоръженията към тях и за осъществяване на контрол за техническото им състояние (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145555)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -56,6 +56,20 @@
 
 Act id: `postanovlenie-2009-dv099-27668` (tags `postanovlenie-2009-dv099-27668/<day>`; `python tools/on.py <day> postanovlenie-2009-dv099-27668`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 78 от 20 април 2012 г. за изменение и допълнение на Наредбата за плаването и граничния режим във вътрешните морски води, в териториалното море и във вътрешните водни пътища на Република България на български и чуждестранни яхти, лодки и други плавателни средства за спорт, туризъм и развлечение, както и извършване на водноатракционни услуги с тях, приета с Постановление № 293 на Министерския съвет от 2009 г. (ДВ, бр. 33 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63904)
+
+Cited by:
+
+- [Постановление № 365 от 21 декември 2016 г. за приемане на Наредба за детските и ученическите туристически пътувания с обща цена, инициирани от институциите в системата на предучилищното и училищното образование (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110581)
+- [Задължителни правила за българските пристанища на река Дунав (ДВ, бр. 40 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147633)
+- [Постановление № 82 от 3 април 2024 г. за приемане на Наредба за водноспасителната дейност и обезопасяването на водните площи и басейните за обществено ползване (ДВ, бр. 30 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212060)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

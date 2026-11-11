@@ -111,6 +111,23 @@ class Hold(Exception):
     pass
 
 
+class Skip(Exception):
+    """The page is not an act taken here (it is read from another source)."""
+
+
+# 2026-11-11 (deep completion): extended reading rules, applied only to an act the established rules hold back (see
+# dv_publish). Each is named; EXT holds those in force for the current read. GITLAW_BG_EXT_RULES (comma list, or
+# "none") narrows them for testing one rule at a time.
+EXT: set[str] = set()
+EXT_RULES: set[str] = set()
+ALL_EXT_RULES: set[str] = set()  # each rule adds its name where it is defined
+
+
+def retryable(reason: str) -> bool:
+    return not reason.startswith(("rejected", "header_mismatch", "gazette_conflict", "page_truncated",
+                                  "contested_constcourt", "law_on_record_without_text", "dated_after_gazette"))
+
+
 def split(lines: list[tuple[str, int]], title: str) -> dict:
     # The law begins at its title (after the President's decree), and ends at its adoption formula.
     start = None
@@ -213,7 +230,25 @@ def parse_day(s: str) -> str | None:
     m = re.search(r"\b(\d{1,2})\.(\d{1,2})\.(\d{4})\s*г", s)
     if m:
         return date(int(m.group(3)), int(m.group(2)), int(m.group(1))).isoformat()
+    if "date_forms" in EXT:
+        # Rule "date_forms" (2026-11-11): a day in figures without "г." ("от 31.03.2006"), a month in Roman figures
+        # ("от 1.I.2005 г.", "23.Х.2003 г." with a Cyrillic Х), a month name glued to the day ("от1 юли 2011 г.").
+        m = re.fullmatch(r"\s*(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{4})\s*(?:г\.?|година)?\s*", s)
+        if m:
+            try:
+                return date(int(m.group(3)), int(m.group(2)), int(m.group(1))).isoformat()
+            except ValueError:
+                return None
+        m = re.search(r"\b(\d{1,2})\s*\.\s*([IVXХ]{1,4})\s*\.\s*(\d{4})\s*г", s)
+        if m and m.group(2).replace("Х", "X") in ROMAN_MONTHS:
+            try:
+                return date(int(m.group(3)), ROMAN_MONTHS[m.group(2).replace("Х", "X")], int(m.group(1))).isoformat()
+            except ValueError:
+                return None
     return None
+
+
+ROMAN_MONTHS = {r: i for i, r in enumerate(["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"], 1)}
 
 
 def in_force(units: dict, gazette_day: str) -> tuple[str, str]:
@@ -516,7 +551,19 @@ def dv_clean(lines: list[tuple[str, int]], content: str) -> tuple[list[tuple[str
                 raise Hold("material_in_pdf")
             notes.append(t)
             continue
+        if "ednote_forms" in EXT and EDNOTE_EXT.match(t):
+            # Rule "ednote_forms" (2026-11-11): the Gazette's short note "ВИЖ приложението" (no "PDF" in it), on a
+            # line of its own, points to the issue's PDF like the longer note.
+            notes.append(t)
+            continue
         out.append((t, d))
+    if out and not re.fullmatch(r"\d{1,6}", out[-1][0]) and "no_material_number" in EXT:
+        # Rule "no_material_number" (2026-11-11): the Gazette's pages of 2003 (and some later ones) print no material
+        # number after the act. Such a page is read when it is whole (it ends in </html>, checked by dv_page) and its
+        # last line does not break off mid-provision (ending in ':' or ',' or '-', as "§ 8. Създава се глава четвърта:").
+        if re.search(r"[:,\-–]\s*$", out[-1][0]):
+            raise Hold("no_material_number:ends_mid_provision")
+        return out, notes
     if not out or not re.fullmatch(r"\d{1,6}", out[-1][0]):
         raise Hold("no_material_number")
     # The number is printed in its own paragraph after the act; inside a table of the act it would be a table cell.
@@ -527,6 +574,19 @@ def dv_clean(lines: list[tuple[str, int]], content: str) -> tuple[list[tuple[str
 
 
 ENDS_CLOSED = re.compile(r"[“”][\s.;,:)]*$")
+QUOTE_SPAN_START = re.compile(r"^\s*„|:\s*„")
+ALL_EXT_RULES.update({"quote_ascii_close", "no_material_number", "date_forms", "in_force_forms", "issuer_line",
+                      "annex_glued", "law_record_issue", "quote_span_start", "ednote_forms", "title_brackets"})
+EDNOTE_EXT = re.compile(r"^\(?\s*(?:ВИЖ|Виж|виж)\s+(?:приложени(?:ето|ята)|ПРИЛОЖЕНИ(?:ЕТО|ЯТА))\s*\)?\.?$")
+# Rule "issuer_line" (2026-11-11): the issuing body's name above the title, printed in mixed case ("Министерство НА
+# ФИНАНСИТЕ", "Национална служба за охрана при Президента на Република България"): a short line naming a public body,
+# with no figures, that does not end a sentence.
+ISSUER_LINE_EXT = re.compile(r"^(?:Министерски|Министерство|Министерството|Агенция|Държавн[аи]|Държавен|Национал(?:на|ен|ния|ната)|"
+                             r"Комисия|Комисията|Българска|Български|Българската|Сметна|Висш|Изпълнителна|Служба|Фонд|Съвет|"
+                             r"Институт|Народно|Президент|Главна|Централна|Регионална|Омбудсман|Енергиен|Управление)"
+                             r"[^\d.:;]{0,190}$")
+# Rule "annex_glued" (2026-11-11): an annex heading whose first word is glued to the next ("Приложениекъм чл. 2").
+ANNEX_GLUED = re.compile(r"^(?:Приложение|ПРИЛОЖЕНИЕ)(?:към|по|№)(?!.*\b(?:се|думите|изменя|отменя|създава|допълва)\b).{0,160}(?<!:)$")
 
 
 def dv_lines(fragment: str) -> list[tuple[str, int]]:
@@ -537,17 +597,47 @@ def dv_lines(fragment: str) -> list[tuple[str, int]]:
     fragment = re.sub(r"<!--.*?-->", "", fragment, flags=re.S)
     fragment = re.sub(r"<(style|script|xml)\b.*?</\1>", "", fragment, flags=re.S | re.I)
     out, inside = [], False
-    for chunk in BLOCK.split(fragment):
-        t = html.unescape(re.sub(r"<[^>]+>", "", chunk))
+    chunks = [html.unescape(re.sub(r"<[^>]+>", "", c)) for c in BLOCK.split(fragment)]
+    # Rule "quote_ascii_close" (2026-11-11): some pages (most of 2003, some later) open a quotation with „ and close it
+    # with a plain " (no “ or ” on the page at all). There a " closes the innermost open „; a " with no „ open is a
+    # plain quotation mark of its own ("Държавен вестник") and counts as neither. Only the counting changes: the text
+    # is kept as printed.
+    # Pages that mix the marks (a quotation opened with „ and closed with " next to others closed with “) are read the
+    # same way: any " closes the innermost „ still open.
+    ascii_close = None
+    if "quote_ascii_close" in EXT:
+        whole = "".join(chunks)
+        if OPEN_Q in whole and '"' in whole:
+            ascii_close, open_n = [], 0
+            for t in chunks:
+                k = 0
+                for ch in t:
+                    if ch == OPEN_Q:
+                        open_n += 1
+                    elif ch == '"' and open_n:
+                        open_n -= 1
+                        k += 1
+                    elif ch in CLOSE_Q:
+                        open_n = max(0, open_n - 1)
+                        k += 1
+                ascii_close.append(k)
+    for ci, t in enumerate(chunks):
         n = norm(t)
         if not n or re.fullmatch(r"[.\s]+", n):
             continue
         out.append((n, 1 if inside else 0))
         opens, closes = t.count(OPEN_Q), sum(t.count(c) for c in CLOSE_Q)
+        if ascii_close is not None:
+            closes = ascii_close[ci]
         if inside:
             inside = not (closes > opens)
         else:
             inside = opens > closes and not ENDS_CLOSED.search(t.strip())
+            if inside and "quote_span_start" in EXT and not QUOTE_SPAN_START.search(t):
+                # Rule "quote_span_start" (2026-11-11): a quotation runs on over the next lines only when it opens
+                # the line or follows a colon ('Създава се ал. 4: „(4) ...'); an unmatched „ in mid-sentence is a
+                # name sharing its closing mark with the name around it („Сектор „Държавно управление“).
+                inside = False
     return out
 
 
@@ -662,6 +752,13 @@ def title_block(L: list[tuple[str, int]], i: int) -> int:
         if re.match(r"^(?:\d{0,2}[а-я]|\(|№|ОТ\s+\d)", t):
             j += 1
             continue
+        # Rule "title_brackets" (2026-11-11): the cited act's Gazette issues in brackets run on to the next line
+        # ('(обн., ДВ, бр. 21 от 2000 г.; ... бр. 13 от' / '2003 г. и бр. 25 от 2004 г.)').
+        if "title_brackets" in EXT:
+            so_far = " ".join(x for x, _ in L[i:j])
+            if so_far.count("(") > so_far.count(")") and ")" in t:
+                j += 1
+                continue
         break
     return j
 
@@ -677,7 +774,8 @@ def segment_end(L: list[tuple[str, int]], i: int) -> int:
             if seen and ((SIG.match(t) and not t.rstrip().endswith(":")) or STAMP.match(t)):
                 raise Hold("unbalanced_quotes")
             continue
-        if seen and (SIG.match(t) or STAMP.match(t) or ANNEX_HEAD.match(t)):
+        if seen and (SIG.match(t) or STAMP.match(t) or ANNEX_HEAD.match(t)
+                     or ("annex_glued" in EXT and ANNEX_GLUED.match(t))):
             return k
         if is_provision(t):
             seen = True
@@ -690,7 +788,8 @@ def dv_split(L: list[tuple[str, int]], kind: str) -> tuple[dict, str, list[str]]
     """(units, title text, kinds of adopted texts) of a regulation or decree page; a decree's adopted text follows its
     signatures."""
     s = 0
-    while s < min(3, len(L)) and not DV_TITLE_LINE[kind].match(L[s][0]) and ISSUER_LINE.match(L[s][0]) and L[s][1] == 0:
+    while s < min(3, len(L)) and not DV_TITLE_LINE[kind].match(L[s][0]) and L[s][1] == 0 and (
+            ISSUER_LINE.match(L[s][0]) or ("issuer_line" in EXT and ISSUER_LINE_EXT.match(L[s][0]))):
         s += 1
     if s >= len(L) or not DV_TITLE_LINE[kind].match(L[s][0]):
         raise Hold("no_title_line" if not any(DV_TITLE_LINE[kind].match(t) for t, _ in L[:6]) else "text_before_title")
@@ -724,7 +823,8 @@ def dv_split(L: list[tuple[str, int]], kind: str) -> tuple[dict, str, list[str]]
             continue
         break
     if k < len(L):
-        if not re.match(r"^(?:Приложени[ея]|ПРИЛОЖЕНИ[ЕЯ])\b", L[k][0]):
+        if not re.match(r"^(?:Приложени[ея]|ПРИЛОЖЕНИ[ЕЯ])\b", L[k][0]) and not (
+                "annex_glued" in EXT and ANNEX_GLUED.match(L[k][0])):
             raise Hold("text_after_end:" + L[k][0][:80])
         annex = L[k:]
         # Some acts are signed after their annexes: the signatures at the end are not part of the annex.
@@ -771,6 +871,56 @@ def dv_resolve(c: str, gday: str, own_day: str | None) -> tuple[str, str]:
         d = parse_day(m.group(1))
         if d:
             return d, "date" + tag
+    if "date_forms" in EXT:
+        m = re.match(r"(?:считано\s+)?(?:от|на)\s*(\d{1,2}\s*\.\s*(?:\d{1,2}|[IVXХ]{1,4})\s*\.\s*\d{4}|\d{1,2}\s*\.?\s*[а-я]+\s+\d{4})"
+                     r"\s*(?:г\b|година\b|$)", c)
+        if m:
+            d = parse_day(m.group(1) + " г") or parse_day(m.group(1))
+            if d:
+                return d, "date" + tag
+    if "in_force_forms" in EXT:
+        # Rule "in_force_forms" (2026-11-11): more ways the Gazette names the day an act takes effect.
+        g = date.fromisoformat(gday)
+        c2 = re.sub(r"^считано\s+", "", c)
+        # "от датата на обнародване в ДВ", "от деня на обнародване" (without the article): the Gazette day.
+        if re.match(r"(?:от|в)\s+(?:деня|датата)\s+на\s+(?:обнародване|обнародването|публикуването|публикуване)"
+                    r"(?:\s+(?:му|ѝ|й|им))?(?:\s+в\s+\"?Държавен\s+вестник\"?)?\s*(?:,|$)", c2):
+            return gday, "publication" + tag
+        # "от първо число на месеца, следващ месеца на обнародването" / "от 10-о число на месеца, следващ ...".
+        m = re.match(r"от\s+(?:(първо)|(\d{1,2})\s*-?\s*(?:о|во|ро|то|мо|ти|ри))\s+число\s+на\s+месеца,?\s+следващ\s+"
+                     r"месеца\s+на\s+(?:обнародването|обнародване)", c2)
+        if m:
+            y, mo = divmod(g.month, 12)
+            try:
+                return date(g.year + y, mo + 1, 1 if m.group(1) else int(m.group(2))).isoformat(), "next_month" + tag
+            except ValueError:
+                raise Hold("in_force_month_end:" + c[:80])
+        # "N дни / един месец / три месеца / една година след (датата на|деня на) обнародването", or "... от датата на".
+        words = dict(NUMBER_WORDS, **{"една": 1, "две": 2, "шестнадесет": 16})
+        m = re.match(r"(\d{1,3}|" + "|".join(words) + r")\s+(дни|дена|месеца?|години|година)\s+(?:след|от)\s+"
+                     r"(?:(?:деня|датата)\s+на\s+)?(?:обнародването|обнародване)\b", c2)
+        if m:
+            n = int(m.group(1)) if m.group(1).isdigit() else words[m.group(1)]
+            if m.group(2).startswith("д"):
+                return (g + timedelta(days=n)).isoformat(), "days_after_publication" + tag
+            months = n * 12 if m.group(2).startswith("год") else n
+            y, mo = divmod(g.month - 1 + months, 12)
+            try:
+                return date(g.year + y, mo + 1, g.day).isoformat(), "months_after_publication" + tag
+            except ValueError:
+                raise Hold("in_force_month_end:" + c[:80])
+        # Days fixed by an official act everyone can check: the EU Accession Treaty of Bulgaria entered into force on
+        # 1 January 2007 (Treaty of Accession, Art. 4(2)); the euro became Bulgaria's currency on 1 January 2026
+        # (Council Decision (EU) 2025/1407 of 8 July 2025). Read only for an act published before that day.
+        if re.match(r"(?:от|на)\s+(?:деня|датата)\s+на\s+(?:влизане(?:то)?\s+в\s+сила\s+на\s+Договора\s+за\s+присъединяване|"
+                    r"присъединяването)\s+на\s+Република\s+България\s+към\s+Европейския\s+съюз", c2) and gday < "2007-01-01":
+            return "2007-01-01", "eu_accession" + tag
+        if (re.match(r"от\s+датата\s+на\s+въвеждане\s+на\s+еврото\s+(?:в|като\s+официална\s+парична\s+единица\s+в)\s+"
+                     r"Република\s+България", c2)
+                or re.match(r"от\s+датата,?\s+определена\s+(?:в|с)\s+Решение\s+(?:\(ЕС\)\s+2025/1407\s+на\s+Съвета|на\s+Съвета\s+на\s+"
+                            r"Европейския\s+съюз)[^,]{0,40}?\s+(?:относно\s+)?(?:за\s+)?приемането\s+на\s+еврото\s+от\s+"
+                            r"(?:Република\s+)?България", c2)) and gday < "2026-01-01":
+            return "2026-01-01", "euro_adoption" + tag
     raise Hold("in_force_unreadable:" + c[:120])
 
 
@@ -791,7 +941,9 @@ def dv_in_force(top: list[str], gday: str, own_day: str | None, normative: bool)
     for t in top:
         m = CLAUSE_SUBJ.match(t[PROVISION_MARK.match(t).end():])
         if m:
-            found.add(dv_resolve(re.match(r"(?:\d\.(?=\d)|[^.])*", m.group(1)).group(0), gday, own_day))
+            cut = (r"(?:\d\s*\.\s*(?=[\dIVXХ])|(?<![А-Яа-я])[IVXХ]{1,4}\.(?=\s*\d)|[^.])*" if "date_forms" in EXT
+                   else r"(?:\d\.(?=\d)|[^.])*")
+            found.add(dv_resolve(re.match(cut, m.group(1)).group(0), gday, own_day))
         elif re.search(r"\bвлиза(?:т)?\s+в\s+сила\s+(?:от|на)\s", t) and not t.startswith('"'):
             partial = True
     if not found:
@@ -910,6 +1062,8 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
         law_records[y].append((bool(r.get("final_len")), lt))
     st = (src / "acts.jsonl").stat()
     records_sig = f"{st.st_size}:{st.st_mtime_ns}"
+    na_issues = {(int(r["L_Act_dv_iss"]), int(r["L_Act_dv_year"])) for r in acts.values()
+                 if str(r.get("L_Act_T_id")) == "1" and str(r.get("L_Act_dv_iss") or "").isdigit() and r.get("L_Act_dv_year")}
 
     def law_on_record(title: str, year: int) -> tuple[float, bool]:
         """(similarity, has text) of the National Assembly record whose title best matches this law's, of the same
@@ -933,6 +1087,7 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
 
     parts: dict[tuple[str, int], dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds, skipped = [], defaultdict(int)
+    released, ext_released = defaultdict(int), []  # acts only the extended rules read, by their first hold reason
     for mid in sorted(pages):
         m, pg = pages[mid]
         if not pg:
@@ -954,89 +1109,134 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
             continue
         raw, t = full(m)
         iss, year, gday, section, title, content = dv_page(t)
-        try:
-            if f"dv:{mid}" in rejects:
-                raise Hold("rejected:" + str(rejects[f"dv:{mid}"])[:200])
-            if (iss, year) != (m["issue"], m["year"]) or gday != m["date"]:
-                raise Hold("header_mismatch")
-            if len(dv_days.get((iss, year), ())) > 1:
-                raise Hold("gazette_conflict")
-            if content is None:
-                raise Hold("page_truncated")
-            d = act_desc(title, kind)
-            # An act already published keeps its part: the hold rules on later texts and amended targets, which apply
-            # to acts not yet published, are not applied to it again (a later version is appended, never a removal).
-            known = any(f"{k}-{year}-dv{iss:03d}-{mid}" in on_main for k in (kind, "kodeks"))
-            if kind in ("zakon", "kodeks"):
-                score, has_text = law_on_record(title, year)
-                if score >= 0.85 and has_text:
-                    skipped["law_on_national_assembly_record"] += 1
-                    continue
-                if score >= 0.85 and year >= 2009:
-                    raise Hold("law_on_record_without_text")
-                if 0.6 <= score < 0.85:
-                    raise Hold(f"law_maybe_on_record:{score:.2f}")
-            # A later text held here cites it by name and Gazette issue.
-            later = {who for kb, num, yr, subj, who in dv_cited.get((iss, year), [])
-                     if who != f"dv:{mid}" and desc_matches(d, kb, num, yr, subj, strict=False)}
-            if kind in ("zakon", "kodeks"):
-                for csubj, who in cited_by.get((iss, year), {}).items():
-                    if any(csubj.startswith(s[:40]) or s.startswith(csubj[:40]) for s in d["subjects"]):
-                        later |= who - {f"dv:{mid}"}
-            # 2026-11-09 (Romania standard): cited or named later -> published as enacted with a label, not held.
-            named = {who for k in d["kinds"] for kb, num, yr, subj, when, who in amended.get(k, ())
-                     if who != f"dv:{mid}" and when > (year, iss) and desc_matches(d, kb, num, yr, subj, strict=True)}
-            if kind in ("zakon", "kodeks"):
-                for s in d["subjects"]:
-                    named |= {f"na:{x}" for x in titles_named.get(s, ())}
-            marks = {"amended_by": sorted(named), "cited_by": sorted(later - named)}
-            if kind in ("zakon", "kodeks") and title_key(title) in contested:
-                raise Hold("contested_constcourt")
-            m_day = re.match(TITLE_PREFIX + r"\s+от\s+(\d{1,2}\s+\S+\s+\d{4})\s*г", title)
-            own_day = parse_day(m_day.group(1)) if m_day else None
-            if own_day and own_day > gday:
-                raise Hold(f"dated_after_gazette:{own_day}")
-            L, notes = dv_clean(dv_lines(content), content)
-            if kind in ("zakon", "kodeks"):
-                mdec = DECREE_DAY.search(norm(re.sub(r"<[^>]+>", " ", content))[:3000])
-                dday = parse_day(mdec.group(1) + " г") if mdec else None
-                if not dday:
-                    raise Hold("decree_day_unreadable")
-                if not (dday <= gday <= (date.fromisoformat(dday) + timedelta(days=20)).isoformat()):
-                    raise Hold(f"gazette_day_inconsistent:{gday} vs decree {dday}")
-                units = split(L, title)
-                check_numbering(list(units))
-                madopt = next((x for x, _ in L if ADOPTED.match(x)), "")
-                own_day = parse_day(madopt) if madopt else None
-                start = next((i for i, (x, _) in enumerate(L) if x == x.upper()
-                              and x.upper().startswith(("ЗАКОН", "КОДЕКС", "ИЗБОРЕН КОДЕКС"))), None)
-                if start is None:  # 2026-11-09: older live pages without a capitalised title line
-                    raise Hold("no_title_line")
-                stop = next((i for i in range(start, len(L)) if is_provision(L[i][0]) or HEADINGS.match(L[i][0])), len(L))
-                title_text = " ".join(x for x, _ in L[start:min(stop, start + 6)])
-                normative = True
-            else:
-                units, title_text, adopted, top = dv_split(L, kind)
-                normative = kind in DV_NORMATIVE or any(x in ADOPTED_BASE for x in adopted) or bool(re.search(
-                    r"за\s+(?:изменение|допълнение|отменяне|отмяна)\S*(?:\s+и\s+\S+)?\s+на\s+(?:Наредба|Правилник|"
-                    r"Устройствени?я?\s+правилник|Тарифа|Инструкция|нормативни)", title))
-            # An amending or repealing act is published only when its target's text is held here.
-            m_rest = re.match(TITLE_PREFIX + r"(?:\s+от\s+\d{1,2}\s+\S+\s+\d{4}\s*г\.)?\s*(.*)$", title)
-            if AMENDING_TITLE.match(m_rest.group(1) if m_rest else ""):
-                targets = {tuple(x) for x in dv_citations(title_text + " " + title)}
-                if re.search(r"нормативни\s+актове", title):
-                    for k, u in units.items():
-                        if re.search(r"(?:^|-)(?:par|art)-\d", k) and "\n" in u["text"]:
-                            targets |= {tuple(x) for x in dv_citations(u["text"].split("\n")[1])}
-                # 2026-11-09 (Romania standard): an amending act is an act of its own, published as enacted whether or
-                # not its target's text is held here (its target is named in its title).
-            if kind in ("zakon", "kodeks"):
-                day, how = in_force(units, gday)
-            else:
-                day, how = dv_in_force(top, gday, own_day, normative)
-        except Hold as h:
-            holds.append({"id": mid, "kind": kind, "dv": f"{iss}/{year}", "title": title[:160], "reason": str(h)})
+        # 2026-11-11 (deep completion): an act the established reader holds back is read a second time with the
+        # extended rules (EXT_RULES); an act the established reader publishes is read exactly as before, so nothing
+        # already published can read differently.
+        held, first_reason = None, ""
+        for attempt in (0, 1):
+          EXT.clear()
+          if attempt:
+              EXT.update(EXT_RULES)
+          held = None
+          try:
+              if f"dv:{mid}" in rejects:
+                  raise Hold("rejected:" + str(rejects[f"dv:{mid}"])[:200])
+              if (iss, year) != (m["issue"], m["year"]) or gday != m["date"]:
+                  raise Hold("header_mismatch")
+              if len(dv_days.get((iss, year), ())) > 1:
+                  raise Hold("gazette_conflict")
+              if content is None:
+                  raise Hold("page_truncated")
+              d = act_desc(title, kind)
+              # An act already published keeps its part: the hold rules on later texts and amended targets, which apply
+              # to acts not yet published, are not applied to it again (a later version is appended, never a removal).
+              known = any(f"{k}-{year}-dv{iss:03d}-{mid}" in on_main for k in (kind, "kodeks"))
+              if kind in ("zakon", "kodeks"):
+                  score, has_text = law_on_record(title, year)
+                  # 2026-11-11: a law is left to the National Assembly's record only when a record of a law exists for
+                  # this very Gazette issue; a title match with a record of another issue (many amending laws share a
+                  # title) left 40 laws neither published nor held. From 2009 the record holds every law, so such a law
+                  # is held until its record names the issue; before 2009 it is read from the Gazette page (rule
+                  # "law_record_issue").
+                  if score >= 0.85 and has_text and (iss, year) in na_issues:
+                      skipped["law_on_national_assembly_record"] += 1
+                      raise Skip()
+                  if score >= 0.85 and has_text and (year >= 2009 or "law_record_issue" not in EXT):
+                      raise Hold("law_on_record_other_issue")
+                  if score >= 0.85 and year >= 2009:
+                      raise Hold("law_on_record_without_text")
+                  # Rule "law_record_issue" (2026-11-11): a partial title match counts only when the National
+                  # Assembly's record has a law in this very issue; before 2009, with no record of this issue, the
+                  # law is read from the Gazette page.
+                  if 0.6 <= score < 0.85 and not ("law_record_issue" in EXT and year < 2009
+                                                  and (iss, year) not in na_issues):
+                      raise Hold(f"law_maybe_on_record:{score:.2f}")
+              # A later text held here cites it by name and Gazette issue.
+              later = {who for kb, num, yr, subj, who in dv_cited.get((iss, year), [])
+                       if who != f"dv:{mid}" and desc_matches(d, kb, num, yr, subj, strict=False)}
+              if kind in ("zakon", "kodeks"):
+                  for csubj, who in cited_by.get((iss, year), {}).items():
+                      if any(csubj.startswith(s[:40]) or s.startswith(csubj[:40]) for s in d["subjects"]):
+                          later |= who - {f"dv:{mid}"}
+              # 2026-11-09 (Romania standard): cited or named later -> published as enacted with a label, not held.
+              named = {who for k in d["kinds"] for kb, num, yr, subj, when, who in amended.get(k, ())
+                       if who != f"dv:{mid}" and when > (year, iss) and desc_matches(d, kb, num, yr, subj, strict=True)}
+              if kind in ("zakon", "kodeks"):
+                  for s in d["subjects"]:
+                      named |= {f"na:{x}" for x in titles_named.get(s, ())}
+              marks = {"amended_by": sorted(named), "cited_by": sorted(later - named)}
+              if kind in ("zakon", "kodeks") and title_key(title) in contested:
+                  raise Hold("contested_constcourt")
+              m_day = re.match(TITLE_PREFIX + r"\s+от\s+(\d{1,2}\s+\S+\s+\d{4})\s*г", title)
+              own_day = parse_day(m_day.group(1)) if m_day else None
+              if own_day and own_day > gday:
+                  raise Hold(f"dated_after_gazette:{own_day}")
+              L, notes = dv_clean(dv_lines(content), content)
+              if kind in ("zakon", "kodeks"):
+                  mdec = DECREE_DAY.search(norm(re.sub(r"<[^>]+>", " ", content))[:3000])
+                  dday = parse_day(mdec.group(1) + " г") if mdec else None
+                  if not dday:
+                      raise Hold("decree_day_unreadable")
+                  if not (dday <= gday <= (date.fromisoformat(dday) + timedelta(days=20)).isoformat()):
+                      raise Hold(f"gazette_day_inconsistent:{gday} vs decree {dday}")
+                  units = split(L, title)
+                  check_numbering(list(units))
+                  madopt = next((x for x, _ in L if ADOPTED.match(x)), "")
+                  own_day = parse_day(madopt) if madopt else None
+                  start = next((i for i, (x, _) in enumerate(L) if x == x.upper()
+                                and x.upper().startswith(("ЗАКОН", "КОДЕКС", "ИЗБОРЕН КОДЕКС"))), None)
+                  if start is None:  # 2026-11-09: older live pages without a capitalised title line
+                      raise Hold("no_title_line")
+                  stop = next((i for i in range(start, len(L)) if is_provision(L[i][0]) or HEADINGS.match(L[i][0])), len(L))
+                  title_text = " ".join(x for x, _ in L[start:min(stop, start + 6)])
+                  normative = True
+              else:
+                  units, title_text, adopted, top = dv_split(L, kind)
+                  normative = kind in DV_NORMATIVE or any(x in ADOPTED_BASE for x in adopted) or bool(re.search(
+                      r"за\s+(?:изменение|допълнение|отменяне|отмяна)\S*(?:\s+и\s+\S+)?\s+на\s+(?:Наредба|Правилник|"
+                      r"Устройствени?я?\s+правилник|Тарифа|Инструкция|нормативни)", title))
+              if EXT:
+                  # An annex the page gives only by its headings (its content is in the issue's PDF, with or without
+                  # the Gazette's note saying so): carried as printed, and said so.
+                  for uk, u in units.items():
+                      if uk.endswith("prilozhenie-01"):
+                          al = [x for x in u["text"].split("\n") if x.strip()]
+                          if al and all(ANNEX_HEAD.match(x) or ANNEX_GLUED.match(x) for x in al) and not notes:
+                              notes = notes + ["the page gives only the annexes' headings"]
+              # An amending or repealing act is published only when its target's text is held here.
+              m_rest = re.match(TITLE_PREFIX + r"(?:\s+от\s+\d{1,2}\s+\S+\s+\d{4}\s*г\.)?\s*(.*)$", title)
+              if AMENDING_TITLE.match(m_rest.group(1) if m_rest else ""):
+                  targets = {tuple(x) for x in dv_citations(title_text + " " + title)}
+                  if re.search(r"нормативни\s+актове", title):
+                      for k, u in units.items():
+                          if re.search(r"(?:^|-)(?:par|art)-\d", k) and "\n" in u["text"]:
+                              targets |= {tuple(x) for x in dv_citations(u["text"].split("\n")[1])}
+                  # 2026-11-09 (Romania standard): an amending act is an act of its own, published as enacted whether or
+                  # not its target's text is held here (its target is named in its title).
+              if kind in ("zakon", "kodeks"):
+                  day, how = in_force(units, gday)
+              else:
+                  day, how = dv_in_force(top, gday, own_day, normative)
+              break
+          except Skip:
+            held = "skip"
+            break
+          except Hold as h:
+            held = str(h)
+            if attempt == 0:
+                first_reason = held
+            if attempt == 0 and EXT_RULES and retryable(held):
+                continue
+            break
+        EXT.clear()
+        if held == "skip":
             continue
+        if held:
+            holds.append({"id": mid, "kind": kind, "dv": f"{iss}/{year}", "title": title[:160], "reason": held})
+            continue
+        if attempt:
+            released[first_reason.split(":")[0]] += 1
+            ext_released.append(f"{kind}-{year}-dv{iss:03d}-{mid}")
         if kind == "zakon" and re.match(r"^\S*\s*[Кк]одекс\b|^[А-Я][а-я]+\s+кодекс$|^Кодекс\b", title) \
                 and not re.search(r"изменение|допълнение|отмяна", title):
             kind = "kodeks"
@@ -1059,7 +1259,10 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
         if "exceptions" in how:
             note_parts.append("Its final provisions give some provisions a different day; the whole text is dated by its "
                               "general day.")
-        if notes:
+        if notes == ["the page gives only the annexes' headings"]:
+            note_parts.append("The Gazette's page gives only the headings of this act's annexes; their content is "
+                              "printed in the issue's PDF facsimile and is not carried.")
+        elif notes:
             note_parts.append("The Gazette printed part of this act only in the issue's PDF facsimile (its note: "
                               + "; ".join(sorted(set(notes)))[:300] + "); that part is not carried.")
         parts[(family, kind)]["laws"][slug] = {
@@ -1099,6 +1302,8 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
         rp = Path(a.report)
         rp.with_name(rp.stem + "-dv" + rp.suffix).write_text(
             "".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
+        rp.with_name(rp.stem + "-dv-extended" + rp.suffix).write_text(
+            "".join(json.dumps(x) + "\n" for x in sorted(ext_released)), encoding="utf-8")
     by_kind = defaultdict(lambda: [0, 0])
     for (name, kind), p in parts.items():
         by_kind[kind][0] += len(p["acts"])
@@ -1111,7 +1316,8 @@ def dv_publish(a, src: Path, acts: dict, dv_days: dict, cites_of, memo, conteste
             "dv_lowrisk_new": sum(len(p["acts"]) for (name, _), p in parts.items() if name.startswith("51-")),
             "dv_held": len(holds), "dv_issues_without_page": f"{coverage[1]} of {coverage[0]}",
             "dv_published_held_by_kind": dict(sorted(by_kind.items())), "dv_held_by_reason": dict(reasons),
-            "dv_skipped": dict(skipped), "dv_parts": len(written)}
+            "dv_skipped": dict(skipped), "dv_parts": len(written),
+            "dv_released_by_extended_rules": dict(sorted(released.items())), "dv_extended_rules": sorted(EXT_RULES)}
 
 
 def dv_part_meta(p: dict, retrieved: str, coverage: tuple[int, int, int], lowrisk: bool) -> dict:
@@ -1260,6 +1466,10 @@ def main():
     a = ap.parse_args()
     global LIVE
     LIVE = a.live
+    import os
+    sel = os.environ.get("GITLAW_BG_EXT_RULES")
+    EXT_RULES.clear()
+    EXT_RULES.update(ALL_EXT_RULES if sel is None else {r for r in sel.split(",") if r and r != "none"})
     src = Path(a.src)
     acts, dv_days, dv_texts = load(src)
     eu = eurlex_days(a.eurlex)
@@ -1351,6 +1561,7 @@ def main():
 
     parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
+    law_ext_released = []  # laws whose in-force day only the extended day rules read
     # 2026-11-09: a law record with no final text is listed, not dropped silently.
     for i, r in sorted(acts.items()):
         if str(r.get("L_Act_T_id")) == "1" and i not in laws and r.get("L_Act_dv_iss"):
@@ -1394,7 +1605,19 @@ def main():
             if not (dday <= gday <= (date.fromisoformat(dday) + timedelta(days=20)).isoformat()):
                 raise Hold(f"gazette_day_inconsistent:{gsrc} {gday} vs decree {dday}")
             units = split(raw_lines(d["L_ActL_final_body"]), title)
-            day, how = in_force(units, gday)
+            try:
+                day, how = in_force(units, gday)
+            except Hold as h0:
+                # 2026-11-11: an in-force clause the established reader can't read is read again with the extended
+                # day rules (date_forms, in_force_forms); nothing else of the law is read differently.
+                if not (str(h0).startswith("in_force_unreadable") and {"date_forms", "in_force_forms"} & EXT_RULES):
+                    raise
+                EXT.update(EXT_RULES & {"date_forms", "in_force_forms"})
+                try:
+                    day, how = in_force(units, gday)
+                finally:
+                    EXT.clear()
+                law_ext_released.append(i)
         except Hold as h:
             holds.append({"id": i, "dv": f"{iss}/{year}", "title": title[:160], "reason": str(h)})
             continue
@@ -1492,7 +1715,7 @@ def main():
         tmp.replace(cache_path)
     print(json.dumps(dv, ensure_ascii=False))
     print(json.dumps({"laws_seen": len(laws), "published": sum(n for _, n in written), "held": len(holds),
-                      "held_by_reason": dict(reasons), "kept_as_published": len(parts[0]["acts"]) if 0 in parts else 0,
+                      "held_by_reason": dict(reasons), "released_by_extended_rules": len(law_ext_released), "kept_as_published": len(parts[0]["acts"]) if 0 in parts else 0,
                       "parts": written, "dv_issues_dated": len(dv_days)},
                      ensure_ascii=False))
 

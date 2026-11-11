@@ -47,6 +47,36 @@
 
 Act id: `zakon-2005-dv027-15109` (tags `zakon-2005-dv027-15109/<day>`; `python tools/on.py <day> zakon-2005-dv027-15109`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за военноинвалидите и военнопострадалите (ДВ, бр. 110 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13748)
+- [Закон за изменение и допълнение на Закона за военноинвалидите и военнопострадалите (ДВ, бр. 54 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86051)
+- [Закон за изменение и допълнение на Закона за военноинвалидите и военнопострадалите (ДВ, бр. 54 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14884)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за далекосъобщенията (ДВ, бр. 88 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=994)
+- [Наредба № 1 от 8 януари 2007 г. за реда за получаване и заплащане на лекарствени продукти на военноинвалидите и военнопострадалите (ДВ, бр. 9 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3200)
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30382)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 23 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46618)
+- [Закон за резерва на въоръжените сили на Република България (ДВ, бр. 20 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62077)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135546)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154523)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 100 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239105)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 16 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9747)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 23 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/11332)
+- [Закон за резерва на въоръжените сили на Република България (ДВ, бр. 20 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13761)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156809)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за изменение и допълнение на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 109 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163320)
+- [Закон за изменениe и допълнениe на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 100 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166628)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

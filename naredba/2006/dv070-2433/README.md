@@ -103,6 +103,19 @@
 
 Act id: `naredba-2006-dv070-2433` (tags `naredba-2006-dv070-2433/<day>`; `python tools/on.py <day> naredba-2006-dv070-2433`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Iз-1013 от 2006 г. за определяне на условията и реда за израстване в категория, степен на категория, заемане на длъжности и временно назначаване на държавните служители в МВР (ДВ, бр. 108 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4569)
+- [Поправка в Наредба № Iз-1827 от 2007 г. за изменение на Наредба № Iз-1013 от 4.VII.2007 г. за определяне на условията и реда за израстване в категория, степен на категория, заемане на длъжности и временно назначаване на държавните служители в МВР (ДВ, бр. 108 от 2007 г.) (ДВ, бр. 3 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34020)
+
+Cited by:
+
+- [Наредба № Iз-2525 от 14 декември 2012 г. за преминаване на държавната служба в Министерството на вътрешните работи (ДВ, бр. 1 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71440)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

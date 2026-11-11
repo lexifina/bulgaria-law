@@ -64,6 +64,22 @@
 
 Act id: `naredba-2016-dv083-108382` (tags `naredba-2016-dv083-108382/<day>`; `python tools/on.py <day> naredba-2016-dv083-108382`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-4 от 2016 г. за предоставяне на услуги от кадастралната карта и кадастралните регистри (ДВ, бр. 88 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119291)
+- [Наредба за изменение на Наредба № РД-02-20-4 от 2016 г. за предоставяне на услуги от кадастралната карта и кадастралните регистри (ДВ, бр. 8 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134086)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-4 от 2016 г. за предоставяне на услуги от кадастралната карта и кадастралните регистри (ДВ, бр. 86 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142395)
+- [Наредба за изменение на Наредба № РД-02-20-4 от 2016 г. за предоставяне на услуги от кадастралната карта и кадастралните регистри (ДВ, бр. 6 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155222)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2008 г. за създаването и поддържането на специализираните карти и регистри на обектите по чл. 6, ал. 4 и 5 от Закона за устройството на Черноморското крайбрежие (ДВ, бр. 64 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149831)
+- [Наредба № Н-4 от 27 ноември 2020 г. за условията и реда за осъществяване на двустранната връзка и обмена на данни между кадастъра и имотния регистър (ДВ, бр. 103 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154149)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

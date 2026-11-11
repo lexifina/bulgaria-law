@@ -29,6 +29,18 @@
 
 Act id: `postanovlenie-2008-dv020-4846` (tags `postanovlenie-2008-dv020-4846/<day>`; `python tools/on.py <day> postanovlenie-2008-dv020-4846`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 392 от 11 декември 2014 г. за изменение на Правилника за прилагане на Закона за военноинвалидите и военнопострадалите, приет с Постановление № 24 на Министерския съвет от 2008 г. (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90598)
+
+Cited by:
+
+- [Постановление № 145 от 6 юли 2012 г. за приемане на Правилник за прилагане на Закона за резерва на въоръжените сили на Република България (ДВ, бр. 54 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66314)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

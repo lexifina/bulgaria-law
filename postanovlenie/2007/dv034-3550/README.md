@@ -71,6 +71,22 @@
 
 Act id: `postanovlenie-2007-dv034-3550` (tags `postanovlenie-2007-dv034-3550/<day>`; `python tools/on.py <day> postanovlenie-2007-dv034-3550`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 186 от 22 юли 2009 г. за изменение и допълнение на Устройствения правилник на Министерството на труда и социалната политика, приет с Постановление № 80 на Министерския съвет от 2007 г. (ДВ, бр. 61 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23807)
+- [Постановление № 252 от 22 октомври 2009 г. за изменение и допълнение на Устройствения правилник на Министерството на труда и социалната политика, приет с Постановление № 80 на Министерския съвет от 2007 г. (ДВ, бр. 86 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26260)
+
+Cited by:
+
+- [Постановление № 52 от 17 март 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 32 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4993)
+- [Постановление № 127 от 4 юни 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 54 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5334)
+- [Постановление № 196 от 5 август 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 71 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7722)
+- [Постановление № 266 от 10 ноември 2009 г. за приемане на Устройствен правилник на Министерството на труда и социалната политика (ДВ, бр. 91 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26846)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

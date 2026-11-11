@@ -19,6 +19,14 @@
 
 Act id: `naredba-2012-dv024-62366` (tags `naredba-2012-dv024-62366/<day>`; `python tools/on.py <day> naredba-2012-dv024-62366`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 12 от 23 май 2023 г. за придобиване на квалификация по професията "Проектант компютърни мрежи" (ДВ, бр. 48 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195240)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

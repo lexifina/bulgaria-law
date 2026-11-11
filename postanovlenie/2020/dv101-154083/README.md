@@ -25,6 +25,15 @@
 
 Act id: `postanovlenie-2020-dv101-154083` (tags `postanovlenie-2020-dv101-154083/<day>`; `python tools/on.py <day> postanovlenie-2020-dv101-154083`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 418 от 30 декември 2020 г. за изменение и допълнение на Постановление № 325 на Министерския съвет от 2020 г. за определяне на условията и реда за изплащане на компенсации на работници и служители, осигурени в икономически дейности, за които са наложени от държавен орган временни ограничения за осъществяването им в периода на обявено извънредно положение или обявена извънредна епидемична обстановка (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154834)
+- [Постановление № 99 от 19 март 2021 г. за изменение на Постановление № 325 на Министерския съвет от 2020 г. за определяне на условията и реда за изплащане на компенсации на работници и служители, осигурени в икономически дейности, за които са наложени от държавен орган временни ограничения за осъществяването им в периода на обявено извънредно положение или обявена извънредна епидемична обстановка (ДВ, бр. 25 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156823)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

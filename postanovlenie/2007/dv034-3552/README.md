@@ -18,6 +18,20 @@
 
 Act id: `postanovlenie-2007-dv034-3552` (tags `postanovlenie-2007-dv034-3552/<day>`; `python tools/on.py <day> postanovlenie-2007-dv034-3552`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 163 от 16 юли 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет в изпълнение на Резолюция 1747 на Съвета за сигурност на ООН от 24 март 2007 г. и Обща позиция 246 на Съвета на ЕС от 23 април 2007 г. относно Ислямска република Иран (ДВ, бр. 61 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3992)
+- [Постановление № 248 от 19 октомври 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет в изпълнение на Резолюция 1803 на Съвета за сигурност на ООН от 3 март 2008 г., Обща позиция 479 на Съвета на Европейския съюз от 23 юни 2008 г. и Обща позиция 652 на Съвета на Европейския съюз от 7 август 2008 г. относно Ислямска република Иран (ДВ, бр. 85 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26155)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 120 от 25 юни 2012 г. за създаване на Междуведомствен съвет по отбранителна индустрия и сигурност на доставките към Министерския съвет (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65916)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

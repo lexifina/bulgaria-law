@@ -66,6 +66,23 @@
 
 Act id: `postanovlenie-2012-dv020-62357` (tags `postanovlenie-2012-dv020-62357/<day>`; `python tools/on.py <day> postanovlenie-2012-dv020-62357`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 189 от 29 юли 2019 г. за изменение и допълнение на Наредбата за условията и реда за функциониране на Националната система за ранно предупреждение и оповестяване на органите на изпълнителната власт и населението при бедствия и за оповестяване при въздушна опасност, приета с Постановление № 48 на Министерския съвет от 2012 г. (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140113)
+- [Постановление № 265 от 2 август 2021 г. за изменение и допълнение на Наредбата за условията и реда за функциониране на Националната система за ранно предупреждение и оповестяване на органите на изпълнителната власт и населението при бедствия и за оповестяване при въздушна опасност, приета с Постановление № 48 на Министерския съвет от 2012 г. (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160594)
+
+Cited by:
+
+- [Постановление № 166 от 30 юли 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 60 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67132)
+- [Постановление № 337 от 20 декември 2012 г. за приемане на Наредба за условията и реда за провеждане на евакуация и разсредоточаване (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71578)
+- [Наредба № Із-553 от 12 март 2013 г. за реда за организиране и осъществяване на превантивен контрол от органите на пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 29 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74285)
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+- [Постановление № 134 от 20 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

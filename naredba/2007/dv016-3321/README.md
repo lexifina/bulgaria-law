@@ -24,6 +24,17 @@
 
 Act id: `naredba-2007-dv016-3321` (tags `naredba-2007-dv016-3321/<day>`; `python tools/on.py <day> naredba-2007-dv016-3321`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 9 от 2 май 2007 г. за условията и реда за подпомагане на производителите на енергийни култури (ДВ, бр. 37 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3631)
+- [Наредба № 18 от 22 октомври 2007 г. за условията и реда за разпределяне на храни от интервенционни запаси за социално слаби лица (ДВ, бр. 87 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4366)
+- [Постановление № 341 от 30 декември 2008 г. за изменение и допълнение на Устройствения правилник на Министерството на земеделието и храните, приет с Постановление № 125 на Министерския съвет от 2006 г. (ДВ, бр. 3 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14064)
+- [Наредба № 15 от 1 октомври 2012 г. за реда за предоставяне на обезпечения за издаване на лицензии за внос и износ, сертификати за предварително фиксиране и удостоверения за възстановяване за селскостопански продукти от или за трети страни (ДВ, бр. 78 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

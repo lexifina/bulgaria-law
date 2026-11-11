@@ -32,6 +32,16 @@
 
 Act id: `postanovlenie-2016-dv066-106943` (tags `postanovlenie-2016-dv066-106943/<day>`; `python tools/on.py <day> postanovlenie-2016-dv066-106943`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

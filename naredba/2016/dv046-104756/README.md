@@ -69,6 +69,15 @@
 
 Act id: `naredba-2016-dv046-104756` (tags `naredba-2016-dv046-104756/<day>`; `python tools/on.py <day> naredba-2016-dv046-104756`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 12 от 25 юли 2016 г. за прилагане на подмярка 7.2. "Инвестиции в създаването, подобряването или разширяването на всички видове малка по мащаби инфраструктура" от мярка 7 "Основни услуги и обновяване на селата в селските райони" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 60 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106154)
+- [Наредба № 6 от 29 септември 2017 г. за прилагане на подмярка 4.1.2. "Инвестиции в земеделски стопанства по Тематична подпрограма за развитие на малки стопанства" от мярка 4 "Инвестиции в материални активи" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 82 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118519)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

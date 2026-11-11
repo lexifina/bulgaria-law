@@ -50,6 +50,18 @@
 
 Act id: `postanovlenie-2013-dv107-81125` (tags `postanovlenie-2013-dv107-81125/<day>`; `python tools/on.py <day> postanovlenie-2013-dv107-81125`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 150 от 10 юни 2014 г. за закриване на Националния център "Европейски младежки програми и инициативи" към министъра на младежта и спорта (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85764)
+- [Постановление № 194 от 3 август 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 61 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106394)
+- [Постановление № 155 от 25 юни 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 51 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139000)
+- [Постановление № 275 от 9 август 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160758)
+- [Постановление № 187 от 21 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175119)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

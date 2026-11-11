@@ -120,6 +120,23 @@
 
 Act id: `naredba-2008-dv064-6258` (tags `naredba-2008-dv064-6258/<day>`; `python tools/on.py <day> naredba-2008-dv064-6258`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2008 г. за здравните изисквания към стопанските водни животни, продуктите от тях и предпазването и контрола на болести по водните животни (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73741)
+- [Наредба за изменение и допълнение на Наредба № 17 от 2008 г. за здравните изисквания към стопанските водни животни, продуктите от тях и предпазването и контрола на болести по водните животни (ДВ, бр. 58 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86463)
+
+Cited by:
+
+- [Наредба № 9 от 21 май 2010 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка 2.4. "Мерки, насочени към опазване здравето на животните" по Приоритетна ос № 2 "Аквакултура, риболов във вътрешни водоеми, преработка и маркетинг на продукти от риболов и аквакултура" от Оперативна програма за развитие на сектор "Рибарство" на Република България, финансирана от Европейския фонд за рибарство за Програмен период 2007 - 2013 г. (ДВ, бр. 41 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33289)
+- [Наредба за изменение и допълнение на Наредба № 37 от 2006 г. за здравните изисквания към животните, от които се добиват суровини и храни за консумация от хора (ДВ, бр. 106 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80939)
+- [Решение № 320 от 3 май 2016 г. за одобряване на Национална програма за профилактика, надзор, контрол и ликвидиране на болестите по животните и зоонозите за периода 2016 - 2018 г. (продължение от брой 72) (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107114)
+- [Наредба № 5 от 30 септември 2020 г. за здравните изисквания към животните, от които се добиват храни (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152058)
+- [Наредба № 1 от 13 януари 2021 г. за ветеринарномедицинските изисквания и мерките за биосигурност към животновъдните обекти за риба и други водни организми (ДВ, бр. 6 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155135)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

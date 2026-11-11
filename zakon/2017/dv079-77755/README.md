@@ -9,6 +9,21 @@
 
 Act id: `zakon-2017-dv079-77755` (tags `zakon-2017-dv079-77755/<day>`; `python tools/on.py <day> zakon-2017-dv079-77755`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 1711 от 20 декември 2017 г. (ДВ, бр. 3 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121202)
+- [Решение № 3521-П от 13 февруари 2018 г. (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122983)
+- [Решение № 3527-П от 28 февруари 2018 г. (ДВ, бр. 24 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123981)
+- [Решение № 3529-П от 28 февруари 2018 г. (ДВ, бр. 24 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123983)
+- [Решение № 3552-П от 31 октомври 2018 г. (ДВ, бр. 95 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131814)
+- [Решение № 3559-П от 24 януари 2019 г. (ДВ, бр. 12 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134395)
+- [Решение № 3575-П от 5 март 2019 г. (ДВ, бр. 21 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135471)
+- [Решение № 3624-П от 26 юни 2019 г. (ДВ, бр. 53 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139184)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

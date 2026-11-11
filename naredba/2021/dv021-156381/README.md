@@ -42,6 +42,14 @@
 
 Act id: `naredba-2021-dv021-156381` (tags `naredba-2021-dv021-156381/<day>`; `python tools/on.py <day> naredba-2021-dv021-156381`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 10 от 27 юни 2023 г. за условията и реда за прилагане на интервенциите в областта на околната среда и климата и хуманно отношение към животните, включени в Стратегическия план за развитието на земеделието и селските райони за периода 2023 - 2027 г. (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196800)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

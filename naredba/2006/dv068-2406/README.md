@@ -69,6 +69,18 @@
 
 Act id: `naredba-2006-dv068-2406` (tags `naredba-2006-dv068-2406/<day>`; `python tools/on.py <day> naredba-2006-dv068-2406`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № Iз-1011 от 2006 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 9 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4722)
+
+Cited by:
+
+- [Наредба № 8121з-346 от 25 юли 2014 г. за професионалното обучение на служителите от Министерството на вътрешните работи (ДВ, бр. 66 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86955)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

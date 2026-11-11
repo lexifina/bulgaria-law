@@ -64,6 +64,24 @@
 
 Act id: `pravilnik-2017-dv016-111920` (tags `pravilnik-2017-dv016-111920/<day>`; `python tools/on.py <day> pravilnik-2017-dv016-111920`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 87 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119215)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 14 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122554)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 8 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134030)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 20 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135258)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 91 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152842)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 20 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170609)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184821)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 12 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232722)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235532)
+- [Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 103 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239203)
+- [Поправка на допусната техническа грешка в обнародвания Правилник за изменение и допълнение на Правилника за дейността на Комисията за публичен надзор над регистрираните одитори (ДВ, бр. 103 от 2025 г., стр. 138) (ДВ, бр. 104 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239610)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

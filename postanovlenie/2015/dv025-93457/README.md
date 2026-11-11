@@ -24,6 +24,20 @@
 
 Act id: `postanovlenie-2015-dv025-93457` (tags `postanovlenie-2015-dv025-93457/<day>`; `python tools/on.py <day> postanovlenie-2015-dv025-93457`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 389 от 30 декември 2015 г. за изменение на Постановление № 74 на Министерския съвет от 2015 г. за създаване на Национален икономически съвет (ДВ, бр. 2 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99859)
+- [Постановление № 237 от 13 септември 2016 г. за допълнение на Постановление № 74 на Министерския съвет от 2015 г. за създаване на Национален икономически съвет (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107620)
+- [Постановление № 21 от 25 февруари 2022 г. за изменение и допълнение на Постановление № 74 на Министерския съвет от 2015 г. за създаване на Национален икономически съвет (ДВ, бр. 18 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170195)
+
+Cited by:
+
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -84,6 +84,18 @@
 
 Act id: `naredba-2019-dv026-136219` (tags `naredba-2019-dv026-136219/<day>`; `python tools/on.py <day> naredba-2019-dv026-136219`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 90 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142885)
+- [Наредба за допълнение на Наредба № 2 от 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 108 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154640)
+- [Наредба за допълнение на Наредба № 2 от 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 79 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162169)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179022)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 63 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=222540)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

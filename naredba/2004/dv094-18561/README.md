@@ -42,6 +42,19 @@
 
 Act id: `naredba-2004-dv094-18561` (tags `naredba-2004-dv094-18561/<day>`; `python tools/on.py <day> naredba-2004-dv094-18561`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 17 от 2004 г. за лицензиране на превозвачи за извършване на превози на товари по вътрешни водни пътища (ДВ, бр. 29 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47879)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за лицензиране на превози на товари по вътрешни водни пътища (ДВ, бр. 9 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1355)
+- [Наредба № 17 от 22 януари 2013 г. за извършване на превози на товари по вътрешни водни пътища (ДВ, бр. 10 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72554)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

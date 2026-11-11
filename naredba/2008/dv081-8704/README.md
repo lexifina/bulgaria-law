@@ -39,6 +39,21 @@
 
 Act id: `naredba-2008-dv081-8704` (tags `naredba-2008-dv081-8704/<day>`; `python tools/on.py <day> naredba-2008-dv081-8704`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2008 г. за приемане на ученици в училищата по изкуствата (ДВ, бр. 66 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36049)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2008 г. за приемане на ученици в училищата по изкуствата (ДВ, бр. 97 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59157)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2008 г. за приемане на ученици в училищата по изкуствата (ДВ, бр. 92 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70501)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2008 г. за приемане на ученици в училищата по изкуствата (ДВ, бр. 16 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82686)
+
+Cited by:
+
+- [Наредба № 2 от 12 август 2016 г. за приемане и преместване на ученици в училищата по изкуствата (ДВ, бр. 67 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106792)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

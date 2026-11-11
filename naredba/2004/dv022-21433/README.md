@@ -68,6 +68,20 @@
 
 Act id: `naredba-2004-dv022-21433` (tags `naredba-2004-dv022-21433/<day>`; `python tools/on.py <day> naredba-2004-dv022-21433`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 74 от 2003 г. за одобряване типа на гуми, одобряване типа на гуми по отношение нивото на шума при контакт с пътя и одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на гумите (ДВ, бр. 58 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2236)
+- [Наредба за изменение на Наредба № 74 от 2003 г. за одобряване типа на гуми, одобряване типа на гуми по отношение нивото на шума при контакт с пътя и одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на гумите (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2788)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 115 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на системите против изпръскване и за ЕО одобряване на типа устройства против изпръскване (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52195)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 39 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137277)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

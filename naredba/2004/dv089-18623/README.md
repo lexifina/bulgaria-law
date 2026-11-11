@@ -29,6 +29,14 @@
 
 Act id: `naredba-2004-dv089-18623` (tags `naredba-2004-dv089-18623/<day>`; `python tools/on.py <day> naredba-2004-dv089-18623`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 65 от 16 май 2006 г. за изискванията към обектите за търговия на едро с ветеринарномедицински продукти (ДВ, бр. 47 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2038)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

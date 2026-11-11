@@ -53,6 +53,20 @@
 
 Act id: `postanovlenie-2023-dv016-186664` (tags `postanovlenie-2023-dv016-186664/<day>`; `python tools/on.py <day> postanovlenie-2023-dv016-186664`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 104 от 21 юли 2023 г. за създаване на Институт за анализи и прогнози и за приемане на Устройствен правилник на Института за анализи и прогнози (ДВ, бр. 63 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197678)
+- [Постановление № 62 от 25 март 2024 г. за изменение на Постановление № 157 на Министерския съвет от 2022 г. за определяне на органите и структурите, отговорни за изпълнението на Плана за възстановяване и устойчивост на Република България, и на техните основни функции (ДВ, бр. 27 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=210920)
+- [Постановление № 183 от 28 май 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=216841)
+- [Постановление № 265 от 26 юли 2024 г. за закриване на Института за анализи и прогнози (ДВ, бр. 64 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223301)
+- [Постановление № 494 от 30 декември 2024 г. за определяне на правила за прилагане на подхода "Водено от общностите местно развитие" за периода 2021 - 2027 г. (ДВ, бр. 1 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231841)
+- [Постановление № 62 от 13 май 2026 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 45 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243430)
+- [Постановление № 84 от 16 юли 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244879)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

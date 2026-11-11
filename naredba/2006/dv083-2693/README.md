@@ -57,6 +57,21 @@
 
 Act id: `naredba-2006-dv083-2693` (tags `naredba-2006-dv083-2693/<day>`; `python tools/on.py <day> naredba-2006-dv083-2693`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 102 от 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта африканска чума по свинете и за условията и реда за прилагането им (ДВ, бр. 8 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28903)
+- [Наредба за изменение и допълнение на Наредба № 102 от 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта африканска чума по свинете и за условията и реда за прилагането им (ДВ, бр. 86 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130812)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 37 от 2006 г. за здравните изисквания към животните, от които се добиват суровини и храни за консумация от хора (ДВ, бр. 106 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80939)
+- [Наредба № 5 от 30 септември 2020 г. за здравните изисквания към животните, от които се добиват храни (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152058)
+- [Наредба за отменяне на наредби на министъра на земеделието и храните (ДВ, бр. 54 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243830)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

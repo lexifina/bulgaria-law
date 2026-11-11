@@ -68,6 +68,30 @@
 
 Act id: `pravilnik-2009-dv021-17380` (tags `pravilnik-2009-dv021-17380/<day>`; `python tools/on.py <day> pravilnik-2009-dv021-17380`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54945)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 43 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65076)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 56 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66547)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 95 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70902)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71532)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 13 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82435)
+
+Cited by:
+
+- [Наредба № 5 от 21 март 2014 г. за условията и реда за упражняване правата на пациентите при трансгранично здравно обслужване (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83755)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център за асистирана репродукция (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121331)
+- [Правилник за изменение и допълнение на Правилника за организацията на работа и дейността на Център за асистирана репродукция (ДВ, бр. 73 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129790)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136174)
+- [Закон за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г. (ДВ, бр. 28 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150)
+- [Правилник за изменение на Правилника за организацията на работа и дейността на Център за асистирана репродукция (ДВ, бр. 5 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=183640)
+- [Правилник за изменение на Правилника за организацията на работа и дейността на Център за асистирана репродукция (ДВ, бр. 88 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200623)
+- [Закон за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г. (ДВ, бр. 28 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157379)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

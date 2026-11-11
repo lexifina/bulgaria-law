@@ -51,6 +51,18 @@
 
 Act id: `naredba-2015-dv009-91608` (tags `naredba-2015-dv009-91608/<day>`; `python tools/on.py <day> naredba-2015-dv009-91608`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 2 от 2015 г. за максимално допустимите количества на остатъци от пестициди във или върху храни (ДВ, бр. 31 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211306)
+
+Cited by:
+
+- [Наредба № 11 от 14 юли 2021 г. за мерките за контрол върху определени субстанции и остатъци от тях в живи животни и храни от животински произход, предназначени за консумация от хора (ДВ, бр. 61 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160174)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

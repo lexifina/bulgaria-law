@@ -13,6 +13,26 @@
 
 Act id: `postanovlenie-2009-dv057-23467` (tags `postanovlenie-2009-dv057-23467/<day>`; `python tools/on.py <day> postanovlenie-2009-dv057-23467`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 65 от 31 март 2017 г. за изменение на Постановление № 175 на Министерския съвет от 2009 г. за определяне на първостепенния и второстепенните разпоредители с бюджет в Министерството на отбраната (ДВ, бр. 29 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113317)
+- [Постановление № 237 от 22 юли 2021 г. за изменение и допълнение на Постановление № 175 на Министерския съвет от 2009 г. за определяне на първостепенния и второстепенните разпоредители с бюджет в Министерството на отбраната (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160386)
+
+Cited by:
+
+- [Постановление № 135 от 12 май 2011 г. за приемане на Устройствен правилник на Министерството на отбраната (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50288)
+- [Постановление № 291 от 16 ноември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 92 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70600)
+- [Постановление № 5 от 21 януари 2014 г. за приемане на Устройствен правилник на Министерството на отбраната (ДВ, бр. 8 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82087)
+- [Постановление № 280 от 4 септември 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 76 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87799)
+- [Постановление № 123 от 15 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94573)
+- [Постановление № 274 от 28 октомври 2019 г. за изменение и допълнение на Постановление № 382 на Министерския съвет от 2015 г. за приемане на План за развитие на въоръжените сили до 2020 г. (ДВ, бр. 86 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142445)
+- [Постановление № 371 от 20 декември 2019 г. за изменение и допълнение на Постановление № 382 на Министерския съвет от 2015 г. за приемане на План за развитие на въоръжените сили до 2020 г. (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144192)
+- [Постановление № 316 от 20 ноември 2020 г. за приемане на Правилник за устройството и дейността на Служба "Военно разузнаване" (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

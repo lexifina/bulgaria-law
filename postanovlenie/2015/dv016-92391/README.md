@@ -72,6 +72,27 @@
 
 Act id: `postanovlenie-2015-dv016-92391` (tags `postanovlenie-2015-dv016-92391/<day>`; `python tools/on.py <day> postanovlenie-2015-dv016-92391`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 108 от 22 юни 2018 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 54 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127890)
+- [Постановление № 125 от 1 април 2021 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 28 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157230)
+- [Постановление № 148 от 1 август 2025 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 38 на Министерския съвет от 2015 г. (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236590)
+
+Cited by:
+
+- [Постановление № 155 от 25 юни 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95527)
+- [Постановление № 5 от 11 януари 2019 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133853)
+- [Постановление № 23 от 18 февруари 2020 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146266)
+- [Заповед № ЛС-04-134 от 1 април 2020 г. (ДВ, бр. 34 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157535)
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 317 от 7 октомври 2022 г. за създаване на Съвет за криминологични изследвания и за приемане на правилник за неговата дейност (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178782)
+- [Постановление № 12 от 26 януари 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185265)
+- [Постановление № 276 от 13 декември 2023 г. за приемане на Правилник за устройството, организацията и дейността на Националния съвет за превенция и защита от домашното насилие (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201911)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

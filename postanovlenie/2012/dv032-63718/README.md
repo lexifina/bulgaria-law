@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2012-dv032-63718` (tags `postanovlenie-2012-dv032-63718/<day>`; `python tools/on.py <day> postanovlenie-2012-dv032-63718`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 182 от 23 август 2012 г. за предоставяне на допълнителни средства по бюджета на Министерството на правосъдието за 2012 г. (ДВ, бр. 66 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67976)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2010-dv061-35518` (tags `postanovlenie-2010-dv061-35518/<day>`; `python tools/on.py <day> postanovlenie-2010-dv061-35518`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 295 от 9 декември 2010 г. за изменение на Постановление № 161 на Министерския съвет от 2010 г. за предоставяне на финансови средства от централния бюджет за 2010 г. по бюджета на Министерството на регионалното развитие и благоустройството за 2010 г. за финансиране на инфраструктурни обекти с национално значение (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41716)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

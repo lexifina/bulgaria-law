@@ -29,6 +29,14 @@
 
 Act id: `naredba-2011-dv036-48945` (tags `naredba-2011-dv036-48945/<day>`; `python tools/on.py <day> naredba-2011-dv036-48945`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-2 от 10 юни 2019 г. за условията и реда за организиране и осъществяване охраната на съдии, прокурори и следователи (ДВ, бр. 49 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138577)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

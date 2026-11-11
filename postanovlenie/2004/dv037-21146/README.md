@@ -46,6 +46,14 @@
 
 Act id: `postanovlenie-2004-dv037-21146` (tags `postanovlenie-2004-dv037-21146/<day>`; `python tools/on.py <day> postanovlenie-2004-dv037-21146`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 113 от 26 май 2008 г. за приемане на Наредба за условията и реда за финансово подпомагане на младежки дейности и проекти на национално и регионално ниво (ДВ, бр. 51 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5281)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

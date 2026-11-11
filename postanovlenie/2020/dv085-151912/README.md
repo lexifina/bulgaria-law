@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2020-dv085-151912` (tags `postanovlenie-2020-dv085-151912/<day>`; `python tools/on.py <day> postanovlenie-2020-dv085-151912`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 249 от 19 ноември 2025 г. за изменение на нормативни актове (ДВ, бр. 99 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239091)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

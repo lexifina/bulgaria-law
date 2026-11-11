@@ -85,6 +85,14 @@
 
 Act id: `postanovlenie-2022-dv048-174310` (tags `postanovlenie-2022-dv048-174310/<day>`; `python tools/on.py <day> postanovlenie-2022-dv048-174310`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 94 от 27 юли 2026 г. за изменение и допълнение на Наредбата за качеството на социалните услуги, приета с Постановление № 135 на Министерския съвет от 2022 г. (ДВ, бр. 70 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245068)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

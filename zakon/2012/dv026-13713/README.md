@@ -155,9 +155,83 @@
 
 Act id: `zakon-2012-dv026-13713` (tags `zakon-2012-dv026-13713/<day>`; `python tools/on.py <day> zakon-2012-dv026-13713`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за хазарта (ДВ, бр. 35 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12684)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 1 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14670)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 105 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15074)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 14 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157315)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157467)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 61 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164277)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 42 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165518)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 54 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66339)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69470)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 94 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70591)
+- [Заповед № РД-73 от 28 януари 2013 г. (ДВ, бр. 10 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72738)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 1 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81588)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 105 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90498)
+- [Закон за Националната служба за охрана (ДВ, бр. 61 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96406)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97877)
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107550)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109996)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137772)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 14 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145880)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150150)
+- [Определение № 1 от 29 септември 2020 г. по конституционно дело № 8 от 2020 г. (ДВ, бр. 86 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151985)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154257)
+- [Закон за изменение и допълнение на Закона за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и за преодоляване на последиците (ДВ, бр. 14 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155972)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 61 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175149)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199877)
+- [Закон за изменение и допълнение на Закона за данъците върху доходите на физическите лица (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201800)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202168)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 42 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214700)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233694)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235308)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за държавния бюджет на Република България за 2026 г. (ДВ, бр. 69 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245041)
+- [Закон за изменение и допълнение на Закона за акцизите и данъчните складове (ДВ, бр. 54 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13976)
+- [Закон за изменение на Закона за администрацията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14026)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 94 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14145)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 1 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14670)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 105 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15074)
+- [Закон за Националната служба за охрана (ДВ, бр. 61 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15267)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15077)
+- [Закон за изменение и допълнение на Закона за юридическите лица с нестопанска цел (ДВ, бр. 74 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15570)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66460)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 42 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156978)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 14 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157315)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157467)
+- [Закон за изменение и допълнение на Закона за данък върху добавената стойност (ДВ, бр. 104 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163409)
+- [Закон за изменение и допълнение на Закона за мерките и действията по време на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и за преодоляване на последиците (ДВ, бр. 14 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163500)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 61 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164277)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165056)
+- [Закон за изменение и допълнение на Закона за данъците върху доходите на физическите лица (ДВ, бр. 106 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165173)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165235)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за хазарта (ДВ, бр. 42 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165518)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166100)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166129)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за държавния бюджет на Република България за 2026 г. (ДВ, бр. 69 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167157)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

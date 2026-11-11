@@ -24,6 +24,14 @@
 
 Act id: `postanovlenie-2017-dv073-117674` (tags `postanovlenie-2017-dv073-117674/<day>`; `python tools/on.py <day> postanovlenie-2017-dv073-117674`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 350 от 28 декември 2018 г. за уреждане на правоотношенията във връзка със закриването на Министерството за Българското председателство на Съвета на Европейския съюз 2018 (ДВ, бр. 1 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133455)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

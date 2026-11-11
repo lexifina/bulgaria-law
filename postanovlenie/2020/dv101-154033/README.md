@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2020-dv101-154033` (tags `postanovlenie-2020-dv101-154033/<day>`; `python tools/on.py <day> postanovlenie-2020-dv101-154033`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 398 от 22 декември 2020 г. за изменение и допълнение на Постановление № 318 на Министерския съвет от 2020 г. за одобряване на допълнителни разходи по бюджета на Държавна агенция "Държавен резерв и военновременни запаси" за 2020 г. (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154718)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

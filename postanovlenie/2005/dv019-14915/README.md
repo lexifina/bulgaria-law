@@ -110,6 +110,25 @@
 
 Act id: `postanovlenie-2005-dv019-14915` (tags `postanovlenie-2005-dv019-14915/<day>`; `python tools/on.py <day> postanovlenie-2005-dv019-14915`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 342 от 20 декември 2012 г. за изменение и допълнение на Правилника за дейността на Националната агенция за оценяване и акредитация, приет с Постановление № 25 на Министерския съвет от 2005 г. (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71583)
+
+Cited by:
+
+- [Постановление № 215 от 12 октомври 2005 г. за приемане на Устройствен правилник на Министерството на държавната администрация и административната реформа (ДВ, бр. 83 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=949)
+- [Постановление № 250 от 25 ноември 2005 г. за приемане на Устройствен правилник на Държавната агенция за информационни технологии и съобщения (ДВ, бр. 96 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1096)
+- [Постановление № 154 от 2 юли 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 61 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5907)
+- [Постановление № 11 от 3 февруари 2010 г. за приемане на Устройствен правилник на Министерството на образованието, младежта и науката и определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на образованието, младежта и науката (ДВ, бр. 12 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29503)
+- [Постановление № 147 от 23 юли 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35307)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 2 от 5 януари 2021 г. за утвърждаване на Правилник за дейността на Националната агенция за оценяване и акредитация (ДВ, бр. 3 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154888)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

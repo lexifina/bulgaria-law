@@ -51,6 +51,22 @@
 
 Act id: `postanovlenie-2017-dv098-120518` (tags `postanovlenie-2017-dv098-120518/<day>`; `python tools/on.py <day> postanovlenie-2017-dv098-120518`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 251 от 7 октомври 2019 г. за изменение и допълнение на Устройствения правилник на Министерството на културата, приет с Постановление № 266 на Министерския съвет от 2017 г. (ДВ, бр. 80 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141872)
+- [Постановление № 187 от 13 май 2021 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 266 на Министерския съвет от 2017 г. (ДВ, бр. 41 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158261)
+- [Постановление № 285 от 21 септември 2022 г. за изменение и допълнение на Устройствения правилник на Министерството на културата, приет с Постановление № 266 на Министерския съвет от 2017 г. (ДВ, бр. 76 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178301)
+- [Постановление № 162 от 21 септември 2023 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 266 на Министерския съвет от 2017 г. (ДВ, бр. 81 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199875)
+
+Cited by:
+
+- [Постановление № 179 от 31 юли 2020 г. за изменение на Устройствения правилник на Агенцията по заетостта, приет с Постановление № 176 на Министерския съвет от 2016 г. (ДВ, бр. 70 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150394)
+- [Постановление № 242 от 4 юли 2024 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Държавен резерв и военновременни запаси", приет с Постановление № 13 на Министерския съвет от 2004 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

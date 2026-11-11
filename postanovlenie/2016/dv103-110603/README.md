@@ -20,6 +20,14 @@
 
 Act id: `postanovlenie-2016-dv103-110603` (tags `postanovlenie-2016-dv103-110603/<day>`; `python tools/on.py <day> postanovlenie-2016-dv103-110603`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 14 от 11 септември 2023 г. за условията и реда за предоставяне на финансова помощ по интервенциите в лозаро-винарския сектор, включени в Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 година (ДВ, бр. 80 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199581)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

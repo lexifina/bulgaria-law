@@ -26,6 +26,20 @@
 
 Act id: `naredba-2005-dv095-1093` (tags `naredba-2005-dv095-1093/<day>`; `python tools/on.py <day> naredba-2005-dv095-1093`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35338)
+- [Наредба за изменение и допълнение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 23 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83276)
+- [Наредба за изменение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134933)
+
+Cited by:
+
+- [Наредба № 2 от 28 юли 2022 г. за класификация на кланични трупове на говеда, свине и овце по скàлите на Съюза, отчитане и докладване на пазарните цени на някои категории кланични трупове и проверки в кланиците (ДВ, бр. 64 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175306)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

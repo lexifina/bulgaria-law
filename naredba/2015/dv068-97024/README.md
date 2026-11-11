@@ -58,6 +58,19 @@
 
 Act id: `naredba-2015-dv068-97024` (tags `naredba-2015-dv068-97024/<day>`; `python tools/on.py <day> naredba-2015-dv068-97024`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110736)
+- [Наредба за допълнение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 34 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136871)
+- [Наредба за изменение и допълнение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 77 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141526)
+- [Наредба за изменение и допълнение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 91 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179906)
+- [Наредба за изменение и допълнение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 79 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199435)
+- [Наредба за изменение на Наредба № 8121з-1010 от 2015 г. за униформеното облекло и работното облекло за служебно ползване в Министерството на вътрешните работи (ДВ, бр. 34 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234100)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -76,9 +76,39 @@
 
 Act id: `zakon-2015-dv062-15143` (tags `zakon-2015-dv062-15143/<day>`; `python tools/on.py <day> zakon-2015-dv062-15143`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за държавния бюджет на Република България за 2016 г. (ДВ, бр. 96 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99252)
+- [Наредба № 29 от 12 декември 2015 г. за определяне на реда на финансиране на административните разходи на Фонда за гарантиране на влоговете в банките (ДВ, бр. 103 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99641)
+- [Наредба № 30 от 21 януари 2016 г. за изчисляване размера на дължимите от банките премийни вноски по Закона за гарантиране на влоговете в банките (ДВ, бр. 10 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100600)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122475)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123581)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137241)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155768)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 19 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156145)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 16 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169450)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244694)
+- [Закон за държавния бюджет на Република България за 2016 г. (ДВ, бр. 96 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15590)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за пазарите на финансови инструменти (ДВ, бр. 15 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77846)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77832)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156918)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163408)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 19 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163479)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 16 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163876)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167078)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

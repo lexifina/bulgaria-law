@@ -325,6 +325,69 @@
 
 Act id: `zakon-2009-dv025-17813` (tags `zakon-2009-dv025-17813/<day>`; `python tools/on.py <day> zakon-2009-dv025-17813`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71553)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 32 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102690)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154269)
+- [Закон за допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 24 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171271)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 103 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13967)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 32 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15517)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 13 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/65026)
+- [Закон за изменение и допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163433)
+- [Закон за допълнение на Закона за изпълнение на наказанията и задържането под стража (ДВ, бр. 24 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164050)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25033)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25652)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 32 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32347)
+- [Закон за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 73 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36759)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 81 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57512)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 42 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94929)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97877)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 81 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108165)
+- [Закон за изменение и допълнение на Законa за изпълнение на наказанията и задържането под стража (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111584)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 63 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116789)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134075)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134676)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за физическото възпитание и спорта (ДВ, бр. 64 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140266)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233694)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241044)
+- [Определение № 5 от 28 април 2026 г. по конституционно дело № 4 от 2026 г. (ДВ, бр. 42 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243155)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243769)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9770)
+- [Закон за изменение и допълнение на Закона за българските документи за самоличност (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9701)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 32 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9815)
+- [Закон за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 73 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9914)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 81 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13637)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 42 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15310)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15077)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 81 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/40849)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 63 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/75326)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/96754)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 16 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78257)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за физическото възпитание и спорта (ДВ, бр. 64 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156972)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166100)
+- [Закон за изменение и допълнение на Закона за Сметната палата (ДВ, бр. 16 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166794)
+- [Закон за противодействие на корупцията сред лица, заемащи публични длъжности (ДВ, бр. 51 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166967)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

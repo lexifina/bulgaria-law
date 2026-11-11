@@ -32,6 +32,15 @@
 
 Act id: `postanovlenie-2015-dv010-91835` (tags `postanovlenie-2015-dv010-91835/<day>`; `python tools/on.py <day> postanovlenie-2015-dv010-91835`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 26 от 1 февруари 2021 г. за приемане на Наредба за специфичните изисквания за извършване на хранително банкиране и контрола върху тази дейност (ДВ, бр. 10 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155655)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

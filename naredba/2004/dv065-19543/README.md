@@ -88,6 +88,15 @@
 
 Act id: `naredba-2004-dv065-19543` (tags `naredba-2004-dv065-19543/<day>`; `python tools/on.py <day> naredba-2004-dv065-19543`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2004 г. за условията и реда за извършване на маржин покупки, къси продажби и заем на ценни книжа (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5212)
+- [Наредба за изменение и допълнение на Наредба № 16 от 2004 г. за условията и реда за извършване на маржин покупки, къси продажби и заем на финансови инструменти (ДВ, бр. 1 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71417)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

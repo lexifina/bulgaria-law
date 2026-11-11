@@ -67,6 +67,14 @@
 
 Act id: `instruktsiya-2011-dv091-58539` (tags `instruktsiya-2011-dv091-58539/<day>`; `python tools/on.py <day> instruktsiya-2011-dv091-58539`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-470 от 27 април 2015 г. за организацията на дейността по установяване на дисциплинарни нарушения и налагане на дисциплинарни наказания, събирането и обработката на информация за състоянието на дисциплината и дисциплинарната практика в Министерството на вътрешните работи (ДВ, бр. 34 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94247)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

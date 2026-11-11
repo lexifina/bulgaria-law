@@ -44,6 +44,18 @@
 
 Act id: `postanovlenie-2019-dv006-133915` (tags `postanovlenie-2019-dv006-133915/<day>`; `python tools/on.py <day> postanovlenie-2019-dv006-133915`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 150 от 5 юли 2022 г. за изменение и допълнение на Правилника за устройството и дейността на Националния институт по метеорология и хидрология, приет с Постановление № 7 на Министерския съвет от 2019 г. (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174674)
+
+Cited by:
+
+- [Постановление № 16 от 31 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 10 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205561)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

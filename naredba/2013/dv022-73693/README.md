@@ -42,6 +42,23 @@
 
 Act id: `naredba-2013-dv022-73693` (tags `naredba-2013-dv022-73693/<day>`; `python tools/on.py <day> naredba-2013-dv022-73693`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-4 от 2012 г. за характеризиране на повърхностните води (ДВ, бр. 79 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87953)
+- [Наредба за изменение и допълнение на Наредба № Н-4 от 2012 г. за характеризиране на повърхностни води (ДВ, бр. 85 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151813)
+- [Наредба за изменение на Наредба № Н-4 от 14.09.2012 г. за характеризиране на повърхностните води (ДВ, бр. 13 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155805)
+- [Наредба за изменение и допълнение на Наредба № Н-4 от 14.09.2012 г. за характеризиране на повърхностните води (ДВ, бр. 67 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197760)
+
+Cited by:
+
+- [Постановление № 383 от 29 декември 2016 г. за приемане на Тарифа за таксите за водовземане, за ползване на воден обект и за замърсяване (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110794)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196747)
+- [Наредба № РД-02-20-2 от 3 юли 2024 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 61 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221560)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -54,6 +54,14 @@
 
 Act id: `naredba-2020-dv041-147686` (tags `naredba-2020-dv041-147686/<day>`; `python tools/on.py <day> naredba-2020-dv041-147686`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 17.10.2013 г. за изискванията за експлоатационна годност на пристанищата и специализираните пристанищни обекти (ДВ, бр. 12 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205802)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

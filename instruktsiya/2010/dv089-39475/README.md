@@ -30,6 +30,14 @@
 
 Act id: `instruktsiya-2010-dv089-39475` (tags `instruktsiya-2010-dv089-39475/<day>`; `python tools/on.py <day> instruktsiya-2010-dv089-39475`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за отменяне на Инструкция № 7 от 2010 г. за реда за упражняване на правомощията от органите на служба "Военна полиция" в структурите на служба "Военна информация" (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57296)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

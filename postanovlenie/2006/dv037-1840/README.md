@@ -38,6 +38,20 @@
 
 Act id: `postanovlenie-2006-dv037-1840` (tags `postanovlenie-2006-dv037-1840/<day>`; `python tools/on.py <day> postanovlenie-2006-dv037-1840`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 274 от 11 ноември 2008 г. за приемане на Наредба за изискванията за безопасност на магнитните детски играчки (ДВ, бр. 99 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=11362)
+- [Постановление № 110 от 12 май 2009 г. за приемане на Наредба за забрана на пускането и предлагането на пазара на стоки, които съдържат диметилфумарат (ДВ, бр. 37 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20548)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Наредба № Н-6 от 11 април 2023 г. за условията и реда за експлоатацията на безпилотни летателни системи и надзора над техните оператори (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191480)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

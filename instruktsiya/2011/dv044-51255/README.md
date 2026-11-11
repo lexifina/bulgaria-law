@@ -66,6 +66,19 @@
 
 Act id: `instruktsiya-2011-dv044-51255` (tags `instruktsiya-2011-dv044-51255/<day>`; `python tools/on.py <day> instruktsiya-2011-dv044-51255`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за отменяне на Инструкция № 1 от 2011 г. за работата и отчетността с болничните листове за временна неработоспособност (ДВ, бр. 18 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92641)
+
+Cited by:
+
+- [Постановление № 34 от 16 февруари 2012 г. за изменение и допълнение на Наредбата за изчисляване и изплащане на паричните обезщетения и помощи от държавното обществено осигуряване, приета с Постановление № 364 на Министерския съвет от 2006 г. (ДВ, бр. 16 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61739)
+- [Постановление № 241 от 4 август 2014 г. за приемане на Наредба за реда за представяне в Националния осигурителен институт на данните от издадените болнични листове и решенията по обжалването им (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87158)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

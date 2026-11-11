@@ -141,6 +141,55 @@
 
 Act id: `zakon-2008-dv098-10759` (tags `zakon-2008-dv098-10759/<day>`; `python tools/on.py <day> zakon-2008-dv098-10759`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73794)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 105 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110620)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 21 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156337)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238909)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 24 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14219)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 105 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66472)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 21 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163475)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166699)
+
+Cited by:
+
+- [Закон за управление на етажната собственост (ДВ, бр. 6 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14584)
+- [Закон за културното наследство (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16886)
+- [Закон за изменение и допълнение на Закона за администрацията (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21752)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за дейностите по предоставяне на услуги (ДВ, бр. 15 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30013)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 52 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34386)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41036)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48899)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64582)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77083)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за ограничаване изменението на климата (ДВ, бр. 22 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83185)
+- [Закон за изменение на Закона за енергията от възобновяеми източници (ДВ, бр. 33 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83933)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за енергийната ефективност (ДВ, бр. 35 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94263)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за дейностите по предоставяне на услуги (ДВ, бр. 15 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9812)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 52 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10025)
+- [Закон за изменение и допълнение на Закона за предотвратяване и разкриване на конфликт на интереси (ДВ, бр. 97 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9924)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/11317)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 38 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13742)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14414)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за ограничаване изменението на климата (ДВ, бр. 22 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14595)
+- [Закон за изменение на Закона за енергията от възобновяеми източници (ДВ, бр. 33 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14736)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за енергийната ефективност (ДВ, бр. 35 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15191)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

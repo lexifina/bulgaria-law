@@ -35,6 +35,27 @@
 
 Act id: `naredba-2016-dv081-108138` (tags `naredba-2016-dv081-108138/<day>`; `python tools/on.py <day> naredba-2016-dv081-108138`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110616)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 14 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111760)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 49 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115246)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125868)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137923)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144058)
+- [Наредба за допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 18 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146381)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 48 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148219)
+- [Наредба за допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154020)
+- [Наредба за изменение и допълнение на Наредба № 12 от 29 септември 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 61 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160149)
+- [Наредба за изменение и допълнение на Наредба № 12 от 29 септември 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 91 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163841)
+- [Наредба за изменение и допълнение на Наредба № 12 от 29 септември 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181814)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 35 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=212600)
+- [Наредба за изменение и допълнение на Наредба № 12 от 29 септември 2016 г. за Регистъра на банковите сметки и сейфове (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238673)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

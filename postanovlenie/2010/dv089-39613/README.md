@@ -40,6 +40,15 @@
 
 Act id: `postanovlenie-2010-dv089-39613` (tags `postanovlenie-2010-dv089-39613/<day>`; `python tools/on.py <day> postanovlenie-2010-dv089-39613`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 134 от 12 май 2011 г. за изменение на Устройствения правилник на Авиоотряд 28, приет с Постановление № 261 на Министерския съвет от 2010 г. (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50287)
+- [Постановление № 84 от 10 април 2014 г. за приемане на Устройствен правилник на Авиоотряд 28 (ДВ, бр. 34 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84296)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

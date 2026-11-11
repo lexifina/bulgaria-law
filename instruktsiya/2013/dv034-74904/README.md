@@ -86,6 +86,14 @@
 
 Act id: `instruktsiya-2013-dv034-74904` (tags `instruktsiya-2013-dv034-74904/<day>`; `python tools/on.py <day> instruktsiya-2013-dv034-74904`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-929 от 2 декември 2014 г. за патрулно-постова дейност (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90375)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

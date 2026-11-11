@@ -19,6 +19,14 @@
 
 Act id: `naredba-2008-dv020-4856` (tags `naredba-2008-dv020-4856/<day>`; `python tools/on.py <day> naredba-2008-dv020-4856`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 11 от 23 май 2022 г. за придобиване на квалификация по професията "Работник в заведенията за хранене и развлечения" (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173752)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

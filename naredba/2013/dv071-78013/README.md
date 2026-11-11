@@ -61,6 +61,15 @@
 
 Act id: `naredba-2013-dv071-78013` (tags `naredba-2013-dv071-78013/<day>`; `python tools/on.py <day> naredba-2013-dv071-78013`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за условията и реда за съхраняване на запаси по Закона за запасите от нефт и нефтопродукти (ДВ, бр. 92 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119853)
+- [Наредба за изменение на Наредба № 1 от 1.08.2013 г. за условията и реда за съхраняване на запаси по Закона за запасите от нефт и нефтопродукти (ДВ, бр. 57 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235899)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -46,6 +46,30 @@
 
 Act id: `naredba-2004-dv007-22232` (tags `naredba-2004-dv007-22232/<day>`; `python tools/on.py <day> naredba-2004-dv007-22232`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2004 г. за признаване на организации за извършване на прегледи на кораби и корабопритежатели (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1569)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2004 г. за признаване на организации за извършване на прегледи на кораби и корабопритежатели (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3308)
+
+Cited by:
+
+- [Наредба № 20 от 17 юни 2005 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 82 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=938)
+- [Наредба № 21 от 5 юли 2005 г. за безопасността на риболовните кораби (ДВ, бр. 84 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=958)
+- [Наредба № 22 от 5 октомври 2005 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 85 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=970)
+- [Наредба за изменение и допълнение на Наредба № 12 от 2003 г. за прегледите по реда на държавния пристанищен контрол (ДВ, бр. 26 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1613)
+- [Наредба № 22 от 22 декември 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 9 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14476)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 30 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18992)
+- [Наредба № 11 от 26 април 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 52 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20092)
+- [Наредба № 20 от 8 септември 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 73 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56692)
+- [Наредба № 4 от 15 декември 2011 г. за оправомощаване и оттегляне на предоставените правомощия за извършване на прегледи на кораби и корабопритежатели (ДВ, бр. 104 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59681)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91219)
+- [Неофициален раздел на "Държавен вестник", брой 78 от 26.9.2006 г. (ДВ, бр. 78 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139129)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144761)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

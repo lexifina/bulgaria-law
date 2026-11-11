@@ -32,6 +32,29 @@
 
 Act id: `zakon-2004-dv110-18126` (tags `zakon-2004-dv110-18126/<day>`; `python tools/on.py <day> zakon-2004-dv110-18126`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 86 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2727)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 27 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47042)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185263)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 27 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10094)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164432)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 9 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43355)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235736)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 9 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10038)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 55 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166491)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

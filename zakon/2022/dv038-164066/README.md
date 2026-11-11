@@ -12,6 +12,19 @@
 
 Act id: `zakon-2022-dv038-164066` (tags `zakon-2022-dv038-164066/<day>`; `python tools/on.py <day> zakon-2022-dv038-164066`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 340 от 21 октомври 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179216)
+- [Постановление № 60 от 19 април 2023 г. за изменение на Постановление № 38 на Министерския съвет от 2022 г. за създаване на Съвет за електронно управление при Министерския съвет (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191610)
+- [Постановление № 112 от 11 август 2023 г. за изменение и допълнение на Правилника за организацията и дейността на Съвета по киберсигурността, приет с Постановление № 375 на Министерския съвет от 2019 г. (ДВ, бр. 71 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198645)
+- [Постановление № 335 от 20 декември 2023 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202100)
+- [Постановление № 26 от 9 април 2025 г. за приемане на Устройствен правилник на Министерството на електронното управление (ДВ, бр. 31 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234061)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

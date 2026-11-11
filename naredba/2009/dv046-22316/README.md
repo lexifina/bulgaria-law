@@ -55,6 +55,19 @@
 
 Act id: `naredba-2009-dv046-22316` (tags `naredba-2009-dv046-22316/<day>`; `python tools/on.py <day> naredba-2009-dv046-22316`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 217 от 17 август 2015 г. за приемане на Наредба за изискванията към местата за настаняване и заведенията за хранене и развлечения и за реда за определяне на категория, отказ, понижаване, спиране на действието и прекратяване на категорията (ДВ, бр. 65 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96769)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Постановление № 139 от 26 юни 2020 г. за приемане на Наредба за изискванията към категоризираните места за настаняване и заведения за хранене и развлечения, за реда за определяне на категория, както и за условията и реда за регистриране на стаи за гости и апартаменти за гости (ДВ, бр. 59 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149454)
+- [Наредба № РД-02-20-2 от 26 януари 2021 г. за определяне на изискванията за достъпност и универсален дизайн на елементите на достъпната среда в урбанизираната територия и на сградите и съоръженията (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155689)
+- [Заповед № РД-01-94 от 6 април 2022 г. за утвърждаване на Национална програма за достъпна жилищна среда и лична мобилност по чл. 56, ал. 1 от Закона за хората с увреждания (ДВ, бр. 31 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172099)
+- [Наредба за изменение и допълнение на Наредба № 7 от 22 декември 2003 г. за правила и нормативи за устройство на отделните видове територии и устройствени зони (ДВ, бр. 84 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178985)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

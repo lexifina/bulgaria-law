@@ -126,6 +126,15 @@
 
 Act id: `postanovlenie-2021-dv003-154888` (tags `postanovlenie-2021-dv003-154888/<day>`; `python tools/on.py <day> postanovlenie-2021-dv003-154888`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 79 от 30 май 2025 г. за утвърждаване на нормативи за определяне разходите, които заплащат заявителите по процедурите за акредитация и за оценяване на проект, както и за изменения в определения по чл. 83, ал. 3, т. 1 от Закона за висшето образование капацитет (ДВ, бр. 45 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235201)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

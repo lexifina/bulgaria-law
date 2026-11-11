@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2022-dv062-175362` (tags `postanovlenie-2022-dv062-175362/<day>`; `python tools/on.py <day> postanovlenie-2022-dv062-175362`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 389 от 1 декември 2022 г. за изменение на Постановление № 214 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на образованието и науката за 2022 г. за ремонтни дейности в институции в системата на предучилищното и училищното образование (ДВ, бр. 97 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180983)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

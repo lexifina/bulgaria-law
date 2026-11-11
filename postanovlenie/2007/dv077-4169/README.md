@@ -42,6 +42,14 @@
 
 Act id: `postanovlenie-2007-dv077-4169` (tags `postanovlenie-2007-dv077-4169/<day>`; `python tools/on.py <day> postanovlenie-2007-dv077-4169`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 317 от 5 декември 2019 г. за отменяне на Наредбата за реда и начина за определяне в Патентното ведомство на марка като общественоизвестна и марка, ползваща се с известност на територията на Република България, приета с Постановление № 229 на Министерския съвет от 2007 г. (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143534)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

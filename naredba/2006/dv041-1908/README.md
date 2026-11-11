@@ -14,6 +14,22 @@
 
 Act id: `naredba-2006-dv041-1908` (tags `naredba-2006-dv041-1908/<day>`; `python tools/on.py <day> naredba-2006-dv041-1908`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 8 от 2006 г. за платените услуги, извършвани от регионалните инспекции за опазване и контрол на общественото здраве, поискани от физически или юридически лица (ДВ, бр. 66 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2370)
+- [Наредба за изменение на Наредба № 8 от 2006 г. за платените услуги, извършвани от регионалните инспекции за опазване и контрол на общественото здраве, поискани от физически или юридически лица (ДВ, бр. 74 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4125)
+
+Cited by:
+
+- [Наредба № 25 от 6 юни 2007 г. за условията и реда за вземане на проби и провеждане на лабораторни изследвания, анализи и експертизи, необходими за целите на държавния здравен контрол (ДВ, бр. 48 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3812)
+- [Наредба № 14 от 2 юли 2008 г. за реда за издаване на здравен сертификат за износ на продукти и стоки със значение за здравето на човека (ДВ, бр. 62 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5981)
+- [Наредба за изменение и допълнение на Наредба № 14 от 2008 г. за реда за издаване на здравен сертификат за износ на продукти и стоки със значение за здравето на човека (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73987)
+- [Неофициален раздел на "Държавен вестник", брой 58 от 18.7.2006 г. (ДВ, бр. 58 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139089)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

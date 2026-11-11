@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2016-dv103-110640` (tags `postanovlenie-2016-dv103-110640/<day>`; `python tools/on.py <day> postanovlenie-2016-dv103-110640`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 22 от 26 януари 2017 г. за определяне на нов размер на минималната работна заплата за страната (ДВ, бр. 11 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111607)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

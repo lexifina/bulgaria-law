@@ -43,6 +43,24 @@
 
 Act id: `naredba-2011-dv104-59681` (tags `naredba-2011-dv104-59681/<day>`; `python tools/on.py <day> naredba-2011-dv104-59681`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2011 г. за оправомощаване и оттегляне на предоставените правомощия за извършване на прегледи на кораби и корабопритежатели (ДВ, бр. 100 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99405)
+- [Наредба за изменение и допълнение на Наредба № 4 от 15 декември 2011 г. за оправомощаване и оттегляне на предоставените правомощия за извършване на прегледи на кораби и корабопритежатели (ДВ, бр. 12 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185420)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 16 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82706)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91219)
+- [Наредба за допълнение на Наредба № 16 от 2006 г. за обработка и превоз на опасни и/или замърсяващи товари по море и на опасни товари по вътрешни водни пътища (ДВ, бр. 59 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96198)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 62 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116597)
+- [Наредба № 22 от 11 октомври 2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130871)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 7 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144761)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

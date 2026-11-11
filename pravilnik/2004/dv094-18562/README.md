@@ -19,6 +19,14 @@
 
 Act id: `pravilnik-2004-dv094-18562` (tags `pravilnik-2004-dv094-18562/<day>`; `python tools/on.py <day> pravilnik-2004-dv094-18562`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за устройството и дейността на Националния медицински координационен център (ДВ, бр. 81 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2659)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

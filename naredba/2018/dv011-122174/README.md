@@ -26,6 +26,18 @@
 
 Act id: `naredba-2018-dv011-122174` (tags `naredba-2018-dv011-122174/<day>`; `python tools/on.py <day> naredba-2018-dv011-122174`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка в Наредба № 1 от 2018 г. (ДВ, бр.11 от 2018 г.) (ДВ, бр. 38 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126229)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2011 г. за здравословно хранене на децата на възраст от 3 до 7 години в детски заведения (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142503)
+- [Постановление № 434 от 10 декември 2021 г. за приемане на Наредба за хранителните добавки (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166309)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2013 г. за здравословно хранене на децата на възраст от 0 до 3 години в детските заведения и детските кухни (ДВ, бр. 85 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229126)
+- [Наредба № Н-3 от 3 октомври 2025 г. за здравословно хранене на учениците (ДВ, бр. 85 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237809)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -92,6 +92,25 @@
 
 Act id: `naredba-2009-dv063-23955` (tags `naredba-2009-dv063-23955/<day>`; `python tools/on.py <day> naredba-2009-dv063-23955`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 36 от 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49828)
+- [Наредба за изменение и допълнение на Наредба № 36 от 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 82 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88239)
+
+Cited by:
+
+- [Решение № 639 от 30 август 2011 г. за предоставяне на концесия за добив на подземни богатства по чл. 2, ал. 1, т. 5 от Закона за подземните богатства - строителни материали - доломити, от находище "Горно Лешко" - участък "Скалата", разположено в землището на с. Лешко, община Благоевград, област Благоевград (ДВ, бр. 70 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56520)
+- [Решение № 652 от 31 август 2011 г. за предоставяне на концесия за добив на подземни богатства по чл. 2, ал. 1, т. 5 от Закона за подземните богатства - строителни материали - доломити, от находище "Горно Лешко" - участък "Велковци", разположено в землището на с. Лешко, община Благоевград, област Благоевград (ДВ, бр. 71 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56527)
+- [Постановление № 88 от 2 май 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за опазване на земеделските земи, приет с Постановление № 240 на Министерския съвет от 1996 г. (ДВ, бр. 35 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64241)
+- [Постановление № 99 от 22 април 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за опазване на земеделските земи, приет с Постановление № 240 на Министерския съвет от 1996 г. (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103285)
+- [Наредба № 13 от 16 декември 2016 г. за осигуряване на радиационна защита при работа с рентгенови уредби за медицински цели (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110551)
+- [Постановление № 238 от 5 ноември 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 93 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131668)
+- [Наредба за изменение на Наредба № 10 от 2014 г. за здравните изисквания при изготвяне и спазване на седмичните учебни разписания (ДВ, бр. 22 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241422)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

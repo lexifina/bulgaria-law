@@ -63,6 +63,19 @@
 
 Act id: `postanovlenie-2013-dv094-79968` (tags `postanovlenie-2013-dv094-79968/<day>`; `python tools/on.py <day> postanovlenie-2013-dv094-79968`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 135 от 19 юни 2020 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Технически операции", приет с Постановление № 247 на Министерския съвет от 2013 г. (ДВ, бр. 57 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149294)
+- [Постановление № 307 от 30 септември 2022 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Технически операции", приет с Постановление № 247 на Министерския съвет от 2013 г. (ДВ, бр. 79 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178529)
+
+Cited by:
+
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -76,6 +76,15 @@
 
 Act id: `naredba-2005-dv052-474` (tags `naredba-2005-dv052-474/<day>`; `python tools/on.py <day> naredba-2005-dv052-474`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 29 от 16 декември 2005 г. за условията и реда за производство на фиданки за залесяване в горските разсадници държавна собственост (ДВ, бр. 10 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1363)
+- [Наредба № 21 от 12 ноември 2012 г. за условията и реда за определяне, одобряване, регистрация и отмяна на източниците от горската семепроизводствена база, събирането и добива на горски репродуктивни материали, тяхното окачествяване, търговия и внос (ДВ, бр. 93 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70499)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

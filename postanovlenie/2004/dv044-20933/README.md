@@ -39,6 +39,15 @@
 
 Act id: `postanovlenie-2004-dv044-20933` (tags `postanovlenie-2004-dv044-20933/<day>`; `python tools/on.py <day> postanovlenie-2004-dv044-20933`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 9028 от 4 ноември 2004 г. по адм. д. № 5294 от 2004 г. (ДВ, бр. 101 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18418)
+- [Поправка в Тарифата за таксите за радио- и телевизионна дейност, приета с Постановление № 99 на Министерския съвет от 2004 г. (ДВ, бр. 44 от 2004 г.) (ДВ, бр. 52 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68669)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

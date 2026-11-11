@@ -61,6 +61,14 @@
 
 Act id: `naredba-2012-dv098-70933` (tags `naredba-2012-dv098-70933/<day>`; `python tools/on.py <day> naredba-2012-dv098-70933`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [адм. д. № 3367/2013 г. (ДВ, бр. 36 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75159)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

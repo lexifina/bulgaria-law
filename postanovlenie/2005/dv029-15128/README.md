@@ -82,6 +82,21 @@
 
 Act id: `postanovlenie-2005-dv029-15128` (tags `postanovlenie-2005-dv029-15128/<day>`; `python tools/on.py <day> postanovlenie-2005-dv029-15128`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 203 от 17 септември 2005 г. за изменение на Устройствения правилник на Министерството на културата и туризма, приет с Постановление № 58 на Министерския съвет от 2005 г. (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=883)
+
+Cited by:
+
+- [Постановление № 41 от 27 февруари 2006 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 58 на Министерския съвет от 2005 г. (ДВ, бр. 20 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1516)
+- [Постановление № 70 от 3 април 2006 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 58 на Министерския съвет от 2005 г. (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1670)
+- [Постановление № 124 от 2 юни 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2052)
+- [Постановление № 149 от 19 юни 2006 г. за приемане на Устройствен правилник на Министерството на културата и за закриване на националните центрове по изкуствата и културните дейности към министъра нa културата (ДВ, бр. 52 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2119)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,18 @@
 
 Act id: `postanovlenie-2011-dv048-52900` (tags `postanovlenie-2011-dv048-52900/<day>`; `python tools/on.py <day> postanovlenie-2011-dv048-52900`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 112 от 13 май 2014 г. за изменение и допълнение на Тарифата за таксите, които се събират от Изпълнителната агенция по трансплантация по Закона за трансплантация на органи, тъкани и клетки, Закона за здравето и Закона за лечебните заведения, приета с Постановление № 166 на Министерския съвет от 2011 г. (ДВ, бр. 42 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84989)
+
+Cited by:
+
+- [Постановление № 88 от 24 април 2019 г. за приемане на Тарифа за таксите, които се събират по Закона за лечебните заведения и Закона за трансплантация на органи, тъкани и клетки (ДВ, бр. 35 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137166)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

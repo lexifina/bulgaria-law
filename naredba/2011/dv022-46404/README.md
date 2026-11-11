@@ -25,6 +25,19 @@
 
 Act id: `naredba-2011-dv022-46404` (tags `naredba-2011-dv022-46404/<day>`; `python tools/on.py <day> naredba-2011-dv022-46404`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Із-575 от 2011 г. за условията и реда за провеждане на курсове за безопасно боравене с огнестрелно оръжие (ДВ, бр. 88 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108783)
+- [Hаредба за изменение и допълнение на Наредба № Із-575 от 2011 г. за условията и реда за провеждане на курсове за безопасно боравене с огнестрелно оръжие (ДВ, бр. 21 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135456)
+
+Cited by:
+
+- [Постановление № 218 от 2 октомври 2017 г. за приемане на Наредба за условията и реда за осъществяване на дейностите, свързани с оръжията, боеприпасите, взривните вещества и пиротехническите изделия, и за контрола над тях в Държавната комисия по сигурността на информацията (ДВ, бр. 80 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118375)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

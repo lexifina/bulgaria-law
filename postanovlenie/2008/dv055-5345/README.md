@@ -44,6 +44,19 @@
 
 Act id: `postanovlenie-2008-dv055-5345` (tags `postanovlenie-2008-dv055-5345/<day>`; `python tools/on.py <day> postanovlenie-2008-dv055-5345`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 167 от 6 август 2010 г. за изменение и допълнение на Наредбата за условията и реда за създаване на ведомствени военновременни запаси на Министерството на отбраната, приета с Постановление № 132 на Министерския съвет от 2008 г. (ДВ, бр. 64 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35777)
+- [Постановление № 37 от 15 март 2023 г. за изменение и допълнение на Наредбата за условията и реда за създаване на ведомствени военновременни запаси на Министерството на отбраната, приета с Постановление № 132 на Министерския съвет от 2008 г. (ДВ, бр. 25 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188640)
+
+Cited by:
+
+- [Постановление № 211 от 11 септември 2012 г. за приемане на Наредба за условията и реда за провеждане на мобилизация (ДВ, бр. 71 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68415)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

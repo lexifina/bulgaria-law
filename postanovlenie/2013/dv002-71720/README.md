@@ -101,6 +101,17 @@
 
 Act id: `postanovlenie-2013-dv002-71720` (tags `postanovlenie-2013-dv002-71720/<day>`; `python tools/on.py <day> postanovlenie-2013-dv002-71720`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка в Наредбата за излязлото от употреба електрическо и електронно оборудване, приета с Постановление № 355 от 2012 г. (ДВ, бр. 2 от 2013 г.) (ДВ, бр. 5 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72078)
+- [Постановление № 55 от 6 март 2013 г. за приемане на Наредба за условията и реда за пускане на пазара на електрическо и електронно оборудване във връзка с ограниченията за употреба на определени опасни вещества (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74075)
+- [Постановление № 256 от 13 ноември 2013 г. за приемане на Наредба за излязлото от употреба електрическо и електронно оборудване (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80462)
+- [Постановление № 77 от 12 април 2016 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на електрическо и електронно оборудване във връзка с ограниченията за употреба на определени опасни вещества, приета с Постановление № 55 на Министерския съвет от 2013 г. (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102746)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

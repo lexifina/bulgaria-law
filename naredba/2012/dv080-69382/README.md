@@ -22,6 +22,18 @@
 
 Act id: `naredba-2012-dv080-69382` (tags `naredba-2012-dv080-69382/<day>`; `python tools/on.py <day> naredba-2012-dv080-69382`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-13 от 2012 г. за подбор на военнослужещи и цивилни служители за назначаване на длъжности в Службата на военния аташе към дипломатическите представителства на Република България (ДВ, бр. 48 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85484)
+
+Cited by:
+
+- [Наредба № Н-8 от 23 март 2016 г. за подбор на военнослужещи за назначаване на длъжности в Службата на военния аташе към задграничните представителства на Република България (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102387)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

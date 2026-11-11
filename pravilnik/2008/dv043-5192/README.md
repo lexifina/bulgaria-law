@@ -71,6 +71,21 @@
 
 Act id: `pravilnik-2008-dv043-5192` (tags `pravilnik-2008-dv043-5192/<day>`; `python tools/on.py <day> pravilnik-2008-dv043-5192`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност (ДВ, бр. 47 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5234)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност (ДВ, бр. 83 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25885)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност (ДВ, бр. 27 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63046)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за установяване на имущество, придобито от престъпна дейност (ДВ, бр. 59 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67036)
+
+Cited by:
+
+- [Правилник за устройството и дейността на Комисията за отнемане на незаконно придобито имущество и на нейната администрация (ДВ, бр. 49 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76318)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

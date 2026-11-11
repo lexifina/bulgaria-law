@@ -66,6 +66,20 @@
 
 Act id: `naredba-2017-dv001-110712` (tags `naredba-2017-dv001-110712/<day>`; `python tools/on.py <day> naredba-2017-dv001-110712`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 4 от 2003 г. за условията и реда за вписване в регистъра и изискванията към дейността на обменните бюра (ДВ, бр. 41 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114585)
+- [Наредба № 8121з-1225 от 27 септември 2017 г. за видовете обекти по чл. 23, ал. 1 от Закона за противодействие на тероризма, чиито собственици и ползватели разработват и прилагат мерки за противодействие на тероризма, минималните изисквания към тези мерки и реда за упражняване на контрол (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118918)
+- [Постановление № 62 от 29 март 2019 г. за приемане на Правилник за устройството и дейността на Държавно предприятие "Управление и стопанисване на язовири" (ДВ, бр. 27 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136320)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151388)
+- [Наредба № 24 от 10 септември 2020 г. за физическата среда и информационното и библиотечното осигуряване на детските градини, училищата и центровете за подкрепа за личностно развитие (ДВ, бр. 84 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151729)
+- [Наредба № РД-02-20-2 от 3 юли 2024 г. за проектиране, изграждане и експлоатация на водоснабдителни системи (ДВ, бр. 61 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221560)
+- [Наредба за изменение и допълнение на Наредба № 8121з-444 от 3 май 2016 г. за организацията и контрола по обезпечаването на сигурността на банките и финансовите институции (ДВ, бр. 88 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229354)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -72,6 +72,21 @@
 
 Act id: `naredba-2008-dv002-4644` (tags `naredba-2008-dv002-4644/<day>`; `python tools/on.py <day> naredba-2008-dv002-4644`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 1 от 2007 г. относно реда и организацията по провеждане на конкурси за назначаване, повишаване в длъжност и преместване на съдия, прокурор и следовател (ДВ, бр. 19 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4827)
+
+Cited by:
+
+- [Наредба № 1 от 5 ноември 2009 г. за показателите и реда за атестиране на съдия, прокурор, следовател, административен ръководител и заместник на административен ръководител (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26919)
+- [конкурс младши съдии (ДВ, бр. 28 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31700)
+- [конкурс младши прокурори (ДВ, бр. 28 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31735)
+- [Наредба № 2 от 27 април 2011 г. за конкурсите и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49055)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

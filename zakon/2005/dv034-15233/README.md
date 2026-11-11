@@ -92,6 +92,48 @@
 
 Act id: `zakon-2005-dv034-15233` (tags `zakon-2005-dv034-15233/<day>`; `python tools/on.py <day> zakon-2005-dv034-15233`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за общинския дълг (ДВ, бр. 80 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4211)
+- [Закон за допълнение на Закона за общинския дълг (ДВ, бр. 93 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10005)
+- [Закон за изменение и допълнение на Закона за общинския дълг (ДВ, бр. 61 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96388)
+- [Закон за изменение и допълнение на Закона за общинския дълг (ДВ, бр. 61 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15426)
+
+Cited by:
+
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 37 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1832)
+- [Закон за държавния бюджет на Република България за 2009 г. (ДВ, бр. 110 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13763)
+- [Закон за държавния бюджет на Република България за 2011 г. (ДВ, бр. 99 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41460)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48899)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 93 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58632)
+- [Закон за държавния бюджет на Република България за 2012 г. (ДВ, бр. 99 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59467)
+- [Закон за публично-частното партньорство (ДВ, бр. 45 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65225)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104194)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109996)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120044)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120521)
+- [Закон за държавния бюджет на Република България за 2023 г. (ДВ, бр. 66 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198020)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238909)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/11317)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 93 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13590)
+- [Закон за публично-частното партньорство (ДВ, бр. 45 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13692)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/28950)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66460)
+- [Закон за концесиите (ДВ, бр. 96 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66626)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77854)
+- [Закон за държавния бюджет на Република България за 2023 г. (ДВ, бр. 66 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164945)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166699)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

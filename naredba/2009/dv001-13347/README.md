@@ -170,6 +170,22 @@
 
 Act id: `naredba-2009-dv001-13347` (tags `naredba-2009-dv001-13347/<day>`; `python tools/on.py <day> naredba-2009-dv001-13347`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 41 от 2008 г. за изискванията към обекти, в които се отглеждат, развъждат и/или предлагат домашни любимци с цел търговия, към пансиони и приюти за животни (ДВ, бр. 30 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63553)
+- [Наредба за изменение и допълнение на Наредба № 41 от 2008 г. за изискванията към обекти, в които се отглеждат, развъждат и/или предлагат домашни любимци с цел търговия, към пансиони и приюти за животни (ДВ, бр. 81 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78754)
+- [Наредба за допълнение на Наредба № 41 от 2008 г. за изискванията към обекти, в които се отглеждат, развъждат и/или предлагат домашни любимци с цел търговия, към пансиони и приюти за животни (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95482)
+
+Cited by:
+
+- [адм. д. № 1265/2014 г. (ДВ, бр. 15 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82678)
+- [Наредба № 4 от 1 февруари 2021 г. за прилагане на Националната програма за овладяване популацията на безстопанствените кучета на територията на Република България и за процедурите по нейното изпълнение, механизма на финансиране и отчетност (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155679)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196747)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

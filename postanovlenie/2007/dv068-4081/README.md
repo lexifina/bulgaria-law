@@ -84,6 +84,15 @@
 
 Act id: `postanovlenie-2007-dv068-4081` (tags `postanovlenie-2007-dv068-4081/<day>`; `python tools/on.py <day> postanovlenie-2007-dv068-4081`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-6 от 20 септември 2007 г. за изразходване на средства от бюджетите по национално съфинансиране по туининг проекти (ДВ, бр. 80 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4240)
+- [Постановление № 236 от 13 септември 2016 г. за изменение на Устройствения правилник на Министерството на финансите, приет с Постановление № 249 на Министерския съвет от 2009 г. (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107599)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -27,6 +27,14 @@
 
 Act id: `instruktsiya-2012-dv090-70342` (tags `instruktsiya-2012-dv090-70342/<day>`; `python tools/on.py <day> instruktsiya-2012-dv090-70342`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № І-5 от 16 ноември 2015 г. за условията и реда за носене на служебно оръжие от държавните служители на Държавна агенция "Национална сигурност" (ДВ, бр. 101 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99552)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

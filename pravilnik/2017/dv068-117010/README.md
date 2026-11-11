@@ -220,6 +220,23 @@
 
 Act id: `pravilnik-2017-dv068-117010` (tags `pravilnik-2017-dv068-117010/<day>`; `python tools/on.py <day> pravilnik-2017-dv068-117010`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 91 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152452)
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235726)
+
+Cited by:
+
+- [Постановление № 70 от 8 май 2018 г. за изменение и допълнение на Устройствения правилник на Агенцията по геодезия, картография и кадастър, приет с Постановление № 242 на Министерския съвет от 2016 г. (ДВ, бр. 39 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126302)
+- [Постановление № 21 от 1 февруари 2019 г. за създаване на Държавна агенция "Безопасност на движението по пътищата" (ДВ, бр. 12 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134513)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2008 г. за функциите и организацията на дейността на бюрата за съдимост (ДВ, бр. 70 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177180)
+- [Постановление № 119 от 4 юли 2025 г. за приемане на Устройствен правилник на Министерството на енергетиката (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235891)
+- [Постановление № 139 от 25 юли 2025 г. за приемане на Устройствен правилник на Агенция "Пътна инфраструктура" (ДВ, бр. 62 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236411)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

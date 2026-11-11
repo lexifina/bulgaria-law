@@ -24,6 +24,21 @@
 
 Act id: `naredba-2009-dv094-27099` (tags `naredba-2009-dv094-27099/<day>`; `python tools/on.py <day> naredba-2009-dv094-27099`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 14 от 2009 г. за реда и начина за предоставяне достъп на органите на съдебната власт до Национална база данни "Население" (ДВ, бр. 34 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64036)
+- [Наредба за изменение и допълнение на Наредба № 14 от 2009 г. за реда и начина за предоставяне достъп на органите на съдебната власт до Национална база данни "Население" (ДВ, бр. 93 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79840)
+- [Наредба за изменение на Наредба № 14 от 2009 г. за реда и начина за предоставяне достъп на органите на съдебната власт до Регистъра на населението - Национална база данни "Население" (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92370)
+- [Наредба за изменение и допълнение на Наредба № 14 от 2009 г. за реда и начина за предоставяне достъп на органите на съдебната власт до Регистъра на населението - Национална база данни "Население" (ДВ, бр. 4 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144413)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-1 от 2023 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 103 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230924)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,23 @@
 
 Act id: `postanovlenie-2010-dv076-37244` (tags `postanovlenie-2010-dv076-37244/<day>`; `python tools/on.py <day> postanovlenie-2010-dv076-37244`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 21 от 3 февруари 2011 г. за изменение и допълнение на Постановление № 214 на Министерския съвет от 2010 г. за създаване на процедура за провеждане на избор на кандидат за съдия в Съда на Европейския съюз и в Общия съд (ДВ, бр. 13 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44475)
+- [Поправка в Постановление № 21 на Министерския съвет от 2011 г. за изменение и допълнение на Постановление № 214 на Министерския съвет от 2010 г. за създаване на процедура за провеждане на избор на кандидат за съдия в Съда на Европейския съюз и в Общия съд (ДВ, бр. 13 от 2011 г.) (ДВ, бр. 15 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45355)
+- [Постановление № 312 от 2 октомври 2014 г. за изменение и допълнение на Постановление № 214 на Министерския съвет от 2010 г. за създаване на процедура за провеждане на избор на кандидат за съдия в Съда на Европейския съюз и в Общия съд (ДВ, бр. 84 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88489)
+- [Постановление № 124 от 18 май 2015 г. за изменение и допълнение на Постановление № 214 на Министерския съвет от 2010 г. за създаване на процедура за провеждане на избор на кандидат за съдия и за генерален адвокат в Съда на Европейския съюз, и за съдия в Общия съд (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94625)
+- [Постановление № 330 от 30 ноември 2015 г. за отменяне на Постановление № 214 на Министерския съвет от 2010 г. за създаване на процедура за провеждане на избор на кандидат за съдия и за генерален адвокат в Съда на Европейския съюз, и за съдия в Общия съд (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99139)
+
+Cited by:
+
+- [Постановление № 152 от 17 юли 2012 г. за приемане на Устройствен правилник на Министерството на правосъдието (ДВ, бр. 56 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66654)
+- [Постановление № 215 от 23 септември 2013 г. за приемане на Устройствен правилник на Министерството на правосъдието (ДВ, бр. 84 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79084)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

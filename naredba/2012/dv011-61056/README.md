@@ -64,6 +64,20 @@
 
 Act id: `naredba-2012-dv011-61056` (tags `naredba-2012-dv011-61056/<day>`; `python tools/on.py <day> naredba-2012-dv011-61056`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2012 г. за създаването, съдържанието, поддържането, съхраняването и използването на Националния документален архив на Националния институт за недвижимото културно наследство и научния архив на музеите (ДВ, бр. 11 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82337)
+
+Cited by:
+
+- [Наредба № Н-12 от 21 ноември 2012 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния регистър на недвижимите културни ценности (ДВ, бр. 98 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70884)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба № 3 от 10 юли 2019 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния публичен регистър на недвижимите културни ценности (ДВ, бр. 57 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

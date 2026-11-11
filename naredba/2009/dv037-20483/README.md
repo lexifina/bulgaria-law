@@ -77,6 +77,24 @@
 
 Act id: `naredba-2009-dv037-20483` (tags `naredba-2009-dv037-20483/<day>`; `python tools/on.py <day> naredba-2009-dv037-20483`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 15 от 2009 г. за окачествяване и класификация на кланични трупове от говеда, свине и овце по скалата на Общността EUROP, докладване на цените и проверка в кланиците (ДВ, бр. 48 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34018)
+- [Наредба за изменение и допълнение на Наредба № 15 от 2009 г. за окачествяване и класификация на кланични трупове от говеда, свине и овце по скалата на Общността EUROP, докладване на цените и проверка в кланиците (ДВ, бр. 23 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83275)
+
+Cited by:
+
+- [Устройствен правилник на областните дирекции "Земеделие" (ДВ, бр. 7 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28798)
+- [Наредба № 19 от 23 юни 2010 г. за условията и реда за извършване на развъдна дейност и предлагане на пазара на чистопородни и хибридни свине за разплод (ДВ, бр. 51 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34292)
+- [Наредба № 21 от 30 юни 2010 г. за реда за контрол на изискванията на схемите за национални доплащания към директните плащания (ДВ, бр. 52 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34524)
+- [Наредба за изменение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134933)
+- [Наредба № 2 от 28 юли 2022 г. за класификация на кланични трупове на говеда, свине и овце по скàлите на Съюза, отчитане и докладване на пазарните цени на някои категории кланични трупове и проверки в кланиците (ДВ, бр. 64 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175306)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 3 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202430)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

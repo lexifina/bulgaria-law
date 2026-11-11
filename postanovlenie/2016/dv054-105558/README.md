@@ -49,6 +49,20 @@
 
 Act id: `postanovlenie-2016-dv054-105558` (tags `postanovlenie-2016-dv054-105558/<day>`; `python tools/on.py <day> postanovlenie-2016-dv054-105558`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 182 от 24 август 2018 г. за допълнение на Постановление № 167 на Министерския съвет от 2016 г. за определяне на реда за предоставяне на безвъзмездна финансова помощ по Фонд "Убежище, миграция и интеграция" и Фонд "Вътрешна сигурност" за периода 2014 - 2020 г. (ДВ, бр. 72 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129714)
+
+Cited by:
+
+- [Постановление № 208 от 12 август 2016 г. за приемане на Наредба за условията и реда за сключване, изпълнение и прекратяване на споразумение за интеграция на чужденци с предоставено убежище или международна закрила (ДВ, бр. 65 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106769)
+- [Постановление № 66 от 3 април 2017 г. за отменяне на Наредбата за условията и реда за сключване, изпълнение и прекратяване на споразумение за интеграция на чужденци с предоставено убежище или международна закрила, приета с Постановление № 208 на Министерския съвет от 2016 г. (ДВ, бр. 28 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113343)
+- [Постановление № 144 от 19 юли 2017 г. за приемане на Наредба за условията и реда за сключване, изпълнение и прекратяване на споразумението за интеграция на чужденците с предоставено убежище или международна закрила (ДВ, бр. 60 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116399)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

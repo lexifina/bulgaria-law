@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2016-dv001-99796` (tags `postanovlenie-2016-dv001-99796/<day>`; `python tools/on.py <day> postanovlenie-2016-dv001-99796`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 386 от 30 декември 2015 г. за изменение на Постановление № 373 на Министерския съвет от 2015 г. за одобряване на вътрешнокомпенсирани промени на утвърдените разходи по области на политики/бюджетни програми по бюджета на Министерството на регионалното развитие и благоустройството за 2015 г. (ДВ, бр. 2 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99857)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

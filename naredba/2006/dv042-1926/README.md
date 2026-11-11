@@ -38,6 +38,28 @@
 
 Act id: `naredba-2006-dv042-1926` (tags `naredba-2006-dv042-1926/<day>`; `python tools/on.py <day> naredba-2006-dv042-1926`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 25 от 2005 г. за минималните изисквания за хуманно отношение при отглеждане на кокошки носачки (ДВ, бр. 29 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3496)
+- [Наредба за изменение на Наредба № 25 от 2005 г. за минималните изисквания за хуманно отношение при отглеждане на кокошки носачки (ДВ, бр. 61 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5821)
+- [Наредба за допълнение на Наредба № 25 от 2005 г. за минималните изисквания за хуманно отношение при отглеждане на кокошки носачки (ДВ, бр. 102 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28067)
+- [Наредба за изменение и допълнение на Наредба № 25 от 2005 г. за минималните изисквания за хуманно отношение при отглеждане на кокошки носачки (ДВ, бр. 65 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244802)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 30 от 2006 г. за здравните изисквания към птици и яйца за люпене при придвижването или транспортирането им между Република България и държавите - членки на Европейския съюз, внасянето им от трети страни и за определяне на здравния статус на обектите, от които произхождат (ДВ, бр. 86 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2734)
+- [Наредба № 1 от 9 януари 2008 г. за изискванията за търговия с яйца за консумация (ДВ, бр. 7 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4701)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 50 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34323)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2008 г. за изискванията за търговия с яйца за консумация (ДВ, бр. 9 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60765)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 44 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104250)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 56 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115880)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 51 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235519)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2012 г. за минималните изисквания за защита и хуманно отношение към опитните животни и изискванията към обектите за използването, отглеждането и/или доставката им (ДВ, бр. 80 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237503)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

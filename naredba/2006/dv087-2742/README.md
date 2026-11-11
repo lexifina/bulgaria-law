@@ -22,6 +22,15 @@
 
 Act id: `naredba-2006-dv087-2742` (tags `naredba-2006-dv087-2742/<day>`; `python tools/on.py <day> naredba-2006-dv087-2742`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 29 от 23 февруари 2018 г. за изменение и допълнение на Наредбата за трудовите и непосредствено свързани с тях отношения между членовете на екипажа на кораба и корабопритежателя, приета с Постановление № 226 на Министерския съвет от 2003 г. (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123586)
+- [Наредба № 12 от 23 август 2023 г. за условията и реда за употреба на продукти за растителна защита (ДВ, бр. 74 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198984)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

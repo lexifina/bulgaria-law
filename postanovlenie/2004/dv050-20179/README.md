@@ -94,6 +94,21 @@
 
 Act id: `postanovlenie-2004-dv050-20179` (tags `postanovlenie-2004-dv050-20179/<day>`; `python tools/on.py <day> postanovlenie-2004-dv050-20179`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 105 от 4 май 2006 г. за изменение и допълнение на Наредбата за контрол на прекурсорите на наркотични вещества, приета с Постановление № 116 на Министерския съвет от 2004 г. (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1889)
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 28 от 14 февруари 2006 г. за приемане на Наредба за условията и реда за съхраняване и унищожаване на наркотични вещества, растения и прекурсори, както и за вземане на представителни проби от тях (ДВ, бр. 18 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1476)
+- [Постановление № 149 от 27 юни 2008 г. за отменяне на нормативни актове на Министерския съвет (ДВ, бр. 60 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5791)
+- [Постановление № 216 от 19 август 2004 г. за приемане на Наредба за условията и реда за разрешаване на дейностите по чл. 73, ал. 1 от Закона за контрол върху наркотичните вещества и прекурсорите (ДВ, бр. 76 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19126)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

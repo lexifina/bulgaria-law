@@ -29,6 +29,20 @@
 
 Act id: `postanovlenie-2015-dv068-97126` (tags `postanovlenie-2015-dv068-97126/<day>`; `python tools/on.py <day> postanovlenie-2015-dv068-97126`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 5 от 14 януари 2016 г. за изменение и допълнение на Наредбата за реда за избор на осигуряване, внасяне и разпределяне на задължителните осигурителни вноски, вноските за Фонд "Гарантирани вземания на работниците и служителите" и за обмен на информация, приета с Постановление № 233 на Министерския съвет от 2015 г. (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100110)
+- [Постановление № 59 от 30 март 2017 г. за изменение на Наредбата за реда за избор на осигуряване, внасяне и разпределяне на задължителните осигурителни вноски, вноските за Фонд "Гарантирани вземания на работниците и служителите" и за обмен на информация, приета с Постановление № 233 на Министерския съвет от 2015 г. (ДВ, бр. 28 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113282)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 62 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106162)
+- [Наредба за изменение и допълнение на Наредба № Н-8 от 2005 г. за съдържанието, сроковете, начина и реда за подаване и съхранение на данни от работодателите, осигурителите за осигурените при тях лица, както и от самоосигуряващите се лица (ДВ, бр. 5 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110973)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

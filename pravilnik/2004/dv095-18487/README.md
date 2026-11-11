@@ -244,6 +244,22 @@
 
 Act id: `pravilnik-2004-dv095-18487` (tags `pravilnik-2004-dv095-18487/<day>`; `python tools/on.py <day> pravilnik-2004-dv095-18487`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за съдебната администрация в районните, окръжните, военните и апелативните съдилища (ДВ, бр. 33 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3541)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2000 г. за организацията и работата на бюрата за съдимост (ДВ, бр. 67 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=745)
+- [Наредба № 4 от 6 февруари 2006 г. за служебния архив на частните съдебни изпълнители (ДВ, бр. 16 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1454)
+- [Решение № 10533 от 30 октомври 2006 г. по административно дело № 7485 от 2006 г. (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2793)
+- [Правилник за администрацията в районните, окръжните, административните, военните и апелативните съдилища (ДВ, бр. 9 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4720)
+- [Неофициален раздел на "Държавен вестник", брой 33 от 20.4.2007 г. (ДВ, бр. 33 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140207)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

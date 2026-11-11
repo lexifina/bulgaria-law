@@ -73,6 +73,20 @@
 
 Act id: `naredba-2006-dv081-2660` (tags `naredba-2006-dv081-2660/<day>`; `python tools/on.py <day> naredba-2006-dv081-2660`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 112 от 13 октомври 2006 г. за специфичните изисквания при извършване на фумигация и обеззаразяване на площи, помещения и растителна продукция срещу вредители (ДВ, бр. 87 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2742)
+- [Постановление № 322 от 5 декември 2006 г. за приемане на Наредба за изискванията към складовата база, транспортирането и съхранението на продукти за растителна защита (ДВ, бр. 101 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2959)
+- [Наредба № 15 от 3 август 2007 г. за условията и реда за интегрирано производство на растения и растителни продукти и тяхното означаване (ДВ, бр. 66 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4069)
+- [Закон за защита на растенията (ДВ, бр. 61 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86591)
+- [Наредба № 8 от 23 февруари 2021 г. за условията и реда за контрол върху продуктите за растителна защита, търговията, преопаковането, съхранението и употребата им (ДВ, бр. 18 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156243)
+- [Наредба № 12 от 23 август 2023 г. за условията и реда за употреба на продукти за растителна защита (ДВ, бр. 74 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198984)
+- [Закон за защита на растенията (ДВ, бр. 61 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14510)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

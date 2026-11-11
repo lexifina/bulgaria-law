@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2017-dv041-114589` (tags `postanovlenie-2017-dv041-114589/<day>`; `python tools/on.py <day> postanovlenie-2017-dv041-114589`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 230 от 20 октомври 2017 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2017 г. за финансово осигуряване на дейности по национални програми "Оптимизация на училищната мрежа" и "Без свободен час", одобрени с Решение № 216 на Министерския съвет от 2017 г. за одобряване на национални програми за развитие на образованието (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119140)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

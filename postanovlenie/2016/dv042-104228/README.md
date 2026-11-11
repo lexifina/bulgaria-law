@@ -120,6 +120,17 @@
 
 Act id: `postanovlenie-2016-dv042-104228` (tags `postanovlenie-2016-dv042-104228/<day>`; `python tools/on.py <day> postanovlenie-2016-dv042-104228`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 261 от 28 ноември 2018 г. за изменение на Правилника за прилагане на Закона за Националната служба за охрана, приет с Постановление № 131 на Министерския съвет от 2016 г. (ДВ, бр. 100 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132505)
+- [Постановление № 323 от 23 ноември 2020 г. за изменение и допълнение на Правилника за прилагане на Закона за Националната служба за охрана, приет с Постановление № 131 на Министерския съвет от 2016 г. (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154038)
+- [Постановление № 370 от 17 ноември 2022 г. за изменение и допълнение на Правилника за прилагане на Закона за Националната служба за охрана, приет с Постановление № 131 на Министерския съвет от 2016 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180317)
+- [Постановление № 30 от 11 февруари 2026 г. за изменение и допълнение на Правилника за прилагане на Закона за Националната служба за охрана, приет с Постановление № 131 на Министерския съвет от 2016 г. (ДВ, бр. 17 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241347)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

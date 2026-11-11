@@ -70,6 +70,24 @@
 
 Act id: `zakon-2007-dv049-3824` (tags `zakon-2007-dv049-3824/<day>`; `python tools/on.py <day> zakon-2007-dv049-3824`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за възобновяемите и алтернативните енергийни източници и биогоривата (ДВ, бр. 102 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27907)
+- [Закон за изменение и допълнение на Закона за възобновяемите и алтернативните енергийни източници и биогоривата (ДВ, бр. 102 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9621)
+
+Cited by:
+
+- [Закон за енергийната ефективност (ДВ, бр. 98 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10759)
+- [Постановление № 18 от 28 януари 2009 г. за приемане на Наредба за издаване на сертификати за произход на електрическа енергия, произведена от възобновяеми енергийни източници (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15539)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48899)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за енергията от възобновяеми източници (ДВ, бр. 35 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/11317)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

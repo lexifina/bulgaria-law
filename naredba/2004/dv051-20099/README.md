@@ -97,6 +97,16 @@
 
 Act id: `naredba-2004-dv051-20099` (tags `naredba-2004-dv051-20099/<day>`; `python tools/on.py <day> naredba-2004-dv051-20099`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 29 от 16 декември 2005 г. за условията и реда за производство на фиданки за залесяване в горските разсадници държавна собственост (ДВ, бр. 10 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1363)
+- [Наредба № 70 от 29 май 2006 г. за въвеждане на изисквания към етикета или документа, издаван от производителя на размножителен материал от декоративни растения (ДВ, бр. 46 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2023)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201446)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

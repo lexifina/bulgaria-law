@@ -103,6 +103,17 @@
 
 Act id: `instruktsiya-2011-dv079-57116` (tags `instruktsiya-2011-dv079-57116/<day>`; `python tools/on.py <day> instruktsiya-2011-dv079-57116`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-5 от 15 декември 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 4 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110913)
+- [Инструкция № РД-02-20-1 от 15 януари 2021 г. за създаване и поддържане на Държавната нивелачна мрежа (ДВ, бр. 10 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155575)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-5 от 15 декември 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 72 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161060)
+- [Инструкция за изменение и допълнение на Инструкция № РД-02-20-1 от 15 януари 2021 г. за създаване и поддържане на Държавната нивелачна мрежа (ДВ, бр. 72 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236997)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

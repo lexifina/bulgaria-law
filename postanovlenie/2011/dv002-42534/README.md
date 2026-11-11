@@ -146,6 +146,22 @@
 
 Act id: `postanovlenie-2011-dv002-42534` (tags `postanovlenie-2011-dv002-42534/<day>`; `python tools/on.py <day> postanovlenie-2011-dv002-42534`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 85 от 7 април 2011 г. за допълнение на Постановление № 334 на Министерския съвет от 2010 г. за изпълнението на държавния бюджет на Република България за 2011 г. (ДВ, бр. 31 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48270)
+- [Постановление № 310 от 18 ноември 2011 г. за изменение на Постановление № 334 на Министерския съвет от 2010 г. за изпълнението на държавния бюджет на Република България за 2011 г. (ДВ, бр. 93 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58848)
+
+Cited by:
+
+- [Решение № 1 от 31 март 2011 г. по конституционно дело № 22 от 2010 г. (ДВ, бр. 31 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48075)
+- [Постановление № 168 от 17 юни 2011 г. за предоставяне на средства от държавния бюджет за 2011 г. за модернизиране и оптимизация на държавните висши училища и за определяне на условията, критериите и реда за предоставянето им (ДВ, бр. 48 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52976)
+- [Наредба № 4 от 3 септември 2011 г. за условията и реда за финансово подпомагане на младежки дейности (ДВ, бр. 71 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56619)
+- [Постановление № 354 от 22 декември 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 104 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59828)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,15 @@
 
 Act id: `naredba-2020-dv015-146278` (tags `naredba-2020-dv015-146278/<day>`; `python tools/on.py <day> naredba-2020-dv015-146278`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-2 от 2020 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 103 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154150)
+- [Наредба за изменение на Наредба № Н-2 от 2020 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235729)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

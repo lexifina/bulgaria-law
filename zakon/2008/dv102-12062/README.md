@@ -76,6 +76,33 @@
 
 Act id: `zakon-2008-dv102-12062` (tags `zakon-2008-dv102-12062/<day>`; `python tools/on.py <day> zakon-2008-dv102-12062`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 60 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106064)
+- [Закон за изменение и допълнение на Закона за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 41 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234710)
+- [Закон за изменение и допълнение на Закона за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 60 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15663)
+- [Закон за изменение и допълнение на Закона за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 41 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165816)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26935)
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39254)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 51 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105096)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120212)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139647)
+- [Закон за изискванията за достъпност на продукти и услуги (ДВ, бр. 31 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233836)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9689)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10070)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 51 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15832)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77756)
+- [Закон за изменение и допълнение на Закона за българските лични документи (ДВ, бр. 58 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157032)
+- [Закон за изискванията за достъпност на продукти и услуги (ДВ, бр. 31 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165848)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

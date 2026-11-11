@@ -32,6 +32,20 @@
 
 Act id: `postanovlenie-2012-dv092-70582` (tags `postanovlenie-2012-dv092-70582/<day>`; `python tools/on.py <day> postanovlenie-2012-dv092-70582`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 35 от 20 февруари 2014 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за хазарта, приета с Постановление № 289 на Министерския съвет от 2012 г. (ДВ, бр. 17 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82913)
+- [Постановление № 334 от 13 декември 2019 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за хазарта, приета с Постановление № 289 на Министерския съвет от 2012 г. (ДВ, бр. 99 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143754)
+- [Постановление № 36 от 4 февруари 2021 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за хазарта, приета с Постановление № 289 на Министерския съвет от 2012 г. (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155759)
+
+Cited by:
+
+- [Поправка в Тарифа за таксите, които се събират по Закона за хазарта, приета с Постановление № 289 на Министерския съвет от 2012 г. (ДВ, бр. 92 от 2012 г.) (ДВ, бр. 98 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70999)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

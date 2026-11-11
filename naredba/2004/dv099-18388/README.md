@@ -873,6 +873,20 @@
 
 Act id: `naredba-2004-dv099-18388` (tags `naredba-2004-dv099-18388/<day>`; `python tools/on.py <day> naredba-2004-dv099-18388`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 14 от 15 юни 2005 г. за технически правила и нормативи за проектиране, изграждане и ползване на обектите и съоръженията за производство, преобразуване, пренос и разпределение на електрическа енергия (ДВ, бр. 53 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=479)
+- [Наредба № РД-16-57 от 28 януари 2008 г. за дейността на операторите на електроенергийната система и на разпределителните мрежи, както и на оперативния дежурен персонал от електроенергийните обекти и електрическите уредби на потребителите (ДВ, бр. 17 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4811)
+- [Наредба № 16-116 от 8 февруари 2008 г. за техническа експлоатация на енергообзавеждането (ДВ, бр. 26 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4916)
+- [Наредба № 8 от 28 декември 2004 г. за мълниезащитата на сгради, външни съоръжения и открити пространства (ДВ, бр. 6 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14726)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2003 г. за проектиране, изграждане и експлоатация на електрически уредби в сгради (ДВ, бр. 17 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14896)
+- [Правилник за безопасност и здраве при работа по електрообзавеждането с напрежение до 1000 V (ДВ, бр. 21 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15011)
+- [Поправка в Наредба № 4 от 9.VI.2004 г. за техническа експлоатация на електрообзавеждането (ДВ, бр. 99 от 2004 г.) (ДВ, бр. 101 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70925)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -23,6 +23,26 @@
 
 Act id: `postanovlenie-2015-dv052-95722` (tags `postanovlenie-2015-dv052-95722/<day>`; `python tools/on.py <day> postanovlenie-2015-dv052-95722`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 103 от 25 март 2021 г. за изменение и допълнение на Постановление № 168 на Министерския съвет от 2015 г. за създаване на Координационен съвет за подготовка на Република България за членство в еврозоната (ДВ, бр. 26 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156925)
+- [Постановление № 262 от 1 септември 2022 г. за изменение и допълнение на Постановление № 168 на Министерския съвет от 2015 г. за създаване на Координационен съвет за подготовка на Република България за членство в еврозоната (ДВ, бр. 72 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=177680)
+- [Постановление № 218 от 3 ноември 2023 г. за изменение и допълнение на Постановление № 168 на Министерския съвет от 2015 г. за създаване на Координационен съвет за подготовка на Република България за членство в еврозоната (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201064)
+- [Постановление № 99 от 20 юни 2025 г. за изменение и допълнение на Постановление № 168 на Министерския съвет от 2015 г. за създаване на Координационен съвет за подготовка на Република България за членство в еврозоната (ДВ, бр. 51 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235618)
+
+Cited by:
+
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 326 от 13 октомври 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178963)
+- [Постановление № 104 от 21 юли 2023 г. за създаване на Институт за анализи и прогнози и за приемане на Устройствен правилник на Института за анализи и прогнози (ДВ, бр. 63 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197678)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

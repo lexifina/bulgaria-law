@@ -61,6 +61,28 @@
 
 Act id: `postanovlenie-2004-dv068-19474` (tags `postanovlenie-2004-dv068-19474/<day>`; `python tools/on.py <day> postanovlenie-2004-dv068-19474`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 173 от 14 юли 2008 г. за изменение и допълнение на Наредбата за изискванията към бутилираните натурални минерални, изворни и трапезни води, предназначени за питейни цели, приета с Постановление № 178 на Министерския съвет от 2004 г. (ДВ, бр. 66 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6584)
+- [Постановление № 33 от 1 март 2005 г. за изменение и допълнение на Наредбата за изискванията към бутилираните натурални минерални, изворни и трапезни води, предназначени за питейни цели, приета с Постановление № 178 на Министерския съвет от 2004 г. (ДВ, бр. 22 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15019)
+
+Cited by:
+
+- [Решение № 504 от 27 май 2005 г. за изменение на Решение № 578 на Министерския съвет от 1999 г. за предоставяне на концесия върху минерална вода от находище "Горна баня" - София, Столична община, област София (ДВ, бр. 47 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=401)
+- [Решение № 572 от 22 юни 2005 г. за предоставяне на концесия за част от минералната вода, обект - изключителна държавна собственост, от находище "Велинград - Чепино", Велинград, община Велинград, област Пазарджик (ДВ, бр. 54 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=487)
+- [Постановление № 161 от 29 юни 2006 г. за приемане на Правилник за прилагане на Закона за концесиите (ДВ, бр. 54 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2153)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22464)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 9 от 12 юни 2014 г. за определяне на реда за издаване на здравен сертификат за износ на продукти и стоки със значение за здравето на човека (ДВ, бр. 51 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85815)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за проучване, ползване и опазване на подземните води (ДВ, бр. 102 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110357)
+- [Неофициален раздел на "Държавен вестник", брой 14 от 13.2.2007 г. (ДВ, бр. 14 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140188)
+- [Неофициален раздел на "Държавен вестник", брой 66 от 14.8.2007 г. (ДВ, бр. 66 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140240)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

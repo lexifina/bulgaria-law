@@ -21,6 +21,16 @@
 
 Act id: `naredba-2015-dv046-95335` (tags `naredba-2015-dv046-95335/<day>`; `python tools/on.py <day> naredba-2015-dv046-95335`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 21 от 9 октомври 2018 г. за придобиване на квалификация по професията "Минен техник" (ДВ, бр. 91 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130870)
+- [Наредба № 20 от 9 октомври 2018 г. за придобиване на квалификация по професията "Оператор в минната промишленост" (ДВ, бр. 90 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130875)
+- [Наредба № 22 от 9 октомври 2018 г. за придобиване на квалификация по професията "Сондьор" (ДВ, бр. 92 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130955)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

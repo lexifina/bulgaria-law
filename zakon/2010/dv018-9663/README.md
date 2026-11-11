@@ -96,9 +96,45 @@
 
 Act id: `zakon-2010-dv018-9663` (tags `zakon-2010-dv018-9663/<day>`; `python tools/on.py <day> zakon-2010-dv018-9663`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 58 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9996)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 91 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14063)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 35 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14754)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35024)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 91 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70315)
+- [Закон за туризма (ДВ, бр. 30 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74314)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 35 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84285)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 61 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86595)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за кредитите за недвижими имоти на потребители (ДВ, бр. 59 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106043)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 58 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9996)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 91 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14063)
+- [Закон за туризма (ДВ, бр. 30 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14039)
+- [Закон за изменение и допълнение на Закона за потребителския кредит (ДВ, бр. 35 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14754)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 61 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14654)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за кредитите за недвижими имоти на потребители (ДВ, бр. 59 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/20984)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за въвеждане на еврото в Република България (ДВ, бр. 70 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165589)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

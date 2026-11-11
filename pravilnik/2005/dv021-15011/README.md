@@ -543,6 +543,29 @@
 
 Act id: `pravilnik-2005-dv021-15011` (tags `pravilnik-2005-dv021-15011/<day>`; `python tools/on.py <day> pravilnik-2005-dv021-15011`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за безопасност и здраве при работа по електрообзавеждането с напрежение до 1000 V (ДВ, бр. 17 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45203)
+- [Правилник за изменение на Правилника за безопасност и здраве при работа по електрообзавеждането с напрежение до 1000 V (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78271)
+
+Cited by:
+
+- [Наредба № 13 от 30 декември 2005 г. за осигуряване на здравословни и безопасни условия на труд в железопътния транспорт (ДВ, бр. 12 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1389)
+- [Наредба № 22 от 8 май 2006 г. за изпитване на електрозащитни средства в експлоатация (ДВ, бр. 45 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1997)
+- [Наредба № 38 от 9 януари 2012 г. за придобиване на квалификация по професията "Електротехник" (ДВ, бр. 16 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61233)
+- [Наредба № 39 от 9 януари 2012 г. за придобиване на квалификация по професията "Електромонтьор" (ДВ, бр. 16 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61234)
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2011 г. за условията, размерите и реда за изплащане на допълнително възнаграждение за рискове за живота и здравето, които не могат да бъдат отстранени, ограничени или намалени, за военнослужещите и цивилните служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130912)
+- [Постановление № 286 от 18 ноември 2019 г. за приемане на Наредба за правилата и нормите за проектиране, разполагане и демонтаж на електронни съобщителни мрежи (ДВ, бр. 92 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143075)
+- [Наредба № 21 от 11 август 2020 г. за придобиване на квалификация по професията "Монтьор на подемно-транспортна техника" (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151279)
+- [Наредба № 15 от 8 юли 2021 г. за придобиване на квалификация по професията "Електромонтьор" (ДВ, бр. 61 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160150)
+- [Наредба № РД-06-3 от 23 февруари 2022 г. за осигуряване на здравословни и безопасни условия на труд в черната и цветната металургия (ДВ, бр. 19 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170289)
+- [Наредба № 9 от 14 февруари 2023 г. за придобиване на квалификация по професията "Електротехник" (ДВ, бр. 20 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187340)
+- [Наредба № РД-02-20-1 от 26 октомври 2023 г. за изпълнение и приемане на земни работи, земни съоръжения, земна основа и фундаменти (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201062)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

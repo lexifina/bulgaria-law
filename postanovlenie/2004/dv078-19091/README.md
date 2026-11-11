@@ -57,6 +57,21 @@
 
 Act id: `postanovlenie-2004-dv078-19091` (tags `postanovlenie-2004-dv078-19091/<day>`; `python tools/on.py <day> postanovlenie-2004-dv078-19091`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 42 от 23 март 2018 г. за изменение на Правилника за устройството и дейността на Държавно предприятие "Кабиюк" - Шумен, приет с Постановление № 228 на Министерския съвет от 2004 г. (ДВ, бр. 28 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124672)
+- [Постановление № 157 от 13 август 2025 г. за допълнение на Правилника за устройството и дейността на Държавно предприятие "Кабиюк" - Шумен, приет с Постановление № 228 на Министерския съвет от 2004 г. (ДВ, бр. 67 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236784)
+
+Cited by:
+
+- [Постановление № 394 от 11 декември 2014 г. за изменение и допълнение на Устройствения правилник на Министерството на земеделието и храните, приет с Постановление № 188 на Министерския съвет от 2013 г. (ДВ, бр. 103 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90606)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

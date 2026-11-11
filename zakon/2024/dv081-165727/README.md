@@ -9,6 +9,14 @@
 
 Act id: `zakon-2024-dv081-165727` (tags `zakon-2024-dv081-165727/<day>`; `python tools/on.py <day> zakon-2024-dv081-165727`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за изменение и допълнение на Закона за физическото възпитание и спорта (ДВ, бр. 85 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163295)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

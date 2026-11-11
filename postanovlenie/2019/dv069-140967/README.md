@@ -28,6 +28,14 @@
 
 Act id: `postanovlenie-2019-dv069-140967` (tags `postanovlenie-2019-dv069-140967/<day>`; `python tools/on.py <day> postanovlenie-2019-dv069-140967`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 296 от 28 ноември 2019 г. за изменение на Постановление № 210 на Министерския съвет от 2019 г. за приемане на план-сметка за разходите по подготовката и произвеждането на първи и втори тур на изборите за общински съветници и кметове през 2019 г. (ДВ, бр. 95 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143341)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

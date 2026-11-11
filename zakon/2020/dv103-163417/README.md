@@ -41,9 +41,26 @@
 
 Act id: `zakon-2020-dv103-163417` (tags `zakon-2020-dv103-163417/<day>`; `python tools/on.py <day> zakon-2020-dv103-163417`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за бюджета на държавното обществено осигуряване за 2021 г. (ДВ, бр. 77 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163713)
+
+Cited by:
+
+- [Постановление № 416 от 30 декември 2020 г. за изменение на Постановление № 151 на Министерския съвет от 2020 г. за определяне на условията и реда за изплащане на средства за запазване на заетостта на работници и служители след периода на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и извънредната епидемична обстановка, обявена с Решение № 325 и удължена с Решение № 378 на Министерския съвет от 2020 г. (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154832)
+- [Постановление № 93 от 18 март 2021 г. за изменение и допълнение на Постановление № 151 на Министерския съвет от 2020 г. за определяне на условията и реда за изплащане на средства за запазване на заетостта на работници и служители след периода на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и извънредната епидемична обстановка, обявена с Решение № 325 и удължена с Решение № 378 на Министерския съвет от 2020 г. (ДВ, бр. 24 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156791)
+- [Закон за изменение и допълнение на Закона за бюджета на държавното обществено осигуряване за 2021 г. (ДВ, бр. 77 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162001)
+- [Постановление № 322 от 7 октомври 2021 г. за изменение и допълнение на Постановление № 151 на Министерския съвет от 2020 г. за определяне на условията и реда за изплащане на средства за запазване на заетостта на работници и служители след периода на извънредното положение, обявено с решение на Народното събрание от 13 март 2020 г., и извънредната епидемична обстановка, обявена с Решение № 325 и удължена с Решение № 378 на Министерския съвет от 2020 г. (ДВ, бр. 85 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162953)
+- [Закон за изменение и допълнение на Закона за бюджета на държавното обществено осигуряване за 2021 г. (ДВ, бр. 77 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163713)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

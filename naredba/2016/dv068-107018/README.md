@@ -23,6 +23,14 @@
 
 Act id: `naredba-2016-dv068-107018` (tags `naredba-2016-dv068-107018/<day>`; `python tools/on.py <day> naredba-2016-dv068-107018`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 8121з-902 от 22.08.2016 г. за условията и реда за извършване на лична охрана на физически лица (ДВ, бр. 48 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158664)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

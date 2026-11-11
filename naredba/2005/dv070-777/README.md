@@ -20,6 +20,18 @@
 
 Act id: `naredba-2005-dv070-777` (tags `naredba-2005-dv070-777/<day>`; `python tools/on.py <day> naredba-2005-dv070-777`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 27 от 2005 г. за здравните изисквания към дрехите втора употреба (ДВ, бр. 80 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151439)
+
+Cited by:
+
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

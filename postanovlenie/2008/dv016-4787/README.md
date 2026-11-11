@@ -93,6 +93,20 @@
 
 Act id: `postanovlenie-2008-dv016-4787` (tags `postanovlenie-2008-dv016-4787/<day>`; `python tools/on.py <day> postanovlenie-2008-dv016-4787`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 223 от 8 септември 2008 г. за изменение и допълнение на Наредбата за отдаване под наем и за разпореждане с имоти от ведомствения жилищен фонд на Министерството на отбраната и за изплащане на компенсационни суми на кадровите военнослужещи, които ползват жилище при условията на свободно договаряне, приета с Постановление № 16 на Министерския съвет от 2008 г. (ДВ, бр. 81 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8713)
+
+Cited by:
+
+- [Постановление № 228 от 16 септември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 83 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8967)
+- [Постановление № 43 от 19 февруари 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16506)
+- [Постановление № 176 от 10 юли 2009 г. за приемане на Наредба за разпореждане с жилища, ателиета и гаражи от жилищния фонд на Министерството на отбраната (ДВ, бр. 57 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23468)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

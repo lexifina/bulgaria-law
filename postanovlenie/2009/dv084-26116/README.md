@@ -15,6 +15,19 @@
 
 Act id: `postanovlenie-2009-dv084-26116` (tags `postanovlenie-2009-dv084-26116/<day>`; `python tools/on.py <day> postanovlenie-2009-dv084-26116`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 281 от 26 ноември 2009 г. за изменение на Постановление № 247 на Министерския съвет от 2009 г. за внасяне на допълнителни средства в републиканския бюджет за 2009 г. от търговски дружества с държавно участие в капитала (ДВ, бр. 96 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27343)
+- [Постановление № 301 от 10 декември 2009 г. за допълнение на Постановление № 247 на Министерския съвет от 2009 г. за внасяне на допълнителни средства в републиканския бюджет за 2009 г. от търговски дружества с държавно участие в капитала (ДВ, бр. 101 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27766)
+
+Cited by:
+
+- [Постановление № 319 от 28 декември 2009 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 1 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28331)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

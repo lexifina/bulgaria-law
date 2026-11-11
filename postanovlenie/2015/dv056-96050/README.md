@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2015-dv056-96050` (tags `postanovlenie-2015-dv056-96050/<day>`; `python tools/on.py <day> postanovlenie-2015-dv056-96050`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 259 от 23 септември 2015 г. за изменение на Постановление № 185 на Министерския съвет от 2015 г. за одобряване на промени по бюджета на Министерството на финансите за 2015 г. във връзка с учредяване на търговско дружество (ДВ, бр. 75 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97657)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

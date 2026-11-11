@@ -132,6 +132,15 @@
 
 Act id: `pravilnik-2005-dv044-340` (tags `pravilnik-2005-dv044-340/<day>`; `python tools/on.py <day> pravilnik-2005-dv044-340`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-3 от 13 септември 2006 г. за реда за действие на военнополицейските органи при задържане на лица в регионалните служби на служба "Сигурност - Военна полиция и Военно контраразузнаване", за оборудването на помещенията за настаняване на задържани лица и реда в тях (ДВ, бр. 80 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2641)
+- [Правилник за структурата и организацията на дейността на служба "Военна полиция" (ДВ, бр. 28 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4940)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

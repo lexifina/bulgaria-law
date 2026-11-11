@@ -30,6 +30,14 @@
 
 Act id: `instruktsiya-2017-dv087-119135` (tags `instruktsiya-2017-dv087-119135/<day>`; `python tools/on.py <day> instruktsiya-2017-dv087-119135`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-848 от 30 юни 2025 г. за условията и реда за провеждане на тестове за установяване на изпълнението на служебните задължения от държавни служители на Министерството на вътрешните работи (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235808)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

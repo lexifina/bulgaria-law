@@ -81,6 +81,20 @@
 
 Act id: `instruktsiya-2017-dv077-117907` (tags `instruktsiya-2017-dv077-117907/<day>`; `python tools/on.py <day> instruktsiya-2017-dv077-117907`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение на Инструкция № И-5 от 2017 г. за условията и реда за организиране, поддържане и достъп до електронния регистър на военнослужещите и цивилните служители - "Автоматизирана система за управление на човешките ресурси" (ДВ, бр. 98 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143585)
+- [Инструкция за изменение на Инструкция № И-5 от 2017 г. за условията и реда за организиране, поддържане и достъп до електронния регистър на военнослужещите и цивилните служители - "Автоматизирана система за управление на човешките ресурси" (ДВ, бр. 107 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154462)
+- [Инструкция за изменение на Инструкция № И-5 от 5.09.2017 г. за условията и реда за организиране, поддържане и достъп до електронния регистър на военнослужещите и цивилните служители - "Автоматизирана система за управление на човешките ресурси" (ДВ, бр. 84 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162447)
+
+Cited by:
+
+- [Инструкция № И-1 от 8 юни 2022 г. за условията и реда за организиране, поддържане и достъп до електронния регистър на военнослужещите и цивилните служители - "Автоматизирана система за управление на човешките ресурси" (ДВ, бр. 45 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174077)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

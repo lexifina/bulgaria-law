@@ -32,6 +32,21 @@
 
 Act id: `naredba-2004-dv044-20936` (tags `naredba-2004-dv044-20936/<day>`; `python tools/on.py <day> naredba-2004-dv044-20936`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 103 от 2004 г. за одобряване типа на нови моторни превозни средства по отношение на мощността на двигателя (ДВ, бр. 12 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3250)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 75 от 2003 г. за одобряване типа на нови моторни превозни средства от категориите М2, М3, N и техните ремаркета от категория О по отношение на масите и размерите (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1895)
+- [Наредба за изменение и допълнение на Наредба № 77 от 2003 г. за одобряване типа на нови моторни превозни средства по отношение на емисии на въглероден диоксид и разхода на гориво (ДВ, бр. 87 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2745)
+- [Наредба за изменение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 75 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68641)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

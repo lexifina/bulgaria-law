@@ -35,6 +35,46 @@
 
 Act id: `pravilnik-2012-dv012-61124` (tags `pravilnik-2012-dv012-61124/<day>`; `python tools/on.py <day> pravilnik-2012-dv012-61124`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Българка" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73947)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Българка" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87828)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Беласица" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73946)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Витоша" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73948)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Врачански Балкан" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73949)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Златни пясъци" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73950)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Персина" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73951)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Рилски манастир" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73952)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Русенски Лом" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73953)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Сините камъни" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73954)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Странджа" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73955)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Шуменско плато" (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73956)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Беласица" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87827)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Витоша" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87829)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Врачански Балкан" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87830)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Златни пясъци" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87831)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Персина" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87832)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Рилски манастир" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87833)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Русенски Лом" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87834)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Сините камъни" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87835)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Странджа" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87836)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Шуменско плато" (ДВ, бр. 77 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87837)
+- [Правилник за изменение на Устройствения правилник на Дирекция на Природен парк "Врачански Балкан" (ДВ, бр. 54 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95865)
+- [Решение № 12997 от 2 декември 2015 г. по административно дело № 13261 от 2014 г. (ДВ, бр. 7 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99921)
+- [Правилник за изменение и допълнение на Устройствения правилник на дирекция на природен парк "Витоша" (ДВ, бр. 22 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101930)
+- [Правилник за изменение на Устройствения правилник на Дирекция на Природен парк "Витоша" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103552)
+- [Правилник за изменение на Устройствения правилник на Дирекция на Природен парк "Витоша" (ДВ, бр. 61 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106065)
+- [адм. д. № 11146/2016 г. (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108901)
+- [Правилник за изменение на Устройствения правилник на дирекция на природен парк "Сините камъни" (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118171)
+- [Устройствен правилник на дирекциите на природните паркове в България (ДВ, бр. 1 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231730)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

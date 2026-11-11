@@ -62,6 +62,26 @@
 
 Act id: `postanovlenie-2008-dv083-8965` (tags `postanovlenie-2008-dv083-8965/<day>`; `python tools/on.py <day> postanovlenie-2008-dv083-8965`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 239 от 15 октомври 2010 г. за изменение на Устройствения правилник на Селскостопанската академия, приет с Постановление № 226 на Министерския съвет от 2008 г. (ДВ, бр. 84 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38279)
+- [Постановление № 29 от 14 февруари 2012 г. за изменение и допълнение на Устройствения правилник на Селскостопанската академия, приет с Постановление № 226 на Министерския съвет от 2008 г. (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61610)
+- [Постановление № 91 от 17 април 2014 г. за изменение на Устройствения правилник на Селскостопанската академия, приет с Постановление № 226 на Министерския съвет от 2008 г. (ДВ, бр. 36 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84499)
+- [Постановление № 151 от 25 юли 2018 г. за приемане на Устройствен правилник на Селскостопанската академия (ДВ, бр. 63 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128925)
+
+Cited by:
+
+- [Постановление № 121 от 25 май 2009 г. за преминаване на Института по розата и етеричномаслените култури - Казанлък, и Института по тютюна и тютюневите изделия - с. Марково, област Пловдив, към Селскостопанската академия (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21482)
+- [Постановление № 231 от 25 септември 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 79 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25397)
+- [Постановление № 305 от 20 декември 2010 г. за преминаване на Института за защита на растенията от Националната служба за растителна защита към Селскостопанската академия (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42182)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 234 от 11 октомври 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 91 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79619)
+- [Постановление № 90 от 16 април 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93881)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

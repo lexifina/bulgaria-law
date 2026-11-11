@@ -169,6 +169,14 @@
 
 Act id: `instruktsiya-2019-dv008-133999` (tags `instruktsiya-2019-dv008-133999/<day>`; `python tools/on.py <day> instruktsiya-2019-dv008-133999`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-976 от 27 юни 2023 г. за условията и реда за осъществяване на водолазна дейност от полицейските органи и органите за пожарна безопасност и защита на населението в Министерството на вътрешните работи (ДВ, бр. 57 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196861)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

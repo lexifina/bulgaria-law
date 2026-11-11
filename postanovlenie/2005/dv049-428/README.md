@@ -17,6 +17,17 @@
 
 Act id: `postanovlenie-2005-dv049-428` (tags `postanovlenie-2005-dv049-428/<day>`; `python tools/on.py <day> postanovlenie-2005-dv049-428`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 34 от 21 февруари 2006 г. за приемане на Устройствен правилник на Министерството на външните работи (ДВ, бр. 19 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1490)
+- [Постановление № 221 от 22 август 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 71 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2465)
+- [Правилник за устройството и дейността на Държавния културен институт към министъра на външните работи (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2671)
+- [Постановление № 10 от 16 януари 2017 г. за изменение и допълнение на Устройствения правилник на Министерството на външните работи, приет с Постановление № 202 на Министерския съвет от 2013 г. (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111244)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

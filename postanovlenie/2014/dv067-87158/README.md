@@ -43,6 +43,18 @@
 
 Act id: `postanovlenie-2014-dv067-87158` (tags `postanovlenie-2014-dv067-87158/<day>`; `python tools/on.py <day> postanovlenie-2014-dv067-87158`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 1 от 3 април 2015 г. за реда и начина за осъществяване на контролно-ревизионна дейност от контролните органи на Националния осигурителен институт (ДВ, бр. 28 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93708)
+- [Постановление № 188 от 20 юли 2015 г. за приемане на Наредба за паричните обезщетения и помощи от държавното обществено осигуряване (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96078)
+- [Закон за бюджета на държавното обществено осигуряване за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109995)
+- [Постановление № 267 от 22 октомври 2019 г. за изменение и допълнение на Правилника за устройството и организацията на работа на органите на медицинската експертиза и на регионалните картотеки на медицинските експертизи, приет с Постановление № 83 на Министерския съвет от 2010 г. (ДВ, бр. 84 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142271)
+- [Закон за бюджета на държавното обществено осигуряване за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66461)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -41,6 +41,21 @@
 
 Act id: `pravilnik-2012-dv061-67296` (tags `pravilnik-2012-dv061-67296/<day>`; `python tools/on.py <day> pravilnik-2012-dv061-67296`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Държавно предприятие "Радиоактивни отпадъци" (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73577)
+
+Cited by:
+
+- [Постановление № 197 от 2 септември 2013 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78673)
+- [Правилник за устройството и дейността на Държавно предприятие "Радиоактивни отпадъци" (ДВ, бр. 5 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81745)
+- [Устройствен правилник на Патентното ведомство (ДВ, бр. 9 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82088)
+- [Правилник за устройството и дейността на Държавно предприятие "Радиоактивни отпадъци" (ДВ, бр. 85 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130665)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -31,6 +31,22 @@
 
 Act id: `pravilnik-2013-dv014-72819` (tags `pravilnik-2013-dv014-72819/<day>`; `python tools/on.py <day> pravilnik-2013-dv014-72819`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73961)
+- [Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Пловдив (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96556)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73959)
+- [Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. Варна (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73960)
+- [Правилник за изменение и допълнение на Устройствения правилник на Лесозащитна станция гр. София (ДВ, бр. 54 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95864)
+- [Правилник за изменение на Устройствения правилник на Лесозащитна станция гр. София (ДВ, бр. 64 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96671)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

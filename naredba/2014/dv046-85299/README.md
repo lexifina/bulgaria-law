@@ -34,6 +34,19 @@
 
 Act id: `naredba-2014-dv046-85299` (tags `naredba-2014-dv046-85299/<day>`; `python tools/on.py <day> naredba-2014-dv046-85299`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 1 от 2014 г. за условията и реда за възстановяване на част от транспортните разходи на педагогическия персонал в детските градини, училищата и обслужващите звена (ДВ, бр. 13 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92002)
+
+Cited by:
+
+- [Постановление № 50 от 17 март 2016 г. за одобряване на допълнителни трансфери по бюджетите на общините за възстановяване на част от разходите, извършени от лицата от педагогическия персонал за транспорт от местоживеенето им до местоработата в друго населено място и обратно за 2016 г. (ДВ, бр. 22 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102020)
+- [Наредба № 1 от 16 януари 2017 г. за условията и реда за възстановяване на транспортните разходи или на разходите за наем на педагогическите специалисти в институциите в системата на предучилищното и училищното образование (ДВ, бр. 10 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111350)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

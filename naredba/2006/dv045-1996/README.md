@@ -47,6 +47,15 @@
 
 Act id: `naredba-2006-dv045-1996` (tags `naredba-2006-dv045-1996/<day>`; `python tools/on.py <day> naredba-2006-dv045-1996`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 54 от 2006 г. за водене на регистрите по чл. 16 от Закона за рибарството и аквакултурите (ДВ, бр. 82 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37892)
+- [Поправка в Наредбата за изменение и допълнение на Наредба № 54 от 2006 г. за водене на регистрите по чл. 16 от Закона за рибарството и аквакултурите (ДВ, бр. 82 от 2010 г.) (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41814)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

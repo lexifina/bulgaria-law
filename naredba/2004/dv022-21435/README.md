@@ -59,6 +59,19 @@
 
 Act id: `naredba-2004-dv022-21435` (tags `naredba-2004-dv022-21435/<day>`; `python tools/on.py <day> naredba-2004-dv022-21435`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 12 от 26 януари 2006 г. за приемане на Наредба за съществените изисквания и оценяване съответствието на плавателните съдове за отдих (ДВ, бр. 12 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1382)
+- [Наредба за изменение и допълнение на Наредба № 77 от 2003 г. за одобряване типа на нови моторни превозни средства по отношение на емисии на въглероден двуокис и разхода на гориво (ДВ, бр. 45 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1999)
+- [Наредба № 73 от 15 май 2006 г. за одобряване типа на нови моторни превозни средства по отношение на замърсяването на въздуха от емисии от двигателите (ДВ, бр. 51 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2107)
+- [Наредба за изменение и допълнение на Наредба № 66 от 2003 г. за одобряване типа на нови моторни превозни средства с дизелови двигатели по отношение на емисиите от отработилите газове (ДВ, бр. 54 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2157)
+- [Наредба № 78 от 28 ноември 2006 г. за одобряване типа на: двигатели със запалване чрез сгъстяване по отношение на емисиите замърсяващи газове и частици; двигатели с принудително запалване, работещи с гориво "природен газ" или "втечнен нефтен газ", по отношение на емисиите замърсяващи газове; нови моторни превозни средства, оборудвани с тези двигатели (ДВ, бр. 1 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3075)
+- [Наредба № 14 от 8 април 2004 г. за условията и реда за одобрение на типа на двигатели с компресионно запалване и за одобрение на типа на нови колесни трактори по отношение на емисиите на замърсители (ДВ, бр. 49 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20247)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

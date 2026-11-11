@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2016-dv102-110434` (tags `postanovlenie-2016-dv102-110434/<day>`; `python tools/on.py <day> postanovlenie-2016-dv102-110434`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 377 от 28 декември 2016 г. за одобряване на допълнителни разходи/трансфери за 2016 г. (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110788)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

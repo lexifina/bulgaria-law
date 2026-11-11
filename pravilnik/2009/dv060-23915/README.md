@@ -43,6 +43,20 @@
 
 Act id: `pravilnik-2009-dv060-23915` (tags `pravilnik-2009-dv060-23915/<day>`; `python tools/on.py <day> pravilnik-2009-dv060-23915`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Главна дирекция "Охрана" (ДВ, бр. 12 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111686)
+- [Правилник за изменение на Правилника за устройството и дейността на Главна дирекция "Охрана" (ДВ, бр. 1 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182641)
+
+Cited by:
+
+- [Правилник за изменение на Правилника за устройството и дейността на Главна дирекция ,,Охрана‘‘ (ДВ, бр. 21 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123643)
+- [Инструкция № И-1 от 13 януари 2026 г. за взаимодействие между Националната служба за охрана и Главна дирекция "Охрана" към министъра на правосъдието при осъществяване на дейностите им (ДВ, бр. 10 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240713)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,15 @@
 
 Act id: `naredba-2009-dv005-14039` (tags `naredba-2009-dv005-14039/<day>`; `python tools/on.py <day> naredba-2009-dv005-14039`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 263 от 26 март 2009 г. за тълкуване на чл. 9, ал. 3 от Наредба № 1 от 2008 г. за условията и реда за осъществяване на достъп и/или взаимно свързване (ДВ, бр. 28 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18626)
+- [Наредба № 1 от 24 ноември 2022 г. за условията и реда за осъществяване на достъп и/или взаимно свързване (ДВ, бр. 97 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180855)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

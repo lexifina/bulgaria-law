@@ -19,6 +19,16 @@
 
 Act id: `postanovlenie-2004-dv041-20968` (tags `postanovlenie-2004-dv041-20968/<day>`; `python tools/on.py <day> postanovlenie-2004-dv041-20968`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 115 от 15 юни 2005 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 51 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=453)
+- [Постановление № 15 от 31 януари 2006 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1402)
+- [Устройствен правилник на Държавен културен институт "Културен център "Двореца" - Балчик (ДВ, бр. 61 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19630)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

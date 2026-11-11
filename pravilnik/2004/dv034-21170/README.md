@@ -869,6 +869,19 @@
 
 Act id: `pravilnik-2004-dv034-21170` (tags `pravilnik-2004-dv034-21170/<day>`; `python tools/on.py <day> pravilnik-2004-dv034-21170`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за безопасност при работа в електрически уредби на електрически и топлофикационни централи и по електрически мрежи (ДВ, бр. 19 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14922)
+
+Cited by:
+
+- [Наредба № 17 от 3 юни 2005 г. за правилата за изграждане на кабелни далекосъобщителни мрежи и съоръженията към тях (ДВ, бр. 53 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=481)
+- [Наредба № 13 от 30 декември 2005 г. за осигуряване на здравословни и безопасни условия на труд в железопътния транспорт (ДВ, бр. 12 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1389)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

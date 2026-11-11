@@ -62,6 +62,28 @@
 
 Act id: `pravilnik-2009-dv015-16285` (tags `pravilnik-2009-dv015-16285/<day>`; `python tools/on.py <day> pravilnik-2009-dv015-16285`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 44 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21945)
+- [Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 88 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26374)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26921)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29939)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 79 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37528)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 10 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43575)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 96 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58991)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 104 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59781)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 95 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70790)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 78 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97793)
+- [Правилник за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 59 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106188)
+- [Поправка в Правилника за изменение и допълнение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 59 от 2016 г.) (ДВ, бр. 64 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106693)
+- [Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 67 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116924)
+- [Правилник за изменение на Устройствения правилник на Комисията за защита на конкуренцията (ДВ, бр. 31 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125019)
+- [Устройствен правилник на Комисията за защита на конкуренцията (ДВ, бр. 11 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168730)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

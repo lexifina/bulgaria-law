@@ -49,6 +49,40 @@
 
 Act id: `zakon-2006-dv051-2096` (tags `zakon-2006-dv051-2096/<day>`; `python tools/on.py <day> zakon-2006-dv051-2096`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за електронната търговия (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25883)
+- [Закон за изменение и допълнение на Закона за електронната търговия (ДВ, бр. 96 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153122)
+- [Закон за изменение на Закона за електронната търговия (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9687)
+- [Закон за изменение и допълнение на Закона за електронната търговия (ДВ, бр. 96 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163312)
+
+Cited by:
+
+- [Закон за предоставяне на финансови услуги от разстояние (ДВ, бр. 105 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2997)
+- [Закон за електронните съобщения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690)
+- [Закон за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 77 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57010)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 105 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59799)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96014)
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131638)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169449)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174622)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 99 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238812)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 77 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13584)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 105 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13577)
+- [Закон за изменение и допълнение на Закона за защита на потребителите (ДВ, бр. 57 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15351)
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78098)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за електронното управление (ДВ, бр. 15 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163992)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 53 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164080)
+- [Закон за изменение и допълнение на Закона за електронните съобщения (ДВ, бр. 99 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166496)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -119,6 +119,14 @@
 
 Act id: `naredba-2023-dv078-199396` (tags `naredba-2023-dv078-199396/<day>`; `python tools/on.py <day> naredba-2023-dv078-199396`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2023 г. за условията и реда за прилагане на интервенции от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в секторите "Плодове и зеленчуци" и "Мляко и млечни продукти" (ДВ, бр. 55 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235778)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,17 @@
 
 Act id: `postanovlenie-2007-dv020-3368` (tags `postanovlenie-2007-dv020-3368/<day>`; `python tools/on.py <day> postanovlenie-2007-dv020-3368`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 41 от 19 март 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 25 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31262)
+- [Постановление № 150 от 13 юли 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 55 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66619)
+- [Постановление № 227 от 16 октомври 2017 г. за изменение, допълнение и отменяне на нормативни актове на Министерския съвет (ДВ, бр. 84 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118899)
+- [Постановление № 8 от 21 януари 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168152)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2016-dv096-109606` (tags `postanovlenie-2016-dv096-109606/<day>`; `python tools/on.py <day> postanovlenie-2016-dv096-109606`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 350 от 9 декември 2016 г. за одобряване на допълнителни трансфери за 2016 г. за финансово осигуряване на дейности по националните програми "Без свободен час в училище" и "Информационни и комуникационни технологии (ИКТ) в системата на предучилищното и училищното образование", одобрени с Решение № 271 на Министерския съвет от 2016 г. за одобряване на национални програми за развитие на средното образование (ДВ, бр. 99 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110179)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

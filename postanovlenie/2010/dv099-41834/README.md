@@ -66,6 +66,18 @@
 
 Act id: `postanovlenie-2010-dv099-41834` (tags `postanovlenie-2010-dv099-41834/<day>`; `python tools/on.py <day> postanovlenie-2010-dv099-41834`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 320 от 23 ноември 2020 г. за изменение и допълнение на Наредбата за реда и начина за издаване и преразглеждане на разрешителни за емисии на парникови газове от инсталации и за осъществяване на мониторинг от операторите на инсталации и авиационните оператори, участващи в европейската схема за търговия с емисии, приета с Постановление № 265 на Министерския съвет от 2014 г. (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154035)
+
+Cited by:
+
+- [Постановление № 265 от 29 август 2014 г. за приемане на Наредба за реда и начина за издаване и преразглеждане на разрешителни за емисии на парникови газове от инсталации и за осъществяване на мониторинг от операторите на инсталации и авиационните оператори, участващи в Европейската схема на търговия с емисии (ДВ, бр. 74 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87680)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

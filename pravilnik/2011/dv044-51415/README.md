@@ -86,6 +86,21 @@
 
 Act id: `pravilnik-2011-dv044-51415` (tags `pravilnik-2011-dv044-51415/<day>`; `python tools/on.py <day> pravilnik-2011-dv044-51415`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана (ДВ, бр. 35 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74941)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана (ДВ, бр. 82 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88266)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 14 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100991)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 33 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103243)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 80 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118396)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 68 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140708)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 14 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155857)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Института по отбрана "Професор Цветан Лазаров" (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233303)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

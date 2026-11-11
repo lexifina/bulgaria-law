@@ -35,6 +35,17 @@
 
 Act id: `postanovlenie-2007-dv043-3722` (tags `postanovlenie-2007-dv043-3722/<day>`; `python tools/on.py <day> postanovlenie-2007-dv043-3722`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 13 септември 2007 г. за опазване на водите от замърсяване с нитрати от земеделски източници (ДВ, бр. 27 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4927)
+- [Наредба № 4 от 5 април 2013 г. за условията и изискванията за изграждането и експлоатацията на инсталации за изгаряне и инсталации за съвместно изгаряне на отпадъци (ДВ, бр. 36 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75069)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

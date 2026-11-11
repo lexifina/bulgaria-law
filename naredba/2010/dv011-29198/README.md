@@ -12,6 +12,23 @@
 
 Act id: `naredba-2010-dv011-29198` (tags `naredba-2010-dv011-29198/<day>`; `python tools/on.py <day> naredba-2010-dv011-29198`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36257)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 79 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57126)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84033)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба за допълнение на Наредба № 32 от 2008 г. за утвърждаване на медицински стандарт "Акушерство и гинекология" (ДВ, бр. 103 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59571)
+- [№ 12412/2011 г. (ДВ, бр. 18 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61990)
+- [Решение № 3179 от 15 март 2017 г. по административно дело № 4681 от 2016 г. (ДВ, бр. 89 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119323)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2025-dv089-238378` (tags `postanovlenie-2025-dv089-238378/<day>`; `python tools/on.py <day> postanovlenie-2025-dv089-238378`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 288 от 12 декември 2025 г. за изменение на Постановление № 214 на Министерския съвет от 2025 г. за одобряване на допълнителни разходи/трансфери от резерва по чл. 1, ал. 2, раздел II, т. 5.1 от Закона за държавния бюджет на Република България за 2025 г. за непредвидени и/или неотложни разходи за предотвратяване, овладяване и преодоляване на последиците от бедствия (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239938)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -53,6 +53,22 @@
 
 Act id: `naredba-2015-dv050-95614` (tags `naredba-2015-dv050-95614/<day>`; `python tools/on.py <day> naredba-2015-dv050-95614`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 2 от 2015 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102464)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2015 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 82 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130437)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2015 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 91 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163729)
+
+Cited by:
+
+- [Решение № 6092 от 22 април 2019 г. по административно дело № 9217 от 2018 г. (ДВ, бр. 93 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143099)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за условията и реда за извършване на съдебномедицинските, съдебнопсихиатричните и съдебнопсихологичните експертизи, включително и за заплащането на разходите на лечебните заведения (ДВ, бр. 111 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154786)
+- [Наредба № Н-1 от 14 февруари 2023 г. за вписването, квалификацията и възнагражденията на вещите лица (ДВ, бр. 18 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186961)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

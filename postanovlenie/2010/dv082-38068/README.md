@@ -56,6 +56,20 @@
 
 Act id: `postanovlenie-2010-dv082-38068` (tags `postanovlenie-2010-dv082-38068/<day>`; `python tools/on.py <day> postanovlenie-2010-dv082-38068`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 105 от 20 април 2011 г. за приемане на Наредба за допингов контрол при тренировъчна и състезателна дейност (ДВ, бр. 35 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48874)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 252 от 1 ноември 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80164)
+- [Постановление № 281 от 3 ноември 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 88 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108891)
+- [Постановление № 93 от 14 май 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 46 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148146)
+- [Постановление № 214 от 2 ноември 2023 г. за изменение и допълнение на Правилника за устройството и дейността на Антидопинговия център, приет с Постановление № 232 на Министерския съвет от 2010 г. (ДВ, бр. 93 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201011)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

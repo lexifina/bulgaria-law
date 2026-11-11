@@ -45,6 +45,18 @@
 
 Act id: `naredba-2016-dv068-106886` (tags `naredba-2016-dv068-106886/<day>`; `python tools/on.py <day> naredba-2016-dv068-106886`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2016 г. за условията и реда за финансово подпомагане на проекти по национални програми за младежта (ДВ, бр. 21 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112342)
+
+Cited by:
+
+- [Наредба № 1 от 10 юни 2022 г. за условията и реда за финансиране на проекти по национални програми за младежта (ДВ, бр. 48 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174253)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

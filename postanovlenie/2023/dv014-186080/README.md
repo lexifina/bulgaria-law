@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2023-dv014-186080` (tags `postanovlenie-2023-dv014-186080/<day>`; `python tools/on.py <day> postanovlenie-2023-dv014-186080`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 118 от 31 август 2023 г. за одобряване на допълнителни разходи/трансфери по подготовката и произвеждането на изборите за народни представители на 2 април 2023 г. (ДВ, бр. 76 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199203)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

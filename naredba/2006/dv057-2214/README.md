@@ -55,6 +55,24 @@
 
 Act id: `naredba-2006-dv057-2214` (tags `naredba-2006-dv057-2214/<day>`; `python tools/on.py <day> naredba-2006-dv057-2214`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2006 г. за реда и начина за организиране на изпити за придобиване на сертификат "Вътрешен одитор в публичния сектор" (ДВ, бр. 23 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3420)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2006 г. за реда и начина за организиране и провеждане на изпити за придобиване на сертификат "Вътрешен одитор в публичния сектор" (ДВ, бр. 104 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4530)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2006 г. за реда и начина за организиране и провеждане на изпити за придобиване на сертификат "Вътрешен одитор в публичния сектор" (ДВ, бр. 78 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37448)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2006 г. за реда и начина за организиране и провеждане на изпити за придобиване на сертификат "Вътрешен одитор в публичния сектор" (ДВ, бр. 32 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63696)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2006 г. за реда и начина за организиране и провеждане на изпити за придобиване на сертификат "Вътрешен одитор в публичния сектор" (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107547)
+
+Cited by:
+
+- [№ 104/07 г. (ДВ, бр. 22 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17526)
+- [Решение № 619 от 20 юли 2009 г. за приемане Списък на регулираните професии в Република България (ДВ, бр. 61 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23746)
+- [Наредба № Н-7 от 4 октомври 2017 г. за условията, реда и начина за организиране и провеждане на изпити за придобиване на сертификат "вътрешен одитор в публичния сектор" (ДВ, бр. 83 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118616)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

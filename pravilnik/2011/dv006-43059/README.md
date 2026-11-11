@@ -80,6 +80,29 @@
 
 Act id: `pravilnik-2011-dv006-43059` (tags `pravilnik-2011-dv006-43059/<day>`; `python tools/on.py <day> pravilnik-2011-dv006-43059`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 31 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48095)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 34 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74891)
+- [Правилник за изменение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 68 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87221)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 2 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91069)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 47 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95375)
+- [Правилник за изменение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96584)
+- [Правилник за изменение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108876)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136174)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 69 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160822)
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 103 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231010)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 36 от 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49828)
+- [Правилник за изменение и допълнение на Правилника за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 68 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107131)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център по радиобиология и радиационна защита (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142633)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

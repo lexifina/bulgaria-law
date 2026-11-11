@@ -17,6 +17,14 @@
 
 Act id: `naredba-2014-dv058-86408` (tags `naredba-2014-dv058-86408/<day>`; `python tools/on.py <day> naredba-2014-dv058-86408`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 8 от 2008 г. за функциите и организацията на дейността на бюрата за съдимост (ДВ, бр. 108 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154542)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

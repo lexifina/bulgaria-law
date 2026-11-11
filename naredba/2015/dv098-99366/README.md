@@ -21,6 +21,15 @@
 
 Act id: `naredba-2015-dv098-99366` (tags `naredba-2015-dv098-99366/<day>`; `python tools/on.py <day> naredba-2015-dv098-99366`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 25 март 2016 г. за определяне на основния пакет от здравни дейности, гарантиран от бюджета на Националната здравноосигурителна каса (ДВ, бр. 24 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102215)
+- [Решение № 1341 от 31 януари 2019 г. по административно дело № 8647 от 2018 г. (ДВ, бр. 5 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144622)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

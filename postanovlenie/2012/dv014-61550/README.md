@@ -22,6 +22,19 @@
 
 Act id: `postanovlenie-2012-dv014-61550` (tags `postanovlenie-2012-dv014-61550/<day>`; `python tools/on.py <day> postanovlenie-2012-dv014-61550`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 84 от 5 април 2013 г. за изменение на Тарифата за таксите, които се събират от Агенцията за устойчиво енергийно развитие по Закона за енергийната ефективност и Закона за енергията от възобновяеми източници, приета с Постановление № 26 на Министерския съвет от 2012 г. (ДВ, бр. 35 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75038)
+- [Постановление № 51 от 23 април 2026 г. за изменение и допълнение на Тарифата за таксите, които се събират от Агенцията за устойчиво енергийно развитие по Закона за енергийната ефективност и Закона за енергията от възобновяеми източници, приета с Постановление № 26 на Министерския съвет от 2012 г. (ДВ, бр. 39 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243064)
+
+Cited by:
+
+- [Наредба № РД-16-301 от 10 март 2014 г. за обстоятелствата, подлежащи на вписване в регистрите на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност на промишлени системи, реда за получаване на информация от регистрите, условията и реда за придобиване на квалификация и необходимите технически средства за извършване на дейностите по обследване и сертифициране (ДВ, бр. 27 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83492)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

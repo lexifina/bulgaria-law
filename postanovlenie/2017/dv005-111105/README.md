@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2017-dv005-111105` (tags `postanovlenie-2017-dv005-111105/<day>`; `python tools/on.py <day> postanovlenie-2017-dv005-111105`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-06-46 от 4 ноември 2024 г. за реда за вписването, воденето, съхраняването, поддържането и функционирането на Националната електронна информационна система за пълно осиновяване (ДВ, бр. 88 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238098)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

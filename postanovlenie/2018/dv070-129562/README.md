@@ -29,6 +29,15 @@
 
 Act id: `postanovlenie-2018-dv070-129562` (tags `postanovlenie-2018-dv070-129562/<day>`; `python tools/on.py <day> postanovlenie-2018-dv070-129562`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-13 от 17 декември 2019 г. за съдържанието, сроковете, начина и реда за подаване и съхранение на данни от работодателите, осигурителите за осигурените при тях лица, както и от самоосигуряващите се лица (ДВ, бр. 1 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144073)
+- [Наредба № 33 от 16 юли 2026 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване и за възобновяване на осигуряването в универсален пенсионен фонд (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244883)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

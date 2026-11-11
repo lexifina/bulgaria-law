@@ -13,6 +13,21 @@
 
 Act id: `naredba-2019-dv085-142364` (tags `naredba-2019-dv085-142364/<day>`; `python tools/on.py <day> naredba-2019-dv085-142364`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 55 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159674)
+- [Наредба за изменение и допълнение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173399)
+- [Поправка в приложението към член единствен на Наредбата за изменение и допълнение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (обн. като притурка към бр. 38 от 2022 г.) (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173900)
+- [Наредба за изменение и допълнение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 96 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180731)
+- [Наредба за изменение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 70 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=198282)
+- [Наредба за изменение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 63 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=222360)
+- [Наредба за изменение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 35 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234228)
+- [Наредба за изменение на Наредба № 11 от 17 октомври 2019 г. за приемане на фармако-терапевтично ръководство по медицинска онкология (ДВ, бр. 36 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242574)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

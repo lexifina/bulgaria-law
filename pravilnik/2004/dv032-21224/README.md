@@ -569,6 +569,19 @@
 
 Act id: `pravilnik-2004-dv032-21224` (tags `pravilnik-2004-dv032-21224/<day>`; `python tools/on.py <day> pravilnik-2004-dv032-21224`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за безопасност при работа в неелектрически уредби на електрически и топлофикационни централи и по топлопреносни мрежи и хидротехнически съоръжения (ДВ, бр. 92 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79621)
+
+Cited by:
+
+- [Постановление № 197 от 2 септември 2013 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78673)
+- [Постановление № 119 от 4 юли 2025 г. за приемане на Устройствен правилник на Министерството на енергетиката (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235891)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

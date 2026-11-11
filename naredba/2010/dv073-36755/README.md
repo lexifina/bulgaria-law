@@ -50,6 +50,14 @@
 
 Act id: `naredba-2010-dv073-36755` (tags `naredba-2010-dv073-36755/<day>`; `python tools/on.py <day> naredba-2010-dv073-36755`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 24 от 2010 г. за изискванията и условията за производство, преработване, съхранение, търговия, внос и износ на наркотични вещества за ветеринарномедицински цели от приложения № 2 и 3 към чл. 3, ал. 2 от Закона за контрол върху наркотичните вещества и прекурсорите (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92352)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

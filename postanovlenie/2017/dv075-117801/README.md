@@ -33,6 +33,19 @@
 
 Act id: `postanovlenie-2017-dv075-117801` (tags `postanovlenie-2017-dv075-117801/<day>`; `python tools/on.py <day> postanovlenie-2017-dv075-117801`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 228 от 20 юни 2024 г. за изменение и допълнение на Тарифата за таксите, които се събират в системата на предучилищното и училищното образование, приета с Постановление № 195 на Министерския съвет от 2017 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219501)
+- [Постановление № 217 от 22 октомври 2025 г. за допълнение на Тарифата за таксите, които се събират в системата на предучилищното и училищното образование, приета с Постановление № 195 на Министерския съвет от 2017 г. (ДВ, бр. 90 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238402)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2016 г. за оценяване на резултатите от обучението на учениците (ДВ, бр. 51 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196117)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

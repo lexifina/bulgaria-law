@@ -154,6 +154,65 @@
 
 Act id: `zakon-2006-dv102-2971` (tags `zakon-2006-dv102-2971/<day>`; `python tools/on.py <day> zakon-2006-dv102-2971`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57226)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 81 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97965)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 51 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105096)
+- [Закон за допълнение на Закона за защита при бедствия (ДВ, бр. 97 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109730)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 80 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13625)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 81 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15356)
+- [Закон за изменение и допълнение на Закона за защита при бедствия (ДВ, бр. 51 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15832)
+- [Закон за допълнение на Закона за защита при бедствия (ДВ, бр. 97 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66488)
+
+Cited by:
+
+- [Закон за електронните съобщения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3690)
+- [Инструкция № 1 от 16 юли 2007 г. за реда за осъществяване на оперативна защита при наводнения (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4012)
+- [Инструкция № 2 от 18 юли 2007 г. за реда за осъществяване на операции по издирване и спасяване от Главна дирекция "Национална служба "Гражданска защита" (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4013)
+- [Инструкция № 3 от 18 юли 2007 г. за реда за осъществяване на спасителни и неотложни аварийно-възстановителни работи при бедствия (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4014)
+- [Закон за бюджета на държавното обществено осигуряване за 2008 г. (ДВ, бр. 113 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4612)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 69 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7316)
+- [Закон за Националната система за спешни повиквания с единен европейски номер 112 (ДВ, бр. 102 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12062)
+- [Постановление № 3 от 10 януари 2009 г. за приемане на Наредба за реда за създаване, съхраняване, обновяване, поддържане, предоставяне и отчитане на запасите от индивидуални средства за защита (ДВ, бр. 5 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14311)
+- [Закон за отбраната и въоръжените сили на Република България (ДВ, бр. 35 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20303)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25033)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26935)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 61 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35325)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39254)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41376)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43295)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50214)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92194)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97877)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 81 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108165)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111586)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120212)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 60 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149550)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 74 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9770)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9689)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 61 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10052)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 88 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10070)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 98 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10042)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/9867)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 39 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/9859)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15170)
+- [Закон за предучилищното и училищното образование (ДВ, бр. 79 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15077)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 81 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/40849)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 13 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66467)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 97 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77756)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 60 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157159)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

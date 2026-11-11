@@ -45,6 +45,18 @@
 
 Act id: `postanovlenie-2012-dv041-64986` (tags `postanovlenie-2012-dv041-64986/<day>`; `python tools/on.py <day> postanovlenie-2012-dv041-64986`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 233 от 27 септември 2012 г. за изменение и допълнение на Правилника за устройството и дейността на Консултативния съвет за подпомагане на Министерския съвет при формиране на държавната политика в областта на защитата при бедствия, приет с Постановление № 97 на Министерския съвет от 2012 г. (ДВ, бр. 75 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68855)
+
+Cited by:
+
+- [Постановление № 305 от 17 ноември 2016 г. за приемане на Правилник за устройството и дейността на Съвета за намаляване на риска от бедствия към Министерския съвет за подпомагане формирането и осъществяването на държавната политика в областта на защитата при бедствия (ДВ, бр. 93 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109367)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

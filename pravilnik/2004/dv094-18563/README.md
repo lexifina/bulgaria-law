@@ -60,6 +60,14 @@
 
 Act id: `pravilnik-2004-dv094-18563` (tags `pravilnik-2004-dv094-18563/<day>`; `python tools/on.py <day> pravilnik-2004-dv094-18563`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 36 от 8 март 2005 г. за изменение и допълнение на Наредбата за условията, на които трябва да отговарят качествените вина от определен район, реда и начина за тяхното утвърждаване, приета с Постановление № 53 на Министерския съвет от 2000 г. (ДВ, бр. 23 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15033)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

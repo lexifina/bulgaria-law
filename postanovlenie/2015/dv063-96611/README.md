@@ -23,6 +23,14 @@
 
 Act id: `postanovlenie-2015-dv063-96611` (tags `postanovlenie-2015-dv063-96611/<day>`; `python tools/on.py <day> postanovlenie-2015-dv063-96611`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 4 от 12 януари 2023 г. за изменение на Постановление № 209 на Министерския съвет от 2015 г. за назначаване на допълнителен персонал за нуждите и в срока на прилагане на Програма за развитие на селските райони за периода 2014 - 2020 г. със средства от мярка "Техническа помощ" и на персонал на местните инициативни групи, изпълняващи стратегии за водено от общностите местно развитие, финансирани със средства от мярка 19 "Водено от общностите местно развитие" на програмата (ДВ, бр. 5 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=183860)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

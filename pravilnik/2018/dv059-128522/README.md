@@ -54,6 +54,21 @@
 
 Act id: `pravilnik-2018-dv059-128522` (tags `pravilnik-2018-dv059-128522/<day>`; `python tools/on.py <day> pravilnik-2018-dv059-128522`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация (ДВ, бр. 84 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142246)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146762)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националния център за информация и документация (ДВ, бр. 41 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234837)
+
+Cited by:
+
+- [Постановление № 95 от 27 юни 2023 г. за изменение и допълнение на Наредбата за условията и реда за издаване на удостоверения, свързани с придобита професионална квалификация на територията на Република България, необходими за достъп или за упражняване на регулирана професия на територията на друга държава членка, приета с Постановление № 74 на Министерския съвет от 2011 г. (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196782)
+- [Правилник за устройството и дейността на Националния център за информация и документация (ДВ, бр. 79 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228420)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

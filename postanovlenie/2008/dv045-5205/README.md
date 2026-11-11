@@ -52,6 +52,14 @@
 
 Act id: `postanovlenie-2008-dv045-5205` (tags `postanovlenie-2008-dv045-5205/<day>`; `python tools/on.py <day> postanovlenie-2008-dv045-5205`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 169 от 2 юли 2009 г. за приемане на Устройствен правилник на Изпълнителната агенция по лекарствата (ДВ, бр. 52 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23136)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

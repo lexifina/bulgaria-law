@@ -15,6 +15,19 @@
 
 Act id: `postanovlenie-2011-dv052-53899` (tags `postanovlenie-2011-dv052-53899/<day>`; `python tools/on.py <day> postanovlenie-2011-dv052-53899`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 36 от 24 март 2022 г. за изменение на Постановление № 185 на Министерския съвет от 2011 г. за изменение на Постановление № 125 на Министерския съвет от 2006 г. за приемане на Устройствен правилник на Министерството на земеделието и храните (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171426)
+- [Постановление № 250 от 30 ноември 2023 г. за изменение на Постановление № 185 на Министерския съвет от 2011 г. за изменение на Постановление № 125 на Министерския съвет от 2006 г. за приемане на Устройствен правилник на Министерството на земеделието и храните (ДВ, бр. 101 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201640)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната служба за съвети в земеделието (ДВ, бр. 78 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57117)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

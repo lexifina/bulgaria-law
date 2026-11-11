@@ -70,6 +70,29 @@
 
 Act id: `pravilnik-2014-dv008-82076` (tags `pravilnik-2014-dv008-82076/<day>`; `python tools/on.py <day> pravilnik-2014-dv008-82076`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 87 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88651)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 46 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95301)
+- [Правилник за изменение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 22 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101974)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 61 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128707)
+- [Правилник за изменение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132181)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137278)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 8 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145314)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160267)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 38 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191869)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 107 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202150)
+- [Правилник за изменение на Правилника за организацията и дейността на Националния осигурителен институт (ДВ, бр. 100 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239053)
+
+Cited by:
+
+- [Инструкция № И-4 от 4 юли 2019 г. за условията, реда и процедурите за организиране на работата на административните структури в Министерството на отбраната (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139694)
+- [Правилник за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 70 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140982)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

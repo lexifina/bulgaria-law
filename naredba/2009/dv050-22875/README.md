@@ -25,6 +25,15 @@
 
 Act id: `naredba-2009-dv050-22875` (tags `naredba-2009-dv050-22875/<day>`; `python tools/on.py <day> naredba-2009-dv050-22875`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-8 от 11 май 2012 г. за създаване и поддържане на публичен регистър на сдруженията на собствениците в сгради в режим на етажна собственост (ДВ, бр. 40 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64689)
+- [Наредба за отменяне на Наредба № 2 от 1997 г. за организиране и провеждане на детски и ученически отдих и туризъм (ДВ, бр. 86 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142421)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -30,6 +30,15 @@
 
 Act id: `zakon-2008-dv023-4865` (tags `zakon-2008-dv023-4865/<day>`; `python tools/on.py <day> zakon-2008-dv023-4865`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за изпълнение на Регламент на Съвета (ЕО) № 1236/2005 относно търговията с някои стоки, които биха могли да бъдат използвани с цел прилагане на смъртно наказание, изтезания или други форми на жестоко, нечовешко или унизително отнасяне или наказание (ДВ, бр. 101 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120731)
+- [Закон за изменение и допълнение на Закона за изпълнение на Регламент на Съвета (ЕО) № 1236/2005 относно търговията с някои стоки, които биха могли да бъдат използвани с цел прилагане на смъртно наказание, изтезания или други форми на жестоко, нечовешко или унизително отнасяне или наказание (ДВ, бр. 101 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77774)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

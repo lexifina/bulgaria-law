@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2023-dv107-202157` (tags `postanovlenie-2023-dv107-202157/<day>`; `python tools/on.py <day> postanovlenie-2023-dv107-202157`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 251 от 18 юли 2024 г. за отменяне на Постановление № 345 на Министерския съвет от 2023 г. за създаване на Консултативен съвет по въпроси, свързани със защитата на българската държава по международни арбитражни дела (ДВ, бр. 62 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=222428)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

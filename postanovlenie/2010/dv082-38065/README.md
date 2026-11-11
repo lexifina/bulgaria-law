@@ -38,6 +38,15 @@
 
 Act id: `postanovlenie-2010-dv082-38065` (tags `postanovlenie-2010-dv082-38065/<day>`; `python tools/on.py <day> postanovlenie-2010-dv082-38065`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-1 от 14 юни 2011 г. за организацията, готовността и реда за действие на дежурните сили и средства от Българската армия за контрол над въздухоплаването при охрана на въздушното пространство на Република България (ДВ, бр. 49 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53256)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

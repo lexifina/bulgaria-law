@@ -28,6 +28,15 @@
 
 Act id: `naredba-2010-dv075-36889` (tags `naredba-2010-dv075-36889/<day>`; `python tools/on.py <day> naredba-2010-dv075-36889`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66868)
+- [Наредба № 8 от 19 ноември 2015 г. за признаване на организациите за защита правата на пациентите за представителни организации (ДВ, бр. 93 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98928)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

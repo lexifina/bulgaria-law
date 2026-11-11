@@ -13,6 +13,17 @@
 
 Act id: `postanovlenie-2013-dv035-75037` (tags `postanovlenie-2013-dv035-75037/<day>`; `python tools/on.py <day> postanovlenie-2013-dv035-75037`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 242 от 4 август 2014 г. за изменение и допълнение на Наредбата за предоставяне на речни информационни услуги по вътрешните водни пътища на Република България, приета с Постановление № 329 на Министерския съвет от 2007 г. (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87159)
+- [Постановление № 29 от 23 февруари 2018 г. за изменение и допълнение на Наредбата за трудовите и непосредствено свързани с тях отношения между членовете на екипажа на кораба и корабопритежателя, приета с Постановление № 226 на Министерския съвет от 2003 г. (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123586)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 88 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130829)
+- [Постановление № 154 от 21 юли 2020 г. за приемане на Правила за плаване по река Дунав (ДВ, бр. 67 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150021)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

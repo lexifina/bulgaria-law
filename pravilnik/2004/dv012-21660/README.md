@@ -31,6 +31,23 @@
 
 Act id: `pravilnik-2004-dv012-21660` (tags `pravilnik-2004-dv012-21660/<day>`; `python tools/on.py <day> pravilnik-2004-dv012-21660`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и горите (ДВ, бр. 40 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=213)
+- [Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и горите (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2785)
+- [Правилник за изменение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и горите (ДВ, бр. 68 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19481)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното и фуражите към министъра на земеделието и храните (ДВ, бр. 78 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8369)
+- [Правилник за изменение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните (ДВ, бр. 21 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62374)
+- [Правилник за изменение и допълнение на Устройствения правилник на Националната служба по зърното към министъра на земеделието и храните (ДВ, бр. 104 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80767)
+- [Правилник за изменение и допълнение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 12 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100860)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

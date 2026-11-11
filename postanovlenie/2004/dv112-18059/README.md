@@ -43,6 +43,27 @@
 
 Act id: `postanovlenie-2004-dv112-18059` (tags `postanovlenie-2004-dv112-18059/<day>`; `python tools/on.py <day> postanovlenie-2004-dv112-18059`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 12 от 22 януари 2007 г. за изменение и допълнение на Устройствения правилник на Агенцията за хората с увреждания, приет с Постановление № 337 на Министерския съвет от 2004 г. (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3221)
+- [Постановление № 258 от 1 ноември 2010 г. за изменение и допълнение на Устройствения правилник на Агенцията за хората с увреждания, приет с Постановление № 337 на Министерския съвет от 2004 г. (ДВ, бр. 88 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39296)
+- [Постановление № 79 от 15 април 2019 г. за изменение и допълнение на Устройствения правилник на Агенцията за хората с увреждания, приет с Постановление № 337 на Министерския съвет от 2004 г. (ДВ, бр. 33 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136844)
+- [Постановление № 227 от 29 юли 2022 г. за изменение и допълнение на Устройствения правилник на Агенцията за хората с увреждания, приет с Постановление № 337 на Министерския съвет oт 2004 г. (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175375)
+
+Cited by:
+
+- [Постановление № 215 от 12 октомври 2005 г. за приемане на Устройствен правилник на Министерството на държавната администрация и административната реформа (ДВ, бр. 83 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=949)
+- [Постановление № 52 от 17 март 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 32 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4993)
+- [Постановление № 147 от 23 юли 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35307)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 162 от 26 юли 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67020)
+- [Постановление № 58 от 16 март 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 21 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93013)
+- [Постановление № 202 от 6 октомври 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 84 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237835)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

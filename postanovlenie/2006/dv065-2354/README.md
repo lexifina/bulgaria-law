@@ -43,6 +43,22 @@
 
 Act id: `postanovlenie-2006-dv065-2354` (tags `postanovlenie-2006-dv065-2354/<day>`; `python tools/on.py <day> postanovlenie-2006-dv065-2354`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 301 от 10 декември 2007 г. за изменение и допълнение на Правилника за прилагане на Закона за мерките срещу изпирането на пари, приет с Постановление № 201 на Министерския съвет от 2006 г. (ДВ, бр. 108 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4565)
+- [Постановление № 60 от 7 март 2013 г. за изменение и допълнение на Правилника за прилагане на Закона за мерките срещу изпирането на пари, приет с Постановление № 201 на Министерския съвет от 2006 г. (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74123)
+- [Постановление № 378 от 2 декември 2014 г. за допълнение на Правилника за прилагане на Закона за мерките срещу изпирането на пари, приет с Постановление № 201 на Министерския съвет от 2006 г. (ДВ, бр. 101 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90370)
+- [Постановление № 204 от 19 октомври 2023 г. за изменение на Правилника за прилагане на Закона за мерките срещу изпирането на пари (ДВ, бр. 89 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200777)
+
+Cited by:
+
+- [Постановление № 66 от 28 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 37 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5059)
+- [Постановление № 357 от 31 декември 2018 г. за приемане на Правилник за прилагане на Закона за мерките срещу изпирането на пари (ДВ, бр. 3 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133569)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

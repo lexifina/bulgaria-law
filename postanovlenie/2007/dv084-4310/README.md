@@ -88,6 +88,16 @@
 
 Act id: `postanovlenie-2007-dv084-4310` (tags `postanovlenie-2007-dv084-4310/<day>`; `python tools/on.py <day> postanovlenie-2007-dv084-4310`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 147 от 27 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 60 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5789)
+- [Постановление № 9 от 28 януари 2010 г. за приемане на Устройствен правилник на Държавна агенция "Архиви" и за определяне цени на услугите, предоставяни от Държавна агенция "Архиви", по Закона за Националния архивен фонд (ДВ, бр. 10 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29238)
+- [Постановление № 172 от 6 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 52 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95747)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2024-dv042-215127` (tags `postanovlenie-2024-dv042-215127/<day>`; `python tools/on.py <day> postanovlenie-2024-dv042-215127`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 5 от 15 януари 2025 г. за изменение на Постановление № 163 на Министерския съвет от 2024 г. за одобряване на допълнителни трансфери за 2024 г. (ДВ, бр. 5 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232241)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

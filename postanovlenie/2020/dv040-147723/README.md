@@ -117,6 +117,19 @@
 
 Act id: `postanovlenie-2020-dv040-147723` (tags `postanovlenie-2020-dv040-147723/<day>`; `python tools/on.py <day> postanovlenie-2020-dv040-147723`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 347 от 20 октомври 2021 г. за изменение на Правилника за прилагане на Закона за публичните предприятия, приет с Постановление № 85 на Министерския съвет от 2020 г. (ДВ, бр. 89 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163632)
+- [Постановление № 16 от 30 януари 2023 г. за изменение и допълнение на Правилника за прилагане на Закона за публичните предприятия, приет с Постановление № 85 на Министерския съвет от 2020 г. (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185543)
+
+Cited by:
+
+- [Постановление № 44 от 9 април 2026 г. за изменениe и допълнениe на Правилника за прилагане на Закона за публичните предприятия, приет с Постановление № 85 на Министерския съвет от 2020 г. (ДВ, бр. 36 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242686)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -91,6 +91,14 @@
 
 Act id: `naredba-2015-dv033-94123` (tags `naredba-2015-dv033-94123/<day>`; `python tools/on.py <day> naredba-2015-dv033-94123`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 39 от 23.04.2015 г. за условията и реда за издаване на свидетелства за правоспособност на пилоти, свидетелства за организации за обучение, обучаващи пилоти и кабинен екипаж, и свидетелства за медицинска годност на авиационен персонал - пилоти и кабинен екипаж, в съответствие с изискванията на Регламент (ЕС) № 1178/2011 на Комисията от 3 ноември 2011 г. за определяне на технически изисквания и административни процедури във връзка с екипажите на въздухоплавателни средства в гражданското въздухоплаване в съответствие с Регламент (ЕО) № 216/2008 на Европейския парламент и на Съвета и контрола върху тях (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172749)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

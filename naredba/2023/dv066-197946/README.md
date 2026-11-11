@@ -29,6 +29,14 @@
 
 Act id: `naredba-2023-dv066-197946` (tags `naredba-2023-dv066-197946/<day>`; `python tools/on.py <day> naredba-2023-dv066-197946`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2023 г. за условията и реда за предоставяне на спешна финансова помощ на земеделски стопани, отглеждащи слънчоглед (ДВ, бр. 86 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200372)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

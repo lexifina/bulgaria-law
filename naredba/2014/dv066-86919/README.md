@@ -43,6 +43,28 @@
 
 Act id: `naredba-2014-dv066-86919` (tags `naredba-2014-dv066-86919/<day>`; `python tools/on.py <day> naredba-2014-dv066-86919`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за класификация на отпадъците (ДВ, бр. 32 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113590)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за класификация на отпадъците (ДВ, бр. 46 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126830)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за класификация на отпадъците (ДВ, бр. 86 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151936)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2014 г. за класификация на отпадъците (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174597)
+
+Cited by:
+
+- [Наредба № 1 от 9 февруари 2015 г. за изискванията към дейностите по събиране и третиране на отпадъците на територията на лечебните и здравните заведения (ДВ, бр. 13 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91988)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 56 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95886)
+- [Постановление № 1 от 7 януари 2016 г. за приемане на Наредба за управление на минните отпадъци (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99949)
+- [Постановление № 267 от 5 декември 2017 г. за приемане на Наредба за управление на строителните отпадъци и за влагане на рециклирани строителни материали (ДВ, бр. 98 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120571)
+- [Наредба № 4 от 16 май 2018 г. за условията и реда за унищожаването, преработването или използването за други цели на лекарствените продукти (ДВ, бр. 43 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126633)
+- [Постановление № 181 от 18 юли 2019 г. за изменение и допълнение на Наредбата за управление на минните отпадъци, приета с Постановление № 1 на Министерския съвет от 2016 г. (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139791)
+- [Наредба № Н-2 от 5 февруари 2026 г. за условията и реда за унищожаване на имущества, придобити от държавата в производство по несъстоятелност, конфискувани, отнети и изоставени в полза на държавата имущества и задържани стоки от органите на Националната агенция за приходите (ДВ, бр. 18 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241250)
+- [Закон за изменение и допълнение на Закона за подземните богатства (ДВ, бр. 56 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15388)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

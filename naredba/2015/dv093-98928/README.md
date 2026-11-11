@@ -28,6 +28,14 @@
 
 Act id: `naredba-2015-dv093-98928` (tags `naredba-2015-dv093-98928/<day>`; `python tools/on.py <day> naredba-2015-dv093-98928`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № H-1 от 9 март 2023 г. за признаване на организациите за защита правата на пациентите за представителни организации (ДВ, бр. 24 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188340)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

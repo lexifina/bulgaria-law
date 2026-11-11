@@ -19,6 +19,16 @@
 
 Act id: `naredba-2007-dv012-3245` (tags `naredba-2007-dv012-3245/<day>`; `python tools/on.py <day> naredba-2007-dv012-3245`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 7 март 2016 г. за образованието, практическата подготовка и професионалната квалификация, необходими за придобиване на правоспособност за упражняване на професията "Планински водач" (ДВ, бр. 21 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101755)
+- [Решение № 443 от 26 юли 2019 г. за изменение и допълнение на Решение № 619 на Министерския съвет от 2009 г. за приемане Списък на регулираните професии в Република България (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140027)
+- [Наредба № 6 от 26 март 2021 г. за придобиване на квалификация по професията "Планински водач" (ДВ, бр. 34 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157286)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

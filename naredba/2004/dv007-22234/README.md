@@ -98,6 +98,19 @@
 
 Act id: `naredba-2004-dv007-22234` (tags `naredba-2004-dv007-22234/<day>`; `python tools/on.py <day> naredba-2004-dv007-22234`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за борба с ерозията и свлачищата в горския фонд и строежът на укрепителни съоръжения (ДВ, бр. 65 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2356)
+
+Cited by:
+
+- [Наредба № 2 от 2 февруари 2009 г. за залесяване и инвентаризация на горските култури (ДВ, бр. 15 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16064)
+- [Наредба № 4 от 19 февруари 2013 г. за защита на горските територии срещу ерозия и порои и строеж на укрепителни съоръжения (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73576)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

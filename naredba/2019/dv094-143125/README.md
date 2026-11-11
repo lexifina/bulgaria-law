@@ -13,6 +13,19 @@
 
 Act id: `naredba-2019-dv094-143125` (tags `naredba-2019-dv094-143125/<day>`; `python tools/on.py <day> naredba-2019-dv094-143125`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 38 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157993)
+- [Наредба за изменение и допълнение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173400)
+- [Наредба за изменение и допълнение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181974)
+- [Наредба за изменение и допълнение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 63 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197524)
+- [Наредба за изменение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 100 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230691)
+- [Наредба за изменение на Наредба № 14 от 14 ноември 2019 г. за приемане на фармако-терапевтично ръководство по ревматология (ДВ, бр. 36 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242575)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

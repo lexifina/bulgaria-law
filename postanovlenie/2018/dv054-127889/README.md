@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2018-dv054-127889` (tags `postanovlenie-2018-dv054-127889/<day>`; `python tools/on.py <day> postanovlenie-2018-dv054-127889`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 137 от 10 юли 2018 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2018 г. за финансово осигуряване на дейности по Национална програма "Оптимизация на вътрешната структура на персонала в институциите от системата на предучилищното и училищното образование", одобрена с Решение № 271 на Министерския съвет от 2018 г. за одобряване на национални програми за развитие на образованието (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128541)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

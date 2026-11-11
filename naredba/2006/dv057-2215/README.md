@@ -45,6 +45,14 @@
 
 Act id: `naredba-2006-dv057-2215` (tags `naredba-2006-dv057-2215/<day>`; `python tools/on.py <day> naredba-2006-dv057-2215`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-2 от 24 март 2009 г. за реда и начина за осъществяване, координация и хармонизация на специфичните одитни дейности по фондове и програми на Европейския съюз (ДВ, бр. 25 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17860)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

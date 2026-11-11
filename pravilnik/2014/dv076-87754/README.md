@@ -54,6 +54,15 @@
 
 Act id: `pravilnik-2014-dv076-87754` (tags `pravilnik-2014-dv076-87754/<day>`; `python tools/on.py <day> pravilnik-2014-dv076-87754`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+- [Устройствен правилник на Патентното ведомство на Република България (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92073)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

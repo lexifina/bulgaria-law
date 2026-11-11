@@ -60,6 +60,46 @@
 
 Act id: `zakon-2008-dv050-5256` (tags `zakon-2008-dv050-5256/<day>`; `python tools/on.py <day> zakon-2008-dv050-5256`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за регионалното развитие (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25812)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101016)
+- [Закон за допълнение на Закона за регионалното развитие (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111590)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146602)
+- [Закон за изменение на Закона за регионалното развитие (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9704)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 15 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15530)
+- [Закон за допълнение на Закона за регионалното развитие (ДВ, бр. 13 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/66449)
+- [Закон за изменение и допълнение на Закона за регионалното развитие (ДВ, бр. 21 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157301)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22464)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26935)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69471)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за ограничаване изменението на климата (ДВ, бр. 22 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83185)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 9 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91758)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България (ДВ, бр. 28 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124492)
+- [Закон за изменение и допълнение на Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 51 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174425)
+- [Закон за изменение и допълнение на Закона за водите (ДВ, бр. 47 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9634)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 93 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9689)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13989)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за ограничаване изменението на климата (ДВ, бр. 22 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14595)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 9 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15145)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение и допълнение на Закона за морските пространства, вътрешните водни пътища и пристанищата на Република България (ДВ, бр. 28 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77946)
+- [Закон за изменение и допълнение на Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 51 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164201)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

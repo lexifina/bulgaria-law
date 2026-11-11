@@ -118,6 +118,20 @@
 
 Act id: `postanovlenie-2020-dv070-150658` (tags `postanovlenie-2020-dv070-150658/<day>`; `python tools/on.py <day> postanovlenie-2020-dv070-150658`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 896 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Северозападен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180311)
+- [Решение № 897 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Северен централен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180312)
+- [Решение № 898 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Североизточен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180313)
+- [Решение № 899 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Югоизточен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180314)
+- [Решение № 900 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Югозападен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180315)
+- [Решение № 901 от 16 ноември 2022 г. за приемане на Интегрирана териториална стратегия за развитие на Южен централен регион за планиране от ниво 2 за периода 2021 - 2027 г. (ДВ, бр. 93 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180316)
+- [Постановление № 79 от 18 май 2023 г. за изменение и допълнение на Правилника за прилагане на Закона за регионалното развитие, приет с Постановление № 183 на Министерския съвет от 2020 г. (ДВ, бр. 45 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194783)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

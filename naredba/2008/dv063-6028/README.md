@@ -37,6 +37,18 @@
 
 Act id: `naredba-2008-dv063-6028` (tags `naredba-2008-dv063-6028/<day>`; `python tools/on.py <day> naredba-2008-dv063-6028`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 15 от 2008 г. за придобиване на специалност "обща медицина" от общопрактикуващите лекари (ДВ, бр. 68 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87235)
+
+Cited by:
+
+- [Национален рамков договор за медицинските дейности между Националната здравноосигурителна каса и Българския лекарски съюз за 2011 г. (ДВ, бр. 3 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42538)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

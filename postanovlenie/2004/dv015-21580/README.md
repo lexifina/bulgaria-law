@@ -50,6 +50,27 @@
 
 Act id: `postanovlenie-2004-dv015-21580` (tags `postanovlenie-2004-dv015-21580/<day>`; `python tools/on.py <day> postanovlenie-2004-dv015-21580`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 10 от 2 февруари 2010 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по трансплантация, приет с Постановление № 34 на Министерския съвет от 2004 г. (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29430)
+- [Постановление № 3 от 7 януари 2011 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по трансплантация, приет с Постановление № 34 на Министерския съвет от 2004 г. (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42897)
+- [Постановление № 169 от 15 август 2013 г. за изменение на Устройствения правилник на Изпълнителната агенция по трансплантация, приет с Постановление № 34 на Министерския съвет от 2004 г. (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78333)
+
+Cited by:
+
+- [Постановление № 13 от 22 януари 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3222)
+- [Постановление № 222 от 27 юли 2011 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 256 на Министерския съвет от 2009 г. (ДВ, бр. 59 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55528)
+- [Постановление № 52 от 2 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 20 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62361)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 195 от 28 август 2012 г. за изменение и допълнение на Устройствения правилник на Министерството на здравеопазването, приет с Постановление № 256 на Министерския съвет от 2009 г. (ДВ, бр. 68 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68071)
+- [Постановление № 12 от 16 януари 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72261)
+- [Постановление № 329 от 22 декември 2017 г. за изменение и допълнение на Постановление № 25 на Министерския съвет от 2009 г. за създаване на Център за асистирана репродукция (ДВ, бр. 1 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121222)
+- [Постановление № 53 от 27 март 2019 г. за приемане на Устройствен правилник на Изпълнителна агенция "Медицински надзор" (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136211)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

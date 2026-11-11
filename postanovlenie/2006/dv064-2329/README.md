@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2006-dv064-2329` (tags `postanovlenie-2006-dv064-2329/<day>`; `python tools/on.py <day> postanovlenie-2006-dv064-2329`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 241 от 11 септември 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 77 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2560)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

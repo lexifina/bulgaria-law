@@ -51,6 +51,21 @@
 
 Act id: `naredba-2007-dv039-3656` (tags `naredba-2007-dv039-3656/<day>`; `python tools/on.py <day> naredba-2007-dv039-3656`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2007 г. за утвърждаване на медицински стандарт за трансплантация на органи, тъкани и клетки (ДВ, бр. 66 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67872)
+- [Наредба за изменение и допълнение на Наредба № 28 от 2007 г. за дейности по асистирана репродукция (ДВ, бр. 34 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84215)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2007 г. за условията и реда за регистриране и отчитане на дейностите по експертиза, вземане, присаждане, обработка, преработка, съхраняване и етикетиране на органи, тъкани и клетки и за изготвяне на ежегодни отчети от лечебните заведения (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112889)
+- [Наредба № Н-6 от 21 декември 2022 г. за функционирането на Националната здравноинформационна система (ДВ, бр. 103 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182160)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

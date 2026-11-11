@@ -161,6 +161,14 @@
 
 Act id: `instruktsiya-2021-dv010-155575` (tags `instruktsiya-2021-dv010-155575/<day>`; `python tools/on.py <day> instruktsiya-2021-dv010-155575`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № РД-02-20-1 от 15 януари 2021 г. за създаване и поддържане на Държавната нивелачна мрежа (ДВ, бр. 72 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236997)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -49,6 +49,17 @@
 
 Act id: `naredba-2016-dv081-108084` (tags `naredba-2016-dv081-108084/<day>`; `python tools/on.py <day> naredba-2016-dv081-108084`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 29 септември 2017 г. за прилагане на подмярка 4.1.2. "Инвестиции в земеделски стопанства по Тематична подпрограма за развитие на малки стопанства" от мярка 4 "Инвестиции в материални активи" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 82 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118519)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2015 г. за прилагане на подмярка 4.2. "Инвестиции в преработка/маркетинг на селскостопански продукти" от мярка 4. "Инвестиции в материални активи" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 102 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120964)
+- [Наредба № 6 от 26 октомври 2018 г. за условията и реда за предоставяне на финансова помощ по Национална програма за подпомагане на лозаро-винарския сектор за периода 2019 - 2023 г. (ДВ, бр. 93 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131541)
+- [Наредба № 13 от 1 септември 2023 г. за условията и реда за прилагане на интервенции от Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. в секторите "Плодове и зеленчуци" и "Мляко и млечни продукти" (ДВ, бр. 78 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199396)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

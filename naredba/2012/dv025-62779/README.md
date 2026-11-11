@@ -218,6 +218,19 @@
 
 Act id: `naredba-2012-dv025-62779` (tags `naredba-2012-dv025-62779/<day>`; `python tools/on.py <day> naredba-2012-dv025-62779`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2012 г. за метеорологичното обслужване на гражданското въздухоплаване (ДВ, бр. 71 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87347)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 1999 г. за обслужване на въздушното движение във въздушното пространство на Република България (ДВ, бр. 88 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88718)
+- [Наредба № 3 от 27 март 2026 г. за метеорологичното осигуряване на въздушна навигация за гражданското въздухоплаване (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242477)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -30,6 +30,14 @@
 
 Act id: `postanovlenie-2018-dv070-129563` (tags `postanovlenie-2018-dv070-129563/<day>`; `python tools/on.py <day> postanovlenie-2018-dv070-129563`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 345 от 29 декември 2025 г. за изменение на Наредбата за отговорността и за прекратяването на дейността на доставчиците на удостоверителни услуги, приета с Постановление № 176 на Министерския съвет от 2018 г. (ДВ, бр. 115 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240354)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

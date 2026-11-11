@@ -44,6 +44,20 @@
 
 Act id: `naredba-2008-dv071-7583` (tags `naredba-2008-dv071-7583/<day>`; `python tools/on.py <day> naredba-2008-dv071-7583`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2008 г. за условията и реда за провеждане на диагностика, профилактика и контрол на внасяните паразитни болести (ДВ, бр. 88 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79217)
+- [Наредба за изменение и допълнение на Наредба № 17 от 2008 г. за условията и реда за провеждане на диагностика, профилактика и контрол на внасяните паразитни болести (ДВ, бр. 90 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229663)
+
+Cited by:
+
+- [Поправка в Наредба № 17 от 30 юли 2008 г. на Министерство на здравеопазването за условията и реда за провеждане на диагностика, профилактика и контрол на внасяните паразитни болести (ДВ, бр. 71 от 2008 г.) (ДВ, бр. 72 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64721)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

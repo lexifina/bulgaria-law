@@ -59,6 +59,20 @@
 
 Act id: `postanovlenie-2004-dv017-21560` (tags `postanovlenie-2004-dv017-21560/<day>`; `python tools/on.py <day> postanovlenie-2004-dv017-21560`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 167 от 19 юли 2007 г. за изменение и допълнение на Наредбата за регулиране на цените на електрическата енергия, приета с Постановление № 35 на Министерския съвет от 2004 г. (ДВ, бр. 62 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3998)
+- [Постановление № 103 от 29 май 2012 г. за изменение и допълнение на Наредбата за регулиране на цените на електрическата енергия, приета с Постановление № 35 на Министерския съвет от 2004 г. (ДВ, бр. 42 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65043)
+
+Cited by:
+
+- [Наредба № 6 от 9 юни 2004 г. за присъединяване на производители и потребители на електрическа енергия към преносната и разпределителните електрически мрежи (ДВ, бр. 74 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19155)
+- [Постановление № 91 от 15 април 2013 г. за отменяне на нормативни актове на Министерския съвет (ДВ, бр. 38 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75261)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

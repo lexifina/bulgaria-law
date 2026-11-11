@@ -25,6 +25,18 @@
 
 Act id: `postanovlenie-2010-dv039-33161` (tags `postanovlenie-2010-dv039-33161/<day>`; `python tools/on.py <day> postanovlenie-2010-dv039-33161`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 322 от 1 декември 2011 г. за изменение на Постановление № 94 на Министерския съвет от 2010 г. за изплащане на обезщетения на съпругите/съпрузите на военнослужещите, които са ги последвали при преместването им в друго населено място и поради това са прекратили трудовите или служебните си правоотношения, и на безработните съпруги/съпрузи на военнослужещите, участващи в международни операции и мисии (ДВ, бр. 97 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59204)
+
+Cited by:
+
+- [Постановление № 52 от 9 март 2015 г. за изменение на Наредбата за отпускане и изплащане на паричните обезщетения за безработица, приета с Постановление № 32 на Министерския съвет от 2002 г. (ДВ, бр. 20 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92802)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

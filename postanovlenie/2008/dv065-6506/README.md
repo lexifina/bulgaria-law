@@ -41,6 +41,24 @@
 
 Act id: `postanovlenie-2008-dv065-6506` (tags `postanovlenie-2008-dv065-6506/<day>`; `python tools/on.py <day> postanovlenie-2008-dv065-6506`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 42 от 5 март 2015 г. за изменение на Наредбата за реда за съобщаване, регистриране, потвърждаване, обжалване и отчитане на професионалните болести, приета с Постановление № 168 на Министерския съвет от 2008 г. (ДВ, бр. 18 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92726)
+
+Cited by:
+
+- [Наредба № 42 от 26 август 2010 г. за утвърждаване на медицински стандарт "Професионални болести" (ДВ, бр. 68 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36429)
+- [Постановление № 1 от 6 януари 2011 г. за структурни промени в системата на здравеопазването (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42895)
+- [Постановление № 48 от 6 март 2014 г. за изменениe и допълнениe на Наредбата за реда за съобщаване, регистриране, потвърждаване, обжалване и отчитане на професионалните болести, приета с Постановление № 168 на Министерския съвет от 2008 г. (ДВ, бр. 23 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83281)
+- [Постановление № 152 от 26 юли 2018 г. за изменение и допълнение на Наредбата за медицинската експертиза, приета с Постановление № 120 на Министерския съвет от 2017 г. (ДВ, бр. 64 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128969)
+- [Постановление № 225 от 12 юли 2021 г. за изменение и допълнение на Наредбата за медицинската експертиза, приета с Постановление № 120 на Министерския съвет от 2017 г. (ДВ, бр. 59 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160083)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2003 г. за защита на работещите от рискове, свързани с експозиция на канцерогени и мутагени при работа (ДВ, бр. 28 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=210700)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2006 г. за защита на работещите от рискове, свързани с експозиция на азбест при работа (ДВ, бр. 114 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240229)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

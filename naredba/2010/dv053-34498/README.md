@@ -15,6 +15,16 @@
 
 Act id: `naredba-2010-dv053-34498` (tags `naredba-2010-dv053-34498/<day>`; `python tools/on.py <day> naredba-2010-dv053-34498`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба № 3 от 7 февруари 2014 г. за утвърждаване на медицински стандарт "Педиатрия" (ДВ, бр. 15 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82658)
+- [адм. д. № 4270/2016 г. (ДВ, бр. 32 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102846)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

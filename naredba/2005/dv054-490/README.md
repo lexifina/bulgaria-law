@@ -62,6 +62,29 @@
 
 Act id: `naredba-2005-dv054-490` (tags `naredba-2005-dv054-490/<day>`; `python tools/on.py <day> naredba-2005-dv054-490`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 67 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2388)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 77 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8267)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 11 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15642)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28603)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 10 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43816)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66868)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2005 г. за критериите, показателите и методиката за акредитация на лечебните заведения (ДВ, бр. 79 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108011)
+
+Cited by:
+
+- [Наредба № 8 от 26 ноември 2007 г. за условията и реда за финансиране на диагностиката на професионалните болести от фонд "Условия на труд" (ДВ, бр. 103 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4513)
+- [Правилник за организацията на работа и дейността на Център "Фонд за асистирана репродукция" (ДВ, бр. 21 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17380)
+- [Наредба за изменение и допълнение на Наредба № 34 от 2006 г. за придобиване на специалност в системата на здравеопазването (ДВ, бр. 12 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29458)
+- [Наредба за изменение и допълнение на Наредба № 34 от 2006 г. за придобиване на специалност в системата на здравеопазването (ДВ, бр. 50 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66058)
+- [Наредба за изменение и допълнение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 25 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124101)
+- [Наредба № 8 от 13 ноември 2019 г. за изискванията към лечебните заведения, които извършват обучение на студенти и специализанти (ДВ, бр. 91 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142966)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

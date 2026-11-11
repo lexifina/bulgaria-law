@@ -49,6 +49,20 @@
 
 Act id: `postanovlenie-2009-dv090-26704` (tags `postanovlenie-2009-dv090-26704/<day>`; `python tools/on.py <day> postanovlenie-2009-dv090-26704`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 134 от 30 май 2014 г. за изменение и допълнение на Наредбата за Единната информационна система за противодействие на престъпността, приета с Постановление № 262 на Министерския съвет от 2009 г. (ДВ, бр. 47 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85424)
+- [Постановление № 75 от 5 март 2021 г. за изменение и допълнение на Наредбата за Единната информационна система за противодействие на престъпността, приета с Постановление № 262 на Министерския съвет от 2009 г. (ДВ, бр. 20 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156473)
+- [Постановление № 123 от 31 август 2023 г. за допълнение на Наредбата за Единната информационна система за противодействие на престъпността, приета с Постановление № 262 на Министерския съвет от 2009 г. (ДВ, бр. 76 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199208)
+
+Cited by:
+
+- [Постановление № 134 от 20 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

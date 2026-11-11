@@ -31,6 +31,21 @@
 
 Act id: `naredba-2021-dv059-159942` (tags `naredba-2021-dv059-159942/<day>`; `python tools/on.py <day> naredba-2021-dv059-159942`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 29.06.2021 г. за изискванията към границата на платежоспособност и собствените средства на пенсионноосигурителното дружество, към неговата оздравителна програма и към минималните ликвидни средства на дружеството и на управляваните от него фондове (ДВ, бр. 29 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171673)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 61 от 27 септември 2018 г. за изискванията към рекламните и писмените информационни материали и страниците в интернет на пенсионноосигурителните дружества (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178780)
+- [Наредба за изменение и допълнение на Наредба № 63 от 8.11.2018 г. за изискванията към съдържанието, периодичността на изготвяне и сроковете за представяне на отчетите за надзорни цели на пенсионноосигурителните дружества и управляваните от тях фондове (ДВ, бр. 70 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225380)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+- [Наредба № 10 от 16 юли 2026 г. за изискванията към капиталовата база на пенсионноосигурителното дружество, минималните ликвидни средства на дружеството и на управляваните от него фондове и неговата оздравителна програма (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244846)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

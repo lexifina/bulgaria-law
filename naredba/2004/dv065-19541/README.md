@@ -45,6 +45,15 @@
 
 Act id: `naredba-2004-dv065-19541` (tags `naredba-2004-dv065-19541/<day>`; `python tools/on.py <day> naredba-2004-dv065-19541`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Неофициален раздел на "Държавен вестник", брой 88 от 8.10.2004 г. (ДВ, бр. 88 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135672)
+- [Неофициален раздел на "Държавен вестник", брой 72 от 2.9.2005 г. (ДВ, бр. 72 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136914)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

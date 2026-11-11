@@ -45,6 +45,22 @@
 
 Act id: `naredba-2005-dv095-1095` (tags `naredba-2005-dv095-1095/<day>`; `python tools/on.py <day> naredba-2005-dv095-1095`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 23 от 2005 г. за разследване на произшествия в морските пространства и вътрешните водни пътища (ДВ, бр. 91 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40076)
+
+Cited by:
+
+- [Наредба № 16 от 20 юни 2006 г. за обработка и превоз на опасни товари по море и по вътрешни водни пътища (ДВ, бр. 53 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2137)
+- [Постановление № 329 от 28 декември 2007 г. за приемане на Наредба за предоставяне на речни информационни услуги по вътрешните водни пътища на Република България (ДВ, бр. 3 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4647)
+- [Задължителни правила за българските пристанища на река Дунав (ДВ, бр. 66 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6489)
+- [Наредба № 23 от 24 октомври 2011 г. за докладване и разследване на произшествия в морските пространства (ДВ, бр. 87 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58076)
+- [Постановление № 242 от 4 август 2014 г. за изменение и допълнение на Наредбата за предоставяне на речни информационни услуги по вътрешните водни пътища на Република България, приета с Постановление № 329 на Министерския съвет от 2007 г. (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87159)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

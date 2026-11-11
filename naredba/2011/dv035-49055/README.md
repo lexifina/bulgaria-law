@@ -64,6 +64,20 @@
 
 Act id: `naredba-2011-dv035-49055` (tags `naredba-2011-dv035-49055/<day>`; `python tools/on.py <day> naredba-2011-dv035-49055`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [конкурс (ДВ, бр. 40 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50875)
+- [конкурс (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52296)
+- [Конкурси за щатни бройки (ДВ, бр. 50 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53095)
+- [конкурси (ДВ, бр. 54 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53697)
+- [конкурс (ДВ, бр. 79 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57228)
+- [конкурс (ДВ, бр. 79 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57253)
+- [конкурс от Закона за съдебната власт (ДВ, бр. 88 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58181)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2004-dv058-19784` (tags `postanovlenie-2004-dv058-19784/<day>`; `python tools/on.py <day> postanovlenie-2004-dv058-19784`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 237 от 7 септември 2004 г. за изменение на Постановление № 145 на Министерския съвет от 2004 г. за изменение на Постановление № 30 на Министерския съвет от 2004 г. за изпълнението на държавния бюджет на Република България за 2004 г. (ДВ, бр. 81 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18787)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

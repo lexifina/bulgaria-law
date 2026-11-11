@@ -30,6 +30,23 @@
 
 Act id: `naredba-2004-dv039-21032` (tags `naredba-2004-dv039-21032/<day>`; `python tools/on.py <day> naredba-2004-dv039-21032`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2004 г. за медицинските критерии и реда на установяване на смърт (ДВ, бр. 32 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74832)
+
+Cited by:
+
+- [Наредба № 12 от 4 април 2007 г. за реда за установяване и удостоверяване на обстоятелствата, при които може да се извърши вземане на органи, тъкани и клетки от починало лице (ДВ, бр. 33 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3544)
+- [Наредба № 29 от 27 юни 2007 г. за условията, реда и размера на финансиране на дейности на националната система за трансплантация от Министерството на здравеопазването (ДВ, бр. 65 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4055)
+- [Наредба № 2 от 21 април 2011 г. за здравните изисквания към гробищни паркове (гробища) и погребването и пренасянето на покойници (ДВ, бр. 36 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49056)
+- [Наредба № 2 от 18 май 2012 г. за реда, по който телата на починали лица могат да се използват за целите на обучението и научните изследвания във висшите медицински училища (ДВ, бр. 41 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64840)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+- [Наредба № 13 от 6 декември 2021 г. за възстановяване на разходите и за относителния дял на средствата за труд за дейности по трансплантация, финансирани от Министерството на здравеопазването (ДВ, бр. 104 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166049)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

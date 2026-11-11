@@ -14,6 +14,22 @@
 
 Act id: `postanovlenie-2009-dv001-13750` (tags `postanovlenie-2009-dv001-13750/<day>`; `python tools/on.py <day> postanovlenie-2009-dv001-13750`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 148 от 12 юни 2009 г. за изменение и допълнение на Постановление № 323 на Министерския съвет от 2008 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на вътрешните работи (ДВ, бр. 46 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22493)
+- [Постановление № 311 от 17 декември 2009 г. за изменение и допълнение на Постановление № 323 на Министерския съвет от 2008 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на вътрешните работи (ДВ, бр. 102 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28071)
+- [Постановление № 270 от 18 ноември 2010 г. за допълнение на Постановление № 323 на Министерския съвет от 2008 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на вътрешните работи (ДВ, бр. 93 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40484)
+- [Постановление № 58 от 11 март 2011 г. за изменение и допълнение на Постановление № 323 на Министерския съвет от 2008 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на вътрешните работи (ДВ, бр. 22 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46581)
+
+Cited by:
+
+- [Постановление № 194 от 6 август 2009 г. за уреждане на правоотношенията във връзка със закриването на Министерството на държавната администрация и административната реформа (ДВ, бр. 64 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24192)
+- [Постановление № 131 от 27 юни 2012 г. за определяне на първостепенния и второстепенните разпоредители с бюджетни кредити в Министерството на вътрешните работи (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66034)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

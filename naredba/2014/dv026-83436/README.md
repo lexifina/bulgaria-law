@@ -36,6 +36,16 @@
 
 Act id: `naredba-2014-dv026-83436` (tags `naredba-2014-dv026-83436/<day>`; `python tools/on.py <day> naredba-2014-dv026-83436`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 52 от 2006 г. за здравните изисквания към овце и кози при придвижването или транспортирането им между Република България и държавите - членки на Европейския съюз, за определяне на здравния статус на обектите, от които произхождат, и допълнителните гаранции за здравния статус на тези обекти (ДВ, бр. 48 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85448)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2003 г. за фуражите със специално предназначение (ДВ, бр. 92 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98860)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2015 г. за условията за регистрация и реда за идентификация на пчелните семейства (ДВ, бр. 30 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233910)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

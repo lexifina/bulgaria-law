@@ -125,6 +125,22 @@
 
 Act id: `postanovlenie-2008-dv080-8568` (tags `postanovlenie-2008-dv080-8568/<day>`; `python tools/on.py <day> postanovlenie-2008-dv080-8568`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 251 от 1 ноември 2013 г. за изменение на Правилника за прилагане на Закона за регионалното развитие, приет с Постановление № 216 на Министерския съвет от 2008 г. (ДВ, бр. 97 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80163)
+- [Постановление № 153 от 24 юни 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за регионалното развитие, приет с Постановление № 216 на Министерския съвет от 2008 г. (ДВ, бр. 50 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105145)
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+- [Постановление № 388 от 10 декември 2014 г. за приемане на Устройствен правилник на Министерството на регионалното развитие и благоустройството (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90561)
+- [Постановление № 183 от 4 август 2020 г. за приемане на Правилник за прилагане за Закона за регионалното развитие (ДВ, бр. 70 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150658)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

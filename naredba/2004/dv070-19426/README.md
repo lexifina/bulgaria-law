@@ -53,6 +53,17 @@
 
 Act id: `naredba-2004-dv070-19426` (tags `naredba-2004-dv070-19426/<day>`; `python tools/on.py <day> naredba-2004-dv070-19426`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 21 от 7 юли 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Подобряване икономическата стойност на горите" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 66 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6289)
+- [Наредба № 20 от 7 юли 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Възстановяване на горския потенциал и въвеждане на превантивни дейности" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 65 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6301)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Възстановяване на горския потенциал и въвеждане на превантивни дейности" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 24 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17705)
+- [Наредба № 8 от 5 август 2011 г. за сечите в горите (ДВ, бр. 64 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55970)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

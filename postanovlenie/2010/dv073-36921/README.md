@@ -170,6 +170,26 @@
 
 Act id: `postanovlenie-2010-dv073-36921` (tags `postanovlenie-2010-dv073-36921/<day>`; `python tools/on.py <day> postanovlenie-2010-dv073-36921`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 28 от 1 февруари 2021 г. за изменение и допълнение на Наредбата за безопасната експлоатация и техническия надзор на повдигателни съоръжения, приета с Постановление № 199 на Министерския съвет от 2010 г. (ДВ, бр. 10 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155657)
+
+Cited by:
+
+- [Наредба № 2 от 9 януари 2012 г. за придобиване на квалификация по професията "Монтьор на подемно-транспортна техника" (ДВ, бр. 8 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60615)
+- [Наредба № 3 от 9 януари 2012 г. за придобиване на квалификация по професията "Монтьор на железопътна техника" (ДВ, бр. 8 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60616)
+- [Постановление № 347 от 20 декември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71588)
+- [Постановление № 56 от 6 март 2013 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74076)
+- [Наредба № V-12-707 от 15 ноември 2013 г. за условията и реда за устройството, безопасността и техническите изисквания към съоръженията, поставяни в увеселителни обекти (ДВ, бр. 102 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80556)
+- [Постановление № 326 от 16 октомври 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 88 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88764)
+- [Постановление № 143 от 13 юли 2018 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128664)
+- [Наредба № РД-06-4 от 2 март 2021 г. за осигуряване на здравословни и безопасни условия на труд при леене на метали и метални сплави (ДВ, бр. 23 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156488)
+- [Наредба № РД-06-3 от 23 февруари 2022 г. за осигуряване на здравословни и безопасни условия на труд в черната и цветната металургия (ДВ, бр. 19 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170289)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

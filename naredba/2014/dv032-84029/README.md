@@ -60,6 +60,43 @@
 
 Act id: `naredba-2014-dv032-84029` (tags `naredba-2014-dv032-84029/<day>`; `python tools/on.py <day> naredba-2014-dv032-84029`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 10 от 2014 г. за обхвата и съдържанието, изработването, одобряването и изменението на генералните планове на пристанищата за обществен транспорт (ДВ, бр. 2 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90937)
+
+Cited by:
+
+- [Заповед № РД-08-689 от 19 декември 2014 г., № РД-02-14-1317 от 29 декември 2014 г. (ДВ, бр. 3 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91118)
+- [Заповед № РД-08-189 от 8 април 2015 г., № РД-02-14-457 от 6 април 2015 г. (ДВ, бр. 28 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93850)
+- [Заповед № РД-08-302 от 9 юни 2015 г. (МТИТС) и № РД-02-14-727 от 8 юни 2015 г. (МРРБ) (ДВ, бр. 44 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95145)
+- [ЗАПОВЕД № РД-08-304 от 13 юни 2016 г. (МТИТС) № РД-02-14-457 от 10 юни 2016 г. (МРРБ) (ДВ, бр. 49 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104958)
+- [Заповед № РД-08-602 от 29 декември 2016 г. на МТИТС, № РД-02-14-1064 от 28 декември 2016 г. на МРРБ (ДВ, бр. 3 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110822)
+- [Заповед № РД-08-29 от 25 януари 2017 г. на МТИТС и Заповед № РД-02-14-51 от 25 януари 2017 г. на МРРБ (ДВ, бр. 14 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111669)
+- [Заповед № РД-08-49 от 9 февруари 2018 г. на МТИТС, № РД-02-14-107 от 7 февруари 2018 г. на МРРБ (ДВ, бр. 16 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122941)
+- [Заповед № РД-08-48 от 9 февруари 2018 г. на МТИТС, № РД-02-14-109 от 7 февруари 2018 г. на МРРБ (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122952)
+- [Заповед № РД-08-502 от 16 ноември 2018 г. на МТИТС, Заповед № РД-02-14-1156 от 12 ноември 2018 г. на МРРБ (ДВ, бр. 99 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132288)
+- [Заповед № РД-08-38 от 28 януари 2019 г. на МТИТС, № РД-02-14-63 от 23 януари 2019 г. на МРРБ (ДВ, бр. 13 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134572)
+- [Заповед № РД-08-359 от 26 юли 2019 г. на МТИТС, № РД-02-14-724 от 24 юли 2019 г. на МРРБ (ДВ, бр. 62 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140261)
+- [Заповед № РД-08-404 от 29 август 2019 г. на МТИТС, № РД-02-14-927 от 29 август 2019 г. на МРРБ (ДВ, бр. 71 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141069)
+- [Заповед № РД-08-405 от 29 август 2019 г. на МТИТС, № РД-02-14-926 от 29 август 2019 г. на МРРБ (ДВ, бр. 71 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141070)
+- [Заповед № РД-08-55 от 7 февруари 2020 г. на МТИТС, Заповед № РД-02-14-101 от 5 февруари 2020 г. на МРРБ (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145898)
+- [Заповед № РД-08-66 от 17 февруари 2020 г. (МТИТС), № РД-02-14-145 от 14 февруари 2020 г. (МРРБ) (ДВ, бр. 18 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146337)
+- [Заповед № РД-08-30 от 20 януари 2022 г. (МТС) и Заповед № РД-02-14-65 от 17 януари 2022 г. (МРРБ) (ДВ, бр. 8 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168190)
+- [Заповед № РД-08-306 от 23 юни 2022 г. (МТС) и Заповед № РД-02-14-670 от 4 юли 2022 г. (МРРБ) (ДВ, бр. 56 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174751)
+- [Заповед № РД-08-464 от 13 септември 2022 г. и Заповед № РД-02-14-884 от 8 септември 2022 г. (ДВ, бр. 77 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178344)
+- [Заповед № РД-08-660 от 14 ноември 2023 г., Заповед № РД-02-14-1192 от 10 ноември 2023 г. (ДВ, бр. 99 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201399)
+- [Заповед № РД-08-676 от 23 ноември 2023 г. (МТС), Заповед № РД-02-14-1224 от 20 ноември 2023 г. (МРРБ) (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201530)
+- [Заповед № РД-08-73 от 8 февруари 2024 г. (МТС), № РД-02-14-103 от 1 февруари 2024 г. (МРРБ) (ДВ, бр. 15 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=206944)
+- [Заповед № РД-08-253 от 29 май 2024 г. (МТС) и № РД-02-14-756 от 23 май 2024 г. (МРРБ) (ДВ, бр. 50 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218280)
+- [Заповед № РД-08-300 от 1 юли 2024 г. (МТС) и Заповед № РД-02-14-1005 от 25 юни 2024 г. (МРРБ) (ДВ, бр. 57 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220520)
+- [Заповед № РД-08-52 от 6 февруари 2025 г. (МТС), Заповед № РД-02-14-243 от 5 февруари 2025 г. (МРРБ) (ДВ, бр. 14 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232860)
+- [Заповед № РД-08-576 от 14 ноември 2025 г. (МТС), Заповед № РД-02-14-2349 от 13 ноември 2025 г. (МРРБ) (ДВ, бр. 102 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239014)
+- [Заповед № РД-08-62 от 29 януари 2026 г. (МТС), Заповед № РД-02-14-175 от 28 януари 2026 г. (МРРБ) (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241093)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

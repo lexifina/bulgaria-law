@@ -14,6 +14,15 @@
 
 Act id: `postanovlenie-2021-dv105-166236` (tags `postanovlenie-2021-dv105-166236/<day>`; `python tools/on.py <day> postanovlenie-2021-dv105-166236`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 422 от 14 декември 2022 г. за приемане на Списък на продуктите, свързани с отбраната и Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181828)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

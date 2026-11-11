@@ -23,6 +23,14 @@
 
 Act id: `postanovlenie-2004-dv062-19605` (tags `postanovlenie-2004-dv062-19605/<day>`; `python tools/on.py <day> postanovlenie-2004-dv062-19605`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 55 от 13 март 2006 г. за приемане на Наредба за специфичните изисквания за пускане на пазара на детергентите и на повърхностноактивните вещества, предназначени за детергенти (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1563)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

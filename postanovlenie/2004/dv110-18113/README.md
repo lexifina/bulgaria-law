@@ -34,6 +34,14 @@
 
 Act id: `postanovlenie-2004-dv110-18113` (tags `postanovlenie-2004-dv110-18113/<day>`; `python tools/on.py <day> postanovlenie-2004-dv110-18113`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 264 от 9 ноември 2010 г. за приемане на Наредба за условията и реда, при които се допуска тютюнопушене в закрити обществени места и в сградите с обособени работни места (ДВ, бр. 90 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39881)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

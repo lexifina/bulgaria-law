@@ -25,6 +25,14 @@
 
 Act id: `postanovlenie-2014-dv059-86544` (tags `postanovlenie-2014-dv059-86544/<day>`; `python tools/on.py <day> postanovlenie-2014-dv059-86544`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 91 от 29 май 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 47 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127013)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -67,6 +67,17 @@
 
 Act id: `naredba-2006-dv045-1995` (tags `naredba-2006-dv045-1995/<day>`; `python tools/on.py <day> naredba-2006-dv045-1995`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 35 от 2006 г. за специфичните изисквания при осъществяване на официален контрол върху суровини и храни от животински произход (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2620)
+- [Наредба за изменение и допълнение на Наредба № 36 от 2006 г. за специфичните изисквания при производство, транспортиране и пускане на пазара на суровини и храни от животински произход (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2621)
+- [Наредба № 114 от 25 октомври 2006 г. за ограниченията за употребата на определени субстанции с хормонално или тиреостатично действие и на бета-агонисти при животни, отглеждани във ферми (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2786)
+- [Наредба № 119 от 21 декември 2006 г. за мерките за контрол върху определени субстанции и остатъци от тях в живи животни, суровини и храни от животински произход, предназначени за консумация от хора (ДВ, бр. 6 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3156)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -66,6 +66,31 @@
 
 Act id: `postanovlenie-2011-dv049-53236` (tags `postanovlenie-2011-dv049-53236/<day>`; `python tools/on.py <day> postanovlenie-2011-dv049-53236`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 163 от 6 август 2018 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по горите, приет с Постановление № 173 на Министерския съвет от 2011 г. (ДВ, бр. 66 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129140)
+- [Постановление № 285 от 18 ноември 2019 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по горите, приет с Постановление № 173 на Министерския съвет от 2011 г. (ДВ, бр. 92 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143074)
+- [Постановление № 181 от 21 юли 2022 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по горите, приет с Постановление № 173 на Министерския съвет от 2011 г. (ДВ, бр. 58 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175113)
+
+Cited by:
+
+- [Постановление № 118 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65639)
+- [Постановление № 346 от 20 декември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71587)
+- [Постановление № 234 от 11 октомври 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 91 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79619)
+- [Постановление № 90 от 16 април 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93881)
+- [Постановление № 89 от 18 април 2016 г. за създаване на Изпълнителна агенция "Сертификационен одит на средствата от европейските земеделски фондове" и за приемане на нейния устройствен правилник (ДВ, бр. 32 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102919)
+- [Постановление № 231 от 8 септември 2016 г. за приемане на Устройствен правилник на Центъра за оценка на риска по хранителната верига (ДВ, бр. 71 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107432)
+- [Постановление № 258 от 20 ноември 2017 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120046)
+- [Постановление № 334 от 29 декември 2017 г. за изменение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 2 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121282)
+- [Постановление № 158 от 30 юли 2018 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 64 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129020)
+- [Постановление № 288 от 11 декември 2018 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 104 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132956)
+- [Постановление № 38 от 6 март 2020 г. за изменение и допълнение на нормативни актове (ДВ, бр. 20 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146736)
+- [Постановление № 418 от 14 декември 2022 г. за изменение и допълнение на Устройствения правилник на Държавен фонд "Земеделие", приет с Постановление № 151 на Министерския съвет от 2012 г. (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181804)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

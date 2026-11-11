@@ -78,6 +78,19 @@
 
 Act id: `postanovlenie-2012-dv056-66654` (tags `postanovlenie-2012-dv056-66654/<day>`; `python tools/on.py <day> postanovlenie-2012-dv056-66654`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 215 от 23 септември 2013 г. за приемане на Устройствен правилник на Министерството на правосъдието (ДВ, бр. 84 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79084)
+
+Cited by:
+
+- [Инструкция № И-1 от 25 септември 2012 г. за условията и реда за носене на служебно оръжие от служителите на Главна дирекция "Охрана" (ДВ, бр. 75 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68720)
+- [Постановление № 341 от 20 декември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71582)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

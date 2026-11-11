@@ -25,6 +25,21 @@
 
 Act id: `postanovlenie-2007-dv072-4114` (tags `postanovlenie-2007-dv072-4114/<day>`; `python tools/on.py <day> postanovlenie-2007-dv072-4114`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 250 от 17 октомври 2008 г. за изменение и допълнение на Постановление № 199 на Министерския съвет от 2007 г. за приемане на Национални правила относно Европейските обединения за териториално сътрудничество (ДВ, бр. 92 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10026)
+
+Cited by:
+
+- [Постановление № 305 от 11 декември 2008 г. за създаване на Изпълнителна агенция "Одит на средствата от Европейския съюз" (ДВ, бр. 108 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13363)
+- [Правилник за реда за водене на регистрите при Министерството на регионалното развитие и благоустройството на Европейските обединения за териториално сътрудничество със седалище в Република България и на българските юридически лица, които членуват в Европейско обединение за териториално сътрудничество, чието седалище се намира в друга държава - членка на Европейския съюз (ДВ, бр. 80 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25439)
+- [Постановление № 70 от 14 април 2010 г. за координация при управлението на средствата от Европейския съюз (ДВ, бр. 31 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32133)
+- [Постановление № 24 от 10 февруари 2015 г. за приемане на Национални правила относно учредяване, регистрация и членство в Европейски групи за териториално сътрудничество (ДВ, бр. 13 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91999)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

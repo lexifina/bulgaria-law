@@ -39,6 +39,21 @@
 
 Act id: `postanovlenie-2012-dv008-60669` (tags `postanovlenie-2012-dv008-60669/<day>`; `python tools/on.py <day> postanovlenie-2012-dv008-60669`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 265 от 22 ноември 2013 г. за изменение на Правилника за устройството и дейността на Националния институт за недвижимо културно наследство, приет с Постановление № 8 на Министерския съвет от 2012 г. (ДВ, бр. 103 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80716)
+- [Постановление № 184 от 27 август 2018 г. за изменение на Правилника за устройството и дейността на Националния институт за недвижимо културно наследство, приет с Постановление № 8 на Министерския съвет от 2012 г. (ДВ, бр. 72 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129742)
+
+Cited by:
+
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 177 от 20 август 2018 г. за приемане на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129564)
+- [Постановление № 242 от 4 юли 2024 г. за изменение и допълнение на Устройствения правилник на Държавна агенция "Държавен резерв и военновременни запаси", приет с Постановление № 13 на Министерския съвет от 2004 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221018)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

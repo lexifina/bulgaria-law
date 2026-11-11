@@ -32,6 +32,21 @@
 
 Act id: `naredba-2016-dv070-107228` (tags `naredba-2016-dv070-107228/<day>`; `python tools/on.py <day> naredba-2016-dv070-107228`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2016 г. за мерките за опазването на пчелите и пчелните семейства от отравяне и начините за провеждане на растителнозащитни, дезинфекционни и дезинсекционни дейности (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153972)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 16 от 2005 г. за условията и реда за провеждане на курс за обучение и изпит и за издаване и отнемане на свидетелство на класификатори за окачествяване на кланични трупове по скалата (S)EUROP (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134933)
+- [Заповед № РД-09-354 от 8 април 2019 г. (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137126)
+- [Наредба № 10 от 27 юни 2023 г. за условията и реда за прилагане на интервенциите в областта на околната среда и климата и хуманно отношение към животните, включени в Стратегическия план за развитието на земеделието и селските райони за периода 2023 - 2027 г. (ДВ, бр. 56 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196800)
+- [Заповед № РД-09-1037 от 1 октомври 2024 г. за утвърждаване на Ръководство за прилагане на законоустановените изисквания за управление за периода 2023 - 2027 г. (ДВ, бр. 86 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229240)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

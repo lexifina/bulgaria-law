@@ -172,6 +172,16 @@
 
 Act id: `naredba-2016-dv038-103573` (tags `naredba-2016-dv038-103573/<day>`; `python tools/on.py <day> naredba-2016-dv038-103573`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 53 от 23 декември 2016 г. за изискванията към отчетността, оценката на активите и пасивите и образуването на техническите резерви на застрахователите, презастрахователите и Гаранционния фонд (ДВ, бр. 6 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110930)
+- [Наредба № 71 от 22 юли 2021 г. за изискванията към системата на управление на застрахователите и презастрахователите (ДВ, бр. 64 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160468)
+- [Наредба за изменение и допълнение на Наредба № 53 от 23.12.2016 г. за изискванията към отчетността, оценката на активите и пасивите и образуването на техническите резерви на застрахователите, презастрахователите и Гаранционния фонд (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181866)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -30,6 +30,18 @@
 
 Act id: `naredba-2007-dv106-4542` (tags `naredba-2007-dv106-4542/<day>`; `python tools/on.py <day> naredba-2007-dv106-4542`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-12 от 2007 г. за условията и реда за осъществяване на охранителна и контролна дейност от органите на Военна полиция в служба "Сигурност - ВП и ВКР" (ДВ, бр. 77 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8272)
+
+Cited by:
+
+- [Наредба № Н-21 от 9 септември 2009 г. за условията и реда за охрана и/или контрол на охраната от служба "Военна полиция" (ДВ, бр. 76 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25157)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

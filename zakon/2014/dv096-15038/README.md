@@ -9,6 +9,14 @@
 
 Act id: `zakon-2014-dv096-15038` (tags `zakon-2014-dv096-15038/<day>`; `python tools/on.py <day> zakon-2014-dv096-15038`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 5 от 29 септември 2015 г. по конституционно дело № 4 от 2015 г. (ДВ, бр. 78 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97791)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

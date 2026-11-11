@@ -13,6 +13,18 @@
 
 Act id: `naredba-2010-dv055-34502` (tags `naredba-2010-dv055-34502/<day>`; `python tools/on.py <day> naredba-2010-dv055-34502`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [Наредба за изменение на Наредба № 2 от 2010 г. за утвърждаване на медицински стандарт "Кардиология" (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84033)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2010 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103553)
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба № Н-4 от 3 октомври 2025 г.за утвърждаване на медицински стандарт "Кожни и венерически болести" (ДВ, бр. 85 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237810)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

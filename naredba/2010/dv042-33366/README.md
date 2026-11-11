@@ -34,6 +34,18 @@
 
 Act id: `naredba-2010-dv042-33366` (tags `naredba-2010-dv042-33366/<day>`; `python tools/on.py <day> naredba-2010-dv042-33366`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Iз-1027 от 2010 г. за организацията и дейността на звената "Общинска полиция" в Република България (ДВ, бр. 3 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42193)
+
+Cited by:
+
+- [Наредба № 8121з-422 от 16 април 2015 г. за организацията и дейността на звената "Общинска полиция" (ДВ, бр. 31 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93944)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

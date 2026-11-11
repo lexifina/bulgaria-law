@@ -79,6 +79,14 @@
 
 Act id: `postanovlenie-2023-dv036-191461` (tags `postanovlenie-2023-dv036-191461/<day>`; `python tools/on.py <day> postanovlenie-2023-dv036-191461`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 160 от 14 август 2025 г. за изменение на Наредбата за условията и реда за осъществяване на дейностите, свързани с оръжията, боеприпасите, взривните вещества и пиротехническите изделия и контрола над тях във и от въоръжените сили на Република България, приета с Постановление № 278 на Министерския съвет от 2010 г. (ДВ, бр. 68 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236787)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

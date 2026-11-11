@@ -28,6 +28,15 @@
 
 Act id: `naredba-2006-dv096-2892` (tags `naredba-2006-dv096-2892/<day>`; `python tools/on.py <day> naredba-2006-dv096-2892`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122989)
+- [Наредба за изменение и допълнение на Наредба № 48 от 2013 г. за изискванията към възнагражденията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137550)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

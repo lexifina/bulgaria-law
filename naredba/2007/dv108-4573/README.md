@@ -77,6 +77,26 @@
 
 Act id: `naredba-2007-dv108-4573` (tags `naredba-2007-dv108-4573/<day>`; `python tools/on.py <day> naredba-2007-dv108-4573`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 23 от 2007 г. за управление на националната млечна квота (ДВ, бр. 76 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8163)
+- [Наредба за изменение и допълнение на Наредба № 23 от 2007 г. за управление на националната млечна квота (ДВ, бр. 63 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55738)
+- [Наредба за изменение и допълнение на Наредба № 23 от 2007 г. за управление на националната млечна квота (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67588)
+- [Наредба за изменение на Наредба № 23 от 2007 г. за управление на националната млечна квота (ДВ, бр. 46 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85307)
+- [Наредба за допълнение на Наредба № 23 от 2007 г. за управление на националната млечна квота (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91261)
+
+Cited by:
+
+- [Наредба № 4 от 19 февруари 2008 г. за специфичните изисквания при производството, съхранението и транспортирането на сурово краве мляко и изискванията за търговия и пускане на пазара на мляко и млечни продукти (ДВ, бр. 23 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4889)
+- [Постановление № 187 от 28 юли 2008 г. за приемане на Наредба за реда за плащане на вноската при превишение на националната млечна квота (ДВ, бр. 69 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7380)
+- [Наредба № 6 от 12 март 2010 г. за условията и реда за прилагане на специфична мярка за подпомагане на пазара в сектора на млечните продукти (ДВ, бр. 23 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30998)
+- [Наредба № 26 от 14 октомври 2010 г. за специфичните изисквания за директни доставки на малки количества суровини и храни от животински произход (ДВ, бр. 84 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38294)
+- [Наредба № 21 от 12 ноември 2015 г. за условията и реда за предоставяне на извънредно подпомагане на производителите на животински продукти, засегнати от кризата в сектора (ДВ, бр. 89 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98726)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

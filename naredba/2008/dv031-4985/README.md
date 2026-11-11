@@ -70,6 +70,15 @@
 
 Act id: `naredba-2008-dv031-4985` (tags `naredba-2008-dv031-4985/<day>`; `python tools/on.py <day> naredba-2008-dv031-4985`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [№ РД-09-915/24.11.09 г. (ДВ, бр. 12 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29466)
+- [Наредба № 4 от 8 март 2010 г. за здравните изисквания към говеда и свине при транспортирането им между Република България и другите държави - членки на Европейския съюз, и за определяне на здравния статус на районите и обектите, от които произхождат тези животни (ДВ, бр. 23 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30932)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

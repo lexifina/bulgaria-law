@@ -71,6 +71,21 @@
 
 Act id: `postanovlenie-2006-dv065-2350` (tags `postanovlenie-2006-dv065-2350/<day>`; `python tools/on.py <day> postanovlenie-2006-dv065-2350`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 29 от 15 февруари 2008 г. за изменение и допълнение на Правилника за прилагане на Закона за държавната финансова инспекция, приет с Постановление № 197 на Министерския съвет от 2006 г. (ДВ, бр. 20 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4851)
+- [Постановление № 377 от 1 ноември 2024 г. за изменение и допълнение на Правилника за прилагане на Закона за държавната финансова инспекция, приет с Постановление № 197 на Министерския съвет от 2006 г. (ДВ, бр. 94 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230228)
+
+Cited by:
+
+- [Постановление № 88 от 9 април 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 30 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19198)
+- [Постановление № 304 от 11 ноември 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 92 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58625)
+- [Постановление № 225 от 25 юли 2014 г. за одобряване на допълнителни разходи по бюджета на Националната служба за охрана за 2014 г. във връзка с предоставянето за управление на стопанство "Кричим" (ДВ, бр. 63 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86929)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

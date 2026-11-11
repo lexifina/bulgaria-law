@@ -70,6 +70,21 @@
 
 Act id: `postanovlenie-2010-dv010-29238` (tags `postanovlenie-2010-dv010-29238/<day>`; `python tools/on.py <day> postanovlenie-2010-dv010-29238`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 7 от 18 януари 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 8 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60668)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 90 от 3 май 2012 г. за изменение на Устройствения правилник на Държавна агенция "Архиви", приет с Постановление № 9 на Министерския съвет от 2010 г. (ДВ, бр. 36 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64347)
+- [Постановление № 172 от 6 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 52 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95747)
+- [Постановление № 20 от 25 февруари 2022 г. за приемане на устройствени правилници на Министерството на икономиката и индустрията и на Министерството на иновациите и растежа (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170169)
+- [Постановление № 276 от 13 декември 2023 г. за приемане на Правилник за устройството, организацията и дейността на Националния съвет за превенция и защита от домашното насилие (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201911)
+- [Постановление № 381 от 6 ноември 2024 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 96 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230402)
+- [Постановление № 190 от 14 октомври 2026 г. за изменение и допълнение на Устройствения правилник на Института по публична администрация, приет с Постановление № 44 на Министерския съвет от 2016 г. (ДВ, бр. 96 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246581)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

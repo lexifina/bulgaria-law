@@ -59,6 +59,14 @@
 
 Act id: `naredba-2011-dv062-55682` (tags `naredba-2011-dv062-55682/<day>`; `python tools/on.py <day> naredba-2011-dv062-55682`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-1006 от 24 август 2015 г. за реда за осъществяване на пожарогасителната и спасителната дейност от органите за пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 67 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97020)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

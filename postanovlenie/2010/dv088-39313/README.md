@@ -33,6 +33,21 @@
 
 Act id: `postanovlenie-2010-dv088-39313` (tags `postanovlenie-2010-dv088-39313/<day>`; `python tools/on.py <day> postanovlenie-2010-dv088-39313`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 225 от 2 октомври 2013 г. за изменение на Наредбата за стандарти за качество на околната среда за приоритетни вещества и някои други замърсители, приета с Постановление № 256 на Министерския съвет от 2010 г. (ДВ, бр. 88 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79360)
+- [Постановление № 345 от 7 декември 2015 г. за изменение и допълнение на Наредбата за стандарти за качество на околната среда за приоритетни вещества и някои други замърсители, приета с Постановление № 256 на Министерския съвет от 2010 г. (ДВ, бр. 97 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99319)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+- [Постановление № 383 от 29 декември 2016 г. за приемане на Тарифа за таксите за водовземане, за ползване на воден обект и за замърсяване (ДВ, бр. 2 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110794)
+- [Наредба № 14 от 9 декември 2021 г. за хигиената на храните (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166256)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

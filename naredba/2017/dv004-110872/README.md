@@ -84,6 +84,19 @@
 
 Act id: `naredba-2017-dv004-110872` (tags `naredba-2017-dv004-110872/<day>`; `python tools/on.py <day> naredba-2017-dv004-110872`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 54 от 29.12.2016 г. за техническите изисквания и оценяване съответствието на оборудването на морските кораби (ДВ, бр. 28 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157036)
+- [Наредба за изменение и допълнение на Наредба № 54 от 29.12.2016 г. за техническите изисквания и оценяване съответствието на оборудването на морските кораби (ДВ, бр. 7 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168042)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 20 от 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 52 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115557)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -61,6 +61,24 @@
 
 Act id: `postanovlenie-2016-dv076-107721` (tags `postanovlenie-2016-dv076-107721/<day>`; `python tools/on.py <day> postanovlenie-2016-dv076-107721`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 70 от 8 май 2018 г. за изменение и допълнение на Устройствения правилник на Агенцията по геодезия, картография и кадастър, приет с Постановление № 242 на Министерския съвет от 2016 г. (ДВ, бр. 39 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126302)
+- [Постановление № 122 от 12 юни 2020 г. за изменение и допълнение на Устройствения правилник на Агенцията по геодезия, картография и кадастър, приет с Постановление № 242 на Министерския съвет от 2016 г. (ДВ, бр. 54 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149068)
+- [Постановление № 14 от 27 януари 2023 г. за изменение на Устройствения правилник на Агенцията по геодезия, картография и кадастър, приет с Постановление № 242 на Министерския съвет от 2016 г. (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185442)
+
+Cited by:
+
+- [Правилник за изменение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 14 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111768)
+- [Заповед № КД-14-1 от 20 януари 2017 г. (ДВ, бр. 16 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111886)
+- [Правилник за изменение и допълнение на Устройствения правилник на Патентното ведомство на Република България (ДВ, бр. 31 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113444)
+- [Устройствен правилник на Патентното ведомство на Република България (ДВ, бр. 61 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128712)
+- [Постановление № 139 от 25 юли 2025 г. за приемане на Устройствен правилник на Агенция "Пътна инфраструктура" (ДВ, бр. 62 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236411)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

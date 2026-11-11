@@ -56,6 +56,15 @@
 
 Act id: `naredba-2017-dv020-112324` (tags `naredba-2017-dv020-112324/<day>`; `python tools/on.py <day> naredba-2017-dv020-112324`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 135 от 9 юли 2018 г. за изменение и допълнение на Наредбата за специфичните изисквания към млечните продукти, приета с Постановление № 119 на Министерския съвет от 2012 г. (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128477)
+- [Наредба № 5 от 2 май 2023 г. за специфичните изисквания за производство, събиране, транспортиране и преработка на сурово мляко, предлагането на пазара на мляко и млечни продукти и официалния им контрол (ДВ, бр. 41 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192600)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

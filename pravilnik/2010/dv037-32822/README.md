@@ -74,6 +74,21 @@
 
 Act id: `pravilnik-2010-dv037-32822` (tags `pravilnik-2010-dv037-32822/<day>`; `python tools/on.py <day> pravilnik-2010-dv037-32822`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 53 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53995)
+- [Правилник за изменение и допълнение на Правилника за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 68 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107131)
+- [Правилник за изменение и допълнение на Правилника за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 98 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120485)
+- [Правилник за отменяне на Правилника за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136218)
+
+Cited by:
+
+- [Наредба № 5 от 21 март 2014 г. за условията и реда за упражняване правата на пациентите при трансгранично здравно обслужване (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83755)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

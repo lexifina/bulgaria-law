@@ -22,6 +22,15 @@
 
 Act id: `naredba-2020-dv074-150899` (tags `naredba-2020-dv074-150899/<day>`; `python tools/on.py <day> naredba-2020-dv074-150899`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 7.07.2020 г. за формата и съдържанието на годишните доклади за дейността на одитните комитети на предприятията от обществен интерес (ДВ, бр. 30 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157325)
+- [Наредба за изменение и допълнение на Наредба № 2 от 7 юли 2020 г. за формата и съдържанието на годишните доклади за дейността на одитните комитети в предприятията от обществен интерес (ДВ, бр. 1 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231685)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

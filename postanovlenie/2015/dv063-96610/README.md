@@ -24,6 +24,14 @@
 
 Act id: `postanovlenie-2015-dv063-96610` (tags `postanovlenie-2015-dv063-96610/<day>`; `python tools/on.py <day> postanovlenie-2015-dv063-96610`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 329 от 30 ноември 2015 г. за закриване на Дома за медико-социални грижи за деца - Шумен (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99138)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

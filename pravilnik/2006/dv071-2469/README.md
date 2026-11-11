@@ -87,6 +87,20 @@
 
 Act id: `pravilnik-2006-dv071-2469` (tags `pravilnik-2006-dv071-2469/<day>`; `python tools/on.py <day> pravilnik-2006-dv071-2469`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на възпитателните училища-интернати и социално-педагогическите интернати (ДВ, бр. 31 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102660)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на възпитателните училища-интернати и социално-педагогическите интернати (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142483)
+
+Cited by:
+
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба № 10 от 1 септември 2016 г. за организация на дейностите в училищното образование (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107428)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

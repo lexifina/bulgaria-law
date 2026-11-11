@@ -112,6 +112,15 @@
 
 Act id: `instruktsiya-2015-dv055-95907` (tags `instruktsiya-2015-dv055-95907/<day>`; `python tools/on.py <day> instruktsiya-2015-dv055-95907`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-1492 от 4 ноември 2022 г. за реда и организацията за извършване на граничните проверки на граничните контролно-пропускателни пунктове (ДВ, бр. 91 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180006)
+- [адм. дело № 11134/2022 г. (ДВ, бр. 28 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=189163)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

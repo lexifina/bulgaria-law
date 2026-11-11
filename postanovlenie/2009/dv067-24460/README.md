@@ -20,6 +20,18 @@
 
 Act id: `postanovlenie-2009-dv067-24460` (tags `postanovlenie-2009-dv067-24460/<day>`; `python tools/on.py <day> postanovlenie-2009-dv067-24460`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 215 от 22 юли 2011 г. за изменение и допълнение на Постановление № 205 на Министерския съвет от 2009 г. за определяне на органите за управление, сертифициране и одит на средствата по Европейския фонд за връщане и за утвърждаване на Многогодишна програма по Европейския фонд за връщане за периода от 2008 до 2013 г. (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55472)
+
+Cited by:
+
+- [Постановление № 2 от 13 януари 2010 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28698)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

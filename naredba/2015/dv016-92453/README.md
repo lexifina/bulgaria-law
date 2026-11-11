@@ -33,6 +33,21 @@
 
 Act id: `naredba-2015-dv016-92453` (tags `naredba-2015-dv016-92453/<day>`; `python tools/on.py <day> naredba-2015-dv016-92453`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2015 г. за прилагане на мярка 13 "Плащания за райони с природни или други специфични ограничения" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123210)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2015 г. за прилагане на мярка 13 "Плащания за райони с природни или други специфични ограничения" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 18 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135157)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2015 г. за прилагане на мярка 13 "Плащания за райони с природни или други специфични ограничения" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 18 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146467)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2015 г. за прилагане на мярка 13 "Плащания за райони с природни или други специфични ограничения" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 62 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149714)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за прилагане на мярка 12 "Плащания по Натура 2000 и Рамковата директива за водите" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156236)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -26,6 +26,14 @@
 
 Act id: `naredba-2014-dv025-83577` (tags `naredba-2014-dv025-83577/<day>`; `python tools/on.py <day> naredba-2014-dv025-83577`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 57 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220460)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -65,6 +65,17 @@
 
 Act id: `postanovlenie-2010-dv082-38067` (tags `postanovlenie-2010-dv082-38067/<day>`; `python tools/on.py <day> postanovlenie-2010-dv082-38067`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 804 от 4 ноември 2011 г. за откриване на производство за издаване на разрешение за търсене и проучване на нефт и природен газ - подземни богатства по чл. 2, ал. 1, т. 3 от Закона за подземните богатства, в площ "Блок 1-19 Свети Атанас", разположена в континенталния шелф и в изключителната икономическа зона на Република България в Черно море, и за уведомление за предоставяне на разрешение чрез конкурс (ДВ, бр. 89 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58410)
+- [Постановление № 1 от 7 януари 2016 г. за приемане на Наредба за управление на минните отпадъци (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99949)
+- [Постановление № 366 от 21 декември 2016 г. за приемане на Наредба за изискванията за предотвратяване на аварии при търсене и проучване или проучване, или добив на подземни богатства - нефт и природен газ, в териториалното море, континенталния шелф и в изключителната икономическа зона на Република България в Черно море (ДВ, бр. 103 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110582)
+- [Постановление № 42 от 17 март 2023 г. за приемане на Наредба за провеждане на конкурси и търгове по Закона за подземните богатства (ДВ, бр. 26 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188857)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

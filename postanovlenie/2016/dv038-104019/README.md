@@ -20,6 +20,21 @@
 
 Act id: `postanovlenie-2016-dv038-104019` (tags `postanovlenie-2016-dv038-104019/<day>`; `python tools/on.py <day> postanovlenie-2016-dv038-104019`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 143 от 14 юни 2016 г. за изменение и допълнение на Постановление № 125 на Министерския съвет от 2016 г. за одобряване на прогнозно разпределение на разходите за подготовка и провеждане на Българското председателство на Съвета на Европейския съюз през 2018 г. и на допълнителни разходи за 2016 г. (ДВ, бр. 46 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104809)
+- [Постановление № 284 от 4 ноември 2016 г. за изменение на Постановление № 125 на Министерския съвет от 2016 г. за одобряване на прогнозно разпределение на разходите за подготовка и провеждане на Българското председателство на Съвета на Европейския съюз през 2018 г. и на допълнителни разходи за 2016 г. (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108938)
+- [Постановление № 340 от 2 декември 2016 г. за изменение на Постановление № 125 на Министерския съвет от 2016 г. за одобряване на прогнозно разпределение на разходите за подготовка и провеждане на Българското председателство на Съвета на Европейския съюз през 2018 г. и на допълнителни разходи за 2016 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109976)
+
+Cited by:
+
+- [Постановление № 234 от 10 септември 2016 г. за одобряване на допълнителни разходи по бюджета на Комисията за защита на конкуренцията за 2016 г. (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107513)
+- [Постановление № 347 от 8 декември 2016 г. за одобряване на допълнителни разходи/трансфери за 2016 г. (ДВ, бр. 99 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110131)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

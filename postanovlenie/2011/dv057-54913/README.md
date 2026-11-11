@@ -24,6 +24,14 @@
 
 Act id: `postanovlenie-2011-dv057-54913` (tags `postanovlenie-2011-dv057-54913/<day>`; `python tools/on.py <day> postanovlenie-2011-dv057-54913`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 235 от 6 ноември 2025 г. за изменение на Тарифата за таксите, които се събират за обучение за придобиване на правоспособност за класификатор на кланични трупове по скалата EUROP, приета с Постановление № 206 на Министерския съвет от 2011 г. (ДВ, бр. 96 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238733)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

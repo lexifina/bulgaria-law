@@ -56,6 +56,15 @@
 
 Act id: `postanovlenie-2011-dv009-43521` (tags `postanovlenie-2011-dv009-43521/<day>`; `python tools/on.py <day> postanovlenie-2011-dv009-43521`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-995 от 13 декември 2014 г. за условията и реда за предоставяне на порционни пари на служителите на Министерството на вътрешните работи (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90746)
+- [Наредба № 8121з-773 от 1 юли 2015 г. за условията и реда за осигуряване на храна или левовата й равностойност на служителите на Министерството на вътрешните работи (ДВ, бр. 52 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95684)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

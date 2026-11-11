@@ -58,6 +58,21 @@
 
 Act id: `naredba-2005-dv066-736` (tags `naredba-2005-dv066-736/<day>`; `python tools/on.py <day> naredba-2005-dv066-736`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 22 от 2005 г. за условията и реда за вписване и отписване на публични дружества, други емитенти на ценни книжа и емисии ценни книжа в регистъра на Комисията за финансов надзор (ДВ, бр. 37 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5070)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2005 г. за условията и реда за вписване и отписване на публични дружества, други емитенти на ценни книжа и емисии ценни книжа в регистъра на Комисията за финансов надзор (ДВ, бр. 2 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133399)
+
+Cited by:
+
+- [Наредба № 2 от 9 ноември 2021 г. за първоначално и последващо разкриване на информация при публично предлагане на ценни книжа и допускане на ценни книжа до търговия на регулиран пазар (ДВ, бр. 97 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164969)
+- [Наредба за изменение и допълнение на Наредба № 44 от 20.10.2011 г. за изискванията към дейността на колективните инвестиционни схеми, управляващите дружества, националните инвестиционни фондове и лицата, управляващи алтернативни инвестиционни фондове (ДВ, бр. 55 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174671)
+- [Наредба за изменение и допълнение на наредби на Комисията за финансов надзор (ДВ, бр. 65 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236442)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

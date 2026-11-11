@@ -48,6 +48,16 @@
 
 Act id: `naredba-2009-dv103-27914` (tags `naredba-2009-dv103-27914/<day>`; `python tools/on.py <day> naredba-2009-dv103-27914`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 25 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Основни услуги за населението и икономиката в селските райони" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29463)
+- [Наредба за изменение и допълнение на Наредба № 25 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Основни услуги за населението и икономиката в селските райони" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 75 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78423)
+- [Наредба № 16-1594 от 13 ноември 2013 г. за обследване за енергийна ефективност, сертифициране и оценка на енергийните спестявания на сгради (ДВ, бр. 101 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80473)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

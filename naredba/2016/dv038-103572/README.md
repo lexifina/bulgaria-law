@@ -53,6 +53,15 @@
 
 Act id: `naredba-2016-dv038-103572` (tags `naredba-2016-dv038-103572/<day>`; `python tools/on.py <day> naredba-2016-dv038-103572`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 2016 г. за условията и реда за изпълнение и контрол на промоционални програми за земеделски и хранителни продукти (ДВ, бр. 78 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130156)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2016 г. за условията и реда за изпълнение и контрол на промоционални програми за земеделски и хранителни продукти (ДВ, бр. 40 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

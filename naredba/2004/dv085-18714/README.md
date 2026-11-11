@@ -75,6 +75,35 @@
 
 Act id: `naredba-2004-dv085-18714` (tags `naredba-2004-dv085-18714/<day>`; `python tools/on.py <day> naredba-2004-dv085-18714`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 5 от 2004 г. за изискванията, на които трябва да отговарят билкозаготвителните пунктове и складовете за билки (ДВ, бр. 66 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129059)
+
+Cited by:
+
+- [№ РД-73/3.2.09 г. (ДВ, бр. 13 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15786)
+- [№ РД-110/2.2.10 г. (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30348)
+- [Заповед № РД-55 от 1 февруари 2011 г. (ДВ, бр. 17 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44955)
+- [Заповед № РД-89/1.2.2012 г. (ДВ, бр. 12 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61251)
+- [Заповед № РД-65 от 28 януари 2013 г. (ДВ, бр. 14 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72991)
+- [Заповед № РД-83 от 3 февруари 2014 г. за специалния режим на опазване и ползване на лечебните растения през 2014 г. (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82525)
+- [Заповед № РД-115 от 13 февруари 2015 г. (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92225)
+- [Заповед № РД-77 от 9 февруари 2016 г. (ДВ, бр. 14 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100966)
+- [Заповед № РД-89 от 3 февруари 2017 г. (ДВ, бр. 16 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111915)
+- [Заповед № РД-56 от 1 февруари 2018 г. (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122942)
+- [Заповед № РД-88 от 30 януари 2019 г. (ДВ, бр. 14 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134652)
+- [Неофициален раздел на "Държавен вестник", брой 17 от 23.2.2007 г. (ДВ, бр. 17 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140191)
+- [Неофициален раздел на "Държавен вестник", брой 32 от 25.03.2008 г. (ДВ, бр. 32 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142542)
+- [Заповед № РД-203 от 2 март 2020 г. (ДВ, бр. 21 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146763)
+- [Заповед № РД-162 от 25 февруари 2021 г. (ДВ, бр. 20 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156403)
+- [Постановление № 434 от 10 декември 2021 г. за приемане на Наредба за хранителните добавки (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166309)
+- [Заповед № РД-135 от 4 февруари 2022 г. (ДВ, бр. 13 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168955)
+- [Заповед № РД-74 от 30 януари 2023 г. (ДВ, бр. 14 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186020)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

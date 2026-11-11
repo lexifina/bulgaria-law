@@ -47,6 +47,24 @@
 
 Act id: `naredba-2006-dv040-1897` (tags `naredba-2006-dv040-1897/<day>`; `python tools/on.py <day> naredba-2006-dv040-1897`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2006 г. за диагностиката, профилактиката и контрола на местните паразитози (ДВ, бр. 37 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114052)
+
+Cited by:
+
+- [Наредба № 3 от 5 февруари 2007 г. за здравните изисквания към детските градини (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3304)
+- [Наредба № 26 от 18 ноември 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 103 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12281)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за здравните изисквания към детските градини (ДВ, бр. 108 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231525)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2008 г. за устройството и дейността на детските ясли и детските кухни и здравните изисквания към тях (ДВ, бр. 72 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237120)
+- [Наредба № Н-2 от 12 септември 2025 г. за устройството и дейността на здравните кабинети в детските градини и училищата и здравните изисквания към тях (ДВ, бр. 76 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237350)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

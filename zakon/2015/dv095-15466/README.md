@@ -62,9 +62,34 @@
 
 Act id: `zakon-2015-dv095-15466` (tags `zakon-2015-dv095-15466/<day>`; `python tools/on.py <day> zakon-2015-dv095-15466`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 2 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77901)
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 98 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157218)
+
+Cited by:
+
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121172)
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 2 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121201)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137217)
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 98 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143376)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214561)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за допълнение на Закона за ограничаване на административното регулиране и административния контрол върху стопанската дейност (ДВ, бр. 103 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77824)
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 2 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77901)
+- [Закон за изменение и допълнение на Закона за оръжията, боеприпасите, взривните вещества и пиротехническите изделия (ДВ, бр. 37 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156828)
+- [Закон за изменение и допълнение на Закона за изпълнение на Конвенцията по касетъчните боеприпаси и Конвенцията за забраната на използването, складирането, производството и трансфера на противопехотни мини и за тяхното унищожаване (ДВ, бр. 98 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157218)
+- [Закон за изменение и допълнение на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 41 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164734)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

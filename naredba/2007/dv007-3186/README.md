@@ -35,6 +35,19 @@
 
 Act id: `naredba-2007-dv007-3186` (tags `naredba-2007-dv007-3186/<day>`; `python tools/on.py <day> naredba-2007-dv007-3186`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2006 г. за големите експозиции на банките (ДВ, бр. 85 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38394)
+- [Наредба за отменяне на Наредба № 7 от 2006 г. за големите експозиции на банките (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84686)
+
+Cited by:
+
+- [Наредба № 14 от 4 февруари 2010 г. за съдържанието на одиторския доклад за надзорни цели (ДВ, бр. 14 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29853)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

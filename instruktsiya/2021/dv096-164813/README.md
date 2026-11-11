@@ -36,6 +36,14 @@
 
 Act id: `instruktsiya-2021-dv096-164813` (tags `instruktsiya-2021-dv096-164813/<day>`; `python tools/on.py <day> instruktsiya-2021-dv096-164813`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № И-1 от 2 октомври 2025 г. за условията и реда за организиране и осъществяване на охраната на съдии, прокурори и следователи (ДВ, бр. 85 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237739)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

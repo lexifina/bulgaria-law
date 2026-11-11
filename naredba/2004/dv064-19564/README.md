@@ -35,6 +35,31 @@
 
 Act id: `naredba-2004-dv064-19564` (tags `naredba-2004-dv064-19564/<day>`; `python tools/on.py <day> naredba-2004-dv064-19564`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 2 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13776)
+- [Наредба за допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 43 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33368)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83605)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 84 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108484)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 7 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133881)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 68 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150189)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 88 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179640)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 14 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232905)
+
+Cited by:
+
+- [За протест от прокурор на Върховната административна прокуратура (ДВ, бр. 79 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88167)
+- [Решение № 15465 от 18 декември 2014 г. по административно дело № 7996 от 2014 г. (ДВ, бр. 65 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96728)
+- [Постановление № 352 от 10 декември 2015 г. за изменение и допълнение на Наредбата за заплащането на правната помощ, приета с Постановление № 4 на Министерския съвет от 2006 г. (ДВ, бр. 98 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99403)
+- [Решение № 10 от 29 септември 2016 г. по конституционно дело № 3 от 2016 г. (ДВ, бр. 79 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107996)
+- [Указ № 234 за връщане за ново обсъждане в Народното събрание на Закона за изменение и допълнение на Закона за адвокатурата, приет от 50-ото Народно събрание на 11 септември 2024 г., и мотивите към указа (ДВ, бр. 81 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228833)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241067)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166682)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

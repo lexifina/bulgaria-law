@@ -19,6 +19,18 @@
 
 Act id: `postanovlenie-2005-dv046-388` (tags `postanovlenie-2005-dv046-388/<day>`; `python tools/on.py <day> postanovlenie-2005-dv046-388`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 181 от 5 август 2005 г. за изменение на Постановление № 92 на Министерския съвет от 2005 г. за утвърждаване план-сметка на разходите по подготовката и произвеждането на изборите за народни представители на 25 юни 2005 г. (ДВ, бр. 67 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=739)
+
+Cited by:
+
+- [Постановление № 119 от 17 юни 2005 г. за изменение на Постановление № 92 на Министерския съвет от 2005 г. за утвърждаване на план-сметка на разходите по подготовката и произвеждането на изборите за народни представители на 25 юни 2005 г. (ДВ, бр. 51 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=457)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

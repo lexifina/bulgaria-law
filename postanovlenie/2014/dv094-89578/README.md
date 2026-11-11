@@ -41,6 +41,17 @@
 
 Act id: `postanovlenie-2014-dv094-89578` (tags `postanovlenie-2014-dv094-89578/<day>`; `python tools/on.py <day> postanovlenie-2014-dv094-89578`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 394 от 11 декември 2014 г. за изменение и допълнение на Устройствения правилник на Министерството на земеделието и храните, приет с Постановление № 188 на Министерския съвет от 2013 г. (ДВ, бр. 103 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90606)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 258 от 20 ноември 2017 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 94 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120046)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

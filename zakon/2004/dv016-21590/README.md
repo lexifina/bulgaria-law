@@ -9,6 +9,15 @@
 
 Act id: `zakon-2004-dv016-21590` (tags `zakon-2004-dv016-21590/<day>`; `python tools/on.py <day> zakon-2004-dv016-21590`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за ратифициране на Европейската конвенция за взаимопомощ по наказателноправни въпроси и Допълнителния протокол към нея, Конвенцията за трансфер на осъдени лица и Европейската конвенция за екстрадиция с двата допълнителни протокола към нея (ДВ, бр. 8 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168113)
+- [Закон изменение и допълнение на Закона за ратифициране на Европейската конвенция за взаимопомощ по наказателноправни въпроси и Допълнителния протокол към нея, Конвенцията за трансфер на осъдени лица и Европейската конвенция за екстрадиция с двата допълнителни протокола към нея (ДВ, бр. 8 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163879)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

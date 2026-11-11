@@ -149,6 +149,24 @@
 
 Act id: `naredba-2011-dv034-48752` (tags `naredba-2011-dv034-48752/<day>`; `python tools/on.py <day> naredba-2011-dv034-48752`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2011 г. за мониторинг на водите (ДВ, бр. 22 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73692)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2011 г. за мониторинг на водите (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86536)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2011 г. за мониторинг на водите (ДВ, бр. 20 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101671)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2007 г. за характеризиране на повърхностните води (ДВ, бр. 80 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57287)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2007 г. за опазване на водите от замърсяване с нитрати от земеделски източници (ДВ, бр. 97 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59203)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2011 г. за издаване на разрешителни за заустване на отпадъчните води във водни обекти и определяне на индивидуалните емисионни ограничения на точковите източници на замърсяване (ДВ, бр. 44 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75893)
+- [Постановление № 345 от 7 декември 2015 г. за изменение и допълнение на Наредбата за стандарти за качество на околната среда за приоритетни вещества и някои други замърсители, приета с Постановление № 256 на Министерския съвет от 2010 г. (ДВ, бр. 97 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99319)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2001 г. за качеството на водата, предназначена за питейно-битови цели (ДВ, бр. 43 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=193220)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

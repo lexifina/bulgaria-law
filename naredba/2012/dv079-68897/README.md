@@ -19,6 +19,14 @@
 
 Act id: `naredba-2012-dv079-68897` (tags `naredba-2012-dv079-68897/<day>`; `python tools/on.py <day> naredba-2012-dv079-68897`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 6 от 14 февруари 2023 г. за придобиване на квалификация по професията "Ветеринарен техник" (ДВ, бр. 19 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

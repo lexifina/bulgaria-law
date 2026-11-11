@@ -21,6 +21,15 @@
 
 Act id: `naredba-2016-dv029-102517` (tags `naredba-2016-dv029-102517/<day>`; `python tools/on.py <day> naredba-2016-dv029-102517`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменениe и допълнение на Наредба № РД-07-1 от 2016 г. за реда и условията за определяне на целевите групи по Оперативна програма за храни и/или основно материално подпомагане, съфинансирана от Фонда за европейско подпомагане на най-нуждаещите се лица (ДВ, бр. 100 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120579)
+- [Наредба за изменениe и допълнение на Наредба № РД-07-1 от 2016 г. за реда и условията за определяне на целевите групи по Оперативна програма за храни и/или основно материално подпомагане, съфинансирана от Фонда за европейско подпомагане на най-нуждаещите се лица (ДВ, бр. 23 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135618)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -49,6 +49,25 @@
 
 Act id: `pravilnik-2010-dv007-28798` (tags `pravilnik-2010-dv007-28798/<day>`; `python tools/on.py <day> pravilnik-2010-dv007-28798`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 9 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29283)
+- [Правилник за изменение и допълнение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 60 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35396)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 73 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36798)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 32 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48515)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 21 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62371)
+- [Правилник за изменение и допълнение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 12 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100860)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 75 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107723)
+- [Правилник за изменение и допълнение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 40 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147660)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 97 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153474)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 9 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155516)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173772)
+- [Правилник за изменение на Устройствения правилник на областните дирекции "Земеделие" (ДВ, бр. 3 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202430)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

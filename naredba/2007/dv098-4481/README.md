@@ -38,6 +38,14 @@
 
 Act id: `naredba-2007-dv098-4481` (tags `naredba-2007-dv098-4481/<day>`; `python tools/on.py <day> naredba-2007-dv098-4481`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 15 февруари 2012 г. за определяне на вида, отличителните знаци, условията и реда за получаване, сроковете за износване на униформеното представително и униформеното теренно облекло от служителите в Изпълнителна агенция по горите, нейните структури, специализираните териториални звена и държавните предприятия по чл. 163 от Закона за горите (ДВ, бр. 16 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61717)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

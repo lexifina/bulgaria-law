@@ -60,6 +60,19 @@
 
 Act id: `pravilnik-2004-dv029-21301` (tags `pravilnik-2004-dv029-21301/<day>`; `python tools/on.py <day> pravilnik-2004-dv029-21301`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение на Правилника за устройството, дейността, организацията на работа и структурата на Комисията за регулиране на съобщенията и на нейната администрация (ДВ, бр. 28 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1635)
+- [Правилник за изменение и допълнение на Правилника за устройството, дейността, организацията на работа и структурата на Комисията за регулиране на съобщенията и на нейната администрация (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2611)
+
+Cited by:
+
+- [Правилник за устройството, дейността, организацията на работа на Комисията за регулиране на съобщенията и структурата на нейната администрация (ДВ, бр. 63 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4027)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

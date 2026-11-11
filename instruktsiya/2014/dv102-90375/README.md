@@ -85,6 +85,21 @@
 
 Act id: `instruktsiya-2014-dv102-90375` (tags `instruktsiya-2014-dv102-90375/<day>`; `python tools/on.py <day> instruktsiya-2014-dv102-90375`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-929 от 2014 г. за патрулно-постова дейност (ДВ, бр. 73 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97509)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-929 от 2014 г. за патрулно-постова дейност (ДВ, бр. 75 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117745)
+- [Инструкция за изменение на Инструкция № 8121з-929 от 2.12.2014 г. за патрулно-постова дейност (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181975)
+
+Cited by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-749 от 2014 г. за реда и организацията за осъществяване на дейностите по контрол на пътното движение (ДВ, бр. 104 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120992)
+- [Инструкция № 8121з-792 от 17 юни 2025 г. за реда и организацията за осъществяване на патрулно-постовата дейност в Министерството на вътрешните работи (ДВ, бр. 52 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235577)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

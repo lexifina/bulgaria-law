@@ -70,6 +70,14 @@
 
 Act id: `postanovlenie-2009-dv057-23556` (tags `postanovlenie-2009-dv057-23556/<day>`; `python tools/on.py <day> postanovlenie-2009-dv057-23556`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 72 от 16 април 2020 г. за приемане на Наредба за дейността по организирането и осъществяването на електронните комуникации и криптографската сигурност на служебната кореспонденция, обменяна по електронни комуникационни канали между организационните единици в Република България и задграничните й представителства (ДВ, бр. 38 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147548)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

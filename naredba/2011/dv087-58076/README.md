@@ -46,6 +46,19 @@
 
 Act id: `naredba-2011-dv087-58076` (tags `naredba-2011-dv087-58076/<day>`; `python tools/on.py <day> naredba-2011-dv087-58076`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 23 от 2011 г. за докладване и разследване на произшествия в морските пространства (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102548)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2006 г. за обработка и превоз на опасни и/или замърсяващи товари по море и на опасни товари по вътрешни водни пътища (ДВ, бр. 45 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114911)
+- [Наредба за изменение и допълнение на Наредба № 59 от 2006 г. за управление на безопасността в железопътния транспорт (ДВ, бр. 12 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145779)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

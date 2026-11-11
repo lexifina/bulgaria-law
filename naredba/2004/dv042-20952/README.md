@@ -22,6 +22,14 @@
 
 Act id: `naredba-2004-dv042-20952` (tags `naredba-2004-dv042-20952/<day>`; `python tools/on.py <day> naredba-2004-dv042-20952`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 12 февруари 2010 г. за състава, задачите и дейността на педагогическия съвет към поправителния дом (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29985)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

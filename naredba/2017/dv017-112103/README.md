@@ -99,6 +99,24 @@
 
 Act id: `naredba-2017-dv017-112103` (tags `naredba-2017-dv017-112103/<day>`; `python tools/on.py <day> naredba-2017-dv017-112103`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137148)
+- [Наредба за изменение и допълнение на Наредба № 1 от 9 февруари 2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160587)
+- [Наредба за изменение и допълнение на Наредба № 1 от 9 февруари 2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 99 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165033)
+- [Наредба за допълнение на Наредба № 1 от 9 февруари 2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 77 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178300)
+- [Наредба за изменение и допълнение на Наредба № 1 от 9 февруари 2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 107 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202117)
+
+Cited by:
+
+- [адм. дело № 2572/2017 г. (ДВ, бр. 29 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113240)
+- [Задължително тълкуване на чл. 33, ал. 3, т. 2 и 3 от Наредба № 1 от 9.02.2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 16 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135024)
+- [Задължително тълкуване на чл. 33, ал. 3 от Наредба № 1 от 9.02.2017 г. за конкурсите за магистрати и за избор на административни ръководители в органите на съдебната власт (ДВ, бр. 54 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196540)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -22,6 +22,23 @@
 
 Act id: `naredba-2012-dv002-60075` (tags `naredba-2012-dv002-60075/<day>`; `python tools/on.py <day> naredba-2012-dv002-60075`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-19 от 2011 г. за проектиране на строителните конструкции на строежите чрез прилагане на европейската система за проектиране на строителни конструкции (ДВ, бр. 111 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81409)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-19 от 2011 г. за проектиране на строителните конструкции на строежите чрез прилагане на европейската система за проектиране на строителни конструкции (ДВ, бр. 104 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90607)
+
+Cited by:
+
+- [Поправка в Наредба № РД-02-20-19 от 2011 г. за проектиране на строителните конструкции на строежите чрез прилагане на европейската система за проектиране на строителни конструкции (обн., ДВ, бр. 2 от 2012 г.; изм. и доп., бр. 111 от 2013 г. и бр. 104 от 2014 г.) (ДВ, бр. 3 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91153)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба № РД-02-20-2 от 28 август 2018 г. за проектиране на пътища (ДВ, бр. 79 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129951)
+- [Наредба № РД-02-20-1 от 26 октомври 2023 г. за изпълнение и приемане на земни работи, земни съоръжения, земна основа и фундаменти (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201062)
+- [Наредба № РД-02-20-3 от 4 юли 2024 г. за изпълнение, контрол и приемане на бетонни и стоманобетонни конструкции (ДВ, бр. 62 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221843)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -60,6 +60,29 @@
 
 Act id: `naredba-2011-dv018-45279` (tags `naredba-2011-dv018-45279/<day>`; `python tools/on.py <day> naredba-2011-dv018-45279`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 30 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63396)
+- [Наредба за изменение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 101 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71105)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 40 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103667)
+- [Наредба за изменение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109498)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 57 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149237)
+- [Наредба за допълнение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 49 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158748)
+- [Наредба за допълнение на Наредба № Н-00-0001 от 2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 45 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174079)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0001 от 14.02.2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 7 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203640)
+
+Cited by:
+
+- [адм. д. № 7375/2011 г. (ДВ, бр. 59 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55319)
+- [Наредба № Н-12 от 21 ноември 2012 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния регистър на недвижимите културни ценности (ДВ, бр. 98 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70884)
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2008 г. за извършване на водолазна и друга подводна дейност (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82552)
+- [Заповед № РД-9Р-41 от 2 декември 2016 г. (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110962)
+- [Наредба № 3 от 10 юли 2019 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния публичен регистър на недвижимите културни ценности (ДВ, бр. 57 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139634)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

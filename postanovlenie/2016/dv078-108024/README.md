@@ -58,6 +58,18 @@
 
 Act id: `postanovlenie-2016-dv078-108024` (tags `postanovlenie-2016-dv078-108024/<day>`; `python tools/on.py <day> postanovlenie-2016-dv078-108024`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 216 от 5 октомври 2018 г. за изменение и допълнение на Наредбата за условията и реда за разрешаване на дейностите по чл. 73, ал. 1 от Закона за контрол върху наркотичните вещества и прекурсорите, приета с Постановление № 259 на Министерския съвет от 2016 г. (ДВ, бр. 84 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130600)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 20 от 2001 г. за условията и реда, при които лекарствените продукти, съдържащи наркотични вещества, могат да бъдат освободени от някои мерки за контрол (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181909)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

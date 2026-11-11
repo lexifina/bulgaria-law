@@ -59,6 +59,26 @@
 
 Act id: `postanovlenie-2013-dv107-81138` (tags `postanovlenie-2013-dv107-81138/<day>`; `python tools/on.py <day> postanovlenie-2013-dv107-81138`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 308 от 20 декември 2017 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 102 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121053)
+- [Постановление № 99 от 30 април 2019 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 36 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137256)
+- [Постановление № 44 от 9 февруари 2021 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155858)
+- [Постановление № 308 от 15 декември 2023 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201997)
+- [Постановление № 387 от 7 ноември 2024 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 96 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230408)
+- [Постановление № 205 от 9 октомври 2025 г. за изменение и допълнение на Устройствения правилник на Агенцията за ядрено регулиране, приет с Постановление № 278 на Министерския съвет от 2013 г. (ДВ, бр. 85 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238076)
+
+Cited by:
+
+- [Постановление № 395 от 30 декември 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 4 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99878)
+- [Постановление № 1 от 7 януари 2016 г. за приемане на Наредба за управление на минните отпадъци (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99949)
+- [Постановление № 65 от 30 април 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125977)
+- [Постановление № 26 от 9 април 2025 г. за приемане на Устройствен правилник на Министерството на електронното управление (ДВ, бр. 31 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234061)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

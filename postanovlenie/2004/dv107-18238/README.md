@@ -33,6 +33,18 @@
 
 Act id: `postanovlenie-2004-dv107-18238` (tags `postanovlenie-2004-dv107-18238/<day>`; `python tools/on.py <day> postanovlenie-2004-dv107-18238`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 278 от 19 ноември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 98 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4477)
+- [Постановление № 58 от 1 април 2005 г. за приемане на Устройствен правилник на Министерството на културата и туризма (ДВ, бр. 29 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15128)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Наредба № 49 от 9 януари 2012 г. за придобиване на квалификация по професията "Организатор на туристическа агентска дейност" (ДВ, бр. 18 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61609)
+- [Постановление № 306 от 21 декември 2013 г. за приемане на Наредба за условията и реда за сключване на договор за задължителна застраховка "Отговорност на туроператора" (ДВ, бр. 2 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81597)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

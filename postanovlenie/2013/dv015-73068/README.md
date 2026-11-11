@@ -16,6 +16,19 @@
 
 Act id: `postanovlenie-2013-dv015-73068` (tags `postanovlenie-2013-dv015-73068/<day>`; `python tools/on.py <day> postanovlenie-2013-dv015-73068`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 267 от 22 ноември 2013 г. за изменение и допълнение на Постановление № 27 на Министерския съвет от 2013 г. за предоставяне на допълнителни бюджетни кредити на Министерството на регионалното развитие и благоустройството за 2013 г. (ДВ, бр. 103 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80718)
+- [Постановление № 300 от 21 декември 2013 г. за изменение на Постановление № 27 на Министерския съвет от 2013 г. за предоставяне на допълнителни бюджетни кредити на Министерството на регионалното развитие за 2013 г. (ДВ, бр. 111 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81546)
+
+Cited by:
+
+- [Постановление № 75 от 29 март 2013 г. за преструктуриране на нелихвените разходи по републиканския бюджет за 2013 г. (ДВ, бр. 33 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74818)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

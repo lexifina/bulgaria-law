@@ -33,6 +33,21 @@
 
 Act id: `pravilnik-2008-dv062-5912` (tags `pravilnik-2008-dv062-5912/<day>`; `python tools/on.py <day> pravilnik-2008-dv062-5912`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Съвета по продуктите за растителна защита (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19369)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Съвета по продуктите за растителна защита (ДВ, бр. 54 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66336)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Съвета по продуктите за растителна защита (ДВ, бр. 92 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98909)
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Съвета по продуктите за растителна защита (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111630)
+
+Cited by:
+
+- [Правилник за организацията и дейността на Съвета по продуктите за растителна защита (ДВ, бр. 13 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92043)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

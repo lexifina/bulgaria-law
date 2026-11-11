@@ -61,6 +61,19 @@
 
 Act id: `naredba-2009-dv049-22697` (tags `naredba-2009-dv049-22697/<day>`; `python tools/on.py <day> naredba-2009-dv049-22697`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № Н-10 от 2009 г. за настаняване в имоти от жилищния фонд на Министерството на отбраната и в имоти, наети за отдаване под наем (ДВ, бр. 22 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30904)
+
+Cited by:
+
+- [Наредба № Н-17 от 16 юли 2009 г. за изплащане на компенсационни суми на военнослужещите и цивилните служители от Министерството на отбраната, които живеят при условията на свободно договаряне (ДВ, бр. 59 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23750)
+- [Наредба № Н-22 от 16 юли 2010 г. за ползване под наем на имоти от жилищния фонд на Министерството на отбраната и за изплащане на компенсационни суми на военнослужещите и цивилните служители, които живеят при условията на свободно договаряне (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35182)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

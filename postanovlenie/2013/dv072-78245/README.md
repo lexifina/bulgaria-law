@@ -40,6 +40,19 @@
 
 Act id: `postanovlenie-2013-dv072-78245` (tags `postanovlenie-2013-dv072-78245/<day>`; `python tools/on.py <day> postanovlenie-2013-dv072-78245`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 145 от 9 юни 2014 г. за изменение и допълнение на Наредбата за реда и начина за включване на лабораториите в списъка по чл. 22, ал. 1, т. 8 от Закона за хазарта, за изискванията за изпитване на игрално оборудване и игрален софтуер и за реда за извършване на проверки, приета с Постановление № 164 на Министерския съвет от 2013 г. (ДВ, бр. 49 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85718)
+- [Постановление № 351 от 31 декември 2018 г. за изменение и допълнение на Наредбата за реда и начина за включване на лабораториите в списъка по чл. 22, ал. 1, т. 8 от Закона за хазарта, за изискванията за изпитване на игрално оборудване и игрален софтуер и за реда за извършване на проверки, приета с Постановление № 164 на Министерския съвет от 2013 г. (ДВ, бр. 2 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133487)
+
+Cited by:
+
+- [Постановление № 153 от 12 април 2021 г. за приемане на Наредба за условията и реда за вписване на лабораториите в регистъра по чл. 20, ал. 1, т. 4 от Закона за хазарта, за изискванията за изпитване и реда за извършване на проверки на игралното оборудване, джакпот системите, игралния софтуер и комуникационното оборудване и устройства на самообслужване за организиране на лотарийни игри (ДВ, бр. 31 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157491)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

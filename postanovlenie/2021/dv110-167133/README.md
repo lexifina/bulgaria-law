@@ -14,6 +14,17 @@
 
 Act id: `postanovlenie-2021-dv110-167133` (tags `postanovlenie-2021-dv110-167133/<day>`; `python tools/on.py <day> postanovlenie-2021-dv110-167133`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за прилагане на разпоредби на Закона за държавния бюджет на Република България за 2021 г., Закона за бюджета на държавното обществено осигуряване за 2021 г. и Закона за бюджета на Националната здравноосигурителна каса за 2021 г. (ДВ, бр. 8 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168156)
+- [Закон за бюджета на държавното обществено осигуряване за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170130)
+- [Закон за прилагане на разпоредби на Закона за държавния бюджет на Република България за 2021 г., Закона за бюджета на държавното обществено осигуряване за 2021 г. и Закона за бюджета на Националната здравноосигурителна каса за 2021 г. (ДВ, бр. 8 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163957)
+- [Закон за бюджета на държавното обществено осигуряване за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164014)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

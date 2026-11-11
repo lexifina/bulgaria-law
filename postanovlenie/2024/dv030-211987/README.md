@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2024-dv030-211987` (tags `postanovlenie-2024-dv030-211987/<day>`; `python tools/on.py <day> postanovlenie-2024-dv030-211987`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 477 от 27 декември 2024 г. за изменение и допълнение на Постановление № 80 на Министерския съвет от 2024 г. за одобряване на допълнителни плащания от централния бюджет по бюджета на Министерството на транспорта и съобщенията за 2024 г. за осигуряване на средства за инвестиционни проекти "Модернизация на жп линия София - Драгоман - сръбска граница: жп участък Волуяк - Драгоман, фаза 2" и "Модернизация на жп линия София - Пловдив: жп участък Елин Пелин - Костенец, фаза 2" на Национална компания "Железопътна инфраструктура" по Програма "Транспортна свързаност" 2021 - 2027 г. (ДВ, бр. 109 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231756)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -25,6 +25,21 @@
 
 Act id: `naredba-2011-dv039-50195` (tags `naredba-2011-dv039-50195/<day>`; `python tools/on.py <day> naredba-2011-dv039-50195`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2011 г. за изискванията за физическа годност към водачите на моторни превозни средства и условията и реда за извършване на медицинските прегледи за установяване на физическата годност за водачите от различните категории (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102592)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2011 г. за изискванията за физическа годност към водачите на моторни превозни средства и условията и реда за извършване на медицинските прегледи за установяване на физическата годност за водачите от различните категории (ДВ, бр. 11 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122292)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2003 г. за свидетелствата за правоспособност на авиационния персонал (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154558)
+- [Наредба за изменение на Наредба № 8121з-345 от 25 юли 2014 г. за определяне на медицинските изисквания за работа в Министерството на вътрешните работи (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219680)
+- [Наредба за изменение и допълнение на Наредба № І-157 от 1 октомври 2002 г. за условията и реда за издаване на свидетелство за управление на моторни превозни средства, отчета на водачите и тяхната дисциплина (ДВ, бр. 65 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223389)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

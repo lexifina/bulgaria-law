@@ -24,6 +24,22 @@
 
 Act id: `postanovlenie-2004-dv048-20258` (tags `postanovlenie-2004-dv048-20258/<day>`; `python tools/on.py <day> postanovlenie-2004-dv048-20258`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 110 от 8 май 2013 г. за изменение на Правилника за организацията и дейността на Националния съвет за научни изследвания, приет с Постановление № 105 на Министерския съвет от 2004 г. (ДВ, бр. 44 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75777)
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 115 от 8 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173993)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

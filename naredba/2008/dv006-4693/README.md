@@ -32,6 +32,15 @@
 
 Act id: `naredba-2008-dv006-4693` (tags `naredba-2008-dv006-4693/<day>`; `python tools/on.py <day> naredba-2008-dv006-4693`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 3 от 2008 г. за вида на информацията и реда за предоставянето й от Министерството на вътрешните работи на Министерството на правосъдието за нуждите на Главна дирекция "Охрана" при изпълнение на функциите й (ДВ, бр. 65 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35993)
+- [Наредба за изменение на Наредба № 3 от 9 януари 2008 г. за вида на информацията и реда за предоставянето й от Министерството на вътрешните работи на Министерството на правосъдието за нуждите на Главна дирекция "Охрана" при изпълнение на функциите й (ДВ, бр. 85 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237740)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2024-dv001-202218` (tags `postanovlenie-2024-dv001-202218/<day>`; `python tools/on.py <day> postanovlenie-2024-dv001-202218`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 232 от 26 юни 2024 г. за възстановяване на средства по бюджета на Министерството на младежта и спорта за 2024 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220083)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -61,6 +61,19 @@
 
 Act id: `instruktsiya-2015-dv028-93708` (tags `instruktsiya-2015-dv028-93708/<day>`; `python tools/on.py <day> instruktsiya-2015-dv028-93708`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 1 от 2015 г. за реда и начина за осъществяване на контролно-ревизионна дейност от контролните органи на Националния осигурителен институт (ДВ, бр. 31 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113463)
+- [Инструкция за изменение и допълнение на Инструкция № 1 от 2015 г. за реда и начина за осъществяване на контролно-ревизионна дейност от контролните органи на Националния осигурителен институт (ДВ, бр. 92 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152945)
+
+Cited by:
+
+- [Постановление № 59 от 20 април 2018 г. за изменение и допълнение на Наредбата за реда и начина за информиране на работниците и служителите и за отпускане и изплащане на гарантираните вземания при несъстоятелност на работодателя, приета с Постановление № 362 на Министерския съвет от 2004 г. (ДВ, бр. 36 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125769)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -95,6 +95,15 @@
 
 Act id: `naredba-2006-dv013-1395` (tags `naredba-2006-dv013-1395/<day>`; `python tools/on.py <day> naredba-2006-dv013-1395`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 36 от 23 март 2006 г. за специфичните изисквания при производство, транспортиране и пускане на пазара на суровини и храни от животински произход (ДВ, бр. 35 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1743)
+- [Наредба № 1 от 9 януари 2008 г. за изискванията за търговия с яйца за консумация (ДВ, бр. 7 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4701)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

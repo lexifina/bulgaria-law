@@ -71,6 +71,20 @@
 
 Act id: `naredba-2015-dv090-98819` (tags `naredba-2015-dv090-98819/<day>`; `python tools/on.py <day> naredba-2015-dv090-98819`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № І-3 от 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 18 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112086)
+- [Наредба за изменение и допълнение на Наредба № І-3 от 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 4 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133543)
+- [Наредба за изменение и допълнение на Наредба № І-3 от 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 35 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147370)
+- [Наредба за изменение и допълнение на Наредба № І-3 от 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 7 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155244)
+- [Наредба за допълнение на Наредба № І-3 от 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 86 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163216)
+- [Наредба за допълнение на Наредба № І-3 от 13.11.2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 6 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=183922)
+- [Наредба за изменение и допълнение на Наредба № І-3 от 13 ноември 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 90 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238239)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

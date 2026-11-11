@@ -34,6 +34,30 @@
 
 Act id: `postanovlenie-2007-dv002-3076` (tags `postanovlenie-2007-dv002-3076/<day>`; `python tools/on.py <day> postanovlenie-2007-dv002-3076`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 276 от 6 декември 2013 г. за изменение и допълнение на Правилника за устройството и дейността на Националния съвет за сътрудничество по етническите и интеграционните въпроси към Министерския съвет, приет с Постановление № 351 на Министерския съвет от 2006 г. (ДВ, бр. 107 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81124)
+
+Cited by:
+
+- [Постановление № 91 от 23 април 2007 г. за допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3598)
+- [Постановление № 124 от 2 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5319)
+- [Постановление № 229 от 23 септември 2009 г. за приемане на Устройствен правилник на Министерския съвет и на неговата администрация (ДВ, бр. 78 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25316)
+- [Постановление № 1 от 6 януари 2011 г. за структурни промени в системата на здравеопазването (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42895)
+- [Постановление № 92 от 7 април 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 31 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48277)
+- [Постановление № 166 от 30 юли 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 60 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67132)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 73 от 5 май 2022 г. за преобразуване на Държавната агенция за българите в чужбина към Министерския съвет в Изпълнителна агенция за българите в чужбина към министъра на външните работи (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173148)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 276 от 13 декември 2023 г. за приемане на Правилник за устройството, организацията и дейността на Националния съвет за превенция и защита от домашното насилие (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201911)
+- [Постановление № 81 от 15 юли 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244839)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

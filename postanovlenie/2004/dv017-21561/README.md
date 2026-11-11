@@ -26,6 +26,19 @@
 
 Act id: `postanovlenie-2004-dv017-21561` (tags `postanovlenie-2004-dv017-21561/<day>`; `python tools/on.py <day> postanovlenie-2004-dv017-21561`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 137 от 15 юни 2007 г. за изменение на Правилника за условията и реда за работа на Етичната комисия по трансплантация към Министерския съвет, приет с Постановление № 36 на Министерския съвет от 2004 г. (ДВ, бр. 51 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3863)
+
+Cited by:
+
+- [Постановление № 13 от 22 януари 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 11 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3222)
+- [Постановление № 53 от 27 март 2019 г. за приемане на Устройствен правилник на Изпълнителна агенция "Медицински надзор" (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136211)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

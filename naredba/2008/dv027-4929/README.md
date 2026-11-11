@@ -39,6 +39,14 @@
 
 Act id: `naredba-2008-dv027-4929` (tags `naredba-2008-dv027-4929/<day>`; `python tools/on.py <day> naredba-2008-dv027-4929`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 9 ноември 2021 г. за първоначално и последващо разкриване на информация при публично предлагане на ценни книжа и допускане на ценни книжа до търговия на регулиран пазар (ДВ, бр. 97 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

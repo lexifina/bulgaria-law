@@ -62,6 +62,25 @@
 
 Act id: `postanovlenie-2012-dv048-65714` (tags `postanovlenie-2012-dv048-65714/<day>`; `python tools/on.py <day> postanovlenie-2012-dv048-65714`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 349 от 21 декември 2012 г. за изменение и допълнение на Наредбата за специфичните изисквания към млечните продукти, приета с Постановление № 119 на Министерския съвет от 2012 г. (ДВ, бр. 1 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71626)
+- [Постановление № 135 от 9 юли 2018 г. за изменение и допълнение на Наредбата за специфичните изисквания към млечните продукти, приета с Постановление № 119 на Министерския съвет от 2012 г. (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128477)
+
+Cited by:
+
+- [адм. д. № 13266/2012 г. (ДВ, бр. 89 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70199)
+- [Решение № 5890 от 21 май 2015 г. по административно дело № 9539 от 2014 г. (ДВ, бр. 39 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94779)
+- [Постановление № 257 от 18 септември 2015 г. за приемане на Наредба за условията и реда за прилагане на схема за предоставяне на мляко и млечни продукти в учебните заведения - схема "Училищно мляко" (ДВ, бр. 75 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97645)
+- [Постановление № 251 от 27 септември 2016 г. за приемане на Наредба за условията и реда за прилагане на схеми за предоставяне на плодове, зеленчуци, мляко и млечни продукти в учебните заведения - Схема "Училищен плод" и Схема "Училищно мляко" (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107928)
+- [Постановление № 125 от 15 юни 2020 г. за изменение и допълнение на Наредбата за условията и реда за прилагане на схеми за предоставяне на плодове и зеленчуци и на мляко и млечни продукти в учебните заведения - схема "Училищен плод" и схема "Училищно мляко", приета с Постановление № 251 на Министерския съвет от 2016 г. (ДВ, бр. 55 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149102)
+- [Решение № 4887 от 27 април 2020 г. по административно дело № 12586 от 2018 г. (ДВ, бр. 96 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153435)
+- [Постановление № 260 от 29 юли 2021 г. за приемане на Наредба за специфичните изисквания към млечните продукти (ДВ, бр. 64 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160534)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

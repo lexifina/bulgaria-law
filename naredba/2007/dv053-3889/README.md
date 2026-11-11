@@ -44,6 +44,14 @@
 
 Act id: `naredba-2007-dv053-3889` (tags `naredba-2007-dv053-3889/<day>`; `python tools/on.py <day> naredba-2007-dv053-3889`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 29 април 2015 г. за изискванията към туристическите хижи, туристическите учебни центрове, туристическите спални и прилежащите към тях заведения за хранене и реда за определяне на категория, отказ, прекратяване и понижаване на определената им категория (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94413)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

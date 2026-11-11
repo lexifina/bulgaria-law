@@ -16,6 +16,19 @@
 
 Act id: `postanovlenie-2022-dv041-173739` (tags `postanovlenie-2022-dv041-173739/<day>`; `python tools/on.py <day> postanovlenie-2022-dv041-173739`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 335 от 20 октомври 2022 г. за изменение и допълнение на Постановление № 104 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на отбраната за 2022 г. (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179198)
+- [Постановление № 378 от 24 ноември 2022 г. за изменение и допълнение на Постановление № 104 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на отбраната за 2022 г. (ДВ, бр. 95 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180614)
+
+Cited by:
+
+- [Постановление № 434 от 15 декември 2022 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 101 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181840)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

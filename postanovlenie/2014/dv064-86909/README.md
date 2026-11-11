@@ -15,6 +15,18 @@
 
 Act id: `postanovlenie-2014-dv064-86909` (tags `postanovlenie-2014-dv064-86909/<day>`; `python tools/on.py <day> postanovlenie-2014-dv064-86909`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 354 от 5 ноември 2014 г. за допълнение на Постановление № 216 на Министерския съвет от 2014 г. за приемане на Списък на продуктите, свързани с отбраната, и Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 94 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89525)
+
+Cited by:
+
+- [Постановление № 194 от 27 юли 2015 г. за приемане на Списък на продуктите, свързани с отбраната, и на Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 60 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96300)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

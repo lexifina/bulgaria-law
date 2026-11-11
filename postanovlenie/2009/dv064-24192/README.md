@@ -20,6 +20,21 @@
 
 Act id: `postanovlenie-2009-dv064-24192` (tags `postanovlenie-2009-dv064-24192/<day>`; `python tools/on.py <day> postanovlenie-2009-dv064-24192`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 217 от 3 септември 2009 г. за допълнение на Постановление № 194 на Министерския съвет от 2009 г. за уреждане на правоотношенията във връзка със закриването на Министерството на държавната администрация и административната реформа (ДВ, бр. 73 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24876)
+- [Постановление № 292 от 3 декември 2009 г. за изменение и допълнение на Постановление № 194 на Министерския съвет от 2009 г. за уреждане на правоотношенията във връзка със закриването на Министерството на държавната администрация и административната реформа (ДВ, бр. 98 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27557)
+
+Cited by:
+
+- [Постановление № 229 от 23 септември 2009 г. за приемане на Устройствен правилник на Министерския съвет и на неговата администрация (ДВ, бр. 78 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25316)
+- [Постановление № 17 от 3 февруари 2012 г. за създаване на Почивна база "Слънчев бряг" (ДВ, бр. 12 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61280)
+- [Постановление № 22 от 10 февруари 2012 г. за създаване на Почивна база "Орлица" - Пампорово (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61546)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

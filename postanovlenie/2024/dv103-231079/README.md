@@ -576,6 +576,14 @@
 
 Act id: `postanovlenie-2024-dv103-231079` (tags `postanovlenie-2024-dv103-231079/<day>`; `python tools/on.py <day> postanovlenie-2024-dv103-231079`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-532 от 2015 г. за условията и реда за използване на автоматизирани технически средства и системи за контрол на правилата за движение по пътищата (ДВ, бр. 34 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242335)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

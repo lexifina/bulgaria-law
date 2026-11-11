@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2022-dv075-178203` (tags `postanovlenie-2022-dv075-178203/<day>`; `python tools/on.py <day> postanovlenie-2022-dv075-178203`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 498 от 30 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 1 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182740)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

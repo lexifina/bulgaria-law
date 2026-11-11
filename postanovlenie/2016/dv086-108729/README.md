@@ -70,6 +70,15 @@
 
 Act id: `postanovlenie-2016-dv086-108729` (tags `postanovlenie-2016-dv086-108729/<day>`; `python tools/on.py <day> postanovlenie-2016-dv086-108729`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправка в Постановление № 274 на Министерския съвет от 2016 г. за приемане на Правилник за дейността, структурата и организацията на Държавна агенция "Електронно управление" (ДВ, бр. 86 от 2016 г.) (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109053)
+- [Постановление № 233 от 18 септември 2019 г. за приемане на Правилник за дейността, структурата и организацията на Държавна агенция "Електронно управление" (ДВ, бр. 74 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141393)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

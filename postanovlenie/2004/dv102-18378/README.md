@@ -63,6 +63,19 @@
 
 Act id: `postanovlenie-2004-dv102-18378` (tags `postanovlenie-2004-dv102-18378/<day>`; `python tools/on.py <day> postanovlenie-2004-dv102-18378`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 144 от 5 юли 2005 г. за приемане на Наредба за изискванията за пускане на пазара на батерии и акумулатори и за третиране и транспортиране на отпадъци от батерии и акумулатори (ДВ, бр. 58 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=589)
+- [Постановление № 230 от 1 ноември 2005 г. за приемане на Наредба за изискванията за третиране и транспортиране на отработени масла и отпадъчни нефтопродукти (ДВ, бр. 90 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1019)
+- [Постановление № 50 от 9 март 2006 г. за приемане на Наредба за изискванията за реда и начина за инвентаризация на оборудване, съдържащо полихлорирани бифенили, маркирането и почистването му, както и за третирането и транспортирането на отпадъци, съдържащи полихлорирани бифенили (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1558)
+- [Постановление № 82 от 10 април 2006 г. за приемане на Наредба за изискванията за пускане на пазара на електрическо и електронно оборудване и третиране и транспортиране на отпадъци от електрическо и електронно оборудване (ДВ, бр. 36 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1824)
+- [Постановление № 120 от 30 май 2008 г. за приемане на Наредба за определяне на реда и размера за заплащане на продуктова такса за продукти, след употребата на които се образуват масово разпространени отпадъци, и за изменение на нормативни актове (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5315)
+- [Постановление № 76 от 31 март 2011 г. за приемане на Наредба за реда и начина за изчисляване размера на финансовата гаранция или еквивалентна застраховка и за предоставяне на годишни справки-декларации при трансграничен превоз на отпадъци (ДВ, бр. 29 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47857)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

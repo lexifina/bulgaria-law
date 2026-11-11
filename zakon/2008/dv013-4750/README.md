@@ -111,6 +111,37 @@
 
 Act id: `zakon-2008-dv013-4750` (tags `zakon-2008-dv013-4750/<day>`; `python tools/on.py <day> zakon-2008-dv013-4750`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58585)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103217)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 92 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13697)
+- [Закон за изменение и допълнение на Закона за защита на животните (ДВ, бр. 34 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15468)
+
+Cited by:
+
+- [Наредба № 4 от 6 март 2009 г. за определяне на правилата за обучение на кучета (ДВ, бр. 21 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17139)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 80 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25515)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43295)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение на Закона за държавните такси (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122791)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236209)
+- [Закон за изменение и допълнение на Закона за горите (ДВ, бр. 80 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9614)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/9867)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение на Закона за държавните такси (ДВ, бр. 17 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77895)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 61 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166498)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

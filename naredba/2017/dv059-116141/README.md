@@ -30,6 +30,14 @@
 
 Act id: `naredba-2017-dv059-116141` (tags `naredba-2017-dv059-116141/<day>`; `python tools/on.py <day> naredba-2017-dv059-116141`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-28 от 2010 г. за критериите, условията и реда за атестиране на военнослужещите от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 5 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121511)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -22,6 +22,21 @@
 
 Act id: `postanovlenie-2013-dv069-77998` (tags `postanovlenie-2013-dv069-77998/<day>`; `python tools/on.py <day> postanovlenie-2013-dv069-77998`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 133 от 30 май 2014 г. за изменение и допълнение на Постановление № 157 на Министерския съвет от 2013 г. за създаване на Съвет по децентрализация на държавното управление (ДВ, бр. 47 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85423)
+- [Постановление № 337 от 29 декември 2017 г. за изменение и допълнение на Постановление № 157 на Министерския съвет от 2013 г. за създаване на Съвет по децентрализация на държавното управление (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121433)
+
+Cited by:
+
+- [Постановление № 388 от 10 декември 2014 г. за приемане на Устройствен правилник на Министерството на регионалното развитие и благоустройството (ДВ, бр. 102 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90561)
+- [Постановление № 46 от 6 март 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 19 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92763)
+- [Постановление № 171 от 16 август 2017 г. за приемане на Устройствен правилник на Министерството на регионалното развитие и благоустройството (ДВ, бр. 68 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117191)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

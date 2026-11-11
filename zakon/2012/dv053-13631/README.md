@@ -226,9 +226,74 @@
 
 Act id: `zakon-2012-dv053-13631` (tags `zakon-2012-dv053-13631/<day>`; `python tools/on.py <day> zakon-2012-dv053-13631`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 41 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9756)
+- [Закон за изменение на Закона за управление на отпадъците (ДВ, бр. 63 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10058)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 30 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10104)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 105 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42125)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 19 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163478)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 99 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166945)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77883)
+- [Правилник за устройството и дейността на Националната здравноосигурителна каса (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78626)
+- [Решение № 11 от 10 юли 2014 г. по конституционно дело № 2 от 2013 г. (ДВ, бр. 61 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86743)
+- [Решение № 14 от 4 ноември 2014 г. по конституционно дело № 12 от 2014 г. (ДВ, бр. 95 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89582)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Постановление № 447 от 23 декември 2014 г. за приемане на Устройствени правилници на Министерството на икономиката, на Министерството на енергетиката и на Министерството на туризма (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90942)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92194)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 105 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110619)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118838)
+- [Закон за изменение и допълнение на Закона за местните данъци и такси (ДВ, бр. 88 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119137)
+- [Постановление № 95 от 5 юни 2018 г. за изменение и допълнение на Устройствения правилник на Министерството на икономиката, приет с Постановление № 447 на Министерския съвет от 2014 г. (ДВ, бр. 49 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127152)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и смеси (ДВ, бр. 53 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127432)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132108)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 1 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133384)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135750)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 56 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139551)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 81 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141788)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154271)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 18 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156143)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 19 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156144)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185262)
+- [Закон за изменение и допълнение на Закона за данъците върху доходите на физическите лица (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201800)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202168)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 79 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227620)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246673)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15170)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 105 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42125)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 85 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/71846)
+- [Закон за изменение и допълнение на Закона за местните данъци и такси (ДВ, бр. 88 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77720)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и смеси (ДВ, бр. 53 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78072)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 98 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78108)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 1 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78255)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 25 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78127)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 56 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156882)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 81 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157107)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163398)
+- [Закон за изменение и допълнение на Закона за чистотата на атмосферния въздух (ДВ, бр. 18 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163502)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 19 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163478)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164423)
+- [Закон за изменение и допълнение на Закона за данъците върху доходите на физическите лица (ДВ, бр. 106 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165173)
+- [Закон за държавния бюджет на Република България за 2024 г. (ДВ, бр. 108 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165235)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 79 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165596)
+- [Закон за изменение и допълнение на Закона за управление на отпадъците (ДВ, бр. 99 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166945)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

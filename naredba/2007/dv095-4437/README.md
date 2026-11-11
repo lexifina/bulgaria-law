@@ -34,6 +34,20 @@
 
 Act id: `naredba-2007-dv095-4437` (tags `naredba-2007-dv095-4437/<day>`; `python tools/on.py <day> naredba-2007-dv095-4437`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 19 от 2007 г. за ограничаване и ликвидиране на някои екзотични болести по животните и мерките срещу везикулозната болест по свинете (ДВ, бр. 9 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29124)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 37 от 2006 г. за здравните изисквания към животните, от които се добиват суровини и храни за консумация от хора (ДВ, бр. 106 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80939)
+- [Наредба за изменение и допълнение на Наредба № 31 от 2005 г. за мерките за профилактика, ограничаване и ликвидиране на Нюкясълската болест (псевдочума) по птиците и за условията и реда за прилагането им (ДВ, бр. 64 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128924)
+- [Наредба № 5 от 30 септември 2020 г. за здравните изисквания към животните, от които се добиват храни (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152058)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

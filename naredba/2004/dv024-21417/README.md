@@ -22,6 +22,23 @@
 
 Act id: `naredba-2004-dv024-21417` (tags `naredba-2004-dv024-21417/<day>`; `python tools/on.py <day> naredba-2004-dv024-21417`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 89 от 2004 г. за изискванията към задължителните табели и надписи за целите на одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 67 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2383)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 46 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2026)
+- [Наредба за изменение и допълнение на Наредба № 101 от 2004 г. за одобряване типа на нови моторни превозни средства от категория N по отношение на външните изпъкнали части пред задния панел на кабината (ДВ, бр. 100 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2950)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба № 60 от 24 април 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 40 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20071)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

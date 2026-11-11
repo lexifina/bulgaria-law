@@ -94,6 +94,16 @@
 
 Act id: `naredba-2016-dv043-104231` (tags `naredba-2016-dv043-104231/<day>`; `python tools/on.py <day> naredba-2016-dv043-104231`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8 от 27 юни 2018 г. за дейностите по здравно консултиране, профилактични прегледи и изследвания на лица, навършили 16 години, за които не е необходимо съгласието на родителя или попечителя (ДВ, бр. 56 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128100)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2005 г. за реда за регистрация, съобщаване и отчет на заразните болести (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133679)
+- [Наредба № Н-1 от 7 април 2025 г. за реда и условията за провеждане на диагностика, профилактика и контрол на сексуално предавани инфекции (ДВ, бр. 32 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234011)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

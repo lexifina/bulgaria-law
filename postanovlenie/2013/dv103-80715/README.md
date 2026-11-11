@@ -51,6 +51,14 @@
 
 Act id: `postanovlenie-2013-dv103-80715` (tags `postanovlenie-2013-dv103-80715/<day>`; `python tools/on.py <day> postanovlenie-2013-dv103-80715`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 105 от 28 април 2015 г. за приемане на Устройствен правилник на Българската агенция за инвестиции и на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94157)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -86,6 +86,20 @@
 
 Act id: `naredba-2022-dv092-180101` (tags `naredba-2022-dv092-180101/<day>`; `python tools/on.py <day> naredba-2022-dv092-180101`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 9.11.2022 г. за техническите изисквания към енергийните характеристики на сгради (ДВ, бр. 3 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182783)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 9.11.2022 г. за техническите изисквания към енергийните характеристики на сгради (ДВ, бр. 18 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208080)
+
+Cited by:
+
+- [Наредба № Е-РД-04-2 от 16 декември 2022 г. за обследване за енергийна ефективност, сертифициране и оценка на енергийните спестявания на сгради (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181984)
+- [Постановление № 267 от 7 декември 2023 г. за приемане на Наредба за критериите, условията и реда за определяне на статут на домакинства в положение на енергийна бедност и на статут на уязвими клиенти за снабдяване с електрическа енергия (ДВ, бр. 103 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201780)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -47,6 +47,24 @@
 
 Act id: `postanovlenie-2012-dv090-70323` (tags `postanovlenie-2012-dv090-70323/<day>`; `python tools/on.py <day> postanovlenie-2012-dv090-70323`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 133 от 5 юли 2018 г. за изменение и допълнение на Устройствения правилник на Държавната комисия по хазарта и на нейната администрация, приет с Постановление № 278 на Министерския съвет от 2012 г. (ДВ, бр. 58 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128426)
+- [Постановление № 47 от 15 март 2019 г. за изменение на Устройствения правилник на Държавната комисия по хазарта и на нейната администрация, приет с Постановление № 278 на Министерския съвет от 2012 г. (ДВ, бр. 24 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135818)
+- [Постановление № 250 от 7 октомври 2019 г. за изменение и допълнение на Устройствения правилник на Държавната комисия по хазарта и на нейната администрация, приет с Постановление № 278 на Министерския съвет от 2012 г. (ДВ, бр. 80 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141871)
+
+Cited by:
+
+- [Постановление № 225 от 25 юли 2014 г. за одобряване на допълнителни разходи по бюджета на Националната служба за охрана за 2014 г. във връзка с предоставянето за управление на стопанство "Кричим" (ДВ, бр. 63 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86929)
+- [Постановление № 329 от 17 октомври 2014 г. за изменение на Устройствения правилник на Изпълнителна агенция "Одит на средствата от Европейския съюз" към министъра на финансите, приет с Постановление № 346 на Министерския съвет от 2008 г. (ДВ, бр. 88 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88978)
+- [Постановление № 214 от 14 август 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 64 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96707)
+- [Постановление № 353 от 14 декември 2016 г. за приемане на Устройствен правилник на Министерството на финансите (ДВ, бр. 100 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110349)
+- [Постановление № 231 от 27 август 2020 г. за уреждане на отношенията, свързани със закриването на Държавната комисия по хазарта (ДВ, бр. 77 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151341)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,14 @@
 
 Act id: `instruktsiya-2015-dv026-93486` (tags `instruktsiya-2015-dv026-93486/<day>`; `python tools/on.py <day> instruktsiya-2015-dv026-93486`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 03-04-357 от 2015 г. за мерките и средствата за защита на личните данни, получавани, обработвани, предоставяни и съхранявани в Министерството на регионалното развитие и благоустройството чрез Главна дирекция "Гражданска регистрация и административно обслужване" и нейните териториални звена (ДВ, бр. 80 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108063)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

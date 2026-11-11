@@ -18,6 +18,17 @@
 
 Act id: `postanovlenie-2023-dv001-182692` (tags `postanovlenie-2023-dv001-182692/<day>`; `python tools/on.py <day> postanovlenie-2023-dv001-182692`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 10 от 25 януари 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185200)
+- [Постановление № 11 от 25 януари 2023 г. за прилагане на политиката по чл. 1, ал. 5, т. 13.4 от Закона за държавния бюджет на Република България за 2022 г. (ДВ, бр. 9 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185201)
+- [Постановление № 207 от 25 октомври 2023 г. за възстановяване на средства по бюджета на Министерството на финансите за 2023 г. (ДВ, бр. 91 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200900)
+- [Постановление № 277 от 13 декември 2023 г. за одобряване на допълнителен трансфер по бюджета на държавното обществено осигуряване за 2023 г. (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201924)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

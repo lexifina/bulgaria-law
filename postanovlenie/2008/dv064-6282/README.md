@@ -82,6 +82,20 @@
 
 Act id: `postanovlenie-2008-dv064-6282` (tags `postanovlenie-2008-dv064-6282/<day>`; `python tools/on.py <day> postanovlenie-2008-dv064-6282`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 270 от 13 ноември 2009 г. за изменение и допълнение на Наредбата за условията и реда за събиране на таксите за ползване на пътната инфраструктура, за изминато разстояние, за ползване на отделни съоръжения по републиканските пътища и за специално ползване на републиканските пътища или на части от тях, приета с Постановление № 160 на Министерския съвет от 2008 г. (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26936)
+- [Постановление № 177 от 10 август 2010 г. за изменение на Наредбата за условията и реда за събиране на таксите за ползване на пътната инфраструктура, за изминато разстояние, за ползване на отделни съоръжения по републиканските пътища и за специално ползване на републиканските пътища или на части от тях, приета с Постановление № 160 на Министерския съвет от 2008 г. (ДВ, бр. 64 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35937)
+
+Cited by:
+
+- [Постановление № 219 от 5 септември 2008 г. за приемане на Правилник за структурата, дейността и организацията на работа на Национална агенция "Пътна инфраструктура" и на нейната администрация и на Тарифа за таксите, които се събират от Национална агенция "Пътна инфраструктура" (ДВ, бр. 79 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8609)
+- [Постановление № 291 от 7 ноември 2016 г. за приемане на Наредба за условията и реда за събиране на таксите за ползване на пътната инфраструктура по Закона за пътищата (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108994)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

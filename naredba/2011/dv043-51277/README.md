@@ -28,6 +28,15 @@
 
 Act id: `naredba-2011-dv043-51277` (tags `naredba-2011-dv043-51277/<day>`; `python tools/on.py <day> naredba-2011-dv043-51277`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 4 от 2011 г. за условията и реда за допускане и явяване на изпит по чл. 186, ал. 3, т. 3 от Закона за здравето на граждани на трети държави, придобили професионална квалификация по медицинска професия и/или специалност в областта на здравеопазването в трета държава (ДВ, бр. 64 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128859)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2011 г. за условията и реда за допускане и явяване на изпит по чл. 186, ал. 3, т. 3 от Закона за здравето на граждани на трети държави, придобили професионална квалификация по медицинска професия и/или специалност в областта на здравеопазването в трета държава (ДВ, бр. 6 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240489)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

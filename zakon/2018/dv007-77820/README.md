@@ -280,9 +280,50 @@
 
 Act id: `zakon-2018-dv007-77820` (tags `zakon-2018-dv007-77820/<day>`; `python tools/on.py <day> zakon-2018-dv007-77820`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 21 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77975)
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 41 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78071)
+- [Закон за изменение и допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 1 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156808)
+
+Cited by:
+
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123581)
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 21 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123583)
+- [Постановление № 69 от 4 май 2018 г. за уреждане на отношенията във връзка с преобразуването на административните структури по § 6, ал. 1 и 2 от преходните и заключителните разпоредби на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 39 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126218)
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 41 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126433)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132294)
+- [Закон за изменение и допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 1 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133383)
+- [Закон за публичните предприятия (ДВ, бр. 79 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141583)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142074)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150054)
+- [Закон за изменение и допълнение на Закона за местното самоуправление и местната администрация (ДВ, бр. 70 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150151)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155768)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за Българската народна банка (ДВ, бр. 104 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182521)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199935)
+- [Закон за платежните услуги и платежните системи (ДВ, бр. 20 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77832)
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 21 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77975)
+- [Закон за допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 41 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78071)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 98 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78237)
+- [Закон за изменение и допълнение на Закона за противодействие на корупцията и за отнемане на незаконно придобитото имущество (ДВ, бр. 1 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156808)
+- [Закон за публичните предприятия (ДВ, бр. 79 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157027)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 83 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157133)
+- [Закон за изменение и допълнение на Закона за военното разузнаване (ДВ, бр. 69 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157492)
+- [Закон за изменение и допълнение на Закона за местното самоуправление и местната администрация (ДВ, бр. 70 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157525)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 12 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163408)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за Българската народна банка (ДВ, бр. 104 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164559)
+- [Закон за противодействие на корупцията (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164884)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

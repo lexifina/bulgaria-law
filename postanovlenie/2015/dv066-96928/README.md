@@ -51,6 +51,15 @@
 
 Act id: `postanovlenie-2015-dv066-96928` (tags `postanovlenie-2015-dv066-96928/<day>`; `python tools/on.py <day> postanovlenie-2015-dv066-96928`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 221 от 26 август 2016 г. за изменение и допълнение на Наредбата за условията и реда за разходване на средствата за финансиране на одобрени проекти на юридически лица с нестопанска цел, определени за осъществяване на общественополезна дейност, за дейности за социално отговорно поведение по чл. 10а от Закона за хазарта, приета с Постановление № 223 на Министерския съвет от 2015 г. (ДВ, бр. 69 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107222)
+- [Постановление № 105 от 1 юни 2017 г. за отменяне на Наредбата за условията и реда за разходване на средствата за финансиране на одобрени проекти на юридически лица с нестопанска цел, определени за осъществяване на общественополезна дейност, за дейности за социално отговорно поведение по чл. 10а от Закона за хазарта, приета с Постановление № 223 на Министерския съвет от 2015 г. (ДВ, бр. 45 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114955)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

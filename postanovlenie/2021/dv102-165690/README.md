@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2021-dv102-165690` (tags `postanovlenie-2021-dv102-165690/<day>`; `python tools/on.py <day> postanovlenie-2021-dv102-165690`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 296 от 13 декември 2023 г. за одобряване на допълнителни разходи/трансфери за 2023 г. за финансово осигуряване на дейности по Програмата за изграждане, пристрояване, надстрояване и реконструкция на детски ясли, детски градини и училища 2020 - 2022 г. (ДВ, бр. 105 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201943)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

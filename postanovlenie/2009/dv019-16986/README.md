@@ -16,6 +16,15 @@
 
 Act id: `postanovlenie-2009-dv019-16986` (tags `postanovlenie-2009-dv019-16986/<day>`; `python tools/on.py <day> postanovlenie-2009-dv019-16986`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2008 г. за организацията по предоставяне на финансова помощ за изпълнение на дейностите по линия на техническа помощ от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 50 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22849)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2008 г. за организацията по предоставяне на финансова помощ за изпълнение на дейностите по линия на техническата помощ от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 81 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69593)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

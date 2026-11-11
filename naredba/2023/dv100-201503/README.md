@@ -17,6 +17,14 @@
 
 Act id: `naredba-2023-dv100-201503` (tags `naredba-2023-dv100-201503/<day>`; `python tools/on.py <day> naredba-2023-dv100-201503`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2023 г. за утвърждаване на образци по чл. 693а от Търговския закон (ДВ, бр. 114 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240104)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

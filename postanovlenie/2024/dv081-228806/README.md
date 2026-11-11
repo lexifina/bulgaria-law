@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2024-dv081-228806` (tags `postanovlenie-2024-dv081-228806/<day>`; `python tools/on.py <day> postanovlenie-2024-dv081-228806`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 356 от 23 октомври 2024 г. за одобряване на допълнителни разходи/трансфери за 2024 г. за финансово осигуряване на дейности по Национална програма "Оптимизиране на вътрешната структура на персонала", одобрена с Решение № 295 на Министерския съвет от 2024 г. за одобряване на национални програми за развитие на образованието (ДВ, бр. 90 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229726)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

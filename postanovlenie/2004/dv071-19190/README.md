@@ -74,6 +74,20 @@
 
 Act id: `postanovlenie-2004-dv071-19190` (tags `postanovlenie-2004-dv071-19190/<day>`; `python tools/on.py <day> postanovlenie-2004-dv071-19190`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 156 от 13 юли 2005 г. за приемане на Наредба за условията и реда за извършване на превоз на радиоактивни вещества (ДВ, бр. 60 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=626)
+- [Наредба № 28 от 3 октомври 2006 г. за условията и реда за медицинско осигуряване и здравни норми за защита на лицата в случай на радиационна авария (ДВ, бр. 84 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2707)
+- [Инструкция № 5 от 9 януари 2009 г. за радиационна, химична и биологична защита при инциденти и аварии, свързани с опасни вещества и материали (ДВ, бр. 5 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14294)
+- [Постановление № 231 от 2 септември 2004 г. за приемане на Наредба за осигуряване безопасността на изследователските ядрени инсталации (ДВ, бр. 80 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18776)
+- [Инструкция № Iз-2401 от 16 септември 2011 г. за химическа, биологическа и радиационна защита при инциденти и аварии, свързани с опасни вещества и материали (ДВ, бр. 76 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56908)
+- [Постановление № 313 от 22 ноември 2011 г. за приемане на Наредба за аварийно планиране и аварийна готовност при ядрена и радиационна авария (ДВ, бр. 94 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58911)
+- [Инструкция № 8121з-953 от 8 декември 2014 г. за условията и реда за осъществяване на химическа, биологическа и радиационна защита при пожари, бедствия и извънредни ситуации (ДВ, бр. 104 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90583)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

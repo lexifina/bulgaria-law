@@ -23,6 +23,20 @@
 
 Act id: `postanovlenie-2005-dv074-825` (tags `postanovlenie-2005-dv074-825/<day>`; `python tools/on.py <day> postanovlenie-2005-dv074-825`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 194 от 28 юли 2006 г. за изменение на Постановление № 197 на Министерския съвет от 2005 г. за създаване на Държавна агенция за младежта и спорта към Министерския съвет (ДВ, бр. 64 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2335)
+
+Cited by:
+
+- [Закон за изменение на Закона за физическото възпитание и спорта (ДВ, бр. 103 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1177)
+- [Постановление № 20 от 2 февруари 2007 г. за изпълнението на държавния бюджет на Република България за 2007 г. (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3290)
+- [Постановление № 99 от 3 май 2007 г. за създаване на Национален център "Европейски младежки програми и инициативи" и за приемане на Устройствен правилник на Националния център "Европейски младежки програми и инициативи" (ДВ, бр. 38 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3639)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

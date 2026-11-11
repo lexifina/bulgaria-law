@@ -53,6 +53,22 @@
 
 Act id: `postanovlenie-2010-dv041-33180` (tags `postanovlenie-2010-dv041-33180/<day>`; `python tools/on.py <day> postanovlenie-2010-dv041-33180`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 170 от 6 август 2010 г. за изменение на Постановление № 95 на Министерския съвет от 2010 г. за приемане на Устройствен правилник на Изпълнителната агенция по рибарство и аквакултури и за закриване на Изпълнителната агенция по хидромелиорации към министъра на земеделието и храните (ДВ, бр. 64 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35932)
+
+Cited by:
+
+- [Постановление № 30 от 14 февруари 2012 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по рибарство и аквакултури, приет с Постановление № 95 на Министерския съвет от 2010 г. (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61611)
+- [Постановление № 234 от 11 октомври 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 91 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79619)
+- [Постановление № 90 от 16 април 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93881)
+- [Постановление № 198 от 3 август 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 62 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106440)
+- [Постановление № 38 от 6 март 2020 г. за изменение и допълнение на нормативни актове (ДВ, бр. 20 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146736)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

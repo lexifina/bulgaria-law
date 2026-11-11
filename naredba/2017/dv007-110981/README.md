@@ -53,6 +53,14 @@
 
 Act id: `naredba-2017-dv007-110981` (tags `naredba-2017-dv007-110981/<day>`; `python tools/on.py <day> naredba-2017-dv007-110981`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 54 от 30.12.2016 г. за регистрите на Гаранционния фонд за обмена и защитата на информацията и за издаването и отчитането на задължителните застраховки по чл. 461, т. 1 и 2 от Кодекса за застраховането (ДВ, бр. 77 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245400)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

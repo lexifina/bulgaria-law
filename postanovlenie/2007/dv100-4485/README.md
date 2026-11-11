@@ -32,6 +32,14 @@
 
 Act id: `postanovlenie-2007-dv100-4485` (tags `postanovlenie-2007-dv100-4485/<day>`; `python tools/on.py <day> postanovlenie-2007-dv100-4485`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 340 от 14 декември 2011 г. за приемане на Наредба за регулиране и регистриране на цените на лекарствените продукти, условията, правилата и критериите за включване, промени и/или изключване на лекарствени продукти от Позитивния лекарствен списък и условията и реда за работа на Комисията по цени и реимбурсиране (ДВ, бр. 100 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59580)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -131,6 +131,14 @@
 
 Act id: `naredba-2018-dv044-126796` (tags `naredba-2018-dv044-126796/<day>`; `python tools/on.py <day> naredba-2018-dv044-126796`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2018 г. за определяне на правилата за плащания, за верификация и сертификация на разходите, за възстановяване и отписване на неправомерни разходи и за осчетоводяване, както и сроковете и правилата за приключване на счетоводната година по оперативните програми и програмите за европейско териториално сътрудничество (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142228)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

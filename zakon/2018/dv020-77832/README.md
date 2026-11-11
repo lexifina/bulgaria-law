@@ -261,9 +261,50 @@
 
 Act id: `zakon-2018-dv020-77832` (tags `zakon-2018-dv020-77832/<day>`; `python tools/on.py <day> zakon-2018-dv020-77832`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10062)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 59 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42108)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 13 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157216)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 45 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164008)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165925)
+
+Cited by:
+
+- [Наредба № 3 от 18 април 2018 г. за условията и реда за откриване на платежни сметки, за изпълнение на платежни операции и за използване на платежни инструменти (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125865)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137241)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 94 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143043)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 13 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145830)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 12 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155767)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171270)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 45 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174009)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 8 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184766)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199877)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235621)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236379)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244694)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245131)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 37 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156918)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 94 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157059)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 13 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157216)
+- [Закон за изменение и допълнение на Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 12 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163413)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 25 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163890)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 45 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164008)
+- [Закон за изменение и допълнение на Закона за пазарите на финансови инструменти (ДВ, бр. 8 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164371)
+- [Закон за изменение и допълнение на Закона за мерките срещу изпирането на пари (ДВ, бр. 84 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165056)
+- [Закон за пазарите на криптоактиви (ДВ, бр. 54 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165936)
+- [Закон за изменение и допълнение на Закона за платежните услуги и платежните системи (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/165925)
+- [Закон за изменение и допълнение на Закона за кредитните институции (ДВ, бр. 67 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167078)
+- [Закон за изменение и допълнение на Закона за дейността на колективните инвестиционни схеми и на други предприятия за колективно инвестиране (ДВ, бр. 71 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166975)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

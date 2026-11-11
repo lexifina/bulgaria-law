@@ -58,6 +58,14 @@
 
 Act id: `postanovlenie-2019-dv071-141056` (tags `postanovlenie-2019-dv071-141056/<day>`; `python tools/on.py <day> postanovlenie-2019-dv071-141056`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 276 от 13 декември 2023 г. за приемане на Правилник за устройството, организацията и дейността на Националния съвет за превенция и защита от домашното насилие (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201911)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

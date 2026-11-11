@@ -43,6 +43,16 @@
 
 Act id: `naredba-2012-dv085-69916` (tags `naredba-2012-dv085-69916/<day>`; `python tools/on.py <day> naredba-2012-dv085-69916`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 99 от 22 април 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за опазване на земеделските земи, приет с Постановление № 240 на Министерския съвет от 1996 г. (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103285)
+- [Постановление № 246 от 5 юли 2024 г. за изменение и допълнение на Правилника за прилагане на Закона за собствеността и ползването на земеделските земи, приет с Постановление № 74 на Министерския съвет от 1991 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221082)
+- [Решение № 3 от 23 април 2025 г. по конституционно дело № 18 от 2023 г. (ДВ, бр. 37 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234344)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

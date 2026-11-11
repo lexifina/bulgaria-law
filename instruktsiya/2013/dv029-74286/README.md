@@ -24,6 +24,14 @@
 
 Act id: `instruktsiya-2013-dv029-74286` (tags `instruktsiya-2013-dv029-74286/<day>`; `python tools/on.py <day> instruktsiya-2013-dv029-74286`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за отменяне на Инструкция № Із-547 от 11 март 2013 г. за условията и реда за дейността на дирекция "Специална куриерска служба" на Министерството на вътрешните работи по осигуряване на военна пощенска свръзка при бедствия, при въвеждане на режим "военно положение" или "положение на война" (ДВ, бр. 45 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194720)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

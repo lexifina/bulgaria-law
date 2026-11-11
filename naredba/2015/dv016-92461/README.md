@@ -34,6 +34,21 @@
 
 Act id: `naredba-2015-dv016-92461` (tags `naredba-2015-dv016-92461/<day>`; `python tools/on.py <day> naredba-2015-dv016-92461`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за прилагане на мярка 12 "Плащания по Натура 2000 и Рамковата директива за водите" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156236)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2015 г. за прилагане на мярка 12 "Плащания по Натура 2000 и Рамковата директива за водите" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 30 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172049)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2015 г. за условията и реда за прилагане на схемите за директни плащания (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112302)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2015 г. за прилагане на мярка 10 "Агроекология и климат" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112303)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2015 г. за прилагане на мярка 13 "Плащания за райони с природни или други специфични ограничения" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 18 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135157)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,15 @@
 
 Act id: `naredba-2005-dv045-382` (tags `naredba-2005-dv045-382/<day>`; `python tools/on.py <day> naredba-2005-dv045-382`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 26 октомври 2011 г. за условията и реда за извършване на съдебномедицинските, съдебнопсихиатричните и съдебнопсихологичните експертизи, включително и за заплащането на разходите на лечебните заведения (ДВ, бр. 91 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58536)
+- [Наредба № Н-7 от 5 декември 2025 г. за утвърждаване на медицински стандарт "Съдебна психиатрия" (ДВ, бр. 111 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239752)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

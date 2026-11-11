@@ -70,6 +70,18 @@
 
 Act id: `naredba-2019-dv057-139634` (tags `naredba-2019-dv057-139634/<day>`; `python tools/on.py <day> naredba-2019-dv057-139634`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 3 от 2019 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния публичен регистър на недвижимите културни ценности (ДВ, бр. 9 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155243)
+
+Cited by:
+
+- [Поправка в Наредба № 3 от 10 юли 2019 г. за реда за идентифициране, деклариране, предоставяне на статут и за определяне на категорията на недвижимите културни ценности, за достъпа и подлежащите на вписване обстоятелства в Националния публичен регистър на недвижимите културни ценности (ДВ, бр. 57 от 19 юли 2019 г.) (ДВ, бр. 65 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140635)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

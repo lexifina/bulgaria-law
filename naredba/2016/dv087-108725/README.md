@@ -15,6 +15,15 @@
 
 Act id: `naredba-2016-dv087-108725` (tags `naredba-2016-dv087-108725/<day>`; `python tools/on.py <day> naredba-2016-dv087-108725`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 52 от 2016 г. за реда и начина за отчисляване на инвестиционната такса, събирана от пенсионноосигурителните дружества при управлението на фондовете за допълнително задължително пенсионно осигуряване (ДВ, бр. 31 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125033)
+- [Наредба за изменение и допълнение на Наредба № 52 от 21.10.2016 г. за реда и начина за отчисляване на инвестиционната такса, събирана от пенсионноосигурителните дружества при управлението на фондовете за допълнително пенсионно осигуряване (ДВ, бр. 55 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159709)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

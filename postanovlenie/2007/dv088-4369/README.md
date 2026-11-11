@@ -70,6 +70,18 @@
 
 Act id: `postanovlenie-2007-dv088-4369` (tags `postanovlenie-2007-dv088-4369/<day>`; `python tools/on.py <day> postanovlenie-2007-dv088-4369`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 236 от 25 септември 2008 г. за приемане на Устройствен правилник на Държавната агенция по горите (ДВ, бр. 86 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9248)
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5319)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,15 @@
 
 Act id: `postanovlenie-2007-dv040-3669` (tags `postanovlenie-2007-dv040-3669/<day>`; `python tools/on.py <day> postanovlenie-2007-dv040-3669`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 1 от 24 октомври 2007 г. за образуване на средствата за работна заплата в търговските дружества - лечебни заведения с над 50 на сто държавно или общинско участие в капитала, през 2007 г. (ДВ, бр. 89 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4384)
+- [Неофициален раздел на "Държавен вестник", брой 54 от 3.7.2007 г. (ДВ, бр. 54 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140228)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

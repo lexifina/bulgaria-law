@@ -27,6 +27,18 @@
 
 Act id: `postanovlenie-2007-dv078-4190` (tags `postanovlenie-2007-dv078-4190/<day>`; `python tools/on.py <day> postanovlenie-2007-dv078-4190`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 282 от 17 октомври 2011 г. за изменение и допълнение на Постановление № 231 на Министерския съвет от 2007 г. за приемане на детайлни правила за допустимост на разходите по Оперативна програма "Административен капацитет", съфинансирана от Европейския социален фонд, за финансовата рамка 2007 - 2013 г. (ДВ, бр. 83 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57800)
+
+Cited by:
+
+- [Постановление № 147 от 23 юли 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35307)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -111,6 +111,20 @@
 
 Act id: `naredba-2016-dv068-106992` (tags `naredba-2016-dv068-106992/<day>`; `python tools/on.py <day> naredba-2016-dv068-106992`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2016 г. за институциите в системата на предучилищното и училищното образование (ДВ, бр. 78 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118238)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2016 г. за институциите в системата на предучилищното и училищното образование (ДВ, бр. 7 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133871)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2016 г. за институциите в системата на предучилищното и училищното образование (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152111)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2016 г. за организация на дейностите в училищното образование (ДВ, бр. 12 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111580)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

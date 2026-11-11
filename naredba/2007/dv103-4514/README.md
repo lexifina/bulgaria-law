@@ -37,6 +37,15 @@
 
 Act id: `naredba-2007-dv103-4514` (tags `naredba-2007-dv103-4514/<day>`; `python tools/on.py <day> naredba-2007-dv103-4514`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2003 г. за проспектите при публично предлагане и допускане до търговия на регулиран пазар на ценни книжа и за разкриването на информация от публичните дружества и другите емитенти на ценни книжа (ДВ, бр. 63 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106366)
+- [Наредба № 7 от 27 май 2021 г. за реда за придобиване, признаване и отнемане на правоспособност на брокерите на финансови инструменти и инвестиционните консултанти (ДВ, бр. 48 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158640)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

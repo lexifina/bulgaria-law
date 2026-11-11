@@ -49,6 +49,25 @@
 
 Act id: `postanovlenie-2007-dv106-4532` (tags `postanovlenie-2007-dv106-4532/<day>`; `python tools/on.py <day> postanovlenie-2007-dv106-4532`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 94 от 11 май 2012 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина, приета с Постановление № 296 на Министерския съвет от 2007 г. (ДВ, бр. 39 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64584)
+- [Постановление № 206 от 18 юли 2014 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина, приета с Постановление № 296 на Министерския съвет от 2007 г. (ДВ, бр. 61 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86742)
+- [Постановление № 16 от 28 януари 2016 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина, приета с Постановление № 296 на Министерския съвет от 2007 г. (ДВ, бр. 9 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100625)
+- [Постановление № 362 от 9 ноември 2022 г. за изменение и допълнение на Тарифата за таксите, които се събират по Закона за лекарствените продукти в хуманната медицина, приета с Постановление № 296 на Министерския съвет от 2007 г. (ДВ, бр. 90 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180009)
+
+Cited by:
+
+- [Постановление № 312 от 20 декември 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 102 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42214)
+- [Постановление № 24 от 19 февруари 2018 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122996)
+- [Постановление № 56 от 28 март 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136245)
+- [Неофициален раздел на "Държавен вестник", брой 24 от 4.03.2008 г. (ДВ, бр. 24 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142534)
+- [Постановление № 18 от 26 януари 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240957)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

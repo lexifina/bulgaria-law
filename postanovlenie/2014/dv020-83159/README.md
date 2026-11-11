@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2014-dv020-83159` (tags `postanovlenie-2014-dv020-83159/<day>`; `python tools/on.py <day> postanovlenie-2014-dv020-83159`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 69 от 31 март 2016 г. за изменение на Постановление № 41 на Министерския съвет от 27 февруари 2014 г. за одобряване на допълнителни плащания по бюджета на Министерството на младежта и спорта за 2014 г. във връзка с увеличаване капитала на търговско дружество (ДВ, бр. 28 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102392)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

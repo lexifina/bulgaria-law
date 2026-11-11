@@ -118,6 +118,16 @@
 
 Act id: `postanovlenie-2018-dv102-132829` (tags `postanovlenie-2018-dv102-132829/<day>`; `python tools/on.py <day> postanovlenie-2018-dv102-132829`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 271 от 6 август 2021 г. за изменение и допълнение на Правилника за прилагане на Закона за филмовата индустрия, приет с Постановление № 274 на Министерския съвет от 2018 г. (ДВ, бр. 67 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160733)
+- [Постановление № 352 от 28 декември 2023 г. за изменение и допълнение на Правилника за прилагане на Закона за филмовата индустрия, приет с Постановление № 274 на Министерския съвет от 2018 г. (ДВ, бр. 2 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202220)
+- [Постановление № 34 от 16 февруари 2026 г. за изменение и допълнение на Правилника за прилагане на Закона за филмовата индустрия, приет с Постановление № 274 на Министерския съвет от 2018 г. (ДВ, бр. 20 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241452)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

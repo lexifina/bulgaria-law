@@ -57,6 +57,23 @@
 
 Act id: `zakon-2006-dv051-2097` (tags `zakon-2006-dv051-2097/<day>`; `python tools/on.py <day> zakon-2006-dv051-2097`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за статистика на вътрешнообщностната търговия със стоки (ДВ, бр. 84 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4306)
+- [Закон за изменение и допълнение на Закона за статистика на вътрешнообщностната търговия със стоки (ДВ, бр. 61 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175147)
+- [Закон за изменение и допълнение на Закона за статистика на вътрешнообщностната търговия със стоки (ДВ, бр. 61 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164142)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 100 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41673)
+- [Закон за статистика на вътрешнообщностната търговия със стоки (ДВ, бр. 40 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=64728)
+- [Закон за изменение и допълнение на Закона за електронния документ и електронния подпис (ДВ, бр. 100 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10048)
+- [Закон за статистика на вътрешнообщностната търговия със стоки (ДВ, бр. 40 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13918)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

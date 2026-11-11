@@ -23,6 +23,27 @@
 
 Act id: `postanovlenie-2004-dv096-18472` (tags `postanovlenie-2004-dv096-18472/<day>`; `python tools/on.py <day> postanovlenie-2004-dv096-18472`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 60 от 23 март 2006 г. за изменение на Постановление № 280 на Министерския съвет от 2004 г. за създаване на Център "Фонд за лечение на деца" (ДВ, бр. 28 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1620)
+- [Постановление № 49 от 26 март 2010 г. за изменение и допълнение на Постановление № 280 на Министерския съвет от 2004 г. за създаване на Център "Фонд за лечение на деца" (ДВ, бр. 27 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31546)
+- [Постановление № 246 от 30 август 2011 г. за изменение на Постановление № 280 на Министерския съвет от 2004 г. за създаване на Център "Фонд за лечение на деца" (ДВ, бр. 70 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56513)
+- [Постановление № 74 от 6 април 2012 г. за изменение на Постановление № 280 на Министерския съвет от 2004 г. за създаване на Център "Фонд за лечение на деца" (ДВ, бр. 30 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63490)
+- [Постановление № 216 от 25 август 2016 г. за изменение и допълнение на Постановление № 280 на Министерския съвет от 2004 г. за създаване на Център "Фонд за лечение на деца" (ДВ, бр. 68 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107158)
+
+Cited by:
+
+- [Правилник за дейността и организацията на работа на Център "Фонд за лечение на деца" (ДВ, бр. 101 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18411)
+- [Постановление № 121 от 9 май 2011 г. за закриване на Център "Фонд за трансплантация" (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49818)
+- [Постановление № 195 от 7 юли 2011 г. за предоставяне на допълнителни средства по бюджета на Министерството на здравеопазването за нуждите на Център "Фонд за лечение на деца" (ДВ, бр. 54 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54338)
+- [Постановление № 315 от 3 октомври 2014 г. за изменение и допълнение на Правилника за условията и реда за работа на Комисията по прозрачност по Закона за лекарствените продукти в хуманната медицина, приет с Постановление № 300 на Министерския съвет от 2007 г. (ДВ, бр. 84 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88505)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132509)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2019 г. (ДВ, бр. 102 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

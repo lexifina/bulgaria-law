@@ -60,6 +60,14 @@
 
 Act id: `postanovlenie-2019-dv026-136211` (tags `postanovlenie-2019-dv026-136211/<day>`; `python tools/on.py <day> postanovlenie-2019-dv026-136211`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 22 от 10 февруари 2023 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Медицински надзор", приет с Постановление № 53 на Министерския съвет от 2019 г. (ДВ, бр. 15 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186560)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

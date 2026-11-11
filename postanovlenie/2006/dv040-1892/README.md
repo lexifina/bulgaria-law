@@ -49,6 +49,19 @@
 
 Act id: `postanovlenie-2006-dv040-1892` (tags `postanovlenie-2006-dv040-1892/<day>`; `python tools/on.py <day> postanovlenie-2006-dv040-1892`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 20 от 19 февруари 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30236)
+- [Постановление № 186 от 7 септември 2010 г. за осигуряване на целодневна организация на учебния ден за учениците от І клас в държавните и общинските училища (ДВ, бр. 71 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36752)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 40 от 4 февруари 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155763)
+- [Постановление № 12 от 20 февруари 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233080)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

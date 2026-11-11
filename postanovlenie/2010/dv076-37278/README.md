@@ -41,6 +41,14 @@
 
 Act id: `postanovlenie-2010-dv076-37278` (tags `postanovlenie-2010-dv076-37278/<day>`; `python tools/on.py <day> postanovlenie-2010-dv076-37278`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 261 от 28 август 2014 г. за приемане на Наредба за реда и начина за организиране на националните инвентаризации на емисиите на вредни вещества и парникови газове в атмосферата (ДВ, бр. 74 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87669)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

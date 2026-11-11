@@ -52,6 +52,17 @@
 
 Act id: `postanovlenie-2017-dv098-120571` (tags `postanovlenie-2017-dv098-120571/<day>`; `python tools/on.py <day> postanovlenie-2017-dv098-120571`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-2 от 28 август 2018 г. за проектиране на пътища (ДВ, бр. 79 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129951)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-8 от 2013 г. за проектиране, изграждане и експлоатация на канализационни системи (ДВ, бр. 99 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132236)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-1 от 2015 г. за условията и реда за влагане на строителни продукти в строежите на Република България (ДВ, бр. 71 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150637)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-3 от 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 78 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151388)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

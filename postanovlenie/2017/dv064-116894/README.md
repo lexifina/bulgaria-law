@@ -63,6 +63,16 @@
 
 Act id: `postanovlenie-2017-dv064-116894` (tags `postanovlenie-2017-dv064-116894/<day>`; `python tools/on.py <day> postanovlenie-2017-dv064-116894`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за патентите и регистрацията на полезните модели (ДВ, бр. 92 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152448)
+- [Постановление № 102 от 30 май 2022 г. за отменяне на нормативни актове на Министерския съвет (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173735)
+- [Закон за изменение и допълнение на Закона за патентите и регистрацията на полезните модели (ДВ, бр. 92 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157340)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -36,6 +36,14 @@
 
 Act id: `naredba-2016-dv003-99826` (tags `naredba-2016-dv003-99826/<day>`; `python tools/on.py <day> naredba-2016-dv003-99826`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 14 от 1 декември 2023 г. за условията и реда за изплащане на допълнително възнаграждение за постигнати високи резултати в служебната дейност и за работа по програми/проекти с външно финансиране на военнослужещите и на цивилните служители в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 104 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201786)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

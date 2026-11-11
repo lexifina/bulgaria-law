@@ -18,6 +18,20 @@
 
 Act id: `postanovlenie-2014-dv066-87084` (tags `postanovlenie-2014-dv066-87084/<day>`; `python tools/on.py <day> postanovlenie-2014-dv066-87084`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 317 от 16 декември 2025 г. за изменение и допълнение на Постановление № 235 на Министерския съвет от 2014 г. за определяне на условията за изплащане и размерите на допълнителното възнаграждение за работа при специфични условия на държавните служители в Министерството на вътрешните работи (ДВ, бр. 112 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240070)
+
+Cited by:
+
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+- [Постановление № 77 от 19 април 2017 г. за изменение и допълнение на Правилника за устройството и дейността на Министерството на вътрешните работи, приет с Постановление № 207 на Министерския съвет от 2014 г. (ДВ, бр. 33 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113792)
+- [Постановление № 132 от 1 септември 2023 г. за одобряване на допълнителни разходи по бюджета на Министерството на вътрешните работи за 2023 г. (ДВ, бр. 76 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199260)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

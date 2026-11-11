@@ -49,6 +49,24 @@
 
 Act id: `postanovlenie-2004-dv066-19510` (tags `postanovlenie-2004-dv066-19510/<day>`; `python tools/on.py <day> postanovlenie-2004-dv066-19510`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 187 от 31 юли 2007 г. за изменение и допълнение на Наредбата за условията и реда за определяне на отговорността на държавата и за отстраняване на нанесените щети върху околната среда, настъпили от минали действия или бездействия, при приватизация, приета с Постановление № 173 на Министерския съвет от 2004 г. (ДВ, бр. 65 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4048)
+- [Постановление № 317 от 24 ноември 2011 г. за изменение и допълнение на Наредбата за условията и реда за определяне на отговорността на държавата и за отстраняване на нанесените щети върху околната среда, настъпили от минали действия или бездействия, при приватизация, приета с Постановление № 173 на Министерския съвет от 2004 г. (ДВ, бр. 96 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59007)
+
+Cited by:
+
+- [Постановление № 30 от 6 февруари 2007 г. за приемане на Наредба за инвентаризацията и проучванията на площи със замърсена почва, необходимите възстановителни мерки, както и поддържането на реализираните възстановителни мероприятия (ДВ, бр. 15 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3300)
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 42 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50896)
+- [Поправка в Наредбата за условията и реда за определяне на отговорността на държавата и за отстраняване на нанесени щети върху околната среда, настъпили от минали действия или бездействия, при приватизация, приета с ПМС № 173 от 2004 г. (ДВ, бр. 66 от 2004 г.) (ДВ, бр. 114 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71208)
+- [Правилник за функците, задачите и състава на Висшия експертен екологичен съвет (ДВ, бр. 19 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92663)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 42 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12701)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

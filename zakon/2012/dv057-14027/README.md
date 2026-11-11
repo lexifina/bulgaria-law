@@ -9,6 +9,15 @@
 
 Act id: `zakon-2012-dv057-14027` (tags `zakon-2012-dv057-14027/<day>`; `python tools/on.py <day> zakon-2012-dv057-14027`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 3268-П от 1 август 2012 г. (ДВ, бр. 59 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67216)
+- [Заповед № 157 от 24 април 2013 г. (ДВ, бр. 42 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75613)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

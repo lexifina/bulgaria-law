@@ -45,6 +45,19 @@
 
 Act id: `naredba-2016-dv017-101322` (tags `naredba-2016-dv017-101322/<day>`; `python tools/on.py <day> naredba-2016-dv017-101322`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-142 от 2016 г. за условията и реда за изпращане на държавни служители от Министерството на вътрешните работи за изпълнение на длъжност в институции или в структури на Европейския съюз и в международни организации (ДВ, бр. 4 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144411)
+- [Наредба за изменение и допълнение на Наредба № 8121з-142 от 22 февруари 2016 г. за условията и реда за изпращане на държавни служители от Министерството на вътрешните работи за изпълнение на длъжност в институции или в структури на Европейския съюз и в международни организации (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191300)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-773 от 2015 г. за условията и реда за осигуряване на храна или левовата й равностойност на служителите на Министерството на вътрешните работи (ДВ, бр. 31 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233927)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

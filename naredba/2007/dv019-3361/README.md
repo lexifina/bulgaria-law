@@ -73,6 +73,24 @@
 
 Act id: `naredba-2007-dv019-3361` (tags `naredba-2007-dv019-3361/<day>`; `python tools/on.py <day> naredba-2007-dv019-3361`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-1 от 2007 г. за условията и реда за финансово подпомагане от Държавната агенция за младежта и спорта на спортни дейности (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43296)
+- [Наредба за допълнение на Наредба № Н-1 от 2007 г. за условията и реда за финансово подпомагане от Министерството на физическото възпитание и спорта на спортни дейности (ДВ, бр. 26 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46907)
+- [Наредба за изменение на Наредба № Н-1 от 2007 г. за условията и реда за финансово подпомагане от Министерството на физическото възпитание и спорта на спортни дейности (ДВ, бр. 17 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61857)
+- [Наредба за изменение и допълнение на Наредба № Н-1 от 2007 г. за условията и реда за финансово подпомагане от Министерството на физическото възпитание и спорта на спортни дейности (ДВ, бр. 101 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71165)
+
+Cited by:
+
+- [№ 11835/2008 г. (ДВ, бр. 91 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9885)
+- [Наредба № 1 от 8 май 2014 г. за финансово подпомагане на спортни дейности (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84837)
+- [Наредба № 2 от 8 май 2014 г. за финансово подпомагане на строителството и ремонта на спортни обекти и съоръжения (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84838)
+- [Неофициален раздел на "Държавен вестник", брой 91 от 21.10.2008 г. (ДВ, бр. 91 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142864)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

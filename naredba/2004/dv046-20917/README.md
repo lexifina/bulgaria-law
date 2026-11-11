@@ -48,6 +48,22 @@
 
 Act id: `naredba-2004-dv046-20917` (tags `naredba-2004-dv046-20917/<day>`; `python tools/on.py <day> naredba-2004-dv046-20917`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за организацията и провеждането на държавните зрелостни изпити (ДВ, бр. 74 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4128)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за организацията и провеждането на държавните зрелостни изпити (ДВ, бр. 79 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8561)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за организацията и провеждането на държавните зрелостни изпити (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55433)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за организацията и провеждането на държавните зрелостни изпити (ДВ, бр. 62 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86699)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за организацията и провеждането на държавните зрелостни изпити (ДВ, бр. 71 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97328)
+
+Cited by:
+
+- [Наредба № 11 от 1 септември 2016 г. за оценяване на резултатите от обучението на учениците (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107533)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

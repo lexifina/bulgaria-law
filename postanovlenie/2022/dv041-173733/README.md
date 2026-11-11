@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2022-dv041-173733` (tags `postanovlenie-2022-dv041-173733/<day>`; `python tools/on.py <day> postanovlenie-2022-dv041-173733`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 232 от 1 август 2022 г. за одобряване на допълнителни разходи/трансфери по бюджетите на общините, на Министерството на образованието и науката, на Министерството на културата, на Министерството на младежта и спорта и на Техническия университет - София, за 2022 г. (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175422)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

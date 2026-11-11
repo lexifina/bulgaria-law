@@ -15,6 +15,18 @@
 
 Act id: `naredba-2006-dv060-2264` (tags `naredba-2006-dv060-2264/<day>`; `python tools/on.py <day> naredba-2006-dv060-2264`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 17 от 2006 г. за платените услуги, извършвани от националните центрове по проблемите на общественото здраве, поискани от физически или юридически лица (ДВ, бр. 6 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14467)
+
+Cited by:
+
+- [Наредба № 25 от 6 юни 2007 г. за условията и реда за вземане на проби и провеждане на лабораторни изследвания, анализи и експертизи, необходими за целите на държавния здравен контрол (ДВ, бр. 48 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3812)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

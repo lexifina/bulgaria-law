@@ -37,6 +37,14 @@
 
 Act id: `postanovlenie-2024-dv010-205300` (tags `postanovlenie-2024-dv010-205300/<day>`; `python tools/on.py <day> postanovlenie-2024-dv010-205300`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 107 от 23 април 2024 г. за одобряване на допълнителни разходи/трансфери по бюджетите на първостепенни разпоредители с бюджет за 2024 г. (ДВ, бр. 37 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=213820)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

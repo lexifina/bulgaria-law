@@ -50,9 +50,22 @@
 
 Act id: `zakon-2019-dv028-156840` (tags `zakon-2019-dv028-156840/<day>`; `python tools/on.py <day> zakon-2019-dv028-156840`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Условия и ред за изменение и допълнение на Условия и ред за сключване на договори за отпускане и заплащане на лекарствени продукти по чл. 262, ал. 6, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели, заплащани напълно или частично от НЗОК (ДВ, бр. 31 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147255)
+- [Условия и ред за изменение и допълнение на Условия и ред за сключване на договори за отпускане и заплащане на лекарствени продукти по чл. 262, ал. 6, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели, заплащани напълно или частично от НЗОК (ДВ, бр. 11 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155654)
+- [Условия и ред за изменение на Условия и ред за сключване на договори за отпускане и заплащане на лекарствени продукти по чл. 262, ал. 6, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели, заплащани напълно или частично от НЗОК (ДВ, бр. 24 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156809)
+- [Условия и ред за изменение на Условия и ред за сключване на договори за отпускане и заплащане на лекарствени продукти по чл. 262, ал. 6, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели, заплащани напълно или частично от НЗОК (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160260)
+- [Условия и ред за изменение на Условия и ред за сключване на договори за отпускане и заплащане на лекарствени продукти по чл. 262, ал. 6, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели, заплащани напълно или частично от НЗОК (ДВ, бр. 92 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164314)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

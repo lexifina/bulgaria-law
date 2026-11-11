@@ -223,6 +223,17 @@
 
 Act id: `naredba-2011-dv006-42444` (tags `naredba-2011-dv006-42444/<day>`; `python tools/on.py <day> naredba-2011-dv006-42444`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 146 от 9 юни 2014 г. за изменение и допълнение на Наредбата за устройството, безопасната експлоатация и техническия надзор на съоръжения под налягане, приета с Постановление № 164 на Министерския съвет от 2008 г. (ДВ, бр. 49 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85719)
+- [Наредба № РД-02-20-3 от 21 декември 2015 г. за проектиране, изпълнение и поддържане на сгради за обществено обслужване в областта на образованието и науката, здравеопазването, културата и изкуствата (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99832)
+- [Наредба № РД-02-20-1 от 19 януари 2017 г. за планиране и проектиране на строежи, предназначени за производство, съхранение и търговия на оръжия, боеприпаси, взривни вещества и пиротехнически изделия (ДВ, бр. 11 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111480)
+- [Наредба № РД-02-20-1 от 12 юни 2018 г. за технически правила и нормативи за контрол и приемане на електромонтажни работи (ДВ, бр. 53 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127439)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

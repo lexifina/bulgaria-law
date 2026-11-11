@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2006-dv101-2962` (tags `postanovlenie-2006-dv101-2962/<day>`; `python tools/on.py <day> postanovlenie-2006-dv101-2962`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Поправки в Постановление № 334 на Министерския съвет от 12.ХII.2006 г. (ДВ, бр. 101 от 2006 г.) (ДВ, бр. 102 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2976)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

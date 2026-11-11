@@ -28,6 +28,28 @@
 
 Act id: `naredba-2008-dv027-4924` (tags `naredba-2008-dv027-4924/<day>`; `python tools/on.py <day> naredba-2008-dv027-4924`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2008 г. за нормите за преподавателска работа и реда за определяне на числеността на персонала в системата на народната просвета (ДВ, бр. 4 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28535)
+- [Наредба за допълнение на Наредба № 3 от 2008 г. за нормите за преподавателска работа и реда за определяне на числеността на персонала в системата на народната просвета (ДВ, бр. 17 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61827)
+- [Наредба за изменение на Наредба № 3 от 2008 г. за нормите за преподавателска работа и реда за определяне на числеността на персонала в системата на народната просвета (ДВ, бр. 63 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86811)
+- [Hаредба за изменение на Наредба № 3 от 2008 г. за нормите за преподавателска работа и реда за определяне на числеността на персонала в системата на народната просвета (ДВ, бр. 16 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92126)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2008 г. за нормите за преподавателска работа и реда за определяне на числеността на персонала в системата на народната просвета (ДВ, бр. 75 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97548)
+
+Cited by:
+
+- [Заповед № 597/8.09.08 г. (ДВ, бр. 86 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9175)
+- [Заповед № РД-14-127 от 10 август 2010 г. (ДВ, бр. 69 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36189)
+- [Правилник за организацията и дейността на държавните детски градини към Министерството на отбраната (ДВ, бр. 92 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89280)
+- [Инструкция за изменение на Инструкция № 2 от 2003 г. за провеждане на обучението по учебен предмет "Религия" (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90771)
+- [Наредба № 1 от 8 септемри 2015 г. за условията и реда за провеждане на обучение чрез работа (дуално обучение) (ДВ, бр. 70 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97317)
+- [Наредба № 4 от 20 април 2017 г. за нормиране и заплащане на труда (ДВ, бр. 34 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113826)
+- [Неофициален раздел на "Държавен вестник", брой 86 от 03.10.2008 г. (ДВ, бр. 86 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142859)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -66,6 +66,18 @@
 
 Act id: `naredba-2012-dv017-61723` (tags `naredba-2012-dv017-61723/<day>`; `python tools/on.py <day> naredba-2012-dv017-61723`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2012 г. за условията и реда за регистрация на горски разсадници, както и за производство на фиданки в горските разсадници - държавна собственост (ДВ, бр. 35 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137179)
+
+Cited by:
+
+- [Устройствен правилник на Тополово стопанство гр. Пазарджик (ДВ, бр. 65 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77488)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2018-dv094-131850` (tags `postanovlenie-2018-dv094-131850/<day>`; `python tools/on.py <day> postanovlenie-2018-dv094-131850`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 294 от 13 декември 2018 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2018 г. (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133083)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

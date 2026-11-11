@@ -65,6 +65,26 @@
 
 Act id: `naredba-2007-dv021-3386` (tags `naredba-2007-dv021-3386/<day>`; `python tools/on.py <day> naredba-2007-dv021-3386`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2007 г. за профилактика, ограничаване и ликвидиране на болестта класическа чума по свинете (ДВ, бр. 4 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28503)
+
+Cited by:
+
+- [№ РД-09-915/24.11.09 г. (ДВ, бр. 12 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29466)
+- [Заповед № РД-09-3 от 4 януари 2011 г. (ДВ, бр. 13 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44155)
+- [Заповед № РД-09-776 от 17 септември 2011 г. (ДВ, бр. 82 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57475)
+- [Заповед № РД-09-1247 от 17 октомври 2012 г. (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70378)
+- [Наредба за изменение и допълнение на Наредба № 37 от 2006 г. за здравните изисквания към животните, от които се добиват суровини и храни за консумация от хора (ДВ, бр. 106 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80939)
+- [Наредба за изменение и допълнение на Наредба № 49 от 2006 г. за здравните изисквания към някои животни, сперма, яйцеклетки и ембриони при обмен между Република България и държавите - членки на Европейския съюз, и при внасянето им от трети страни (ДВ, бр. 9 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91626)
+- [Решение № 320 от 3 май 2016 г. за одобряване на Национална програма за профилактика, надзор, контрол и ликвидиране на болестите по животните и зоонозите за периода 2016 - 2018 г. (Продължава в брой 73) (ДВ, бр. 72 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107571)
+- [Наредба за изменение и допълнение на Наредба № 102 от 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта африканска чума по свинете и за условията и реда за прилагането им (ДВ, бр. 86 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130812)
+- [Наредба № 5 от 30 септември 2020 г. за здравните изисквания към животните, от които се добиват храни (ДВ, бр. 87 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152058)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

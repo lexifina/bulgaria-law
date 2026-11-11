@@ -105,6 +105,21 @@
 
 Act id: `postanovlenie-2011-dv100-59580` (tags `postanovlenie-2011-dv100-59580/<day>`; `python tools/on.py <day> postanovlenie-2011-dv100-59580`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 196 от 28 август 2012 г. за изменение и допълнение на Наредбата за регулиране и регистриране на цените на лекарствените продукти, условията, правилата и критериите за включване, промени и/или изключване на лекарствени продукти от Позитивния лекарствен списък и условията и реда за работа на Комисията по цени и реимбурсиране, приета с Постановление № 340 на Министерския съвет от 2011 г. (ДВ, бр. 68 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68072)
+
+Cited by:
+
+- [Постановление № 113 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 47 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65634)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2009 г. за условията и реда за заплащане на лекарствени продукти по чл. 262, ал. 5, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели (ДВ, бр. 49 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65834)
+- [Постановление № 97 от 19 април 2013 г. за приемане на Наредба за условията, правилата и реда за регулиране и регистриране на цените на лекарствените продукти (ДВ, бр. 40 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75404)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2009 г. за условията и реда за заплащане на лекарствени продукти по чл. 262, ал. 5, т. 1 от Закона за лекарствените продукти в хуманната медицина, на медицински изделия и на диетични храни за специални медицински цели (ДВ, бр. 48 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85673)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -53,6 +53,18 @@
 
 Act id: `naredba-2010-dv075-36886` (tags `naredba-2010-dv075-36886/<day>`; `python tools/on.py <day> naredba-2010-dv075-36886`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 3 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42443)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 44 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51775)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и pепубликанските консултанти (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78241)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на експертните съвети и на републиканските консултанти в системата на здравеопазването (ДВ, бр. 12 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145790)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

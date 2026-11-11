@@ -49,6 +49,23 @@
 
 Act id: `postanovlenie-2011-dv039-50201` (tags `postanovlenie-2011-dv039-50201/<day>`; `python tools/on.py <day> postanovlenie-2011-dv039-50201`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 133 от 28 юни 2012 г. за изменение и допълнение на Наредбата за реда за достъп до Националната визова информационна система на Република България и до Визовата информационна система на Европейския съюз, приета с Постановление № 129 на Министерския съвет от 2011 г. (ДВ, бр. 51 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66061)
+- [Постановление № 64 от 28 април 2023 г. за изменение и допълнение на Наредбата за реда за достъп до Националната визова информационна система на Република България и до Визовата информационна система на Европейския съюз, приета с Постановление № 129 на Министерския съвет от 2011 г. (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192240)
+
+Cited by:
+
+- [Постановление № 166 от 30 юли 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 60 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67132)
+- [Постановление № 160 от 2 август 2013 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 126 на Министерския съвет от 2006 г. (ДВ, бр. 70 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78015)
+- [Постановление № 207 от 18 юли 2014 г. за приемане на Правилник за устройството и дейността на Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86723)
+- [Постановление № 191 от 22 юли 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 57 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96178)
+- [Постановление № 221 от 24 октомври 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 90 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238452)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

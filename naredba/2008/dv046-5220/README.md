@@ -41,6 +41,18 @@
 
 Act id: `naredba-2008-dv046-5220` (tags `naredba-2008-dv046-5220/<day>`; `python tools/on.py <day> naredba-2008-dv046-5220`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2008 г. за документацията, представяна от главния/координиращия изследовател или възложителя за получаване на становище от съответната комисия по етика и за процедурата по проследяване на безопасността на медицинските изделия в хода на клиничното изпитване (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19428)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 31 от 2007 г. за определяне на правилата за Добра клинична практика (ДВ, бр. 68 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129245)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

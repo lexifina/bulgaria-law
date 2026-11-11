@@ -35,6 +35,14 @@
 
 Act id: `naredba-2009-dv008-15038` (tags `naredba-2009-dv008-15038/<day>`; `python tools/on.py <day> naredba-2009-dv008-15038`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2008 г. за определяне на условията и реда за допълнително материално стимулиране към основната заплата на служителите от централната администрация на министерството, пряко ангажирани в подпомагане дейността на търговския регистър (ДВ, бр. 27 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18396)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

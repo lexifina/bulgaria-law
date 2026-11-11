@@ -30,6 +30,14 @@
 
 Act id: `postanovlenie-2026-dv012-241031` (tags `postanovlenie-2026-dv012-241031/<day>`; `python tools/on.py <day> postanovlenie-2026-dv012-241031`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 121 от 4 февруари 2026 г. за предоставяне на концесия с предмет право на експлоатация на подземни богатства по чл. 2, ал. 1, т. 8 от Закона за подземните богатства - дълбоки геотермални ресурси, от находище "Шумачевски дол - Андроу", община Златоград, област Смолян, чрез добив на геотермална енергия за производство на електрическа енергия на "Родопи Еко Проджектс" ЕООД, гр. Златоград (ДВ, бр. 15 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241195)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

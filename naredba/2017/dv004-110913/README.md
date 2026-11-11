@@ -123,6 +123,45 @@
 
 Act id: `naredba-2017-dv004-110913` (tags `naredba-2017-dv004-110913/<day>`; `python tools/on.py <day> naredba-2017-dv004-110913`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-5 от 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 25 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=124198)
+- [Наредба за изменение на Наредба № РД-02-20-5 от 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 8 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134087)
+- [Наредба за изменение и допълнение на Наредба № РД-02-20-5 от 15 декември 2016 г. за съдържанието, създаването и поддържането на кадастралната карта и кадастралните регистри (ДВ, бр. 72 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161060)
+
+Cited by:
+
+- [Наредба № 21 от 10 октомври 2019 г. за съдържанието, условията и реда за създаване и поддържане на специализирани карти и регистри за електронни съобщителни мрежи, съоръжения и свързаната с тях физическа инфраструктура (ДВ, бр. 83 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142117)
+- [Заповед № РД9Р-1 от 17 февруари 2023 г. (ДВ, бр. 15 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=206540)
+- [Заповед № РД9Р-2 от 23 ноември 2023 г. (ДВ, бр. 15 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=206541)
+- [Заповед № РД-09-1178 от 25 октомври 2022 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219520)
+- [Заповед № РД-9Р-3 от 29 декември 2023 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219521)
+- [Заповед № РД-9Р-4 от 29 декември 2023 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219562)
+- [Заповед № РД-9Р-5 от 29 декември 2023 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219563)
+- [Заповед № РД-9Р-1 от 28 февруари 2024 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219580)
+- [Заповед № РД-9Р-2 от 28 февруари 2024 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219581)
+- [Заповед № РД-9Р-3 от 28 февруари 2024 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219800)
+- [Заповед № РД-9Р-4 от 8 март 2024 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219840)
+- [Заповед № РД-9Д-2 от 25 март 2024 г. (ДВ, бр. 56 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219883)
+- [Заповед № РД-9Р-5 от 25 март 2024 г. (ДВ, бр. 56 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219901)
+- [Заповед № РД-9Р-6 от 25 март 2024 г. (ДВ, бр. 56 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219980)
+- [Заповед № РД-9Р-7 от 25 март 2024 г. (ДВ, бр. 57 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220164)
+- [Заповед № РД-9Р-9 от 25 март 2024 г. (ДВ, бр. 56 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220165)
+- [Заповед № РД-9Р-8 от 25 март 2024 г. (ДВ, бр. 57 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220166)
+- [Заповед РД-9Р-11 от 8 април 2024 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220221)
+- [Постановление № 246 от 5 юли 2024 г. за изменение и допълнение на Правилника за прилагане на Закона за собствеността и ползването на земеделските земи, приет с Постановление № 74 на Министерския съвет от 1991 г. (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221082)
+- [Заповед № РД-9Р-14 от 7 юни 2024 г. (ДВ, бр. 19 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233208)
+- [Заповед № РД-9Р-15 от 26 юни 2024 г. (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233210)
+- [Заповед № РД-9Р-16 от 20 август 2024 г. (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233211)
+- [Заповед № РД-9Р-17 от 19 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233304)
+- [Заповед № РД-9Р-18 от 19 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233318)
+- [Заповед № РД-9Р-19 от 19 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233319)
+- [Заповед № РД-9Р-20 от 25 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233320)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

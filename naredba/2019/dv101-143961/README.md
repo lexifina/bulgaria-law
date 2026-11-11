@@ -79,6 +79,19 @@
 
 Act id: `naredba-2019-dv101-143961` (tags `naredba-2019-dv101-143961/<day>`; `python tools/on.py <day> naredba-2019-dv101-143961`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 10 от 2019 г. за условията и реда за прилагане на мерките от Националната програма по пчеларство за периода 2020 - 2022 г. (ДВ, бр. 59 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149480)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2019 г. за условията и реда за прилагане на мерките от Националната програма по пчеларство за периода 2020 - 2022 г. (ДВ, бр. 84 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162471)
+
+Cited by:
+
+- [адм. дело № 858/2021 г. (ДВ, бр. 27 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156939)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

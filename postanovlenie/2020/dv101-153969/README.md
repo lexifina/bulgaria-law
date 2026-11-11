@@ -247,6 +247,22 @@
 
 Act id: `postanovlenie-2020-dv101-153969` (tags `postanovlenie-2020-dv101-153969/<day>`; `python tools/on.py <day> postanovlenie-2020-dv101-153969`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 382 от 28 ноември 2022 г. за изменение и допълнение на Правилника за устройството и дейността на Служба "Военно разузнаване", приет с Постановление № 316 на Министерския съвет от 2020 г. (ДВ, бр. 96 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180730)
+- [Постановление № 61 от 20 април 2023 г. за изменение на Правилника за устройството и дейността на Служба "Военно разузнаване", приет с Постановление № 316 на Министерския съвет от 2020 г. (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191700)
+- [Постановление № 219 от 17 юни 2024 г. за изменение и допълнение на Правилника за устройството и дейността на Служба "Военно разузнаване", приет с Постановление № 316 на Министерския съвет от 2020 г. (ДВ, бр. 52 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218884)
+- [Постановление № 71 от 19 юни 2026 г. за изменение и допълнение на Правилника за устройството и дейността на Служба "Военно разузнаване", приет с Постановление № 316 на Министерския съвет от 2020 г. (ДВ, бр. 57 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244247)
+
+Cited by:
+
+- [Постановление № 287 от 20 август 2021 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 70 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=161003)
+- [Наредба № Н-16 от 12 октомври 2021 г. за реда за регистрация и отчета на пътните превозни средства от въоръжените сили на Република България (ДВ, бр. 90 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163609)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

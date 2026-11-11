@@ -153,9 +153,36 @@
 
 Act id: `zakon-2018-dv105-78250` (tags `zakon-2018-dv105-78250/<day>`; `python tools/on.py <day> zakon-2018-dv105-78250`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163431)
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 8 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164516)
+
+Cited by:
+
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135546)
+- [Постановление № 304 от 3 декември 2019 г. за приемане на Наредба за провеждане на конкурсите и подбора при мобилност на държавни служители и за създаване на Портал за работа в държавната администрация (ДВ, бр. 97 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143447)
+- [Постановление № 139 от 26 юни 2020 г. за приемане на Наредба за изискванията към категоризираните места за настаняване и заведения за хранене и развлечения, за реда за определяне на категория, както и за условията и реда за регистриране на стаи за гости и апартаменти за гости (ДВ, бр. 59 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149454)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 67 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149930)
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 105 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154233)
+- [Закон за прилагане на разпоредби на Закона за държавния бюджет на Република България за 2021 г., Закона за бюджета на държавното обществено осигуряване за 2021 г. и Закона за бюджета на Националната здравноосигурителна каса за 2021 г. (ДВ, бр. 8 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168156)
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 8 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184762)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 39 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214322)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156809)
+- [Закон за изменение и допълнение на Закона за лекарствените продукти в хуманната медицина (ДВ, бр. 67 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157305)
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 105 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163431)
+- [Закон за прилагане на разпоредби на Закона за държавния бюджет на Република България за 2021 г., Закона за бюджета на държавното обществено осигуряване за 2021 г. и Закона за бюджета на Националната здравноосигурителна каса за 2021 г. (ДВ, бр. 8 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163957)
+- [Закон за изменение и допълнение на Закона за хората с увреждания (ДВ, бр. 8 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164516)
+- [Закон за изменение и допълнение на Закона за устройството на Черноморското крайбрежие (ДВ, бр. 39 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165239)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

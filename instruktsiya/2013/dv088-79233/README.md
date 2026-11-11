@@ -71,6 +71,17 @@
 
 Act id: `instruktsiya-2013-dv088-79233` (tags `instruktsiya-2013-dv088-79233/<day>`; `python tools/on.py <day> instruktsiya-2013-dv088-79233`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-6 от 11 април 2023 г. за условията и реда за експлоатацията на безпилотни летателни системи и надзора над техните оператори (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191480)
+- [Постановление № 76 от 16 май 2023 г. за разполагане и функциониране на полигон на Българската армия в района на нос Шабла (ДВ, бр. 44 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=194582)
+- [Инструкция № 245 от 24 април 2024 г. за функциониране на Единната система за гражданско и военно управление на въздушното пространство на предтактическо и тактическо ниво (ДВ, бр. 41 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=214580)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 11.04.2023 г. за условията и реда за експлоатацията на безпилотни летателни системи и надзора над техните оператори (ДВ, бр. 114 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240169)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

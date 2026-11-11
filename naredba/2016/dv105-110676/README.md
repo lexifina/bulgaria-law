@@ -43,6 +43,27 @@
 
 Act id: `naredba-2016-dv105-110676` (tags `naredba-2016-dv105-110676/<day>`; `python tools/on.py <day> naredba-2016-dv105-110676`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Заповед № РД-9Р-5 от 28 април 2020 г. (ДВ, бр. 55 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149017)
+- [Заповед № РД-9Д-6 от 3 февруари 2021 г. (ДВ, бр. 37 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157878)
+- [Заповед № РД-9Р-19 от 27 ноември 2020 г. (ДВ, бр. 2 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=167293)
+- [Заповед № РД-9Д-32 от 2 декември 2021 г. (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171192)
+- [Заповед № РД-9Д-36 от 9 декември 2021 г. (ДВ, бр. 25 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=171250)
+- [Заповед № РД9Р-2 от 23 ноември 2023 г. (ДВ, бр. 15 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=206541)
+- [Заповед № РД-09-1178 от 25 октомври 2022 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219520)
+- [Заповед № РД-9Р-3 от 29 декември 2023 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219521)
+- [Заповед № РД-9Р-4 от 29 декември 2023 г. (ДВ, бр. 54 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219562)
+- [Заповед № РД-9Р-5 от 29 декември 2023 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219563)
+- [Заповед № РД-9Р-4 от 8 март 2024 г. (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=219840)
+- [Заповед № РД-9Р-19 от 19 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233319)
+- [Заповед № РД-9Р-20 от 25 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233320)
+- [Заповед № РД-9Р-21 от 30 септември 2025 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233347)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

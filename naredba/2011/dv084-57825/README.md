@@ -40,6 +40,21 @@
 
 Act id: `naredba-2011-dv084-57825` (tags `naredba-2011-dv084-57825/<day>`; `python tools/on.py <day> naredba-2011-dv084-57825`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД-16-1117 от 2011 г. за условията и реда за издаване, прехвърляне, отмяна и признаване на гаранциите за произход на енергията от възобновяеми източници (ДВ, бр. 54 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66300)
+- [Наредба за изменение на Наредба № РД-16-1117 от 2011 г. за условията и реда за издаване, прехвърляне, отмяна и признаване на гаранциите за произход на енергията от възобновяеми източници (ДВ, бр. 24 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73928)
+
+Cited by:
+
+- [Постановление № 64 от 22 март 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за насърчаване на заетостта, приет с Постановление № 131 на Министерския съвет от 2003 г. (ДВ, бр. 26 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62999)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 42 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94928)
+- [Наредба № Е-РД-04-2 от 2 април 2024 г. за гаранциите за произход на енергията от възобновяеми източници (ДВ, бр. 32 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211900)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

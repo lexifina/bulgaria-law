@@ -28,6 +28,21 @@
 
 Act id: `naredba-2008-dv059-5606` (tags `naredba-2008-dv059-5606/<day>`; `python tools/on.py <day> naredba-2008-dv059-5606`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-7 от 2008 г. за извършване на водолазна и друга подводна дейност (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82552)
+
+Cited by:
+
+- [Заповед № РД-9Р-41 от 2 декември 2016 г. (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110962)
+- [Наредба № РД-02-20-1 от 26 октомври 2023 г. за изпълнение и приемане на земни работи, земни съоръжения, земна основа и фундаменти (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201062)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0001 от 14.02.2011 г. за извършване на теренни археологически проучвания (ДВ, бр. 7 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203640)
+- [Заповед № РД-9Р-20 от 25 септември 2024 г. (ДВ, бр. 21 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233320)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

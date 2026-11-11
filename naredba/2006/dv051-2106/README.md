@@ -15,6 +15,16 @@
 
 Act id: `naredba-2006-dv051-2106` (tags `naredba-2006-dv051-2106/<day>`; `python tools/on.py <day> naredba-2006-dv051-2106`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8 от 20 март 2007 г. за процедурите по сертификация и/или одобрение на произвеждания и търгуван посевен материал от групите земеделски растения - зърнени, маслодайни и влакнодайни, фуражни, зеленчукови, картофи и цвекло (ДВ, бр. 29 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3495)
+- [Наредба № 15 от 24 юли 2015 г. за търговия на предбазови, базови и сертифицирани семена картофи от съответните класи на пазара на Eвропейския съюз (ДВ, бр. 59 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96278)
+- [Наредба № 3 от 28 март 2019 г. за условията и реда за получаване на разрешения за лица, които предлагат на пазара семена, предназначени за научни цели или селекционна дейност, и семена, предназначени за демонстративни и/или производствени опити, разрешените за целта количества в зависимост от растителните видове, опаковката и етикетирането на семената (ДВ, бр. 30 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136355)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

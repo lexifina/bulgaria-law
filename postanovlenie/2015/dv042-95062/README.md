@@ -18,6 +18,14 @@
 
 Act id: `postanovlenie-2015-dv042-95062` (tags `postanovlenie-2015-dv042-95062/<day>`; `python tools/on.py <day> postanovlenie-2015-dv042-95062`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 290 от 29 октомври 2015 г. за изменение и допълнение на Постановление № 140 на Министерския съвет от 2015 г. за одобряване на допълнителни разходи за финансирането на проекти, свързани с изпълнението на неотложни мерки за 2015 г. за присъединяването на Република България към Шенгенското пространство (ДВ, бр. 85 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98426)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

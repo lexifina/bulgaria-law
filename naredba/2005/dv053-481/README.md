@@ -107,6 +107,16 @@
 
 Act id: `naredba-2005-dv053-481` (tags `naredba-2005-dv053-481/<day>`; `python tools/on.py <day> naredba-2005-dv053-481`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 21 от 11 май 2007 г. за правилата за изграждане на мобилни далекосъобщителни мрежи и съоръжения (ДВ, бр. 41 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3704)
+- [Наредба № 35 от 30 ноември 2012 г. за правилата и нормите за проектиране, изграждане и въвеждане в експлоатация на кабелни електронни съобщителни мрежи и прилежащата им инфраструктура (ДВ, бр. 99 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71065)
+- [Неофициален раздел на "Държавен вестник", брой 104 от 27.12.2005 г. (ДВ, бр. 104 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136946)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

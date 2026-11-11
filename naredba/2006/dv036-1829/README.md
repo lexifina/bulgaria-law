@@ -111,6 +111,24 @@
 
 Act id: `naredba-2006-dv036-1829` (tags `naredba-2006-dv036-1829/<day>`; `python tools/on.py <day> naredba-2006-dv036-1829`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 25 от 2006 г. за изискванията към дейността на инвестиционните дружества и договорните фондове (ДВ, бр. 106 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3058)
+- [Наредба за изменение и допълнение на Наредба № 25 от 2006 г. за изискванията към дейността на инвестиционните дружества и договорните фондове (ДВ, бр. 27 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3476)
+- [Наредба за изменение и допълнение на Наредба № 25 от 2006 г. за изискванията към дейността на инвестиционните дружества и договорните фондове (ДВ, бр. 29 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4975)
+- [Наредба за изменение и допълнение на Наредба № 25 от 2006 г. за изискванията към дейността на инвестиционните дружества и договорните фондове (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30351)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 2 от 2003 г. за проспектите при публично предлагане на ценни книжа и за разкриването на информация от публичните дружества и другите емитенти на ценни книжа (ДВ, бр. 82 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4291)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2006 г. за изискванията към дейността на управляващите дружества (ДВ, бр. 87 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4368)
+- [Наредба за изменение и допълнение на Наредба № 16 от 2004 г. за условията и реда за извършване на маржин покупки, къси продажби и заем на ценни книжа (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5212)
+- [Наредба за изменение и допълнение на Наредба № 44 от 20.10.2011 г. за изискванията към дейността на колективните инвестиционни схеми, управляващите дружества, националните инвестиционни фондове и лицата, управляващи алтернативни инвестиционни фондове (ДВ, бр. 55 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174671)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

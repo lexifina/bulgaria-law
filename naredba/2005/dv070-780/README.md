@@ -32,6 +32,20 @@
 
 Act id: `naredba-2005-dv070-780` (tags `naredba-2005-dv070-780/<day>`; `python tools/on.py <day> naredba-2005-dv070-780`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 4 от 27 декември 2006 г. за ограничаване на вредния шум чрез шумоизолиране на сградите при тяхното проектиране и за правилата и нормите при изпълнението на строежите по отношение на шума, излъчван по време на строителството (ДВ, бр. 6 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3158)
+- [Наредба № 1 от 26 януари 2016 г. за хигиената на храните (ДВ, бр. 10 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100572)
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2011 г. за условията, размерите и реда за изплащане на допълнително възнаграждение за рискове за живота и здравето, които не могат да бъдат отстранени, ограничени или намалени, за военнослужещите и цивилните служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130912)
+- [Наредба № 12 от 16 ноември 2018 г. за здравните изисквания към обществените перални (ДВ, бр. 98 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132170)
+- [Постановление № 280 от 7 ноември 2019 г. за изменение и допълнение на Наредбата за трудовите и непосредствено свързани с тях отношения между членовете на екипажа и на обслужващия персонал на кораба и корабопритежателя (загл. доп. - ДВ, бр. 19 от 2018 г.), приета с Постановление № 226 на Министерския съвет от 2003 г. (ДВ, бр. 89 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142748)
+- [Наредба № 14 от 9 декември 2021 г. за хигиената на храните (ДВ, бр. 106 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=166256)
+- [Наредба № РД-06-3 от 23 февруари 2022 г. за осигуряване на здравословни и безопасни условия на труд в черната и цветната металургия (ДВ, бр. 19 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170289)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

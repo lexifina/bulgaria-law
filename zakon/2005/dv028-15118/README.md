@@ -70,6 +70,56 @@
 
 Act id: `zakon-2005-dv028-15118` (tags `zakon-2005-dv028-15118/<day>`; `python tools/on.py <day> zakon-2005-dv028-15118`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за политическите партии (ДВ, бр. 102 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1156)
+- [Закон за изменение и допълнение на Закона за политическите партии (ДВ, бр. 73 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2501)
+- [Закон за изменение и допълнение на Закона за политическите партии (ДВ, бр. 6 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14585)
+- [Закон за допълнение на Закона за политическите партии (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34631)
+- [Закон за изменение на Закона за политическите партии (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77657)
+- [Закон за допълнение на Закона за политическите партии (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94083)
+- [Закон за изменение на Закона за политическите партии (ДВ, бр. 50 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138624)
+- [Закон за допълнение на Закона за политическите партии (ДВ, бр. 54 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10034)
+- [Закон за изменение на Закона за политическите партии (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14432)
+- [Закон за допълнение на Закона за политическите партии (ДВ, бр. 32 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15222)
+- [Закон за изменение на Закона за политическите партии (ДВ, бр. 50 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157001)
+
+Cited by:
+
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 17 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1458)
+- [Граждански процесуален кодекс (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3951)
+- [Закон за дипломатическата служба (ДВ, бр. 78 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4183)
+- [Закон за държавния бюджет на Република България за 2011 г. (ДВ, бр. 99 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41460)
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43535)
+- [Закон за държавния бюджет на Република България за 2012 г. (ДВ, бр. 99 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59467)
+- [Закон за изменение и допълнение на Закона за публичност на имуществото на лица, заемащи висши държавни длъжности (ДВ, бр. 30 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74313)
+- [Закон за изменение на Закона за публичност на имуществото на лица, заемащи висши държавни, обществени и други длъжности в публичния и частния сектор (ДВ, бр. 71 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78072)
+- [Изборен кодекс (ДВ, бр. 19 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82965)
+- [Закон за счетоводството (ДВ, бр. 95 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99076)
+- [Закон за изменение и допълнение на Изборния кодекс (ДВ, бр. 39 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104043)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109662)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 86 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119036)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение на Закона за държавния бюджет на Република България за 2019 г. (ДВ, бр. 60 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139975)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154110)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 79 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227620)
+- [Изборен кодекс (ДВ, бр. 9 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10005)
+- [Закон за изменение и допълнение на Закона за публичност на имуществото на лица, заемащи висши държавни длъжности (ДВ, бр. 30 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14339)
+- [Закон за изменение на Закона за публичност на имуществото на лица, заемащи висши държавни, обществени и други длъжности в публичния и частния сектор (ДВ, бр. 71 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14423)
+- [Изборен кодекс (ДВ, бр. 19 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14715)
+- [Закон за счетоводството (ДВ, бр. 95 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15501)
+- [Закон за изменение и допълнение на Изборния кодекс (ДВ, бр. 39 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42031)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42241)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 86 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77724)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение на Закона за държавния бюджет на Република България за 2019 г. (ДВ, бр. 60 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157028)
+- [Закон за държавния бюджет на Република България за 2021 г. (ДВ, бр. 104 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163416)
+- [Закон за изменение и допълнение на Закона за независимия финансов одит (ДВ, бр. 79 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165596)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -67,6 +67,15 @@
 
 Act id: `naredba-2024-dv030-211380` (tags `naredba-2024-dv030-211380/<day>`; `python tools/on.py <day> naredba-2024-dv030-211380`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2023 г. за условията и реда за прилагане на интервенциите "Биологично растениевъдство" и "Биологично пчеларство", включени в Стратегическия план за развитието на земеделието и селските райони за периода 2023 - 2027 г. (ДВ, бр. 105 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231204)
+- [Наредба за изменение на Наредба № 2 от 2025 г. за условията и реда за предоставяне на подпомагане по интервенцията по чл. 76, параграф 3, буква "а" от Регламент (ЕС) 2021/2115, както и реда за налагане на административни санкции (ДВ, бр. 63 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236294)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

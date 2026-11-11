@@ -27,6 +27,19 @@
 
 Act id: `naredba-2008-dv009-4721` (tags `naredba-2008-dv009-4721/<day>`; `python tools/on.py <day> naredba-2008-dv009-4721`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отмeняне на Наредба № 40 от 7 януари 2008 г. за категориите данни и реда, по който се съхраняват и предоставят от предприятията, предоставящи обществени електронни съобщителни мрежи и/или услуги, за нуждите на националната сигурност и за разкриване на престъпления (ДВ, бр. 69 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=225042)
+
+Cited by:
+
+- [Решение № 13627 от 11 декември 2008 г. по адм. дело № 11799 от 2008 г. (ДВ, бр. 108 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13311)
+- [Неофициален раздел на "Държавен вестник", брой 43 от 29.04.2008 г. (ДВ, бр. 43 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142816)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

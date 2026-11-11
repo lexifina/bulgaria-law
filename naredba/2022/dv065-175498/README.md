@@ -46,6 +46,15 @@
 
 Act id: `naredba-2022-dv065-175498` (tags `naredba-2022-dv065-175498/<day>`; `python tools/on.py <day> naredba-2022-dv065-175498`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 44 от 28 юли 2022 г. за условията и реда за избор на независими оценители по чл. 55а от Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 99 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230596)
+- [Наредба за изменение на Наредба № 44 от 28 юли 2022 г. за условията и реда за избор на независими оценители по чл. 55а от Закона за възстановяване и преструктуриране на кредитни институции и инвестиционни посредници (ДВ, бр. 109 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239810)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

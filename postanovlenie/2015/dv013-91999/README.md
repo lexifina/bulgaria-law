@@ -22,6 +22,15 @@
 
 Act id: `postanovlenie-2015-dv013-91999` (tags `postanovlenie-2015-dv013-91999/<day>`; `python tools/on.py <day> postanovlenie-2015-dv013-91999`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за реда за водене на регистрите при Министерството на регионалното развитие и благоустройството на Европейските групи за териториално сътрудничество със седалище в Република България и на българските юридически лица, които членуват в такива групи със седалище извън територията на Република България (ДВ, бр. 66 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96867)
+- [Постановление № 171 от 16 август 2017 г. за приемане на Устройствен правилник на Министерството на регионалното развитие и благоустройството (ДВ, бр. 68 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117191)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

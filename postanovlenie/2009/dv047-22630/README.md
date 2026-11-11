@@ -25,6 +25,18 @@
 
 Act id: `postanovlenie-2009-dv047-22630` (tags `postanovlenie-2009-dv047-22630/<day>`; `python tools/on.py <day> postanovlenie-2009-dv047-22630`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 166 от 30 юни 2009 г. за изменение и допълнение на Постановление № 156 на Министерския съвет от 2009 г. за ограничаване на нелихвени разходи за 2009 г. в бюджетните предприятия (ДВ, бр. 52 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23097)
+
+Cited by:
+
+- [Постановление № 191 от 3 август 2009 г. за оптимизиране и ограничаване на разходите по бюджетите за 2009 г. (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24083)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

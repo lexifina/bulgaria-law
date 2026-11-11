@@ -53,6 +53,14 @@
 
 Act id: `naredba-2018-dv099-132315` (tags `naredba-2018-dv099-132315/<day>`; `python tools/on.py <day> naredba-2018-dv099-132315`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2018 г. за условията и реда за признаване на организации на производители на продукти от риболов и на продукти от аквакултури, асоциации на организации на производители и междубраншови организации в сектора на рибарството и за одобрение на планове за производство и предлагане на пазара (ДВ, бр. 35 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=190240)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

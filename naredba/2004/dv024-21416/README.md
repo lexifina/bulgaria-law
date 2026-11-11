@@ -29,6 +29,18 @@
 
 Act id: `naredba-2004-dv024-21416` (tags `naredba-2004-dv024-21416/<day>`; `python tools/on.py <day> naredba-2004-dv024-21416`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 55 от 2003 г. за условията и реда за одобрение на типа на нови колесни трактори по отношение на устройствата за осветяване и светлинна сигнализация (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2613)
+- [Наредба за изменение и допълнение на Наредба № 88 от 2004 г. за одобряване типа на светлинни устройства за паркиране на нови моторни превозни средства (ДВ, бр. 90 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2791)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

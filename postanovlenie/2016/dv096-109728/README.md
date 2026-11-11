@@ -15,6 +15,15 @@
 
 Act id: `postanovlenie-2016-dv096-109728` (tags `postanovlenie-2016-dv096-109728/<day>`; `python tools/on.py <day> postanovlenie-2016-dv096-109728`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 28 от 10 март 2022 г. за изменение на Постановление № 328 на Министерския съвет от 2016 г. за одобряване на промени по бюджета на Министерството на енергетиката за 2016 г. за изплащане на задълженията на "Национална електрическа компания" - ЕАД, съгласно решение по Арбитражно дело ICC CASE 18086/GZ/MHM (ДВ, бр. 21 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170960)
+- [Постановление № 52 от 13 април 2022 г. за изменение на Постановление № 328 на Министерския съвет от 2016 г. за одобряване на промени по бюджета на Министерството на енергетиката за 2016 г. за изплащане на задълженията на "Национална електрическа компания" - ЕАД, съгласно решение по Арбитражно дело ICC CASE 18086/GZ/MHM (ДВ, бр. 31 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172190)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

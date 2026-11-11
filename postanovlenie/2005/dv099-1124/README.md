@@ -74,6 +74,23 @@
 
 Act id: `postanovlenie-2005-dv099-1124` (tags `postanovlenie-2005-dv099-1124/<day>`; `python tools/on.py <day> postanovlenie-2005-dv099-1124`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 304 от 14 декември 2007 г. за изменение и допълнение на Наредбата за контрола и координацията на контрола върху вината, спирта, дестилатите и спиртните напитки, приета с Постановление № 232 на Министерския съвет от 2005 г. (ДВ, бр. 110 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4584)
+
+Cited by:
+
+- [Наредба № 106 от 23 август 2006 г. за условията и реда за предаването на вторичните продукти от винопроизводството за задължителна дестилация, изискванията, на които трябва да отговарят, и контрола върху тях (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2676)
+- [Постановление № 331 от 28 декември 2007 г. за изменение и допълнение на Наредбата за правилата и изискванията за производството на регионални вина, приета с Постановление № 4 на Министерския съвет от 2002 г. (ДВ, бр. 3 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4649)
+- [Постановление № 3 от 15 януари 2008 г. за изменение на Наредбата за условията, на които трябва да отговарят качествените вина, произведени в определен район, реда и начина за тяхното утвърждаване, приета с Постановление № 53 на Министерския съвет от 2000 г. (ДВ, бр. 7 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4695)
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 24 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31375)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -29,6 +29,20 @@
 
 Act id: `postanovlenie-2006-dv077-2563` (tags `postanovlenie-2006-dv077-2563/<day>`; `python tools/on.py <day> postanovlenie-2006-dv077-2563`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 324 от 1 декември 2011 г. за изменение и допълнение на Наредбата за организация на работното време на лицата, които извършват транспортни дейности в автомобилния транспорт, приета с Постановление № 244 на Министерския съвет от 2006 г. (ДВ, бр. 97 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59206)
+
+Cited by:
+
+- [Наредба № H-3 от 7 април 2009 г. за необходимите мерки за изпълнението и прилагането на Регламент (ЕИО) № 3821/85 на Съвета от 20 декември 1985 г. относно контролните уреди за регистриране на данните за движението при автомобилен транспорт и Регламент (ЕО) № 561/2006 на Европейския парламент и на Съвета от 15 март 2006 г. за хармонизиране на някои разпоредби от социалното законодателство, свързани с автомобилния транспорт, за изменение на Регламенти (ЕИО) № 3821/85 и (ЕО) № 2135/98 на Съвета и за отмяна на Регламент (ЕИО) № 3820/85 на Съвета (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19340)
+- [Наредба за изменение и допълнение на Наредба № 33 от 1999 г. за обществен превоз на пътници и товари на територията на Република България (ДВ, бр. 52 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66074)
+- [Решение № 11701 от 2 ноември 2016 г. по административно дело № 11052 от 2015 г. (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112176)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

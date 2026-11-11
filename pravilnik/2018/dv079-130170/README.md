@@ -35,6 +35,14 @@
 
 Act id: `pravilnik-2018-dv079-130170` (tags `pravilnik-2018-dv079-130170/<day>`; `python tools/on.py <day> pravilnik-2018-dv079-130170`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за функциите, задачите и състава на Консултативния съвет по въпросите на морското пространствено планиране към министъра на регионалното развитие и благоустройството (ДВ, бр. 1 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=182640)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

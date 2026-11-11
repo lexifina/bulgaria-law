@@ -31,6 +31,20 @@
 
 Act id: `naredba-2015-dv036-94446` (tags `naredba-2015-dv036-94446/<day>`; `python tools/on.py <day> naredba-2015-dv036-94446`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-532 от 2015 г. за условията и реда за използване на автоматизирани технически средства и системи за контрол на правилата за движение по пътищата (ДВ, бр. 6 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121498)
+- [Наредба за изменение и допълнение на Наредба № 8121з-532 от 2015 г. за условията и реда за използване на автоматизирани технически средства и системи за контрол на правилата за движение по пътищата (ДВ, бр. 34 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242335)
+
+Cited by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-749 от 2014 г. за реда и организацията за осъществяване на дейностите по контрол на пътното движение (ДВ, бр. 104 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120992)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-749 от 2014 г. за реда и организацията за осъществяване на дейностите по контрол на пътното движение (ДВ, бр. 7 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155193)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -51,6 +51,29 @@
 
 Act id: `postanovlenie-2010-dv062-35669` (tags `postanovlenie-2010-dv062-35669/<day>`; `python tools/on.py <day> postanovlenie-2010-dv062-35669`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 288 от 21 октомври 2015 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по околна среда, приет с Постановление № 162 на Министерския съвет от 2010 г. (ДВ, бр. 84 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98247)
+- [Постановление № 331 от 17 октомври 2022 г. за приемане на Устройствен правилник на Изпълнителната агенция по околна среда (ДВ, бр. 84 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179035)
+
+Cited by:
+
+- [Постановление № 39 от 14 февруари 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45201)
+- [Постановление № 103 от 15 април 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=48743)
+- [Постановление № 344 от 16 декември 2011 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 102 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59646)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 58 от 14 март 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 27 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83544)
+- [Постановление № 102 от 24 април 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94099)
+- [Постановление № 313 от 22 ноември 2016 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109551)
+- [Постановление № 208 от 27 септември 2017 г. за приемане на Устройствен правилник на Министерството на околната среда и водите (ДВ, бр. 80 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118279)
+- [Постановление № 355 от 31 декември 2018 г. за изменение и допълнение на Устройствения правилник на Министерството на околната среда и водите, приет с Постановление № 208 на Министерския съвет от 2017 г. (ДВ, бр. 3 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133517)
+- [Постановление № 45 от 14 март 2019 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 23 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135741)
+- [Постановление № 234 от 18 септември 2019 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 74 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141394)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

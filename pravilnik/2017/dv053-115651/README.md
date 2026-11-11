@@ -102,6 +102,23 @@
 
 Act id: `pravilnik-2017-dv053-115651` (tags `pravilnik-2017-dv053-115651/<day>`; `python tools/on.py <day> pravilnik-2017-dv053-115651`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за финансов надзор и на нейната администрация (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123125)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за финансов надзор и на нейната администрация (ДВ, бр. 45 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126856)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за финансов надзор и на нейната администрация (ДВ, бр. 86 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179183)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за финансов надзор и на нейната администрация (ДВ, бр. 100 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238979)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за финансов надзор и на нейната администрация (ДВ, бр. 18 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241226)
+
+Cited by:
+
+- [Заповед № 307 от 27 март 2020 г. (ДВ, бр. 33 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147246)
+- [Заповед № З-137(1) от 10 февруари 2021 г. (ДВ, бр. 15 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155935)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

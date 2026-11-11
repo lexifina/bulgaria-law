@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2024-dv050-218040` (tags `postanovlenie-2024-dv050-218040/<day>`; `python tools/on.py <day> postanovlenie-2024-dv050-218040`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 54 от 12 май 2025 г. за приемане на Списък на продуктите, свързани с отбраната, и на Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 40 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234764)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

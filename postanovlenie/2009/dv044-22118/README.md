@@ -217,6 +217,22 @@
 
 Act id: `postanovlenie-2009-dv044-22118` (tags `postanovlenie-2009-dv044-22118/<day>`; `python tools/on.py <day> postanovlenie-2009-dv044-22118`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 215 от 22 октомври 2026 г. за изменение на Правилника за прилагане на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 98 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246747)
+
+Cited by:
+
+- [Правилник за устройството и дейността на Института по отбрана (ДВ, бр. 50 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22725)
+- [Постановление № 244 от 15 октомври 2009 г. за изменение и допълнение на Наредбата за елементите на възнаграждението и за доходите, върху които се правят осигурителни вноски, приета с Постановление № 263 на Министерския съвет от 1999 г. (ДВ, бр. 84 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26000)
+- [Постановление № 260 от 2 ноември 2009 г. за приемане на Правилник за структурата, организацията и реда за използване на Националната гвардейска част (ДВ, бр. 89 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26580)
+- [Постановление № 46 от 22 март 2010 г. за приемане на Правилник за прилагане на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 25 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31361)
+- [Постановление № 54 от 1 април 2010 г. за приемане на Устройствен правилник на Министерството на отбраната и за определяне на структури на пряко подчинение на министъра на отбраната (ДВ, бр. 27 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31710)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

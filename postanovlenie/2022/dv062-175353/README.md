@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2022-dv062-175353` (tags `postanovlenie-2022-dv062-175353/<day>`; `python tools/on.py <day> postanovlenie-2022-dv062-175353`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 376 от 24 ноември 2022 г. за изменение и допълнение на Постановление № 205 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на финансите за 2022 г. (ДВ, бр. 95 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180612)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

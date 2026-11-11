@@ -120,6 +120,29 @@
 
 Act id: `naredba-2007-dv034-3557` (tags `naredba-2007-dv034-3557/<day>`; `python tools/on.py <day> naredba-2007-dv034-3557`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 58 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3947)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 45 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22050)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 94 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79900)
+- [Наредба за изменение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 99 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80388)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 42 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94928)
+- [Наредба за изменение и допълнение на Наредба № 16-334 от 2007 г. за топлоснабдяването (ДВ, бр. 74 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141313)
+
+Cited by:
+
+- [№ 10624/2010 г. (ДВ, бр. 82 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37886)
+- [Поправки на технически грешки в Наредба № 16-334 от 6 април 2007 г. за топлоснабдяването на Министерство на икономиката и енергетиката (ДВ, бр. 34 от 2007 г.) (ДВ, бр. 39 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45336)
+- [адм. д. № 13542/2011 г. (ДВ, бр. 88 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58259)
+- [Наредба за изменение и допълнение на Наредба № 15 от 2005 г. за технически правила и нормативи за проектиране, изграждане и експлоатация на обектите и съоръженията за производство, пренос и разпределение на топлинна енергия (ДВ, бр. 6 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99880)
+- [Наредба № Е-РД-04-1 от 12 март 2020 г. за топлоснабдяването (ДВ, бр. 25 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146992)
+- [Решение № 11603 от 31 юли 2019 г. по административно дело № 13721 от 2017 г. (ДВ, бр. 60 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149468)
+- [адм. дело № 4676/2020 г. (ДВ, бр. 94 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201086)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

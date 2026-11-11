@@ -31,6 +31,19 @@
 
 Act id: `naredba-2007-dv019-3360` (tags `naredba-2007-dv019-3360/<day>`; `python tools/on.py <day> naredba-2007-dv019-3360`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 28 от 20 юни 2007 г. за дейности по асистирана репродукция (ДВ, бр. 55 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3899)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2007 г. за утвърждаване на медицински стандарт за трансплантация на органи, тъкани и клетки (ДВ, бр. 66 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67872)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2007 г. за утвърждаване на медицински стандарт за трансплантация на органи, тъкани и клетки (ДВ, бр. 99 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89961)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2007 г. за условията и реда за регистриране и отчитане на дейностите по експертиза, вземане, присаждане, обработка, преработка, съхраняване и етикетиране на органи, тъкани и клетки и за изготвяне на ежегодни отчети от лечебните заведения (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112889)
+- [Наредба № 1 от 26 март 2019 г. за условията и реда за извършване на проверки от Изпълнителна агенция "Медицински надзор" (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136157)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

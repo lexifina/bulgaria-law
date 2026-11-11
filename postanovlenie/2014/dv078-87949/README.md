@@ -21,6 +21,18 @@
 
 Act id: `postanovlenie-2014-dv078-87949` (tags `postanovlenie-2014-dv078-87949/<day>`; `python tools/on.py <day> postanovlenie-2014-dv078-87949`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 55 от 30 април 2026 г. за изменение на Наредбата за условията и реда за изплащане на компенсационни суми на държавните служители от Държавна агенция "Национална сигурност", които ползват жилище при условията на свободно договаряне, приета с Постановление № 80 на Министерския съвет от 2008 г. (ДВ, бр. 41 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243193)
+
+Cited by:
+
+- [Постановление № 9 от 15 януари 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240709)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2013-dv092-79792` (tags `postanovlenie-2013-dv092-79792/<day>`; `python tools/on.py <day> postanovlenie-2013-dv092-79792`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 63 от 19 март 2015 г. за изменение на Постановление № 237 на Министерския съвет от 2013 г. за изменение на Наредбата за изискванията към етикетирането, маркировката и външното оформление на тютюневите изделия и за определяне на стандарти за извършване на оценка на съответствието на съдържанието на вредни съставки в цигарите, приета с Постановление № 184 на Министерския съвет от 2004 г. (ДВ, бр. 22 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93163)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

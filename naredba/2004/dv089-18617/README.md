@@ -29,6 +29,15 @@
 
 Act id: `naredba-2004-dv089-18617` (tags `naredba-2004-dv089-18617/<day>`; `python tools/on.py <day> naredba-2004-dv089-18617`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 172 от 22 юли 2005 г. за изменение и допълнение на Тарифата за таксите, които се събират от Националната ветеринарномедицинска служба по Закона за ветеринарномедицинската дейност, одобрена с Постановление № 166 на Министерския съвет от 2002 г. (ДВ, бр. 62 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=664)
+- [Наредба № 60 от 9 май 2006 г. за изискванията към данните, които съдържа документацията за издаване на лиценз за употреба на ветеринарномедицински продукти (ДВ, бр. 50 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2091)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

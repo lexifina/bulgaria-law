@@ -45,6 +45,21 @@
 
 Act id: `naredba-2004-dv024-21411` (tags `naredba-2004-dv024-21411/<day>`; `python tools/on.py <day> naredba-2004-dv024-21411`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 83 от 2004 г. за одобряване типа на нови моторни превозни средства и техните ремаркета по отношение на отоплителните системи и за одобряване типа на отоплител (ДВ, бр. 39 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1881)
+- [Наредба за изменение и допълнение на Наредба № 83 от 2004 г. за одобряване типа на нови моторни превозни средства и техните ремаркета по отношение на отоплителните системи и за одобряване типа на отоплител (ДВ, бр. 92 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2826)
+
+Cited by:
+
+- [Наредба № 130 от 18 август 2005 г. за одобряване типа на определени компоненти, отделни технически възли и системи, предназначени за дву- и триколесни моторни превозни средства и за одобряване типа на нови дву- и триколесни моторни превозни средства по отношение на определени компоненти, отделни технически възли, системи и характеристики (ДВ, бр. 76 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=859)
+- [Наредба за изменение и допълнение на Наредба № 83 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение на отоплителните системи и за ЕО одобряване типа на отоплител (ДВ, бр. 79 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4209)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

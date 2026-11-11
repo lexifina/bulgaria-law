@@ -42,6 +42,14 @@
 
 Act id: `naredba-2022-dv064-175346` (tags `naredba-2022-dv064-175346/<day>`; `python tools/on.py <day> naredba-2022-dv064-175346`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 38 от 21.05.2020 г. за изискванията към дейността на инвестиционните посредници (ДВ, бр. 36 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=190379)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

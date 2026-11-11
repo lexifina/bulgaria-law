@@ -20,6 +20,16 @@
 
 Act id: `postanovlenie-2004-dv109-18172` (tags `postanovlenie-2004-dv109-18172/<day>`; `python tools/on.py <day> postanovlenie-2004-dv109-18172`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 20 от 12 ноември 2004 г. за обстоятелствата и реда за вписване на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност, и получаване на информация (ДВ, бр. 5 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14700)
+- [Постановление № 296 от 31 октомври 2011 г. за приемане на Устройствен правилник на Агенцията за устойчиво енергийно развитие (ДВ, бр. 88 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=58247)
+- [Постановление № 26 от 10 февруари 2012 г. за приемане на Тарифа за таксите, които се събират от Агенцията за устойчиво енергийно развитие по Закона за енергийната ефективност и Закона за енергията от възобновяеми източници (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61550)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

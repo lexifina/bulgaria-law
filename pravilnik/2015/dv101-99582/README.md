@@ -54,6 +54,15 @@
 
 Act id: `pravilnik-2015-dv101-99582` (tags `pravilnik-2015-dv101-99582/<day>`; `python tools/on.py <day> pravilnik-2015-dv101-99582`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове (ДВ, бр. 54 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127537)
+- [Правилник за изменение и допълнение на Правилника за дейността на Помирителната комисия за платежни спорове (ДВ, бр. 59 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244248)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

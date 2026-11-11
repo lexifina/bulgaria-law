@@ -56,6 +56,20 @@
 
 Act id: `naredba-2014-dv010-82383` (tags `naredba-2014-dv010-82383/<day>`; `python tools/on.py <day> naredba-2014-dv010-82383`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за регулиране на цените на топлинната енергия (ДВ, бр. 52 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127497)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за регулиране на цените на топлинната енергия (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148352)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за регулиране на цените на електрическата енергия (ДВ, бр. 17 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83061)
+- [Наредба за изменение и допълнение на Наредба № 6 от 28.03.2024 г. за присъединяване на обекти към електрическите мрежи (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242626)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

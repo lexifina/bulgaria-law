@@ -78,6 +78,22 @@
 
 Act id: `postanovlenie-2007-dv040-3667` (tags `postanovlenie-2007-dv040-3667/<day>`; `python tools/on.py <day> postanovlenie-2007-dv040-3667`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 169 от 11 юли 2008 г. за допълнение на Правилника за организацията и дейността на Междуведомствената комисия за възстановяване и подпомагане към Министерския съвет, приет с Постановление № 106 на Министерския съвет от 2007 г. (ДВ, бр. 65 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6507)
+- [Постановление № 136 от 29 май 2009 г. за изменение и допълнение на Правилника за организацията и дейността на Междуведомствената комисия за възстановяване и подпомагане към Министерския съвет, приет с Постановление № 106 на Министерския съвет от 2007 г. (ДВ, бр. 43 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21883)
+- [Постановление № 327 от 29 ноември 2016 г. за изменение и допълнение на Правилника за организацията и дейността на Междуведомствената комисия за възстановяване и подпомагане към Министерския съвет (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109703)
+
+Cited by:
+
+- [Постановление № 124 от 2 юни 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5319)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 58 от 6 април 2010 г. за приемане на Правилник за организацията и дейността на Междуведомствената комисия за възстановяване и подпомагане към Министерския съвет (ДВ, бр. 28 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31819)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -36,6 +36,14 @@
 
 Act id: `instruktsiya-2011-dv058-55170` (tags `instruktsiya-2011-dv058-55170/<day>`; `python tools/on.py <day> instruktsiya-2011-dv058-55170`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция за отменяне на Инструкция № И-4 от 2011 г. за подбора на военнослужещи и граждански лица за работа в служба "Военна информация" и на Инструкция № 2 от 2011 г. за определяне на реда за създаване, използване и закриване на информационните фондове и за контрола върху тях в служба "Военна информация" (ДВ, бр. 61 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116401)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -30,6 +30,17 @@
 
 Act id: `naredba-2004-dv053-20058` (tags `naredba-2004-dv053-20058/<day>`; `python tools/on.py <day> naredba-2004-dv053-20058`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 101 от 2004 г. за одобряване типа на нови моторни превозни средства от категория N по отношение на външните изпъкнали части пред задния панел на кабината (ДВ, бр. 100 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2950)
+- [Наредба за изменение и допълнение на Наредба № 108 от 2004 г. за одобряване типа на нови моторни превозни средства от категория М1 по отношение на калниците (ДВ, бр. 6 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3162)
+- [Наредба за изменение и допълнение на Наредба № 115 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение монтирането на системите против изпръскване и за ЕО одобряване на типа устройства против изпръскване (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52195)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

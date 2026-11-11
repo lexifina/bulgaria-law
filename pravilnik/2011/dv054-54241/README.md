@@ -57,6 +57,22 @@
 
 Act id: `pravilnik-2011-dv054-54241` (tags `pravilnik-2011-dv054-54241/<day>`; `python tools/on.py <day> pravilnik-2011-dv054-54241`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 104 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59780)
+- [Правилник за допълнение на Правилника за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 67 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77853)
+- [Правилник за изменение на Правилника за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 108 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81156)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилникa за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 62 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67378)
+- [Правилник за изменение и допълнение на Правилникa за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94791)
+- [Правилник за изменение и допълнение на Правилникa за организацията и дейността на Комисията за предотвратяване и установяване на конфликт на интереси (ДВ, бр. 90 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98751)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

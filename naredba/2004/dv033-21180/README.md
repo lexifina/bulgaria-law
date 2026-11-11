@@ -40,6 +40,18 @@
 
 Act id: `naredba-2004-dv033-21180` (tags `naredba-2004-dv033-21180/<day>`; `python tools/on.py <day> naredba-2004-dv033-21180`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 96 от 2004 г. за одобряване типа на нови моторни превозни средства от категории М1 и N1 по отношение защитата на пътниците при страничен удар (ДВ, бр. 99 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2926)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

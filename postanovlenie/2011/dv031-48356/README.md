@@ -27,6 +27,14 @@
 
 Act id: `postanovlenie-2011-dv031-48356` (tags `postanovlenie-2011-dv031-48356/<day>`; `python tools/on.py <day> postanovlenie-2011-dv031-48356`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 273 от 1 ноември 2012 г. за изменение и допълнение на Наредбата за мястото и начина на нанасяне на уникалната идентификация на взривните вещества за граждански цели, приета с Постановление № 94 на Министерския съвет от 2011 г. (ДВ, бр. 87 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70103)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

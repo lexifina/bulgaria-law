@@ -38,6 +38,20 @@
 
 Act id: `naredba-2008-dv084-9010` (tags `naredba-2008-dv084-9010/<day>`; `python tools/on.py <day> naredba-2008-dv084-9010`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № I-1 от 2008 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 31 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19367)
+- [Наредба за изменение на Наредба № І-1 от 2008 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 43 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33426)
+- [Наредба за изменение на Наредба № I-1 от 2008 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 6 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60223)
+
+Cited by:
+
+- [Наредба № І-3 от 13 ноември 2015 г. за специфичните изисквания, условията и реда за постъпване на държавна служба в Държавна агенция "Национална сигурност" (ДВ, бр. 90 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98819)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

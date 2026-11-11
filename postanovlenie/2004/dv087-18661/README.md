@@ -28,6 +28,14 @@
 
 Act id: `postanovlenie-2004-dv087-18661` (tags `postanovlenie-2004-dv087-18661/<day>`; `python tools/on.py <day> postanovlenie-2004-dv087-18661`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 146 от 25 юни 2008 г. за приемане на Наредба за реда за предоставяне и унищожаване на отнети в полза на държавата вещи по Закона за електронните съобщения (ДВ, бр. 59 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5603)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

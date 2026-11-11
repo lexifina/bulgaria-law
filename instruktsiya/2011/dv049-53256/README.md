@@ -20,6 +20,18 @@
 
 Act id: `instruktsiya-2011-dv049-53256` (tags `instruktsiya-2011-dv049-53256/<day>`; `python tools/on.py <day> instruktsiya-2011-dv049-53256`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № И-1 от 2011 г. за организацията, готовността и реда за действие на дежурните сили и средства от Българската армия за контрол над въздухоплаването при охрана на въздушното пространство на Република България (ДВ, бр. 45 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65359)
+
+Cited by:
+
+- [Инструкция № И-3 от 5 септември 2023 г. за организацията, готовността и реда за действие на дежурните сили и средства от Българската армия, осъществяващи контрол над въздухоплаването при охрана на въздушното пространство на Република България (ДВ, бр. 80 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199561)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

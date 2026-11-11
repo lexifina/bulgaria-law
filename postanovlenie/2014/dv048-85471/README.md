@@ -24,6 +24,24 @@
 
 Act id: `postanovlenie-2014-dv048-85471` (tags `postanovlenie-2014-dv048-85471/<day>`; `python tools/on.py <day> postanovlenie-2014-dv048-85471`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 133 от 5 юли 2017 г. за изменение и допълнение на Постановление № 138 на Министерския съвет от 2014 г. за създаване на Национален съвет по демографска политика към Министерския съвет (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115891)
+- [Постановление № 42 от 7 март 2019 г. за изменение на Постановление № 138 на Министерския съвет от 2014 г. за създаване на Национален съвет по демографска политика към Министерския съвет (ДВ, бр. 21 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135504)
+- [Постановление № 112 от 2 юни 2022 г. за изменение и допълнение на Постановление № 138 на Министерския съвет от 2014 г. за създаване на Национален съвет по демографска политика към Министерския съвет (ДВ, бр. 42 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173861)
+- [Постановление № 10 от 15 януари 2026 г. за изменение и допълнение на Постановление № 138 на Министерския съвет от 2014 г. за създаване на Национален съвет по демографска политика към Министерския съвет (ДВ, бр. 7 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240710)
+
+Cited by:
+
+- [Постановление № 183 от 4 август 2020 г. за приемане на Правилник за прилагане за Закона за регионалното развитие (ДВ, бр. 70 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=150658)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 73 от 5 май 2022 г. за преобразуване на Държавната агенция за българите в чужбина към Министерския съвет в Изпълнителна агенция за българите в чужбина към министъра на външните работи (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173148)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

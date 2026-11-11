@@ -13,6 +13,15 @@
 
 Act id: `naredba-2015-dv083-98190` (tags `naredba-2015-dv083-98190/<day>`; `python tools/on.py <day> naredba-2015-dv083-98190`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредбата за изменение и допълнение на Наредба № Н-18 от 2006 г. за регистриране и отчитане чрез фискални устройства на продажбите в търговските обекти, изискванията към софтуерите за управлението им и изисквания към лицата, които извършват продажби чрез електронен магазин (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145589)
+- [Наредба за изменение на Наредбата за изменение и допълнение на Наредба № Н-18 от 2006 г. за регистриране и отчитане на продажби в търговските обекти чрез фискални устройства (ДВ, бр. 110 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=167034)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

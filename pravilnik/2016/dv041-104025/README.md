@@ -37,6 +37,17 @@
 
 Act id: `pravilnik-2016-dv041-104025` (tags `pravilnik-2016-dv041-104025/<day>`; `python tools/on.py <day> pravilnik-2016-dv041-104025`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 1 от 2012 г. за реда за водене на Регистъра на научната дейност в Република България (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112173)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137724)
+- [Правилник за допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 47 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148210)
+- [Правилник за изменение и допълнение на Правилника на Фонд "Научни изследвания" (ДВ, бр. 93 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=164309)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

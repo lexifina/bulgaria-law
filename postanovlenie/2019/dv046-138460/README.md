@@ -28,6 +28,25 @@
 
 Act id: `postanovlenie-2019-dv046-138460` (tags `postanovlenie-2019-dv046-138460/<day>`; `python tools/on.py <day> postanovlenie-2019-dv046-138460`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 296 от 30 октомври 2020 г. за изменение и допълнение на Постановление № 142 на Министерския съвет от 2019 г. за разработване на стратегическите и програмните документи на Република България за управление на средствата от фондовете на Европейския съюз за програмния период 2021 - 2027 г. (ДВ, бр. 94 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153165)
+
+Cited by:
+
+- [Постановление № 202 от 15 август 2019 г. за изменение на Наредбата за посочване на нередности, представляващи основания за извършване на финансови корекции, и процентните показатели за определяне размера на финансовите корекции по реда на Закона за управление на средствата от Европейските структурни и инвестиционни фондове, приета с Постановление № 57 на Министерския съвет от 2017 г. (ДВ, бр. 67 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140716)
+- [Постановление № 30 от 10 март 2022 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 21 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170962)
+- [Постановление № 197 от 26 юли 2022 г. за създаване на Институт за стратегически анализи и прогнози и за приемане на Устройствен правилник на Института за стратегически анализи и прогнози (ДВ, бр. 60 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175221)
+- [Постановление № 280 от 15 септември 2022 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 75 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178194)
+- [Постановление № 340 от 21 октомври 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179216)
+- [Постановление № 104 от 21 юли 2023 г. за създаване на Институт за анализи и прогнози и за приемане на Устройствен правилник на Института за анализи и прогнози (ДВ, бр. 63 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197678)
+- [Постановление № 265 от 26 юли 2024 г. за закриване на Института за анализи и прогнози (ДВ, бр. 64 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223301)
+- [Постановление № 15 от 5 март 2025 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 19 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233321)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -30,6 +30,14 @@
 
 Act id: `pravilnik-2019-dv009-134210` (tags `pravilnik-2019-dv009-134210/<day>`; `python tools/on.py <day> pravilnik-2019-dv009-134210`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за дейността на Националния консултативен съвет за младежта (ДВ, бр. 63 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140382)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

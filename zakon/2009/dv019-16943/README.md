@@ -34,6 +34,21 @@
 
 Act id: `zakon-2009-dv019-16943` (tags `zakon-2009-dv019-16943/<day>`; `python tools/on.py <day> zakon-2009-dv019-16943`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=37196)
+- [Закон за изменение на Закона за административните нарушения и наказания (ДВ, бр. 77 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68830)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за марките и географските означения (ДВ, бр. 98 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143373)
+- [Закон за изменение и допълнение на Закона за държавния служител (ДВ, бр. 77 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10054)
+- [Закон за изменение на Закона за административните нарушения и наказания (ДВ, бр. 77 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14074)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за марките и географските означения (ДВ, бр. 98 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157029)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

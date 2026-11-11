@@ -26,6 +26,19 @@
 
 Act id: `instruktsiya-2006-dv022-1544` (tags `instruktsiya-2006-dv022-1544/<day>`; `python tools/on.py <day> instruktsiya-2006-dv022-1544`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 1 от 2006 г. за реда и начина за служебно разпределение на лицата, неизбрали фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 46 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22185)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 33 от 2006 г. за индивидуалните заявления за участие във фонд за допълнително задължително пенсионно осигуряване (ДВ, бр. 62 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106162)
+- [Инструкция № 1 от 28 юли 2026 г. за реда, начина и критериите за служебно разпределение на лицата, неизбрали фонд за допълнително задължително пенсионно осигуряване, и определяне на отклоненията от постигнатата доходност (ДВ, бр. 74 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245294)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

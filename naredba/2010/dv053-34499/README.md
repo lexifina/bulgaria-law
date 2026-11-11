@@ -13,6 +13,18 @@
 
 Act id: `naredba-2010-dv053-34499` (tags `naredba-2010-dv053-34499/<day>`; `python tools/on.py <day> naredba-2010-dv053-34499`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 37 от 20 август 2010 г. за утвърждаване на медицински стандарт "Неврохирургия" (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36259)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 92 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=40353)
+- [адм. д. № 16193/2013 г. (ДВ, бр. 11 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82391)
+- [Наредба № 19 от 22 декември 2014 г. за утвърждаване на медицински стандарт "Акушерство и гинекология" (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90884)
+- [Наредба № 3 от 27 януари 2015 г. за утвърждаване на общи медицински стандарти по хирургия, неврохирургия, гръдна хирургия, кардиохирургия, съдова хирургия, детска хирургия, пластично-възстановителна и естетична хирургия и лицево-челюстна хирургия (ДВ, бр. 11 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91816)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

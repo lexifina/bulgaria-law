@@ -37,6 +37,21 @@
 
 Act id: `naredba-2006-dv056-2195` (tags `naredba-2006-dv056-2195/<day>`; `python tools/on.py <day> naredba-2006-dv056-2195`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 80 от 2006 г. за производство и търговия на размножителен материал от декоративни растения, извършвана между държавите -членки на Европейския съюз (ДВ, бр. 14 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3271)
+
+Cited by:
+
+- [Наредба № 12 от 1 юни 2007 г. за процедурите по сертификация и/или одобрение на произвеждания и търгуван посадъчен материал от групите земеделски растения - овощни, лоза, декоративни и зеленчукови видове (ДВ, бр. 45 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3775)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 87 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130806)
+- [Наредба за изменение и допълнение на Наредба № 99 от 2006 г. за търговия на посевен материал от фуражни култури на пазара на Европейския съюз (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173655)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201446)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

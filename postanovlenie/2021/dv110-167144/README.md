@@ -16,6 +16,16 @@
 
 Act id: `postanovlenie-2021-dv110-167144` (tags `postanovlenie-2021-dv110-167144/<day>`; `python tools/on.py <day> postanovlenie-2021-dv110-167144`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 292 от 28 септември 2022 г. за възстановяване на средства по бюджета на Министерството на здравеопазването за 2022 г. (ДВ, бр. 79 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178479)
+- [Постановление № 314 от 6 октомври 2022 г. за възстановяване на средства по бюджета на Министерството на здравеопазването за 2022 г. (ДВ, бр. 81 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178731)
+- [Постановление № 322 от 16 декември 2025 г. за одобряване на вътрешнокомпенсирани промени на утвърдените разходи по области на политики/бюджетни програми по бюджета на Министерството на здравеопазването за 2025 г. (ДВ, бр. 112 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240075)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

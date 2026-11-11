@@ -101,6 +101,14 @@
 
 Act id: `naredba-2013-dv092-79685` (tags `naredba-2013-dv092-79685/<day>`; `python tools/on.py <day> naredba-2013-dv092-79685`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за кариерното развитие на дипломатическите служители и ротацията на служителите в дипломатическата служба (ДВ, бр. 96 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230242)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

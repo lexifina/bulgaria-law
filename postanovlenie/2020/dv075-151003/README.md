@@ -28,6 +28,20 @@
 
 Act id: `postanovlenie-2020-dv075-151003` (tags `postanovlenie-2020-dv075-151003/<day>`; `python tools/on.py <day> postanovlenie-2020-dv075-151003`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 177 от 22 май 2024 г. за изменение и допълнение на Наредбата за енергийното етикетиране на продукти, свързани с енергопотреблението, приета с Постановление № 224 на Министерския съвет от 2020 г. (ДВ, бр. 45 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=216586)
+
+Cited by:
+
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Наредба № РД-02-20-3 от 9 ноември 2022 г. за техническите изисквания към енергийните характеристики на сгради (ДВ, бр. 92 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=180101)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

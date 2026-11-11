@@ -113,6 +113,24 @@
 
 Act id: `naredba-2016-dv087-108690` (tags `naredba-2016-dv087-108690/<day>`; `python tools/on.py <day> naredba-2016-dv087-108690`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 37 от 2016 г. за авиационните оператори (ДВ, бр. 53 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127478)
+- [Наредба за изменение и допълнение на Наредба № 37 от 19.10.2016 г. за авиационните оператори (ДВ, бр. 12 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168915)
+- [Наредба за допълнение на Наредба № 37 от 19.10.2016 г. за авиационните оператори (ДВ, бр. 32 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=189461)
+- [Наредба за изменение и допълнение на Наредба № 37 от 19.10.2016 г. за авиационните оператори (ДВ, бр. 100 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247168)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за прилагане на Закона за акцизите и данъчните складове (ДВ, бр. 13 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111640)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2006 г. за удостоверяване експлоатационната годност на граждански летища, летателни площадки, системи и съоръжения за наземно обслужване, за лицензиране на летищни оператори и оператори по наземно обслужване и за достъпа до пазара по наземно обслужване в летищата (ДВ, бр. 40 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126312)
+- [Наредба за изменение и допълнение на Наредба № 59 от 2006 г. за управление на безопасността в железопътния транспорт (ДВ, бр. 12 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145779)
+- [Наредба № 376 от 1 април 2021 г. за докладване, анализ и последващи действия във връзка със събития в гражданското въздухоплаване (ДВ, бр. 31 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157324)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

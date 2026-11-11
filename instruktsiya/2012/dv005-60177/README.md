@@ -32,6 +32,14 @@
 
 Act id: `instruktsiya-2012-dv005-60177` (tags `instruktsiya-2012-dv005-60177/<day>`; `python tools/on.py <day> instruktsiya-2012-dv005-60177`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 1 от 2012 г. за реда за водене на Регистъра на научната дейност в Република България (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112173)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

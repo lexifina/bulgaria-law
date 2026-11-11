@@ -66,6 +66,18 @@
 
 Act id: `naredba-2007-dv107-4552` (tags `naredba-2007-dv107-4552/<day>`; `python tools/on.py <day> naredba-2007-dv107-4552`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 14 от 2007 г. за условията и реда за сертифициране на летателната годност на военните въздухоплавателни средства (ДВ, бр. 84 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9171)
+
+Cited by:
+
+- [Наредба № 21 от 14 юни 2010 г. за условията и реда за сертифициране на летателната годност на военните въздухоплавателни средства (ДВ, бр. 50 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34280)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

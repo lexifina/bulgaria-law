@@ -17,6 +17,21 @@
 
 Act id: `postanovlenie-2022-dv104-182625` (tags `postanovlenie-2022-dv104-182625/<day>`; `python tools/on.py <day> postanovlenie-2022-dv104-182625`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 24 от 15 февруари 2023 г. за допълнение на Постановление № 492 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на енергетиката за 2022 г. (ДВ, бр. 17 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186881)
+- [Постановление № 53 от 12 април 2023 г. за допълнение на Постановление № 492 на Министерския съвет от 2022 г. за одобряване на допълнителни разходи по бюджета на Министерството на енергетиката за 2022 г. (ДВ, бр. 35 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191260)
+
+Cited by:
+
+- [Постановление № 138 от 8 септември 2023 г. за възстановяване на средства по бюджета на Министерството на енергетиката за 2023 г. (ДВ, бр. 78 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199440)
+- [Постановление № 165 от 29 септември 2023 г. за възстановяване на средства по бюджета на Министерството на енергетиката за 2023 г. (ДВ, бр. 83 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200073)
+- [Постановление № 201 от 19 октомври 2023 г. за възстановяване на средства по бюджета на Министерството на енергетиката за 2023 г. (ДВ, бр. 89 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200774)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

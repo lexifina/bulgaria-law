@@ -53,6 +53,23 @@
 
 Act id: `postanovlenie-2004-dv076-19126` (tags `postanovlenie-2004-dv076-19126/<day>`; `python tools/on.py <day> postanovlenie-2004-dv076-19126`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 122 от 9 май 2011 г. за изменение и допълнение на Наредбата за условията и реда за разрешаване на дейностите по чл. 73, ал. 1 от Закона за контрол върху наркотичните вещества и прекурсорите, приета с Постановление № 216 на Министерския съвет от 2004 г. (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49819)
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 149 от 27 юни 2008 г. за отменяне на нормативни актове на Министерския съвет (ДВ, бр. 60 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5791)
+- [Постановление № 363 от 29 декември 2004 г. за структурни промени в системата на здравеопазването (ДВ, бр. 3 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14664)
+- [Постановление № 1 от 6 януари 2011 г. за структурни промени в системата на здравеопазването (ДВ, бр. 5 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42895)
+- [Постановление № 63 от 8 март 2013 г. за изменение и допълнение на Наредбата за условията и реда за пускане на пазара на биоциди, приета с Постановление № 336 на Министерския съвет от 2007 г. (ДВ, бр. 27 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74157)
+- [Постановление № 259 от 3 октомври 2016 г. за приемане на Наредба за условията и реда за разрешаване на дейностите по чл. 73, ал. 1 от Закона за контрол върху наркотичните вещества и прекурсорите (ДВ, бр. 78 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108024)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

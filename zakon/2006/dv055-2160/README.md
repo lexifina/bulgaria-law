@@ -109,6 +109,51 @@
 
 Act id: `zakon-2006-dv055-2160` (tags `zakon-2006-dv055-2160/<day>`; `python tools/on.py <day> zakon-2006-dv055-2160`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 54 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5325)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 88 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=39133)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 97 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70784)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122794)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 21 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208724)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 88 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/10066)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 97 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14140)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 17 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77902)
+- [Закон за изменение и допълнение на Закона за фуражите (ДВ, бр. 21 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/164719)
+
+Cited by:
+
+- [Наредба № 101 от 21 август 2006 г. за фуражните добавки (ДВ, бр. 80 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2635)
+- [Закон за изменение и допълнение на Закона за рибарството и аквакултурите (ДВ, бр. 36 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5041)
+- [Закон за изменение и допълнение на Закона за регистрация и контрол на земеделската и горската техника (ДВ, бр. 100 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=11023)
+- [Наредба № 10 от 3 април 2009 г. за максимално допустимите концентрации на нежелани субстанции и продукти във фуражите (ДВ, бр. 29 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18923)
+- [Закон за изменение и допълнение на Закона за посевния и посадъчния материал (ДВ, бр. 41 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33214)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43295)
+- [Закон за изменение и допълнение на Закона за контрол върху наркотичните вещества и прекурсорите (ДВ, бр. 83 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69684)
+- [Закон за изменение и допълнение на Закона за ветеринарномедицинската дейност (ДВ, бр. 7 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72090)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 12 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91987)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105827)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за управление на агрохранителната верига (ДВ, бр. 51 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148426)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 65 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149763)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение и допълнение на Закона за посевния и посадъчния материал (ДВ, бр. 41 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9896)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/9867)
+- [Закон за изменение и допълнение на Закона за контрол върху наркотичните вещества и прекурсорите (ДВ, бр. 83 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14045)
+- [Закон за изменение и допълнение на Закона за ветеринарномедицинската дейност (ДВ, бр. 7 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/13777)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 12 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15181)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 58 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42092)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за управление на агрохранителната верига (ДВ, бр. 51 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157338)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 65 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157473)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

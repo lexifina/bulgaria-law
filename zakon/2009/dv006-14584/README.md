@@ -91,6 +91,44 @@
 
 Act id: `zakon-2009-dv006-14584` (tags `zakon-2009-dv006-14584/<day>`; `python tools/on.py <day> zakon-2009-dv006-14584`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 15 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30011)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 57 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55030)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 26 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102036)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 82 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199767)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 15 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9820)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 57 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12709)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 26 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/15457)
+- [Закон за изменение и допълнение на Закона за управление на етажната собственост (ДВ, бр. 82 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164898)
+
+Cited by:
+
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43295)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69471)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77670)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90097)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104194)
+- [Закон за изменение и допълнение на Закона за местните данъци и такси (ДВ, бр. 88 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119137)
+- [Закон за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 21 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123582)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185263)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235308)
+- [Закон за Българската агенция по безопасност на храните (ДВ, бр. 8 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/9867)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 82 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13989)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 66 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14467)
+- [Закон за изменение и допълнение на Закона за устройство на територията (ДВ, бр. 98 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/15061)
+- [Закон за изменение и допълнение на Закона за публичните финанси (ДВ, бр. 43 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/28950)
+- [Закон за изменение и допълнение на Закона за местните данъци и такси (ДВ, бр. 88 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77720)
+- [Закон за електронните съобщителни мрежи и физическа инфраструктура (ДВ, бр. 21 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77744)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+- [Закон за изменение и допълнение на Закона за медиацията (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164432)
+- [Закон за изменение и допълнение на Закона за мерките срещу финансирането на тероризма (ДВ, бр. 49 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -61,6 +61,19 @@
 
 Act id: `naredba-2016-dv009-100548` (tags `naredba-2016-dv009-100548/<day>`; `python tools/on.py <day> naredba-2016-dv009-100548`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за прилагане на подмярка 19.4. "Текущи разходи и популяризиране на стратегия за Водено от общностите местно развитие" на мярка 19. "Водено от общностите местно развитие" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 53 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105503)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2016 г. за прилагане на подмярка 19.4. "Текущи разходи и популяризиране на стратегия за Водено от общностите местно развитие" на мярка 19. "Водено от общностите местно развитие" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 26 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112967)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2018 г. за условията и реда за изплащане, намаляване или отказ за изплащане, или за оттегляне на изплатената финансова помощ за мерките и подмерките по чл. 9б, т. 2 от Закона за подпомагане на земеделските производители (ДВ, бр. 74 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141382)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

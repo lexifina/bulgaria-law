@@ -41,6 +41,16 @@
 
 Act id: `postanovlenie-2012-dv081-69586` (tags `postanovlenie-2012-dv081-69586/<day>`; `python tools/on.py <day> postanovlenie-2012-dv081-69586`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 38 от 18 февруари 2013 г. за приемане на Наредба за реда за установяването и означаването на европейски критични инфраструктури в Република България и мерките за тяхната защита (ДВ, бр. 19 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73421)
+- [Наредба № Із-553 от 12 март 2013 г. за реда за организиране и осъществяване на превантивен контрол от органите на пожарна безопасност и защита на населението на Министерството на вътрешните работи (ДВ, бр. 29 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74285)
+- [Постановление № 66 от 28 март 2016 г. за приемане на Правилник за прилагане на Закона за Държавна агенция "Разузнаване" (ДВ, бр. 27 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102285)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

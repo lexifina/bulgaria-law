@@ -56,6 +56,17 @@
 
 Act id: `postanovlenie-2013-dv021-73669` (tags `postanovlenie-2013-dv021-73669/<day>`; `python tools/on.py <day> postanovlenie-2013-dv021-73669`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Правилник за устройството и дейността на Централнo военно окръжие (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96574)
+- [Правилник за устройството и дейността на Централно военно окръжие (ДВ, бр. 54 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105747)
+- [Постановление № 66 от 3 май 2023 г. за приемане на Наредба за условията и реда за организиране, провеждане и осигуряване обучението на българските граждани за защита на Отечеството (ДВ, бр. 41 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=192720)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

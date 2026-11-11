@@ -13,6 +13,16 @@
 
 Act id: `naredba-2019-dv080-141644` (tags `naredba-2019-dv080-141644/<day>`; `python tools/on.py <day> naredba-2019-dv080-141644`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № 5 от 2019 г. за приемане на фармако-терапевтично ръководство по очни болести (ДВ, бр. 101 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153881)
+- [Наредба за допълнение на Наредба № 5 от 19 септември 2019 г. за приемане на фармако-терапевтично ръководство по очни болести (ДВ, бр. 21 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187840)
+- [Наредба за изменение на Наредба № 5 от 19.09.2019 г. за приемане на фармако-терапевтично ръководство по очни болести (ДВ, бр. 94 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238443)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

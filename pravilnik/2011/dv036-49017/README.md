@@ -78,6 +78,21 @@
 
 Act id: `pravilnik-2011-dv036-49017` (tags `pravilnik-2011-dv036-49017/<day>`; `python tools/on.py <day> pravilnik-2011-dv036-49017`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 77 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68862)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 93 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79704)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 12 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82388)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 31 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94043)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94506)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 97 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132104)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 47 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138463)
+- [Правилник за изменение и допълнение на Правилника за устройството, функциите и дейността на Държавно предприятие "Пристанищна инфраструктура" (ДВ, бр. 50 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195426)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

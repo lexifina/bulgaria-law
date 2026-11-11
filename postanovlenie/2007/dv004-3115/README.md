@@ -65,6 +65,18 @@
 
 Act id: `postanovlenie-2007-dv004-3115` (tags `postanovlenie-2007-dv004-3115/<day>`; `python tools/on.py <day> postanovlenie-2007-dv004-3115`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 165 от 16 юли 2007 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Българска служба за акредитация", приет с Постановление № 375 на Министерския съвет от 2006 г. (ДВ, бр. 61 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3994)
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Постановление № 302 от 10 декември 2008 г. за изменение и допълнение на Устройствения правилник на Изпълнителна агенция "Българска служба за акредитация", приет с Постановление № 375 на Министерския съвет от 2006 г. (ДВ, бр. 108 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13303)
+- [Поправка в Устройствения правилник на Изпълнителна агенция "Българска служба за акредитация", приет с Постановление № 375 на Министерския съвет от 2006 г. (ДВ, бр. 4 от 2007 г.) (ДВ, бр. 14 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47062)
+- [Постановление № 187 от 4 юли 2011 г. за приемане на Устройствен правилник на Изпълнителна агенция "Българска служба за акредитация" (ДВ, бр. 53 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54096)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

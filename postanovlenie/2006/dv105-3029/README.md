@@ -21,6 +21,18 @@
 
 Act id: `postanovlenie-2006-dv105-3029` (tags `postanovlenie-2006-dv105-3029/<day>`; `python tools/on.py <day> postanovlenie-2006-dv105-3029`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 90 от 12 май 2010 г. за изменение и допълнение на Тарифата за таксите, които се събират от Изпълнителната агенция по лозата и виното, приета с Постановление № 337 на Министерския съвет от 2006 г. (ДВ, бр. 37 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32873)
+
+Cited by:
+
+- [Постановление № 218 от 29 юли 2022 г. за приемане на Тарифа за таксите, които се събират от Изпълнителната агенция по лозата и виното (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175366)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

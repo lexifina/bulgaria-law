@@ -60,6 +60,14 @@
 
 Act id: `naredba-2012-dv063-67552` (tags `naredba-2012-dv063-67552/<day>`; `python tools/on.py <day> naredba-2012-dv063-67552`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-8 от 2012 г. за определяне на условията и реда за ползване на лечебните заведения към Министерството на отбраната (ДВ, бр. 72 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78180)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -41,6 +41,18 @@
 
 Act id: `pravilnik-2018-dv009-121946` (tags `pravilnik-2018-dv009-121946/<day>`; `python tools/on.py <day> pravilnik-2018-dv009-121946`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на регионалните центрове за подкрепа на процеса на приобщаващото образование (ДВ, бр. 35 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157664)
+
+Cited by:
+
+- [Наредба № 15 от 22 юли 2019 г. за статута и професионалното развитие на учителите, директорите и другите педагогически специалисти (ДВ, бр. 61 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140012)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

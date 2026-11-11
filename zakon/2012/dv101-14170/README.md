@@ -30,6 +30,15 @@
 
 Act id: `zakon-2012-dv101-14170` (tags `zakon-2012-dv101-14170/<day>`; `python tools/on.py <day> zakon-2012-dv101-14170`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за бюджета на Националната здравноосигурителна каса за 2014 г. (ДВ, бр. 106 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80850)
+- [Закон за бюджета на Националната здравноосигурителна каса за 2014 г. (ДВ, бр. 106 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14645)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

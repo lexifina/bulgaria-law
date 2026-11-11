@@ -93,6 +93,38 @@
 
 Act id: `zakon-2005-dv046-385` (tags `zakon-2005-dv046-385/<day>`; `python tools/on.py <day> zakon-2005-dv046-385`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 52 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5288)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 49 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34181)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 55 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54416)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 100 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201467)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 49 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9995)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 55 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13553)
+- [Закон за изменение и допълнение на Закона за екстрадицията и Европейската заповед за арест (ДВ, бр. 100 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164709)
+
+Cited by:
+
+- [Наказателно-процесуален кодекс (ДВ, бр. 86 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=973)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134075)
+- [Закон за признаване, изпълнение и изпращане на съдебни актове за налагане на наказание лишаване от свобода или на мерки, включващи лишаване от свобода (ДВ, бр. 45 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138116)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 48 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195264)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 67 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=197941)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 18 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208127)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 59 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244229)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/96754)
+- [Закон за признаване, изпълнение и изпращане на съдебни актове за налагане на наказание лишаване от свобода или на мерки, включващи лишаване от свобода (ДВ, бр. 45 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156895)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 48 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164848)
+- [Закон за изменение и допълнение на Закона за чужденците в Република България (ДВ, бр. 67 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164822)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 18 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165113)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 59 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167016)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

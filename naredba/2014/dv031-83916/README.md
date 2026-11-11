@@ -198,6 +198,24 @@
 
 Act id: `naredba-2014-dv031-83916` (tags `naredba-2014-dv031-83916/<day>`; `python tools/on.py <day> naredba-2014-dv031-83916`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2014 г. за присъединяване на производители и клиенти на електрическа енергия към преносната или към разпределителните електрически мрежи (ДВ, бр. 36 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103403)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2014 г. за присъединяване на производители и клиенти на електрическа енергия към преносната или към разпределителните електрически мрежи (ДВ, бр. 77 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107776)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2014 г. за присъединяване на производители и клиенти на електрическа енергия към преносната или към разпределителните електрически мрежи (ДВ, бр. 76 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141434)
+- [Наредба за изменение и допълнение на Наредба № 6 от 24.02.2014 г. за присъединяване на производители и клиенти на електрическа енергия към преносната или към разпределителните електрически мрежи (ДВ, бр. 55 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196632)
+
+Cited by:
+
+- [Адм. д. № 10386 от 2014 г. (ДВ, бр. 85 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88519)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2010 г. за проектиране, изграждане и поддържане на електрически уредби за ниско напрежение в сгради (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109484)
+- [Наредба № 1 от 14 март 2017 г. за регулиране на цените на електрическата енергия (ДВ, бр. 25 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112874)
+- [Наредба за изменение и допълнение на Наредба № 3 от 21.03.2013 г. за лицензиране на дейностите в енергетиката (ДВ, бр. 18 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187080)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

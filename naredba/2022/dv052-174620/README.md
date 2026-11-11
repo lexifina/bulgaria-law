@@ -57,6 +57,14 @@
 
 Act id: `naredba-2022-dv052-174620` (tags `naredba-2022-dv052-174620/<day>`; `python tools/on.py <day> naredba-2022-dv052-174620`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2022 г. за провеждане на конкурси за заемане на длъжността "директор" в държавните и общинските институции в системата на предучилищното и училищното образование (ДВ, бр. 103 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201717)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

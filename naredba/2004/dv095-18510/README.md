@@ -79,6 +79,19 @@
 
 Act id: `naredba-2004-dv095-18510` (tags `naredba-2004-dv095-18510/<day>`; `python tools/on.py <day> naredba-2004-dv095-18510`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 16 от 2004 г. за правилата за разпределение и процедурите по предоставяне за ползване, резервиране и отнемане на номера, адреси и имена (ДВ, бр. 100 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2955)
+
+Cited by:
+
+- [Наредба № 7 от 1 юли 2008 г. за правилата за разпределение и процедурите по първично и вторично предоставяне за ползване, резервиране и отнемане на номера, адреси и имена (ДВ, бр. 62 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5842)
+- [Неофициален раздел на "Държавен вестник", брой 64 от 5.8.2005 г. (ДВ, бр. 64 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136906)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

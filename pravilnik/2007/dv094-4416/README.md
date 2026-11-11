@@ -104,6 +104,21 @@
 
 Act id: `pravilnik-2007-dv094-4416` (tags `pravilnik-2007-dv094-4416/<day>`; `python tools/on.py <day> pravilnik-2007-dv094-4416`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация (ДВ, бр. 10 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29239)
+- [Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация (ДВ, бр. 38 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32897)
+- [Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация (ДВ, бр. 52 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76548)
+- [Правилник за изменение и допълнение на Правилника за организация на дейността на Висшия съдебен съвет и неговата администрация (ДВ, бр. 82 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98130)
+
+Cited by:
+
+- [Правилник за организация на дейността на Висшия съдебен съвет и неговата администрация (ДВ, бр. 66 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24321)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

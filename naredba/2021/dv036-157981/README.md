@@ -16,6 +16,14 @@
 
 Act id: `naredba-2021-dv036-157981` (tags `naredba-2021-dv036-157981/<day>`; `python tools/on.py <day> naredba-2021-dv036-157981`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-9 от 18 август 2025 г. за условията и реда за изплащане на допълнително месечно възнаграждение на военнослужещите и цивилните служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия за владеене на чужди езици съгласно стандартизационно споразумение на НАТО STANAG 6001 (ДВ, бр. 71 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237043)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

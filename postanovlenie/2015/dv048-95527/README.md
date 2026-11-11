@@ -18,6 +18,29 @@
 
 Act id: `postanovlenie-2015-dv048-95527` (tags `postanovlenie-2015-dv048-95527/<day>`; `python tools/on.py <day> postanovlenie-2015-dv048-95527`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 28 от 14 февруари 2019 г. за изменение на Постановление № 155 на Министерския съвет от 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 15 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134932)
+- [Постановление № 14 от 21 януари 2021 г. за изменение на Постановление № 155 на Министерския съвет от 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 7 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155293)
+- [Постановление № 307 от 24 септември 2021 г. за изменение и допълнение на Постановление № 155 на Министерския съвет от 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162402)
+- [Постановление № 5 от 21 януари 2022 г. за изменение на Постановление № 155 на Министерския съвет от 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 7 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168149)
+- [Постановление № 82 от 15 юли 2026 г. за изменение на Постановление № 155 на Министерския съвет от 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244840)
+
+Cited by:
+
+- [Постановление № 9 от 13 януари 2017 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 7 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111243)
+- [Постановление № 58 от 20 април 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125768)
+- [Постановление № 5 от 11 януари 2019 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133853)
+- [Постановление № 23 от 18 февруари 2020 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146266)
+- [Постановление № 317 от 7 октомври 2022 г. за създаване на Съвет за криминологични изследвания и за приемане на правилник за неговата дейност (ДВ, бр. 82 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178782)
+- [Постановление № 12 от 26 януари 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 10 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185265)
+- [Постановление № 40 от 15 март 2023 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 25 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188722)
+- [Постановление № 205 от 19 октомври 2026 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246680)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

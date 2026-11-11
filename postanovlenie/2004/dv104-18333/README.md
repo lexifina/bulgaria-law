@@ -36,6 +36,15 @@
 
 Act id: `postanovlenie-2004-dv104-18333` (tags `postanovlenie-2004-dv104-18333/<day>`; `python tools/on.py <day> postanovlenie-2004-dv104-18333`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 12 от 21 януари 2011 г. за изменение и допълнение на Устройствения правилник на Изпълнителната агенция по сортоизпитване, апробация и семеконтрол, приет с Постановление № 85 на Министерския съвет от 2000 г. (ДВ, бр. 9 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43557)
+- [Постановление № 96 от 17 април 2015 г. за приемане на Тарифа за таксите, които се събират от Изпълнителната агенция по сортоизпитване, апробация и семеконтрол по Закона за закрила на новите сортове растения и породи животни и по Закона за посевния и посадъчния материал (ДВ, бр. 30 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93946)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

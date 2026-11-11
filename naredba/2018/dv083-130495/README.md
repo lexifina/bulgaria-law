@@ -37,6 +37,14 @@
 
 Act id: `naredba-2018-dv083-130495` (tags `naredba-2018-dv083-130495/<day>`; `python tools/on.py <day> naredba-2018-dv083-130495`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № І-5 от 26.09.2018 г. за организацията на работата по постъпилите в Държавна агенция "Национална сигурност" предложения и сигнали (ДВ, бр. 77 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178360)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -39,6 +39,15 @@
 
 Act id: `instruktsiya-2018-dv091-130929` (tags `instruktsiya-2018-dv091-130929/<day>`; `python tools/on.py <day> instruktsiya-2018-dv091-130929`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1276 от 2018 г. за реда и организацията за издаване на документи и удостоверения по Закона за влизането, пребиваването и напускането на Република България на гражданите на Европейския съюз, които не са български граждани, и членовете на техните семейства (ДВ, бр. 65 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140569)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-1276 от 11 октомври 2018 г. за реда и организацията за издаване на документи и удостоверения по Закона за влизането, пребиваването и напускането на Република България на гражданите на Европейския съюз и членовете на техните семейства (ДВ, бр. 29 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157296)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

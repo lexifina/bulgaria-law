@@ -69,6 +69,14 @@
 
 Act id: `instruktsiya-2012-dv007-60471` (tags `instruktsiya-2012-dv007-60471/<day>`; `python tools/on.py <day> instruktsiya-2012-dv007-60471`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 8121з-914 от 1 декември 2014 г. за условията и реда за осъществяване на неотложни аварийно-възстановителни работи (ДВ, бр. 101 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90308)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

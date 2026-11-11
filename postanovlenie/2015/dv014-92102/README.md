@@ -24,6 +24,15 @@
 
 Act id: `postanovlenie-2015-dv014-92102` (tags `postanovlenie-2015-dv014-92102/<day>`; `python tools/on.py <day> postanovlenie-2015-dv014-92102`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 307 от 11 ноември 2015 г. за одобряване на допълнителни разходи по бюджета на Министерството на културата за 2015 г. за изплащане на държавни парични награди за особени заслуги към българската държава и нацията (ДВ, бр. 89 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98737)
+- [Постановление № 276 от 1 ноември 2019 г. за одобряване на допълнителни разходи по бюджета на Министерството на образованието и науката за 2019 г. (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142613)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

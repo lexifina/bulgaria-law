@@ -33,6 +33,16 @@
 
 Act id: `naredba-2016-dv059-106085` (tags `naredba-2016-dv059-106085/<day>`; `python tools/on.py <day> naredba-2016-dv059-106085`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2016 г. за определяне на реда за съгласуване на проектите на документи по чл. 26, ал. 1 от Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 77 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117905)
+- [Наредба за изменение на Наредба № 4 от 2016 г. за определяне на реда за съгласуване на проектите на документи по чл. 26, ал. 1 от Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 11 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122169)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2016 г. за определяне на реда за съгласуване на проектите на документи по чл. 26, ал. 1 от Закона за управление на средствата от Европейските структурни и инвестиционни фондове (ДВ, бр. 39 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191780)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

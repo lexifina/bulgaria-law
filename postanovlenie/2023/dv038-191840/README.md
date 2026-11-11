@@ -48,6 +48,15 @@
 
 Act id: `postanovlenie-2023-dv038-191840` (tags `postanovlenie-2023-dv038-191840/<day>`; `python tools/on.py <day> postanovlenie-2023-dv038-191840`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 325 от 19 септември 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 81 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228819)
+- [Постановление № 188 от 12 октомври 2026 г. за приемане на Устройствен правилник на Изпълнителната агенция за насърчаване на малките и средните предприятия към министъра на икономиката, инвестициите и индустрията (ДВ, бр. 95 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246530)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

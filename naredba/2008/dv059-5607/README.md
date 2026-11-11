@@ -47,6 +47,20 @@
 
 Act id: `naredba-2008-dv059-5607` (tags `naredba-2008-dv059-5607/<day>`; `python tools/on.py <day> naredba-2008-dv059-5607`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 41 от 2008 г. за изискванията към съдържанието на обосновката на цената на акциите на публично дружество, включително към прилагането на оценъчни методи, в случаите на преобразуване, договор за съвместно предприятие и търгово предлагане (ДВ, бр. 83 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118618)
+
+Cited by:
+
+- [Поправка в Наредба № 41 от 2008 г. на Комисията за финансов надзор за изискванията към съдържанието на обосновката на цената на акциите на публично дружество, включително към прилагането на оценъчни методи, в случаите на преобразуване, договор за съвместно предприятие и търгово предлагане (ДВ, бр. 59 от 2008 г.): (ДВ, бр. 65 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42438)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 83 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118617)
+- [Наредба за изменение и допълнение на Наредба № 13 от 22.12.2003 г. за търгово предлагане за закупуване и замяна на акции (ДВ, бр. 84 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=178970)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

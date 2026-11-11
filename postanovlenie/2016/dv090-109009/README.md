@@ -13,6 +13,19 @@
 
 Act id: `postanovlenie-2016-dv090-109009` (tags `postanovlenie-2016-dv090-109009/<day>`; `python tools/on.py <day> postanovlenie-2016-dv090-109009`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 307 от 13 декември 2018 г. за изменение на Постановление № 293 на Министерския съвет от 2016 г. за изменение и допълнение на Тарифа № 14 за таксите, които се събират в системата на Министерството на регионалното развитие и благоустройството и от областните управители (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133101)
+- [Постановление № 417 от 30 декември 2020 г. за изменение на Постановление № 293 на Министерския съвет от 2016 г. за изменение и допълнение на Тарифа № 14 за таксите, които се събират в системата на Министерството на регионалното развитие и благоустройството и от областните управители, приета с Постановление № 175 на Министерския съвет от 1998 г. (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154833)
+
+Cited by:
+
+- [Поправка в Постановление № 293 на Министерския съвет от 2016 г. (ДВ, бр. 90 от 2016 г.) (ДВ, бр. 99 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110106)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

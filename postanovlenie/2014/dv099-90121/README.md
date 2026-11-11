@@ -197,6 +197,22 @@
 
 Act id: `postanovlenie-2014-dv099-90121` (tags `postanovlenie-2014-dv099-90121/<day>`; `python tools/on.py <day> postanovlenie-2014-dv099-90121`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 354 от 17 октомври 2024 г. за изменение и допълнение на Наредбата за условията и реда за постигане сигурността на корабите, пристанищата и пристанищните райони, приета с Постановление № 374 на Министерския съвет от 2014 г. (ДВ, бр. 89 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229549)
+
+Cited by:
+
+- [Постановление № 106 от 29 април 2015 г. за приемане на Устройствен правилник на Изпълнителна агенция "Морска администрация" (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94197)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118935)
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131638)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Закон за киберсигурност (ДВ, бр. 94 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78098)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

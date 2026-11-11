@@ -68,6 +68,15 @@
 
 Act id: `postanovlenie-2010-dv099-41835` (tags `postanovlenie-2010-dv099-41835/<day>`; `python tools/on.py <day> postanovlenie-2010-dv099-41835`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 136 от 13 май 2011 г. за приемане на Тарифа за таксите, които се събират в системата на Министерството на околната среда и водите (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50289)
+- [Постановление № 268 от 1 септември 2014 г. за приемане на Наредба за условията, реда и начина за изготвяне на докладите и за верификация на докладите на операторите на инсталации и на авиационните оператори и за изготвяне и проверка на заявления на нови участници (ДВ, бр. 75 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87724)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

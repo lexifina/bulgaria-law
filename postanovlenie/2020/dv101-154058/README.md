@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2020-dv101-154058` (tags `postanovlenie-2020-dv101-154058/<day>`; `python tools/on.py <day> postanovlenie-2020-dv101-154058`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 342 от 4 декември 2020 г. за одобряване на допълнителни разходи по бюджета на Министерството на здравеопазването за сметка на икономии на разходи и/или трансфери по бюджетите на други първостепенни разпоредители с бюджет по държавния бюджет за 2020 г. (ДВ, бр. 104 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154299)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

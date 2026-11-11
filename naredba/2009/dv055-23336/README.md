@@ -66,6 +66,14 @@
 
 Act id: `naredba-2009-dv055-23336` (tags `naredba-2009-dv055-23336/<day>`; `python tools/on.py <day> naredba-2009-dv055-23336`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Із-169 от 3 февруари 2010 г. за условията и реда за формиране на допълнително възнаграждение за резултати в служебната дейност (ДВ, бр. 16 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30014)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

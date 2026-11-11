@@ -47,6 +47,16 @@
 
 Act id: `postanovlenie-2004-dv018-21555` (tags `postanovlenie-2004-dv018-21555/<day>`; `python tools/on.py <day> postanovlenie-2004-dv018-21555`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № 25 от 31 май 2004 г. за образуване на средствата за работна заплата в държавните дивечовъдни станции през 2004 г. (ДВ, бр. 50 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=20228)
+- [Инструкция № 1 от 5 април 2004 г. за образуване на средствата за работна заплата в търговските дружества - лечебни заведения с над 50 на сто държавно или общинско участие, през 2004 г. (ДВ, бр. 33 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21181)
+- [Неофициален раздел на "Държавен вестник", брой 25 от 26.03.2004 г. (ДВ, бр. 25 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134842)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

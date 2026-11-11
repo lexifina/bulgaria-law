@@ -17,6 +17,14 @@
 
 Act id: `postanovlenie-2020-dv075-151002` (tags `postanovlenie-2020-dv075-151002/<day>`; `python tools/on.py <day> postanovlenie-2020-dv075-151002`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 253 от 10 септември 2020 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2020 г. за финансово осигуряване на дейности по национални програми за развитие на образованието (ДВ, бр. 81 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151653)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

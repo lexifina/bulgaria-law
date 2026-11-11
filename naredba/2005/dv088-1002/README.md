@@ -36,6 +36,15 @@
 
 Act id: `naredba-2005-dv088-1002` (tags `naredba-2005-dv088-1002/<day>`; `python tools/on.py <day> naredba-2005-dv088-1002`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 14 от 2005 г. за условията и реда за издаване на разрешителни за въвеждане на неместни или повторно въвеждане на местни дървесни, храстови и ловни видове в природата и отчитане мнението на обществеността в района на повторно въвеждане (ДВ, бр. 59 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128449)
+- [Наредба за изменение и допълнение на Наредба № 14 от 2005 г. за условията и реда за издаване на разрешителни за въвеждане на неместни или повторно въвеждане на местни дървесни, храстови и ловни видове в природата и отчитане мнението на обществеността в района на повторно въвеждане (ДВ, бр. 39 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137326)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

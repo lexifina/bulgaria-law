@@ -83,6 +83,22 @@
 
 Act id: `postanovlenie-2011-dv057-54912` (tags `postanovlenie-2011-dv057-54912/<day>`; `python tools/on.py <day> postanovlenie-2011-dv057-54912`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 203 от 30 август 2012 г. за изменение и допълнение на Правилника за прилагане на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба, приет с Постановление № 205 на Министерския съвет от 2011 г. (ДВ, бр. 68 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68153)
+- [Постановление № 28 от 23 февруари 2018 г. за изменение и допълнение на Правилника за прилагане на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба, приет с Постановление № 205 на Министерския съвет от 2011 г. (ДВ, бр. 19 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123585)
+- [Постановление № 88 от 17 юли 2026 г. за изменение и допълнение на Правилника за прилагане на Закона за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба, приет с Постановление № 205 на Министерския съвет от 2011 г. (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244909)
+
+Cited by:
+
+- [Постановление № 246 от 24 октомври 2013 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 96 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79955)
+- [Постановление № 128 от 26 май 2015 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 40 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94824)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -52,6 +52,14 @@
 
 Act id: `pravilnik-2025-dv057-235892` (tags `pravilnik-2025-dv057-235892/<day>`; `python tools/on.py <day> pravilnik-2025-dv057-235892`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-6 от 30 юли 2026 г. за утвърждаване на медицински стандарт "Клинична микробиология" (ДВ, бр. 74 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245295)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

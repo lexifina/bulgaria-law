@@ -38,6 +38,14 @@
 
 Act id: `naredba-2008-dv032-4997` (tags `naredba-2008-dv032-4997/<day>`; `python tools/on.py <day> naredba-2008-dv032-4997`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 3 септември 2020 г. за условията и реда за осъществяване на контрол върху дейността на развъдните организации (ДВ, бр. 80 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151529)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

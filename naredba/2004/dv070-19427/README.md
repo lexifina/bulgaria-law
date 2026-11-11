@@ -31,6 +31,25 @@
 
 Act id: `naredba-2004-dv070-19427` (tags `naredba-2004-dv070-19427/<day>`; `python tools/on.py <day> naredba-2004-dv070-19427`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 7 от 2004 г. за реда и начина за определяне на индивидуалните месечни работни заплати на персонала в средното образование (ДВ, бр. 46 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=391)
+- [Поправка към Наредба за изменение и допълнение на Наредба № 7 от 2004 г. (ДВ, бр. 85 от 2009 г.) (ДВ, бр. 88 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26647)
+
+Cited by:
+
+- [Заповед № РД-14-77/30.06.10 г. (ДВ, бр. 56 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34864)
+- [Заповед № РД-14-106/20.07.2010 г. (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35499)
+- [Заповед № РД-14-113/21.07.2010 г. (ДВ, бр. 62 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35505)
+- [Заповед № РД-14-30/5.05.2011 г. (ДВ, бр. 41 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50535)
+- [Заповед № РД-14-14 от 13 февруари 2013 г. (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73468)
+- [Заповед № РД-14-20 от 26 март 2015 г. (ДВ, бр. 27 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93539)
+- [Заповед № РД-14-83 от 17 ноември 2015 г. (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99049)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

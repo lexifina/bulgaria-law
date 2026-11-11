@@ -33,6 +33,17 @@
 
 Act id: `naredba-2023-dv048-195402` (tags `naredba-2023-dv048-195402/<day>`; `python tools/on.py <day> naredba-2023-dv048-195402`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Заповед № РД-09-1218 от 30 ноември 2023 г. (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201668)
+- [Заповед № РД-09-952 от 5 септември 2024 г. за утвърждаване на Методика за прилагане на предварителните условия в Република България във връзка с изпълнението на Стратегическия план за развитие на земеделието и селските райони в Република България в периода 2023 - 2027 г. (ДВ, бр. 78 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=227880)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2023 г. за условията и реда за прилагане на интервенцията "Плащания за земеделски земи в зони от Натура 2000", включена в Стратегическия план за развитие на земеделието и селските райони на Република България за периода 2023 - 2027 г. (ДВ, бр. 16 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233081)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2023 г. за условията и реда за прилагане на интервенцията "Плащания за земеделски земи в зони от Натура 2000", включена в Стратегическия план за развитие на земеделието и селските райони на Република България за периода 2023 - 2027 г. (ДВ, бр. 106 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239570)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

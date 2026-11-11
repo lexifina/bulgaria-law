@@ -16,6 +16,18 @@
 
 Act id: `postanovlenie-2005-dv074-824` (tags `postanovlenie-2005-dv074-824/<day>`; `python tools/on.py <day> postanovlenie-2005-dv074-824`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 75 от 5 април 2006 г. за изменение и допълнение на Постановление № 195 на Министерския съвет от 2005 г. за разширяване обхвата на оръжейното ембарго и налагане на ограничения върху пътуванията и финансовите активи спрямо Демократична република Конго (ДВ, бр. 32 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1697)
+
+Cited by:
+
+- [Постановление № 198 от 10 септември 2010 г. за допълнение на нормативни актове на Министерския съвет в изпълнение на резолюции 1807 (2008), 1844 (2008), 1857 (2008), 1896 (2009), 1907 (2009) и 1016 (2010) на Съвета за сигурност на ООН относно Демократична република Конго, Сомалия и Еритрея (ДВ, бр. 73 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36920)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

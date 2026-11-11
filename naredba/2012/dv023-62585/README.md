@@ -32,6 +32,14 @@
 
 Act id: `naredba-2012-dv023-62585` (tags `naredba-2012-dv023-62585/<day>`; `python tools/on.py <day> naredba-2012-dv023-62585`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 45 от 2012 г. за достъпа до съхраняваните от Комисията за финансов надзор документи (ДВ, бр. 80 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97939)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

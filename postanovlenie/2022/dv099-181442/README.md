@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2022-dv099-181442` (tags `postanovlenie-2022-dv099-181442/<day>`; `python tools/on.py <day> postanovlenie-2022-dv099-181442`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 80 от 10 юли 2026 г. за изменение и допълнение на Постановление № 416 на Министерския съвет от 2022 г. за определяне на структури от другите сили от системата за национална сигурност на Република България и тяхната численост за включване във въоръжените сили във военно време (ДВ, бр. 64 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244710)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,14 @@
 
 Act id: `postanovlenie-2013-dv107-81123` (tags `postanovlenie-2013-dv107-81123/<day>`; `python tools/on.py <day> postanovlenie-2013-dv107-81123`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 20 от 25 януари 2017 г. за приемане на Наредба за разделно събиране на биоотпадъци и третиране на биоразградимите отпадъци (ДВ, бр. 11 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111555)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

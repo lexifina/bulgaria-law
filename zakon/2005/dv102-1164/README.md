@@ -22,6 +22,14 @@
 
 Act id: `zakon-2005-dv102-1164` (tags `zakon-2005-dv102-1164/<day>`; `python tools/on.py <day> zakon-2005-dv102-1164`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

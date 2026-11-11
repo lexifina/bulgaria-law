@@ -24,6 +24,18 @@
 
 Act id: `instruktsiya-2010-dv042-33381` (tags `instruktsiya-2010-dv042-33381/<day>`; `python tools/on.py <day> instruktsiya-2010-dv042-33381`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение на Инструкция № И-5 от 2010 г. за условията, реда и процедурите за организиране на работата на административните структури на Министерството на отбраната (ДВ, бр. 51 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76409)
+
+Cited by:
+
+- [Инструкция № И-4 от 4 юли 2019 г. за условията, реда и процедурите за организиране на работата на административните структури в Министерството на отбраната (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139694)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

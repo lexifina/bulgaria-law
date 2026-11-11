@@ -42,6 +42,14 @@
 
 Act id: `naredba-2008-dv082-8808` (tags `naredba-2008-dv082-8808/<day>`; `python tools/on.py <day> naredba-2008-dv082-8808`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 19 от 2004 г. за производство и търговия на посадъчен материал от зеленчукови култури (ДВ, бр. 8 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232331)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

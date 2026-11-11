@@ -26,6 +26,21 @@
 
 Act id: `naredba-2004-dv056-19864` (tags `naredba-2004-dv056-19864/<day>`; `python tools/on.py <day> naredba-2004-dv056-19864`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за условията и реда за включване на лица, нуждаещи се от присаждане на органи, в служебния регистър на Изпълнителната агенция "Медицински надзор" и за подбор на конкретен реципиент на орган, тъкан или клетки (ДВ, бр. 70 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160884)
+
+Cited by:
+
+- [Наредба № 21 от 3 май 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 39 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3656)
+- [Наредба № 12 от 22 декември 2011 г. за условията и реда за заплащане на лечение на български граждани в чужбина по чл. 82, ал. 1, т. 8 от Закона за здравето (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59883)
+- [Наредба № 2 от 27 март 2019 г. за медицинските и други услуги по чл. 82, ал. 1а и 3 от Закона за здравето и за реда и условията за тяхното одобряване, ползване и заплащане (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136219)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2007 г. за обстоятелствата и данните, които се вписват в регистрите на Изпълнителната агенция по трансплантация, редът за вписване и ползване на информацията (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137615)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

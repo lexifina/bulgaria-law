@@ -27,6 +27,14 @@
 
 Act id: `naredba-2020-dv087-152058` (tags `naredba-2020-dv087-152058/<day>`; `python tools/on.py <day> naredba-2020-dv087-152058`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 27 март 2024 г. за условията и реда за вземане на проби и лабораторно изпитване на храни (ДВ, бр. 31 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=211420)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

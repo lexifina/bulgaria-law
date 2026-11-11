@@ -28,6 +28,17 @@
 
 Act id: `naredba-2004-dv110-18166` (tags `naredba-2004-dv110-18166/<day>`; `python tools/on.py <day> naredba-2004-dv110-18166`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 17 от 2004 г. за документите, които са необходими за издаване на разрешение за преобразуване на пенсионноосигурително дружество и на фонд за допълнително пенсионно осигуряване и за изискванията към плановете по чл. 327, ал. 1, т. 3 и чл. 336, ал. 1 от Кодекса за социално осигуряване (ДВ, бр. 18 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122989)
+- [Наредба № 70 от 29 юни 2021 г. за изискванията към фондовете за извършване на плащания (ДВ, бр. 60 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159954)
+- [Наредба за изменение и допълнение на нормативни актове на Комисията за финансов надзор (ДВ, бр. 20 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233238)
+- [Наредба № 1 от 23 юни 2026 г. за резервите за гарантиране на брутния размер на вноските във фондовете за допълнително задължително пенсионно осигуряване и резервите за гарантиране на пенсионните плащания (ДВ, бр. 61 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244326)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

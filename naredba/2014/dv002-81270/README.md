@@ -13,6 +13,17 @@
 
 Act id: `naredba-2014-dv002-81270` (tags `naredba-2014-dv002-81270/<day>`; `python tools/on.py <day> naredba-2014-dv002-81270`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 19 от 22 декември 2014 г. за утвърждаване на медицински стандарт "Акушерство и гинекология" (ДВ, бр. 106 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90884)
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба № Н-2 от 26 май 2022 г. за условията и реда за провеждане на диагностика, профилактика и контрол на COVID-19 (ДВ, бр. 40 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173668)
+- [Наредба № Н-1 от 7 март 2024 г. за условията и реда за провеждане на диагностика, профилактика и контрол на COVID-19 (ДВ, бр. 22 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

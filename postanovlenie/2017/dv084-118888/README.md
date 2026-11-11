@@ -20,6 +20,14 @@
 
 Act id: `postanovlenie-2017-dv084-118888` (tags `postanovlenie-2017-dv084-118888/<day>`; `python tools/on.py <day> postanovlenie-2017-dv084-118888`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 349 от 27 декември 2018 г. за изменение и допълнение на Постановление № 315 на Министерския съвет от 2018 г. за одобряване на допълнителни разходи/трансфери за 2018 г. (ДВ, бр. 1 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133454)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

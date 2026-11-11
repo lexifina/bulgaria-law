@@ -115,6 +115,18 @@
 
 Act id: `instruktsiya-2015-dv009-91688` (tags `instruktsiya-2015-dv009-91688/<day>`; `python tools/on.py <day> instruktsiya-2015-dv009-91688`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-78 от 2015 г. за реда за осъществяване на задържане, оборудването на помещенията за настаняване на задържани лица и реда в тях в Министерството на вътрешните работи (ДВ, бр. 77 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97713)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-78 от 2015 г. за реда за осъществяване на задържане, оборудването на помещенията за настаняване на задържани лица и реда в тях в Министерството на вътрешните работи (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102490)
+- [Инструкция за изменение на Инструкция № 8121з-78 от 2015 г. за реда за осъществяване на задържане, оборудването на помещенията за настаняване на задържани лица и реда в тях в Министерството на вътрешните работи (ДВ, бр. 101 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132433)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-78 от 24 януари 2015 г. за реда за осъществяване на задържане, оборудването на помещенията за настаняване на задържани лица и реда в тях в Министерството на вътрешните работи (ДВ, бр. 18 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187147)
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-78 от 2015 г. за реда за осъществяване на задържане, оборудването на помещенията за настаняване на задържани лица и реда в тях в Министерството на вътрешните работи (ДВ, бр. 12 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240830)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

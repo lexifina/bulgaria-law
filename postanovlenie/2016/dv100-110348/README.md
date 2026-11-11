@@ -106,6 +106,14 @@
 
 Act id: `postanovlenie-2016-dv100-110348` (tags `postanovlenie-2016-dv100-110348/<day>`; `python tools/on.py <day> postanovlenie-2016-dv100-110348`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 100 от 23 март 2021 г. за приемане на Наредба за ползването на повърхностните води (ДВ, бр. 25 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156859)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -72,6 +72,20 @@
 
 Act id: `naredba-2004-dv058-19793` (tags `naredba-2004-dv058-19793/<day>`; `python tools/on.py <day> naredba-2004-dv058-19793`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 18 от 2004 г. за условията и реда за извършване на диагностика, преработка и съхранение на кръв и кръвни съставки и качеството на кръвта от внос (ДВ, бр. 64 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56188)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за условията и реда за извършване на диагностика, преработка и съхранение на кръв и кръвни съставки и качеството на кръвта от внос (ДВ, бр. 86 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142446)
+
+Cited by:
+
+- [Наредба № 9 от 25 април 2006 г. за утвърждаване на медицински стандарт "Трансфузионна хематология" (ДВ, бр. 42 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1924)
+- [Наредба № Н-1 от 7 април 2025 г. за реда и условията за провеждане на диагностика, профилактика и контрол на сексуално предавани инфекции (ДВ, бр. 32 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=234011)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

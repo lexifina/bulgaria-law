@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2021-dv093-164583` (tags `postanovlenie-2021-dv093-164583/<day>`; `python tools/on.py <day> postanovlenie-2021-dv093-164583`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 403 от 25 ноември 2021 г. за одобряване на допълнителни разходи/трансфери за 2021 г. (ДВ, бр. 100 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165365)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

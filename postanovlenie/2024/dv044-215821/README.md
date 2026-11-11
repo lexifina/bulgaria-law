@@ -11,6 +11,14 @@
 
 Act id: `postanovlenie-2024-dv044-215821` (tags `postanovlenie-2024-dv044-215821/<day>`; `python tools/on.py <day> postanovlenie-2024-dv044-215821`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 243 от 4 юли 2024 г. за изменение на Постановление № 167 на Министерския съвет от 2024 г. (ДВ, бр. 44 от 2024 г.) за допълнение на Тарифата за държавните такси, събирани от Агенцията по вписванията, приета с Постановление № 243 на Министерския съвет от 2005 г. (обн., ДВ, бр. 94 от 2005 г.; изм. и доп., бр. 105 от 2006 г., бр. 65 от 2008 г., бр. 39 и 77 от 2009 г., бр. 104 от 2011 г., бр. 27 от 2013 г., бр. 13 и 106 от 2014 г., бр. 99 от 2017 г., бр. 110 от 2020 г., бр. 1 от 2022 г. и бр. 27, 31, 40 и 52 от 2023 г.) (ДВ, бр. 58 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=221019)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

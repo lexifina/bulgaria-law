@@ -147,6 +147,14 @@
 
 Act id: `naredba-2025-dv092-238418` (tags `naredba-2025-dv092-238418/<day>`; `python tools/on.py <day> naredba-2025-dv092-238418`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 2 ноември 2026 г. за условията и реда за прилагане на интервенция II.И.3 "Плащания за земеделски стопани при кризи", включена в Стратегическия план за развитието на земеделието и селските райони за периода 2023 - 2027 г., за предоставяне и изплащане на подпомагане, за отказ и намаления на плащанията (ДВ, бр. 101 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247270)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

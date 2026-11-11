@@ -27,6 +27,22 @@
 
 Act id: `naredba-2004-dv109-18181` (tags `naredba-2004-dv109-18181/<day>`; `python tools/on.py <day> naredba-2004-dv109-18181`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 18 от 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 62 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=671)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 75 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36890)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 15 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82640)
+- [Наредба за допълнение на Наредба № 18 от 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118936)
+
+Cited by:
+
+- [Наредба № 3 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на пристанищата и флота" (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29119)
+- [Наредба № 15 от 17 януари 2024 г. за предаване и приемане на отпадъци от кораби (ДВ, бр. 8 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=203840)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

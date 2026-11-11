@@ -38,6 +38,18 @@
 
 Act id: `naredba-2013-dv014-72904` (tags `naredba-2013-dv014-72904/<day>`; `python tools/on.py <day> naredba-2013-dv014-72904`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 1 от 2013 г. за минималното ниво на технически и организационни мерки и допустимия вид защита на личните данни (ДВ, бр. 43 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126761)
+
+Cited by:
+
+- [Инструкция № 03-04-357 от 26 март 2015 г. за мерките и средствата за защита на личните данни, получавани, обработвани, предоставяни и съхранявани в Министерството на регионалното развитие и благоустройството чрез Главна дирекция "Гражданска регистрация и административно обслужване" и нейните териториални звена (ДВ, бр. 26 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93486)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

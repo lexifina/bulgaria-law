@@ -25,6 +25,15 @@
 
 Act id: `naredba-2004-dv017-21588` (tags `naredba-2004-dv017-21588/<day>`; `python tools/on.py <day> naredba-2004-dv017-21588`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 4 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на автомобилния транспорт" (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29120)
+- [Наредба за изменение и допълнение на Наредба № 38 от 16.04.2004 г. за условията и реда за провеждането на изпитите на кандидати за придобиване на правоспособност за управление на моторно превозно средство и реда за провеждане на проверочните изпити (ДВ, бр. 77 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=226962)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

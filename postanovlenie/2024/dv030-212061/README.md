@@ -21,6 +21,16 @@
 
 Act id: `postanovlenie-2024-dv030-212061` (tags `postanovlenie-2024-dv030-212061/<day>`; `python tools/on.py <day> postanovlenie-2024-dv030-212061`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Заповед № Е-РД-16-2541 от 2 декември 2024 г. (ДВ, бр. 110 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231628)
+- [Заповед № Е-РД-16-369 от 31 юли 2025 г. (ДВ, бр. 84 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237706)
+- [Постановление № 3 от 12 януари 2026 г. за изменение на нормативни актове (ДВ, бр. 5 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240582)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

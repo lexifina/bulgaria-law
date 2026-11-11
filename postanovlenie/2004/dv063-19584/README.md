@@ -52,6 +52,20 @@
 
 Act id: `postanovlenie-2004-dv063-19584` (tags `postanovlenie-2004-dv063-19584/<day>`; `python tools/on.py <day> postanovlenie-2004-dv063-19584`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 178 от 28 юли 2005 г. за изменение и допълнение на Устройствения правилник на Агенцията по вписванията, приет с Постановление № 163 на Министерския съвет от 2004 г. (ДВ, бр. 65 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=706)
+- [Постановление № 89 от 23 април 2007 г. за приемане на Устройствен правилник на Агенцията по вписванията (ДВ, бр. 36 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3596)
+
+Cited by:
+
+- [Постановление № 91 от 19 април 2006 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 192 на Министерския съвет от 2002 г. (ДВ, бр. 35 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1740)
+- [Постановление № 28 от 18 февруари 2005 г. за изменение и допълнение на Устройствения правилник на Министерството на правосъдието, приет с Постановление № 192 на Министерския съвет от 2002 г. (ДВ, бр. 19 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14918)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

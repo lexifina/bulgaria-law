@@ -31,6 +31,15 @@
 
 Act id: `naredba-2006-dv006-1317` (tags `naredba-2006-dv006-1317/<day>`; `python tools/on.py <day> naredba-2006-dv006-1317`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на пристанищата и флота" (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29119)
+- [Наредба № 10 от 31 март 2014 г. за обхвата и съдържанието, изработването, одобряването и изменението на генералните планове на пристанищата за обществен транспорт (ДВ, бр. 32 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84029)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -40,6 +40,15 @@
 
 Act id: `pravilnik-2011-dv104-59760` (tags `pravilnik-2011-dv104-59760/<day>`; `python tools/on.py <day> pravilnik-2011-dv104-59760`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните дирекции по горите (ДВ, бр. 28 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73945)
+- [Правилник за изменение на Устройствения правилник на регионалните дирекции по горите (ДВ, бр. 93 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119897)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

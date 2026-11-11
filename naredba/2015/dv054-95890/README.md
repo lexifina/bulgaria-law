@@ -19,6 +19,17 @@
 
 Act id: `naredba-2015-dv054-95890` (tags `naredba-2015-dv054-95890/<day>`; `python tools/on.py <day> naredba-2015-dv054-95890`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № РД 07-8 от 2015 г. за условията и реда за предоставяне, регистриране и отчитане на трудовите договори по чл. 114а, ал. 1 от Кодекса на труда пред инспекцията по труда (ДВ, бр. 74 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129804)
+- [Наредба за изменение и допълнение на Наредба № РД 07-8 от 13 юли 2015 г. за условията и реда за предоставяне, регистриране и отчитане на трудовите договори по чл. 114а, ал. 1 от Кодекса на труда пред инспекцията по труда (ДВ, бр. 25 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156774)
+- [Наредба за изменение на Наредба № РД 07-8 от 13 юли 2015 г. за условията и реда за предоставяне, регистриране и отчитане на трудовите договори по чл. 114а, ал. 1 от Кодекса на труда пред инспекцията по труда (ДВ, бр. 63 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236374)
+- [Наредба за изменение на Наредба № РД 07-8 от 13 юли 2015 г. за условията и реда за предоставяне, регистриране и отчитане на трудовите договори по чл. 114а, ал. 1 от Кодекса на труда пред инспекцията по труда (ДВ, бр. 106 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239323)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

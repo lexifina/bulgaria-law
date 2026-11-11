@@ -29,6 +29,20 @@
 
 Act id: `naredba-2008-dv063-6137` (tags `naredba-2008-dv063-6137/<day>`; `python tools/on.py <day> naredba-2008-dv063-6137`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-8 от 2008 г. за условията и реда за извършване на превоз на пътници и товари за собствена сметка (ДВ, бр. 92 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26839)
+- [Наредба за изменение и допълнение на Наредба № Н-8 от 2008 г. за условията и реда за извършване на превоз на пътници и товари за собствена сметка (ДВ, бр. 14 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100948)
+- [Наредба за изменение и допълнение на Наредба № Н-8 от 2008 г. за условията и реда за извършване на превоз на пътници и товари за собствена сметка (ДВ, бр. 98 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120431)
+
+Cited by:
+
+- [Наредба № 4 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на автомобилния транспорт" (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29120)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

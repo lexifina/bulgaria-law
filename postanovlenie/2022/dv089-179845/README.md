@@ -39,6 +39,14 @@
 
 Act id: `postanovlenie-2022-dv089-179845` (tags `postanovlenie-2022-dv089-179845/<day>`; `python tools/on.py <day> postanovlenie-2022-dv089-179845`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 183 от 12 септември 2025 г. за изменение и допълнение на Наредбата за съдържанието, условията и реда за водене, поддържане и ползване на регистъра на приемно-предавателните станции на наземни мрежи, дейностите по чл. 151, ал. 1, т. 16 от Закона за устройство на територията и на уведомленията за разположени точки за безжичен достъп с малък обхват, приета с Постановление № 357 на Министерския съвет от 2022 г. (ДВ, бр. 76 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237339)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

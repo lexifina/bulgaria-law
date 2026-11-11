@@ -74,6 +74,19 @@
 
 Act id: `naredba-2008-dv041-5111` (tags `naredba-2008-dv041-5111/<day>`; `python tools/on.py <day> naredba-2008-dv041-5111`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 12 от 2008 г. за условията и реда за прилагане на мярка 214 "Агроекологични плащания" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 70 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7188)
+
+Cited by:
+
+- [Наредба № 5 от 27 февруари 2009 г. за условията и реда за подаване на заявления по схеми и мерки за подпомагане на площ (ДВ, бр. 22 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17381)
+- [Наредба за изменение и допълнение на Наредба № 8 от 2008 г. за условията и реда за предоставяне на безвъзмездна финансова помощ по мярка "Модернизиране на земеделските стопанства" от Програмата за развитие на селските райони за периода 2007 - 2013 г. (ДВ, бр. 9 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29127)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -49,9 +49,37 @@
 
 Act id: `zakon-2011-dv048-12703` (tags `zakon-2011-dv048-12703/<day>`; `python tools/on.py <day> zakon-2011-dv048-12703`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за военната полиция (ДВ, бр. 86 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42240)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 33 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63707)
+- [Закон за изменение на Закона за административните нарушения и наказания (ДВ, бр. 77 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68830)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72906)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за изменение и допълнение на Закона за военната полиция (ДВ, бр. 86 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108604)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134075)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 18 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=208127)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 59 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244229)
+- [Закон за изменение и допълнение на Закона за обществените поръчки (ДВ, бр. 33 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13778)
+- [Закон за изменение на Закона за административните нарушения и наказания (ДВ, бр. 77 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14074)
+- [Закон за публичните финанси (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14142)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за изменение и допълнение на Закона за военната полиция (ДВ, бр. 86 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42240)
+- [Закон за изменение и допълнение на Наказателния кодекс (ДВ, бр. 7 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/96754)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 18 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165113)
+- [Закон за изменение и допълнение на Наказателно-процесуалния кодекс (ДВ, бр. 59 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167016)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

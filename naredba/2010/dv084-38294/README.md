@@ -66,6 +66,28 @@
 
 Act id: `naredba-2010-dv084-38294` (tags `naredba-2010-dv084-38294/<day>`; `python tools/on.py <day> naredba-2010-dv084-38294`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 26 от 2010 г. за специфичните изисквания за директни доставки на малки количества суровини и храни от животински произход (ДВ, бр. 46 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85308)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2010 г. за специфичните изисквания за директни доставки на малки количества суровини и храни от животински произход (ДВ, бр. 87 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98526)
+
+Cited by:
+
+- [№ 5693/2011 г. (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49996)
+- [Решение № 16678 от 16 декември 2011 г. по административно дело № 5693 от 2011 г. (ДВ, бр. 46 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65444)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2008 г. за изискванията за търговия с яйца за консумация (ДВ, бр. 94 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79901)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2015 г. за условията и реда за прилагане на схемите за директни плащания (ДВ, бр. 19 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=112302)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2015 г. за условията и реда за прилагане на схемите за директни плащания (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=123102)
+- [Наредба № 4 от 28 май 2019 г. за условията и реда за използване на незадължителния термин за качество "планински продукт" и за осъществяването на контрол върху неговата употреба (ДВ, бр. 45 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138111)
+- [Наредба № 10 от 13 декември 2019 г. за условията и реда за прилагане на мерките от Националната програма по пчеларство за периода 2020 - 2022 г. (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143961)
+- [Наредба за изменение и допълнение на Наредба № 10 от 2019 г. за условията и реда за прилагане на мерките от Националната програма по пчеларство за периода 2020 - 2022 г. (ДВ, бр. 84 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162471)
+- [Наредба № 2 от 28 февруари 2023 г. за прилагане на подмярка 22.2 "Извънредно временно подпомагане за малки и средни предприятия, засегнати от последиците от руското нашествие в Украйна" от Програмата за развитие на селските райони за периода 2014 - 2020 г. (ДВ, бр. 20 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187757)
+- [Наредба № 3 от 10 март 2023 г. за условията и реда за прилагане на интервенциите под формата на директни плащания, включени в Стратегическия план, за проверките, намаления на плащанията и реда за налагане на административни санкции (ДВ, бр. 23 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188420)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -40,6 +40,20 @@
 
 Act id: `postanovlenie-2004-dv041-20971` (tags `postanovlenie-2004-dv041-20971/<day>`; `python tools/on.py <day> postanovlenie-2004-dv041-20971`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 185 от 2 септември 2010 г. за изменение и допълнение на Наредбата за устройството и дейността на Националния доверителен екофонд, приета с Постановление № 96 на Министерския съвет от 2004 г. (ДВ, бр. 71 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36648)
+- [Постановление № 301 от 19 септември 2014 г. за изменение и допълнение на Наредбата за устройството и дейността на Националния доверителен екофонд, приета с Постановление № 96 на Министерския съвет от 2004 г. (ДВ, бр. 81 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88254)
+
+Cited by:
+
+- [Постановление № 1 от 7 януари 2016 г. за приемане на Наредба за управление на минните отпадъци (ДВ, бр. 5 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99949)
+- [Постановление № 91 от 29 май 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 47 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127013)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

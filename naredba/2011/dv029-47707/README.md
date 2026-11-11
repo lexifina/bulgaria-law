@@ -45,6 +45,32 @@
 
 Act id: `naredba-2011-dv029-47707` (tags `naredba-2011-dv029-47707/<day>`; `python tools/on.py <day> naredba-2011-dv029-47707`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 45 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65268)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 15 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92217)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 81 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98098)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 18 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101405)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 46 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104450)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 4 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110905)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 91 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142959)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 18.03.2011 г. за военно-почивното дело (ДВ, бр. 29 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157304)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 87 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179324)
+- [Наредба за изменение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 37 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=213221)
+- [Наредба за допълнение на Наредба № Н-9 от 2011 г. за военно-почивното дело (ДВ, бр. 75 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=226846)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 18 март 2011 г. за военно-почивното дело (ДВ, бр. 24 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233534)
+
+Cited by:
+
+- [адм. д. № 12407/2013 г. (ДВ, бр. 89 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=79460)
+- [Решение № 16705 от 13 декември 2013 г. по административно дело № 12407 от 2013 г. (ДВ, бр. 50 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85734)
+- [Наредба за изменение и допълнение на Наредба № Н-9 от 2011 г. за военнопочивното дело (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137275)
+- [Наредба за изменение на Наредба № Н-10 от 31.03.2010 г. за изготвяне, утвърждаване, изменение и съхраняване на длъжностните разписания и длъжностните характеристики в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 81 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=162330)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

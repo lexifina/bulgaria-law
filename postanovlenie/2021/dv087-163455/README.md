@@ -34,6 +34,17 @@
 
 Act id: `postanovlenie-2021-dv087-163455` (tags `postanovlenie-2021-dv087-163455/<day>`; `python tools/on.py <day> postanovlenie-2021-dv087-163455`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 422 от 2 декември 2021 г. за одобряване на допълнителни разходи по бюджета на Министерството на труда и социалната политика за 2021 г. за финансиране на мярката "Запази ме плюс" (ДВ, бр. 102 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=165770)
+- [Постановление № 451 от 22 декември 2021 г. за определяне на нов размер на социалната пенсия за старост (ДВ, бр. 110 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=167133)
+- [Закон за държавния бюджет на Република България за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=170229)
+- [Закон за държавния бюджет на Република България за 2022 г. (ДВ, бр. 18 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164015)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

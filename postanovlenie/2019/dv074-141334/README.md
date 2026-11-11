@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2019-dv074-141334` (tags `postanovlenie-2019-dv074-141334/<day>`; `python tools/on.py <day> postanovlenie-2019-dv074-141334`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 356 от 19 декември 2019 г. за изменение на Постановление № 232 на Министерския съвет от 2019 г. за извършване на промени на утвърдения със Закона за държавния бюджет на Република България за 2019 г. максимален размер на ангажиментите за разходи, които могат да бъдат поети през 2019 г. по бюджета на Министерството на регионалното развитие и благоустройството за изпълнението на Проект "Път І-1 (Е-79) Мездра - Ботевград от км 161+367 до км 194+122" (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144150)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

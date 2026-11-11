@@ -30,6 +30,20 @@
 
 Act id: `naredba-2004-dv022-21436` (tags `naredba-2004-dv022-21436/<day>`; `python tools/on.py <day> naredba-2004-dv022-21436`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 79 от 2004 г. за одобряване типа на нови моторни превозни средства и техните ремаркета, предназначени за превоз на опасни товари по пътищата (ДВ, бр. 87 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2746)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 83 от 2004 г. за ЕО одобряване типа на нови моторни превозни средства и техните ремаркета по отношение на отоплителните системи и за ЕО одобряване типа на отоплител (ДВ, бр. 79 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4209)
+- [Наредба № Н-3 от 18 февруари 2013 г. за изменение в конструкцията на регистрираните пътни превозни средства и индивидуално одобряване на пътни превозни средства, регистрирани извън държавите - членки на Европейския съюз, или друга държава - страна по Споразумението за Европейското икономическо пространство (ДВ, бр. 21 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=73423)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

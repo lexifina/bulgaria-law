@@ -43,6 +43,25 @@
 
 Act id: `postanovlenie-2014-dv074-87669` (tags `postanovlenie-2014-dv074-87669/<day>`; `python tools/on.py <day> postanovlenie-2014-dv074-87669`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 33 от 13 февруари 2026 г. за изменение и допълнение на Наредбата за реда и начина за организиране на националните инвентаризации на емисиите на вредни вещества и парникови газове в атмосферата, приета с Постановление № 261 на Министерския съвет от 2014 г. (ДВ, бр. 18 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241403)
+
+Cited by:
+
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 227 от 16 октомври 2017 г. за изменение, допълнение и отменяне на нормативни актове на Министерския съвет (ДВ, бр. 84 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118899)
+- [Постановление № 150 от 24 юли 2018 г. за приемане на Наредба за ограничаване на емисиите на определени замърсители, изпускани в атмосферата от средни горивни инсталации (ДВ, бр. 63 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128872)
+- [Постановление № 146 от 12 юни 2019 г. за приемане на Наредба за намаляване на националните емисии на определени атмосферни замърсители (ДВ, бр. 47 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138552)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

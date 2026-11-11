@@ -16,6 +16,21 @@
 
 Act id: `naredba-2018-dv052-127362` (tags `naredba-2018-dv052-127362/<day>`; `python tools/on.py <day> naredba-2018-dv052-127362`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2018 г. за утвърждаване на медицински стандарт "Медицинска онкология" (ДВ, бр. 16 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241111)
+
+Cited by:
+
+- [адм. дело № 10187/2018 г. (ДВ, бр. 99 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132393)
+- [Решение № 8850 от 6 юли 2020 г. по административно дело № 10187 от 2018 г. (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152374)
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2010 г. за утвърждаване на медицински стандарт "Лъчелечение" (ДВ, бр. 40 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191786)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

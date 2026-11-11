@@ -37,6 +37,19 @@
 
 Act id: `naredba-2009-dv043-21622` (tags `naredba-2009-dv043-21622/<day>`; `python tools/on.py <day> naredba-2009-dv043-21622`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № Н-3 от 28 ноември 2011 г. за предоставяне на информация от ведомства и научни институти с бюджетно финансиране и водоползвателите, чиято дейност оказва значимо въздействие върху състоянието на водите (ДВ, бр. 1 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59989)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 62 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86618)
+- [Наредба за изменение и допълнение на Наредба № 44 от 2006 г. за ветеринарномедицинските изисквания към животновъдните обекти (ДВ, бр. 44 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104250)
+- [Постановление № 16 от 20 януари 2017 г. за приемане на Методика за определяне цената на услугата "Доставяне на вода за напояване" (ДВ, бр. 9 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=111440)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 44 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148005)
+- [Закон за изменение и допълнение на Закона за здравето (ДВ, бр. 44 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157427)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -38,6 +38,14 @@
 
 Act id: `naredba-2023-dv103-201697` (tags `naredba-2023-dv103-201697/<day>`; `python tools/on.py <day> naredba-2023-dv103-201697`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Е-РД-04-1 от 4.12.2023 г. за изчисляването на дела на енергията от възобновяеми източници в брутното крайно потребление на енергия и дела на възобновяеми източници в транспорта (ДВ, бр. 45 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235110)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,14 @@
 
 Act id: `instruktsiya-2009-dv059-23636` (tags `instruktsiya-2009-dv059-23636/<day>`; `python tools/on.py <day> instruktsiya-2009-dv059-23636`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Инструкция № I-8 от 18 октомври 2012 г. за условията и реда за носене на служебно оръжие от държавните служители на Държавна агенция "Национална сигурност" (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70342)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

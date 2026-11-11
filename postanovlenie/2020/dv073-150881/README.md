@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2020-dv073-150881` (tags `postanovlenie-2020-dv073-150881/<day>`; `python tools/on.py <day> postanovlenie-2020-dv073-150881`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 403 от 22 декември 2020 г. за одобряване на допълнителни разходи по бюджета на Министерството на здравеопазването за 2020 г. (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154723)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

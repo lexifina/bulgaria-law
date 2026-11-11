@@ -19,6 +19,19 @@
 
 Act id: `naredba-2010-dv002-27895` (tags `naredba-2010-dv002-27895/<day>`; `python tools/on.py <day> naredba-2010-dv002-27895`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-5 от 2009 г. за реда за създаване на научни групи към музеите (ДВ, бр. 32 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32265)
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2009 г. за реда за създаване на научни групи към музеите (ДВ, бр. 5 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=60222)
+
+Cited by:
+
+- [Правилник за устройството и дейността на Националния литературен музей (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104025)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

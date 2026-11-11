@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2019-dv089-142757` (tags `postanovlenie-2019-dv089-142757/<day>`; `python tools/on.py <day> postanovlenie-2019-dv089-142757`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 349 от 19 декември 2019 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2019 г. за финансово осигуряване на дейности по национални програми за развитие на образованието (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144188)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

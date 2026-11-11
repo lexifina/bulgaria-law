@@ -49,6 +49,23 @@
 
 Act id: `postanovlenie-2006-dv100-2936` (tags `postanovlenie-2006-dv100-2936/<day>`; `python tools/on.py <day> postanovlenie-2006-dv100-2936`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 197 от 28 август 2012 г. за изменение и допълнение на Наредбата за условията и реда за кандидатстване, подбор и утвърждаване на приемни семейства и настаняване на деца в тях, приета с Постановление № 314 на Министерския съвет oт 2006 г. (ДВ, бр. 68 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=68073)
+- [Постановление № 266 от 26 юли 2024 г. за изменение и допълнение на Наредбата за условията и реда за кандидатстване, подбор и утвърждаване на приемни семейства и настаняване на деца в тях, приета с Постановление № 314 на Министерския съвет от 2006 г. (ДВ, бр. 64 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223302)
+
+Cited by:
+
+- [Постановление № 57 от 16 март 2007 г. за изменение и допълнение на Наредбата за критериите и стандартите за социални услуги за деца, приета с Постановление № 256 на Министерския съвет от 2003 г. (ДВ, бр. 26 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3456)
+- [Постановление № 211 от 28 септември 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за закрила на детето, приет с Постановление № 153 на Министерския съвет от 2003 г. (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118292)
+- [Постановление № 106 от 3 май 2019 г. за изменение и допълнение на Правилника за прилагане на Закона за семейни помощи за деца, приет с Постановление № 139 на Министерския съвет от 2002 г. (ДВ, бр. 38 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137336)
+- [Наредба № РД-06-46 от 4 ноември 2024 г. за реда за вписването, воденето, съхраняването, поддържането и функционирането на Националната електронна информационна система за пълно осиновяване (ДВ, бр. 97 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230357)
+- [Постановление № 249 от 19 ноември 2025 г. за изменение на нормативни актове (ДВ, бр. 99 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=239091)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

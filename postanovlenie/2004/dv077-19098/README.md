@@ -32,6 +32,18 @@
 
 Act id: `postanovlenie-2004-dv077-19098` (tags `postanovlenie-2004-dv077-19098/<day>`; `python tools/on.py <day> postanovlenie-2004-dv077-19098`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 52 от 10 март 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 24 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1560)
+- [Постановление № 65 от 24 март 2006 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 28 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1624)
+- [Постановление № 94 от 25 април 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 37 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3621)
+- [Постановление № 269 от 3 ноември 2008 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 97 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10756)
+- [Постановление № 62 от 8 април 2010 г. за отменяне на нормативни актове на Министерския съвет (ДВ, бр. 29 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31908)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

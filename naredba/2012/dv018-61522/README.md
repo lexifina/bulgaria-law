@@ -19,6 +19,14 @@
 
 Act id: `naredba-2012-dv018-61522` (tags `naredba-2012-dv018-61522/<day>`; `python tools/on.py <day> naredba-2012-dv018-61522`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 1 февруари 2023 г. за придобиване на квалификация по професията "Преводач от и на български жестов език" (ДВ, бр. 17 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=186460)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

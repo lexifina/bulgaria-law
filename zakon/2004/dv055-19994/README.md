@@ -196,6 +196,46 @@
 
 Act id: `zakon-2004-dv055-19994` (tags `zakon-2004-dv055-19994/<day>`; `python tools/on.py <day> zakon-2004-dv055-19994`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение на Закона за адвокатурата (ДВ, бр. 43 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=301)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 10 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1357)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 105 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2996)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 53 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34629)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 97 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70826)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156101)
+- [Указ № 234 за връщане за ново обсъждане в Народното събрание на Закона за изменение и допълнение на Закона за адвокатурата, приет от 50-ото Народно събрание на 11 септември 2024 г., и мотивите към указа (ДВ, бр. 81 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=228833)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241067)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 53 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9882)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 97 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/14139)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163509)
+- [Закон за изменение и допълнение на Закона за адвокатурата (ДВ, бр. 17 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/166682)
+
+Cited by:
+
+- [Закон за частните съдебни изпълнители (ДВ, бр. 43 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=298)
+- [Закон за правната помощ (ДВ, бр. 79 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=891)
+- [Закон за изменение и допълнение на Закона за съдебната власт (ДВ, бр. 39 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1864)
+- [Граждански процесуален кодекс (ДВ, бр. 59 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3951)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 69 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7316)
+- [Наредба № 1 от 9 юли 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 64 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19564)
+- [Решение № 6 от 27 април 2010 г. по конституционно дело № 16 от 2009 г. (ДВ, бр. 35 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=32587)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42158)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 82 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57511)
+- [Решение № 4 от 12 април 2016 г. по конституционно дело № 10 от 2015 г. (ДВ, бр. 32 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102790)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2004 г. за минималните размери на адвокатските възнаграждения (ДВ, бр. 84 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108484)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154571)
+- [Определение № 15 от 12 декември 2024 г. по конституционно дело № 31 от 2024 г. (ДВ, бр. 106 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=231451)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 92 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246208)
+- [Закон за изменение и допълнение на Закона за развитието на академичния състав в Република България (ДВ, бр. 101 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9913)
+- [Закон за изменение и допълнение на Закона за митниците (ДВ, бр. 82 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/13663)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 110 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/163449)
+- [Закон за изменение и допълнение на Гражданския процесуален кодекс (ДВ, бр. 92 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167503)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

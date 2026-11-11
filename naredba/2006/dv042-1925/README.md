@@ -70,6 +70,18 @@
 
 Act id: `naredba-2006-dv042-1925` (tags `naredba-2006-dv042-1925/<day>`; `python tools/on.py <day> naredba-2006-dv042-1925`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 102 от 21 август 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта африканска чума по свинете и за условията и реда за прилагането им (ДВ, бр. 83 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2693)
+- [Наредба № ДВ-103 от 21 август 2006 г. за мерките за профилактика, ограничаване и ликвидиране на болестта инфлуенца (грип) по птиците (ДВ, бр. 83 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2694)
+- [Наредба № 40 от 2 декември 2008 г. за условията за отглеждане на селскостопански животни, съобразени с техните физиологически и поведенчески особености (ДВ, бр. 106 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=12951)
+- [Наредба № 2 от 25 март 2019 г. за ограничаване и ликвидиране на заразна плевропневмония по говедата, ентеровирусен енцефаломиелит по свинете (Тешенска болест), дурин и инфекциозна анемия по конете (ДВ, бр. 27 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136164)
+- [Наредба за отменяне на наредби на министъра на земеделието и храните (ДВ, бр. 54 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243830)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

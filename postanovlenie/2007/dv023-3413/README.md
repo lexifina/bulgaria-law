@@ -53,6 +53,15 @@
 
 Act id: `postanovlenie-2007-dv023-3413` (tags `postanovlenie-2007-dv023-3413/<day>`; `python tools/on.py <day> postanovlenie-2007-dv023-3413`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 23 от 9 февруари 2015 г. за приемане на Наредба за организацията на Единната система за туристическа информация (ДВ, бр. 13 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91982)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

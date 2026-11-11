@@ -26,6 +26,14 @@
 
 Act id: `postanovlenie-2021-dv104-166233` (tags `postanovlenie-2021-dv104-166233/<day>`; `python tools/on.py <day> postanovlenie-2021-dv104-166233`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 2 от 7 януари 2022 г. за изменение на Постановление № 427 на Министерския съвет от 2021 г. за определяне на условията, критериите, реда и размера на средствата по схема за предоставяне на безвъзмездни средства на туроператорите за възстановяване на средства от клиенти по нереализирани пътувания вследствие на COVID-19 (ДВ, бр. 3 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=167515)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

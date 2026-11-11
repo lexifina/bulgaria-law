@@ -59,6 +59,15 @@
 
 Act id: `postanovlenie-2019-dv074-141393` (tags `postanovlenie-2019-dv074-141393/<day>`; `python tools/on.py <day> postanovlenie-2019-dv074-141393`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 12 от 4 февруари 2022 г. за приемане на Устройствен правилник на Министерството на електронното управление (ДВ, бр. 11 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=168849)
+- [Постановление № 89 от 19 май 2022 г. за създаване на Изпълнителна агенция "Инфраструктура на електронното управление" и за приемане на Устройствен правилник на Изпълнителна агенция "Инфраструктура на електронното управление" и на Устройствен правилник на Министерството на електронното управление (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173490)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

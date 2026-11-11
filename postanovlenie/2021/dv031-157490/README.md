@@ -39,6 +39,20 @@
 
 Act id: `postanovlenie-2021-dv031-157490` (tags `postanovlenie-2021-dv031-157490/<day>`; `python tools/on.py <day> postanovlenie-2021-dv031-157490`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 32 от 23 февруари 2023 г. за изменение и допълнение на Устройствения правилник на Държавния авиационен оператор, приет с Постановление № 152 на Министерския съвет от 2021 г. (ДВ, бр. 19 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=187522)
+- [Постановление № 172 от 3 септември 2025 г. за допълнение на Устройствения правилник на Държавния авиационен оператор, приет с Постановление № 152 на Министерския съвет от 2021 г. (ДВ, бр. 73 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237209)
+
+Cited by:
+
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 200 от 19 октомври 2023 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 89 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200748)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

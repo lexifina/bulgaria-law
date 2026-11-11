@@ -39,6 +39,15 @@
 
 Act id: `postanovlenie-2011-dv002-42454` (tags `postanovlenie-2011-dv002-42454/<day>`; `python tools/on.py <day> postanovlenie-2011-dv002-42454`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 76 от 31 март 2011 г. за приемане на Наредба за реда и начина за изчисляване размера на финансовата гаранция или еквивалентна застраховка и за предоставяне на годишни справки-декларации при трансграничен превоз на отпадъци (ДВ, бр. 29 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47857)
+- [Постановление № 355 от 28 декември 2012 г. за приемане на Наредба за излязлото от употреба електрическо и електронно оборудване (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71720)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

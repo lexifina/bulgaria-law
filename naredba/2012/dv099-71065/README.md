@@ -90,6 +90,20 @@
 
 Act id: `naredba-2012-dv099-71065` (tags `naredba-2012-dv099-71065/<day>`; `python tools/on.py <day> naredba-2012-dv099-71065`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 35 от 2012 г. за правилата и нормите за проектиране, изграждане и въвеждане в експлоатация на кабелни електронни съобщителни мрежи и прилежащата им инфраструктура (ДВ, бр. 38 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242742)
+
+Cited by:
+
+- [Задължително тълкуване на чл. 5, чл. 6 и § 5 от преходните и заключителните разпоредби на Наредба № 35 от 2012 г. за правилата и нормите за проектиране, изграждане и въвеждане в експлоатация на кабелни електронни съобщителни мрежи и прилежащата им инфраструктура (ДВ, бр. 51 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95685)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2010 г. за проектиране, изграждане и поддържане на електрически уредби за ниско напрежение в сгради (ДВ, бр. 95 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109484)
+- [Постановление № 286 от 18 ноември 2019 г. за приемане на Наредба за правилата и нормите за проектиране, разполагане и демонтаж на електронни съобщителни мрежи (ДВ, бр. 92 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143075)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

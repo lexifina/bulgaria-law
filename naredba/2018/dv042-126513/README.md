@@ -39,6 +39,18 @@
 
 Act id: `naredba-2018-dv042-126513` (tags `naredba-2018-dv042-126513/<day>`; `python tools/on.py <day> naredba-2018-dv042-126513`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 6 от 2018 г. за реда за лицензиране на спортните организации в Република България (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137725)
+
+Cited by:
+
+- [адм. дело № 7404/2018 г. (ДВ, бр. 65 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129048)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

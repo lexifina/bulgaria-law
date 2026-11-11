@@ -67,6 +67,16 @@
 
 Act id: `naredba-2014-dv067-87157` (tags `naredba-2014-dv067-87157/<day>`; `python tools/on.py <day> naredba-2014-dv067-87157`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90962)
+- [Наредба № 7 от 6 ноември 2015 г. за критериите за определяне на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща напълно или частично лекарствени продукти, медицински изделия и диетични храни за специални медицински цели (ДВ, бр. 89 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98626)
+- [Наредба за изменение и допълнение на Наредба № 47 от 2010 г. за организацията, дейността и условията и реда за финансиране на националните и републиканските консултанти (ДВ, бр. 25 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

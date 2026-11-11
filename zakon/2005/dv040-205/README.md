@@ -12,6 +12,15 @@
 
 Act id: `zakon-2005-dv040-205` (tags `zakon-2005-dv040-205/<day>`; `python tools/on.py <day> zakon-2005-dv040-205`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Решение № 802 от 4 декември 2007 г. за приемане на Списък на защитени зони за опазване на дивите птици и на Списък на защитени зони за опазване на природните местообитания и на дивата флора и фауна (ДВ, бр. 107 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4548)
+- [Неофициален раздел на "Държавен вестник", брой 14 от 13.2.2007 г. (ДВ, бр. 14 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140188)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -88,6 +88,20 @@
 
 Act id: `postanovlenie-2008-dv044-5197` (tags `postanovlenie-2008-dv044-5197/<day>`; `python tools/on.py <day> postanovlenie-2008-dv044-5197`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 26 от 26 февруари 2010 г. за изменение и допълнение на Наредбата за условията и реда за издаване на визи и определяне на визовия режим, приета с Постановление № 82 на Министерския съвет от 2008 г. (ДВ, бр. 18 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30524)
+
+Cited by:
+
+- [Постановление № 220 от 8 септември 2008 г. за допълнение на Тарифа № 4 за таксите, които се събират в системата на Министерството на вътрешните работи по Закона за държавните такси, одобрена с Постановление № 53 на Министерския съвет от 1998 г. (ДВ, бр. 81 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8710)
+- [Инструкция № Iз-2593 от 3 ноември 2010 г. за условията и реда за съгласуване на молби за визи (ДВ, бр. 97 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41229)
+- [Постановление № 198 от 11 юли 2011 г. за приемане на Наредба за условията и реда за издаване на визи и определяне на визовия режим (ДВ, бр. 55 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54512)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

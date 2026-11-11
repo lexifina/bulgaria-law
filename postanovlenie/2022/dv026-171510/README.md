@@ -28,6 +28,19 @@
 
 Act id: `postanovlenie-2022-dv026-171510` (tags `postanovlenie-2022-dv026-171510/<day>`; `python tools/on.py <day> postanovlenie-2022-dv026-171510`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 60 от 19 април 2023 г. за изменение на Постановление № 38 на Министерския съвет от 2022 г. за създаване на Съвет за електронно управление при Министерския съвет (ДВ, бр. 37 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=191610)
+
+Cited by:
+
+- [Постановление № 146 от 20 септември 2023 г. за изменение и допълнение на Постановление № 38 на Министерския съвет от 2022 г. за създаване на Съвет по цифровото десетилетие при Министерския съвет (ДВ, бр. 81 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=199854)
+- [Постановление № 114 от 2 юли 2025 г. за изменение на Постановление № 38 на Министерския съвет от 2022 г. за създаване на Съвет по цифровото десетилетие при Министерския съвет (ДВ, бр. 54 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235822)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

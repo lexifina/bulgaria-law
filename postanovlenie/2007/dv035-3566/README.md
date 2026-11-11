@@ -19,6 +19,23 @@
 
 Act id: `postanovlenie-2007-dv035-3566` (tags `postanovlenie-2007-dv035-3566/<day>`; `python tools/on.py <day> postanovlenie-2007-dv035-3566`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 232 от 24 септември 2008 г. за изменение и допълнение на Постановление № 84 на Министерския съвет от 2007 г. за определяне на реда за управление и наблюдение на инструмента за подобряване на бюджетните парични потоци и за подпомагане изпълнението на Шенгенското споразумение (ДВ, бр. 86 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=9158)
+- [Постановление № 127 от 25 май 2009 г. за изменение и допълнение на Постановление № 84 на Министерския съвет от 2007 г. за определяне на реда за управление и наблюдение на Инструмента за подобряване на бюджетните парични потоци и за подпомагане изпълнението на Шенгенското споразумение (ДВ, бр. 42 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21483)
+- [Постановление № 310 от 17 декември 2009 г. за изменение на Постановление № 84 на Министерския съвет от 2007 г. за определяне на реда за управление и наблюдение на инструмента за подобряване на бюджетните парични потоци и за подпомагане изпълнението на Шенгенското споразумение (ДВ, бр. 102 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28070)
+
+Cited by:
+
+- [Постановление № 305 от 11 декември 2008 г. за създаване на Изпълнителна агенция "Одит на средствата от Европейския съюз" (ДВ, бр. 108 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13363)
+- [Постановление № 147 от 9 юни 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 45 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22353)
+- [Постановление № 384 от 30 декември 2015 г. за изменение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 2 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99861)
+- [Постановление № 236 от 13 септември 2016 г. за изменение на Устройствения правилник на Министерството на финансите, приет с Постановление № 249 на Министерския съвет от 2009 г. (ДВ, бр. 74 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107599)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

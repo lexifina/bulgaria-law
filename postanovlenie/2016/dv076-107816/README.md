@@ -308,6 +308,18 @@
 
 Act id: `postanovlenie-2016-dv076-107816` (tags `postanovlenie-2016-dv076-107816/<day>`; `python tools/on.py <day> postanovlenie-2016-dv076-107816`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 22 от 2 април 2025 г. за изменение и допълнение на Наредбата за осигуряване безопасността на ядрените централи, приета с Постановление № 245 на Министерския съвет от 2016 г. (ДВ, бр. 29 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233902)
+
+Cited by:
+
+- [Постановление № 65 от 30 април 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 37 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125977)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

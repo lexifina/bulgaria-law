@@ -118,6 +118,21 @@
 
 Act id: `postanovlenie-2011-dv096-59006` (tags `postanovlenie-2011-dv096-59006/<day>`; `python tools/on.py <day> postanovlenie-2011-dv096-59006`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 283 от 9 ноември 2012 г. за изменение и допълнение на Наредбата за условията и реда за възлагане изпълнението на дейности в горските територии - държавна и общинска собственост, и за ползването на дървесина и недървесни горски продукти, приета с Постановление № 316 на Министерския съвет от 2011 г. (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70352)
+- [Постановление № 311 от 21 ноември 2016 г. за изменение и допълнение на Наредбата за условията и реда за възлагане изпълнението на дейности в горските територии - държавна и общинска собственост, и за ползването на дървесина и недървесни горски продукти, приета с Постановление № 316 на Министерския съвет от 2011 г. (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109485)
+- [Постановление № 51 от 26 март 2019 г. за изменение и допълнение на Наредбата за условията и реда за възлагане изпълнението на дейности в горските територии - държавна и общинска собственост, и за ползването на дървесина и недървесни горски продукти, приета с Постановление № 316 на Министерския съвет от 2011 г. (ДВ, бр. 26 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136160)
+
+Cited by:
+
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

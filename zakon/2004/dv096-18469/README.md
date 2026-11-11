@@ -83,6 +83,44 @@
 
 Act id: `zakon-2004-dv096-18469` (tags `zakon-2004-dv096-18469/<day>`; `python tools/on.py <day> zakon-2004-dv096-18469`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 19 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16922)
+- [Закон за изменение и допълнение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 65 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129001)
+- [Закон за изменение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 79 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141585)
+- [Закон за изменение и допълнение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 26 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146932)
+- [Закон за изменение и допълнение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 65 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78166)
+- [Закон за изменение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 79 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157141)
+- [Закон за изменение и допълнение на Закона за опазване на обществения ред при провеждането на спортни мероприятия (ДВ, бр. 26 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157342)
+
+Cited by:
+
+- [Закон за изменение на Закона за физическото възпитание и спорта (ДВ, бр. 103 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1177)
+- [Данъчно-осигурителен процесуален кодекс (ДВ, бр. 105 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1225)
+- [Административнопроцесуален кодекс (ДВ, бр. 30 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1655)
+- [Закон за търговския регистър (ДВ, бр. 34 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1721)
+- [Закон за изменение и допълнение на Кодекса за социално осигуряване (ДВ, бр. 82 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2662)
+- [Закон за изменение и допълнение на Закона за Министерството на вътрешните работи (ДВ, бр. 69 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7316)
+- [Закон за изменение и допълнение на Закона за физическото възпитание и спорта (ДВ, бр. 50 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34209)
+- [Решение № 3 от 4 май 2011 г. по конституционно дело № 19 от 2010 г. (ДВ, бр. 38 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49597)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86030)
+- [Закон за частната охранителна дейност (ДВ, бр. 10 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121973)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130127)
+- [Закон за физическото възпитание и спорта (ДВ, бр. 86 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130637)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135056)
+- [Закон за изменение и допълнение на Закона за физическото възпитание и спорта (ДВ, бр. 50 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9753)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за Министерството на вътрешните работи (ДВ, бр. 53 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14662)
+- [Закон за частната охранителна дейност (ДВ, бр. 10 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77752)
+- [Закон за изменение и допълнение на Административнопроцесуалния кодекс (ДВ, бр. 77 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/66637)
+- [Закон за физическото възпитание и спорта (ДВ, бр. 86 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/77819)
+- [Закон за изменение и допълнение на Закона за защита на личните данни (ДВ, бр. 17 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/78179)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

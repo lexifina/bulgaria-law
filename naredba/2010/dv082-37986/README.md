@@ -61,6 +61,20 @@
 
 Act id: `naredba-2010-dv082-37986` (tags `naredba-2010-dv082-37986/<day>`; `python tools/on.py <day> naredba-2010-dv082-37986`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № РД-07-7 от 2010 г. за условията и реда за водене и съхраняване на регистрите за пълно осиновяване (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118224)
+- [Наредба за изменение и допълнение на Наредба № РД-07-7 от 2010 г. за условията и реда за водене и съхраняване на регистрите за пълно осиновяване (ДВ, бр. 39 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137350)
+
+Cited by:
+
+- [Наредба № РД-06-46 от 4 ноември 2024 г. за реда за вписването, воденето, съхраняването, поддържането и функционирането на Националната електронна информационна система за пълно осиновяване (ДВ, бр. 97 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230357)
+- [Наредба за допълнение на Наредба № РД-06-46 от 4 ноември 2024 г. за реда за вписването, воденето, съхраняването, поддържането и функционирането на Националната електронна информационна система за пълно осиновяване (ДВ, бр. 58 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235898)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

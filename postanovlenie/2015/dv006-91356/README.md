@@ -95,6 +95,16 @@
 
 Act id: `postanovlenie-2015-dv006-91356` (tags `postanovlenie-2015-dv006-91356/<day>`; `python tools/on.py <day> postanovlenie-2015-dv006-91356`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 155 от 25 юни 2015 г. за определяне на второстепенните разпоредители по бюджета на Министерството на правосъдието (ДВ, бр. 48 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95527)
+- [Постановление № 305 от 11 ноември 2015 г. за одобряване на допълнителни плащания по бюджета на Министерството на околната среда и водите за 2015 г. (ДВ, бр. 89 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98735)
+- [Наредба № 3 от 27 ноември 2015 г. за условията и реда за планирането, разпределението и разходването на средствата от държавния бюджет за финансиране на присъщата на държавните висши училища научна или художественотворческа дейност (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99096)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

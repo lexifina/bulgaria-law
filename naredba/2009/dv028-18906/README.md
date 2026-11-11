@@ -53,6 +53,14 @@
 
 Act id: `naredba-2009-dv028-18906` (tags `naredba-2009-dv028-18906/<day>`; `python tools/on.py <day> naredba-2009-dv028-18906`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-16-301 от 10 март 2014 г. за обстоятелствата, подлежащи на вписване в регистрите на лицата, извършващи сертифициране на сгради и обследване за енергийна ефективност на промишлени системи, реда за получаване на информация от регистрите, условията и реда за придобиване на квалификация и необходимите технически средства за извършване на дейностите по обследване и сертифициране (ДВ, бр. 27 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83492)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

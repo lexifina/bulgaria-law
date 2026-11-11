@@ -113,6 +113,23 @@
 
 Act id: `postanovlenie-2013-dv002-71667` (tags `postanovlenie-2013-dv002-71667/<day>`; `python tools/on.py <day> postanovlenie-2013-dv002-71667`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 163 от 15 август 2025 г. за изменение на Наредбата за отработените масла и отпадъчните нефтопродукти, приета с Постановление № 352 на Министерския съвет от 2012 г. (ДВ, бр. 68 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236834)
+
+Cited by:
+
+- [Наредба № 2 от 22 януари 2013 г. за реда и образците, по които се предоставя информация за дейностите по отпадъците, както и реда за водене на публични регистри (ДВ, бр. 10 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72463)
+- [Наредба № 1 от 4 юни 2014 г. за реда и образците, по които се предоставя информация за дейностите по отпадъците, както и реда за водене на публични регистри (ДВ, бр. 51 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85654)
+- [Постановление № 76 от 12 април 2016 г. за приемане на Наредба за определяне на реда и размера за заплащане на продуктова такса (ДВ, бр. 30 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102745)
+- [Постановление № 144 от 16 юли 2018 г. за изменение и допълнение на нормативни актове (ДВ, бр. 60 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128696)
+- [Постановление № 420 от 31 декември 2020 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 2 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154886)
+- [Постановление № 419 от 14 декември 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 100 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181805)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

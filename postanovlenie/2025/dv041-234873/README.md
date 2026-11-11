@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2025-dv041-234873` (tags `postanovlenie-2025-dv041-234873/<day>`; `python tools/on.py <day> postanovlenie-2025-dv041-234873`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 215 от 22 октомври 2025 г. за изменение на Постановление № 59 на Министерския съвет от 2025 г. за определяне на Правила за верифициране и отчитане на допустимите разходи и за извършване на плащания по Инвестиционната програма за общински проекти, одобрена със Закона за държавния бюджет на Република България за 2025 г. (ДВ, бр. 89 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238379)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

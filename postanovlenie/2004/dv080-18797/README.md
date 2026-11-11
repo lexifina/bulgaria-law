@@ -53,6 +53,21 @@
 
 Act id: `postanovlenie-2004-dv080-18797` (tags `postanovlenie-2004-dv080-18797/<day>`; `python tools/on.py <day> postanovlenie-2004-dv080-18797`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 206 от 27 септември 2005 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 78 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=886)
+- [Постановление № 66 от 27 март 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 28 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1625)
+- [Постановление № 57 от 21 март 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 33 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5016)
+- [Постановление № 286 от 3 декември 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 98 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27551)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 174 от 7 август 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 62 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67486)
+- [Постановление № 197 от 2 септември 2013 г. за приемане на Устройствен правилник на Министерството на икономиката и енергетиката (ДВ, бр. 79 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78673)
+- [Постановление № 264 от 22 ноември 2013 г. за приемане на Устройствен правилник на Българската агенция за инвестиции (ДВ, бр. 103 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80715)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

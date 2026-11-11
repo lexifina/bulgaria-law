@@ -47,6 +47,14 @@
 
 Act id: `naredba-2006-dv063-2321` (tags `naredba-2006-dv063-2321/<day>`; `python tools/on.py <day> naredba-2006-dv063-2321`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 5 от 13 декември 2007 г. за условията и реда за издаване на телефонни указатели, включително работата с базите данни, тяхното прехвърляне и ползване, както и за предоставяне на телефонни справочни услуги (ДВ, бр. 1 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4632)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

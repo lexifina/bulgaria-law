@@ -65,6 +65,16 @@
 
 Act id: `naredba-2005-dv054-491` (tags `naredba-2005-dv054-491/<day>`; `python tools/on.py <day> naredba-2005-dv054-491`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 26 от 14 октомври 2010 г. за специфичните изисквания за директни доставки на малки количества суровини и храни от животински произход (ДВ, бр. 84 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38294)
+- [Решение № 16678 от 16 декември 2011 г. по административно дело № 5693 от 2011 г. (ДВ, бр. 46 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65444)
+- [Наредба № 11 от 2 април 2015 г. за профилактика, ограничаване и ликвидиране на някои заразни болести по пчелите (ДВ, бр. 27 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=93580)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

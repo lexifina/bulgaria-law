@@ -38,6 +38,14 @@
 
 Act id: `naredba-2018-dv067-129153` (tags `naredba-2018-dv067-129153/<day>`; `python tools/on.py <day> naredba-2018-dv067-129153`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-1059 от 26 септември 2019 г. за условията и реда за изплащане на допълнителни възнаграждения на държавните служители за научна степен, за полагане на труд през нощта от 22,00 до 6,00 ч., за полагане на труд на официални празници и за времето на разположение (ДВ, бр. 78 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141618)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

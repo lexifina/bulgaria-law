@@ -50,6 +50,15 @@
 
 Act id: `postanovlenie-2008-dv051-5281` (tags `postanovlenie-2008-dv051-5281/<day>`; `python tools/on.py <day> postanovlenie-2008-dv051-5281`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 231 от 25 септември 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 79 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25397)
+- [Наредба № 4 от 3 септември 2011 г. за условията и реда за финансово подпомагане на младежки дейности (ДВ, бр. 71 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56619)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

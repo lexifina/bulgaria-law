@@ -23,6 +23,14 @@
 
 Act id: `naredba-2004-dv055-20007` (tags `naredba-2004-dv055-20007/<day>`; `python tools/on.py <day> naredba-2004-dv055-20007`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 4 от 10 май 2006 г. за употребата на определени епоксидни деривати при производството на материали и предмети, предназначени за контакт с храни (ДВ, бр. 42 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1923)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

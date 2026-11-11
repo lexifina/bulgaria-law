@@ -36,6 +36,23 @@
 
 Act id: `naredba-2010-dv004-28533` (tags `naredba-2010-dv004-28533/<day>`; `python tools/on.py <day> naredba-2010-dv004-28533`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 1 от 2010 г. за работните заплати на персонала в звената от системата на народната просвета (ДВ, бр. 14 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72896)
+- [Наредба за изменение на Наредба № 1 от 2010 г. за работните заплати на персонала в звената от системата на народната просвета (ДВ, бр. 71 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87500)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2010 г. за работните заплати на персонала в звената от системата на народната просвета (ДВ, бр. 92 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98984)
+
+Cited by:
+
+- [Постановление № 372 от 20 ноември 2014 г. за одобряване на допълнителни трансфери за 2014 г. за изплащане на допълнително възнаграждение за постигнати резултати от труда на директорите на общинските детски градини, училища и обслужващи звена и на педагогическите специалисти в общинските обслужващи звена (ДВ, бр. 98 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89952)
+- [Постановление № 327 от 30 ноември 2015 г. за одобряване на допълнителни трансфери за 2015 г. за изплащане на допълнително възнаграждение за постигнати резултати от труда на директорите на общинските детски градини, училища и обслужващи звена и на педагогическите специалисти в общинските обслужващи звена (ДВ, бр. 94 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=99136)
+- [Постановление № 317 от 24 ноември 2016 г. за одобряване на допълнителни трансфери за 2016 г. за изплащане на допълнително възнаграждение за постигнати резултати от труда на директорите на общинските детски градини, училища и центрове за подкрепа за личностно развитие (ДВ, бр. 96 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109606)
+- [Наредба № 4 от 20 април 2017 г. за нормиране и заплащане на труда (ДВ, бр. 34 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113826)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -36,6 +36,17 @@
 
 Act id: `postanovlenie-2007-dv031-3521` (tags `postanovlenie-2007-dv031-3521/<day>`; `python tools/on.py <day> postanovlenie-2007-dv031-3521`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 2 от 11 февруари 2010 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане за 2010 г. (ДВ, бр. 14 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29875)
+- [Наредба № 5 от 10 март 2010 г. за условията за допустимост за подпомагане на земеделските парцели по схеми за плащане на площ и за общите и регионални критерии за постоянни пасища (ДВ, бр. 22 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=30929)
+- [Наредба № 2 от 21 февруари 2011 г. за специалните изисквания за участие в одобрените схеми за национални доплащания и за специфично подпомагане (ДВ, бр. 18 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45619)
+- [Постановление № 307 от 21 декември 2013 г. за приемане на Наредба за условията и реда за издаване на лицензии и сертификати при внос и износ на земеделски и преработени земеделски продукти и контрола върху вноса и износа на земеделски и преработени земеделски продукти (ДВ, бр. 2 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81598)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

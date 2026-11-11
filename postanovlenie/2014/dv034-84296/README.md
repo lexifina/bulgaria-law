@@ -41,6 +41,15 @@
 
 Act id: `postanovlenie-2014-dv034-84296` (tags `postanovlenie-2014-dv034-84296/<day>`; `python tools/on.py <day> postanovlenie-2014-dv034-84296`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 131 от 27 май 2016 г. за приемане на Правилник за прилагане на Закона за Националната служба за охрана (ДВ, бр. 42 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104228)
+- [Постановление № 152 от 12 април 2021 г. за приемане на Устройствен правилник на Държавния авиационен оператор (ДВ, бр. 31 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=157490)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

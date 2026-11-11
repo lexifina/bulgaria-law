@@ -44,6 +44,18 @@
 
 Act id: `postanovlenie-2022-dv080-178549` (tags `postanovlenie-2022-dv080-178549/<day>`; `python tools/on.py <day> postanovlenie-2022-dv080-178549`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 120 от 1 септември 2026 г. за изменение и допълнение на Наредбата за финансовите условия при командироване на военнослужещи и цивилни служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия в международни организации или в други международни инициативи извън територията на страната, приета с Постановление № 308 на Министерския съвет от 2022 г. (ДВ, бр. 81 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245738)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-22 от 14.08.2018 г. за условията и реда за изплащане на порционни пари в Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и Българската армия (ДВ, бр. 47 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=195185)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -16,6 +16,14 @@
 
 Act id: `postanovlenie-2020-dv074-150942` (tags `postanovlenie-2020-dv074-150942/<day>`; `python tools/on.py <day> postanovlenie-2020-dv074-150942`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 275 от 8 октомври 2020 г. за изменение и допълнение на Постановление № 219 на Министерския съвет от 2020 г. за одобряване на допълнителни разходи и трансфери по бюджета на Министерството на образованието и науката за 2020 г. (ДВ, бр. 88 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152231)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,14 @@
 
 Act id: `postanovlenie-2008-dv007-4694` (tags `postanovlenie-2008-dv007-4694/<day>`; `python tools/on.py <day> postanovlenie-2008-dv007-4694`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 206 от 15 юли 2011 г. за одобряване на Тарифа за таксите, които се събират за обучение за придобиване на правоспособност за класификатор на кланични трупове по скалата EUROP (ДВ, бр. 57 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54913)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

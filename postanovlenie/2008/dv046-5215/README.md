@@ -17,6 +17,16 @@
 
 Act id: `postanovlenie-2008-dv046-5215` (tags `postanovlenie-2008-dv046-5215/<day>`; `python tools/on.py <day> postanovlenie-2008-dv046-5215`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+- [Постановление № 114 от 10 юни 2010 г. за наблюдение и контрол върху финансовото състояние на държавни предприятия и търговски дружества с над 50 на сто държавно участие в капитала и на дружествата, които те контролират (ДВ, бр. 46 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33840)
+- [Поправка в Постановление № 87 от 2008 г. за наблюдение на финансовото състояние на държавни предприятия и търговски дружества с над 50 на сто държавно участие в капитала и на дружества, които те контролират (ДВ, бр. 46 от 2008 г.) (ДВ, бр. 50 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41013)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

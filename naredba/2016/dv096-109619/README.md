@@ -36,6 +36,18 @@
 
 Act id: `naredba-2016-dv096-109619` (tags `naredba-2016-dv096-109619/<day>`; `python tools/on.py <day> naredba-2016-dv096-109619`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 21 от 2016 г. за условията и реда за регистрацията, етикетирането и контрола на торове, подобрители на почвата, биологично активни вещества и хранителни субстрати (ДВ, бр. 86 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130813)
+
+Cited by:
+
+- [Наредба № 4 от 22 октомври 2025 г. за условията и реда за прилагане на интервенцията "Насърчаване на практики за консервационни обработки за устойчиво управление на почвите", включена в Стратегическия план за развитие на земеделието и селските райони за периода 2023 - 2027 г. (ДВ, бр. 92 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238418)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -72,6 +72,14 @@
 
 Act id: `naredba-2018-dv052-127339` (tags `naredba-2018-dv052-127339/<day>`; `python tools/on.py <day> naredba-2018-dv052-127339`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-611 от 11 юни 2018 г. за условията и реда за организация и извършване на видовете частна охранителна дейност по чл. 5, ал. 1 от Закона за частната охранителна дейност и за определяне на примерна типова класификация на обектите, на които се осъществява охрана по чл. 5, ал. 1, т. 2 и 3 от Закона за частната охранителна дейност (ДВ, бр. 22 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=188163)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

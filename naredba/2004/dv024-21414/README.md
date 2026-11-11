@@ -41,6 +41,25 @@
 
 Act id: `naredba-2004-dv024-21414` (tags `naredba-2004-dv024-21414/<day>`; `python tools/on.py <day> naredba-2004-dv024-21414`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 86 от 2004 г. за одобряване типа на габаритни светлини, стоп-сигнали и дневни светлини на моторни превозни средства и техните ремаркета (ДВ, бр. 92 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2827)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 55 от 2003 г. за условията и реда за одобрение на типа на нови колесни трактори по отношение на устройствата за осветяване и светлинна сигнализация (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2613)
+- [Наредба за изменение и допълнение на Наредба № 80 от 2004 г. за одобряване типа на предни фарове против мъгла на моторни превозни средства и техните ремаркета (ДВ, бр. 79 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2624)
+- [Наредба за изменение и допълнение на Наредба № 85 от 2004 г. за одобряване типа на фарове за заден ход на моторни превозни средства и техните ремаркета (ДВ, бр. 80 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2639)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба № 125 от 10 януари 2005 г. за одобряване типа на нови двуколесни и триколесни моторни превозни средства по отношение монтирането на устройства за осветяване и светлинна сигнализация (ДВ, бр. 15 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14865)
+- [Наредба за изменение и допълнение на Наредба № Н-32 от 2011 г. за периодичните прегледи за проверка на техническата изправност на пътните превозни средства (ДВ, бр. 99 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71030)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92313)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

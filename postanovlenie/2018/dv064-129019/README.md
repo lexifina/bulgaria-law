@@ -19,6 +19,14 @@
 
 Act id: `postanovlenie-2018-dv064-129019` (tags `postanovlenie-2018-dv064-129019/<day>`; `python tools/on.py <day> postanovlenie-2018-dv064-129019`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 315 от 19 декември 2018 г. за одобряване на допълнителни разходи/трансфери за 2018 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133283)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

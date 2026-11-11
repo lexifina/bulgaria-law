@@ -83,6 +83,20 @@
 
 Act id: `postanovlenie-2008-dv065-6488` (tags `postanovlenie-2008-dv065-6488/<day>`; `python tools/on.py <day> postanovlenie-2008-dv065-6488`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 140 от 4 юни 2009 г. за приемане на Устройствен правилник на Министерството на отбраната (ДВ, бр. 44 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22117)
+
+Cited by:
+
+- [Постановление № 228 от 16 септември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 83 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8967)
+- [Постановление № 43 от 19 февруари 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 16 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16506)
+- [Постановление № 54 от 1 април 2010 г. за приемане на Устройствен правилник на Министерството на отбраната и за определяне на структури на пряко подчинение на министъра на отбраната (ДВ, бр. 27 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=31710)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

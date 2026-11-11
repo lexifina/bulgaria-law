@@ -20,6 +20,22 @@
 
 Act id: `naredba-2008-dv022-4863` (tags `naredba-2008-dv022-4863/<day>`; `python tools/on.py <day> naredba-2008-dv022-4863`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 6 от 2008 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 52 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23038)
+- [Наредба за изменение и допълнение на Наредба № 6 от 2008 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 64 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128910)
+- [Наредба за допълнение на Наредба № 6 от 2008 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 99 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143634)
+
+Cited by:
+
+- [Решение № 12 от 2 октомври 2012 г. по конституционно дело № 4 от 2012 г. (ДВ, бр. 79 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69257)
+- [адм. дело № 2519/2017 г. (ДВ, бр. 12 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122297)
+- [Наредба № Н-2 от 18 февруари 2020 г. за утвърждаване на образци на заповед за изпълнение, заявление за издаване на заповед за изпълнение и други книжа във връзка със заповедното производство (ДВ, бр. 15 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146278)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

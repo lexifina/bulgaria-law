@@ -14,6 +14,14 @@
 
 Act id: `postanovlenie-2023-dv103-201785` (tags `postanovlenie-2023-dv103-201785/<day>`; `python tools/on.py <day> postanovlenie-2023-dv103-201785`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 337 от 20 декември 2023 г. за изменение на Постановление № 272 на Министерския съвет от 2023 г. за извършване на промени на утвърдените със Закона за държавния бюджет на Република България за 2023 г. максимални размери на ангажиментите за разходи, които могат да бъдат поети през 2023 г., по бюджета на Министерския съвет (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=202102)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

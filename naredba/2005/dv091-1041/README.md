@@ -51,6 +51,19 @@
 
 Act id: `naredba-2005-dv091-1041` (tags `naredba-2005-dv091-1041/<day>`; `python tools/on.py <day> naredba-2005-dv091-1041`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 32 от 2005 г. за условията и реда за извършване на индивидуален дозиметричен контрол на лицата, работещи с източници на йонизиращи лъчения (ДВ, бр. 109 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154590)
+
+Cited by:
+
+- [Постановление № 294 от 4 декември 2008 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 106 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13011)
+- [Постановление № 93 от 15 април 2013 г. за приемане на Наредба за радиационна защита при дейности с радиационни дефектоскопи (ДВ, бр. 38 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75263)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -46,6 +46,17 @@
 
 Act id: `postanovlenie-2004-dv087-18673` (tags `postanovlenie-2004-dv087-18673/<day>`; `python tools/on.py <day> postanovlenie-2004-dv087-18673`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 189 от 28 юли 2006 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 64 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2330)
+- [Наредба за допълнение на Наредба № 34 от 2005 г. за реда за заплащане от републиканския бюджет на лечението на българските граждани за заболявания, извън обхвата на задължителното здравно осигуряване (ДВ, бр. 95 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2868)
+- [Постановление № 295 от 3 декември 2007 г. за приемане на Наредба за условията, правилата и реда за регулиране и регистриране на цените на лекарствените продукти (ДВ, бр. 104 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4525)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2001 г. за условията и реда за предписване и отпускане на лекарствени продукти (ДВ, бр. 32 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15191)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

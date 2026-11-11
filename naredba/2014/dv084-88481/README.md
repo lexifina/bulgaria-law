@@ -35,6 +35,14 @@
 
 Act id: `naredba-2014-dv084-88481` (tags `naredba-2014-dv084-88481/<day>`; `python tools/on.py <day> naredba-2014-dv084-88481`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-1130 от 14 септември 2015 г. за реда за употреба на физическа сила и помощни средства от органите на Министерството на вътрешните работи (ДВ, бр. 73 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97494)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

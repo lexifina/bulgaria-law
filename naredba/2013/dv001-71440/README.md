@@ -87,6 +87,14 @@
 
 Act id: `naredba-2013-dv001-71440` (tags `naredba-2013-dv001-71440/<day>`; `python tools/on.py <day> naredba-2013-dv001-71440`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 8121з-310 от 17 юли 2014 г. за преназначаване на държавните служители в Министерството на вътрешните работи (ДВ, бр. 60 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86641)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

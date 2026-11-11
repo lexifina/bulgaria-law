@@ -140,6 +140,14 @@
 
 Act id: `pravilnik-2008-dv028-4940` (tags `pravilnik-2008-dv028-4940/<day>`; `python tools/on.py <day> pravilnik-2008-dv028-4940`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за структурата и организацията на дейността на служба "Военна полиция" (ДВ, бр. 45 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5207)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

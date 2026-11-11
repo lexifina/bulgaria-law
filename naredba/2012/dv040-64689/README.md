@@ -29,6 +29,14 @@
 
 Act id: `naredba-2012-dv040-64689` (tags `naredba-2012-dv040-64689/<day>`; `python tools/on.py <day> naredba-2012-dv040-64689`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № РД-02-20-1 от 5 февруари 2026 г. за Единната информационна система на етажната собственост (ДВ, бр. 20 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241331)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

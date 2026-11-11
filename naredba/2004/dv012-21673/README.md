@@ -43,6 +43,19 @@
 
 Act id: `naredba-2004-dv012-21673` (tags `naredba-2004-dv012-21673/<day>`; `python tools/on.py <day> naredba-2004-dv012-21673`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № I-13 от 2004 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 48 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3811)
+
+Cited by:
+
+- [Постановление № 82 от 26 април 2004 г. за изменение и допълнение на Правилника за прилагане на Закона за Министерството на вътрешните работи, приет с Постановление № 212 на Министерския съвет от 1998 г. (ДВ, бр. 37 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=21148)
+- [Наредба № Із-1201 от 1 юни 2010 г. за реда за временно настаняване на чужденци, за организацията и дейността на специалните домове за временно настаняване на чужденци (ДВ, бр. 45 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33652)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

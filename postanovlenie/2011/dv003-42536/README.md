@@ -28,6 +28,16 @@
 
 Act id: `postanovlenie-2011-dv003-42536` (tags `postanovlenie-2011-dv003-42536/<day>`; `python tools/on.py <day> postanovlenie-2011-dv003-42536`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 264 от 19 септември 2011 г. за изменение и допълнение на Тарифата за таксите, които се събират от Комисията за регулиране на съобщенията за 2011 г. по Закона за електронните съобщения, приета с Постановление № 336 на Министерския съвет от 2010 г. (ДВ, бр. 75 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56906)
+- [Постановление № 329 от 20 декември 2012 г. за изменение и допълнение на Тарифата за таксите, които се събират от Комисията за регулиране на съобщенията по Закона за пощенските услуги и по Закона за електронния документ и електронния подпис, приета с Постановление № 144 на Министерския съвет от 2002 г. (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71570)
+- [Постановление № 307 от 16 декември 2025 г. за изменение на Тарифата за таксите, които се събират от Комисията за регулиране на съобщенията по реда на Закона за електронните съобщителни мрежи и физическа инфраструктура, приета с Постановление № 247 на Министерския съвет от 2018 г. (ДВ, бр. 112 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240053)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

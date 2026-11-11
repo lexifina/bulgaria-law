@@ -51,6 +51,18 @@
 
 Act id: `postanovlenie-2012-dv072-68522` (tags `postanovlenie-2012-dv072-68522/<day>`; `python tools/on.py <day> postanovlenie-2012-dv072-68522`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 122 от 15 май 2015 г. за изменение на Устройствения правилник на Агенцията за устойчиво енергийно развитие, приет с Постановление № 217 на Министерския съвет от 2012 г. (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94572)
+
+Cited by:
+
+- [Постановление № 21 от 12 февруари 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 14 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82641)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

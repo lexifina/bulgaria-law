@@ -41,6 +41,22 @@
 
 Act id: `naredba-2005-dv008-14716` (tags `naredba-2005-dv008-14716/<day>`; `python tools/on.py <day> naredba-2005-dv008-14716`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 9 от 25 април 2006 г. за утвърждаване на медицински стандарт "Трансфузионна хематология" (ДВ, бр. 42 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1924)
+- [Наредба № 1 от 22 декември 2008 г. за реда и критериите за регистрация за упражняване на частна лесовъдска практика и за извършване на дейности в горския фонд (ДВ, бр. 8 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14024)
+- [Наредба № 36 от 21 юли 2009 г. за условията и реда за упражняване на държавен здравен контрол (ДВ, бр. 63 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23955)
+- [Наредба № 21 от 24 юни 2010 г. за утвърждаване на медицински стандарт "Инфекциозни болести" (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34500)
+- [Наредба № 39 от 26 август 2010 г. за утвърждаване на медицински стандарт по профилактика и контрол на вътреболничните инфекции (ДВ, бр. 69 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36415)
+- [Наредба № 49 от 18 октомври 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 83 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=38353)
+- [Постановление № 316 от 24 ноември 2011 г. за приемане на Наредба за условията и реда за възлагане изпълнението на дейности в горските територии - държавна и общинска собственост, и за ползването на дървесина и недървесни горски продукти (ДВ, бр. 96 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59006)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2005 г. за реда за регистрация, съобщаване и отчет на заразните болести (ДВ, бр. 5 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133679)
+- [Наредба № Н-4 от 30 март 2026 г. за организацията на профилактиката и контрола на инфекциите, свързани с медицинското обслужване (ДВ, бр. 35 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=242497)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

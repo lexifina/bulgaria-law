@@ -48,6 +48,18 @@
 
 Act id: `postanovlenie-2012-dv033-63999` (tags `postanovlenie-2012-dv033-63999/<day>`; `python tools/on.py <day> postanovlenie-2012-dv033-63999`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 351 от 27 декември 2012 г. за приемане на Наредба за батерии и акумулатори и за негодни за употреба батерии и акумулатори (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71666)
+- [Постановление № 352 от 27 декември 2012 г. за приемане на Наредба за отработените масла и отпадъчните нефтопродукти (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71667)
+- [Постановление № 355 от 28 декември 2012 г. за приемане на Наредба за излязлото от употреба електрическо и електронно оборудване (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71720)
+- [Постановление № 11 от 15 януари 2013 г. за приемане на Наредба за излезлите от употреба моторни превозни средства (ДВ, бр. 7 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72166)
+- [Постановление № 256 от 13 ноември 2013 г. за приемане на Наредба за излязлото от употреба електрическо и електронно оборудване (ДВ, бр. 100 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=80462)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

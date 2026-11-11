@@ -30,6 +30,20 @@
 
 Act id: `naredba-2007-dv051-3867` (tags `naredba-2007-dv051-3867/<day>`; `python tools/on.py <day> naredba-2007-dv051-3867`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 2007 г. за специфичните изисквания към материалите и предметите, различни от пластмаси, предназначени за контакт с храни (ДВ, бр. 83 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8840)
+
+Cited by:
+
+- [Наредба № 2 от 23 януари 2008 г. за материалите и предметите от пластмаси, предназначени за контакт с храни (ДВ, бр. 13 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4766)
+- [Наредба за изменение и допълнение на Наредба № 39 от 2003 г. за условията и реда за контрол за съответствие на зърнените продукти (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6254)
+- [Постановление № 20 от 1 февруари 2011 г. за изменение и допълнение на Наредбата за изискванията към напитките от плодове, приета с Постановление № 219 на Министерския съвет от 2002 г. (ДВ, бр. 12 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44144)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

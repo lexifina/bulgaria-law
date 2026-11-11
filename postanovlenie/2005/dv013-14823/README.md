@@ -37,6 +37,21 @@
 
 Act id: `postanovlenie-2005-dv013-14823` (tags `postanovlenie-2005-dv013-14823/<day>`; `python tools/on.py <day> postanovlenie-2005-dv013-14823`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 255 от 17 октомври 2012 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 81 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69585)
+- [Постановление № 24 от 19 февруари 2018 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 17 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122996)
+- [Постановление № 311 от 20 ноември 2020 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 100 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=153925)
+- [Постановление № 241 от 22 юли 2021 г. за изменение и допълнение на Тарифата за таксите, които се събират от органите на държавния здравен контрол и националните центрове по проблемите на общественото здраве по Закона за здравето, приета с Постановление № 242 на Министерския съвет от 2007 г. (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160390)
+
+Cited by:
+
+- [Постановление № 242 от 8 октомври 2007 г. за приемане на Тарифа за таксите, които се събират от органите на държавния здравен контрол по Закона за здравето (ДВ, бр. 83 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4296)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

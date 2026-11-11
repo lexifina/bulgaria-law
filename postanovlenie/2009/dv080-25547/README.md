@@ -63,6 +63,22 @@
 
 Act id: `postanovlenie-2009-dv080-25547` (tags `postanovlenie-2009-dv080-25547/<day>`; `python tools/on.py <day> postanovlenie-2009-dv080-25547`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 116 от 10 юни 2010 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 239 на Министерския съвет от 2009 г. (ДВ, бр. 46 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33860)
+- [Постановление № 61 от 11 март 2011 г. за изменение и допълнение на Устройствения правилник на Министерството на културата, приет с Постановление № 239 на Министерския съвет от 2009 г. (ДВ, бр. 22 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46619)
+- [Постановление № 267 от 26 септември 2011 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 239 на Министерския съвет от 2009 г. (ДВ, бр. 77 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57068)
+- [Постановление № 155 от 20 юли 2012 г. за изменение на Устройствения правилник на Министерството на културата, приет с Постановление № 239 на Министерския съвет от 2009 г. (ДВ, бр. 57 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=66816)
+- [Постановление № 176 от 16 август 2013 г. за приемане на Устройствен правилник на Министерството на културата (ДВ, бр. 74 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78362)
+
+Cited by:
+
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

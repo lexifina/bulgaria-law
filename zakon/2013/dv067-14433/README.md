@@ -11,6 +11,15 @@
 
 Act id: `zakon-2013-dv067-14433` (tags `zakon-2013-dv067-14433/<day>`; `python tools/on.py <day> zakon-2013-dv067-14433`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за администрацията на Върховния административен съд (ДВ, бр. 24 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83406)
+- [Правилник за администрацията на Върховния административен съд (ДВ, бр. 37 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103497)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

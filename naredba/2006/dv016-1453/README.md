@@ -14,6 +14,23 @@
 
 Act id: `naredba-2006-dv016-1453` (tags `naredba-2006-dv016-1453/<day>`; `python tools/on.py <day> naredba-2006-dv016-1453`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 3 от 2006 г. за годишните отчети на частните съдебни изпълнители (ДВ, бр. 51 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138856)
+
+Cited by:
+
+- [Заповед № ЛС-04-751 от 18 април 2013 г. (ДВ, бр. 41 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75384)
+- [Заповед № ЛС-04-1089 от 2 юли 2013 г. (ДВ, бр. 60 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77132)
+- [Заповед № ЛС-04-671 от 19 април 2017 г. (ДВ, бр. 35 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113940)
+- [Неофициален раздел на "Държавен вестник", брой 27 от 30.3.2007 г. (ДВ, бр. 27 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140201)
+- [Неофициален раздел на "Държавен вестник", брой 83 от 16.10.2007 г. (ДВ, бр. 83 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140473)
+- [Неофициален раздел на "Държавен вестник", брой 2 от 8.01.2008 г. (ДВ, бр. 2 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142513)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -135,6 +135,46 @@
 
 Act id: `naredba-2004-dv088-18667` (tags `naredba-2004-dv088-18667/<day>`; `python tools/on.py <day> naredba-2004-dv088-18667`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 73 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=817)
+- [Наредба за допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 109 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18182)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 54 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34634)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 11 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=43743)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 39 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=75221)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 7 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91152)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 62 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=116597)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 85 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118935)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2004 г. за корабните документи (ДВ, бр. 88 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130829)
+- [Наредба за изменение и допълнение на Наредба № 5 от 1.09.2004 г. за корабните документи (ДВ, бр. 65 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160564)
+
+Cited by:
+
+- [Наредба № 20 от 17 юни 2005 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 82 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=938)
+- [Наредба № 21 от 5 юли 2005 г. за безопасността на риболовните кораби (ДВ, бр. 84 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=958)
+- [Постановление № 230 от 1 ноември 2005 г. за приемане на Наредба за изискванията за третиране и транспортиране на отработени масла и отпадъчни нефтопродукти (ДВ, бр. 90 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1019)
+- [Задължителни правила за българските пристанища на река Дунав (ДВ, бр. 66 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6489)
+- [Наредба № 22 от 22 декември 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 9 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14476)
+- [Наредба № 18 от 3 декември 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 109 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18181)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 30 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18992)
+- [Наредба за изменение и допълнение на Наредба № 22 от 2008 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 49 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22611)
+- [Наредба № 3 от 7 януари 2010 г. за придобиване на квалификация по професията "Организатор по експлоатация на пристанищата и флота" (ДВ, бр. 11 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29119)
+- [Разпореждане № 95 А/10.3.2011 г. (ДВ, бр. 25 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46835)
+- [Наредба № 20 от 8 септември 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 73 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=56692)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2001 г. за реда за посещение, маневриране и престой на корабите в пристанищата и рейдовете, за товарене и разтоварване, за качване на кораба и слизане на брега на екипажа, на пътниците или други лица, както и за връзка на кораба с брега (ДВ, бр. 83 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69699)
+- [Постановление № 352 от 27 декември 2012 г. за приемане на Наредба за отработените масла и отпадъчните нефтопродукти (ДВ, бр. 2 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71667)
+- [Наредба № 17 от 22 януари 2013 г. за извършване на превози на товари по вътрешни водни пътища (ДВ, бр. 10 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72554)
+- [Наредба за изменение и допълнение на Наредба № 18 от 2004 г. за регистрация на пристанищните оператори в Република България (ДВ, бр. 15 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82640)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2004 г. за прегледите на корабите и корабопритежателите (ДВ, бр. 5 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=91219)
+- [Наредба за изменение и допълнение на Наредба № 20 от 2011 г. относно правилата за безопасност и стандартите за пътническите кораби (ДВ, бр. 52 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115557)
+- [Наредба № 22 от 11 октомври 2018 г. за техническите изисквания към корабите, плаващи по вътрешните водни пътища (ДВ, бр. 89 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130871)
+- [Наредба за изменение и допълнение на Наредба № 3 от 2004 г. за измерване тонажа на морските кораби (ДВ, бр. 65 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=223388)
+- [Наредба за изменение и допълнение на Наредба № 12 от 16.12.2010 г. за проверките по реда на държавния пристанищен контрол (ДВ, бр. 87 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237819)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

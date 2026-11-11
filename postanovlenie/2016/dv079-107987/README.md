@@ -104,6 +104,24 @@
 
 Act id: `postanovlenie-2016-dv079-107987` (tags `postanovlenie-2016-dv079-107987/<day>`; `python tools/on.py <day> postanovlenie-2016-dv079-107987`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 110 от 9 юни 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за трудовата миграция и трудовата мобилност, приет с Постановление № 255 на Министерския съвет от 2016 г. (ДВ, бр. 48 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115199)
+- [Постановление № 212 от 28 септември 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за трудовата миграция и трудовата мобилност, приет с Постановление № 255 на Министерския съвет от 2016 г. (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118293)
+- [Постановление № 81 от 21 май 2018 г. за изменение и допълнение на Правилника за прилагане на Закона за трудовата миграция и трудовата мобилност, приет с Постановление № 255 на Министерския съвет от 2016 г. (ДВ, бр. 43 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=126745)
+- [Постановление № 199 от 17 юни 2021 г. за изменение и допълнение на Правилника за прилагане на Закона за трудовата миграция и трудовата мобилност, приет с Постановление № 255 на Министерския съвет от 2016 г. (ДВ, бр. 52 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159230)
+- [Постановление № 85 от 16 юли 2026 г. за изменение и допълнение на Правилника за прилагане на Закона за трудовата миграция и трудовата мобилност, приет с Постановление № 255 на Министерския съвет от 2016 г. (ДВ, бр. 66 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=244880)
+
+Cited by:
+
+- [Постановление № 65 от 29 март 2019 г. за приемане на Правилник за прилагане на Закона за хората с увреждания (ДВ, бр. 27 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=136329)
+- [Постановление № 73 от 5 май 2022 г. за преобразуване на Държавната агенция за българите в чужбина към Министерския съвет в Изпълнителна агенция за българите в чужбина към министъра на външните работи (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173148)
+- [Постановление № 78 от 30 май 2025 г. за определяне на условията и реда за получаване и за обмена на информация и за съвместна дейност на институциите по чл. 7а, ал. 3 от Закона за насърчаване на заетостта (ДВ, бр. 45 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235200)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

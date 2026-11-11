@@ -67,6 +67,20 @@
 
 Act id: `naredba-2008-dv070-7166` (tags `naredba-2008-dv070-7166/<day>`; `python tools/on.py <day> naredba-2008-dv070-7166`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № 3 от 2008 г. за условията и реда за организиране и провеждане на обучения от Дипломатическия институт към министъра на външните работи (ДВ, бр. 5 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28518)
+- [Наредба за изменение и допълнение на Наредба № 3 от 17.07.2008 г. за условията и реда за организиране и провеждане на обучения от Дипломатическия институт към министъра на външните работи (ДВ, бр. 18 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156241)
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 1 от 2008 г. за условията и реда за атестиране на дипломатическите служители (ДВ, бр. 9 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=184780)
+- [Наредба за изменение и допълнение на Наредба № 2 от 2008 г. за условията и реда за провеждане на конкурсите за дипломатически служители (ДВ, бр. 96 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230231)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

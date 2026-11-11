@@ -70,6 +70,20 @@
 
 Act id: `postanovlenie-2011-dv063-55766` (tags `postanovlenie-2011-dv063-55766/<day>`; `python tools/on.py <day> postanovlenie-2011-dv063-55766`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 323 от 13 декември 2012 г. за изменение и допълнение на Наредбата за оценка на поземлени имоти в горски територии, приета с Постановление № 236 на Министерския съвет от 2011 г. (ДВ, бр. 99 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71258)
+- [Постановление № 102 от 26 април 2016 г. за изменение и допълнение на Наредбата за оценка на поземлени имоти в горски територии, приета с Постановление № 236 на Министерския съвет от 2011 г. (ДВ, бр. 34 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103334)
+- [Постановление № 372 от 30 декември 2025 г. за изменение на Наредбата за оценка на поземлени имоти в горски територии, приета с Постановление № 236 на Министерския съвет от 2011 г. (ДВ, бр. 2 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240410)
+
+Cited by:
+
+- [Постановление № 283 от 9 ноември 2012 г. за изменение и допълнение на Наредбата за условията и реда за възлагане изпълнението на дейности в горските територии - държавна и общинска собственост, и за ползването на дървесина и недървесни горски продукти, приета с Постановление № 316 на Министерския съвет от 2011 г. (ДВ, бр. 90 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70352)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

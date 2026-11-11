@@ -43,6 +43,22 @@
 
 Act id: `postanovlenie-2010-dv096-41092` (tags `postanovlenie-2010-dv096-41092/<day>`; `python tools/on.py <day> postanovlenie-2010-dv096-41092`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 40 от 16 февруари 2011 г. за изменение на Устройствения правилник на Центъра за превенция и противодействие на корупцията и организираната престъпност към Министерския съвет, приет с Постановление № 280 на Министерския съвет от 2010 г. (ДВ, бр. 16 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=45415)
+- [Постановление № 118 от 5 май 2011 г. за изменение на Устройствения правилник на Центъра за превенция и противодействие на корупцията и организираната престъпност към Министерския съвет, приет с Постановление № 280 на Министерския съвет от 2010 г. (ДВ, бр. 37 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=49637)
+- [Постановление № 110 от 30 април 2015 г. за изменение и допълнение на Устройствения правилник на Центъра за превенция и противодействие на корупцията и организираната престъпност към Министерския съвет, приет с Постановление № 280 на Министерския съвет от 2010 г. (ДВ, бр. 33 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94234)
+
+Cited by:
+
+- [Постановление № 156 от 10 юни 2011 г. за допълнение на Постановление № 158 на Министерския съвет от 2010 г. за създаване на Център за превенция и противодействие на корупцията и организираната престъпност към Министерския съвет (ДВ, бр. 46 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=52316)
+- [Постановление № 59 от 9 март 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 22 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62574)
+- [Постановление № 161 от 26 юни 2015 г. за изменение и допълнение на Постановление № 21 на Министерския съвет от 2015 г. за създаване на Национален съвет по миграция и интеграция (ДВ, бр. 50 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95589)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

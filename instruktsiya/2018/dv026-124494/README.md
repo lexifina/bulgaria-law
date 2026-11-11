@@ -46,6 +46,14 @@
 
 Act id: `instruktsiya-2018-dv026-124494` (tags `instruktsiya-2018-dv026-124494/<day>`; `python tools/on.py <day> instruktsiya-2018-dv026-124494`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Инструкция за изменение и допълнение на Инструкция № 8121з-282 от 2018 г. за определяне вида, условията и реда за издаване и ползване на служебните карти в Министерството на вътрешните работи (ДВ, бр. 90 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152410)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

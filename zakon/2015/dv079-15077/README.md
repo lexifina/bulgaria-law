@@ -479,9 +479,72 @@
 
 Act id: `zakon-2015-dv079-15077` (tags `zakon-2015-dv079-15077/<day>`; `python tools/on.py <day> zakon-2015-dv079-15077`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 82 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157480)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 34 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163959)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164595)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 23 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165067)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 69 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165582)
+
+Cited by:
+
+- [Заповед № 472 от 8 август 2016 г. (ДВ, бр. 66 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=106675)
+- [Постановление № 288 от 4 ноември 2016 г. за изменение и допълнение на Правилника за прилагане на Закона за социално подпомагане, приет с Постановление № 243 на Министерския съвет oт 1998 г. (ДВ, бр. 89 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108942)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109662)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109996)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 105 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110584)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=120521)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 92 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131338)
+- [Закон за изменение и допълнение на Закона за вероизповеданията (ДВ, бр. 108 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133382)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=135546)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 42 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137773)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=143562)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 82 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=151650)
+- [Закон за изменение на Закона за корпоративното подоходно облагане (ДВ, бр. 17 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=169756)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 34 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=172450)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185401)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201486)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 23 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209085)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 27 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209844)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 69 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224947)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233694)
+- [Заповед № 1119 от 9 юли 2025 г. (ДВ, бр. 60 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236092)
+- [Закон за изменение и допълнение на Закона за движението по пътищата (ДВ, бр. 64 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236331)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 85 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245803)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/42241)
+- [Закон за държавния бюджет на Република България за 2017 г. (ДВ, бр. 98 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66460)
+- [Закон за изменение и допълнение на Кодекса на труда (ДВ, бр. 105 от 2016 г.)](https://www.parliament.bg/bg/laws/ID/66498)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за държавния бюджет на Република България за 2018 г. (ДВ, бр. 99 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/77854)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 92 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78174)
+- [Закон за изменение и допълнение на Закона за вероизповеданията (ДВ, бр. 108 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78252)
+- [Закон за социалните услуги (ДВ, бр. 24 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156809)
+- [Закон за изменение и допълнение на Закона за отбраната и въоръжените сили на Република България (ДВ, бр. 42 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156930)
+- [Закон за държавния бюджет на Република България за 2020 г. (ДВ, бр. 100 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/157202)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 82 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157480)
+- [Закон за изменение и допълнение на Закона за корпоративното подоходно облагане (ДВ, бр. 17 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163998)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 34 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/163959)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164595)
+- [Закон за изменение и допълнение на Закона за защита на растенията (ДВ, бр. 102 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164718)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 23 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165067)
+- [Закон за изменение и допълнение на Закона за професионалното образование и обучение (ДВ, бр. 27 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165143)
+- [Закон за изменение и допълнение на Закона за предучилищното и училищното образование (ДВ, бр. 69 от 2024 г.)](https://www.parliament.bg/bg/laws/ID/165582)
+- [Закон за държавния бюджет на Република България за 2025 г. (ДВ, бр. 26 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166100)
+- [Закон за изменение и допълнение на Закона за движението по пътищата (ДВ, бр. 64 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166333)
+- [Закон за изменение и допълнение на Закона за висшето образование (ДВ, бр. 85 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167512)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.

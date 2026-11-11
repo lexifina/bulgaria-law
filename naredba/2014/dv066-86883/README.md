@@ -15,6 +15,16 @@
 
 Act id: `naredba-2014-dv066-86883` (tags `naredba-2014-dv066-86883/<day>`; `python tools/on.py <day> naredba-2014-dv066-86883`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 7 от 3 ноември 2016 г. за утвърждаване на медицински стандарт "Педиатрия" (ДВ, бр. 90 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=109001)
+- [Наредба за изменение на Наредба № 49 от 2010 г. за основните изисквания, на които трябва да отговарят устройството, дейността и вътрешният ред на лечебните заведения за болнична помощ и домовете за медико-социални грижи (ДВ, бр. 63 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160399)
+- [Наредба за изменение и допълнение на Наредба № 26 от 2007 г. за предоставяне на акушерска помощ на здравно неосигурени жени и за извършване на изследвания извън обхвата на задължителното здравно осигуряване на деца и бременни жени (ДВ, бр. 50 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=218000)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

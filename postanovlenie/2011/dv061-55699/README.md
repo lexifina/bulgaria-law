@@ -43,6 +43,27 @@
 
 Act id: `postanovlenie-2011-dv061-55699` (tags `postanovlenie-2011-dv061-55699/<day>`; `python tools/on.py <day> postanovlenie-2011-dv061-55699`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 371 от 19 ноември 2014 г. за допълнение на Постановление № 234 на Министерския съвет от 2011 г. за политиката на Република България на участие в международното сътрудничество за развитие (ДВ, бр. 97 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=89917)
+- [Постановление № 127 от 20 май 2016 г. за изменение и допълнение на Постановление № 234 на Министерския съвет от 2011 г. за политиката на Република България на участие в международното сътрудничество за развитие (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104087)
+
+Cited by:
+
+- [Постановление № 1 от 9 януари 2013 г. за изпълнението на държавния бюджет на Република България за 2013 г. (ДВ, бр. 6 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72079)
+- [Постановление № 142 от 8 юли 2013 г. за приемане на Устройствен правилник на Министерството на младежта и спорта (ДВ, бр. 62 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77301)
+- [Постановление № 202 от 11 септември 2013 г. за приемане на Устройствен правилник на Министерството на външните работи (ДВ, бр. 80 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78837)
+- [Постановление № 102 от 7 май 2014 г. за координация по въпросите на регионалното сътрудничество (ДВ, бр. 40 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84873)
+- [Постановление № 72 от 5 май 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 36 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173147)
+- [Постановление № 88 от 13 май 2022 г. за изменение и допълнение на Устройствения правилник на Министерството на външните работи, приет с Постановление № 202 на Министерския съвет от 2013 г. (ДВ, бр. 38 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173380)
+- [Постановление № 115 от 8 юни 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 43 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173993)
+- [Постановление № 156 от 5 юли 2022 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 53 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174680)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

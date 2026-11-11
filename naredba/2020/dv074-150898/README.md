@@ -28,6 +28,15 @@
 
 Act id: `naredba-2020-dv074-150898` (tags `naredba-2020-dv074-150898/<day>`; `python tools/on.py <day> naredba-2020-dv074-150898`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 7.07.2020 г. за условията и реда за съставяне и поддържане на регистъра на одитните комитети в предприятията от обществен интерес (ДВ, бр. 6 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232196)
+- [Наредба за изменение и допълнение на Наредба № 1 от 7 юли 2020 г. за условията и реда за съставяне и поддържане на регистъра на одитните комитети в предприятията от обществен интерес (ДВ, бр. 18 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=233153)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

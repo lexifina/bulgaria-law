@@ -76,6 +76,15 @@
 
 Act id: `postanovlenie-2018-dv104-132921` (tags `postanovlenie-2018-dv104-132921/<day>`; `python tools/on.py <day> postanovlenie-2018-dv104-132921`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 248 от 4 октомври 2019 г. за изменение и допълнение на Наредбата за условията, реда и правилата за изграждане и функциониране на смесена система за таксуване на различните категории пътни превозни средства на база време и на база изминато разстояние, приета с Постановление № 285 на Министерския съвет от 2018 г. (ДВ, бр. 80 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141811)
+- [Постановление № 191 от 23 септември 2025 г. за изменение и допълнение на Наредбата за условията, реда и правилата за изграждане и функциониране на смесена система за таксуване на различните категории пътни превозни средства на база време и на база изминато разстояние, приета с Постановление № 285 на Министерския съвет от 2018 г. (ДВ, бр. 79 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=237537)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

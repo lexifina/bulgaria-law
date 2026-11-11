@@ -25,6 +25,17 @@
 
 Act id: `naredba-2011-dv099-59328` (tags `naredba-2011-dv099-59328/<day>`; `python tools/on.py <day> naredba-2011-dv099-59328`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Iз-2895 от 2011 г. за реда, по който търговци по чл. 2, ал. 2, т. 2 от Закона за частната охранителна дейност удостоверяват, че отговарят на изискванията на Закона за частната охранителна дейност (ДВ, бр. 64 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=67637)
+- [Наредба за изменение на Наредба № Із-2895 от 2011 г. за реда, по който търговци по чл. 2, ал. 2, т. 2 от Закона за частната охранителна дейност удостоверяват, че отговарят на изискванията на Закона за частната охранителна дейност (ДВ, бр. 82 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88241)
+- [Наредба за изменение на Наредба № Із-2895 от 2011 г. за реда, по който търговци по чл. 2, ал. 2, т. 2 от Закона за частната охранителна дейност удостоверяват, че отговарят на изискванията на Закона за частната охранителна дейност (ДВ, бр. 37 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94596)
+- [Наредба за отменяне на Наредба № Iз-2895 от 15.11.2011 г. за реда, по който търговци по чл. 2, ал. 2, т. 2 от Закона за частната охранителна дейност удостоверяват, че отговарят на изискванията на Закона за частната охранителна дейност (ДВ, бр. 54 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=159441)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

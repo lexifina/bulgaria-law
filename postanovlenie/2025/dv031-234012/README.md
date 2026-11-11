@@ -32,6 +32,21 @@
 
 Act id: `postanovlenie-2025-dv031-234012` (tags `postanovlenie-2025-dv031-234012/<day>`; `python tools/on.py <day> postanovlenie-2025-dv031-234012`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 241 от 12 ноември 2025 г. за изменение и допълнение на Постановление № 24 от 2025 г. за организация и координация на подготовката на Социалния план за климата на Република България и за определяне на органите и структурите, отговорни за неговата подготовка и управление, и на техните основни функции (ДВ, бр. 98 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238927)
+- [Постановление № 226 от 29 октомври 2026 г. за изменение и допълнение на Постановление № 24 на Министерския съвет от 2025 г. за организация и координация на подготовката на Социалния план за климата на Република България и за определяне на органите и структурите, отговорни за неговата подготовка и управление, и на техните основни функции (ДВ, бр. 100 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247205)
+
+Cited by:
+
+- [Постановление № 120 от 8 юли 2025 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 56 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235915)
+- [Постановление № 62 от 13 май 2026 г. за изменение и допълнение на Устройствения правилник на Министерския съвет и на неговата администрация, приет с Постановление № 229 на Министерския съвет от 2009 г. (ДВ, бр. 45 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243430)
+- [Постановление № 223 от 26 октомври 2026 г. за изменение на нормативни актове на Министерския съвет (ДВ, бр. 99 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247129)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

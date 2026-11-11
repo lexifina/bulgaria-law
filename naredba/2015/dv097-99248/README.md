@@ -20,6 +20,15 @@
 
 Act id: `naredba-2015-dv097-99248` (tags `naredba-2015-dv097-99248/<day>`; `python tools/on.py <day> naredba-2015-dv097-99248`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 45 от 9 март 2016 г. за приемане на Наредба за критериите и реда за избор на лечебни заведения за болнична помощ, с които Националната здравноосигурителна каса сключва договори (ДВ, бр. 19 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101771)
+- [Решение № РД-НС-04-24-1 от 29 март 2016 г. по чл. 54, ал. 9 и чл. 59а, ал. 6 от Закона за здравното осигуряване на Надзорния съвет на Националната здравноосигурителна касa (ДВ, бр. 25 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102299)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

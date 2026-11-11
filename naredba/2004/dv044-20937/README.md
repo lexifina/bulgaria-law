@@ -50,6 +50,21 @@
 
 Act id: `naredba-2004-dv044-20937` (tags `naredba-2004-dv044-20937/<day>`; `python tools/on.py <day> naredba-2004-dv044-20937`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 104 от 2004 г. за одобряване типа на нови моторни превозни средства по отношение на устройствата за защита срещу неразрешено използване и за одобряване типа на имобилайзери и на алармени системи (ДВ, бр. 13 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3262)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 123 от 2005 г. за одобряване типа на устройство за защита срещу неразрешено използване на нови дву- и триколесни моторни превозни средства (ДВ, бр. 74 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2523)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2003 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4181)
+- [Наредба № 123 от 10 януари 2005 г. за одобряване типа на устройство за защита срещу неразрешено използване на нови дву- и триколесни моторни превозни средства (ДВ, бр. 15 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14863)
+- [Наредба за изменение и допълнение на Наредба № 60 от 2009 г. за одобряване типа на нови моторни превозни средства и техните ремаркета (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78504)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

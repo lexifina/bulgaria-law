@@ -62,6 +62,24 @@
 
 Act id: `naredba-2005-dv029-15155` (tags `naredba-2005-dv029-15155/<day>`; `python tools/on.py <day> naredba-2005-dv029-15155`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 74 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2517)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 74 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4129)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 79 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8562)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 73 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=24975)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55434)
+- [Наредба за изменение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 82 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78942)
+- [Наредба за изменение и допълнение на Наредба № 11 от 2005 г. за приемане на ученици в държавни и в общински училища (ДВ, бр. 70 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=97326)
+
+Cited by:
+
+- [Наредба № 10 от 1 септември 2016 г. за организация на дейностите в училищното образование (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107428)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

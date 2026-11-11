@@ -26,6 +26,14 @@
 
 Act id: `postanovlenie-2008-dv020-4849` (tags `postanovlenie-2008-dv020-4849/<day>`; `python tools/on.py <day> postanovlenie-2008-dv020-4849`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 170 от 15 август 2013 г. за отмяна на Постановление № 27 на Министерския съвет от 2008 г. в изпълнение на Обща позиция 2006/318/ОВППС на Съвета на Европейския съюз от 27 април 2006 г. за подновяване на ограничителните мерки по отношение на Бирма/Мианмар, на Обща позиция 2007/248/ОВППС на Съвета на Европейския съюз от 23 април 2007 г. за подновяване на ограничителните мерки по отношение на Бирма/Мианмар и на Обща позиция 2007/750/ОВППС на Съвета на Европейския съюз от 19 ноември 2007 г. за изменение на Обща позиция 2006/318/ОВППС за подновяване на ограничителните мерки по отношение на Бирма/Мианмар (ДВ, бр. 73 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78334)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -132,6 +132,20 @@
 
 Act id: `naredba-2020-dv081-151599` (tags `naredba-2020-dv081-151599/<day>`; `python tools/on.py <day> naredba-2020-dv081-151599`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8 от 3.09.2020 г. за изискванията към дейността на централните депозитари на ценни книжа, централния регистър на ценни книжа и други лица, осъществяващи дейности, свързани със сетълмента на ценни книжа (ДВ, бр. 62 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160233)
+- [Наредба за изменение и допълнение на Наредба № 8 от 3.09.2020 г. за изискванията към дейността на централните депозитари на ценни книжа, централния регистър на ценни книжа и други лица, осъществяващи дейности, свързани със сетълмента на ценни книжа (ДВ, бр. 37 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173118)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 38 от 21.05.2020 г. за изискванията към дейността на инвестиционните посредници (ДВ, бр. 36 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=190379)
+- [Наредба за изменение и допълнение на Наредба № 38 от 21.05.2020 г. за изискванията към дейността на инвестиционните посредници (ДВ, бр. 90 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=229580)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

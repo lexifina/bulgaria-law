@@ -57,6 +57,19 @@
 
 Act id: `naredba-2015-dv062-96422` (tags `naredba-2015-dv062-96422/<day>`; `python tools/on.py <day> naredba-2015-dv062-96422`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 8121з-906 от 2015 г. за изискванията към продуктите за пожарогасене, редът за оценяване и удостоверяване на съответствието им с тези изисквания, задълженията на производителите, вносителите и дистрибуторите на продукти за пожарогасене и за реда за осъществяване на контрол (ДВ, бр. 12 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122301)
+- [Наредба за изменение и допълнение на Наредба № 8121з-906 от 30 юли 2015 г. за изискванията към продуктите за пожарогасене, редът за оценяване и удостоверяване на съответствието им с тези изисквания, задълженията на производителите, вносителите и дистрибуторите на продукти за пожарогасене и за реда за осъществяване на контрол (ДВ, бр. 12 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185101)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 3 от 25.05.2009 г. за аварийно-спасителното осигуряване на гражданските летища (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243866)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

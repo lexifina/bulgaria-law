@@ -18,6 +18,15 @@
 
 Act id: `postanovlenie-2005-dv024-15086` (tags `postanovlenie-2005-dv024-15086/<day>`; `python tools/on.py <day> postanovlenie-2005-dv024-15086`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 208 от 3 октомври 2005 г. за изменение и допълнение на Постановление № 40 на Министерския съвет от 2005 г. за условията и реда за отпускане на временни безлихвени заеми на общините от централния бюджет за финансиране на разходи по одобрени проекти по Специалната предприсъединителна програма на Европейския съюз за развитие на земеделието и селските райони в Република България (САПАРД) и за възстановяването им (ДВ, бр. 81 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=919)
+- [Постановление № 266 от 26 октомври 2012 г. за изменение и допълнение на Постановление № 40 на Министерския съвет от 2005 г. за условията и реда за отпускане на временни безлихвени заеми на общините от централния бюджет за финансиране на разходи по одобрени проекти по Специалната предприсъединителна програма на Европейския съюз за развитие на земеделието и селските райони в Република България (САПАРД) и за възстановяването им (ДВ, бр. 84 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69944)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -39,6 +39,16 @@
 
 Act id: `pravilnik-2015-dv072-97457` (tags `pravilnik-2015-dv072-97457/<day>`; `python tools/on.py <day> pravilnik-2015-dv072-97457`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник на Фонд "Научни изследвания" (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104115)
+- [Постановление № 233 от 10 септември 2016 г. за приемане на Наредба за условията и реда за оценката, планирането, разпределението и разходването на средствата от държавния бюджет за финансиране на присъщата на държавните висши училища научна или художественотворческа дейност (ДВ, бр. 73 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107512)
+- [Правилник за наблюдение и оценка на научноизследователската дейност, осъществявана от висшите училища и научните организации, както и на дейността на Фонд "Научни изследвания" (ДВ, бр. 54 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=127573)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

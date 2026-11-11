@@ -45,6 +45,19 @@
 
 Act id: `naredba-2011-dv090-58339` (tags `naredba-2011-dv090-58339/<day>`; `python tools/on.py <day> naredba-2011-dv090-58339`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 6 от 2011 г. за изискванията за пощенската сигурност (ДВ, бр. 78 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141587)
+- [Наредба за изменение и допълнение на Наредба № 6 от 1.11.2011 г. за изискванията за пощенската сигурност (ДВ, бр. 81 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245639)
+
+Cited by:
+
+- [Постановление № 17 от 7 февруари 2014 г. за изменение и допълнение на Наредбата за условията и реда за извършване на превоз на радиоактивни вещества, приета с Постановление № 156 на Министерския съвет от 2005 г. (ДВ, бр. 13 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82555)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

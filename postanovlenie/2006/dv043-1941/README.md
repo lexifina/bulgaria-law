@@ -25,6 +25,19 @@
 
 Act id: `postanovlenie-2006-dv043-1941` (tags `postanovlenie-2006-dv043-1941/<day>`; `python tools/on.py <day> postanovlenie-2006-dv043-1941`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 179 от 20 август 2013 г. за изменение и допълнение на Наредбата за означаване вида на материалите, използвани в основните части на обувките, приета с Постановление № 112 на Министерския съвет от 2006 г. (ДВ, бр. 75 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78408)
+
+Cited by:
+
+- [Постановление № 217 от 11 септември 2007 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 75 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4144)
+- [Постановление № 268 от 12 ноември 2009 г. за приемане на Устройствен правилник на Министерството на икономиката, енергетиката и туризма (ДВ, бр. 93 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=26899)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

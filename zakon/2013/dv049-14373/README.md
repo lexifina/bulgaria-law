@@ -11,6 +11,20 @@
 
 Act id: `zakon-2013-dv049-14373` (tags `zakon-2013-dv049-14373/<day>`; `python tools/on.py <day> zakon-2013-dv049-14373`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за отнемане на незаконно придобито имущество и на нейната администрация (ДВ, бр. 52 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=76513)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за отнемане на незаконно придобито имущество и на нейната администрация (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83714)
+- [Заповед № РД-01-216 от 29 август 2014 г. (ДВ, бр. 78 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87918)
+- [Заповед № РД-01-98 от 29 април 2015 г. (ДВ, бр. 42 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94930)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за отнемане на незаконно придобито имущество и на нейната администрация (ДВ, бр. 46 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104652)
+- [Правилник за изменение и допълнение на Правилника за устройството и дейността на Комисията за отнемане на незаконно придобито имущество и на нейната администрация (ДВ, бр. 79 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118189)
+- [Правилник за устройството и дейността на Комисията за противодействие на корупцията и за отнемане на незаконно придобитото имущество и на нейната администрация (ДВ, бр. 55 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=128056)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.

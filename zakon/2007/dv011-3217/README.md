@@ -121,6 +121,26 @@
 
 Act id: `zakon-2007-dv011-3217` (tags `zakon-2007-dv011-3217/<day>`; `python tools/on.py <day> zakon-2007-dv011-3217`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за експортния контрол на оръжия и изделия и технологии с двойна употреба (ДВ, бр. 36 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5033)
+- [Закон за изменение и допълнение на Закона за експортния контрол на оръжия и изделия и технологии с двойна употреба (ДВ, бр. 13 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=29683)
+- [Закон за изменение и допълнение на Закона за експортния контрол на оръжия и изделия и технологии с двойна употреба (ДВ, бр. 13 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9718)
+
+Cited by:
+
+- [Постановление № 115 от 21 май 2007 г. за приемане на Списък на оръжията и Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос (ДВ, бр. 43 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3721)
+- [Закон за Държавна агенция "Национална сигурност" (ДВ, бр. 109 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4576)
+- [Постановление № 213 от 2 септември 2008 г. за приемане на Списък на оръжията и Списък на изделията и технологиите с двойна употреба, които подлежат на контрол при внос и за одобряване на Тарифа за таксите, които се събират по Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 80 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=8565)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=25884)
+- [Закон за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 26 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=47031)
+- [Закон за изменение на Закона за туризма (ДВ, бр. 82 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9771)
+- [Закон за експортния контрол на продукти, свързани с отбраната, и на изделия и технологии с двойна употреба (ДВ, бр. 26 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/10078)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

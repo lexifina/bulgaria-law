@@ -26,6 +26,19 @@
 
 Act id: `naredba-2004-dv032-21225` (tags `naredba-2004-dv032-21225/<day>`; `python tools/on.py <day> naredba-2004-dv032-21225`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2004 г. за подбор на военнослужещи на кадрова военна служба и граждански лица от Въоръжените сили на Република България за работа в щабове и органи на международни организации (ДВ, бр. 26 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1609)
+- [Наредба за изменение и допълнение на Наредба Н-3 от 2004 г. за подбор на военнослужещи на кадрова военна служба и граждански лица от Въоръжените сили на Република България за работа в щабове и органи на международни организации (ДВ, бр. 16 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=16464)
+
+Cited by:
+
+- [Наредба № Н-23 от 12 август 2010 г. за подбор на военнослужещи и цивилни служители от Министерството на отбраната, структурите на пряко подчинение на министъра на отбраната и от Българската армия за заемане на длъжности в задграничните представителства на Република България, в щабове или органи на международни организации и на други международни инициативи (ДВ, бр. 67 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36161)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

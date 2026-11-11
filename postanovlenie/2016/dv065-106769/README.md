@@ -40,6 +40,14 @@
 
 Act id: `postanovlenie-2016-dv065-106769` (tags `postanovlenie-2016-dv065-106769/<day>`; `python tools/on.py <day> postanovlenie-2016-dv065-106769`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 66 от 3 април 2017 г. за отменяне на Наредбата за условията и реда за сключване, изпълнение и прекратяване на споразумение за интеграция на чужденци с предоставено убежище или международна закрила, приета с Постановление № 208 на Министерския съвет от 2016 г. (ДВ, бр. 28 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=113343)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

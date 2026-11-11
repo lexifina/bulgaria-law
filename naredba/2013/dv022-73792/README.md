@@ -38,6 +38,15 @@
 
 Act id: `naredba-2013-dv022-73792` (tags `naredba-2013-dv022-73792/<day>`; `python tools/on.py <day> naredba-2013-dv022-73792`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2013 г. за реда и начина за идентификация и регистрация на участниците, съхраняването на данни за организираните хазартни игри от разстояние на територията на Република България и за подаване на информация за хазартните игри към сървър на Националната агенция за приходите (ДВ, бр. 43 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=85108)
+- [Наредба за отменяне на Наредба № 1 от 2013 г. за реда и начина за идентификация и регистрация на участниците, съхраняването на данни за организираните онлайн залагания на територията на Република България и за подаване на информация за хазартните игри към сървър на Държавната комисия по хазарта и Националната агенция за приходите (ДВ, бр. 51 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=158913)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

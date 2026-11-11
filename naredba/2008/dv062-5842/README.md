@@ -83,6 +83,19 @@
 
 Act id: `naredba-2008-dv062-5842` (tags `naredba-2008-dv062-5842/<day>`; `python tools/on.py <day> naredba-2008-dv062-5842`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 7 от 2008 г. за правилата за разпределение и процедурите по първично и вторично предоставяне за ползване, резервиране и отнемане на номера, адреси и имена (ДВ, бр. 5 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14263)
+
+Cited by:
+
+- [Функционални спецификации за осъществяване на преносимост на негеографски номера при промяна на доставчика, предоставящ съответната услуга (ДВ, бр. 4 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14023)
+- [Решение № 230 от 12 март 2009 г. за изменение на Функционални спецификации за осъществяване на преносимост на национално значими номера при промяна на доставчика на обществена мобилна телефонна услуга (ДВ, бр. 26 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=17969)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

@@ -21,6 +21,18 @@
 
 Act id: `naredba-2006-dv021-1529` (tags `naredba-2006-dv021-1529/<day>`; `python tools/on.py <day> naredba-2006-dv021-1529`).
 
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за отменяне на Наредба № 23 от 2006 г. за реда за водене на регистър на договорите за влог на зърно от регистрирани зърнохранилища (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121425)
+
+Cited by:
+
+- [Постановление № 264 от 29 октомври 2008 г. за изменение и допълнение на Наредбата за реда за лицензиране на публичните складове за зърно, регистрация на зърнохранилищата и за контрола върху обектите за съхранение на зърно, приета с Постановление № 185 на Министерския съвет от 2003 г. (ДВ, бр. 95 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=10510)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

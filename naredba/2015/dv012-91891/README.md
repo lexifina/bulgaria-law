@@ -23,6 +23,19 @@
 
 Act id: `naredba-2015-dv012-91891` (tags `naredba-2015-dv012-91891/<day>`; `python tools/on.py <day> naredba-2015-dv012-91891`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 4 от 2015 г. за изискванията към използване на добавки в храните (ДВ, бр. 11 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122293)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 9 от 2011 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения и училищата, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 85 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=98274)
+- [Наредба № 8 от 4 декември 2018 г. за специфичните изисквания към безопасността и качеството на храните, предлагани в детските заведения, училищните столове и обектите за търговия на дребно на територията на училищата и на детските заведения, както и към храни, предлагани при организирани мероприятия за деца и ученици (ДВ, бр. 104 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=132685)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

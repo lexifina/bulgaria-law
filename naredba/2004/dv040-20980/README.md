@@ -49,6 +49,23 @@
 
 Act id: `naredba-2004-dv040-20980` (tags `naredba-2004-dv040-20980/<day>`; `python tools/on.py <day> naredba-2004-dv040-20980`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 73 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=7918)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 103 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59657)
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за реда за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 87 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130806)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № 13 от 2004 г. за издаване на разрешения на производители и заготвители на посевен и посадъчен материал и за регистрация на търговци на посевен и посадъчен материал (ДВ, бр. 26 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15105)
+- [Наредба за изменение и допълнение на Наредба № 4 от 2011 г. за реда и условията за провеждане на конкурси за полски инспектори (ДВ, бр. 45 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=138244)
+- [Наредба за изменение и допълнение на Наредба № 96 от 2006 г. за търговия на посевен материал от зеленчукови култури на пазара на Европейския съюз (ДВ, бр. 17 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146312)
+- [Наредба за изменение и допълнение на Наредба № 7 от 2013 г. за условията и реда за сортоизпитване, признаване, вписване и отписване на сортовете растения във и от Официалната сортова листа на Република България (ДВ, бр. 85 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=179036)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

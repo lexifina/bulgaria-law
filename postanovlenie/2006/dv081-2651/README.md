@@ -57,6 +57,23 @@
 
 Act id: `postanovlenie-2006-dv081-2651` (tags `postanovlenie-2006-dv081-2651/<day>`; `python tools/on.py <day> postanovlenie-2006-dv081-2651`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 322 от 5 декември 2006 г. за приемане на Наредба за изискванията към складовата база, транспортирането и съхранението на продукти за растителна защита (ДВ, бр. 101 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2959)
+- [Постановление № 43 от 26 февруари 2007 г. за изменение и допълнение на Наредбата за реда и начина на класифициране, опаковане и етикетиране на химични вещества и препарати, приета с Постановление № 316 на Министерския съвет от 2002 г. (ДВ, бр. 20 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3371)
+- [Закон за почвите (ДВ, бр. 89 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4376)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 103 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=27997)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и препарати (ДВ, бр. 63 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35538)
+- [Постановление № 182 от 20 август 2010 г. за приемане на Наредба за реда и начина на класифициране, опаковане и етикетиране на химични вещества и смеси (ДВ, бр. 68 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=36323)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+- [Закон за изменение и допълнение на Закона за опазване на околната среда (ДВ, бр. 103 от 2009 г.)](https://www.parliament.bg/bg/laws/ID/9653)
+- [Закон за изменение и допълнение на Закона за защита от вредното въздействие на химичните вещества и препарати (ДВ, бр. 63 от 2010 г.)](https://www.parliament.bg/bg/laws/ID/9883)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

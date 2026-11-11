@@ -29,6 +29,18 @@
 
 Act id: `naredba-2011-dv054-54260` (tags `naredba-2011-dv054-54260/<day>`; `python tools/on.py <day> naredba-2011-dv054-54260`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 5 от 2011 г. за условията и реда за получаване на разрешение за съхранение и продажба на лекарствени продукти от лекари и лекари по дентална медицина и снабдяването им с лекарствени продукти (ДВ, бр. 76 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=141513)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Устройствения правилник на регионалните здравни инспекции (ДВ, бр. 34 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74891)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

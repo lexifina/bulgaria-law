@@ -50,6 +50,24 @@
 
 Act id: `naredba-2018-dv023-123227` (tags `naredba-2018-dv023-123227/<day>`; `python tools/on.py <day> naredba-2018-dv023-123227`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2018 г. за военномедицинска експертиза (ДВ, бр. 44 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137897)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2018 г. за военномедицинска експертиза (ДВ, бр. 87 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=142492)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2018 г. за военномедицинска експертиза (ДВ, бр. 58 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149328)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 13.02.2018 г. за военномедицинска експертиза (ДВ, бр. 88 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163389)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 2018 г. за военномедицинска експертиза (ДВ, бр. 62 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=175304)
+- [Наредба за изменение и допълнение на Наредба № Н-6 от 13.02.2018 г. за военномедицинска експертиза (ДВ, бр. 4 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240417)
+
+Cited by:
+
+- [Наредба за изменение и допълнение на Наредба № Н-5 от 2012 г. за условията и реда за предотвратяване, контрол и установяване на годността за военна служба на военнослужещите от въоръжените сили на Република България при употреба на алкохол и злоупотреба и/или зависимост от наркотични вещества (ДВ, бр. 66 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=129119)
+- [Наредба № Н-11 от 24 юли 2026 г. за условията и реда за приемане на сержанти (старшини), войници (матроси) и български граждани за обучение в професионалните сержантски (старшински) колежи към висшите военни училища (ДВ, бр. 68 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245036)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

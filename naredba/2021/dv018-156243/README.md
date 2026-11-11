@@ -48,6 +48,14 @@
 
 Act id: `naredba-2021-dv018-156243` (tags `naredba-2021-dv018-156243/<day>`; `python tools/on.py <day> naredba-2021-dv018-156243`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба за изменение на Наредба № 12 от 2023 г. за условията и реда за употреба на продукти за растителна защита (ДВ, бр. 55 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=220021)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

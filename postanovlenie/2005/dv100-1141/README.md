@@ -56,6 +56,17 @@
 
 Act id: `postanovlenie-2005-dv100-1141` (tags `postanovlenie-2005-dv100-1141/<day>`; `python tools/on.py <day> postanovlenie-2005-dv100-1141`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 109 от 8 май 2006 г. за приемане на Устройствен правилник на Българския институт по метрология (ДВ, бр. 40 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1893)
+- [Постановление № 164 от 7 юли 2008 г. за приемане на Наредба за устройството, безопасната експлоатация и техническия надзор на съоръжения под налягане (ДВ, бр. 64 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=6286)
+- [Постановление № 90 от 21 април 2009 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 32 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19741)
+- [Постановление № 271 от 29 септември 2011 г. за приемане на Наредба за съществените изисквания и оценяване съответствието на транспортируемо оборудване под налягане и за изменение и допълнение на Наредбата за условията и реда за издаване на лицензии за осъществяване на технически надзор на съоръжения с повишена опасност и за реда за водене на регистър на съоръженията, приета с Постановление № 187 на Министерския съвет от 2000 г. (ДВ, бр. 78 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=57150)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

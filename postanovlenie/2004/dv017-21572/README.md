@@ -39,6 +39,14 @@
 
 Act id: `postanovlenie-2004-dv017-21572` (tags `postanovlenie-2004-dv017-21572/<day>`; `python tools/on.py <day> postanovlenie-2004-dv017-21572`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 149 от 18 септември 2026 г. за изменение и допълнение на Наредбата за условията и реда за задължително застраховане в проектирането и строителството, приета с Постановление № 38 на Министерския съвет от 2004 г. (ДВ, бр. 88 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246060)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

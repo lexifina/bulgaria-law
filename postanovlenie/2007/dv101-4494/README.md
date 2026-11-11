@@ -23,6 +23,17 @@
 
 Act id: `postanovlenie-2007-dv101-4494` (tags `postanovlenie-2007-dv101-4494/<day>`; `python tools/on.py <day> postanovlenie-2007-dv101-4494`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Устройствен правилник на Българо-германски център за професионално обучение в Смолян (ДВ, бр. 16 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4792)
+- [Закон за изменение и допълнение на Закона за насърчаване на заетостта (ДВ, бр. 43 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=51156)
+- [Постановление № 189 от 4 юли 2011 г. за приемане на Правилник за устройството и дейността на Държавно предприятие "Българо-германски център за професионално обучение" (ДВ, бр. 53 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=54098)
+- [Закон за изменение и допълнение на Закона за насърчаване на заетостта (ДВ, бр. 43 от 2011 г.)](https://www.parliament.bg/bg/laws/ID/12710)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

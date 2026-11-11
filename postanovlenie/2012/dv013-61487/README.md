@@ -15,6 +15,14 @@
 
 Act id: `postanovlenie-2012-dv013-61487` (tags `postanovlenie-2012-dv013-61487/<day>`; `python tools/on.py <day> postanovlenie-2012-dv013-61487`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 43 от 23 февруари 2012 г. за изменение на Постановление № 19 на Министерския съвет от 2012 г. за одобряване на допълнителни бюджетни кредити по бюджета на Министерството на труда и социалната политика за изплащане на еднократна финансова помощ на законните наследници на починалите при наводнението вследствие на обилните валежи на територията на област Хасково (ДВ, бр. 18 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=62003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

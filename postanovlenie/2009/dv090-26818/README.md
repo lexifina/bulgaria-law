@@ -95,6 +95,26 @@
 
 Act id: `postanovlenie-2009-dv090-26818` (tags `postanovlenie-2009-dv090-26818/<day>`; `python tools/on.py <day> postanovlenie-2009-dv090-26818`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 339 от 30 декември 2009 г. за приемане на Устройствен правилник на Изпълнителната агенция по горите (ДВ, бр. 4 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28597)
+- [Постановление № 95 от 18 май 2010 г. за приемане на Устройствен правилник на Изпълнителната агенция по рибарство и аквакултури и за закриване на Изпълнителната агенция по хидромелиорации към министъра на земеделието и храните (ДВ, бр. 41 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=33180)
+- [Постановление № 131 от 2 юли 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 52 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=34608)
+- [Постановление № 139 от 13 май 2011 г. за изменение и допълнение на Правилника за прилагане на Закона за собствеността и ползуването на земеделските земи, приет с Постановление № 74 на Министерския съвет от 1991 г. (ДВ, бр. 39 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=50337)
+- [Постановление № 173 от 20 юни 2011 г. за приемане на Устройствен правилник на Изпълнителната агенция по горите (ДВ, бр. 49 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53236)
+- [Постановление № 178 от 24 юни 2011 г. за закриване на Изпълнителната агенция по почвените ресурси към министъра на земеделието и храните (ДВ, бр. 50 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=53651)
+- [Постановление № 20 от 10 февруари 2012 г. за изменение и допълнение на Устройствения правилник на Министерството на земеделието и храните, приет с Постановление № 265 на Министерския съвет от 2009 г. (ДВ, бр. 14 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61544)
+- [Постановление № 118 от 15 юни 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 48 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=65639)
+- [Постановление № 269 от 26 октомври 2012 г. за създаване на ликвидационна комисия за извършване ликвидацията на закрития Фонд "Тютюн" (ДВ, бр. 84 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=69946)
+- [Постановление № 346 от 20 декември 2012 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 103 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71587)
+- [Постановление № 188 от 29 август 2013 г. за приемане на Устройствен правилник на Министерството на земеделието и храните (ДВ, бр. 77 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78607)
+- [Постановление № 130 от 29 юни 2017 г. за приемане на Устройствен правилник на Министерството на земеделието, храните и горите (ДВ, бр. 55 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115762)
+- [Постановление № 10 от 25 януари 2024 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 9 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=205003)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

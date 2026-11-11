@@ -227,6 +227,26 @@
 
 Act id: `postanovlenie-2017-dv086-119142` (tags `postanovlenie-2017-dv086-119142/<day>`; `python tools/on.py <day> postanovlenie-2017-dv086-119142`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 100 от 21 май 2020 г. за изменение и допълнение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 48 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148370)
+- [Постановление № 291 от 23 октомври 2020 г. за изменение и допълнение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 92 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152999)
+- [Постановление № 363 от 28 октомври 2021 г. за изменение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 91 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163936)
+- [Постановление № 50 от 13 март 2024 г. за изменение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 23 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209683)
+- [Постановление № 272 от 1 август 2024 г. за изменение и допълнение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 66 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224002)
+- [Постановление № 222 от 23 октомври 2026 г. за изменение и допълнение на Наредбата за приобщаващото образование, приета с Постановление № 232 на Министерския съвет от 2017 г. (ДВ, бр. 98 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=247119)
+
+Cited by:
+
+- [Постановление № 246 от 2 ноември 2017 г. за изменение и допълнение на Правилника за прилагане на Закона за социално подпомагане, приет с Постановление № 243 на Министерския съвет oт 1998 г. (ДВ, бр. 89 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=119568)
+- [Постановление № 289 от 12 декември 2018 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 105 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133002)
+- [Постановление № 343 от 21 декември 2018 г. за изменение и допълнение на Правилника за прилагане на Закона за семейни помощи за деца, приет с Постановление № 139 на Министерския съвет от 2002 г. (ДВ, бр. 107 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=133359)
+- [Постановление № 363 от 19 декември 2019 г. за изменение и допълнение на Наредбата за финансирането на институциите в системата на предучилищното и училищното образование, приета с Постановление № 219 на Министерския съвет от 2017 г. (ДВ, бр. 101 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=144157)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

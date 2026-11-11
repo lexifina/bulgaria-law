@@ -49,6 +49,15 @@
 
 Act id: `naredba-2007-dv025-3447` (tags `naredba-2007-dv025-3447/<day>`; `python tools/on.py <day> naredba-2007-dv025-3447`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 1 от 24 март 2008 г. за реда за обработване на лични данни в Държавна агенция "Национална сигурност" (ДВ, бр. 34 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5027)
+- [Наредба № 1 от 30 януари 2013 г. за минималното ниво на технически и организационни мерки и допустимия вид защита на личните данни (ДВ, бр. 14 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72904)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

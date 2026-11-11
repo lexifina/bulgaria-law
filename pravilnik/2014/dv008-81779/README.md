@@ -213,6 +213,23 @@
 
 Act id: `pravilnik-2014-dv008-81779` (tags `pravilnik-2014-dv008-81779/<day>`; `python tools/on.py <day> pravilnik-2014-dv008-81779`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 2 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90806)
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 16 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=101141)
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 91 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=152452)
+- [Правилник за изменение и допълнение на Правилника за администрацията в съдилищата (ДВ, бр. 53 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235726)
+
+Cited by:
+
+- [Правилник за изменение и допълнение на Правилника за администрацията на Прокуратурата на Република България (ПАПРБ) (ДВ, бр. 58 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=105854)
+- [Инструкция № И-4 от 4 юли 2019 г. за условията, реда и процедурите за организиране на работата на административните структури в Министерството на отбраната (ДВ, бр. 58 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139694)
+- [Правилник за дейността на Инспектората на Министерството на отбраната (ДВ, бр. 70 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=140982)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

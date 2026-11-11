@@ -77,6 +77,18 @@
 
 Act id: `postanovlenie-2016-dv008-100498` (tags `postanovlenie-2016-dv008-100498/<day>`; `python tools/on.py <day> postanovlenie-2016-dv008-100498`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 3 от 9 януари 2017 г. за приемане на Наредба за общите изисквания към информационните системи, регистрите и електронните административни услуги (ДВ, бр. 5 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=110979)
+- [Постановление № 172 от 11 юли 2019 г. за изменение и допълнение на Наредбата за административното обслужване, приета с Постановление № 246 на Министерския съвет от 2006 г. (ДВ, бр. 56 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=139570)
+- [Постановление № 14 от 29 януари 2020 г. за изменение и допълнение на Наредбата за административното обслужване, приета с Постановление № 246 на Министерския съвет от 2006 г. (ДВ, бр. 9 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=145579)
+- [Постановление № 353 от 22 октомври 2021 г. за изменение и допълнение на Наредбата за административното обслужване, приета с Постановление № 246 на Министерския съвет от 2006 г. (ДВ, бр. 90 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163709)
+- [Постановление № 112 от 27 август 2026 г. за приемане на Наредба за условията и реда за провеждане на тестове за почтеност за държавни служители (ДВ, бр. 79 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245621)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

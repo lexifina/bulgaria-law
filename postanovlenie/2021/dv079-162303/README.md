@@ -30,6 +30,15 @@
 
 Act id: `postanovlenie-2021-dv079-162303` (tags `postanovlenie-2021-dv079-162303/<day>`; `python tools/on.py <day> postanovlenie-2021-dv079-162303`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Постановление № 326 от 12 октомври 2021 г. за одобряване на допълнителни трансфери по бюджетите на общините за 2021 г. (ДВ, бр. 87 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163309)
+- [Постановление № 359 от 28 октомври 2021 г. за одобряване на допълнителни разходи по бюджета на Централната избирателна комисия за 2021 г. (ДВ, бр. 91 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=163932)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

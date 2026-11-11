@@ -155,6 +155,18 @@
 
 Act id: `pravilnik-2006-dv007-1324` (tags `pravilnik-2006-dv007-1324/<day>`; `python tools/on.py <day> pravilnik-2006-dv007-1324`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменение и допълнение на Правилника за организацията и дейността на администрацията на прокуратурата (ДВ, бр. 12 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44015)
+
+Cited by:
+
+- [Правилник за организацията и дейността на администрацията на Прокуратурата на Република България (ДВ, бр. 3 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3107)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

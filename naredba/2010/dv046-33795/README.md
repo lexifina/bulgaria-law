@@ -40,6 +40,23 @@
 
 Act id: `naredba-2010-dv046-33795` (tags `naredba-2010-dv046-33795/<day>`; `python tools/on.py <day> naredba-2010-dv046-33795`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение на Наредба № Н-00-0005 от 2010 г. за условията и реда за възпроизвеждане на културни ценности в копия, реплики и предмети с търговско предназначение (ДВ, бр. 58 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=35100)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0005 от 2010 г. за условията и реда за възпроизвеждане на културни ценности в копия, реплики и предмети с търговско предназначение (ДВ, бр. 13 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61294)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0005 от 2010 г. за условията и реда за възпроизвеждане на културни ценности в копия, реплики и предмети с търговско предназначение (ДВ, бр. 95 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=70753)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0005 от 2010 г. за условията и реда за възпроизвеждане на културни ценности в копия, реплики и предмети с търговско предназначение (ДВ, бр. 46 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95286)
+- [Наредба за изменение и допълнение на Наредба № Н-00-0005 от 8.06.2010 г. за условията и реда за възпроизвеждане на културни ценности в копия, реплики и предмети с търговско предназначение (ДВ, бр. 68 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=160738)
+
+Cited by:
+
+- [Наредба № 4 от 12 юни 2015 г. за условията и реда за осъществяване на дейностите по консервация и реставрация на движими културни ценности (ДВ, бр. 46 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=95285)
+- [Наредба за изменение и допълнение на Наредба № Н-3 от 2011 г. за условията и реда за създаване и поддържане на публичен регистър на лицата, които имат право да извършват дейности по консервация и реставрация (ДВ, бр. 35 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137079)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

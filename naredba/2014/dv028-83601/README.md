@@ -17,6 +17,14 @@
 
 Act id: `naredba-2014-dv028-83601` (tags `naredba-2014-dv028-83601/<day>`; `python tools/on.py <day> naredba-2014-dv028-83601`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Наредба № 3 от 23 февруари 2021 г. за утвърждаване на медицински стандарт "Нефрология" (ДВ, бр. 19 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=156274)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

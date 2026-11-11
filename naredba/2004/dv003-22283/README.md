@@ -53,6 +53,25 @@
 
 Act id: `naredba-2004-dv003-22283` (tags `naredba-2004-dv003-22283/<day>`; `python tools/on.py <day> naredba-2004-dv003-22283`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 53 от 2003 г. за условията и реда за одобрение на типа на седалка на водача и за одобрение на типа на нови колесни трактори по отношение на седалката на водача (ДВ, бр. 72 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2495)
+- [Наредба за изменение и допълнение на Наредба № 53 от 2003 г. за условията и реда за одобрение на типа на седалка на водача и за одобрение на типа на нови колесни трактори по отношение на седалката на водача (ДВ, бр. 45 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3777)
+- [Наредба за изменение и допълнение на Наредба № 53 от 2003 г. за условията и реда за одобрение на типа на седалка на водача и за одобрение на типа на нови колесни трактори по отношение на седалката на водача (ДВ, бр. 46 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=22331)
+- [Наредба за допълнение на Наредба № 53 от 2003 г. за условията и реда за одобрение на типа на седалка на водача и за одобрение на типа на нови колесни трактори по отношение на седалката на водача (ДВ, бр. 72 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=78188)
+
+Cited by:
+
+- [Наредба № 30 от 29 декември 2005 г. за одобрение на типа на нови колесни и верижни трактори, техните ремаркета и сменяема прикачна техника (ДВ, бр. 11 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1374)
+- [Наредба за изменение и допълнение на Наредба № 30 от 2005 г. за одобрение на типа на нови колесни и верижни трактори, техните ремаркета и сменяема прикачна техника (ДВ, бр. 4 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3130)
+- [Наредба за изменение и допълнение на Наредба № 21 от 2003 г. за одобрение на типа на нови колесни трактори (ДВ, бр. 62 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=19613)
+- [Наредба за изменение и допълнение на Наредба № 9 от 2004 г. за условията и реда за одобрение на типа на безопасно стъкло и на механично теглително-прикачно устройство на нови трактори и за одобрение на типа на нови трактори по отношение на отделни компоненти и характеристики (ДВ, бр. 23 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46696)
+- [Наредба № 7 от 28 декември 2017 г. за реда за одобряване типа на земеделски и горски превозни средства, системи, компоненти и отделни технически възли за тях (ДВ, бр. 4 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=121321)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

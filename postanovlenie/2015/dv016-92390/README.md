@@ -73,6 +73,20 @@
 
 Act id: `postanovlenie-2015-dv016-92390` (tags `postanovlenie-2015-dv016-92390/<day>`; `python tools/on.py <day> postanovlenie-2015-dv016-92390`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 129 от 25 май 2016 г. за изменение и допълнение на Постановление № 37 на Министерския съвет от 2015 г. за определяне на реда и условията за изпълнение на Оперативна програма за храни и/или основно материално подпомагане от Фонда за европейско подпомагане на най-нуждаещите се лица в България за периода 2014 - 2020 г. (ДВ, бр. 41 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104126)
+- [Постановление № 22 от 1 февруари 2019 г. за изменение на Постановление № 37 на Министерския съвет от 2015 г. за определяне на реда и условията за изпълнение на Оперативна програма за храни и/или основно материално подпомагане от Фонда за европейско подпомагане на най-нуждаещите се лица в България за периода 2014 - 2020 г. (ДВ, бр. 12 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=134514)
+- [Постановление № 109 от 31 май 2022 г. за изменение и допълнение на Постановление № 37 на Министерския съвет от 2015 г. за определяне на реда и условията за изпълнение на Оперативна програма за храни и/или основно материално подпомагане от Фонда за европейско подпомагане на най-нуждаещите се лица в България за периода 2014 - 2020 г. (ДВ, бр. 41 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173779)
+
+Cited by:
+
+- [Наредба № РД-07-1 от 4 април 2016 г. за реда и условията за определяне на целевите групи по Оперативна програма за храни и/или основно материално подпомагане, съфинансирана от Фонда за европейско подпомагане на най-нуждаещите се лица (ДВ, бр. 29 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102517)
+
 ## Decisions made by hand
 
 - Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.

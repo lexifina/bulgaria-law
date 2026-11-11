@@ -113,9 +113,85 @@
 
 Act id: `zakon-2011-dv035-11317` (tags `zakon-2011-dv035-11317/<day>`; `python tools/on.py <day> zakon-2011-dv035-11317`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 29 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13768)
+- [Закон за изменение на Закона за енергията от възобновяеми източници (ДВ, бр. 33 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14736)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 91 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78128)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 42 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164072)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 86 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164715)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 14 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166011)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 47 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166152)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 70 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167196)
+
+Cited by:
+
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 29 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=63208)
+- [Закон за запасите от нефт и нефтопродукти (ДВ, бр. 15 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=72905)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77083)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=77659)
+- [Закон за държавния бюджет на Република България за 2014 г. (ДВ, бр. 109 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81175)
+- [Закон за изменение на Закона за енергията от възобновяеми източници (ДВ, бр. 33 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83933)
+- [Решение № 13 от 31 юли 2014 г. по конституционно дело № 1 от 2014 г. (ДВ, бр. 65 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87090)
+- [Постановление № 327 от 17 октомври 2014 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 88 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=88976)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92196)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 17 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=92618)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 56 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96191)
+- [Решение № 5 от 11 май 2017 г. по конституционно дело № 12 от 2016 г. (ДВ, бр. 40 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=114524)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=115968)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 38 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=125942)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 91 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=131142)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 41 от 2019 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=137543)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 65 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=149767)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 9 от 2021 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=155332)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 42 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=173682)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=181943)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 11 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=185400)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 54 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=196462)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 86 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=200211)
+- [Закон за изменение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=201801)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 14 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=232795)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 47 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235299)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 67 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=236531)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238909)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=243857)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 70 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=245095)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 29 от 2012 г.)](https://www.parliament.bg/bg/laws/ID/13768)
+- [Закон за запасите от нефт и нефтопродукти (ДВ, бр. 15 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14101)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 59 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14414)
+- [Закон за изменение на Закона за младежта (ДВ, бр. 68 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14469)
+- [Закон за държавния бюджет на Република България за 2014 г. (ДВ, бр. 109 от 2013 г.)](https://www.parliament.bg/bg/laws/ID/14643)
+- [Закон за изменение на Закона за енергията от възобновяеми източници (ДВ, бр. 33 от 2014 г.)](https://www.parliament.bg/bg/laws/ID/14736)
+- [Закон за изменение на Закона за забрана на химическото оръжие и за контрол на токсичните химически вещества и техните прекурсори (ДВ, бр. 14 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15165)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 17 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15046)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 56 от 2015 г.)](https://www.parliament.bg/bg/laws/ID/15478)
+- [Закон за изменение на Закона за Българската агенция по безопасност на храните (ДВ, бр. 58 от 2017 г.)](https://www.parliament.bg/bg/laws/ID/68416)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 38 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78019)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 91 от 2018 г.)](https://www.parliament.bg/bg/laws/ID/78128)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 41 от 2019 г.)](https://www.parliament.bg/bg/laws/ID/156912)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 65 от 2020 г.)](https://www.parliament.bg/bg/laws/ID/157443)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 9 от 2021 г.)](https://www.parliament.bg/bg/laws/ID/163432)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 42 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164072)
+- [Закон за изменение и допълнение на Закона за подпомагане на земеделските производители (ДВ, бр. 102 от 2022 г.)](https://www.parliament.bg/bg/laws/ID/164499)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 11 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164555)
+- [Закон за изменение и допълнение на Закона за държавните резерви и военновременните запаси (ДВ, бр. 54 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164706)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 86 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/164715)
+- [Закон за изменение и допълнение на Данъчно-осигурителния процесуален кодекс (ДВ, бр. 106 от 2023 г.)](https://www.parliament.bg/bg/laws/ID/165174)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 14 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166011)
+- [Закон за изменение и допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 47 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166152)
+- [Закон за изменение и допълнение на Закона за енергетиката (ДВ, бр. 67 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166488)
+- [Закон за изменение и допълнение на Закона за енергийната ефективност (ДВ, бр. 97 от 2025 г.)](https://www.parliament.bg/bg/laws/ID/166699)
+- [Закон за изменение и допълнение на Закона за насърчаване на инвестициите (ДВ, бр. 55 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167004)
+- [Закон за допълнение на Закона за енергията от възобновяеми източници (ДВ, бр. 70 от 2026 г.)](https://www.parliament.bg/bg/laws/ID/167196)
+
 ## Decisions made by hand
 
 - A law is published here as adopted and promulgated, from the National Assembly's final text; the President's decree above it and the adoption formula below it are not part of the law.
 - Its one version takes effect on the day its own final clause names, else three days after its State Gazette day (Constitution чл. 5, ал. 5).
 - The Gazette day of an issue is read from the Gazette's own page; when none is held, from the EU's national-measures record, only if all its rows agree, the day is a Tuesday or Friday and it lies between the days of neighbouring issues; either way it must fall 0-20 days after the President's decree.
 - A law is published only when no later text held cites its Gazette issue and no later law's title names it as amended or repealed; the others are held back until their later versions are built.
+- The laws in this part were published under that rule before a later text citing them, or a later law's title naming them, was found; that doesn't make their text as published wrong, so each keeps its one version as published until its later versions are built.
