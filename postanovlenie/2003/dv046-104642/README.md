@@ -1,0 +1,155 @@
+# Постановление № 99 от 10 май 2003 г. за приемане на Наредба за задължителните общи условия за сигурност на автоматизираните информационни системи или мрежи, в които се създава, обработва, съхранява и пренася класифицирана информация
+
+Постановление № 99 от 10 май 2003 г. за приемане на Наредба за задължителните общи условия за сигурност на автоматизираните информационни системи или мрежи, в които се създава, обработва, съхранява и пренася класифицирана информация · 1 versions, from 2003-05-23 (latest in force: 2003-05-23) · <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=104642>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Член единствен | [art-001.md](art-001.md) | 0 |  |
+| Глава първа ОБЩИ ПОЛОЖЕНИЯ | [naredba-0-heading-1.md](naredba-0-heading-1.md) | 0 |  |
+| Чл. 1 | [naredba-art-001.md](naredba-art-001.md) | 0 |  |
+| Глава втора ОРГАНИ ПО СИГУРНОСТТА НА АИС ИЛИ МРЕЖИ | [naredba-art-001-zz-heading-1.md](naredba-art-001-zz-heading-1.md) | 0 |  |
+| Раздел I Държавна комисия по сигурността на информацията | [naredba-art-001-zz-heading-2.md](naredba-art-001-zz-heading-2.md) | 0 |  |
+| Чл. 2 | [naredba-art-002.md](naredba-art-002.md) | 0 |  |
+| Раздел II Орган по акредитиране на сигурността на АИС или мрежи | [naredba-art-002-zz-heading-1.md](naredba-art-002-zz-heading-1.md) | 0 |  |
+| Чл. 3 | [naredba-art-003.md](naredba-art-003.md) | 0 |  |
+| Раздел III Служител по сигурността на АИС или мрежи | [naredba-art-003-zz-heading-1.md](naredba-art-003-zz-heading-1.md) | 0 |  |
+| Чл. 4 | [naredba-art-004.md](naredba-art-004.md) | 0 |  |
+| Чл. 5 | [naredba-art-005.md](naredba-art-005.md) | 0 |  |
+| Раздел IV Орган по развитие и експлоатация на АИС или мрежи (ОРЕ) | [naredba-art-005-zz-heading-1.md](naredba-art-005-zz-heading-1.md) | 0 |  |
+| Чл. 6 | [naredba-art-006.md](naredba-art-006.md) | 0 |  |
+| Раздел V Администратор по сигурността на АИС или мрежа | [naredba-art-006-zz-heading-1.md](naredba-art-006-zz-heading-1.md) | 0 |  |
+| Чл. 7 | [naredba-art-007.md](naredba-art-007.md) | 0 |  |
+| Чл. 8 | [naredba-art-008.md](naredba-art-008.md) | 0 |  |
+| Чл. 9 | [naredba-art-009.md](naredba-art-009.md) | 0 |  |
+| Раздел VI Потребители в АИС или мрежи | [naredba-art-009-zz-heading-1.md](naredba-art-009-zz-heading-1.md) | 0 |  |
+| Чл. 10 | [naredba-art-010.md](naredba-art-010.md) | 0 |  |
+| Чл. 11 | [naredba-art-011.md](naredba-art-011.md) | 0 |  |
+| Глава трета АКРЕДИТИРАНЕ НА АИС ИЛИ МРЕЖИ | [naredba-art-011-zz-heading-1.md](naredba-art-011-zz-heading-1.md) | 0 |  |
+| Раздел I Условия и ред за акредитиране | [naredba-art-011-zz-heading-2.md](naredba-art-011-zz-heading-2.md) | 0 |  |
+| Чл. 12 | [naredba-art-012.md](naredba-art-012.md) | 0 |  |
+| Чл. 13 | [naredba-art-013.md](naredba-art-013.md) | 0 |  |
+| Чл. 14 | [naredba-art-014.md](naredba-art-014.md) | 0 |  |
+| Чл. 15 | [naredba-art-015.md](naredba-art-015.md) | 0 |  |
+| Чл. 16 | [naredba-art-016.md](naredba-art-016.md) | 0 |  |
+| Чл. 17 | [naredba-art-017.md](naredba-art-017.md) | 0 |  |
+| Чл. 18 | [naredba-art-018.md](naredba-art-018.md) | 0 |  |
+| Чл. 19 | [naredba-art-019.md](naredba-art-019.md) | 0 |  |
+| Чл. 20 | [naredba-art-020.md](naredba-art-020.md) | 0 |  |
+| Чл. 21 | [naredba-art-021.md](naredba-art-021.md) | 0 |  |
+| Чл. 22 | [naredba-art-022.md](naredba-art-022.md) | 0 |  |
+| Чл. 23 | [naredba-art-023.md](naredba-art-023.md) | 0 |  |
+| Чл. 24 | [naredba-art-024.md](naredba-art-024.md) | 0 |  |
+| Раздел II Условия и ред за допълнително акредитиране | [naredba-art-024-zz-heading-1.md](naredba-art-024-zz-heading-1.md) | 0 |  |
+| Чл. 25 | [naredba-art-025.md](naredba-art-025.md) | 0 |  |
+| Чл. 26 | [naredba-art-026.md](naredba-art-026.md) | 0 |  |
+| Чл. 27 | [naredba-art-027.md](naredba-art-027.md) | 0 |  |
+| Чл. 28 | [naredba-art-028.md](naredba-art-028.md) | 0 |  |
+| Глава четвърта ДОКУМЕНТИ ПО СИГУРНОСТТА, НЕОБХОДИМИ ЗА АКРЕДИТИРАНЕ | [naredba-art-028-zz-heading-1.md](naredba-art-028-zz-heading-1.md) | 0 |  |
+| Раздел I Видове документи | [naredba-art-028-zz-heading-2.md](naredba-art-028-zz-heading-2.md) | 0 |  |
+| Чл. 29 | [naredba-art-029.md](naredba-art-029.md) | 0 |  |
+| Раздел II Анализ на риска | [naredba-art-029-zz-heading-1.md](naredba-art-029-zz-heading-1.md) | 0 |  |
+| Чл. 30 | [naredba-art-030.md](naredba-art-030.md) | 0 |  |
+| Чл. 31 | [naredba-art-031.md](naredba-art-031.md) | 0 |  |
+| Чл. 32 | [naredba-art-032.md](naredba-art-032.md) | 0 |  |
+| Чл. 33 | [naredba-art-033.md](naredba-art-033.md) | 0 |  |
+| Чл. 34 | [naredba-art-034.md](naredba-art-034.md) | 0 |  |
+| Чл. 35 | [naredba-art-035.md](naredba-art-035.md) | 0 |  |
+| Раздел III Специфични изисквания за сигурност | [naredba-art-035-zz-heading-1.md](naredba-art-035-zz-heading-1.md) | 0 |  |
+| Чл. 36 | [naredba-art-036.md](naredba-art-036.md) | 0 |  |
+| Чл. 37 | [naredba-art-037.md](naredba-art-037.md) | 0 |  |
+| Чл. 38 | [naredba-art-038.md](naredba-art-038.md) | 0 |  |
+| Чл. 39 | [naredba-art-039.md](naredba-art-039.md) | 0 |  |
+| Раздел IV Процедури за сигурност на АИС или мрежи | [naredba-art-039-zz-heading-1.md](naredba-art-039-zz-heading-1.md) | 0 |  |
+| Чл. 40 | [naredba-art-040.md](naredba-art-040.md) | 0 |  |
+| Чл. 41 | [naredba-art-041.md](naredba-art-041.md) | 0 |  |
+| Глава пета ОБЩИ ИЗИСКВАНИЯ ЗА СИГУРНОСТ НА АИС ИЛИ МРЕЖИ | [naredba-art-041-zz-heading-1.md](naredba-art-041-zz-heading-1.md) | 0 |  |
+| Раздел I Сигурност на АИС или мрежи | [naredba-art-041-zz-heading-2.md](naredba-art-041-zz-heading-2.md) | 0 |  |
+| Чл. 42 | [naredba-art-042.md](naredba-art-042.md) | 0 |  |
+| Раздел II Физическа сигурност | [naredba-art-042-zz-heading-1.md](naredba-art-042-zz-heading-1.md) | 0 |  |
+| Чл. 43 | [naredba-art-043.md](naredba-art-043.md) | 0 |  |
+| Чл. 44 | [naredba-art-044.md](naredba-art-044.md) | 0 |  |
+| Чл. 45 | [naredba-art-045.md](naredba-art-045.md) | 0 |  |
+| Раздел III Персонална сигурност | [naredba-art-045-zz-heading-1.md](naredba-art-045-zz-heading-1.md) | 0 |  |
+| Чл. 46 | [naredba-art-046.md](naredba-art-046.md) | 0 |  |
+| Чл. 47 | [naredba-art-047.md](naredba-art-047.md) | 0 |  |
+| Чл. 48 | [naredba-art-048.md](naredba-art-048.md) | 0 |  |
+| Раздел IV Документална сигурност | [naredba-art-048-zz-heading-1.md](naredba-art-048-zz-heading-1.md) | 0 |  |
+| Чл. 49 | [naredba-art-049.md](naredba-art-049.md) | 0 |  |
+| Чл. 50 | [naredba-art-050.md](naredba-art-050.md) | 0 |  |
+| Чл. 51 | [naredba-art-051.md](naredba-art-051.md) | 0 |  |
+| Чл. 52 | [naredba-art-052.md](naredba-art-052.md) | 0 |  |
+| Чл. 53 | [naredba-art-053.md](naredba-art-053.md) | 0 |  |
+| Чл. 54 | [naredba-art-054.md](naredba-art-054.md) | 0 |  |
+| Чл. 55 | [naredba-art-055.md](naredba-art-055.md) | 0 |  |
+| Раздел V Комуникационна и криптографска сигурност, защита от паразитни електромагнитни излъчвания | [naredba-art-055-zz-heading-1.md](naredba-art-055-zz-heading-1.md) | 0 |  |
+| Чл. 56 | [naredba-art-056.md](naredba-art-056.md) | 0 |  |
+| Чл. 57 | [naredba-art-057.md](naredba-art-057.md) | 0 |  |
+| Чл. 58 | [naredba-art-058.md](naredba-art-058.md) | 0 |  |
+| Чл. 59 | [naredba-art-059.md](naredba-art-059.md) | 0 |  |
+| Чл. 60 | [naredba-art-060.md](naredba-art-060.md) | 0 |  |
+| Раздел VI Минимални изисквания за компютърна сигурност | [naredba-art-060-zz-heading-1.md](naredba-art-060-zz-heading-1.md) | 0 |  |
+| Чл. 61 | [naredba-art-061.md](naredba-art-061.md) | 0 |  |
+| Чл. 62 | [naredba-art-062.md](naredba-art-062.md) | 0 |  |
+| Раздел VII Режими за сигурност | [naredba-art-062-zz-heading-1.md](naredba-art-062-zz-heading-1.md) | 0 |  |
+| Чл. 63 | [naredba-art-063.md](naredba-art-063.md) | 0 |  |
+| Чл. 64 | [naredba-art-064.md](naredba-art-064.md) | 0 |  |
+| Чл. 65 | [naredba-art-065.md](naredba-art-065.md) | 0 |  |
+| Чл. 66 | [naredba-art-066.md](naredba-art-066.md) | 0 |  |
+| Раздел VIII Сигурност по време на експлоатацията и развитието на сертифицирани АИС или мрежи | [naredba-art-066-zz-heading-1.md](naredba-art-066-zz-heading-1.md) | 0 |  |
+| Чл. 67 | [naredba-art-067.md](naredba-art-067.md) | 0 |  |
+| Чл. 68 | [naredba-art-068.md](naredba-art-068.md) | 0 |  |
+| Чл. 69 | [naredba-art-069.md](naredba-art-069.md) | 0 |  |
+| Раздел IX Сигурност на АИС или мрежи, в които се създава, обработва, съхранява или пренася информация с класификационно ниво "Строго секретно" | [naredba-art-069-zz-heading-1.md](naredba-art-069-zz-heading-1.md) | 0 |  |
+| Чл. 70 | [naredba-art-070.md](naredba-art-070.md) | 0 |  |
+| Чл. 71 | [naredba-art-071.md](naredba-art-071.md) | 0 |  |
+| Чл. 72 | [naredba-art-072.md](naredba-art-072.md) | 0 |  |
+| Чл. 73 | [naredba-art-073.md](naredba-art-073.md) | 0 |  |
+| Чл. 74 | [naredba-art-074.md](naredba-art-074.md) | 0 |  |
+| Чл. 75 | [naredba-art-075.md](naredba-art-075.md) | 0 |  |
+| Чл. 76 | [naredba-art-076.md](naredba-art-076.md) | 0 |  |
+| Раздел X Възможност за заместване на мерките за компютърна сигурност | [naredba-art-076-zz-heading-1.md](naredba-art-076-zz-heading-1.md) | 0 |  |
+| Чл. 77 | [naredba-art-077.md](naredba-art-077.md) | 0 |  |
+| ДОПЪЛНИТЕЛНА РАЗПОРЕДБА | [naredba-art-077-zz-heading-1.md](naredba-art-077-zz-heading-1.md) | 0 |  |
+| § 1 | [naredba-par-001.md](naredba-par-001.md) | 0 |  |
+| ПРЕХОДНИ И ЗАКЛЮЧИТЕЛНИ РАЗПОРЕДБИ | [naredba-par-001-zz-heading-1.md](naredba-par-001-zz-heading-1.md) | 0 |  |
+| § 2 | [naredba-par-002.md](naredba-par-002.md) | 0 |  |
+| § 3 | [naredba-par-003.md](naredba-par-003.md) | 0 |  |
+| Приложение | [naredba-prilozhenie-01.md](naredba-prilozhenie-01.md) | 0 |  |
+| Увод | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `postanovlenie-2003-dv046-104642` (tags `postanovlenie-2003-dv046-104642/<day>`; `python tools/on.py <day> postanovlenie-2003-dv046-104642`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Постановление № 280 от 12 декември 2013 г. за изменение и допълнение на Наредбата за задължителните общи условия за сигурност на автоматизираните информационни системи или мрежи, в които се създава, обработва, съхранява и пренася класифицирана информация, приета с Постановление № 99 на Министерския съвет от 2003 г. (ДВ, бр. 108 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=81210)
+- [Постановление № 110 от 10 май 2014 г. за изменение на Наредбата за задължителните общи условия за сигурност на автоматизираните информационни системи или мрежи, в които се създава, обработва, съхранява и пренася класифицирана информация, приета с Постановление № 99 на Министерския съвет от 2003 г. (ДВ, бр. 41 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=84946)
+- [Постановление № 106 от 4 май 2016 г. за изменение и допълнение на Наредбата за задължителните общи условия за сигурност на автоматизираните информационни системи или мрежи, в които се създава, обработва, съхранява и пренася класифицирана информация, приета с Постановление № 99 на Министерския съвет от 2003 г. (ДВ, бр. 35 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=103493)
+
+Cited by:
+
+- [Постановление № 327 от 21 декември 2007 г. за приемане на Наредба за Единната информационна система за противодействие на престъпността (ЕИСПП) (ДВ, бр. 2 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4639)
+- [Наредба № 3 от 24 март 2008 г. за условията и реда за изграждане, експлоатиране, контрол и закриване на информационните фондове на Държавна агенция "Национална сигурност" (ДВ, бр. 34 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5029)
+- [Постановление № 81 от 22 април 2008 г. за изменение, допълнение и отменяне на нормативни актове на Министерския съвет (ДВ, бр. 44 от 2008 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=5196)
+- [Постановление № 50 от 25 март 2005 г. за приемане на Наредба за дейността на Междуведомствения съвет за методическо ръководство на Единната информационна система за противодействие на престъпността и за реда и начина на взаимодействие на органите на съдебната власт, Министерството на вътрешните работи, Министерството на отбраната, Министерството на правосъдието и Министерството на финансите по събирането, опазването и достъпа до информацията, както и за осигуряване функционирането на системата (ДВ, бр. 29 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15150)
+- [Постановление № 179 от 15 юли 2009 г. за приемане на Наредба за дейността по организирането и осъществяването на електронните комуникации и криптографската сигурност на служебната кореспонденция, обменяна по електронни комуникационни канали между организационните единици в Република България и задграничните й представителства (ДВ, бр. 57 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=23556)
+- [Постановление № 308 от 17 декември 2009 г. за изменение и допълнение на Правилника за прилагане на Закона за Държавна агенция "Национална сигурност", приет с Постановление № 23 на Министерския съвет от 2008 г. (ДВ, бр. 101 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=28006)
+- [Постановление № 314 от 22 декември 2010 г. за изменение и допълнение на нормативни актове на Министерския съвет (ДВ, бр. 102 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42297)
+- [Инструкция № 2 от 14 юли 2011 г. за определяне на реда за създаване, използване и закриване на информационните фондове и за контрола върху тях в служба "Военна информация" (ДВ, бр. 58 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=55170)
+- [Правилник за устройството и дейността на Централнo военно окръжие (ДВ, бр. 63 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=96574)
+- [Постановление № 260 от 7 октомври 2016 г. за изменение и допълнение на Устройствения правилник на Министерството на образованието и науката, приет с Постановление № 11 на Министерския съвет от 2010 г. (ДВ, бр. 80 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=108149)
+- [Постановление № 13 от 31 януари 2018 г. за определяне на второстепенните разпоредители с бюджет към министъра на образованието и науката (ДВ, бр. 12 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=122394)
+- [Постановление № 28 от 24 февруари 2020 г. за приемане на Наредба за сигурността на комуникационните и информационните системи (ДВ, бр. 18 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146427)
+
+## Decisions made by hand
+
+- Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.
+- The text runs from the act's title to its signatures; the issuing body's name above the title, the signatures, the Gazette's material number and its editorial notes are not part of the act. An annex the Gazette printed only in the issue's PDF is not carried, and the version's note says so.
+- A Council of Ministers decree that adopts a regulation, rules, tariff or other text is one act: the decree's provisions keep their own keys, the adopted text's provisions carry its kind in front (naredba-art-001).
+- Its one version takes effect on the day its own final provisions name (all such clauses must agree); a normative act (regulation, rules, instruction, tariff, a decree adopting, amending or repealing one, or a law) with no such clause takes effect three days after its Gazette day (Constitution чл. 5, ал. 5); any other decree with no such clause is held back.
+- An act is published only when no later text held here cites it by name and Gazette issue and no later act's title names it as amended or repealed; an amending or repealing act only when its target's text is held here.
+- A law comes from these pages only when the National Assembly's record holds no text for it; a law whose title matches a record with text is left to the 40-zakoni parts.
+- Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about 1,919 Gazette issues from 2009 to 2026, 0 have no material page there. Acts published before this read came from archive captures of the same pages and read the same.
