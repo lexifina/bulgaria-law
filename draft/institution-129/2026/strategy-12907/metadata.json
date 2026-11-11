@@ -1,0 +1,29 @@
+{
+  "title": "Проект на Националната програма за намаляване на риска от бедствия 2026-2030 г.",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12907",
+  "issuer": "Министерство на вътрешните работи",
+  "issuer_id": "129",
+  "issuer_level": "Национално",
+  "consultation_opening_date": "2026-11-11",
+  "source": "https://www.strategy.bg/bg/public-consultations/12907",
+  "source_sha256": "34a141185095433e72c12ee8804d7688b99efeee2eed74a891deca784bd69169",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 2.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329970",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image1.png"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
