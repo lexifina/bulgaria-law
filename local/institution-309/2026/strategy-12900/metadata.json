@@ -1,0 +1,35 @@
+{
+  "title": "Наредба за допълнение на Наредбата за условията и реда за използването на спортни обекти, собственост на Община Враца и за финансирането и подпомагането на физическата активност, физическото възпитание, спорта и спортно-туристическата дейност",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12900",
+  "issuer": "Общинска администрация - Враца",
+  "issuer_id": "309",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-11",
+  "source": "https://www.strategy.bg/bg/public-consultations/12900",
+  "source_sha256": "9af02e915a7c356fb6334aeea45fd1a68639eae96e498969780a325a92c12d2b",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329907",
+      "coverage": "included as separate document record",
+      "held_reason": null
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329909",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
