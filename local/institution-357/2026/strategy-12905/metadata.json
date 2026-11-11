@@ -1,0 +1,35 @@
+{
+  "title": "наредби за изменение и допълнение на Наредба № 9 за разрешаване, функциониране и премахване на преместваеми обекти на територията на Община Исперих във връзка с въвеждането на еврото в Република България",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12905",
+  "issuer": "Общинска администрация - Исперих",
+  "issuer_id": "357",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-11",
+  "source": "https://www.strategy.bg/bg/public-consultations/12905",
+  "source_sha256": "78e321ba3d245ebfaa0d2cb6b7aaba1b1f569fd0dc782dc6c242288e43fff85d",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 2.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329966",
+      "coverage": "held",
+      "held_reason": "PDF images held: 2; no OCR"
+    },
+    {
+      "label": "Мотиви - вер. 2.0 | 11.11.2026",
+      "source": "https://www.strategy.bg/download/1329967",
+      "coverage": "held",
+      "held_reason": "PDF images held: 2; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
