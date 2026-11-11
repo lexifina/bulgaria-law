@@ -1,0 +1,209 @@
+# Наредба № 1 от 14 февруари 2007 г. за водене, съхраняване и достъп до търговския регистър
+
+Наредба № 1 от 14 февруари 2007 г. за водене, съхраняване и достъп до търговския регистър · 1 versions, from 2007-02-27 (latest in force: 2007-02-27) · <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=3336>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Глава първа ОБЩИ ПОЛОЖЕНИЯ | [0-heading-1.md](0-heading-1.md) | 0 |  |
+| Чл. 1 | [art-001.md](art-001.md) | 0 |  |
+| Чл. 2 | [art-002.md](art-002.md) | 0 |  |
+| Чл. 3 | [art-003.md](art-003.md) | 0 |  |
+| Чл. 4 | [art-004.md](art-004.md) | 0 |  |
+| Чл. 5 | [art-005.md](art-005.md) | 0 |  |
+| Глава втора ЗАЯВЛЕНИЯ | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
+| Раздел I Образци | [art-005-zz-heading-2.md](art-005-zz-heading-2.md) | 0 |  |
+| Чл. 6 | [art-006.md](art-006.md) | 0 |  |
+| Чл. 7 | [art-007.md](art-007.md) | 0 |  |
+| Чл. 8 | [art-008.md](art-008.md) | 0 |  |
+| Раздел II Заявление за вписване на обстоятелства относно едноличен търговец | [art-008-zz-heading-1.md](art-008-zz-heading-1.md) | 0 |  |
+| Чл. 9 | [art-009.md](art-009.md) | 0 |  |
+| Чл. 10 | [art-010.md](art-010.md) | 0 |  |
+| Чл. 11 | [art-011.md](art-011.md) | 0 |  |
+| Чл. 12 | [art-012.md](art-012.md) | 0 |  |
+| Раздел III Заявление за вписване на обстоятелства относно събирателно дружество | [art-012-zz-heading-1.md](art-012-zz-heading-1.md) | 0 |  |
+| Чл. 13 | [art-013.md](art-013.md) | 0 |  |
+| Чл. 14 | [art-014.md](art-014.md) | 0 |  |
+| Чл. 15 | [art-015.md](art-015.md) | 0 |  |
+| Раздел IV Заявление за вписване на обстоятелства относно командитно дружество | [art-015-zz-heading-1.md](art-015-zz-heading-1.md) | 0 |  |
+| Чл. 16 | [art-016.md](art-016.md) | 0 |  |
+| Чл. 17 | [art-017.md](art-017.md) | 0 |  |
+| Чл. 18 | [art-018.md](art-018.md) | 0 |  |
+| Раздел V Заявление за вписване на обстоятелства относно дружество с ограничена отговорност | [art-018-zz-heading-1.md](art-018-zz-heading-1.md) | 0 |  |
+| Чл. 19 | [art-019.md](art-019.md) | 0 |  |
+| Чл. 20 | [art-020.md](art-020.md) | 0 |  |
+| Чл. 21 | [art-021.md](art-021.md) | 0 |  |
+| Раздел VI Заявление за вписване на обстоятелства относно акционерно дружество | [art-021-zz-heading-1.md](art-021-zz-heading-1.md) | 0 |  |
+| Чл. 22 | [art-022.md](art-022.md) | 0 |  |
+| Чл. 23 | [art-023.md](art-023.md) | 0 |  |
+| Чл. 24 | [art-024.md](art-024.md) | 0 |  |
+| Раздел VII Заявление за вписване на обстоятелства относно командитно дружество с акции | [art-024-zz-heading-1.md](art-024-zz-heading-1.md) | 0 |  |
+| Чл. 25 | [art-025.md](art-025.md) | 0 |  |
+| Чл. 26 | [art-026.md](art-026.md) | 0 |  |
+| Чл. 27 | [art-027.md](art-027.md) | 0 |  |
+| Раздел VIII Заявление за вписване на обстоятелства относно кооперация | [art-027-zz-heading-1.md](art-027-zz-heading-1.md) | 0 |  |
+| Чл. 28 | [art-028.md](art-028.md) | 0 |  |
+| Чл. 29 | [art-029.md](art-029.md) | 0 |  |
+| Чл. 30 | [art-030.md](art-030.md) | 0 |  |
+| Раздел IХ Заявление за вписване на обстоятелства относно клон на чуждестранен търговец | [art-030-zz-heading-1.md](art-030-zz-heading-1.md) | 0 |  |
+| Чл. 31 | [art-031.md](art-031.md) | 0 |  |
+| Чл. 32 | [art-032.md](art-032.md) | 0 |  |
+| Чл. 33 | [art-033.md](art-033.md) | 0 |  |
+| Раздел Х Заявление за вписване на обстоятелства относно прокура | [art-033-zz-heading-1.md](art-033-zz-heading-1.md) | 0 |  |
+| Чл. 34 | [art-034.md](art-034.md) | 0 |  |
+| Чл. 35 | [art-035.md](art-035.md) | 0 |  |
+| Раздел ХI Заявление за вписване на обстоятелства относно клон | [art-035-zz-heading-1.md](art-035-zz-heading-1.md) | 0 |  |
+| Чл. 36 | [art-036.md](art-036.md) | 0 |  |
+| Чл. 37 | [art-037.md](art-037.md) | 0 |  |
+| Раздел ХII Заявление за вписване на допълнителни обстоятелства относно търговски дружества със специален предмет на дейност | [art-037-zz-heading-1.md](art-037-zz-heading-1.md) | 0 |  |
+| Чл. 38 | [art-038.md](art-038.md) | 0 |  |
+| Чл. 39 | [art-039.md](art-039.md) | 0 |  |
+| Раздел ХIII Заявление за вписване на обстоятелства относно залог на дружествен дял | [art-039-zz-heading-1.md](art-039-zz-heading-1.md) | 0 |  |
+| Чл. 40 | [art-040.md](art-040.md) | 0 |  |
+| Чл. 41 | [art-041.md](art-041.md) | 0 |  |
+| Чл. 42 | [art-042.md](art-042.md) | 0 |  |
+| Раздел ХIV Заявление за вписване на обстоятелства относно залог на търговско предприятие | [art-042-zz-heading-1.md](art-042-zz-heading-1.md) | 0 |  |
+| Чл. 43 | [art-043.md](art-043.md) | 0 |  |
+| Чл. 44 | [art-044.md](art-044.md) | 0 |  |
+| Чл. 45 | [art-045.md](art-045.md) | 0 |  |
+| Раздел ХV Заявление за вписване на обстоятелства относно запор върху дружествен дял | [art-045-zz-heading-1.md](art-045-zz-heading-1.md) | 0 |  |
+| Чл. 46 | [art-046.md](art-046.md) | 0 |  |
+| Чл. 47 | [art-047.md](art-047.md) | 0 |  |
+| Раздел ХVI Заявление за вписване на обстоятелства относно прекратяване и ликвидация | [art-047-zz-heading-1.md](art-047-zz-heading-1.md) | 0 |  |
+| Чл. 48 | [art-048.md](art-048.md) | 0 |  |
+| Чл. 49 | [art-049.md](art-049.md) | 0 |  |
+| Чл. 50 | [art-050.md](art-050.md) | 0 |  |
+| Раздел ХVII Заявление за вписване на обстоятелства относно прехвърляне на търговско предприятие | [art-050-zz-heading-1.md](art-050-zz-heading-1.md) | 0 |  |
+| Чл. 51 | [art-051.md](art-051.md) | 0 |  |
+| Чл. 52 | [art-052.md](art-052.md) | 0 |  |
+| Раздел ХVIII Заявление за вписване на обстоятелства относно преобразуване на търговски дружества | [art-052-zz-heading-1.md](art-052-zz-heading-1.md) | 0 |  |
+| Чл. 53 | [art-053.md](art-053.md) | 0 |  |
+| Чл. 54 | [art-054.md](art-054.md) | 0 |  |
+| Чл. 55 | [art-055.md](art-055.md) | 0 |  |
+| Чл. 56 | [art-056.md](art-056.md) | 0 |  |
+| Раздел ХIХ Заявление за вписване на обстоятелства относно преустройство на кооперации | [art-056-zz-heading-1.md](art-056-zz-heading-1.md) | 0 |  |
+| Чл. 57 | [art-057.md](art-057.md) | 0 |  |
+| Чл. 58 | [art-058.md](art-058.md) | 0 |  |
+| Чл. 59 | [art-059.md](art-059.md) | 0 |  |
+| Чл. 60 | [art-060.md](art-060.md) | 0 |  |
+| Раздел ХХ Заявление за обявяване на актове | [art-060-zz-heading-1.md](art-060-zz-heading-1.md) | 0 |  |
+| Чл. 61 | [art-061.md](art-061.md) | 0 |  |
+| Чл. 62 | [art-062.md](art-062.md) | 0 |  |
+| Раздел ХХI Заявление за запазване на фирма | [art-062-zz-heading-1.md](art-062-zz-heading-1.md) | 0 |  |
+| Чл. 63 | [art-063.md](art-063.md) | 0 |  |
+| Глава трета ВОДЕНЕ НА ТЪРГОВСКИЯ РЕГИСТЪР | [art-063-zz-heading-1.md](art-063-zz-heading-1.md) | 0 |  |
+| Раздел I Фирмени дела и списък на запазени фирми | [art-063-zz-heading-2.md](art-063-zz-heading-2.md) | 0 |  |
+| Чл. 64 | [art-064.md](art-064.md) | 0 |  |
+| Чл. 65 | [art-065.md](art-065.md) | 0 |  |
+| Чл. 66 | [art-066.md](art-066.md) | 0 |  |
+| Чл. 67 | [art-067.md](art-067.md) | 0 |  |
+| Чл. 68 | [art-068.md](art-068.md) | 0 |  |
+| Чл. 69 | [art-069.md](art-069.md) | 0 |  |
+| Чл. 70 | [art-070.md](art-070.md) | 0 |  |
+| Чл. 71 | [art-071.md](art-071.md) | 0 |  |
+| Чл. 72 | [art-072.md](art-072.md) | 0 |  |
+| Раздел II Подаване на заявления и приемане на актове на съда | [art-072-zz-heading-1.md](art-072-zz-heading-1.md) | 0 |  |
+| Чл. 73 | [art-073.md](art-073.md) | 0 |  |
+| Чл. 74 | [art-074.md](art-074.md) | 0 |  |
+| Чл. 75 | [art-075.md](art-075.md) | 0 |  |
+| Чл. 76 | [art-076.md](art-076.md) | 0 |  |
+| Чл. 77 | [art-077.md](art-077.md) | 0 |  |
+| Чл. 78 | [art-078.md](art-078.md) | 0 |  |
+| Чл. 79 | [art-079.md](art-079.md) | 0 |  |
+| Чл. 80 | [art-080.md](art-080.md) | 0 |  |
+| Чл. 81 | [art-081.md](art-081.md) | 0 |  |
+| Чл. 82 | [art-082.md](art-082.md) | 0 |  |
+| Чл. 83 | [art-083.md](art-083.md) | 0 |  |
+| Чл. 84 | [art-084.md](art-084.md) | 0 |  |
+| Чл. 85 | [art-085.md](art-085.md) | 0 |  |
+| Чл. 86 | [art-086.md](art-086.md) | 0 |  |
+| Чл. 87 | [art-087.md](art-087.md) | 0 |  |
+| Чл. 88 | [art-088.md](art-088.md) | 0 |  |
+| Чл. 89 | [art-089.md](art-089.md) | 0 |  |
+| Раздел III Регистърно производство | [art-089-zz-heading-1.md](art-089-zz-heading-1.md) | 0 |  |
+| Чл. 90 | [art-090.md](art-090.md) | 0 |  |
+| Чл. 91 | [art-091.md](art-091.md) | 0 |  |
+| Чл. 92 | [art-092.md](art-092.md) | 0 |  |
+| Чл. 93 | [art-093.md](art-093.md) | 0 |  |
+| Чл. 94 | [art-094.md](art-094.md) | 0 |  |
+| Чл. 95 | [art-095.md](art-095.md) | 0 |  |
+| Чл. 96 | [art-096.md](art-096.md) | 0 |  |
+| Раздел IV Запазване на фирма | [art-096-zz-heading-1.md](art-096-zz-heading-1.md) | 0 |  |
+| Чл. 97 | [art-097.md](art-097.md) | 0 |  |
+| Чл. 98 | [art-098.md](art-098.md) | 0 |  |
+| Чл. 99 | [art-099.md](art-099.md) | 0 |  |
+| Глава четвърта СЪХРАНЯВАНЕ НА ТЪРГОВСКИЯ РЕГИСТЪР | [art-099-zz-heading-1.md](art-099-zz-heading-1.md) | 0 |  |
+| Чл. 100 | [art-100.md](art-100.md) | 0 |  |
+| Чл. 101 | [art-101.md](art-101.md) | 0 |  |
+| Чл. 102 | [art-102.md](art-102.md) | 0 |  |
+| Чл. 103 | [art-103.md](art-103.md) | 0 |  |
+| Чл. 104 | [art-104.md](art-104.md) | 0 |  |
+| Чл. 105 | [art-105.md](art-105.md) | 0 |  |
+| Чл. 106 | [art-106.md](art-106.md) | 0 |  |
+| Глава пета ДОСТЪП ДО ТЪРГОВСКИЯ РЕГИСТЪР | [art-106-zz-heading-1.md](art-106-zz-heading-1.md) | 0 |  |
+| Чл. 107 | [art-107.md](art-107.md) | 0 |  |
+| Чл. 108 | [art-108.md](art-108.md) | 0 |  |
+| Чл. 109 | [art-109.md](art-109.md) | 0 |  |
+| Чл. 110 | [art-110.md](art-110.md) | 0 |  |
+| Чл. 111 | [art-111.md](art-111.md) | 0 |  |
+| Чл. 112 | [art-112.md](art-112.md) | 0 |  |
+| Чл. 113 | [art-113.md](art-113.md) | 0 |  |
+| Глава шеста ЕДИНЕН ИДЕНТИФИКАЦИОНЕН КОД | [art-113-zz-heading-1.md](art-113-zz-heading-1.md) | 0 |  |
+| Раздел I Начин на формиране | [art-113-zz-heading-2.md](art-113-zz-heading-2.md) | 0 |  |
+| Чл. 114 | [art-114.md](art-114.md) | 0 |  |
+| Чл. 115 | [art-115.md](art-115.md) | 0 |  |
+| Раздел II ЕИК при преобразуване на търговски дружества и преустройство на кооперации | [art-115-zz-heading-1.md](art-115-zz-heading-1.md) | 0 |  |
+| Чл. 116 | [art-116.md](art-116.md) | 0 |  |
+| Чл. 117 | [art-117.md](art-117.md) | 0 |  |
+| Чл. 118 | [art-118.md](art-118.md) | 0 |  |
+| Чл. 119 | [art-119.md](art-119.md) | 0 |  |
+| Чл. 120 | [art-120.md](art-120.md) | 0 |  |
+| Чл. 121 | [art-121.md](art-121.md) | 0 |  |
+| ПРЕХОДНИ И ЗАКЛЮЧИТЕЛНИ РАЗПОРЕДБИ | [art-121-zz-heading-1.md](art-121-zz-heading-1.md) | 0 |  |
+| § 1 | [par-001.md](par-001.md) | 0 |  |
+| § 2 | [par-002.md](par-002.md) | 0 |  |
+| § 3 | [par-003.md](par-003.md) | 0 |  |
+| § 4 | [par-004.md](par-004.md) | 0 |  |
+| § 5 | [par-005.md](par-005.md) | 0 |  |
+| § 6 | [par-006.md](par-006.md) | 0 |  |
+
+Act id: `naredba-2007-dv018-3336` (tags `naredba-2007-dv018-3336/<day>`; `python tools/on.py <day> naredba-2007-dv018-3336`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 111 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=4608)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 6 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=13401)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (продължение от брой 6) (ДВ, бр. 7 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15456)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 101 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59533)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (продължение от бр. 101) (ДВ, бр. 102 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59734)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 25 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83577)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 53 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=86094)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 70 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=107239)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (ДВ, бр. 77 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=117874)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър (продължение от бр. 77) (ДВ, бр. 78 от 2017 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=118106)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 88 от 2018 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=130666)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 23 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146937)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 25 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=209800)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 101 от 2024 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=230849)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 98 от 2025 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=238858)
+- [Наредба за допълнение на Наредба № 1 от 14 февруари 2007 г. за водене, съхраняване и достъп до търговския регистър и до регистъра на юридическите лица с нестопанска цел (ДВ, бр. 90 от 2026 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=246092)
+
+Cited by:
+
+- [адм. дело № 981/2009 г. (ДВ, бр. 10 от 2009 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=15590)
+- [Поправка в Наредба за водене, съхраняване и достъп до търговския регистър на Министерство на правосъдието (ДВ, бр. 18 от 2007 г.) (ДВ, бр. 20 от 2007 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=46855)
+- [Наредба за изменение и допълнение на Наредба № 1 от 2007 г. за водене, съхранение и достъп до търговския регистър (ДВ, бр. 12 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=100830)
+- [Инструкция № И-1 от 14 април 2016 г. за осъществяване на достъп до информационната система по чл. 28б от Закона за нотариусите и нотариалната дейност на основание чл. 2а, ал. 1 от Наредба № 32 от 1997 г. за служебните архиви на нотариусите и нотариалните кантори (ДВ, бр. 31 от 2016 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=102814)
+
+## Decisions made by hand
+
+- Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.
+- The text runs from the act's title to its signatures; the issuing body's name above the title, the signatures, the Gazette's material number and its editorial notes are not part of the act. An annex the Gazette printed only in the issue's PDF is not carried, and the version's note says so.
+- A Council of Ministers decree that adopts a regulation, rules, tariff or other text is one act: the decree's provisions keep their own keys, the adopted text's provisions carry its kind in front (naredba-art-001).
+- Its one version takes effect on the day its own final provisions name (all such clauses must agree); a normative act (regulation, rules, instruction, tariff, a decree adopting, amending or repealing one, or a law) with no such clause takes effect three days after its Gazette day (Constitution чл. 5, ал. 5); any other decree with no such clause is held back.
+- An act is published only when no later text held here cites it by name and Gazette issue and no later act's title names it as amended or repealed; an amending or repealing act only when its target's text is held here.
+- A law comes from these pages only when the National Assembly's record holds no text for it; a law whose title matches a record with text is left to the 40-zakoni parts.
+- Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about 1,919 Gazette issues from 2009 to 2026, 0 have no material page there. Acts published before this read came from archive captures of the same pages and read the same.

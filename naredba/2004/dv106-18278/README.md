@@ -1,0 +1,55 @@
+# Наредба № 38 от 16 ноември 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично
+
+Наредба № 38 от 16 ноември 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18278>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Член единствен | [art-001.md](art-001.md) | 0 |  |
+| Заключителна разпоредба. | [art-001-zz-heading-1.md](art-001-zz-heading-1.md) | 0 |  |
+| § 1 | [par-001.md](par-001.md) | 0 |  |
+| § 2 | [par-002.md](par-002.md) | 0 |  |
+| Приложение | [prilozhenie-01.md](prilozhenie-01.md) | 0 |  |
+
+Act id: `naredba-2004-dv106-18278` (tags `naredba-2004-dv106-18278/<day>`; `python tools/on.py <day> naredba-2004-dv106-18278`).
+
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменение и допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично (ДВ, бр. 63 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=689)
+- [Наредба за изменение и допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично (ДВ, бр. 102 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1167)
+- [Наредба за изменение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели, напълно или частично (ДВ, бр. 60 от 2006 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=2265)
+- [Наредба за изменение и допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично (ДВ, бр. 6 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=14725)
+- [Наредба за допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарствата напълно или частично (ДВ, бр. 111 от 2004 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=18080)
+- [Наредба за изменение и допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 100 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=41860)
+- [Наредба за изменение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 13 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=44596)
+- [Наредба за допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 15 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=61820)
+- [Наредба за изменение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 29 от 2013 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=74319)
+- [Наредба за изменение и допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 10 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=82268)
+- [Наредба за допълнение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 108 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=90962)
+- [Наредба за изменение на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 32 от 2015 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=94228)
+- [Наредба за отменяне на Наредба № 38 от 2004 г. за определяне на списъка на заболяванията, за чието домашно лечение Националната здравноосигурителна каса заплаща лекарства, медицински изделия и диетични храни за специални медицински цели напълно или частично (ДВ, бр. 43 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147919)
+
+Cited by:
+
+- [Национален рамков договор между Националната здравноосигурителна каса и Българския лекарски съюз и Съюза на стоматолозите в България, 2006 г. (ДВ, бр. 106 от 2005 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=1233)
+- [Постановление № 310 от 20 декември 2010 г. за изменение и допълнение на Наредбата за условията, правилата и критериите за включване, промени и/или изключване на лекарствени продукти от Позитивния лекарствен списък и условията и реда за работа на Комисията по Позитивния лекарствен списък, приета с Постановление № 311 на Министерския съвет от 2007 г. (ДВ, бр. 102 от 2010 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42187)
+- [Национален рамков договор за медицинските дейности между Националната здравноосигурителна каса и Българския лекарски съюз за 2011 г. (ДВ, бр. 3 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42538)
+- [Национален рамков договор за денталните дейности между Националната здравноосигурителна каса и Българския зъболекарски съюз за 2011 г. (ДВ, бр. 3 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=42539)
+- [Наредба за изменение и допълнение на Наредба № 40 от 2004 г. за определяне на основния пакет от здравни дейности, гарантиран от бюджета на НЗОК (ДВ, бр. 97 от 2011 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=59313)
+- [Наредба за изменение и допълнение на Наредба № 40 от 2004 г. за определяне на основния пакет от здравни дейности, гарантиран от бюджета на НЗОК (Продължение от бр. 99) (ДВ, бр. 100 от 2012 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=71288)
+- [Наредба № 5 от 21 март 2014 г. за условията и реда за упражняване правата на пациентите при трансгранично здравно обслужване (ДВ, бр. 28 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=83755)
+- [Наредба № 16 от 30 юли 2014 г. за условията и реда за регистриране на редките заболявания и за експертните центрове и референтните мрежи за редки заболявания (ДВ, бр. 67 от 2014 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=87157)
+- [Наредба за изменение и допълнение на Наредба № 5 от 2014 г. за условията и реда за упражняване правата на пациентите при трансгранично здравно обслужване (ДВ, бр. 110 от 2020 г.)](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=154638)
+
+## Decisions made by hand
+
+- Each act here is one State Gazette material page of the official section, as printed; the Gazette issue and its date are read from the page's own header.
+- The text runs from the act's title to its signatures; the issuing body's name above the title, the signatures, the Gazette's material number and its editorial notes are not part of the act. An annex the Gazette printed only in the issue's PDF is not carried, and the version's note says so.
+- A Council of Ministers decree that adopts a regulation, rules, tariff or other text is one act: the decree's provisions keep their own keys, the adopted text's provisions carry its kind in front (naredba-art-001).
+- Its one version takes effect on the day its own final provisions name (all such clauses must agree); a normative act (regulation, rules, instruction, tariff, a decree adopting, amending or repealing one, or a law) with no such clause takes effect three days after its Gazette day (Constitution чл. 5, ал. 5); any other decree with no such clause is held back.
+- An act is published only when no later text held here cites it by name and Gazette issue and no later act's title names it as amended or repealed; an amending or repealing act only when its target's text is held here.
+- A law comes from these pages only when the National Assembly's record holds no text for it; a law whose title matches a record with text is left to the 40-zakoni parts.
+- Every material page dv.parliament.bg serves was read (identifiers 1 to the newest): of about 1,919 Gazette issues from 2009 to 2026, 0 have no material page there. Acts published before this read came from archive captures of the same pages and read the same.
