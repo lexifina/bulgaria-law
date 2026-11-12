@@ -1,0 +1,53 @@
+{
+  "title": "Проект на Постановление на Министерския съвет за изменение и допълнение на Наредбата за процедурите за обмен на информация и сътрудничество между държавните органи, участващи в защитата на лицата, работещи по трудово правоотношение, подали съобщения за нарушения, свързани с пазарни злоупотреби с финансови инструменти",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12919",
+  "issuer": "Министерство на труда и социалната политика",
+  "issuer_id": "144",
+  "issuer_level": "Национално",
+  "consultation_opening_date": "2026-11-12",
+  "source": "https://www.strategy.bg/bg/public-consultations/12919",
+  "source_sha256": "0868299acadd07121d033b10def9c6460d82cd4ad0aaae8989034b08074ba394",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Доклад - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1329978",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    },
+    {
+      "label": "Проект на акт - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1329980",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Оценка на въздействие - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1329984",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Становище на администрацията на Министерския съвет - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1329986",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Други документи - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1329988",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
