@@ -1,0 +1,41 @@
+{
+  "title": "Проект на Наредба за изменение и допълнение на Наредба № 1 за обществения ред на територията на Община Омуртаг",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12920",
+  "issuer": "Общинска администрация - Омуртаг",
+  "issuer_id": "419",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-12",
+  "source": "https://www.strategy.bg/bg/public-consultations/12920",
+  "source_sha256": "e684cbd015e238768d13c5acb924370561d810ead85f72696cc872b01c3e6ea3",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1330019",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1330021",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    },
+    {
+      "label": "Други документи - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1330023",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
