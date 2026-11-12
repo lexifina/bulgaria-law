@@ -1,0 +1,35 @@
+{
+  "title": "Проект на Наредба за изменение и допълнение на Наредба № Н-23 от 21.10.2016 г. за условията, размерите и реда за изплащане на допълнителни възнаграждения на военнослужещите и цивилните служители от Служба „Военно разузнаване“",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12922",
+  "issuer": "Министерство на отбраната",
+  "issuer_id": "140",
+  "issuer_level": "Национално",
+  "consultation_opening_date": "2026-11-12",
+  "source": "https://www.strategy.bg/bg/public-consultations/12922",
+  "source_sha256": "f53b529cec80f92fb8fb85f66708a624ed4dae635eaea1d5e1460fabd8a993ce",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 2.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330107",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 12.11.2026",
+      "source": "https://www.strategy.bg/download/1330058",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
