@@ -1,0 +1,35 @@
+{
+  "title": "Проект на Наредба за изменение на Наредба № 2 от 2024 г. за условията и реда за вземане на проби и лабораторно изпитване на храни",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12935",
+  "issuer": "Министерство на земеделието и храните",
+  "issuer_id": "133",
+  "issuer_level": "Национално",
+  "consultation_opening_date": "2026-11-13",
+  "source": "https://www.strategy.bg/bg/public-consultations/12935",
+  "source_sha256": "da30412aa3b7b050751b8c711ab5173a0f347d490cf725441628f0e626844f3f",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330177",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image1.emf"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330179",
+      "coverage": "held",
+      "held_reason": "embedded images held: word/media/image4.emf,word/media/image3.emf,word/media/image1.jpeg,word/media/image2.emf"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
