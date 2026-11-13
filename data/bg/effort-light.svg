@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Българското право като git история</text>
-<rect x="547.2" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="625.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">данни до 09.11.2026 г.</text>
-<rect x="712.0" y="24.5" width="144" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="784.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">актуалност: актуално</text>
+<rect x="551.5" y="24.5" width="148" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="625.5" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">данни до 09.11.2026 г.</text>
+<rect x="707.6" y="24.5" width="148" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="781.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">актуалност: актуално</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">17 368</text>
 <text x="40.0" y="106" font-size="12" fill="#59636e">акта</text>
@@ -16,7 +16,7 @@
 <text x="372.8" y="106" font-size="12" fill="#59636e">файла с разпоредби</text>
 <line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
 <text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">17 371</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e">автори: актове и издатели</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">автори: актове и издатели</text>
 <line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
 <text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2000–2026</text>
 <text x="705.6" y="106" font-size="12" fill="#59636e">години история</text>
@@ -105,5 +105,5 @@
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Корпуси за страната в global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">национални актове: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/bulgaria-law при 2869713, генерирано 2026-11-13. Без commit-и за документация. Обхват: 17368 acts, 17377 dated versions from 2000-01-01 to 2026-11-09</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/bulgaria-law при 2869713, генерирано 2026-11-13. Без commit-и за документация. Обхват: 17368 acts, 17377 dated versions from 2000-01-01 to 2026-11-09</text>
 </svg>
