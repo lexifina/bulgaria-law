@@ -1,0 +1,35 @@
+{
+  "title": "ПРОЕКТ на план-сметка за приходите и разходите за дейностите по сметосъбиране, сметоизвозване, обезвреждане на битови отпадъци в депо, поддържане на чистотата на територии за обществено ползване за 2027 г. на територията на Община Гълъбово",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12933",
+  "issuer": "Общинска администрация - Гълъбово",
+  "issuer_id": "325",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-13",
+  "source": "https://www.strategy.bg/bg/public-consultations/12933",
+  "source_sha256": "2de55d54546013e537c84cbc6d3ebbfa75c99ec460296a8792041823f4d699d0",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330169",
+      "coverage": "held",
+      "held_reason": "PDF images held: 2; no OCR"
+    },
+    {
+      "label": "План-сметка за приходите и разходите от такса „Битови отпадъци“ за 2027 г. на община Гълъбово - 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330173",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
