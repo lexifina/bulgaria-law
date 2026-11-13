@@ -1,0 +1,41 @@
+{
+  "title": "Наредба за изменение и допълнение на Наредбата за създаване на зони с ниски емисии на вредни вещества в атмосферния въздух на територията на община Пловдив",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12923",
+  "issuer": "Общинска администрация - Пловдив",
+  "issuer_id": "433",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-13",
+  "source": "https://www.strategy.bg/bg/public-consultations/12923",
+  "source_sha256": "fbf5e1a042eebeb2adcacddb9ae6781488cd52f16dbcb24bf6358ff51a7a94cd",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330093",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330095",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Други документи - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330097",
+      "coverage": "included as separate document record",
+      "held_reason": null
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
