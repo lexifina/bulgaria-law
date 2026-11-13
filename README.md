@@ -1,138 +1,137 @@
-# Bulgaria: law history in git
+# България: историята на правото в git
+
+**Български** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Bulgarian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/bg/effort-dark.svg">
+<img alt="Законодателството на България в това хранилище: съдържание, промени по година на влизане в сила, пълнота спрямо официалните източници и точност на съдържанието" src="data/bg/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bulgaria's national law, which global-law reads at `bulgaria/national/acts/`.
+Част от [lexifina/global-law](https://github.com/lexifina/global-law), обща история в git за правото на всички държави: това е националното право на България, което global-law чете в `bulgaria/national/acts/`.
 
-The law of Bulgaria as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; the tool below gives the text in force on any day.
+Правото на България като история в git: по един файл за всяка разпоредба, по един commit за всеки закон на деня, в който е влязъл в сила, и законът, извършил всяка промяна, като автор на commit-а. `git blame` посочва закона зад всеки абзац; `git log` изброява всички промени на даден член; инструментът по-долу дава текста, действащ на произволна дата.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `bg/`.
+Хранилището следва общия модел на [lexifina/global-law](https://github.com/lexifina/global-law), който го поставя в `bg/`.
 
-*На български: [по-долу](#на-български).*
+**Какво съдържа сега: един акт, четири редакции, от 1 януари 2008 г. до днес.** Конституцията така, както я публикува Народното събрание: днешният текст от parliament.bg и два по-ранни текста от копията в Internet Archive на старата страница на Конституцията на сайта на Народното събрание (2010 до 2021 г.). Записът започва на 1 януари 2008 г. с най-стария текст, който архивът съдържа; текстът от 1991 г. и редакциите от 2003 до 2007 г. не са в него.
 
-**What is in it now: one act, four versions, 1 January 2008 to today.** The Constitution as the National Assembly publishes it: today's text from parliament.bg, and two earlier texts from the Internet Archive's copies of the National Assembly's old Constitution page (2010 to 2021). The record starts on 1 January 2008, with the oldest text the archive holds; the 1991 text and the versions of 2003 to 2007 are not in it.
-
-| Folder | Act | Versions | History |
+| Папка | Акт | Редакции | История |
 | --- | --- | ---: | --- |
-| `konstitutsiya/` | Конституция на Република България (Constitution of the Republic of Bulgaria, 1991) | 4 | 2008-01-01 to today: the oldest version available, then the amendment of 2015, the amendment of 2023 and Constitutional Court Decision № 13 of 2024 |
+| `konstitutsiya/` | Конституция на Република България (1991) | 4 | От 2008-01-01 до днес: най-старата налична редакция, след това изменението от 2015 г., изменението от 2023 г. и Решение № 13 на Конституционния съд от 2024 г. |
 
-| In force from | Text | Commits (author) | Source |
+| В сила от | Текст | Commit-и (автор) | Източник |
 | --- | --- | --- | --- |
-| 2008-01-01 | The text after the amendments of 2003, 2005, 2006 and 2007 and Decision № 7 of 2006 | Oldest version available (the publisher); its message names the six earlier gazette events | Internet Archive capture of parliament.bg/bg/const, 22 December 2010 |
-| 2015-12-21 | ЗИД, ДВ бр. 100 от 18.12.2015: 10 provisions, every one marked "ДВ, бр. 100 от 2015 г." | `dv-2015-100` | Capture of 25 January 2016 |
-| 2023-12-25 | ЗИД, ДВ бр. 106 от 22.12.2023: 8 provisions. 14 more provisions read "[Източникът не дава текста, действащ на тази дата.]" (see below), and 5 publisher's edits that no note explains | `dv-2023-106`; the publisher, "unexplained" | Today's text (parliament.bg API) |
-| 2024-08-09 | Решение № 13 на КС, ДВ бр. 66 от 06.08.2024: 14 provisions | `dv-2024-66` | Today's text (parliament.bg API) |
+| 2008-01-01 | Текстът след измененията от 2003, 2005, 2006 и 2007 г. и Решение № 7 от 2006 г. | Най-старата налична редакция (издателят); съобщението на commit-а посочва шестте по-ранни обнародвания в „Държавен вестник“ | Копие в Internet Archive на parliament.bg/bg/const от 22 декември 2010 г. |
+| 2015-12-21 | ЗИД, ДВ бр. 100 от 18.12.2015: 10 разпоредби, всяка отбелязана с „ДВ, бр. 100 от 2015 г.“ | `dv-2015-100` | Копие от 25 януари 2016 г. |
+| 2023-12-25 | ЗИД, ДВ бр. 106 от 22.12.2023: 8 разпоредби. Още 14 разпоредби гласят „[Източникът не дава текста, действащ на тази дата.]“ (вж. по-долу), и 5 редакционни промени на издателя, които никоя бележка не обяснява | `dv-2023-106`; издателят, „необяснени“ | Днешният текст (API на parliament.bg) |
+| 2024-08-09 | Решение № 13 на КС, ДВ бр. 66 от 06.08.2024: 14 разпоредби | `dv-2024-66` | Днешният текст (API на parliament.bg) |
 
-The files are `konstitutsiya/art-NNN.md` for each article (a lettered article takes a number: `art-091-01.md` is чл. 91а, `art-091-02.md` чл. 91б, `art-130-01.md` to `art-130-03.md` чл. 130а to 130в, `art-132-01.md` чл. 132а); `preambyl.md` is the preamble; `art-NNN-0-heading-1.md` is the heading of the chapter that begins at that article (Глава първа to Глава десета); `prehodni-01.md` is the Constitution's own Преходни и заключителни разпоредби, and `prehodni-02.md` to `prehodni-06.md` are the transitional provisions of the amending laws of 2003, 2005, 2007, 2015 and 2023, as the National Assembly prints them after the Constitution. 192 files in all: articles 1 to 169, the six lettered articles, the preamble, ten chapter headings and six transitional sections. `konstitutsiya/README.md` lists them.
+Файловете са `konstitutsiya/art-NNN.md` за всеки член (член с буква получава номер: `art-091-01.md` е чл. 91а, `art-091-02.md` е чл. 91б, `art-130-01.md` до `art-130-03.md` са чл. 130а до 130в, `art-132-01.md` е чл. 132а); `preambyl.md` е преамбюлът; `art-NNN-0-heading-1.md` е заглавието на главата, която започва с този член (Глава първа до Глава десета); `prehodni-01.md` са собствените Преходни и заключителни разпоредби на Конституцията, а `prehodni-02.md` до `prehodni-06.md` са преходните разпоредби на изменящите закони от 2003, 2005, 2007, 2015 и 2023 г., така както Народното събрание ги отпечатва след Конституцията. Общо 192 файла: членове от 1 до 169, шестте члена с буква, преамбюлът, десет заглавия на глави и шест раздела с преходни разпоредби. `konstitutsiya/README.md` ги изброява.
 
-**The nine gazette events behind today's text.** The National Assembly's text opens with the list of every promulgation and change in the Държавен вестник (State Gazette). The first six came before the oldest version here and are named in its commit; the last three each have commits of their own:
+**Деветте обнародвания в „Държавен вестник“ зад днешния текст.** Текстът на Народното събрание започва със списък на всяко обнародване и изменение в „Държавен вестник“. Първите шест са отпреди най-старата редакция тук и са посочени в нейния commit; последните три имат собствени commit-и:
 
-| Key | State Gazette | What it is |
+| Ключ | „Държавен вестник“ | Какво представлява |
 | --- | --- | --- |
-| `dv-1991-56` | ДВ бр. 56 от 13.07.1991 | The Constitution, promulgated and in force from 13 July 1991 |
+| `dv-1991-56` | ДВ бр. 56 от 13.07.1991 | Конституцията, обнародвана и в сила от 13 юли 1991 г. |
 | `dv-2003-85` | ДВ бр. 85 от 26.09.2003 | Закон за изменение и допълнение (ЗИД) на Конституцията |
 | `dv-2005-18` | ДВ бр. 18 от 25.02.2005 | ЗИД на Конституцията |
 | `dv-2006-27` | ДВ бр. 27 от 31.03.2006 | ЗИД на Конституцията |
-| `dv-2006-78` | ДВ бр. 78 от 26.09.2006 | Решение № 7 на Конституционния съд от 2006 г. (Constitutional Court decision) |
+| `dv-2006-78` | ДВ бр. 78 от 26.09.2006 | Решение № 7 на Конституционния съд от 2006 г. |
 | `dv-2007-12` | ДВ бр. 12 от 06.02.2007 | ЗИД на Конституцията |
 | `dv-2015-100` | ДВ бр. 100 от 18.12.2015 | ЗИД на Конституцията |
 | `dv-2023-106` | ДВ бр. 106 от 22.12.2023 | ЗИД на Конституцията |
 | `dv-2024-66` | ДВ бр. 66 от 06.08.2024 | Решение № 13 на Конституционния съд от 2024 г. |
 
-Inside the text, the National Assembly marks each changed paragraph with a note naming the gazette issue: "(Нов - ДВ, бр. 27 от 2006 г.)" on чл. 91а, "(Нова - ДВ, бр. 18 от 2005 г.)" on a paragraph of чл. 4, "(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)" on чл. 131. These notes are kept in the text exactly as printed, so `git grep` finds every provision a given law touched (see below). They are the data the history is credited from: a changed provision is credited to an event only where its own note names that event's gazette issue.
+В самия текст Народното събрание отбелязва всеки изменен абзац с бележка, която посочва броя на „Държавен вестник“: „(Нов - ДВ, бр. 27 от 2006 г.)“ при чл. 91а, „(Нова - ДВ, бр. 18 от 2005 г.)“ при една алинея на чл. 4, „(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)“ при чл. 131. Тези бележки са запазени в текста точно както са отпечатани, така че `git grep` намира всяка разпоредба, засегната от даден закон (вж. по-долу). Те са данните, по които историята определя авторството: изменена разпоредба се приписва на дадено обнародване само ако собствената ѝ бележка посочва броя на „Държавен вестник“ на това обнародване.
 
-## A lawyer's questions as git commands
+## Въпросите на юриста като команди на git
 
-| Question | Command |
+| Въпрос | Команда |
 | --- | --- |
-| What does чл. 5 say today? | `python tools/on.py 2026-10-29 konstitutsiya 5` |
-| A lettered article (чл. 91а) | `python tools/on.py 2026-10-29 konstitutsiya art-091-01` |
-| The same, naming where the text comes from | `python tools/on.py --law 2026-10-28 konstitutsiya art-091-01` |
-| The same, with raw git | `git show main:konstitutsiya/art-091-01.md` |
-| The whole Constitution today | `python tools/on.py 2026-10-29 konstitutsiya` |
-| Which provisions does the source say the 2023 amendment touched? | `git grep -l "бр. 106 от 2023" -- konstitutsiya/` |
-| Every amendment note on чл. 129, as printed | `git grep -n "ДВ, бр" -- konstitutsiya/art-129.md` |
-| The text on 1 January 2020 | `python tools/on.py 2020-01-01 konstitutsiya` |
-| Чл. 130а before and after the 2015 amendment | `git diff konstitutsiya/2008-01-01 konstitutsiya/2015-12-21 -- konstitutsiya/art-130-01.md` |
-| Which law last changed each line of чл. 129? | `git blame konstitutsiya/art-129.md` |
-| Every change to чл. 84 | `git log -p -- konstitutsiya/art-084.md` |
-| What the 2015 amendment changed | `git show law/dv-2015-100` (tags `law/<key>`; versions are tagged `konstitutsiya/<in-force day>`) |
-| The six earlier events named for the oldest version | `git log -1 --format=%B konstitutsiya/2008-01-01` |
-| Changes no note explains | `git log --author=ns@parliament.invalid` |
-| Laws passed but not yet in force | `git log main..badeshte` (none today; the branch does not exist yet) |
+| Какво гласи чл. 5 днес? | `python tools/on.py 2026-10-29 konstitutsiya 5` |
+| Член с буква (чл. 91а) | `python tools/on.py 2026-10-29 konstitutsiya art-091-01` |
+| Същото, с посочване откъде идва текстът | `python tools/on.py --law 2026-10-28 konstitutsiya art-091-01` |
+| Същото, само с git | `git show main:konstitutsiya/art-091-01.md` |
+| Цялата Конституция днес | `python tools/on.py 2026-10-29 konstitutsiya` |
+| Кои разпоредби според източника са засегнати от изменението от 2023 г.? | `git grep -l "бр. 106 от 2023" -- konstitutsiya/` |
+| Всички бележки за изменения при чл. 129, както са отпечатани | `git grep -n "ДВ, бр" -- konstitutsiya/art-129.md` |
+| Текстът на 1 януари 2020 г. | `python tools/on.py 2020-01-01 konstitutsiya` |
+| Чл. 130а преди и след изменението от 2015 г. | `git diff konstitutsiya/2008-01-01 konstitutsiya/2015-12-21 -- konstitutsiya/art-130-01.md` |
+| Кой закон е променил последно всеки ред на чл. 129? | `git blame konstitutsiya/art-129.md` |
+| Всички промени на чл. 84 | `git log -p -- konstitutsiya/art-084.md` |
+| Какво е променило изменението от 2015 г. | `git show law/dv-2015-100` (тагове `law/<key>`; редакциите имат тагове `konstitutsiya/<in-force day>`) |
+| Шестте по-ранни обнародвания, посочени за най-старата редакция | `git log -1 --format=%B konstitutsiya/2008-01-01` |
+| Промени, които никоя бележка не обяснява | `git log --author=ns@parliament.invalid` |
+| Приети закони, които още не са в сила | `git log main..badeshte` (днес няма такива; клонът още не съществува) |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+След повторно изграждане обновете таговете с `git fetch --force --tags`: обикновеният fetch запазва остарелите тагове.
 
-## Dates
+## Дати
 
-- Each commit is dated at **noon, Europe/Sofia, on the day the change took effect**. The in-force day is also in the `In-force:` trailer, which the tools read.
-- **Default rule.** Constitution, чл. 5, ал. 5: normative acts enter into force three days after their promulgation in the State Gazette, unless they set another date. Чл. 151, ал. 2: decisions of the Constitutional Court enter into force three days after their promulgation.
-- **2015-12-21, 2023-12-25 and 2024-08-09** are the gazette dates of ДВ бр. 100/2015, бр. 106/2023 and бр. 66/2024 plus three days; none of the three sets a day of its own.
-- **The oldest version is dated 1 January 2008.** Its text holds the amendments up to ДВ бр. 12/2007, and parts of those took effect on days of their own, as the text prints them: § 7 of the 2003 law put § 1, т. 3 in force on 1 January 2004; § 7 of the 2005 law put чл. 22 in force with the EU Accession Treaty (the note: "в сила от 01.01.2007 г."); § 13 of the 2007 law put its §§ 1 and 2 (чл. 9 and 59) in force on 1 January 2008. The text was therefore whole from 1 January 2008, and nothing changed it again until 2015.
-- **The archive's copy lags.** The National Assembly's page still showed the 2007 text on 16 January 2016 and the 2015 text from 25 January 2016. Versions are dated by the law, not by the capture.
+- Всеки commit е с дата **по обяд, часова зона Europe/Sofia, в деня, в който промяната е влязла в сила**. Денят на влизане в сила е посочен и в трейлъра `In-force:`, който инструментите четат.
+- **Общо правило.** Конституцията, чл. 5, ал. 5: нормативните актове влизат в сила три дни след обнародването им в „Държавен вестник“, освен ако в тях е определен друг срок. Чл. 151, ал. 2: решенията на Конституционния съд влизат в сила три дни след обнародването им.
+- **2015-12-21, 2023-12-25 и 2024-08-09** са датите на ДВ бр. 100/2015, бр. 106/2023 и бр. 66/2024 плюс три дни; никой от трите акта не определя собствена дата.
+- **Най-старата редакция е с дата 1 януари 2008 г.** Текстът ѝ съдържа измененията до ДВ бр. 12/2007, а части от тях са влезли в сила на собствени дати, както ги отпечатва текстът: § 7 от закона от 2003 г. въвежда в сила § 1, т. 3 на 1 януари 2004 г.; § 7 от закона от 2005 г. въвежда в сила чл. 22 с Договора за присъединяване към ЕС (бележката: „в сила от 01.01.2007 г.“); § 13 от закона от 2007 г. въвежда в сила неговите §§ 1 и 2 (чл. 9 и 59) на 1 януари 2008 г. Следователно текстът е бил цялостен от 1 януари 2008 г. и нищо не го е променяло отново до 2015 г.
+- **Копието в архива изостава.** Страницата на Народното събрание все още показва текста от 2007 г. на 16 януари 2016 г., а текста от 2015 г. – от 25 януари 2016 г. Редакциите са датирани по закона, а не по копието.
 
-## How it is checked
+## Как се проверява
 
-- **Today's text is the official text.** Lexifina's code reads the National Assembly's consolidated Constitution (one JSON response from parliament.bg, whose sha256 is recorded with the version) and splits it into provisions, with no other change than normalised spacing, quotes and dashes. Articles 1 to 169 are all present, plus 91а, 91б, 130а, 130б, 130в and 132а. The Internet Archive's copy of the same API response from 20 August 2025 is byte-identical.
-- **One parser for every source.** The old page (2010 to May 2021) and today's API go through the same code, so a redesign of the site is not taken for a change of law. The test: the old page captured on 6 May 2021 and the API captured on 29 June 2021, after the redesign, give identical provisions.
-- **One copy per distinct text.** Lexifina's code --history` read 46 of the 314 captures of the old page (the first of every quarter, then bisection wherever two neighbours differed) and parsed each one. Every capture from 22 December 2010 to 16 January 2016 gives the first text, every one from 25 January 2016 to 6 May 2021 the second. The two pinned captures are recorded with their sha256 in each version.
-- **Every change is accounted for.** All 10 changes of 2015, 8 of 2023 and 14 of 2024 carry a note naming their gazette issue. Five small edits by the publisher carry none and are committed as unexplained (below).
-- Each version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`), and must match `corpus.json`: 0 mismatches. No merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
-- The repository is rebuilt from the same data a second time and gives identical hashes. Details in [`REPRODUCE.md`](REPRODUCE.md).
+- **Днешният текст е официалният текст.** Кодът на Lexifina чете консолидираната Конституция на Народното събрание (един JSON отговор от parliament.bg, чийто sha256 се записва с редакцията) и я разделя на разпоредби без друга промяна освен нормализиране на интервалите, кавичките и тиретата. Налице са всички членове от 1 до 169, както и 91а, 91б, 130а, 130б, 130в и 132а. Копието в Internet Archive на същия отговор на API от 20 август 2025 г. е идентично байт по байт.
+- **Един парсер за всички източници.** Старата страница (2010 г. до май 2021 г.) и днешният API минават през един и същ код, така че нов дизайн на сайта не се приема за промяна на правото. Проверката: старата страница, копирана на 6 май 2021 г., и API, копиран на 29 юни 2021 г., след новия дизайн, дават идентични разпоредби.
+- **По едно копие за всеки различен текст.** Кодът на Lexifina --history` прочете 46 от 314-те копия на старата страница (първото за всяко тримесечие, след това разполовяване навсякъде, където две съседни копия се различават) и анализира всяко от тях. Всяко копие от 22 декември 2010 г. до 16 януари 2016 г. дава първия текст, всяко от 25 януари 2016 г. до 6 май 2021 г. – втория. Двете фиксирани копия са записани със своя sha256 във всяка редакция.
+- **Всяка промяна е отчетена.** Всичките 10 промени от 2015 г., 8 от 2023 г. и 14 от 2024 г. имат бележка, посочваща броя на „Държавен вестник“. Пет малки редакционни промени на издателя нямат бележка и са записани като необяснени (вж. по-долу).
+- Всяка редакция се прочита обратно от git в деня на влизането ѝ в сила и в предходния ден (`tools/check_repo.py`) и трябва да съвпада с `corpus.json`: 0 несъответствия. В `main` няма merge commit-и, датите на commit-ите никога не вървят назад, нищо не е с бъдеща дата и трейлърите на всеки commit се разчитат.
+- Хранилището се изгражда повторно от същите данни и дава идентични хешове. Подробности в [`REPRODUCE.md`](REPRODUCE.md).
 
-## What "author" means
+## Какво означава „автор“
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina.
+Авторът на един commit е законът, който е извършил промяната, с имейл адрес, който не може да съществува, така че `git blame` и `git log --author` посочват закони. Committer винаги е Lexifina.
 
-- **The law commits** are authored by `dv-2015-100`, `dv-2023-106` and `dv-2024-66` (`<key>@parliament.invalid`), one commit per event on its in-force day.
-- **The publisher's commits.** The first commit is authored by the Народно събрание на Република България (`ns@parliament.invalid`) and labelled "oldest version available"; its message names the six earlier gazette events without crediting any line to one of them. The publisher also authors the one "unexplained" commit, on 2023-12-25: the 14 provisions that read the placeholder that day, and five edits that no note explains (чл. 9 and 59: "в сила от 1 януари 2008 г." became "01.01.2008 г."; чл. 85, т. 8: a full stop became a semicolon; чл. 91а: its note joined to ал. 1; чл. 158, т. 5: "гл." became "глава"). The publisher made those edits between 29 June 2021 and 20 August 2025; they sit with the first version built from today's text.
-- **Credits come only from the source.** A change is credited to a law only where the National Assembly's note on that provision names it.
+- **Commit-ите на законите** имат за автори `dv-2015-100`, `dv-2023-106` и `dv-2024-66` (`<key>@parliament.invalid`), по един commit за всяко обнародване в деня на влизането му в сила.
+- **Commit-ите на издателя.** Първият commit има за автор Народното събрание на Република България (`ns@parliament.invalid`) и е означен като „най-старата налична редакция“; съобщението му посочва шестте по-ранни обнародвания, без да приписва който и да е ред на някое от тях. Издателят е автор и на единствения „необяснен“ commit, на 2023-12-25: 14-те разпоредби, които на тази дата съдържат заместващия текст, и петте редакционни промени, които никоя бележка не обяснява (чл. 9 и 59: „в сила от 1 януари 2008 г.“ става „01.01.2008 г.“; чл. 85, т. 8: точка става точка и запетая; чл. 91а: бележката му е слята с ал. 1; чл. 158, т. 5: „гл.“ става „глава“). Издателят е направил тези промени между 29 юни 2021 г. и 20 август 2025 г.; те са поместени в първата редакция, изградена от днешния текст.
+- **Авторството идва само от източника.** Промяна се приписва на закон само ако бележката на Народното събрание към тази разпоредба го посочва.
 
-## What it does not show
+## Какво не показва
 
-So the version of 2023-12-25 is today's text, except that the 14 provisions whose notes name Decision № 13 of 2024 (чл. 23, 84, 91б, 99, 110, 126, 129, 130, 130а, 130б, 130в, 132а, 133 and 150) read "[Източникът не дава текста, действащ на тази дата.]" ("the source does not give the text in force on this date"). Their wording arrives on 2024-08-09, credited to the decision. The 2023 amendment's own words in those provisions are therefore not in the record.
-- **The Penal Code (Наказателен кодекс) and the data protection law (Закон за защита на личните данни).** Neither is built. The candidate sources, cpdp.bg (the Commission for Personal Data Protection) for the data protection law and the parliament.bg routes for adopted laws (`/act/<id>`, `/bill/<id>`), have not been probed yet.
-- **Other acts.** Only the Constitution is here.
-- **The words of repealed or struck-down provisions.** Where a provision was repealed or the Constitutional Court declared it unconstitutional, the file holds what the National Assembly prints. `art-131.md` holds the note alone, "(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)"; `art-091-02.md` (чл. 91б) holds its note "(Нов - ДВ, бр. 106 от 2023 г.; обявен за противоконституционен с РКС № 13 от 2024 г. - ДВ, бр. 66 от 2024 г.)" and then the struck-down words between two rules of dashes, as the National Assembly prints them.
-- **Notes in the text.** Because the amendment notes are kept, the text is the National Assembly's edition, not the bare words of the law. The notes are not separate units.
+Затова редакцията от 2023-12-25 е днешният текст, с тази разлика, че 14-те разпоредби, чиито бележки посочват Решение № 13 от 2024 г. (чл. 23, 84, 91б, 99, 110, 126, 129, 130, 130а, 130б, 130в, 132а, 133 и 150), гласят „[Източникът не дава текста, действащ на тази дата.]“. Текстът им се появява на 2024-08-09 и се приписва на решението. Следователно собствените думи на изменението от 2023 г. в тези разпоредби не са в записа.
+- **Наказателният кодекс и Законът за защита на личните данни.** Нито един от двата не е изграден. Възможните източници – cpdp.bg (Комисията за защита на личните данни) за Закона за защита на личните данни и маршрутите на parliament.bg за приетите закони (`/act/<id>`, `/bill/<id>`) – все още не са проучени.
+- **Други актове.** Тук е само Конституцията.
+- **Текстът на отменени или обявени за противоконституционни разпоредби.** Когато разпоредба е отменена или Конституционният съд я е обявил за противоконституционна, файлът съдържа това, което отпечатва Народното събрание. `art-131.md` съдържа само бележката „(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)“; `art-091-02.md` (чл. 91б) съдържа бележката си „(Нов - ДВ, бр. 106 от 2023 г.; обявен за противоконституционен с РКС № 13 от 2024 г. - ДВ, бр. 66 от 2024 г.)“, а след нея обявения за противоконституционен текст между две линии от тирета, както го отпечатва Народното събрание.
+- **Бележки в текста.** Тъй като бележките за измененията са запазени, текстът е изданието на Народното събрание, а не голият текст на закона. Бележките не са отделни единици.
 
-Only the text published by the National Assembly and the State Gazette is authoritative. This repository is a research aid, not legal advice.
+Официален е само текстът, публикуван от Народното събрание и в „Държавен вестник“. Това хранилище е помощно средство за проучване, а не правен съвет.
 
-## How it is built
+## Как е изградено
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+Lexifina чете изброените тук източници и записва датираните редакции на всеки акт и законите, извършили всяка промяна, в един файл с корпуса. `tools/build.py` създава това хранилище от този файл и един и същ корпус винаги дава едни и същи хешове на commit-ите; `REPRODUCE.md` съдържа подробностите и проверките. Модел (Claude) е написал кода на Lexifina; той не е написал правен текст и при изграждането на историята не работи никакъв модел.
 
-## Sources
+## Източници
 
-| Source | What it gives | Dated versions | Names the amending act | Access and terms | Used |
+| Източник | Какво дава | Датирани редакции | Посочва изменящия акт | Достъп и условия | Използван |
 | --- | --- | --- | --- | --- | --- |
-| [Народно събрание, Конституция](https://www.parliament.bg/bg/const) (API: `https://www.parliament.bg/api/v1/nav/bg/const`) | The official consolidated Constitution | No: today's text only | Yes, a note on each changed paragraph, and the full list of gazette events in the header | JSON with an HTML body. Official legal text, not subject to copyright (Закон за авторското право и сродните му права, чл. 4, т. 1) | Yes: today's text |
-| [Държавен вестник](https://dv.parliament.bg) | The State Gazette: laws as promulgated | No consolidated texts | Partly | PDF. | No |
-| [lex.bg](https://lex.bg) | Consolidated texts (private, not official) | | | – | No: not fetched |
-| [Internet Archive](https://web.archive.org/) | Captures of parliament.bg/bg/const: the full text on the old page from December 2010 to May 2021, the JavaScript shell after that; the API response on 29 June 2021 and 20 August 2025 | Yes, as captured | As the captures print it | – | Yes: the 2008 and 2015 versions (captures 20101222212318 and 20160125101631) |
-| – | Another web archive | | | – | No |
+| [Народно събрание, Конституция](https://www.parliament.bg/bg/const) (API: `https://www.parliament.bg/api/v1/nav/bg/const`) | Официалната консолидирана Конституция | Не: само днешният текст | Да, бележка при всеки изменен абзац и пълният списък на обнародванията в заглавната част | JSON със съдържание в HTML. Официален нормативен текст, който не е обект на авторско право (Закон за авторското право и сродните му права, чл. 4, т. 1) | Да: днешният текст |
+| [Държавен вестник](https://dv.parliament.bg) | „Държавен вестник“: законите във вида, в който са обнародвани | Няма консолидирани текстове | Частично | PDF. | Не |
+| [lex.bg](https://lex.bg) | Консолидирани текстове (частни, неофициални) | | | – | Не: не е изтеглян |
+| [Internet Archive](https://web.archive.org/) | Копия на parliament.bg/bg/const: пълният текст на старата страница от декември 2010 г. до май 2021 г., след това обвивката на JavaScript; отговорът на API на 29 юни 2021 г. и 20 август 2025 г. | Да, според копията | Както го отпечатват копията | – | Да: редакциите от 2008 и 2015 г. (копия 20101222212318 и 20160125101631) |
+| – | Друг уеб архив | | | – | Не |
 
-The register this repository started from said that consolidated texts of Bulgarian law exist only in private services. For the Constitution that is not so: the National Assembly publishes it consolidated, with its amendment notes.
+Регистърът, от който започна това хранилище, посочваше, че консолидирани текстове на българското право има само в частни услуги. За Конституцията това не е така: Народното събрание я публикува консолидирана, с бележките за измененията.
 
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+Ръководства за проучване, които обхващат всички държави: [GlobaLex](https://www.nyulawglobal.org/globalex/) и [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
-## Licence
+## Лиценз
 
-See [LICENSE](LICENSE). The text of the Constitution is the official text published by the National Assembly of the Republic of Bulgaria (parliament.bg). Official legal texts are not subject to copyright in Bulgaria (Закон за авторското право и сродните му права, чл. 4, т. 1), and Lexifina makes no claim to it. The history, commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+Вж. [LICENSE](LICENSE). Текстът на Конституцията е официалният текст, публикуван от Народното събрание на Република България (parliament.bg). Официалните нормативни текстове не са обект на авторско право в България (Закон за авторското право и сродните му права, чл. 4, т. 1) и Lexifina не претендира за права върху него. Историята, съобщенията на commit-ите, таблиците и инструментите са предоставени при условията на [CC0 1.0](LICENSE).
 
----
+Това е превод на английската версия ([README.en.md](README.en.md)); при разлики предимство има английската версия.
 
-## На български
+## Още
 
-Конституцията на Република България като история в git: по един файл за всеки член и по един commit за всеки закон на деня, в който е влязъл в сила, с този закон като автор.
+От хранилището [lexifina/global-law](https://github.com/lexifina/global-law) (на английски):
 
-- **Какво съдържа:** четири редакции на Конституцията, от 1 януари 2008 г. до днес, всички в текста на Народното събрание. Най-старата налична версия (в сила от 1 януари 2008 г., когато влизат в сила §§ 1 и 2 от ЗИД, ДВ, бр. 12/2007) е от копие на страницата parliament.bg/bg/const в Internet Archive от 22.12.2010 г. и е записана от името на издателя; съобщението на commit-а изброява шестте по-ранни обнародвания и изменения (ДВ, бр. 56/1991, бр. 85/2003, бр. 18/2005, бр. 27/2006, бр. 78/2006 - Решение № 7 на КС, бр. 12/2007). Следват ЗИД, ДВ, бр. 100/2015 (в сила от 21.12.2015 г., копие от 25.01.2016 г.), ЗИД, ДВ, бр. 106/2023 (в сила от 25.12.2023 г.) и Решение № 13 на КС, ДВ, бр. 66/2024 (в сила от 09.08.2024 г.), по актуалния текст. Всяка промяна е приписана на акта, който бележката към разпоредбата посочва.
-- **Редакцията от 25.12.2023 г.:** не е намерено копие на текста, действащ между 25.12.2023 г. и 08.08.2024 г. 14-те разпоредби, чиито бележки посочват Решение № 13 на КС от 2024 г., гласят в нея „[Източникът не дава текста, действащ на тази дата.]“. Пет редакционни промени на издателя без бележка (чл. 9, 59, 85, 91а и 158) са отбелязани като необяснени.
-- **Бележките за измененията** („Нов - ДВ, бр. 27 от 2006 г.“ и др.) са запазени в текста така, както са отпечатани.
-- **Какво липсва:** редакциите отпреди 2008 г. (най-старото копие в архива е от 2010 г.), Наказателният кодекс и Законът за защита на личните данни.
-- **Дати:** нормативните актове влизат в сила три дни след обнародването им в „Държавен вестник“, освен ако в тях е определен друг срок (чл. 5, ал. 5); решенията на Конституционния съд също влизат в сила три дни след обнародването им (чл. 151, ал. 2).
-
-Официален е само текстът, публикуван от Народното събрание и в „Държавен вестник“. Това хранилище не е правен съвет.
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): всички функции и какво трябва да поддържа всеки корпус (`git blame`, `law.py`, MCP инструменти)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): въпроси и отговори · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): предлагане на промени · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP сървър · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): как е създадено · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): колко актуален е всеки корпус · [Мониторинг](https://github.com/lexifina/global-law/tree/main/monitoring): дали обновяванията работят · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): как всеки официален източник се следи за промени
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): колко бързи са инструментите, измерено
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): графики и връзки в правото на целия свят
+- [Уязвимости](https://github.com/lexifina/global-law/tree/main/vulnerabilities): грешки в актовете във вида, в който са обнародвани
