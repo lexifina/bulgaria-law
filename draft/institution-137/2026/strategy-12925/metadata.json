@@ -1,0 +1,47 @@
+{
+  "title": "Проект на Решение на Министерския съвет за одобряване на проект на Закон за изменение и допълнение на Закона за физическото възпитание и спорта",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12925",
+  "issuer": "Министерство на младежта и спорта",
+  "issuer_id": "137",
+  "issuer_level": "Национално",
+  "consultation_opening_date": "2026-11-13",
+  "source": "https://www.strategy.bg/bg/public-consultations/12925",
+  "source_sha256": "13c18ffe479279054e8331286180f4c9019c7a4034e6f460b361a183e0a6f5fe",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330110",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330112",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Оценка на въздействие - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330114",
+      "coverage": "held",
+      "held_reason": "PDF images held: 12; no OCR"
+    },
+    {
+      "label": "Становище на администрацията на Министерския съвет - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330116",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
