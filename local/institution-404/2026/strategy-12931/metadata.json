@@ -1,0 +1,35 @@
+{
+  "title": "Проект на Наредба за изменение на Наредба № 15 за определяне размера на местните данъци на територията на Община Мизия",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12931",
+  "issuer": "Общинска администрация - Мизия",
+  "issuer_id": "404",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-13",
+  "source": "https://www.strategy.bg/bg/public-consultations/12931",
+  "source_sha256": "777df2c9a2c1b9776d58a67c5cfe1ead0b1256d043f489349ee19b6a61231bab",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330149",
+      "coverage": "included as separate document record",
+      "held_reason": null
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 13.11.2026",
+      "source": "https://www.strategy.bg/download/1330151",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
