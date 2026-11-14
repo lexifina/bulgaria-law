@@ -1,0 +1,41 @@
+{
+  "title": "План-сметка за относимите за 2027 година разходи за извършване на дейности по предоставяне на услуги по чл. 62 от Закона за  местните данъци и такси",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12938",
+  "issuer": "Общинска администрация - Провадия",
+  "issuer_id": "440",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-14",
+  "source": "https://www.strategy.bg/bg/public-consultations/12938",
+  "source_sha256": "06de2d66f3844214deb38bbc3fac96c7a06269ee58b89adb36ee9596b315cfb8",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330227",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "уведомление - 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330231",
+      "coverage": "held",
+      "held_reason": "PDF images held: 34; no OCR"
+    },
+    {
+      "label": "Други документи - вер. 1.0 | 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330229",
+      "coverage": "held",
+      "held_reason": "PDF images held: 101; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
