@@ -44,7 +44,7 @@ The files are `konstitutsiya/art-NNN.md` for each article (a lettered article ta
 
 Inside the text, the National Assembly marks each changed paragraph with a note naming the gazette issue: "(Нов - ДВ, бр. 27 от 2006 г.)" on чл. 91а, "(Нова - ДВ, бр. 18 от 2005 г.)" on a paragraph of чл. 4, "(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)" on чл. 131. These notes are kept in the text exactly as printed, so `git grep` finds every provision a given law touched (see below). They are the data the history is credited from: a changed provision is credited to an event only where its own note names that event's gazette issue.
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -65,6 +65,14 @@ Inside the text, the National Assembly marks each changed paragraph with a note 
 | Laws passed but not yet in force | `git log main..badeshte` (none today; the branch does not exist yet) |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Bulgarian law](https://global-law.lexifina.com/v1/try_claude?country=bulgaria&q=what%20does%20the%20Constitution%20%28%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F%29%20say%20about%20the%20right%20to%20work%20and%20to%20paid%20annual%20leave%20%28%D1%87%D0%BB.%2048%29%20today%2C%20and%20which%20laws%20have%20amended%20the%20Constitution%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (the right to work and to paid annual leave in the Constitution, and how the Constitution has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bulgaria&q=what%20does%20the%20Constitution%20%28%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F%29%20say%20about%20the%20right%20to%20work%20and%20to%20paid%20annual%20leave%20%28%D1%87%D0%BB.%2048%29%20today%2C%20and%20which%20laws%20have%20amended%20the%20Constitution%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%BD+%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdictions=bulgaria)**: Bulgarian law searched for "платен годишен отпуск", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Bulgarian or in English.
 
 ## Dates
 

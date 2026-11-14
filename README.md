@@ -44,7 +44,7 @@
 
 В самия текст Народното събрание отбелязва всеки изменен абзац с бележка, която посочва броя на „Държавен вестник“: „(Нов - ДВ, бр. 27 от 2006 г.)“ при чл. 91а, „(Нова - ДВ, бр. 18 от 2005 г.)“ при една алинея на чл. 4, „(Изм. - ДВ, бр. 85 от 2003 г., изм. - ДВ, бр. 12 от 2007 г., отм. - ДВ, бр. 100 от 2015 г.)“ при чл. 131. Тези бележки са запазени в текста точно както са отпечатани, така че `git grep` намира всяка разпоредба, засегната от даден закон (вж. по-долу). Те са данните, по които историята определя авторството: изменена разпоредба се приписва на дадено обнародване само ако собствената ѝ бележка посочва броя на „Държавен вестник“ на това обнародване.
 
-## Въпросите на юриста като команди на git
+## Въпроси като команди на git
 
 | Въпрос | Команда |
 | --- | --- |
@@ -65,6 +65,14 @@
 | Приети закони, които още не са в сила | `git log main..badeshte` (днес няма такива; клонът още не съществува) |
 
 След повторно изграждане обновете таговете с `git fetch --force --tags`: обикновеният fetch запазва остарелите тагове.
+
+**Или попитайте с обикновени думи.** Същите данни са безплатни и без git, без акаунт и без ключ:
+
+- **[Попитайте Claude за българското право](https://global-law.lexifina.com/v1/try_claude?country=bulgaria&q=what%20does%20the%20Constitution%20%28%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F%29%20say%20about%20the%20right%20to%20work%20and%20to%20paid%20annual%20leave%20%28%D1%87%D0%BB.%2048%29%20today%2C%20and%20which%20laws%20have%20amended%20the%20Constitution%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: с един клик се отваря Claude с готов първи въпрос (правото на труд и на платен годишен отпуск в Конституцията и как се е променяла тя).
+- **[Попитайте ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bulgaria&q=what%20does%20the%20Constitution%20%28%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F%29%20say%20about%20the%20right%20to%20work%20and%20to%20paid%20annual%20leave%20%28%D1%87%D0%BB.%2048%29%20today%2C%20and%20which%20laws%20have%20amended%20the%20Constitution%20since%202000%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: същият въпрос в ChatGPT.
+- **[Извикайте API-то в браузъра](https://global-law.lexifina.com/v1/search_law?query=%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%BD+%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdictions=bulgaria)**: търсене в българското законодателство за „платен годишен отпуск“, отговор в JSON. Без ключ: 5 заявки в минута; [всички инструменти](https://global-law.lexifina.com/v1), [ключове и документация](https://lexifina.com/api).
+
+Асистентите четат данните през безплатния конектор Global law (MCP, `https://global-law.lexifina.com/mcp`); първия път разговорът дава връзката, с която се добавя. В Claude изберете „Always allow“, за да не потвърждавате всяко извикване. Питайте на български или на английски.
 
 ## Дати
 
