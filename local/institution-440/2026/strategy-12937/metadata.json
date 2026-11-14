@@ -1,0 +1,53 @@
+{
+  "title": "Наредба № 8 за определяне и администриране на местните такси и цени на услуги на територията на Община Провадия",
+  "record_type": "public-consultation",
+  "legal_status": "NOT LAW",
+  "is_law": false,
+  "in_force": null,
+  "consultation_id": "12937",
+  "issuer": "Общинска администрация - Провадия",
+  "issuer_id": "440",
+  "issuer_level": "Общинско",
+  "consultation_opening_date": "2026-11-14",
+  "source": "https://www.strategy.bg/bg/public-consultations/12937",
+  "source_sha256": "3df56b974f94b09efa201939258778b733ab394859a658f58d792faf924aeb56",
+  "body_type": "consultation-description; not draft legal text",
+  "draft_legal_text_included_in_this_record": false,
+  "document_set_complete": false,
+  "documents": [
+    {
+      "label": "Проект на акт - вер. 1.0 | 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330215",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Приложения към Наредба №8 - 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330225",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Мотиви - вер. 1.0 | 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330217",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    },
+    {
+      "label": "Частична предварителна оценка на въздействието - 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330223",
+      "coverage": "held",
+      "held_reason": "PDF independent word inventory mismatch"
+    },
+    {
+      "label": "Консолидирана версия на акта - вер. 1.0 | 14.11.2026",
+      "source": "https://www.strategy.bg/download/1330219",
+      "coverage": "held",
+      "held_reason": "PDF images held: 1; no OCR"
+    }
+  ],
+  "coverage_note": "This record holds the official consultation notice and description. Attachments have separate coverage; a notice is not a substitute for a draft or an adopted act.",
+  "source_description_images": 0,
+  "referenced_description_images": 0,
+  "omitted_description_images": 0
+}
