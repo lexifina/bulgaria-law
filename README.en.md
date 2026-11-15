@@ -61,6 +61,7 @@ Each act is the author of its own commit (`zakon-2025-dv095-166613@parliament.in
 - An act is published only when it reads cleanly (its provisions split with no gaps or repeats, its Gazette day and in-force day readable); the rest are held back, with the reason, in `data/held.json`.
 - The Constitution's earlier texts come from Internet Archive captures of the National Assembly's page and go through the same parser as today's text, so a site redesign is not taken for a change of law.
 - `tools/build/check_repo.py` reads every version back from git and compares it with the corpus, and the same corpus gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) records the corpus and builder hashes, and says these checks have not yet been run on the current build. There are no merge commits on `main`.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Bulgarian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
