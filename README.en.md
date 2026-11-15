@@ -30,7 +30,8 @@ The text is in Bulgarian (Cyrillic), as the National Assembly and the State Gaze
 
 - **[Ask Claude about Bulgarian law](https://global-law.lexifina.com/v1/try_claude?country=bulgaria)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bulgaria)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdictions=bulgaria)**: a search of Bulgarian law for "годишен отпуск", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Bulgarian law on our site](https://lexifina.com/law?country=bulgaria&q=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA)**: a search for "годишен отпуск", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdiction=bulgaria)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Bulgarian or in English.
 

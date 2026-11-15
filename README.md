@@ -30,7 +30,8 @@
 
 - **[Попитайте Claude за българското право](https://global-law.lexifina.com/v1/try_claude?country=bulgaria)**: отваря Claude с готов първи въпрос.
 - **[Попитайте ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bulgaria)**: същият въпрос в ChatGPT.
-- **[Извикайте API в браузъра](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdictions=bulgaria)**: търсене на „годишен отпуск“ в българското право, с отговор в JSON. Документацията е [тук](https://lexifina.com/api/global-law).
+- **[Търсете в българското право на нашия сайт](https://lexifina.com/law?country=bulgaria&q=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA)**: търсене на „годишен отпуск“, с текста на всяка разпоредба и нейните редакции, без регистрация.
+- **[REST API за разработчици](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdiction=bulgaria)**: същото търсене като JSON, без ключ. Документацията е [тук](https://lexifina.com/api/global-law).
 
 И двата асистента четат записа чрез безплатния конектор Global law (MCP, `https://global-law.lexifina.com/mcp`); първия път чатът ви дава връзката, с която конекторът се добавя. Питайте на български или на английски.
 
