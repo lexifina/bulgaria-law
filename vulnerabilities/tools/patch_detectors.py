@@ -135,6 +135,38 @@ patch("ingest/textscan.py", [
      r'''rf"\s*(?:tarihine|tarihi|gününe|günü)?\s*(?:kadar|dek|değin)\b")'''),
 ])
 
+# fifth round (found by the Croatia update): shards must split the work the same way in every process, and
+# Croatian "listopada" is October (it is November in Polish, which came first in the month list)
+patch("ingest/textscan.py", [
+    ("same row order in every shard",
+     "where left(ch.status,1)='M' and r.kind='law'\"\"\").fetchall()",
+     "where left(ch.status,1)='M' and r.kind='law' order by ch.commit, ch.path\"\"\").fetchall()"),
+    ("language of the corpus (Croatian 'listopada' is October)",
+     'ROMAN = {r: i for i, r in enumerate(',
+     '# the corpus language decides the few month names that differ between languages; pins.json names it for a one-country\n'
+     '# run, and one() sets it per corpus otherwise\n'
+     'try:\n    _LANG = {"v": (lambda cs: cs[0].get("language") or "" if len(cs) == 1 else "")(pins()["corpora"])}\n'
+     'except Exception:\n    _LANG = {"v": ""}\n'
+     'MONTH_BY_LANG = {"listopada": {"hr": 10, "bs": 10, "sr": 10, "cnr": 10, "sh": 10}}\n'
+     'ROMAN = {r: i for i, r in enumerate('),
+    ("set the language per corpus",
+     "def one(c: dict, shard: int = 0, nshards: int = 1):\n    lower_priority()\n    t0 = time.time()\n    repo = CORPUS / f\"{c['repo']}.git\"\n    D = {k: [] for k in (\"path\", \"until\", \"context\")}",
+     "def one(c: dict, shard: int = 0, nshards: int = 1):\n    lower_priority()\n    _LANG[\"v\"] = (c.get(\"language\") or \"\").lower()\n    t0 = time.time()\n    repo = CORPUS / f\"{c['repo']}.git\"\n    D = {k: [] for k in (\"path\", \"until\", \"context\")}"),
+    ("month by language",
+     '                y, mo, d = int(g["y1"]), MI[g["mon"].lower()], int(g["d1"])',
+     '                y, mo, d = int(g["y1"]), MONTH_BY_LANG.get(g["mon"].lower(), {}).get(_LANG["v"], MI[g["mon"].lower()]), int(g["d1"])'),
+])
+patch("ingest/textscan.py", [  # found by the Greece update: «31η.12.2020», «30ή Ιουνίου»
+    ("Greek accented ordinal", r'(?:η|ης|-?го|-?ти)?', r'(?:η|ή|ης|ής|-?го|-?ти)?'),
+    ("Greek ordinal before a month in figures", r'r"|(?P<d3>\d{1,2})\s?[./]', r'r"|(?P<d3>\d{1,2})(?:η|ή)?\s?[./]'),
+])
+patch("ingest/refscan.py", [
+    ("stable shard split",
+     "acts_shard = {a for a in {act_of(h[0]) for h in hist} if hash(a) % nshards == shard} if nshards > 1 else None",
+     "acts_shard = {a for a in {act_of(h[0]) for h in hist} if zlib.crc32(a.encode('utf-8')) % nshards == shard} if nshards > 1 else None  # hash() differs per process"),
+    ("zlib", "import re, sys, time\n", "import re, sys, time, zlib\n"),
+])
+
 # ---------------------------------------------------------------- 2. references
 patch("ingest/refscan.py", [
     ("Czech/Slovak 'a' is 'and'",
@@ -203,6 +235,13 @@ patch("detectors/currency_scan.py", [
 # fourth round: Turkish lira with its endings ("liradan", "lirası", "liraya"), lost when "liras?" became a whole word
 patch("detectors/currency_scan.py", [
     ("lira with Turkish endings", r'lireta\b|liras?\b|', r'lireta\b|lira\w{0,6}|'),
+])
+# fifth round: the model reviews "the strongest N" per category; many flags tie on score, so ties are broken by a hash of
+# the row, and the same flags are chosen whatever order the scan wrote them in
+patch("triage/triage.py", [
+    ("deterministic tie-break",
+     "row_number() over (partition by corpus order by score desc) rn\n                         from '{p.as_posix()}')",
+     "row_number() over (partition by corpus order by score desc, md5(cast(x as varchar))) rn\n                         from '{p.as_posix()}' x)"),
 ])
 print("applied:", len(done)); [print("  +", d) for d in done]
 print("already there:", len(skipped))
