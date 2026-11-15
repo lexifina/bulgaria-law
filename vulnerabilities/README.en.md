@@ -4,12 +4,12 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="img/flags-by-category-dark.svg">
-<img alt="1,963 flags in four categories: lapsed time limits 355, retroactive dates 1,582, duplicate numbering 22, dead currencies 4, each split into flags in law texts and in court decisions" src="img/flags-by-category.svg" width="880">
+<img alt="6,475 flags in three categories: lapsed time limits 4,871, retroactive dates 1,582, duplicate numbering 22, each split into flags in law texts and in court decisions" src="img/flags-by-category.svg" width="880">
 </picture>
 
 The vulnerability detectors from [lexifina/global-law](https://github.com/lexifina/global-law/tree/main/vulnerabilities) look for mechanical mistakes in legislation: a rule applying "until" a date that has passed, an act in force before it was published, a time limit extended only after it had run out, a reference to a section that no longer exists. global-law's published list (9 November 2026) did not cover Bulgaria, so this is a run over this repository only, as it stood at commit [`7257fc3`](https://github.com/lexifina/bulgaria-law/commit/7257fc34e4a84bf62d70f593aa9511cdea76ea81) on 15 November 2026, with the Constitution, the 17,367 acts from the State Gazette of 2003 to 2026, and the court decisions, drafts and consultation notices it also holds.
 
-**In short:** the detectors raised 1,963 flags. A language model reviewed 80 of the strongest, arguing each one for and against; 13 survived. Checked by hand in this repository, one looks like a real drafting mistake, small and long spent. Instruction No. 8121з-282 of 2018 on service cards in the Ministry of the Interior let the 2016 hologram stickers be used until 30 June 2018, but the instruction it replaced allowed them only until 31 December 2017, and the new one took effect on its Gazette day, 23 March 2018, so for 81 days no rule allowed them. Of the other 12, 8 are Council of Ministers decrees whose own final provisions set a day before they were published (pay, the minimum wage, university funding, the 2026 budget), and 4 are spent transitional rules. The hand check also found that 49 laws are dated in this repository three days after their Gazette day, not on the day their own final provisions name. Later, this will be formalised in Lean, similar to our work on [the US tax code](https://lexifina.com/blog/formalizing-the-us-tax-code) and [US case law](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).
+**In short:** the detectors raised 6,475 flags. A language model reviewed 120 of the strongest, arguing each one for and against; 12 survived. Checked by hand in this repository, 8 are Council of Ministers decrees whose own final provisions set a day before they were published (pay, the minimum wage, university funding, the 2026 budget), and 4 are spent transitional rules and deadlines for one year. One flag that survived an earlier review, made before the detectors were fixed, looks like a real drafting mistake, small and long spent, and it still stands. Instruction No. 8121з-282 of 2018 on service cards in the Ministry of the Interior let the 2016 hologram stickers be used until 30 June 2018, but the instruction it replaced allowed them only until 31 December 2017, and the new one took effect on its Gazette day, 23 March 2018, so for 81 days no rule allowed them. The hand check also found that 49 laws are dated in this repository three days after their Gazette day, not on the day their own final provisions name. Later, this will be formalised in Lean, similar to our work on [the US tax code](https://lexifina.com/blog/formalizing-the-us-tax-code) and [US case law](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).
 
 A flag is a prompt to look, not legal advice, and nothing here has been tested in court.
 
@@ -17,14 +17,13 @@ A flag is a prompt to look, not legal advice, and nothing here has been tested i
 
 | Category | What it looks for | Flags | In law texts | Reviewed | Survived review |
 | --- | --- | ---: | ---: | ---: | ---: |
-| Lapsed time limits | Text still applying a rule "until" a date that has passed | 355 | 267 | 40 | 5 |
+| Lapsed time limits | Text still applying a rule "until" a date that has passed | 4,871 | 4,772 | 80 | 4 |
 | Retroactive or pre-publication dates | An act in force before it was made or published | 1,582 | 1,582 | 40 | 8 |
 | Duplicate numbering | Two units with the same number in one act | 22 | 22 | 0 | 0 |
-| Dead currencies | Amounts in currencies no longer in use | 4 | 4 | 0 | 0 |
 
-"In law texts" counts laws and codes, Council of Ministers decrees, ordinances, rules, instructions, treaties and the other acts of the State Gazette's official section. The other flags are in decisions of the Constitutional Court and the Supreme Administrative Court, which this repository also holds, apart from its law, with drafts and consultation notices (these raised no flags). The search for repeal gaps, same-day conflicts, empty periods, stale amounts and references to deleted provisions found nothing to flag: apart from the Constitution, each act here has one version, its text as enacted, and amendments are acts of their own, so no provision is ever changed or removed in this history for those detectors to compare.
+"In law texts" counts laws and codes, Council of Ministers decrees, ordinances, rules, instructions, treaties and the other acts of the State Gazette's official section. The other flags are in decisions of the Constitutional Court and the Supreme Administrative Court, which this repository also holds, apart from its law, with drafts and consultation notices (these raised no flags). The search for repeal gaps, same-day conflicts, empty periods, stale amounts and references to deleted provisions found nothing to flag: apart from the Constitution, each act here has one version, its text as enacted, and amendments are acts of their own, so no provision is ever changed or removed in this history for those detectors to compare. Nor did the search for dead currencies, now that it no longer takes "dm" (decimetres) or the plant name "Francoa" for a currency. The search for lapsed time limits now reads "до", "не по-късно от" or "изтича на" followed by a date with the month in figures, in words or in Roman numerals, and "до края на" followed by a year; it still misses 47 phrases with a past date in the law texts: 39 with a month and year but no day ("до края на февруари 2012 г."), 4 "най-късно на" ("at the latest on") before a date, 3 "не по-късно от" before a bare year and one "до края на бюджетната 2009 г.". Not counted are 258 "до" before a bare year, mostly periods and the names of plans ("до 2020 година").
 
-*Edge cases: the 13 flags that survived the review, grouped by what they turned out to be, and what the other flags are, in [EDGE-CASES.en.md](EDGE-CASES.en.md).*
+*Edge cases: the 12 flags that survived the review and the likely drafting mistake an earlier review raised, grouped by what they turned out to be, and what the other flags are, in [EDGE-CASES.en.md](EDGE-CASES.en.md).*
 
 ## Problems found in this repository
 
@@ -36,7 +35,7 @@ A flag is a prompt to look, not legal advice, and nothing here has been tested i
 | File | What it holds |
 | --- | --- |
 | [data/flags.csv](data/flags.csv) | Every flag, one row per provision or act and issue |
-| [data/reviewed.csv](data/reviewed.csv) | The 80 flags the model reviewed, with its verdict and reason |
+| [data/reviewed.csv](data/reviewed.csv) | The 120 flags the model reviewed, with its verdict and reason |
 | [data/by_category.csv](data/by_category.csv) | The counts in the table above |
 | [tools/](tools/) | The scripts that made this run |
 
@@ -44,8 +43,8 @@ Columns: `category` and `category_bg` (the category in English and Bulgarian), `
 
 ## How it was made
 
-- **Detectors:** global-law's [vulnerabilities/scripts](https://github.com/lexifina/global-law/tree/main/vulnerabilities/scripts), run on this repository at commit `7257fc3`. The history table the detectors read was built from this repository's own commits (the author, the act that made each change, and the `In-force` and `Kind` trailers); commits of the kinds `law`, `decree`, `as-enacted`, `court` and `publisher` count as law.
-- **Model review:** gpt-5.4-mini, the 40 strongest flags per category, and for lapsed time limits also the 40 strongest in law texts (here the same 40); one pass says whether a flag is real, a second argues that it is not. Where a flag was reviewed twice, the later review is kept. global-law's own list used a different model.
+- **Detectors:** global-law's [vulnerabilities/scripts](https://github.com/lexifina/global-law/tree/main/vulnerabilities/scripts), run on this repository at commit `7257fc3`. The history table the detectors read was built from this repository's own commits (the author, the act that made each change, and the `In-force` and `Kind` trailers); commits of the kinds `law`, `decree`, `as-enacted`, `court` and `publisher` count as law. The detectors were then run again, twice, with fixes that read in time limits Bulgarian month names, months in Roman numerals, "до края на" before a year and "не по-късно от" and "изтича на" before a date, and that take "DM" only in capitals and "franco" only as a whole word.
+- **Model review:** gpt-5.4-mini, the 40 strongest flags per category, and for lapsed time limits also the 40 strongest in law texts (here the same 40); one pass says whether a flag is real, a second argues that it is not. After the first fixes the 40 strongest lapsed time limits were reviewed again, and after the second the strongest not yet reviewed, keeping the earlier reviews: 80 in all. Where a flag was reviewed twice, the later review is kept. global-law's own list used a different model.
 - **Hand check:** every case that survived was read in this repository's history and texts, with the acts it amends or repeals where the repository holds them. The open case still needs the State Gazette itself.
 
 To report a correction, open an issue with the provision and an official source.
