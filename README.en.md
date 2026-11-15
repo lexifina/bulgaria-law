@@ -87,6 +87,10 @@ See [`LICENSE`](LICENSE). Official legal texts are not subject to copyright in B
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): charts on Bulgarian law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

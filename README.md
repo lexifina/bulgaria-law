@@ -89,6 +89,10 @@ python3 tools/law.py show 2026-01-01 bulgaria/national/acts/konstitutsiya/art-12
 
 Това е превод на английската версия ([README.en.md](README.en.md)); ако двете се различават, предимство има английската версия.
 
+## Визуализации
+
+[visualisations/](visualisations/): графики за българското право, начертани от това хранилище. Засега папката само запазва мястото им; графики още няма.
+
 ## Още
 
 От хранилището [lexifina/global-law](https://github.com/lexifina/global-law) (на английски):
