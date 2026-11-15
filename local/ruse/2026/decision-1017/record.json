@@ -4,15 +4,16 @@
   "date": "2026-06-25",
   "url": "https://obs.ruse-bg.eu/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%e2%84%96-1017-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%be-%d1%81-%d0%bf%d1%80%d0%be%d1%82%d0%be%d0%ba%d0%be%d0%bb-%e2%84%96-35-25-06-2026%d0%b3/",
   "sha256": "cfe46b2829d41707862fc3e7a600948e1c36fc137a1fe360a6ed2e263165b46f",
-  "private": true,
+  "private": false,
   "images": 1,
   "date_quote": "Прието с Протокол № 35/25.06.2026",
   "record_type": "council-decision",
-  "text_status": "metadata-only-personal-decision",
+  "text_status": "metadata-only-text-pending",
   "legal_commencement": null,
   "date_basis": "Official council adoption date; separate legal commencement is not established.",
   "source_images": 1,
   "images_referenced": 0,
   "images_omitted": 0,
-  "image_scope": "metadata-only"
+  "image_scope": "text not collected; image inventory unestablished",
+  "held_reason": "Nonindividual normative/general record: source text and annexes await legal commencement and attachment analysis."
 }
