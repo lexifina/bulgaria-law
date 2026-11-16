@@ -11,7 +11,7 @@ The law of Bulgaria as a git history: one file per provision, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bulgaria's national law, which global-law reads at `bulgaria/national/acts/`.
 
-**What is in it now:** the Constitution, with 4 versions from 2008, and 17,367 acts as published in the Държавен вестник (State Gazette) from 2003 to 2026: 2,601 laws and 3 codes, 7,370 Council of Ministers decrees, 6,095 ordinances, 857 rules and 441 instructions, 8,428 of them amending acts. Each of these acts has one version, its text as enacted. [`ACTS.md`](ACTS.md) lists every act, by kind, with its status.
+**What is in it now:** the Constitution, with 4 versions from 2008; the 20 codes in `kodeks/` (each code's text is described under [What it does not show](#what-it-does-not-show)); and acts as published in the Държавен вестник (State Gazette) from 2003 to 2026: 2,778 laws, 7,538 Council of Ministers decrees, 6,168 ordinances, 967 rules, 471 instructions, 292 decisions, 63 presidential decrees and 9 other acts, 18,307 acts in all with the Constitution and the codes. Most acts have one version, their text as enacted; of the 17,368 acts of the first build listed in [`ACTS.md`](ACTS.md) with their status, 8,428 are amending acts. Case law: 54 decisions published in the State Gazette in 2026 (`caselaw/2026/`), 1,426 acts of the Върховен административен съд (Supreme Administrative Court, `caselaw/vas/`), and over 1.09 million entries from the public registers of acts of 171 courts, 2007 to 2022 (`caselaw/courts/`: the register's data with a link to the act's official file, not its text).
 
 Each act is in `<kind>/<year>/dv<issue>-<material>/`, named by its State Gazette issue and material number (`kodeks/2011/dv009-10005/` is the Изборен кодекс, the Electoral Code, ДВ бр. 9/2011); the Constitution is in `konstitutsiya/`, one file per article (`art-091-01.md` is чл. 91а). `data/paths.json` maps each act id to its folder.
 
@@ -65,21 +65,26 @@ Each act is the author of its own commit (`zakon-2025-dv095-166613@parliament.in
 
 ## What it does not show
 
-- **Consolidated texts.** Apart from the Constitution, each act is its text as enacted: amendments are acts of their own, not merged into the acts they change. 2,039 acts are labelled "amended, not consolidated" and 161 "repealed, not consolidated" (`data/acts.json`).
-- **Most codes and older law.** Of the codes, only the Кодекс на международното частно право, the Изборен кодекс and the Кодекс за застраховането are here; the Labour Code, the Penal Code and the other main codes are not. Nothing older than the State Gazette of 2003 is here, apart from the Constitution.
+- **Consolidated texts.** Apart from the Constitution and the four consolidated codes below, each act is its text as enacted: amendments are acts of their own, not merged into the acts they change. 2,039 acts are labelled "amended, not consolidated" and 161 "repealed, not consolidated" (`data/acts.json`).
+- **The full history of the codes, and older law.** The codes are in `kodeks/` (20 folders). The Наказателен кодекс (`kodeks/1968/dv026-nk/`) and the Кодекс на труда (`kodeks/1986/dv026-kt/`) are the Ministry of Justice's consolidated texts, to ДВ бр. 55/2026 and бр. 99/2026 (7 articles of the Labour Code differ between the two official copies checked); the Кодекс за социално осигуряване (`kodeks/1999/dv110-65242/`) is the National Social Security Institute's consolidated text, to ДВ бр. 68/2026; the Кодекс на търговското корабоплаване (`kodeks/1970/dv055-ktk/`) is the Maritime Administration's consolidated text, to ДВ бр. 16/2026 (only one official copy). The Наказателно-процесуален кодекс, Данъчно-осигурителен процесуален кодекс, Административнопроцесуален кодекс, Граждански процесуален кодекс, Семеен кодекс, the Кодекс за застраховането of 2005 and the Изборен кодекс of 2014 are their text as enacted, with later amending acts being added as their own commits (not yet all); the Кодекс на международното частно право, the Изборен кодекс of 2011 and the Кодекс за застраховането of 2015 are a single text as adopted; six international maritime codes (2021) are as published. The codes of 1968, 1970, 1986 and 1999 start at today's consolidated text: their original texts and their versions before 2003 are not online from an official source, and the amendments of 1989 to 2002 are not built. Apart from these codes, the Constitution, the case law and some Council of Ministers decisions of 1989 (register data only), nothing older than the State Gazette of 2003 is here.
 - **Every act of 2003 to 2026.** 4,674 acts in scope are held back because they do not read cleanly (`data/held.json`), and acts naming people (appointments, awards) are not taken. 21 acts published but not yet in force are listed in `data/pending.json` and appended on the day they take effect.
 - **Annexes printed only in the Gazette's PDF**; the version's note says so.
 - **The Constitution before 2008** (the 1991 text and the versions of 2003 to 2007), and the 2023 wording of 14 provisions the Constitutional Court ruled on in 2024: from 2023-12-25 to 2024-08-09 they read "[Източникът не дава текста, действащ на тази дата.]".
-- **Case law, local acts and EU law.**
+- **Most case law, local acts and EU law.** Case law is only what is listed above (nothing of the Върховен касационен съд, and the court registers give data on each act, not its text); the local acts are 58 documents of 14 institutions in `local/`.
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Народно събрание: приети закони](https://www.parliament.bg/bg/laws) | Laws as adopted (final text) | no: the text as adopted | 2,032 laws and 2 codes |
-| [Държавен вестник](https://dv.parliament.bg/DVWeb/) | Official gazette, official section | no: each act as printed | 15,333 acts: decrees, ordinances, rules, instructions, and laws the National Assembly's record has no text for; the Gazette day of every issue |
+| [Държавен вестник](https://dv.parliament.bg/DVWeb/) | Official gazette, official section | no: each act as printed | 15,333 acts: decrees, ordinances, rules, instructions, and laws the National Assembly's record has no text for; the Gazette day of every issue; most acts and codes added since the first build |
 | [Народно събрание: Конституция](https://www.parliament.bg/bg/const) | The consolidated Constitution | no: today's text only | A note on each changed paragraph names its Gazette issue |
 | [Internet Archive](https://web.archive.org/) | Captures of parliament.bg/bg/const | yes, as captured | The Constitution's versions of 2008 and 2015 |
+| [Министерство на правосъдието](https://mjs.bg) | Consolidated texts | no: today's text only | The Наказателен кодекс and the Кодекс на труда |
+| [Национален осигурителен институт](https://nssi.bg) | Consolidated texts | no: today's text only | The Кодекс за социално осигуряване; a cross-check of the Кодекс на труда |
+| [Изпълнителна агенция „Морска администрация“](https://www.marad.bg) | Consolidated text | no: today's text only | The Кодекс на търговското корабоплаване |
+| [Върховен административен съд](https://sac.justice.bg) | Court acts | no | 1,426 acts |
+| Courts' public registers of acts (`<court>.justice.bg`) | Register data on court acts | no | Over 1.09 million entries of 171 courts, without the acts' text |
 
 ## Licence
 
