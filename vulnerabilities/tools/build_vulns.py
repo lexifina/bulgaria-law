@@ -61,7 +61,7 @@ def pq(name):
 def ident(det, d):
     """the same key for a findings row and the row stored with its review"""
     return (det, d.get("path") or d.get("law") or "", str(d.get("in_force") or d.get("removed_on") or d.get("until") or ""),
-            str(d.get("ref") or ""), (d.get("context") or "").replace("\n", " ")[:80] if det == "lapsed_limit" else "",
+            str(d.get("ref") or ""), (d.get("context") or "").replace("\n", " ")[:400] if det == "lapsed_limit" else "",
             f'{d.get("old")}>{d.get("new")}' if det == "stale_amount" else
             f'{d.get("old_until")}>{d.get("new_until")}>{d.get("law")}>{(d.get("old_context") or "")[:80]}>{(d.get("new_context") or "")[:80]}'
             if det == "late_extension" else "")
@@ -100,7 +100,23 @@ def blob_url(path):
             for n in names.splitlines():
                 if n.strip():
                     _last.setdefault(n.strip(), parent)
-    return f"https://github.com/lexifina/{REPO}/blob/{_last[path]}/{path}" if _last.get(path) else ""
+    if not _last.get(path):  # deleted before the repository moved its act folders: look it up under its old folder (data/paths.json)
+        head, _, name = path.rpartition("/")
+        old = f"{OLD_FOLDER[head]}/{name}" if head in OLD_FOLDER else ""
+        return f"https://github.com/lexifina/{REPO}/blob/{_last[old]}/{old}" if old and _last.get(old) else ""
+    return f"https://github.com/lexifina/{REPO}/blob/{_last[path]}/{path}"
+
+
+def _old_folders():
+    """paths.json maps each act's old folder (its id) to its folder since the move; the detectors read today's folders"""
+    out = subprocess.run(["git", "-C", GIT, "show", f"{PIN}:data/paths.json"], capture_output=True)
+    if out.returncode:
+        return {}
+    p = json.loads(out.stdout.decode("utf-8")).get("paths", {})
+    return {v: k for k, v in p.items()} if isinstance(p, dict) else {}
+
+
+OLD_FOLDER = _old_folders()
 
 
 rows = []
@@ -121,9 +137,13 @@ for d in pq("ranked_repeal_gap.parquet"):
 for d in pq("ranked_same_day_conflict.parquet"):
     add("same_day_conflict", d, path=d["path"], date=str(d["in_force"]), reference="; ".join(d["laws"] or []),
         summary=f'{d["n_laws"]} acts change it on {d["in_force"]}, made {d["spread_days"]} days apart', score=round(d["score"] or 0, 3))
+# retroactive dates are per act, not per file: the path is the first file the act's commit on that day wrote,
+# so kind_of can tell notices, circulars and decisions from law
+FIRST_PATH = dict(con.sql(f"""select commit, min(path)
+    from '{os.path.join(SCR, "index", "changes", REPO + ".parquet").replace(chr(92), "/")}' group by 1""").fetchall())
 for d in pq("ranked_retroactive_date.parquet"):
     first = ROOT_COMMIT.get((d["law"], str(d["in_force"])), "") or AUTHOR_COMMIT.get(d["law"], "")
-    add("retroactive_date", d, path="", date=str(d["in_force"]), reference=d["law"],
+    add("retroactive_date", d, path=FIRST_PATH.get(first, ""), date=str(d["in_force"]), reference=d["law"],
         summary=f'in force {d["in_force"]}, {d["made_field"].lower()} {d["made"]} ({d["back_days"]} days earlier): {d.get("subject") or ""}'[:400],
         score=round(d["score"] or 0, 3), url=(COMMIT + first) if first else "")
 for d in pq("ranked_stale_amount.parquet"):

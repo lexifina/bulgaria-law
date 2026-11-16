@@ -8,6 +8,7 @@ N=${1:-6}
 R=$($P -c "import json;print(json.load(open('pins.json'))['corpora'][0]['repo'])")
 set -x
 $P ingest/extract.py && $P ingest/trailers.py
+$P map_moved.py   # repositories that moved their act folders (data/paths.json): one folder per act through its history
 $P add_root.py
 $P ingest/textscan.py --shards $R:$N
 $P ingest/refscan.py --shards $R:$N

@@ -16,6 +16,9 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Bulgarian and English, light and dark |
 | `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
 | `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder>`; `--keep-reviews` keeps every review already made and reviews only new strong flags; `EMBED_FONTS` names the script that embeds the chart's fonts) |
+| `map_moved.py` | Run after `ingest/extract.py`: in a repository that moved its act folders (`data/paths.json`), names every file by its folder since the move, so each act keeps one history (here no path needed it) |
+| `patch_detectors_vi.py`, `patch_es.py` | Later rounds of detector fixes found in the Vietnamese and Spanish runs (Vietnamese dates and references; Spanish dates, "marco" and "escudo"); they change nothing here |
+| `patch_build_r7.py` | Fixes to `build_vulns.py`: reviews matched on 400 characters of context, links to files deleted before a folder move, and each retroactive date linked to the first file of its act |
 | `config.json` | The categories in Bulgarian, the folders that are not law (`caselaw/`, `draft/`, `local/`, `data/`, `tools/`) and the chart's labels |
 
 The model review needs `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` and `LLM_AUTH` set for an OpenAI-compatible Responses API.

@@ -32,8 +32,8 @@ done, skipped = [], []
 def patch(rel, pairs):
     p = S / rel
     s = p.read_text(encoding="utf-8")
-    for name, a, b in pairs:
-        if b in s:
+    for name, a, b, *marker in pairs:
+        if b in s or (marker and marker[0] in s):  # a marker: the fix is in place even if a later insertion split it
             skipped.append(f"{rel}: {name}")
             continue
         if s.count(a) == 0:  # superseded by a later round already applied (e.g. the end-of-year forms)
@@ -117,7 +117,8 @@ patch("ingest/textscan.py", [
      'ROMAN = {r: i for i, r in enumerate("I II III IV V VI VII VIII IX X XI XII".split(), 1)}\nFILL = r"(?:the|'),
     ("parse Roman-numeral months",
      '            elif g.get("y5"):',
-     '            elif g.get("y8"):\n                y, mo, d = int(g["y8"]), ROMAN[g["m8"].upper()], int(g["d8"])\n            elif g.get("y5"):'),
+     '            elif g.get("y8"):\n                y, mo, d = int(g["y8"]), ROMAN[g["m8"].upper()], int(g["d8"])\n            elif g.get("y5"):',
+     'ROMAN[g["m8"].upper()]'),
     ("Albanian deadline word",
      r'не по-късно от|не позднее|viimeistään|legkésőbb")',
      r'не по-късно от|не позднее|viimeistään|legkésőbb|jo më vonë se")'),
@@ -148,7 +149,8 @@ patch("ingest/textscan.py", [
      'try:\n    _LANG = {"v": (lambda cs: cs[0].get("language") or "" if len(cs) == 1 else "")(pins()["corpora"])}\n'
      'except Exception:\n    _LANG = {"v": ""}\n'
      'MONTH_BY_LANG = {"listopada": {"hr": 10, "bs": 10, "sr": 10, "cnr": 10, "sh": 10}}\n'
-     'ROMAN = {r: i for i, r in enumerate('),
+     'ROMAN = {r: i for i, r in enumerate(',
+     'MONTH_BY_LANG = {"listopada"'),
     ("set the language per corpus",
      "def one(c: dict, shard: int = 0, nshards: int = 1):\n    lower_priority()\n    t0 = time.time()\n    repo = CORPUS / f\"{c['repo']}.git\"\n    D = {k: [] for k in (\"path\", \"until\", \"context\")}",
      "def one(c: dict, shard: int = 0, nshards: int = 1):\n    lower_priority()\n    _LANG[\"v\"] = (c.get(\"language\") or \"\").lower()\n    t0 = time.time()\n    repo = CORPUS / f\"{c['repo']}.git\"\n    D = {k: [] for k in (\"path\", \"until\", \"context\")}"),
@@ -236,12 +238,78 @@ patch("detectors/currency_scan.py", [
 patch("detectors/currency_scan.py", [
     ("lira with Turkish endings", r'lireta\b|liras?\b|', r'lireta\b|lira\w{0,6}|'),
 ])
+# fifth round (found by the Montenegro update): "lira" only at the start of a word, not inside "recikliranja"
+patch("detectors/currency_scan.py", [
+    ("lira at the start of a word", r'lireta\b|lira\w{0,6}|', r'lireta\b|\blira\w{0,6}|'),
+])
+# fifth round: the Turkish date-first pattern is tried only where a Turkish "until" word occurs (it is slow on long texts)
+patch("ingest/textscan.py", [
+    ("Turkish pattern only where it can match",
+     "    for m in sorted(list(LIMIT.finditer(text)) + list(LIMIT_POST.finditer(text)), key=lambda x: x.start()):",
+     "    post = list(LIMIT_POST.finditer(text)) if _POST_WORDS.search(text) else []\n"
+     "    for m in sorted(list(LIMIT.finditer(text)) + post, key=lambda x: x.start()):"),
+    ("Turkish 'until' words",
+     "ROMAN = {r: i for i, r in enumerate(",
+     "_POST_WORDS = re.compile(r\"(?i)kadar|\\bdek\\b|değin\")\nROMAN = {r: i for i, r in enumerate(",
+     "_POST_WORDS = re.compile("),
+])
+# sixth round: earlier versions of this script inserted the two blocks above again on each run (the second insertion split
+# the first one's text, so it no longer matched); keep one copy of each
+_t = (S / "ingest/textscan.py").read_text(encoding="utf-8")
+for _blk in ('# the corpus language decides the few month names that differ between languages; pins.json names it for a one-country\n'
+             '# run, and one() sets it per corpus otherwise\n'
+             'try:\n    _LANG = {"v": (lambda cs: cs[0].get("language") or "" if len(cs) == 1 else "")(pins()["corpora"])}\n'
+             'except Exception:\n    _LANG = {"v": ""}\n'
+             'MONTH_BY_LANG = {"listopada": {"hr": 10, "bs": 10, "sr": 10, "cnr": 10, "sh": 10}}\n',
+             "_POST_WORDS = re.compile(r\"(?i)kadar|\\bdek\\b|değin\")\n"):
+    while _t.count(_blk) > 1:
+        _i = _t.rindex(_blk)
+        _t = _t[:_i] + _t[_i + len(_blk):]
+        done.append("ingest/textscan.py: removed a repeated block")
+(S / "ingest/textscan.py").write_bytes(_t.encode("utf-8"))
+# sixth round (found by the Czechia update): "BEF" only in capitals (not hex checksums or URLs ending in "bef"); "lira" not
+# in "liraglutid"; no Swiss "frank"; Latvian "latu"/"lati" only as words (not inside "platu", "úplatu")
+patch("detectors/currency_scan.py", [
+    ("BEF in capitals", r'frank(en)?\b|BEF\b|',
+     r'(?<!švýcarský )(?<!švýcarských )(?<!švýcarského )(?<!švýcarskému )(?<!švýcarským )(?<!Zwitserse )frank(en)?\b(?!\s+(suisses?|CHF|švýcar))|(?-i:\bBEF\b)|'),
+    ("lira not in liraglutid", r'\blira\w{0,6}|', r'\blira(?!glutid)\w{0,6}|'),
+    ("Latvian lats as a word", r'litų|latu|lati|', r'litų|\blat[uůi]\b|'),
+])
 # fifth round: the model reviews "the strongest N" per category; many flags tie on score, so ties are broken by a hash of
 # the row, and the same flags are chosen whatever order the scan wrote them in
 patch("triage/triage.py", [
     ("deterministic tie-break",
      "row_number() over (partition by corpus order by score desc) rn\n                         from '{p.as_posix()}')",
      "row_number() over (partition by corpus order by score desc, md5(cast(x as varchar))) rn\n                         from '{p.as_posix()}' x)"),
+])
+# eighth round (found by the France run): francs CFP are still the currency of New Caledonia, French Polynesia and Wallis
+# and Futuna; in French "lire" is the verb "to read" ("lire 2 000" in amending formulas) and "sucre" is sugar
+patch("detectors/currency_scan.py", [
+    ("francs CFP are current", "francs?\\b(?!\\s+(suisses?|CFA|", "francs?\\b(?!\\s+(suisses?|CFA|CFP|"),
+    ("words that are not currencies in the corpus language",
+     'PAT = rf"{NUM}\\s*{CUR}|{CUR}\\s*{NUM}"\n',
+     'PAT = rf"{NUM}\\s*{CUR}|{CUR}\\s*{NUM}"\n'
+     '# a word that is a currency in one language is something else in another (French "lire" = to read, "sucre" = sugar)\n'
+     'NOT_CURRENCY = {"fr": (r"lire\\b|", r"sucres?\\b|")}\n\n\n'
+     'def pat_for(c):\n'
+     '    cur = CUR\n'
+     '    for w in NOT_CURRENCY.get((c.get("language") or "").lower(), ()):\n'
+     '        cur = cur.replace(w, "")\n'
+     '    return rf"{NUM}\\s*{cur}|{cur}\\s*{NUM}"\n',
+     'def pat_for(c):'),  # round 10 edits NOT_CURRENCY, so the marker, not the text, says this is in place
+    ("use the corpus's pattern",
+     '"-I", "-n", "-i", "-P", PAT, c["sha"]', '"-I", "-n", "-i", "-P", pat_for(c), c["sha"]'),
+])
+# tenth round (found by the Algeria run): the dinar is a current currency in Algeria, Tunisia and Serbia (only the Yugoslav,
+# Croatian and Bosnian dinars are gone); French "abrogations" (a noun) is not a repeal marker
+patch("detectors/currency_scan.py", [
+    ("current dinars",
+     'NOT_CURRENCY = {"fr": (r"lire\\b|", r"sucres?\\b|")}',
+     'NOT_CURRENCY = {"fr": (r"lire\\b|", r"sucres?\\b|", r"|dinara?"), "ar": (r"|dinara?",), "sr": (r"|dinara?",)}',
+     '"ar": (r"|dinara?",)'),
+])
+patch("detectors/placeholder_ref.py", [
+    ("abrogations is a noun", r"nevalid\w*|abrogat\w*|", r"nevalid\w*|abrogat(?!ions?\b)\w*|"),
 ])
 print("applied:", len(done)); [print("  +", d) for d in done]
 print("already there:", len(skipped))
