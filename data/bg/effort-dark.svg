@@ -79,8 +79,8 @@
 <text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">неприложимо</text>
 <text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Основни кодекси</text>
 <text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">дял на основните кодекси</text>
-<g><title>Основни кодекси: 0%</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/></g>
-<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">0%</text>
+<g><title>Основни кодекси: 100% (4 от 4 като действащи консолидирани текстове: Наказателният кодекс, Наказателно-процесуалният кодекс, Гражданският процесуален кодекс и Законът за задълженията и договорите)</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100%</text>
 <text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Съдебна практика</text>
 <text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">обхванати върховни съдилища</text>
 <g><title>Съдебна практика: 0%</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/></g>
