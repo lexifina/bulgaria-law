@@ -4,15 +4,16 @@
   "date": "2026-09-17",
   "url": "https://obs.ruse-bg.eu/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%e2%84%96-1068-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%be-%d1%81-%d0%bf%d1%80%d0%be%d1%82%d0%be%d0%ba%d0%be%d0%bb-%e2%84%96-37-17-09-2026%d0%b3/",
   "sha256": "acfecc3a6a02d5c2aac89ba24c418409b0c6510c192f1cdb5c3ca7cdf2d9249a",
-  "private": true,
+  "private": false,
   "images": 1,
   "date_quote": "Прието с Протокол № 37/17.09.2026",
   "record_type": "council-decision",
-  "text_status": "metadata-only-personal-decision",
+  "text_status": "metadata-only-text-pending",
   "legal_commencement": null,
   "date_basis": "Official council adoption date; separate legal commencement is not established.",
   "source_images": 1,
   "images_referenced": 0,
   "images_omitted": 0,
-  "image_scope": "metadata-only"
+  "image_scope": "Full text and source image/attachment review pending; no privacy omission asserted.",
+  "held_reason": "General public municipal act. Legal commencement and operative attachments/images require review before full-text publication."
 }
