@@ -94,7 +94,13 @@ No AI model wrote or changed legal text; the scripts were written by an AI model
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): charts on Bulgarian law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+[visualisations/](visualisations/): Bulgarian law in 20 charts, drawn from this repository.
+
+Including:
+
+- How many laws each National Assembly passes, the legislative calendar and when the State Budget takes effect
+- How laws are amended through other laws, the most-amended laws and codes, and the Constitution
+- Government decrees, the State Gazette, EU law in Bulgarian laws, ratified treaties and the euro
 
 ## More
 
